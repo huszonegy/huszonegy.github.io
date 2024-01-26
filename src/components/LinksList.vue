@@ -9,7 +9,7 @@ import { links } from '../data/links'
 <template>
     <div name="links-list" class="container-flex py-3">
         <div class="row row-cols-2">
-            <div v-for="link in links " class="card mx-2 my-2" style="width: 18rem;">
+            <div v-for="link in links" class="card mx-2 my-2" style="width: 18rem;">
                 <!-- <img class="card-img-top" src="..." alt="Card image cap"> -->
                 <div class="card-body">
                     <h5 class="card-title">{{ link.name }}</h5>
