@@ -7,6 +7,7 @@ vite, bootrstrap, vue
 Prereq: node, npm
 
 ```
+npm install
 npm run build
 ```
 
