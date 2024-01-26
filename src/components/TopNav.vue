@@ -28,7 +28,7 @@
                     <li class="nav-item">
                         <a class="nav-link disabled" href="#">Könyvek</a>
                     </li>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <a class="nav-link disabled" href="#">Projektek</a>
                     </li>
                     <li class="nav-item">
@@ -45,6 +45,9 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link disabled" href="#">Galéria</a>
+                    </li> -->
+                    <li class="nav-item">
+                        <a class="nav-link disabled" href="#">...</a>
                     </li>
                 </ul>
             </div>
