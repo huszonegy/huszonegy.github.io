@@ -7,6 +7,7 @@ import { links } from '../data/links'
 </script>
 
 <template>
+    <div class="fs-3 py-1">Néhány hasznos link</div>
     <div name="links-list" class="container-flex py-3">
         <div class="row row-cols-2">
             <div v-for="link in links" class="card mx-2 my-2" style="width: 18rem;">
