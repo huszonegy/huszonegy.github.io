@@ -1,3 +1,7 @@
+// Data for Links
+// - footer: optional, true for links included in common footer
+// - show: optional, if present, this is show, not the link itself
+
 export const links = [
     {
         name: "Telegram csoport",
