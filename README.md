@@ -19,7 +19,6 @@ https://getbootstrap.com/docs
 
 ## TODO
 
-- favico
 - logo, egysoros
 - whitepaper - HU, EN
 - donations address
