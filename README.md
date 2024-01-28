@@ -22,5 +22,6 @@ https://getbootstrap.com/docs
 - favico
 - logo, egysoros
 - whitepaper - HU, EN
+- donations address
 - könyvek - HU
 - podcasts - HU, EN
