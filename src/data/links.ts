@@ -10,6 +10,13 @@ export const links = [
         link: "t.me/huszonegy"
     },
     {
+        name: "Bitcoin.org",
+        footer: true,
+        text: "Az egyik legrégebbi bitcoin gyűjtőoldal",
+        link: "bitcoin.org/hu",
+        show: "bitcoin.org"
+    },
+    {
         name: "Mempool",
         footer: true,
         text: "Minden fontos aktuális adat a Bitcoin hálózatról; blokklánc explorer",
