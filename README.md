@@ -21,6 +21,5 @@ https://getbootstrap.com/docs
 
 - logo, egysoros
 - könyvek - HU
-- podcasts - HU, EN
 - backlink from twentyone.world
 - donations address

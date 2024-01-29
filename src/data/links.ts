@@ -1,4 +1,5 @@
 // Data for Links
+// - link: link, without starting 'https://' and trailing '/'
 // - footer: optional, true for links included in common footer
 // - show: optional, if present, this is show, not the link itself
 
