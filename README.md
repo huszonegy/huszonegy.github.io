@@ -20,7 +20,7 @@ https://getbootstrap.com/docs
 ## TODO
 
 - logo, egysoros
-- whitepaper - HU, EN
-- donations address
 - könyvek - HU
 - podcasts - HU, EN
+- backlink from twentyone.world
+- donations address

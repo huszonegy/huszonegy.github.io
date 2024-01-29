@@ -19,6 +19,20 @@
                     <li class="nav-item">
                         <a class="nav-link" href="/links">Linkek</a>
                     </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                            aria-expanded="false">
+                            Whitepaper
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="/files/bitcoin_tanulmany.pdf" target="_blank">
+                                    Bitcoin tanulmány (HU)
+                                </a></li>
+                            <li><a class="dropdown-item" href="/files/bitcoin.pdf" target="_blank">
+                                    Bitcoin whitepaper (eredeti, EN)
+                                </a></li>
+                        </ul>
+                    </li>
                     <li class="nav-item">
                         <a class="nav-link disabled" href="#">Hírek</a>
                     </li>
