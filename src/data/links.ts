@@ -1,4 +1,5 @@
 // Data for Links
+// - link: link, without starting 'https://' and trailing '/'
 // - footer: optional, true for links included in common footer
 // - show: optional, if present, this is show, not the link itself
 
@@ -8,6 +9,13 @@ export const links = [
         footer: true,
         text: "Huszonegy csoport a Telegramon",
         link: "t.me/huszonegy"
+    },
+    {
+        name: "Bitcoin.org",
+        footer: true,
+        text: "Az egyik legrégebbi bitcoin gyűjtőoldal",
+        link: "bitcoin.org/hu",
+        show: "bitcoin.org"
     },
     {
         name: "Mempool",
