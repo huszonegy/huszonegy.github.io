@@ -17,7 +17,15 @@ import { links } from '../data/links'
                 </ul>
             </div>
             <div class="col col-2 d-inline-flex align-items-center justify-content-end">
-                <div class="text-end fs-6 text-secondary">©️ 2024 | CC0-1.0 | v0.1</div>
+                <div class="text-end fs-6 text-secondary">
+                    ©️ 2024 | CC0-1.0 | v0.1
+                </div>
+                <!-- Github link, logo; note that it is white icon -->
+                <div class="" style="padding: 5px; background-color: var(--bs-dark);">
+                    <a href="https://github.com/huszonegy/huszonegy-web-farsang" target="_blank">
+                        <img src="@/assets/logo/github-mark-white.svg" width="20" height="20" />
+                    </a>
+                </div>
             </div>
         </div>
     </div>
