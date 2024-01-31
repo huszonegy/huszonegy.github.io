@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { podcasts } from '../data/podcasts'
+import { link_simplified } from '../utils'
 
 // defineProps<{
 //     msg: string
@@ -17,7 +18,7 @@ import { podcasts } from '../data/podcasts'
                     <h5 class="card-title">{{ pod.name }}</h5>
                     <p class="card-text" v-html="pod.text" />
                     <a :href="pod.link" target="_blank" class="link">
-                        {{ pod.link }}
+                        {{ link_simplified(pod.link) }}
                     </a>
                 </div>
             </div>
@@ -32,7 +33,7 @@ import { podcasts } from '../data/podcasts'
                     <h5 class="card-title">{{ pod.name }}</h5>
                     <p class="card-text" v-html="pod.text" />
                     <a :href="pod.link" target="_blank" class="link">
-                        {{ pod.link }}
+                        {{ link_simplified(pod.link) }}
                     </a>
                 </div>
             </div>

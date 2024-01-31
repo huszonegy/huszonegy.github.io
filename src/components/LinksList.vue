@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { links } from '../data/links'
+import { link_simplified } from '../utils'
 
 // defineProps<{
 //     msg: string
@@ -15,8 +16,8 @@ import { links } from '../data/links'
                 <div class="card-body">
                     <h5 class="card-title">{{ link.name }}</h5>
                     <p class="card-text" v-html="link.text" />
-                    <a :href='"https://" + link.link + "/"' target="_blank" class="link">
-                        {{ link.show || link.link }}
+                    <a :href="link.link" target="_blank" class="link">
+                        {{ link.show || link_simplified(link.link) }}
                     </a>
                 </div>
             </div>
