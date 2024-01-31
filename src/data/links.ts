@@ -43,6 +43,11 @@ export const links = [
         link: "www.dvadsatjeden.org"
     },
     {
+        name: "DIY Nodes",
+        text: "Bitcoin node és egyéb DIY hardver webshop",
+        link: "diynodes.com"
+    },
+    {
         name: "BitcoinBázis shop",
         text: "Hazai webshop bitcoin termékekkel, bitcoinért",
         link: "shop.bitcoinbazis.hu"
