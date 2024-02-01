@@ -8,39 +8,45 @@ export const links = [
         name: "Telegram csoport",
         footer: true,
         text: "Huszonegy csoport a Telegramon",
-        link: "https://t.me/huszonegy/"
+        link: "https://t.me/huszonegy/",
+        logo: "src/assets/logo/he-logo-tgram-1-256x64.png"
     },
     {
         name: "Bitcoin.org",
         footer: true,
         text: "Az egyik legrégebbi bitcoin gyűjtőoldal",
         link: "https://bitcoin.org/hu/",
-        show: "bitcoin.org"
+        show: "bitcoin.org",
+        logo: "src/assets/logo/bitcoin-org-200x64.png"
     },
     {
         name: "Mempool",
         footer: true,
         text: "Minden fontos aktuális adat a Bitcoin hálózatról; blokklánc explorer",
         link: "https://mempool.space/hu/",
-        show: "mempool.space"
+        show: "mempool.space",
+        logo: "src/assets/logo/mempool-200x64.png"
     },
     {
         name: "TwentyOne.World (EN)",
         footer: true,
         text: "Globális TwentyOne gyűjtőoldal",
-        link: "https://twentyone.world/"
+        link: "https://twentyone.world/",
+        logo: "src/assets/logo/twentyone-272x64.png"
     },
     {
         name: "Einundzwanzig (DE)",
         footer: true,
         text: "Német nyelvű bitcoin közösség",
-        link: "https://einundzwanzig.space/"
+        link: "https://einundzwanzig.space/",
+        logo: "src/assets/logo/einundzwanzig-300x64.png"
     },
     {
         name: "Dvadsatjeden (SK)",
         footer: true,
         text: "Szlovák bitcoin közösség",
-        link: "https://www.dvadsatjeden.org/"
+        link: "https://www.dvadsatjeden.org/",
+        logo: "src/assets/logo/dvadsatjeden-250x64.png"
     },
     {
         name: "DIY Nodes",

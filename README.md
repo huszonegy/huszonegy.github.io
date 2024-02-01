@@ -29,7 +29,6 @@ https://vuejs.org/
 
 ## TODO
 
-- logo, egysoros
 - könyvek - HU
 - backlink from twentyone.world
 - meta tags, search friendly
