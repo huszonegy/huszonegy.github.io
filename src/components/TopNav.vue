@@ -5,7 +5,7 @@
     <nav class="navbar navbar-expand-lg bg-body-tertiary justify-content-center">
         <div class="container-fluid">
             <a class="navbar-brand" href="/">
-                <img src="@/assets/logo/he-logo-1-640x640.jpeg" alt="Huszonegy" width="40" height="40">
+                <img src="@/assets/logo/he-logo-oneline-1-200x64.png" alt="Huszonegy" height="32">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -20,7 +20,7 @@
                         <a class="nav-link" href="/links">Linkek</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/podcasts">Podcastok</a>
+                        <a class="nav-link" href="/podcasts">Podcast</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"

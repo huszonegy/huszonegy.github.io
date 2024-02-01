@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { links } from '../data/links'
+import { link_simplified } from '../utils'
 
 // defineProps<{
 //     msg: string
@@ -11,12 +12,15 @@ import { links } from '../data/links'
     <div name="links-list" class="container-flex py-3">
         <div class="row row-cols-2">
             <div v-for="link in links" class="card mx-2 my-2" style="width: 16rem;">
-                <!-- <img class="card-img-top" src="..." alt="Card image cap"> -->
+
+                <div class="d-flex align-items-end" style="min-height: 80px;">
+                    <img v-if="link.logo" class="card-img-top" :src="link.logo" alt="Logo" />
+                </div>
                 <div class="card-body">
                     <h5 class="card-title">{{ link.name }}</h5>
                     <p class="card-text" v-html="link.text" />
-                    <a :href='"https://" + link.link + "/"' target="_blank" class="link">
-                        {{ link.show || link.link }}
+                    <a :href="link.link" target="_blank" class="link">
+                        {{ link.show || link_simplified(link.link) }}
                     </a>
                 </div>
             </div>
