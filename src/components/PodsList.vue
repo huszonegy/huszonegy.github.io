@@ -8,8 +8,8 @@ import { link_simplified } from '../utils'
 </script>
 
 <template>
-    <div class="fs-3 py-1">Pár Podcast:</div>
-    <div class="fs-4 py-1">magyarul:</div>
+    <div class="fs-3 py-1">Pár Podcast</div>
+    <div class="fs-4 py-1">magyarul</div>
     <div name="links-list" class="container-flex py-3">
         <div class="row row-cols-2">
             <div v-for="pod in podcasts.filter((p) => p.lang === 'hu')" class="card mx-2 my-2" style="width: 20rem;">
@@ -24,7 +24,7 @@ import { link_simplified } from '../utils'
             </div>
         </div>
     </div>
-    <div class="fs-4 py-1">nem magyarul (leginkább angolul):</div>
+    <div class="fs-4 py-1">nem magyarul (leginkább angolul)</div>
     <div name="links-list" class="container-flex py-3">
         <div class="row row-cols-2">
             <div v-for="pod in podcasts.filter((p) => p.lang !== 'hu')" class="card mx-2 my-2" style="width: 20rem;">

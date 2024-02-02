@@ -17,6 +17,9 @@
                         <a class="nav-link" href="https://t.me/huszonegy" target="_blank">Fórum</a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" href="/articles">Cikkek</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="/links">Linkek</a>
                     </li>
                     <li class="nav-item">
@@ -38,9 +41,6 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link disabled" href="#">Hírek</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link disabled" href="#">Cikkek</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link disabled" href="#">Könyvek</a>

@@ -1,2 +1,23 @@
 // Import all of Bootstrap's CSS
 @import "bootstrap/scss/bootstrap";
+
+.article-banner {
+    background-color: white;
+    width: 200px;
+    height: 120px;
+    margin: 20px auto 0;
+}
+
+.center {
+    text-align: center;
+    margin: auto;
+}
+
+h5 a {
+    text-decoration: none;
+    color: orange;
+}
+
+h5 a:hover {
+    text-decoration: underline;
+}
