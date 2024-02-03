@@ -1,6 +1,18 @@
 // Import all of Bootstrap's CSS
 @import "bootstrap/scss/bootstrap";
 
+main {
+    padding-top: 20px;
+}
+
+.navbar-brand {
+    background-color: white;
+}
+
+.nav-item {
+    padding: 0 10px;
+}
+
 .article-banner {
     width: 200px;
     height: 120px;
@@ -19,4 +31,8 @@ h5 a {
 
 h5 a:hover {
     text-decoration: underline;
+}
+
+.footer {
+    margin-top: 20px;
 }
