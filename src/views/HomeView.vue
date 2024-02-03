@@ -5,15 +5,15 @@
 <template>
   <main>
     <div name="main-inner" class="container">
-      <div class="container-sm py-4 px-3 mx-auto text-center" style="min-height: 400px;">
-        <div class="px-5 py-5">
+      <div class="container-sm py-3 px-3 mx-auto text-center" style="min-height: 400px;">
+        <div class="px-3 py-3">
           <img src="@/assets/logo/he-logo-1-640x640.jpeg" class="img-fluid" alt="Huszonegy" width="300" height="300">
         </div>
-        <h1>csak bitcoinról, magyarul</h1>
+        <h1 class="px-3 py-3">csak bitcoinról, magyarul</h1>
       </div>
 
       <div name="main-inner container">
-        <div class="container justify-content-center py-4 px-3 my-3" style="background-color: var(--bs-body-bg);">
+        <div class="container justify-content-center py-4 px-4 my-3" style="background-color: var(--bs-body-bg);">
           <h2>2023: a huszonegy éve</h2>
           <p>
             2023 nyarán létrejött a Huszonegy

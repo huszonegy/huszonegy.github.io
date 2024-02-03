@@ -24,15 +24,40 @@ main {
     margin: auto;
 }
 
-h5 a {
+.card {
+    padding-bottom: 10px;
+}
+
+a {
     text-decoration: none;
     color: orange;
 }
 
-h5 a:hover {
+a:hover {
     text-decoration: underline;
 }
 
 .footer {
     margin-top: 20px;
+    font-size: 0.95em;
+}
+
+.footer small {
+    font-size: 0.75em;
+}
+
+@media (max-width: 992px) {
+    .navbar-collapse {
+        margin-top: 15px;
+    }
+
+    .navbar-nav {
+        margin-left: 10px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .centerpage[data-v-7a7a37b1] {
+        min-height: 81.2vh;
+    }
 }
