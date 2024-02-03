@@ -22,6 +22,14 @@ export const articles = [
         link: "https://europeanbitcoiners.com/honnan-jon-a-bitcoin/",
         img: "/src/assets/article/honnan-jon-a-bitcoin.png"
     }
-
 ]
+
+// Get the articles, optionally only the last N
+export function get_articles(max_count: number) {
+    var n = articles.length;
+    if (max_count == 0 || max_count >= n) {
+        return articles;
+    }
+    return articles.splice(n - max_count, n);
+}
 

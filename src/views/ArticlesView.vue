@@ -4,7 +4,8 @@ import ArticlesList from '../components/ArticlesList.vue'
 
 <template>
     <main>
-        <ArticlesList />
+        <div class="fs-3 py-1">Hasznos cikkek</div>
+        <ArticlesList :max_count=0 />
     </main>
 </template>
 
