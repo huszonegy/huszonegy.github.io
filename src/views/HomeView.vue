@@ -27,7 +27,7 @@
             volt pár személyes találkozó, és sok ötlet született.
           </p>
           <p>
-            Csatlakozz Te is! Nézz körül, kérdezz, javasolj!
+            Csatlakozz Te is! Nézz körül, kérdezz, javasolj!<br />
             <a href="https://t.me/huszonegy" target="_blank">t.me/huszonegy</a>
           </p>
         </div>
