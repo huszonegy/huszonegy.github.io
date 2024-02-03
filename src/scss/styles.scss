@@ -3,6 +3,8 @@
 
 main {
     padding-top: 20px;
+    padding-bottom: 20px;
+    margin: auto;
 }
 
 .navbar-brand {
@@ -37,13 +39,21 @@ a:hover {
     text-decoration: underline;
 }
 
+.nav-link:hover {
+    text-decoration: none;
+    color: white;
+}
+
 .footer {
-    margin-top: 20px;
     font-size: 0.95em;
 }
 
 .footer small {
     font-size: 0.75em;
+}
+
+h2 {
+    margin-bottom: 20px;
 }
 
 @media (max-width: 992px) {
@@ -56,8 +66,10 @@ a:hover {
     }
 }
 
+/*
 @media (min-width: 1024px) {
-    .centerpage[data-v-7a7a37b1] {
-        min-height: 81.2vh;
+    .centerpage {
+        min-height: 83.3vh !important;
     }
 }
+*/
