@@ -1,5 +1,7 @@
 <script setup lang="ts">
-// import TheWelcome from '../components/TheWelcome.vue'
+import ForumShort from '../components/ForumShort.vue'
+import ForumExplain from '../components/ForumExplain.vue'
+import ArticlesList from '../components/ArticlesList.vue'
 </script>
 
 <template>
@@ -12,26 +14,11 @@
         <h1 class="px-3 py-3">csak bitcoinról, magyarul</h1>
       </div>
 
-      <div name="main-inner container">
-        <div class="container justify-content-center py-4 px-4 my-3" style="background-color: var(--bs-body-bg);">
-          <h2>2023: a huszonegy éve</h2>
-          <p>
-            2023 nyarán létrejött a Huszonegy
-            <a href="https://t.me/huszonegy" target="_blank">telegram csoport</a>,
-            azzal a céllal, hogy találkozópontja legyen a magyar
-            bitcoin közösségnek,
-            és segítsen hírét vinni a bitcoinnak a vidékünkön, a
-            <a href="https://twentyone.world/" target="_blank">twentyone.world</a>
-            szellemében.
-            Az év során összegyűlt egy lelkes csapat,
-            volt pár személyes találkozó, és sok ötlet született.
-          </p>
-          <p>
-            Csatlakozz Te is! Nézz körül, kérdezz, javasolj!<br />
-            <a href="https://t.me/huszonegy" target="_blank">t.me/huszonegy</a>
-          </p>
-        </div>
-      </div>
+      <ForumShort />
+      <!-- <ForumExplain/> -->
+
+      <div class="fs-3 py-1"><a href="/articles">Cikkek</a></div>
+      <ArticlesList :max_count=4 />
     </div>
   </main>
 </template>

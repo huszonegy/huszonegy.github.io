@@ -3,7 +3,6 @@ import { RouterLink, RouterView } from 'vue-router'
 
 import Footer from './components/Footer.vue'
 import TopNav from './components/TopNav.vue'
-import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
@@ -27,6 +26,7 @@ import HelloWorld from './components/HelloWorld.vue'
 @media (min-width: 1024px) {
   .centerpage {
     min-height: 85vh;
+    min-width: 85%;
     display: flex;
   }
 }

@@ -1,17 +1,17 @@
 <script setup lang="ts">
-import { articles } from '../data/articles'
+import { get_articles } from '../data/articles'
 import { link_simplified } from '../utils'
 
-// defineProps<{
-//     msg: string
-// }>()
+// show the last N elements, 0 means all
+defineProps<{
+    max_count: number
+}>()
 </script>
 
 <template>
-    <div class="fs-3 py-1">Hasznos cikkek</div>
     <div name="links-list" class="container-flex py-3">
         <div class="row row-cols-2">
-            <div v-for="article in articles" class="card mx-2 my-2" style="width: 16rem;">
+            <div v-for="article in get_articles(max_count)" class="card mx-2 my-2" style="width: 16rem;">
 
                 <div class="d-flex align-items-end article-banner" style="min-height: 80px;">
                     <a :href="article.link" class="link">
