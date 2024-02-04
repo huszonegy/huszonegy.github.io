@@ -12,12 +12,11 @@ export const links = [
         logo: "src/assets/logo/he-logo-tgram-1-200x64.png"
     },
     {
-        name: "Bitcoin.org",
+        name: "TwentyOne.World (EN)",
         footer: true,
-        text: "Az egyik legrégebbi bitcoin gyűjtőoldal",
-        link: "https://bitcoin.org/hu/",
-        show: "bitcoin.org",
-        logo: "src/assets/logo/bitcoin-org-200x64.png"
+        text: "Globális TwentyOne gyűjtőoldal",
+        link: "https://twentyone.world/",
+        logo: "src/assets/logo/twentyone-200x64.png"
     },
     {
         name: "Mempool",
@@ -28,25 +27,12 @@ export const links = [
         logo: "src/assets/logo/mempool-200x64.png"
     },
     {
-        name: "TwentyOne.World (EN)",
+        name: "Bitcoin.org",
         footer: true,
-        text: "Globális TwentyOne gyűjtőoldal",
-        link: "https://twentyone.world/",
-        logo: "src/assets/logo/twentyone-200x64.png"
-    },
-    {
-        name: "Einundzwanzig (DE)",
-        footer: true,
-        text: "Német nyelvű bitcoin közösség",
-        link: "https://einundzwanzig.space/",
-        logo: "src/assets/logo/einundzwanzig-200x64.png"
-    },
-    {
-        name: "Dvadsatjeden (SK)",
-        footer: true,
-        text: "Szlovák bitcoin közösség",
-        link: "https://www.dvadsatjeden.org/",
-        logo: "src/assets/logo/dvadsatjeden-200x64.png"
+        text: "Az egyik legrégebbi bitcoin gyűjtőoldal",
+        link: "https://bitcoin.org/hu/",
+        show: "bitcoin.org",
+        logo: "src/assets/logo/bitcoin-org-200x64.png"
     },
     {
         name: "European Bitcoiners",
@@ -54,6 +40,18 @@ export const links = [
         text: "Európai bitcoin közösség",
         link: "https://europeanbitcoiners.com/",
         logo: "src/assets/logo/european-bitcoiners-200x64.png"
+    },
+    {
+        name: "Einundzwanzig (DE)",
+        text: "Német nyelvű bitcoin közösség",
+        link: "https://einundzwanzig.space/",
+        logo: "src/assets/logo/einundzwanzig-200x64.png"
+    },
+    {
+        name: "Dvadsatjeden (SK)",
+        text: "Szlovák bitcoin közösség",
+        link: "https://www.dvadsatjeden.org/",
+        logo: "src/assets/logo/dvadsatjeden-200x64.png"
     },
     {
         name: "DIY Nodes",
@@ -67,4 +65,7 @@ export const links = [
     }
 ]
 
-
+/// Return links, filtered for footer==true
+export function get_links_filter() {
+    return links.filter(l => l.footer);
+}
