@@ -2,6 +2,7 @@
 import ForumShort from '../components/ForumShort.vue'
 import ForumExplain from '../components/ForumExplain.vue'
 import ArticlesList from '../components/ArticlesList.vue'
+import NewsList from '../components/NewsList.vue'
 </script>
 
 <template>
@@ -16,6 +17,9 @@ import ArticlesList from '../components/ArticlesList.vue'
 
       <ForumShort />
       <!-- <ForumExplain/> -->
+
+      <div class="fs-3 py-1"><a href="/news">Hírek</a></div>
+      <NewsList :max_count=2 />
 
       <div class="fs-3 py-1"><a href="/articles">Cikkek</a></div>
       <ArticlesList :max_count=4 />

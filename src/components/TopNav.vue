@@ -17,7 +17,7 @@
                         <a class="nav-link" href="/forum">Fórum</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link disabled" href="/news">Hírek</a>
+                        <a class="nav-link" href="/news">Hírek</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/articles">Cikkek</a>
