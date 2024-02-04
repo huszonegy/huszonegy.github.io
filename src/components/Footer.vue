@@ -33,7 +33,7 @@ import { get_links_filter } from '../data/links'
                 </div>
                 <!-- Github link, logo; note that it is white icon -->
                 <div class="" style="padding: 5px; background-color: var(--bs-dark);">
-                    <a href="https://github.com/huszonegy/huszonegy-web-farsang" target="_blank">
+                    <a href="https://github.com/huszonegy/huszonegy.github.io" target="_blank">
                         <img src="@/assets/logo/github-mark-white.svg" width="16" height="16" />
                     </a>
                 </div>

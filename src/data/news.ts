@@ -1,4 +1,5 @@
 // Data for News
+// Referenced img's must be under public (static)
 
 // Add latest items to the top
 

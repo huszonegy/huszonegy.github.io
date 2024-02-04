@@ -8,7 +8,7 @@
         <h1 class="px-3 py-3">Támogasd tevékenységünket!</h1>
         <p><b>Lightning Network cím:</b><br />huszonegy@blink.sv</p>
         <div class="px-3 py-3">
-          <img src="@/assets/pics/huszonegy-qr.jpg" class="img-fluid" alt="qr kód" width="300" height="300">
+          <img src="/pics/huszonegy-qr.jpg" class="img-fluid" alt="qr kód" width="300" height="300">
         </div>
       </div>
 
