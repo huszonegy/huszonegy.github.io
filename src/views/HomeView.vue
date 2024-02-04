@@ -22,7 +22,7 @@ import NewsList from '../components/NewsList.vue'
       <NewsList :max_count=2 />
 
       <div class="fs-3 py-1"><a href="/articles">Cikkek</a></div>
-      <ArticlesList :max_count=3 />
+      <ArticlesList :max_count=4 />
     </div>
   </main>
 </template>
