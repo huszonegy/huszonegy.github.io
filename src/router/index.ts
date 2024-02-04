@@ -5,6 +5,7 @@ import ArticlesView from '../views/ArticlesView.vue'
 import LinksView from '../views/LinksView.vue'
 import PodsView from '../views/PodsView.vue'
 import SupportView from '../views/SupportView.vue'
+import NewsView from '../views/NewsView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -28,6 +29,11 @@ const router = createRouter({
       path: '/links',
       name: 'links',
       component: LinksView
+    },
+    {
+      path: '/news',
+      name: 'news',
+      component: NewsView
     },
     {
       path: '/podcasts',
