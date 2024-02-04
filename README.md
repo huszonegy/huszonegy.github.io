@@ -43,5 +43,4 @@ https://vuejs.org/
 - könyvek - HU
 - backlink from twentyone.world
 - meta tags, search friendly
-- donations address
 - light color mode
