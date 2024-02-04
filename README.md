@@ -38,6 +38,12 @@ Docs:
 https://getbootstrap.com/docs
 https://vuejs.org/
 
+Notes:
+
+Vue single-page-application routing does not work well with Github pages, see https://learnvue.co/articles/deploy-vue-to-github-pages .
+As a workaround, index.html is simply duplicated to 404.html
+
+
 ## Contribute
 
 - For items that are stored in data files, like links, adding should be straightforward. Watch out for commas!
