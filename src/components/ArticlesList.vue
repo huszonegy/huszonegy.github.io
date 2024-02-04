@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { get_articles } from '../data/articles'
-import { link_simplified } from '../utils'
 
 // show the last N elements, 0 means all
 defineProps<{
@@ -11,16 +10,16 @@ defineProps<{
 <template>
     <div name="links-list" class="container-flex py-3">
         <div class="row row-cols-2">
-            <div v-for="article in get_articles(max_count)" class="card mx-2 my-2" style="width: 16rem;">
+            <div v-for="article in get_articles(max_count)" class="card mx-2 my-2" style="width: 20rem;">
 
                 <div class="d-flex align-items-end article-banner" style="min-height: 80px;">
-                    <a :href="article.link" class="link">
+                    <a :href="article.link" target="_blank" class="link">
                         <img v-if="article.img" class="card-img-top center" :src="article.img" alt="image" />
                     </a>
                 </div>
                 <div class="card-body">
                     <h5 class="card-title">
-                        <a :href="article.link" class="link">
+                        <a :href="article.link" target="_blank" class="link">
                             {{ article.name }}
                         </a>
                     </h5>

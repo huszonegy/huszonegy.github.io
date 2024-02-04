@@ -17,6 +17,9 @@
                         <a class="nav-link" href="/forum">Fórum</a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link disabled" href="/news">Hírek</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="/articles">Cikkek</a>
                     </li>
                     <li class="nav-item">
@@ -38,9 +41,6 @@
                                     Bitcoin whitepaper (eredeti, EN)
                                 </a></li>
                         </ul>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link disabled" href="#">Hírek</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link disabled" href="#">Könyvek</a>
