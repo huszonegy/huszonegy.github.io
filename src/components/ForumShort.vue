@@ -6,7 +6,7 @@
         <div class="row justify-content-start py-4 px-4 my-3">
             <div class="col col-auto">
                 <a href="https://t.me/huszonegy" target="_blank">
-                    <img src="@/assets/logo/he-logo-tgram-1-200x64.png" />
+                    <img src="/logo/he-logo-tgram-1-200x64.png" />
                 </a>
             </div>
             <div class="col-auto justify-content-center ">

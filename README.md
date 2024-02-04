@@ -10,20 +10,27 @@ Tech: vite, bootrstrap, vue
 
 ## Usage
 
-Prereq: node, npm
+0. Prereq: node, npm
 
 ```
 npm install
 ```
 
-Build for deploy:
-```
-npm run build
-```
-
-Run for local development setup:
+1. Run for local development setup:
 ```
 npm run dev
+```
+Open http://localhost:5137
+
+2. Check production version locally:
+```
+npm run build && npm run preview
+```
+Open http://localhost:4137
+
+3. Build for deploy:
+```
+npm run build
 ```
 
 Docs:
