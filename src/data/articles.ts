@@ -20,7 +20,14 @@ export const articles = [
         lang: "hu",
         text: "Hogyan keletkezik a bitcoin, és mit jelent a felezés?",
         link: "https://europeanbitcoiners.com/honnan-jon-a-bitcoin/",
-        img: "/article/honnan-jon-a-bitcoin.png"
+        img: "/src/assets/article/honnan-jon-a-bitcoin.png"
+    },
+    {
+        name: "Milyen problémákra nyújt megoldást a Bitcoin?",
+        lang: "hu",
+        text: "A Bitcoin által orvosolt problémák a teljesség igénye nélkül.",
+        link: "https://europeanbitcoiners.com/milyen-problemakra-nyujt-megoldast-a-bitcoin/",
+        img: "/src/assets/article/milyen-problemakra-nyujt-megoldast-a-bitcoin.png"
     }
 ]
 
