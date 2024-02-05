@@ -16,17 +16,17 @@ import NewsList from '../components/NewsList.vue'
       </div>
 
       <div class="card px-4 py-4">
-        <p>
+        <p class="card-text">
           Ezen honlapot magyar bitcoinerek maréknyi csoportja fejleszti önként. A honlap egyrészt kapcsolódási és közös megnyilvánulási pontként funkcionál, másrészt a bitcoin irányába nyitott érdeklődőket minőségi magyar nyelvű információ csokorral hivatott szolgálni.
         </p>
-        <p>
+        <p class="card-text">
           A
           <a href="https://t.me/huszonegy" target="_blank">
             huszonegy telegram csoport
           </a>
           nyitott, bárki csatlakozhat, akit érdekel a Bitcoinnal kapcsolatos magyar nyelvű kommunikáció. Egyetlen szabályunk, hogy a csoporton belül csak Bitcoinról kommunikálunk magyar nyelven.
         </p>
-        <p>
+        <p class="card-text">
             Csatlakozz Te is! Nézz körül, kérdezz, javasolj!
         </p>
       </div>
