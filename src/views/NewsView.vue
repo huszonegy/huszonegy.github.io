@@ -4,7 +4,7 @@ import NewsList from '../components/NewsList.vue'
 
 <template>
     <main>
-        <div class="fs-3 py-1">Hírek</div>
+        <div class="fs-3 py-1 mx-4">Hírek</div>
         <NewsList :max_count=20 />
     </main>
 </template>

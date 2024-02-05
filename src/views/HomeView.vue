@@ -8,21 +8,45 @@ import NewsList from '../components/NewsList.vue'
 <template>
   <main>
     <div name="main-inner" class="container">
-      <div class="container-sm py-3 px-3 mx-auto text-center" style="min-height: 400px;">
+      <div class="container-sm py-3 px-3 mx-auto text-center" style="min-height: 300px;">
         <div class="px-3 py-3">
-          <img src="/logo/he-logo-1-640x640.jpeg" class="img-fluid" alt="Huszonegy" width="300" height="300">
+          <img src="/logo/he-logo-1-640x640.jpeg" class="img-fluid" alt="huszonegy" width="200" height="200">
         </div>
         <h1 class="px-3 py-3">csak bitcoinról, magyarul</h1>
       </div>
 
-      <ForumShort />
-      <!-- <ForumExplain/> -->
+      <div class="card px-4 py-4">
+        <p>
+          Ezen honlapot magyar bitcoinerek maréknyi csoportja fejleszti önként. A honlap egyrészt kapcsolódási és közös megnyilvánulási pontként funkcionál, másrészt a bitcoin irányába nyitott érdeklődőket minőségi magyar nyelvű információ csokorral hivatott szolgálni.
+        </p>
+        <p>
+          A
+          <a href="https://t.me/huszonegy" target="_blank">
+            huszonegy telegram csoport
+          </a>
+          nyitott, bárki csatlakozhat, akit érdekel a Bitcoinnal kapcsolatos magyar nyelvű kommunikáció. Egyetlen szabályunk, hogy a csoporton belül csak Bitcoinról kommunikálunk magyar nyelven.
+        </p>
+        <p>
+            Csatlakozz Te is! Nézz körül, kérdezz, javasolj!
+        </p>
+      </div>
 
-      <div class="fs-3 py-1"><a href="/news">Hírek</a></div>
+      <div class="fs-5 mx-4" style="margin-top: 30px;"><a href="/news">Friss hírek</a></div>
       <NewsList :max_count=2 />
 
-      <div class="fs-3 py-1"><a href="/articles">Cikkek</a></div>
+      <div class="fs-5 mx-4"><a href="/articles">Friss cikkek</a></div>
       <ArticlesList :max_count=4 />
     </div>
   </main>
 </template>
+
+<style>
+  .card {
+    background: rgba(44, 44, 44, .8) !important;
+  }
+
+  .row {
+    margin-left: -0.25rem;
+  }
+
+</style>

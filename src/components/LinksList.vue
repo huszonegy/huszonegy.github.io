@@ -8,13 +8,13 @@ import { link_simplified } from '../utils'
 </script>
 
 <template>
-    <div class="fs-3 py-1">Néhány hasznos link</div>
+    <div class="fs-3 py-1 mx-4">Hasznos linkek</div>
     <div name="links-list" class="container-flex py-3">
         <div class="row row-cols-2">
             <div v-for="link in links" class="card mx-2 my-2" style="width: 16rem;">
 
                 <div class="d-flex align-items-end" style="min-height: 80px;">
-                    <img v-if="link.logo" class="card-img-top" :src="link.logo" alt="Logo" />
+                    <img v-if="link.logo" class="card-img-top" :src="link.logo" alt="Logo" width="150px" height="48" />
                 </div>
                 <div class="card-body">
                     <h5 class="card-title">{{ link.name }}</h5>
@@ -36,4 +36,9 @@ footer {
     align-items: center;
   }
 } */
+    .card-img-top {
+        width: initial;
+        border-radius: 4px;
+        margin: 4px auto;
+    }
 </style>

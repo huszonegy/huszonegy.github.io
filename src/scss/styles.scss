@@ -7,6 +7,10 @@ main {
     margin: auto;
 }
 
+.bg-body-tertiary, .footer {
+    background: transparent !important;
+}
+
 .navbar-brand {
     background-color: white;
 }
@@ -46,10 +50,19 @@ a:hover {
 
 .footer {
     font-size: 0.95em;
+    background: rgb(16, 16, 16, .6) !important;
 }
 
 .footer small {
     font-size: 0.75em;
+}
+
+.footer a:hover {
+    text-decoration: none;
+}
+
+h1, .h1 {
+    font-size: 2rem;
 }
 
 h2 {
@@ -66,10 +79,9 @@ h2 {
     }
 }
 
-/*
+
 @media (min-width: 1024px) {
     .centerpage {
-        min-height: 83.3vh !important;
+        min-height: 86vh !important;
     }
 }
-*/

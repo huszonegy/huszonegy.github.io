@@ -8,9 +8,9 @@ defineProps<{
 </script>
 
 <template>
-    <div name="links-list" class="container-flex py-3">
+    <div name="links-list" class="container-flex py-3" style="margin-bottom: 50px;">
         <div class="row row-cols-2">
-            <div v-for="article in get_articles(max_count)" class="card mx-1 my-1" style="width: 20rem;">
+            <div v-for="article in get_articles(max_count)" class="card mx-2 my-2" style="width: 19.4rem;">
 
                 <div class="d-flex align-items-end article-banner" style="min-height: 80px;">
                     <a :href="article.link" target="_blank" class="link">

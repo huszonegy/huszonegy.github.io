@@ -2,7 +2,7 @@
 </script>
 
 <template>
-    <div class="container" style="background-color: var(--bs-body-bg);">
+    <div class="card">
         <div class="row justify-content-start py-4 px-4 my-3">
             <div class="col col-auto">
                 <a href="https://t.me/huszonegy" target="_blank">
