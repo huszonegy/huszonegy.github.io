@@ -11,12 +11,23 @@ main {
     background: transparent !important;
 }
 
+.navbar .container-fluid {
+    padding-left: 0;
+    background: rgb(255, 255, 255, .1);
+}
+
 .navbar-brand {
     background-color: white;
+    padding-left: 10px;
 }
 
 .nav-item {
     padding: 0 10px;
+}
+
+.navbar-toggler-icon {
+    width: 0.5em;
+    height: 1em;
 }
 
 .article-banner {
@@ -61,12 +72,19 @@ a:hover {
     text-decoration: none;
 }
 
+.footer img {
+    border-radius: 4px;
+}
+
 h1, .h1 {
     font-size: 2rem;
 }
 
 h2 {
     margin-bottom: 20px;
+}
+
+@media (max-width: 750px) {
 }
 
 @media (max-width: 992px) {
@@ -76,6 +94,14 @@ h2 {
 
     .navbar-nav {
         margin-left: 10px;
+    }
+
+    .mx-1, .mx-2, .mx-3, .mx-4, .mx-5, .card .row .col {
+        margin: 1rem auto !important;
+    }
+
+    .fs-1, .fs-2, .fs-3, .fs-4, .fs-5 {
+        text-align: center;
     }
 }
 
