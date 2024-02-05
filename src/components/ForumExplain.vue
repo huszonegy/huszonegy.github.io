@@ -2,15 +2,17 @@
 </script>
 
 <template>
-    <div class="card justify-content-center py-4 px-4 my-3">
-        <p>
+    <div class="card py-5 px-5 my-3 mx-4">
+        <p class="card-text">
             A
-            <a href="https://t.me/huszonegy" target="_blank">Huszonegy telegram csoport</a>
+            <a href="https://t.me/huszonegy" target="_blank">huszonegy telegram csoport</a>
             2023 nyarán jött létre,
             azzal a céllal, hogy találkozópontja legyen a magyar bitcoin közösségnek,
             és segítsen hírét vinni a bitcoinnak a vidékünkön, a
             <a href="https://twentyone.world/" target="_blank">twentyone.world</a>
             szellemében.
+        </p>
+        <p class="card-text">
             Az év során összegyűlt egy lelkes csapat, volt pár személyes találkozó, és sok ötlet született.
         </p>
     </div>

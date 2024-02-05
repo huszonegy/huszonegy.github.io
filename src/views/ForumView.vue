@@ -4,9 +4,15 @@ import ForumExplain from '../components/ForumExplain.vue'
 </script>
 
 <template>
-    <main>
-        <ForumExplain />
-        <ForumShort />
+    <main style="width: auto;">
+        <div class="row">
+            <div class="col col-auto" style="max-width: 500px;">
+                <ForumExplain />
+            </div>
+            <div class="col col-auto" style="max-width: 500px;">
+                <ForumShort />
+            </div>
+        </div>
     </main>
 </template>
 
