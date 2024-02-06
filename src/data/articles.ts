@@ -29,6 +29,13 @@ export const articles = [
         text: "A Bitcoin által orvosolt problémák a teljesség igénye nélkül.",
         link: "https://europeanbitcoiners.com/milyen-problemakra-nyujt-megoldast-a-bitcoin/",
         img: "/article/milyen-problemakra-nyujt-megoldast-a-bitcoin.png"
+    },
+    {
+        name: "Mi az a bitcoin tranzakció? Hogy működik?",
+        lang: "hu",
+        text: "Miként zajlik egy bitcoin tranzakció? Milyen folyamaton megy keresztül?",
+        link: "https://europeanbitcoiners.com/mi-az-a-bitcoin-tranzakcio-hogy-mukodik/",
+        img: "/article/mi-az-a-bitcoin-tranzakcio-hogy-mukodik.png"
     }
 ]
 
