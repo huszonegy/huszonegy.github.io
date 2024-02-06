@@ -13,26 +13,35 @@ import NewsList from '../components/NewsList.vue'
         <h1 class="px-3 py-3">csak bitcoinról, magyarul</h1>
       </div>
 
-      <div class="card px-4 py-4">
-        <p class="card-text">
-          Ezen honlapot magyar bitcoinerek maréknyi csoportja fejleszti önként. A honlap egyrészt kapcsolódási és közös megnyilvánulási pontként funkcionál, másrészt a bitcoin irányába nyitott érdeklődőket minőségi magyar nyelvű információ csokorral hivatott szolgálni.
-        </p>
-        <p class="card-text">
-          A
-          <a href="https://t.me/huszonegy" target="_blank">
-            huszonegy telegram csoport
-          </a>
-          nyitott, bárki csatlakozhat, akit érdekel a Bitcoinnal kapcsolatos magyar nyelvű kommunikáció. Egyetlen szabályunk, hogy a csoporton belül csak Bitcoinról kommunikálunk magyar nyelven.
-        </p>
-        <p class="card-text">
-            Csatlakozz Te is! Nézz körül, kérdezz, javasolj!
-        </p>
-      </div>
+      <div class="row">
+        <div class="col home-col">
+          <div class="fs-5 mx-4" style="margin-bottom: 0 !important;">
+            Üdv!
+          </div>
+          <div class="card px-4 py-4 my-3">
+            <p class="card-text">
+              Ezen honlapot magyar bitcoinerek maréknyi csoportja fejleszti önként. A honlap egyrészt kapcsolódási és közös megnyilvánulási pontként funkcionál, másrészt a bitcoin irányába nyitott érdeklődőket minőségi magyar nyelvű információ csokorral hivatott szolgálni.
+            </p>
+            <p class="card-text">
+              A
+              <a href="https://t.me/huszonegy" target="_blank">
+                huszonegy telegram csoport
+              </a>
+              nyitott, bárki csatlakozhat, akit érdekel a Bitcoinnal kapcsolatos magyar nyelvű kommunikáció. Egyetlen szabályunk, hogy a csoporton belül csak Bitcoinról kommunikálunk magyar nyelven.
+            </p>
+            <p class="card-text">
+                Csatlakozz Te is! Nézz körül, kérdezz, javasolj!
+            </p>
+          </div>
+        </div>
 
-      <div class="fs-5 mx-4" style="padding-top: 30px; margin-bottom: 0 !important;">
-        <a href="/news">Friss hírek</a>
+        <div class="col home-col">
+          <div class="fs-5 mx-4" style="margin-bottom: 0 !important;">
+            <a href="/news">Friss hírek</a>
+          </div>
+          <NewsList :max_count = 2 />
+        </div>
       </div>
-      <NewsList :max_count = 2 />
 
       <div class="fs-5 mx-4" style="margin-bottom: 0 !important;">
         <a href="/articles">Friss cikkek</a>
