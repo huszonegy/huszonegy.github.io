@@ -1,0 +1,113 @@
+== A Rózsaszín Párduc
+szerző: sziller - http://sziller.eu
+
+____
+Pistike bemegy a játékboltba:
+
+-- Csókolom, Rózsaszín párducot lehet kapni?
+
+A mosolygós eladó néni kirak elé négy-öt Rózsaszín párduc figurát, műanyagból, papírból, plüssből.
+Pistike nézegeti őket egy darabig, majd csalódottan annyit kérdez:
+
+-- Bocsánat, kékben nincs?
+____
+
+A Bitcoin négy összetevője közül -- pár írás erejéig -- az átlagember, az átlag fejlesztő, mi több az átlag műszaki
+érdeklődésű szakember számára egyaránt legismertebbikkel -- és állításom szerint leginkább félreértettel -- fogunk
+foglalkozni. De szemben a félrevezető elnevezéssel, *NEM blokkláncként* -- angolul: blockchain -- emlegetjük majd. +
+Bár nincs kifogásom a blokklánc elnevezéssel szemben, és ha már majd tényleg az értjük alatta amire Satoshi gondolt,
+használni is fogom, azért amíg nem tisztázzuk pontosan a fogalmakat, nagyon könnyen úgy járunk, mint Pistike a
+játékboltban.
+
+Nézzük tehát a Bitcoin decentralizált adatbázisát. Ezt az adatbázist Satoshi Nakamoto saját Fehér könyvében
+*Proof-of-Work chain* -ként, azaz *elvégzett munka igazolások lánca*-ként emlegeti. Ez az adatbázis tíz percenként bővül
+egy-egy 1MB méretű Blokkal. Ideális esetben, minden számítógépen, nagyjából egyidőben. Blokknak hívjuk az előző
+tíz perces időszakban összeválogatott tranzakciók gyűjteményét.
+Ezeket a blokkokat pedig, ha már hozzáírtuk a lánchoz, nem lehet törölni...
+
+...Oké, ez így nem teljesen igaz..., de erre majd egy későbbi cikkben térünk vissza.
+
+Egy blokk kiszámítása századmásodperces feladat egy számítógépnek. Viszont valahogyan el kellene érni, hogy a Világ
+összes Bitcoin gépe ugyanazt a blokkot tartsa érvényesnek, sőt(!) azt is, hogy elhiggye, hogy a többi gép is ugyanezt
+gondolja: Tudom, hogy ők tudják, hogy én tudom...
+
+A konszenzus - mint három írásomban unásig elemeztem - a Probléma: Ha bárki írhatja azokat a Blokkokat, akkor
+nem lesz itt semmilyen konszenzus, aminek ráadásul több szintje van.
+(Van egy konszenzus a Bitcoin szoftvert illetően, amit majd a Bitcoin programnál tárgyalunk, de előre fontos
+leszögeznünk, hogy egy Blokkról is konszenzus alapján döntjük el, hogy egyáltalán szabályos-e. Azaz most, mikor az
+újonnan az adatbázishoz írandó Blokkokról beszélünk, abból indulunk ki, hogy Valaki vagy Valami eleve garantálja,
+hogy a sok-sok önként jelentkező nem tud szabálytalan adatot írni az Adatbázisba. Ezt most feltételezzük, de éppen ez
+a pénzként történő működés rákfenéje, ti. megakadályozni egy egység többször történő elköltését (Double-spend).)
+
+Most viszont fogadjuk el, hogy szabályos az adatbázis éppen látott két alternatívája, és próbáljuk eldönteni,
+melyikről alakul ki konszenzusos vélemény, miszerint melyikről véljük, hogy a többiek azt hiszik, hogy mi érvényesnek
+hisszük?
+
+====
+Az adatbázist illető Konszenzus -- mint oly sok minden a Bitcoinban -- rendhagyóan értelmezendő. Nem bináris.
+Nem "van vagy nincs". Valószínű. És egyre valószínűbb. Egy kicsit olyan, mint mikor egy geológus elemzi a múltat, és
+ásni indul: +
+A legfelső réteg a kosz, por, homok a felszínen. Fúj a szél, esik az eső, nem lehetünk biztosak, hogy mi történik a
+jelenben. A por alatt ott a macskakő, amit vagy letettek vagy nem, de kevésbé valószínű, hogy változik. Legfeljebb
+néha fölszedjük, és dobálózunk vele. Ez alatt ágyazás, földréteg, és ahogy ásunk mélyebbre, egyre pontosabban jósolható,
+mit fogunk találni. Ahogy földtörténeti távlatokba érünk, biztosak lehetünk benne, hogy se szél, se morcos tüntető,
+se útmunkás, se bányász, de még földrengés sem variálta át a sorrendet, a rétegeket. A mélyben már nincs változás,
+ami ott van, arról mindenki ugyanazt gondolja.
+====
+
+A Bitcoin adatbázisában is így működik a Konszenzus. Közhiedelemmel ellentétben *a jelenben nem igazán beszélhetünk
+konszenzusról*. Az ösztönzőrendszer miatt ugyan joggal feltételezem, hogy a tranzakcióm előbb-utóbb bekerül valahogyan,
+valamelyik Blokkba, de addig a Konszenzus irtó képlékeny. Amint azután beválogatta egy lelkes bányász -- aki valamiképp
+írni fogja az adatbázist -- a soron következő blokkjába az utalásomat, javul a helyzet, de a legfelső -- a felszínen
+keletkezett -- blokk bizony rendszeresen cserélődik. A felszínen fúj a szél, a blokkok jönnek, mennek. Majd ha már
+rárakódott pár (egyre több) új blokk, akkor lehetek egyre biztosabb abban, hogy mindenki úgy tudja, hogy úgy tudom...
+Igen ám, de ha mindenki, aki írni akarja az adatbázist, unos-untalan elő tud állni új blokkokkal (újabb földrétegekkel),
+mitől lesz akárcsak az adatbázis két példányában egyforma bármi is? Olyan blokkok esetében, amiket pillanatok alatt
+újra tud számolni egy seregnyi gép, ki vagy mi nehezíti meg egy ilyen Blokk létrehozását, vagy ami még fontosabb mi
+lehetetleníti el akár az egész történelem újraírását?
+
+Nos, ha egy Blokk elkészítését valóban bárki végezheti, ÉS annak nincs költsége, akkor semmi.
+
+Értjük, ugye?
+
+Egy Blokklánc semmiféle konszenzust nem tud kikényszeríteni. Pusztán attól, mert egy adatbázis borzalmas
+(túl nagy, folyton növekszik, nem lehet belőle törölni, gépek ezreit dolgoztatja, tehát a redundancia élő szobra és
+szánalmasan kevés adat tárolására jó) még nem lesz technológiai mérföldkő. Ilyen tulajdonságokkal a Tajgetosz napos
+bércein lehet kikötni, nem forradalmi újításokat hozni. A blokkláncot arra találták ki (nem Satoshi!),
+hogy decentralizált konszenzust lehessen elérni vele. Egy összetevőként. De ha abba akárki beledumálhat ingyen, akkor
+ez csak irtó körülményesen fogja továbbra is *NEM megoldani* a problémánkat.
+
+Valahogyan el kellene intézni, hogy költséges legyen megszólalni. A szólásszabadság szép dolog: beszélhet bárki,
+de közönséghez nincsen mindenkinek joga. Azt ki kell érdemelni. Viszont továbbra is cél, hogy a rendszeren belül NE
+lehessen kitüntetett szereplő. Ne legyen trónszék, amibe bárki beleülhet a rendszeren belüli helyzete miatt. Tehát ne
+_valaki_ miatt legyen költséges egy Blokkot létrehozni, hanem _valahogyan_!
+
+Az anonim decentralizált konszenzust pedig próbáljuk meg a következőképp modellezni.
+Képzeljünk el egy teljesen életszerű helyzetet:
+
+____
+Egy lakatlan szigeten ücsörgünk. A lágyan hullámzó tenger felénk sodor két különböző adatláncot.
+-- kivel ne történt volna meg még hasonló...? +
+Kizárólag a játékszabályokat ismerve el kellene tudnom dönteni:
+
+- melyik írja le a valóságot?
+- melyikről hiszik a többiek is, hogy az írja le a valóságot?
+- melyikről hiszik, hogy én is azt hiszem....
+____
+
+====
+Satoshi zsenialitása abban rejlik, hogy nagyjából 4-5 legyet ütve egy csapásra,
+kitalált a Megoldhatatlan problémára egy optimális összetevőt.
+====
+
+Ő soha nem választotta el a Blokklánctól a Konszenzus algoritmust, mert a kettő együtt garantálja az
+Anonim Decentralizált Konszenzust. A Satoshi féle Blokklánc azért garantálhatja (a többi összetevővel együtt) az ADK-t,
+mert van egy briliáns konszenzus mechanizmusa, a Satoshi féle konszenzusmechanizmus pedig csak egy ilyen
+kompromisszumokkal terhelt adatbázissal együtt hozza létre -- valószínűségi alapon -- az ADK-t.
+A Bitcoin rendszert írhatod. Csak igazolnod kell -- valószínűségi alapon --, hogy legalább a TE számodra ér annyit
+a közlendőd, hogy valami nagyon is valóságos jószágot kockáztass, ha hülyeséget beszéltél.
+
+A következő bejegyzés ennek az adatbázisnak a Proof-of-Work konszenzus algoritmusával foglalkozik.
+*Az első titkos összetevő*, tehát NEM a nehézkes adatbázis, hanem az *adatbázisnak és az Proof-of-Work
+algoritmusnak a keveréke*.
+

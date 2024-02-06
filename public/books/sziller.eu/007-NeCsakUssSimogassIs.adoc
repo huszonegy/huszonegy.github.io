@@ -1,0 +1,87 @@
+== Ne csak üss, simogass is!
+szerző: sziller - http://sziller.eu
+
+____
+10 éves lehettem. Apám megvette nekünk (Ausztriából becsempészte) életünk első számítógépét: egy Commodor 64-est.
+Lemezmeghajtóval! - Hoppácska! +
+Tuti nem gondolta akkor, hogy öcsém és én attól kezdve joystick-kel a kezünkben görnyedve fogunk repülőt vezetni,
+lövöldözni, országokat hódítani, focizni, kincset keresni vagy épp hercegnőket megmenteni napi nyócban.
+Pedig így lett. +
+A kezdeti lelkesedés időnként még Aput is odaültette a gép elé. Öcsivel persze sose értettük, hogy ő miért
+a legunalmasabb játékokat gyűri, ahogyan ő is egyre kerekebb szemekkel nézte, micsoda _ökörségekkel_ játszunk
+mi állandóan. El nem tudta képzelni, mi a fene jó ezekben a blőd játékokban: +
+Mikor már huszonötödik alkalommal nyírtam ki a gonosz sárkányt Bruce Lee 8 bites bőrébe bújva, ő csak annyit kérdezett:
+
+-- ...és ha kinyírtad a sárkányt? A végén majd kinyúl egy kéz a gépből, és ad egy almát?
+____
+
+Apám vicces piszkálódásával fogalmazta meg a Bitcoin rendszerének egyik legfontosabb kérdését. Erről lesz szó
+ma. Elérkeztünk ugyanis Satoshi receptjének második összetevőjéhez.
+A következő néhány cikkben a Bitcoin igáslovát vesszük górcső alá: témánk a decentralizáltan futó Bitcoin szoftvert lesz.
+
+Ahogyan korábban írtam a Bitcoin szoftvere két alapvető feladat megoldásához szükséges:
+
+* biztosítja a Decentralizált Anonim Konszenzust
+* motiválja a rendszer üzemeltetőit szabálykövető részvételre.
+
+Ez utóbbi pont maga is két elemű. Először is a rendszer megpróbál rávenni, hogy vegyél részt a fenntartásában,
+ha pedig már erőforrást áldozva üzemelteted a rendszert, akkor arra, hogy ezt a szabályoknak megfelelően tedd.
+
+Mint korábban írtam, a Bitcoin az "Üss és simogass!" elvet követve valóságos "energia pazarláson" át *bünteti* a
+szabálytalan viselkedést, valamint ugyanezzel az energia használattal versenyt is indukál az adatbázist írni kívánó
+szereplők között. Ez a Proof-of-Work egyik célja és funkciója. +
+De pusztán büntetéssel senkit nem tudunk rávenni, hogy részt vegyen egy nyílt rendszerben, hátmég hogy versenybe
+szálljon az adatbázis írásának érdekében. Ahhoz valamilyen módon *jutalmazni* is kell őt, hiszen _valóságos_
+erőforrást - időt, energiát, munkát - nem fog senki beleölni egy tevékenységbe, ha nem számíthat ellentételezésre.
+
+Nos, ha megértettük, amit az Orákulum Problémáról írtam a Proof-of-Workkel kapcsolatban, ti. hogy mekkora ötlet
+a valóságban elhasznált energia igazolás behozatala egy zárt számítástechnikai rendszerbe, annak érdekében, hogy
+_büntessük_ a szabálytalan viselkedést, akkor a motiváció másik oldalán a _jutalmazással_ kapcsolatban is
+elgondolkodhatunk valami hasonlón:
+
+____
+A végén majd kinyúl egy kéz a gépből, és ad egy almát?
+____
+
+De komolyan? Elneveztünk egy problémát Orákulum Problémának, aminek a lényege, hogy nem tudok egy rendszerbe
+megbízhatóan *bevinni* adatot, erre most jön a Fater és felveti az ellenkezőjét a jutalmazást illetően?
+Hogyan *hozzam ki* a rendszerből a jutalmat? Hogyan simogassam azt, aki erőforrást nem kímélve fenntart egy
+decentralizált rendszert? Ráadásul mivel egyrészt
+
+* országhatároktól, kultúrától, nyelvtől, szemlélettől, életmódtól függetlenül, másrészt
+* a rendszer igénybevételének céljától függetlenül kellene jutalmaznom a résztvevőket,
+
+a jutalomnak általánosan felhasználhatónak, bárki által megbecsültnek, valamilyen univerzálisan áhított dolognak
+kellene lennie. Másként: nem lenne baj, ha mindenki számára korlátlan határhasznossága lenne.
+Nos van egy ilyen jószág, funkció, intézmény világunkban. +
+*Ez pedig a pénz.*
+
+E rövid bejegyzésem célja, hogy feje tetejére állítsam a Bitcoin megértéséhez vezető út ok-okozat összefüggéseit.
+Ha tudjuk is, hogy Satoshi egy digitális készpénzt kívánt létrehozni, és ezt egy globális anonim decentralizált
+konszenzuson át érte el, én ennek a hetedik írásomnak a végén a fordított szemléletet javaslom:
+
+****
+Az anonim decentralizált konszenzus fenntartásának motivációja eleve csak úgy érhető el, ha:
+
+. Valós büntetést szenved el, aki áthágja a szabályokat - *Energiát veszít* (PoW)
+. Univerzális jutalomban részesül, aki részt vesz a rendszer szabályszerű működtetésében - *Pénzt kap érte*
+
+szükségszerű, hogy a bolygó egyetlen decentralizált anonim konszenzust létrehozó rendszere a pénz funkcióit betöltő és
+a pénzre jellemző tulajdonságokat felmutató jószágban jutalmazza a szabálykövető viselkedést. +
+_Ennek mikéntjéről írok a következő cikkeimben. Ennek megvalósítása ui. a Bitcoin szoftver egyik feladata._
+****
+
+Kétirányú szükségszerűség::
+* Központi kibocsájtó entitás nélküli pénz csak anonim decentralizált konszenzussal valósulhat meg. - Satoshi
+* Anonim decentralizált konszenzus fenntartását központi kibocsájtó nélküli pénzzel kell honorálni. - Sziller
+
+(A miheztartás végett: A felső sor atyja alapjaiban írta át világunkat találmányával és teljesítményével,
+az alsóé meg ügyesen süt tükörtojást)
+
+=== A lényeg: Energia
+A kör pedig bezárult. Ha ugyanis definíció szerint nem kívánunk/tudunk központi (kisebbségi) fedezetet adni egy
+fizetőeszköznek, akkor az egyetlen eddig ismert decentralizált pénz - az *arany* - energiafedezetét másolva immáron a
+motivációs rendszerünk mindkét lába *Energia* alapon fog állni:
+
+- mikor a rendszer üt, energiát veszítünk
+- mikor simogat, energia fedezetű pénzben jutalmaz

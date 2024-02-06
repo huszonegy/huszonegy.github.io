@@ -1,0 +1,124 @@
+== A hatalom korrupttá tesz, a korlátlan hatalom korlátlanul
+szerző: sziller - http://sziller.eu
+
+Indítsunk ma egy erős állítással: A jogrendszerünk valójában az egyik legjobb próbálkozásunk, hogy áthidaljuk
+a Megoldhatatlant. Egy *tökéletlen* megoldási kísérlet társadalmunk részéről a megoldhatatlan *Decentralizál anonim
+konszenzus* _megkerülésére_: Társadalmi szintű - semleges - szabályokat fektetünk le, és igény esetén megvizsgáljuk
+egyes szereplők viselkedését. Aki e szabályokat nem tartja be, őt a jogrendszeren keresztül büntetjük vagy - szebben - a
+szabálykövető magatartásra ösztönözzük. Kijelentéseinket a közjegyzők "kőbe vésik", megállapodásainkat szerződésekben
+rögzítjük, igyekszünk konszenzust elérni társadalmunk minden szintjén. +
+Egy tökéletlen megoldás egy tökéletes cél elérése érdekében.
+
+Pénzügyi rendszerünk, miközben - szintén a megoldhatatlan konszenzus miatt - egy hatalmas központi, azaz kisebbségi
+- szereplő felügyelete alatt működik, már nehezebben tekinthető ilyen ideális próbálkozásnak. Míg jogrendszerünkben
+legalább törekszünk a többségi konszenzus fenntartására - ami több kevesebb sikerrel - össze is szokott jönni,
+addig fizetőeszközeink működtetésénél a többségi döntés, a decentralizált működés, még célkitűzésként sem merül fel.
+A rendszer ellenőrzését, annak szabályainak megfogalmazását és betartatását, a szabályellenes viselkedés büntetését a
+szereplők elenyésző kisebbsége végzi. +
+Mondok durvábbat: társadalmunk még kívánatosnak is tartja a fizetőeszköz ellenőrzését végző, azt felügyelő szereplő
+függetlenségét a rendszertől.
+
+====
+A decentralizált kifejezést írásaimban sokszor és különböző szövegkörnyezetben fogom használni, ezért
+álljon itt egy definíció kezdemény arról, mit is értek a "decentralizált" kifejezés alatt. Javaslom e definíció
+átolvasását Lexikonban, Wikipedián. Én magam is e forrásokból szintetizáltam saját szóhasználatomat.
+E meghatározásokból számomra legfontosabb a semlegesség: *egy rendszerben a résztvevők elvi és gyakorlati
+egyenrangúsága.*
+Később, mikor hálózati vonatkozásban vizsgáljuk majd a decentralizációt, toldozgatunk ezt-azt a meghatározáshoz,
+de egyelőre ez is megteszi. +
+Egyenrangúság alatt is ki-ki mást érthet, ezért a saját megközelítésemet szükségesnek látom rögzíteni.
+Egy decentralizált rendszer szereplőiről *semlegesen* kell tudnunk beszélni, képesnek kell lennünk gondolatainkat
+szimmetrikusan megfogalmazni. Egy mondat igazságtartalmának eldöntésekor, a mondat szereplőit fel kell tudnom cserélni.
+
+Például, egy decentralizált rendszerben:
+
+- *X* küldhet üzenetet *Y* számára anélkül, hogy *Z* láthatná az üzenet tartalmát
+- *X* átadhatja értékeinek egy részét *Y* számára úgy, hogy *Z* ezt nem akadályozhatja meg
+
+A szereplőket szabadon fel kell tudnom cserélni állításaimban úgy, hogy azok továbbra is igazak maradjanak. +
+Ezt a decentralizált működés *szükséges* feltételének tartom. Ahol ez nem teljesül, véleményem szerint szükségszerűen
+központosodás alakul ki.
+====
+
+Jogrendszerünk is valami hasonló semleges szimmetriát szeretne elérni, mikor a *jog előtti egyenlőséget*
+tűzi zászlajára.
+
+---
+
+Az első példa jól mutatja az ideálisan működő E-mail küldés (sajnos ilyen nem létezik) és a közösségi média óriása
+által fenntartott chat szolgáltatás közötti alapvető különbséget. Ha X küldhet üzenetet Y számára Z tudta nélkül,
+az azt jelenti, hogy a rendszer bármelyik szereplőjének képesnek kell lennie privát üzenetet küldenie bármelyik másik
+résztvevő számára. E-maillel ez napjainkban még hellyel-közzel megvalósítható...
+Most próbáljuk meg végigmondani ezt a mondatot a kiscicás videók rendszerében. +
+Z meg legyen mondjuk Mark Z.!
+
+Amint egy tetszőleges rendszerben létezik olyan szereplő, aki a rendszer egy része vagy egészére fölött
+megkülönböztetett ellenőrzést gyakorol, azon nyomban a hatalma is megnövekszik a többi szereplőhöz képest.
+Ezzel a hatalommal pedig - amint a történelmünkben hemzsegő példák gazdagon illusztrálják - rendszeresen vissza is
+élnek az említett kitüntetett szereplők. Ha pedig a kitüntetett szereplő nem lenne korrupt, azzá teszi, aki őt
+rendszeren kívül hatalma alá vonja.
+
+Az üzenetküldési példáról elmondható:
+Ha Z-nek nem tetszik X mondandója, elérhetetlenné teszi Y számára. Nem az üzenetet minősítem.
+Azt szimmetrikusan nem tehetem. Az eljárást írom le és állítom, hogy ez, ílyen formában központosított.
+
+---
+
+Van bárki, aki komolyan gondolja - vagy, had legyek picit játékosabb, ki olyan naiv, hogy azt feltételezze -,
+hogy a Földkerekség legértékesebb könyvét - a pénzügyi rendszerünkét - nem manipulálják rendszeresen, rutinszerűen,
+azok a szereplők, akiknek erre lehetőséget biztosít ugyanennek a rendszernek a működése?
+Azon persze szívesen vitatkozom, hogy ez akkor most kinek és milyen perspektívából előnyös, de abban a vitában is
+szeretném tartani magam a szimmetrikus és semleges fogalmazásról írottakhoz. Nem fogok rébuszokban beszélni:
+
+====
+X egy jól kivilágított, földalatti teremben megrajzol sok-sok színes papírfecnit. Ha ezekre a papírfecnikre néhány
+halott férfi képét meg pár négyjegyű számot kerekít, akkor X a nagy semmiből firkált magának vagyont. Vagyont, aminek
+fedezetét X semmilyen módon nem ellenőrzi: A vásárlóerőt Y - azaz kedves olvasóm - pénztárcájából veszi el.
+====
+
+- Ha X egy nem szokványos viselkedésű festőművész, elkövette az egyik legdurvább törvénysértést, amit el lehet képzeni: +
+*pénzt hamisított*.
+- Ha X ezzel szemben a Nemzeti vagy - ha értjük a bankrendszer működését, akár - egy mezei Bank öltönyben feszítő
+munkatársa, akkor csak *végezte a napi rutinmunkát*. +
+A többi szereplő számára demonstrálva a rendszer szélsőségesen aszimmetrikus, központosított működését.
+
+Ahogyan egyébként korábbi példánk X-e is gyorsan szembesül a rendszer aszimmetriájával, abban a pillanatban
+mikor Z-nek nem tetszik, hogy mit és mennyiért kíván megvásárolni Y-tól.
+
+---
+
+Ha egy kitüntetett szereplő lehetőséget kap hatalmat gyakorolni egy rendszer fölött, azzal vissza fog élni. Z innentől
+ugyanis igenis minősítheti az üzenet, a szerződés tartalmát, a szabályokat. Aszimmetrikusan.
+Olyan *trónszéken* feszít, ahonnan ez lehetséges.
+Mikor eljutsz odáig, hogy ezt az elrendezést természetesnek tekinted, akár öltönyös úriember, akár Márk vonatkozásában,
+akkor vált az aszimmetrikus viselkedés rendszerszintűvé, a központosítás elkerülhetetlenné, A hatalommal történő
+(vissza)élés alapértelmezetté.
+Az igazi baj persze akkor tűnik fel, mikor a kisebbségi, de hatalommal bíró szereplő demonstrálhatóan káros
+tevékenységet végez a rendszer többi szereplőjével szemben, és nincs mód e tevékenység felülbírálására.
+Ott, ahol már rég nem a szabályokkal van a probléma, hanem a ténnyel, hogy azokat központi érdekek és döntések mentén
+alkotják. Mindegy kik. A lényeg hogy a rendszerben van olyan hely, ahonnan.
+
+*Nem azzal van a baj, aki a trónon ül: Az a baj, hogy _van_ trón.*
+
+Ezért gondolom, hogy fontos a Bizánci Tábornok problémájának megoldása?
+
+Mert ha valaki előrukkolna egy célnak megfelelő, kellőképpen skálázható megoldással, az alapjaiban formálhatná át
+civilizációnkat decentralizált szabályok, decentralizált rendszerek elterjedésével, ezek rutinszerű használatával.
+Olyan rendszerekével, ahol nem tudnak kitüntetett szereplők rendszer szinten a többi szereplő fölé emelkedni.
+
+Azt nem gondolom, hogy társadalmunk valamennyi rendszerét szerencsés lenne decentralizált modellre áthelyezni.
+Isten ments, hogy - ahogyan oly sokszor, itt is - átessünk a ló túloldalára, és szükségszerűen optimalizált, központi
+vezetésre szervezett intézményeket, szervezeteket, eljárásokat, módszereket agyba-főbe decentralizálgassunk.
+Nem, a központi vezetés sok esetben lényegesen gördülékenyebb tervezést, hatékonyabb döntéshozatalt, célzottabb
+stratégiákat enged meg. Nem kellene kiönteni a kölköt a fürdővízzel együtt.
+
+Olyan területeken viszont, ahol rendszeresen újra és újra és újra és újra igazoltan látjuk, hogy nem működik
+és a túlnyomó többség számára káros a központosított működtetés mint módszer, ott szükségszerű lenne
+decentralizálnunk. Fontos lenne civilizációnk alapvető építőköveit folyamatosan lecserélni szimmetrikusabb,
+semleges megfogalmazások mentén.
+
+-- Létre kellene hoznunk az anonim decentralizált konszenzust.
+
+-- *Csakhogy érezzük, sőt korábban láttuk, mitöbb okos emberek igazolták, hogy ez _lehetetlen!_*
+
+-- Vagy...?

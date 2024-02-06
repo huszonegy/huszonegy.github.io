@@ -1,0 +1,127 @@
+== Kvantumszámítógépek és Bitcoin
+A Bitcoin rendszer hosszútávú fennmaradásával és életképességével kapcsolatban egyik legtöbbször megfogalmazott aggály,
+a kvantumszámítógépekkel, kvantumszámítástechnikával kapcsolatos, és nagyjából így hangzik:
+
+____
+Mi fog történni, ha és amikor a kvantum számítástechnika segítségével hirtelen fel lehet majd törni a Bitcoint?
+____
+
+Anélkül, hogy a kérdés tartalmát pontosan tisztáznánk, adok pár szempontot, amivel a témakört lefedem, és megvilágítom,
+hogy legtöbbször a kérdés tisztázása is elegendő kételyeink eloszlatásához:
+
+=== Kvanum számítógépek régóta vannak
+Ahogyan a mérnöki tudományokban nagyjából semmi, úgy a Quantum számítógép létezése vagy nem létezése sem binárisan
+egy vagy nulla. Kvantumszámítógépek vannak, nem kis számban kommerciális, civil kézen, bizony jó pár éve már.
+Nincs bennük semmi misztikus. Ezek rettenetesen izzadtságszagú mérnöki tákolmányok, nagyjából azon a szinten, ahol
+Apáink korában a fejlett géptermek álltak: Beépítettszekrény méretű zajos, komplikált monstrumok, amiket 2-3 ember kezel
+és tud egyátalán kezelni.
+A Quantum-mechanika nem túl intuitív lényege, (ami az előnye és a hátránya is egyben) hogy nincs benne igazán 1 vagy 0.
+Ettől tud *egyes feladattípusokat* irdatlan gyorsan megoldani, de az a bizonytalanság okozza a problémáit is.
+Minél több Quantum-bites egy számítógép, annál nagyobb a számítási kapacitása, de annál nagyobb is a bizonytalanság.
+(javasolt: a Double Slit experiment elolvasása. Megérteni nem fogod, senki nem érti.) A rendszer leárnyékolása egyre
+nehezebben oldható meg, minél erősebb, minél magasabb az emített bitszám.
+
+Röviden::
+most is vannak Quantum számítógépeink. A jelenlegi Q-bit számot hirtelen nem fogjuk ugrásszerűen megnövelni.
+Bitenként és bitekért folyik a verseny, fundamentális a leküzdendő probléma, és egyre nehezedik. Tudjuk hol tartunk.
+Nem fogod azt olvasni - értelmes forrásban-, hogy megvan a Bölcsek köve.
+
+=== Az információ értéke
+Államok között nyilván isszonyatos verseny folyik ugrásszerű technológiai áttörések elérésére. Tételezzük fel,
+hogy valamelyik nagy (USA, Kína, Japán, Orosz, Német, Irán) teljesen titokban elképesztő ráfordítással évekkel a
+többieket verve kifejleszt egy ilyen brutális technológiát, amit az 1. pont miatt eleve nehéz elképzelni....
+De, ha mégis ekkorát ugrik.... Mi van a kezében?
+- Egy eszköz, amivel az összes ellenfele minden alkalmatlanul titkosított információjához potenciálisan hozzáfér.
+Katonai, technológiai, gazdasági, minden...
+Viszont, azt is tudjuk, hogy energia, erőforrások ráfordításával ezek az információk védhetőek kvantumszámítások ellen,
+csak ez az energiaráfordítás nagyon magas. Azaz rohadt drágán lehet védekezni a Kvantum-törés ellen, de tudjuk hogyan.
+
+Láttad-e a Kódjátszna című filmet, az Enigma feltöréséről? Az Enigma feltörésénél fontosabb volt, hogy NE DERÜLJÖN KI,
+hogy fel tudják törni, hiszen akkor az ellenfél átáll komolyabb titkosításra. Az egész háború alatt ment a sakk,
+hogy csak annyi információt használjanak fel látványosan a feltört üzenetekből, amiből a németek még statisztikailag
+nem jönnek rá, hogy feltörték a kódjukat. Ennek menedzselése volt Bletchley park dolga.
+Tehát, ha valaki sci-fibe illően nagy áttöréssel mégis létrehoz egy brutálisan erős Q-gépet, azt olyan dologra fogja
+használni, amire értelme van. Nyilván Bitcoin címeket fog vele törögetni, vagy Bitcoint kezd bányászni. Hogy ezáltal
+MINDENKI megtudja, hogy van neki Q-gépe.
+Különösen, hogy a Bitcoin kb. egy hét alatt lereagálja, neki meg ugrott a csillagászati költségesen kifejlesztett
+Istencsászár technológiai előnye.
+
+Röviden::
+Nem tudunk iszonyú erős Q-gépeket csinálni, de pontosan tudjuk, mit lehet vele feltörni, és azt is,
+hogy milyen költséggel kell ellene védekezni. Szóval nagyjából 10 perc alatt át fogsz állni sokkal költségesebb,
+de biztonságosabb titkosításra (olyan információk esetén, ahol ezt indokolja a játékelmélet), ha kiderül, hogy létezik.
+Költségesen, de tudsz védekezni.
+
+Amint kiderül, hogy létezik Q-gép, egy hónap múlva a bitcoin nem csupán a világ legbiztonságosabb decentralizált
+rendszere lesz, de a világ egyetlen garantáltan - és nyilvánosan ellenőrizhetően - Q-számítás védett rendszere is.
+Ez azért Value Proposition...
+
+=== Nem mindent érint
+Amint írtam, a Quantum computing bizonyos problémák megoldásához lesz rettentő nagy segítség.
+Tudjuk miféle problémákhoz. Gyakorlatból tudjuk, hiszen mint láttuk, hosszú évek óta használjuk, teszteljük őket.
+És bizony a kvantumszámítástechnika nem megoldás mindenféle problémára, és akkor nagyon óvatosan fogalmaztam.
+
+=== Reakció a problémára
+A Bitcoin rendszerben vannak Q-érzékeny és Q irreleváns kódolások. Tehát eleve nem minden titkosítás érintett.
+Ezért ha hirtelen is kellene reagálni sem kellene rendszer szinten hozzányúlni a Bitcoinhoz. Nehezedne a bányászat,
+megpisztergálnánk a kulcs-párokat, érték alapon szép lassan a nagyobb összegeket átmozgatnánk ellenállóbb kulcsokra,
+s életünk aránylag eseménytelenül csordogálna tovább - mondom - immáron egy Q- biztos rendszeren.
+Egyszerűsítve, az aláírásokat (ECDSA) érintené, a használt hasheket nem.
+
+És ha egyáltalán felmerülne rendszer szintű változtatási igény, az:
+- vagy simán átmegy a rendszer szereplőin, mert nincs ellenérdekelt szereplő, vagy
+- ismét lesznek Fork-ok, amiből NYILVÁN a legalkalmasabb marad életben, hiszen mi más történne:
+Erre már 2017-ben láttuk a példát, tökéletesen nyomon követhető az evolúciós dinamika. A mostani Bitcoin a túlélő.
+A remek dolog az egészben, hogy a Fork előtt bányászott coinjaid úgyis a győztesen lesznek, mert eleve mindegyiken ott
+vannak.
+
+=== Szakértelem
+Ha van olyan területe az alkalmazott kriptográfiának, ahol a zsenik krémje megtalálható, ami az elmúlt 10 évben
+nagyobb alkalmazott fejlődésbe hajszolta volna a kriptográfiát, mind azelőtt bármi, na az a bitcoin.
+Olyan szürkeállomány van a Bitcoin környékén, olyan anyagi érdekkel párosulva(!), hogy intellektuálisan a nyomába nem
+ér bármilyen erőforrással rendelkező szuverén entitás. Ez nem az a banda, ahol 12345-ös jelszavakkal dobálóznak az
+érintettek. Ezt én személyesen látom. Bááámulatos.
+
+=== Valószínű fejlődési dinamika
+A Q-számítógépek kommerciális (és fokozatos) terjedése SEMMIBEN nem különbözik a számítástechnika egyéb fejlődésétől.
+Erősödik egy faktor, majd szépen megy utána a következő. Minden területen ez történik. A Q-computing sem kivétel.
+Ha a valószínűbb - fokozatos - fejlődési utat tételezzük fel, akkor egyszerűen a bányászati oldalon elő fognak kerülni
+bitang erős gépek. Akik önmagukban ugyan képtelenek lesznek lenyomni az egész rednszert (mert... lásd köv. pont) viszont a
+motivációs rendszer miatt csomó jövedelemre fognak szert tenni a rendszer szabályai szerint, tovább erősítve a rendszert
+és a bányászaton belüli versenyt hétköznapi szabályos viselkedés által,
+hiszen ez sokkal nagyobb anyagi hasznot garantál.
+
+=== Energiaigény
+Egy Quantum számítógépnek is van enegria igénye. Nem AAA-s elemről működik. Nem kérem, azokhoz erőmű kell.
+Szép nagy energiaforrás. Eszi a villanyt, mint kacsa a nokkedlit.
+Időben valóban lényegesen optimálisabb bizonyos feladatokra a Kvantumszámítógép, energiafogyasztás szempontjából viszont
+már nincs ekkora előnye.
+A bitcoin meg ugye éppen arról szól, hogy az nyer, akinek energiája van. Ez a bitcoin fedezete.
+(Teszem hozzá, ha az 1700-as években kitalált Physiokrata Közgazdasági iskola óta
+akárcsak egy is figyelembe vette volna, a Termodinamika 1. FŐTÉTELÉT, akkor most nem volnánk gazdaságilag ekkora
+szarban, de ilyen Közgazdasági iskola nincsen. (későbbi cikkekben erről beszélgethetünk)
+Külön irónia, hogy akkor még nem is ismerték a Termodinamika 1. főtételét... :D )
+Ezért nem értik a nyakkendősök, hogy mitől van értéke az aranynak, és ettől bitcoin a bitcoin.
+És ebből a Quantum Számítógép nem lóg ki. Energiaigényes! Nabumm. Erre van kitalálva a Bitcoin. Majd lesznek bányászok
+jónagy Hashpowerrel. És? Most is vannak, Ők húzzák a mezőnyt. Ők éltetik a versenyt, amitől még durvábban törhetetlen
+a Bitcoin. Az indukált energia-befektetéstől lesz feltörhetetlen a Bitcoin. Alig várom, hogy legyen Q-bites bányászat.
+
+=== BALÁZSNAK kiegészítés
+[CAUTION]
+====
+BALÁZS: +
+Ami még kimaradt a cikkből, tehát a cikket még kiegészíteném vele: (ezzel többrészessé is tehető)
+
+- Ár-érték arány mérlegelése védekezéskor (200 dollárt nem kell 200.000 dolláros Q-támadás ellen védeni)
+- a világ reakciója minden más rendszerben (akkor nagyjából a btc marad az egyetlen rendeszer, mert bukik minden)
+====
+
+=== Összefoglalás
+*Aggódni nem kell, a kvantumszámítástechnika nem fogja agyonvágni a Bitcoint.*
+Amikor pedig valaki mégis ezzel ijesztget, akkor azt lefordíthatod úgy,
+hogy "halvány fingom sincs, miről beszélek, de szeretem hallani a hangomat."
+Ilyenkor illedelmes mosoly, másfél lépés hátra, és kedvesen elkéreckedsz WC-re.
+
+Hajrá!
+
+sz

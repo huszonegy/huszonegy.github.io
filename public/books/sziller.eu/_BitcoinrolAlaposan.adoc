@@ -1,0 +1,87 @@
+[[bitcoin:cikksorozat]]
+= A Bitcoinról alaposan
+Ladányi Szilárd <>
+:icons: image
+:iconsdir: ./icons
+:sectnums!:
+:doctype: book
+:author: Sziller
+:hide-uri-scheme: false
+:description: Bitcoin
+:toc: left
+:toclevels: 1
+:toc-title: Tartalom
+:stylesheet: adoc-golo.css
+:stylesdir: ./css
+:figure-caption:
+:imagesdir: ./images/
+
+[[Tartalom]]
+*http://sziller.eu*
+
+
+[[cikksorozat:001]]
+include::001-TudodHogyEnTudom.adoc[]
+
+****
+ugrás a cikk elejére: <<cikksorozat:001>> +
+a tartalomjegyzékhez: <<bitcoin:cikksorozat>>
+****
+
+[[cikksorozat:002]]
+include::002-TabornokUrVanEgyKisGond.adoc[]
+
+****
+ugrás a cikk elejére: <<cikksorozat:002>> +
+a tartalomjegyzékhez: <<bitcoin:cikksorozat>>
+****
+
+[[cikksorozat:003]]
+include::003-AHatalomKorrupttaTesz.adoc[]
+
+****
+ugrás a cikk elejére: <<cikksorozat:003>> +
+a tartalomjegyzékhez: <<bitcoin:cikksorozat>>
+****
+
+[[cikksorozat:004]]
+include::004-SatoshiJolKifozte.adoc[]
+
+****
+ugrás a cikk elejére: <<cikksorozat:004>> +
+a tartalomjegyzékhez: <<bitcoin:cikksorozat>>
+****
+
+[[cikksorozat:005]]
+include::005-ARozsaszinParduc.adoc[]
+
+****
+ugrás a cikk elejére: <<cikksorozat:005>> +
+a tartalomjegyzékhez: <<bitcoin:cikksorozat>>
+****
+
+[[cikksorozat:006]]
+include::006-ATrolloknakReszeltek.adoc[]
+
+****
+ugrás a cikk elejére: <<cikksorozat:006>> +
+a tartalomjegyzékhez: <<bitcoin:cikksorozat>>
+****
+
+[[cikksorozat:007]]
+include::007-NeCsakUssSimogassIs.adoc[]
+
+****
+ugrás a cikk elejére: <<cikksorozat:007>> +
+a tartalomjegyzékhez: <<bitcoin:cikksorozat>>
+****
+
+////
+[[cikksorozat:xxx]]
+include::000-KvantumSzamitastechnika.adoc[]
+
+****
+ugrás a cikk elejére: <<cikksorozat:xxx>> +
+a tartalomjegyzékhez: <<bitcoin:cikksorozat>>
+****
+////

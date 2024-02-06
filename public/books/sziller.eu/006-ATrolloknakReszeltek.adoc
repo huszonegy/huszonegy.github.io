@@ -1,0 +1,131 @@
+== A Trolloknak reszeltek
+*Proof-of-Work* +
+szerző: sziller - http://sziller.eu
+
+Az idő -- úgy tűnik -- nem feltétlenül egyformán drága mindenki számára. Akinek túl sok van, sokszor hajlamos
+másét is igénybe venni: ő, aki minden témához hozzászól, akinek szemlátomást nem drága a saját ideje.
+A szólásszabadság leple alatt a hallgatósághoz való igényét kívánja kielégíteni. Mindannyian találkoztunk már vele.
+Ha blogbejegyzések alatt található hozzászólás áradatok vagy spam-emailek szerzőikként esetleg eddig elkerültek volna
+kedves Olvasóm, hát... biztosan ültél már végig lakógyűléseket, esetleg a gyerkőcöd év eleji szülői értekezletét...
+
+Trolloknak nevezzük azokat az embertársainkat, akik figyelemre vágynak. Igen, a legendás élőlények valóban közöttünk
+járnak, de Trollok -- úgy tűnik -- korábban is éltek.
+
+Egy Cynthia Dwork nevű hölgy és Moni Naor nevű Úr számára már 1993 táján annyira nyilvánvaló volt a probléma, hogy
+az Email spam-re, azaz a kéretlen elektronikus leveletek sokaságára a következő gondolatmenet végén adtak csattanós
+választ, elméletben: Ha egy üzenet írója számára nem merül fel valós -- arányos -- költség üzenetének célba juttatása
+érdekében, akkor spamelni fog: törvényszerűen Troll születik.
+
+Szüleink generációja számára még költséges volt levelet küldeni. Aztán, ahogy fejlődött a technológia,
+egyre csökkent az üzenetküldés költsége. E-mailt pedig már gyakorlatilag ingyen lehet írni, küldeni, milliószám.
+Cynthia és Moni azzal álltak elő, hogy:
+
+-- persze bárki küldhet nekem Emailt, de előtte igazolja, hogy egy bizonyos
+mennyiségű energiát beletett a levél elküldésébe.
+Például, ha akarsz nekem Emailt írni, én előtte adok neked (a számítógépednek) egy feladatot. Egy kis rejtvényt.
+Ami én találok ki. *Kizárólag* erre a célra! Ha visszaküldöd a megoldást, el fogom olvasni a leveledet is.
+
+Ha régebben nagyi akart nekem levelet írni, tollat ragadott, papírt vett elő, fogalmazott, címzett, kifizette a bélyeg
+árát, elszaladt a postaládáig és bedobta. Ő, aki számára fontos volt, hogy elmondja Nekem mennyire hiányzom, nem borul
+majd ki most sem, ha az Emailje elküldése két másodperccel többet vesz igénybe csak azért, mert a gépe a háttérben az
+én sudokumon dolgozik. +
+Nem úgy a taplómarketinges figura, aki smap-emailek tízezreit igyekszik boldog-boldogtalannak kézbesíteni. Ő nem fog
+örülni, ha a számítógépe a reklámjait egy egész délutánon át próbálja célba juttatni, mert minden küldés előtt 2-3
+másodpercet dolgozik a gépe.
+
+Ha pedig nekem még fontosabb a saját békességem, egyszerűen nehezítek a rejtvényen, költségesebbé teszem, hogy valaki
+üzenetet küldjön nekem.
+
+=== Proof-of-Work - az elvégzett munka igazolása
+
+____
+A géped kap tőlem egy feladatot, aminek a megoldása kizárólag próbálgatással lehetséges. (Műértőknek: Hashelj egyet!)
+A feladat eredménye -- akár helyes akár nem -- egy hatalmas nagy szám lesz.
+A próbálgatás (hashelgetés) hatására, egyenletes eloszlással, teljesen véletlenszerű számok jönnek ki -
+minden alkalommal eredményként. Én pedig azt mondom Neked, hogy a megoldás akkor 'helyes', tehát akkor fogadom el,
+ha ez a szám kisebb, mint egy általam megjelölt plafon-érték. +
+Minél kisebb egy -- például 100 jegyű -- szám, annál több '0' számjegy lesz az elején.
+Emiatt én ránézésre meg fogom tudni mondani, hogy nagyjából és valószínűleg mennyit melóztál, hogy előállítsd nekem a
+választ. Akár egy lakatlan szigeten ücsörögve, cerkával meg kockás papírral! +
+Azt pedig még pontosabban meg tudom becsülni, hogy két alternatív verzió közül melyiken dolgoztak többet! -
+emlékszünk még?
+____
+
+Amit itt ismertettem, az a Bitcoin által használt Proof-of-Work eljárás egyszerűsített leírása.
+
+A Proof-of-Work, azaz az elvégzett munka igazolása -- véleményem szerint -- mérföldkő a számítástechnikában,
+több szempontból is. Hosszú cikkeket fogok még írni Energiáról, Orákulum Problémáról, Fedezetről, Értékről,
+Skálázhatóságról és írtam eddig is Konszenzusról.
+Azt állítom, a digitális világban a Proof-of-Work ezeknek mind vagy elemi része, vagy közvetlenül kötődik hozzájuk.
+Minden fent említett területen maradandót hozott. +
+Számunkra most mégis a leglényegesebb, amit a Proof-of-Work -- jól implementálva -- megold az:
+
+====
+A digitális rendszer határain kívül *dedikáltan* elhasznált Energia-mennyiség relatív becslése.
+====
+
+-- Miket beszélsz, pajtikám? -- hallom szopránba hajló hangodat lelki füleimmel, Drága olvasóm.
+-- Kérlek, ne vetíts itt nekem rébuszokban! Nem hülye vagyok, de utálom, ha valamit fölöslegesen bonyolultan adnak elő!
+
+Oké. Ne hantázzunk:
+
+-- Mi az hogy rendszeren kívül?
+-- Az Energia nem a szoftverben bujkál. Az egy Fizikai mérőszám, amit tőlem szén elégetésével, hamburgerevéssel,
+napelemmel vagy geothermiával is előteremthetsz. Akárhogy, de az a szoftver látókörén kívül esik, én meg belül szeretnék
+vele számolni.
+
+-- Mi az hogy dedikált?
+-- Tudja a szoftverem, hogy az energiát neki szentelted. Erre a feladatra, és nem valamilyen másik tevékenység
+melléktermékeként oldottad meg a rejtvényt. Nem a netről kerestem neked feladatot, a szoftverem adja a feladványt,
+aminek megfejtése másra nem használható.
+
+-- Mi az hogy relatív?
+-- A technológia fejlődése miatt nem tudom, hogy egy rejtvény megfejtése 10 év múlva mennyi időt, mekkora
+energiabefektetést fog igénybe venni, de azt meg tudom becsülni, hogy egy-egy megoldás egymáshoz viszonyítva mennyi
+energiát használt fel az elmúlt tíz percben - például.
+
+Szóval, ahogy már írtam: *szólásszabadság van, de hallgatósághoz való jog nincs!*
+Aki bebizonyítja, hogy legalább önmaga számára van olyan fontos a közlendője, hogy kizárólag azt alátámasztandó,
+elhasznál valamennyi valóságos *Energiát*, annak és csak annak a közlendőjét fogjuk meghallgatni.
+Energiát, amit a rögvalóságban bármilyen más érték előteremtésére felhasználhatott volna.
+
+Nincs több Trollkodás!
+
+*És ez forradalmi!*
+
+Használjuk ezt az eljárást, annak elbírálására, kit hallgatunk meg - szólt Satoshi, és megalkotta az *Elvégzett munka
+igazolások láncolatát* mint adatbázisát.
+
+Ha a valóságban történő energiabefektetés mellett olyan dolgot akar beleírni valaki ebbe az adatbázisba,
+amit a szabályok nem tesznek lehetővé, akkor azt a valóságos energiát bizony teljesen fölöslegesen használta fel.
+Erre utaltam legutóbbi írásomban, mikor azt fejtegettem, hogy a Blokkok szabályszerűsége is tét, nem csak hogy ki
+írja azokat. A rendszer egyszerűen visszadobja a szabálytalan adatokat. Ki az a rendszer?
+
+Hát a többiek, akik viszont szabályszerűen akarnak adatokat írni. Minden egyes szereplő, aki a protokollt betartva
+dolgozik, csuklóból kukázni fog minden szabálytalan próbálkozást, hiszen az ő szabályos próbálkozása egyel később még
+célba érhet. Ahogyan kukázni fogja a csalást az összes egyébként nem bányászó Node is, akik szabályosan játszanak.
+A csalásom motivációja nullázódik, mert mindenki tudja, hogy a többiek tudják, hogy csaltam, ahogyan az is egyből
+látszik, ha bár érvényesek az adataim, de nem tettem mögé elég munkát.
+Ugyanúgy fölöslegesen dolgozik, aki nem elsőként végez, mint aki először lesz készen, de szabálytalan a Blokkja.
+
+Innentől pedig szabad a pálya, eldördült a startpisztoly, ki-ki írhatja az adatbázist.
+Mostantól nem igaz, hogy egy Blokk pillanatok alatt elkészül, ahogyan az sem, hogy minimális erőforrás árán.
+Nem kérem. Most, aki eleve téves adattal töltötte meg a Blokkját bizony jó előre biztos lehet benne, hogy fölöslegesen
+vette meg a méregdrága lottószelvényt.
+Ahogyan egyébként az is elbukja a befektetett energiát, akinek nem sikerül elsőként létrehoznia a következő blokkot.
+
+Végül pedig: mindenki azt az érvényes blokkokból álló verziót tekinti helyesnek
+-- azaz arról feltételezi, hogy a többiek azt hiszik, hogy én is azt hiszem, hogy ők azt hiszik, hogy... --
+aminek a láncba fűzött, összesített, befektetett munkája a legnagyobb.
+
+Az a kis rejtvény, aminek a megfejtését hozzá kell csapni egy Blokkhoz, ez adja a Bitcoin adatbázisának savát-borsát.
+*Ez a titkos összetevő!*
+Ettől Bitcoin-Blockchain az adatbázis. Ez így együtt: Proof-of-Work és Blockchain az első összetevőnk.
+
+____
+Pistike blokkláncot kért az eladó nénitől, aki kirakta elé a Bitcoin *Elvégzett munka igazolás láncát* mert tudja,
+hogy a blokklánc az Anonim Decentralizált Konszenzus megoldásához kell.
+Pistike pedig megkérdezte, hogy oké, de minek kell ehhez ennyi energia.
+____
+
+Nem kell Pistike, de akkor miért blokkláncot kértél? Van itt a doboz alján pár SQL fajtám, mennyi kell?

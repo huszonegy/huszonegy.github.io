@@ -1,0 +1,53 @@
+== Bizánci hibatűrés - anonim decentralizált konszenzus
+
+=== Bevezető
+=== A BGP
+
+
+== A Bitcoin 4 lényegi összetevője
+
+=== Szoftwer
+
+==== Ösztönzőrendszer
+
+=== Blockchain
+
+=== Proof of Work - ez elvégzett munka igazolása
+
+=== Rendszer mérete
+
+== Energia
+
+=== definíció és az élet / a sűrűbb energiatároló hajszolása
+energiaigény, rabszolgaság, nők munkája, emberi ájtatosság
+
+=== mint végső fizetőeszköz
+
+=== mint fedezet
+
+=== proxy fizetőeszközök
+
+==== Arany - Ezüst
+A valóságos jószágok tehát energia fedezet szempontjából alapvetően egytől-egyig alkalmasak lennének energia fedezetű
+fizetőeszköznek, mert az új egység előállításának Energiaigénye van. Tehát minden
+
+==== Bitcoin
+
+== Nakamoto konszenzus
+
+== Orákulum probléma
+
+=== okos szerződések
+
+
+
+== Pénz tuajdonságai
+
+=== Csoportosítás
+Arany, Bitcoin, KP, banki pénz, CBDC
+
+
+
+=== Felcserélhetőség
+
+==== NFT
