@@ -41,6 +41,10 @@ jobs:
         run: npm run build
       - name: Copy index.html to 404.html, as workaround for GH Pages route issue
         run: cp ./dist/index.html ./dist/404.html
+      - name: Create the .well-known directory
+        run: mkdir ./dist/.well-known
+      - name: Copy the nostr.json to activate NIP05
+        run: cp ./nostr.json ./dist/.well-known/nostr.json
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
