@@ -1,6 +1,4 @@
 <script setup lang="ts">
-import ForumShort from '../components/ForumShort.vue'
-import ForumExplain from '../components/ForumExplain.vue'
 import ArticlesList from '../components/ArticlesList.vue'
 import NewsList from '../components/NewsList.vue'
 </script>
@@ -31,11 +29,15 @@ import NewsList from '../components/NewsList.vue'
         </p>
       </div>
 
-      <div class="fs-5 mx-4" style="margin-top: 30px;"><a href="/news">Friss hírek</a></div>
-      <NewsList :max_count=2 />
+      <div class="fs-5 mx-4" style="padding-top: 30px; margin-bottom: 0 !important;">
+        <a href="/news">Friss hírek</a>
+      </div>
+      <NewsList :max_count = 2 />
 
-      <div class="fs-5 mx-4"><a href="/articles">Friss cikkek</a></div>
-      <ArticlesList :max_count=4 />
+      <div class="fs-5 mx-4" style="margin-bottom: 0 !important;">
+        <a href="/articles">Friss cikkek</a>
+      </div>
+      <ArticlesList :max_count = 4 />
     </div>
   </main>
 </template>
