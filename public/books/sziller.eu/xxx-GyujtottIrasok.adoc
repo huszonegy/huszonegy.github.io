@@ -1,0 +1,401 @@
+Bitcoinról
+A bizánci generális problémája – decentralizált konszenzus
+Elutazik a gyereked külföldre egy idős ismerősödhöz egyedül, ezért előre megállapodtok, hogy ha odaért, megcsörget telefonon. (itt is, ott is vonalas telefon van - nem mutatja a hívószámot). Abban maradtok, mivel drága lenne neki, te nem veszed fel a telefont. Viszont visszacsörgeted, hogy hallottad a csörgést, és hogy tudja, hogy hallottad. És persze ő sem fogja felvenni, hiszen elég, ha csörög a telefon, …nem?
+Következő a probléma. Ő biztos lehet benne, hogy Te hallottad? És Te biztos lehetsz benne, hogy ő hallotta? Hányszor kell ide-oda csörrenteni, míg teljes bizonyossággal tudja mindkettőtök, hogy a másik is tudja, hogy te tudod, hogy ő tudja…. Ugyanis, mi van, ha másvalaki csörgött, mi van, ha épp a kádban volt, és nem hallotta, stb., stb.… Egyáltalán, létezik-e olyan trükk, amivel mind a ketten biztosak lehettek benne, hogy egyik ugyanazt gondolja, amit a másik?
+Summázva: lehet-e közöttetek valaha is tökéletes egyetértés (konszenzus) a valóságról, vagy annak egy részéről adott időpontban?
+
+Válasz: Nem, nem lehet. Erre a problémára ugyanis NINCSEN tökéletes megoldás.
+Matematikailag bizonyított tény, hogy a tökéletes konszenzus lehetetlen!
+
+Források:
+Két szereplőre:			https://en.wikipedia.org/wiki/Two_Generals'_Problem
+Tetszőleges számú szereplőre:	https://en.wikipedia.org/wiki/Byzantine_fault_tolerance
+http://research.microsoft.com/en-us/um/people/lamport/pubs/byz.pdf
+
+Ez a probléma – különböző formában – viszont elképesztően sok területen merül fel. El sem hiszed, hogy mennyi területen. A decentralizált rendszerek rákfenéje. Az egész Internet biztonságban gondot jelent (legkézenfekvőbb: ’pingelés’ kezelése).
+Azt állítom, hogy a jogrendszerünk létezésének többek között ez a probléma az egyik legfőbb oka. Emiatt nem tudnak szélesebb körben elterjedni a decentralizált rendszerek. Ezért hozunk létre autoritással rendelkező, ha úgy tetszik „hatalmi” központokat. Ugyanis nem tudunk „bizalom nélküli” rendszereket üzemeltetni: Képtelenség ugyanis konszenzust létrehozni anélkül, hogy az egyetértés tárgyát képező információt egy helyen (fizikai vagy absztrakt) ne tárolnánk. És még csak el sem kezdtünk több szereplőt bevonni az egyenletbe.
+Két szereplő között még így-úgy ki tudunk találni áthidaló megoldásokat, de már két szereplő között is a harmadik fél bevonása, és az ő jogi úton történő felelőssé tétele mindenféle területen a megoldás. A problémát tehát soha nem tudtuk megoldani, hanem bizalmat vetettünk a felelősséget toltuk át valakire, aki ezt – ellentételezésért – vállalta, ő volt a megbízható központ, ahol – egy helyen – az információt tároltuk, és abból indultunk ki, hogy nála az információ nem sérül.
+A vázolt matematikai problémára vannak persze praktikusan használható áthidaló decentralizált megoldások a feladattól függően, de a probléma általános, skálázható kezelése nincs megoldva. És hatalmas számú azon területek száma, ahol a probléma megoldása nélkül nem tudunk decentralizált működést elérni.
+
+Lássunk egy kézenfekvő példát!
+Digitális fizetési rendszer
+Ha decentralizált digitális pénzügyi tranzakciókról beszélünk, akkor elviekben MINDENKINEK tudnia kellene, hogy történt egy tranzakció, nem? Legalábbis abban egészen biztosnak kellene lennie mindenkinek, hogy nem történt szabálytalan tranzakció. Különben mindenki gyárthatna magának digitális pénzt: Honnan tudnám én ui.,
+    1. hogy egy egység mögött valóságos fedezet van, vagy
+    2. hogy ugyanazt a digitális fizetőeszközt nem költötted el többször, vagy
+    3. hogy egy digitális fizető egység valaki mástól került Hozzád, és nem Te gyártottad?
+E 3 dolog garantált teljesülésében biztosnak kell lennie minden szereplőnek! Ráadásul ugye ez azt is jelenti, hogy minden pillanatban ismernie kell minden szereplőnek, a fizetőeszköz tényleges mennyiségét. (…)
+A Bizánci generálisok (decentralizált konszenzus) problémája miatt azonban ezeket elvben nem tudhatom. Ezért bízzuk e kritériumok ellenőrzését, és betartatását – megbízható (úúúúú...!) – központi szereplőkre, például a bankrendszerre. Ebben a pillanatban viszont centralizáltuk a rendszert: a központi szereplő szabályszerű viselkedése a rendszer működésének garanciája
+
+Fizikai fizetőeszközök esetén (arany) az 1. és a 2. pontot a fizikai valóság garantálja, a 3. pont a hamisítással függ össze, és emiatt merült fel a történelem folyamán az igény a szuverén szereplőre.
+A probléma ugye itt a felcserélhetőségből adódik. Az információ könnyedén sokszorosítható, az anyag viszont nem. Szóval a kézzel fogható fizetőeszközöknél a másolhatóság igazából a hamisítással szinonim, míg a digitális világban a hamisítás - ilyen szövegkörnyezetben – értelmezhetetlen. Ott a másolás a gond.
+Érdekesség:
+Bizonyos korai törzsek „pénzforgalma” úgy működött, hogy egyes nagyobb, nem mozdítható kövek tulajdonjoga vándorolt valakiről-valakire, és ezzel MINDEN törzstag tisztában volt. Csak így lehet működtetni egy olyan decentralizált rendszert, ahol a tulajdonjoghoz nem jár praktikusan a birtoklás joga.
+Link: https://en.wikipedia.org/wiki/Rai_stones
+
+A pénzügyi rendszerben (is) tehát ezt a gondot – a decentralizálhatatlanságot - úgy orvosoltuk, hogy rábíztuk harmadik szereplőkre a fizetőeszköz kezelését, és a tudást, hogy mennyi pénz, kit illet (hiszen birtoklásról ugye nem beszélhetünk digitálisan sokszorosítható információ esetében). Ha a bank azt mondja, hogy az a pénz valódi, akkor ezt elhisszük neki, ha Tőle kapjuk, valódinak feltételezzük (elhisszük, hogy van fedezete). Lásd még clearing folyamat.
+Ebben a harmadik szereplőben bízunk. Ez a harmadik személy pedig tulajdonképpen fenntart egy könyvet, amiben számon tartja, kinek-kinek hány egységnyi fizetőeszköz van a számláján.
+
+Elég egy pillantás a banki gyakorlatra, és látható, sőt törvényileg rögzítve le van írva: - mióta a Bankok felügyelik a pénzmennyiséget, csak ők hamisíthatnak hozhatnak létre fizetőeszközt a semmiből. Fedezet nélküli fizetőeszközt! (résztartalékon alapuló pénzügyi rendszer)
+Ráadásul ugyebár elegánsan elhallgatják a megalkotott fizetőeszköz teljes mennyiségét.
+Jelezném ez a tény vágja gallyra az egész világgazdaságot. (erről a problémáról írtam az 5 részes esszé sorozatomat. - sziller) Miért, azt gondoljuk, hogy az illegális pénzhamisítás törvénytelen, és rossz dolog, de ha a bank csinálja legálisan, teljes gőzzel, az valamiért jó lesz? … hát…gondoljuk újra!
+
+Mivel azonban a probléma gyökerét jelentő matematikai ellentmondás megoldhatatlan, sokáig úgy látszott, ez így is marad.
+Eddig a múlt.
+
+Satoshi ötlete
+2008-ban egy Satoshi Nakamoto néven futó, tisztázatlan identitású valaki(k) megoldotta(-ák) a Bizánci generális (decentralizált konszenzus) problémáját. Tetszőleges számú és identitású szereplőre.
+A megoldás nem tökéletes, hiszen a tökéletes megoldás – ugye tisztáztuk – elvileg lehetetlen. Satoshié viszont annyira megbízható, és annyira gyakorlatias, hogy nyugodtan kijelenthetjük: letudva. A megoldás ugyanis skálázható, az igényeinknek megfelelő bizonyosság érhető el a konszenzust illetően, és ennél többet természettudományokban nem kívánhatunk. (A matematikát NEM tekintem természettudománynak).
+A valóságban MINDENRE csak eléggé jó megoldásunk van. Satoshié pedig briliáns megoldás, sokan azt pedzegetik, hogy emberfeletti zsenialitásra vall.
+A Satoshi-féle megoldás valószínűségi (probabilisztikus) alapon működik, és az idő előrehaladtával egyre biztosabbak lehetünk a teljes körű konszenzust illetően.
+- Vannak-e területek, ahol nem használható a megoldás? – természetesen!
+- Van-e lehetőség javítani az eljáráson? – hogyne!
+- A világ összes problémáját letudtuk? – korántsem!
+Viszont akkora lépést tettünk, az ismertetett probléma megoldásában, amiről korábban álmodni sem mertünk...
+(már azok a szerencsétlenek, akik ilyen dolgokról álmodnak.)
+
+Szóval, amikor azt firtatja valaki, hogy mi a Bitcoin jelentősége: - találmány ez?, - vagy egy titokzatos cég?, - vagy egy fizetőeszköz? Esetleg egy program? Egynyári hír, piramisjáték? Bohókás fickó unalmában írt valami érdekeset? Geekek internetes pénze, vagy mi a szösz…?
+    • Lószart.
+Satoshi gyakorlatban megoldotta a Bizánci generálisok problémáját tetszőleges számú és identitású szereplőre. A megoldási útmutatót pedig nyilvánosságra hozta.
+A Bitcoin rendszere csupán egy alkalmazása a megoldásnak. Satoshi kvázi kipróbálta, hogy a valóságban hogyan működik a dolog…
+Azóta mások is megpróbálták megvalósítani a decentralizált konszenzust. Mivel tökéletes megoldás nincs, így talán célravezető azt a megoldást a legjobbnak tekinteni, amire a bolygó lakossága a legnagyobb értéket bízza.
+
+
+    1. A 7 vezető digitális fizetőeszköz adatai, Euróban számolt piaci kapitalizáció alapján rendezve. 2016 vége.
+Más kérdés, hogy a nem kellően nagy energiaigényű coin-ok nem képesek a decentralizált konszenzust kellő érték tárolásával fenntartani, így szerintem végül az értéktárolás problémájára a „csak egy maradhat” tendencia fog érvényesülni. (ironikus, hogy éppen a rendszer lényegét kritizálják, akik a nagy energiaigényben keresik a problémát. - erről még később)
+
+Szerintem a Kerékkel, meg a Tűzhasználattal van egy szinten a felfedezés, és innentől kezdve nem lesz könnyű „nemfelfedezetté” tenni, vagy nyilvánítani, esetleg mindenkivel elfelejttetni.
+Az meg, hogy a bankvilág, a pénzügyi világ foggal-körömmel tiltakozik is csak azért van, mert ez a szektor volt a legjelentősebb terület, ahol az alapprobléma léte generált horribilis hasznokat, és egész világra kiterjedő hatalmat, ellenőrzést. Nos, e helyzet gyökerét irtotta ki egycsapással Satoshi Nakamoto.
+
+2008-ban Satoshi a bankszektort – elvben – kiváltotta egy 500 soros számítógépes programmal, és az elvet elmagyarázta egy 9(!) oldalas értekezésben.
+Satoshi Nakamoto: Bitcoin: A Peer-to-Peer Electronic Cash System:	https://bitcoin.org/bitcoin.pdf
+
+Az elképzelés, hogy most majd a bankok rátelepednek, és elkezdik használni, meg hogy csinálnak maguknak saját, privát bitcoin utánzatokat, az kb. azzal analóg, hogy „fú, tök jó ötlet ez az Internet, de mi majd létrehozunk intraneteket a vállalaton belül, és hogy ez milyen jó lesz, mert azt majd mi ellenőrizzük: Egy nyílt, mindenki által használható, ellenőrizhető, szabadon fejleszthető és befolyásolható platformot majd mi szépen megcsinálunk, zártan, privátban, úgy hogy más ne tudja ellenőrizni, használni, csak mi, ők meg majd fizetnek érte nekünk. Pont mint eddig, csak most totál másként…”
+Baráááátom! Ezek az agónia hangjai, és én a saját részemről kifejezetten jót mulatok, miközben ezeket a véleményeket hallgatom!
+2009 óta nem létezik az alapprobléma, ami miatt a Bankokat létrehoztuk. Roppant szórakoztató, mikor a megoldást egy Bank akarja felhasználni. Ráadásul az a helyzet, hogy az égvilágon semmit nem lehet a találmány ellen kezdeni. Semmit.
+
+A jóisten szerelmére, azzal a felfedezéssel, amit mostantól mindenki ismer, és ami feleslegessé teszi a bankrendszert, mégis mire mennek a bankok? Nem a feladatukat egyszerűsíti, hanem a létezésüket teszi okafogyottá!
+
+Az, hogy a legtöbb „szakértő” be akarja tiltani, vagy szabályozni akarja, (esetleg szét akarja választani a Bitcoint a Blockchaintől (ez a megoldást jelentő módszer által szükségszerűen létrehozott adatbázis)), azt gondolja, hogy a meglévő pénzügyi rendszer majd adoptálja valahogyan a Bitcoint;… nos az is csak azért van, mert az említett ”szakértőknek” halvány lila sejtelmük sincs róla, hogy mi történt.
+A legtöbbjük a pénz fogalmával sincsen tisztában.
+E szétválasztási kísérlet pótcselekvés jellegét a Bitcoin típusú rendszerek taglalásakor érintem.
+
+Nem kell nagy merészség, hogy kijelentsük, és kijelentem:
+A pénzügyi szektornak, bank „iparágnak” vége. A létezésének okát jelentő megoldhatatlan alapproblémát megoldottuk.
+    • Nyugalom, hátra lehet dőlni, és élvezni a műsort. CSAK IDŐ KÉRDÉSE.
+
+- Lesznek-e a jövőben bankok?
+Ha 1400 körül valaki a puskapor térnyerésének kezdetén https://en.wikipedia.org/wiki/History_of_gunpowder megkérdezte volna, hogy lesznek-e a jövőben íjászok, mit felelnénk neki?
+Ugyanez a válaszom a fenti kérdésre.
+A bank 2008 óta nem egy intézmény, hanem egy alkalmazás.
+
+És persze a bitcoin pénzügyi vonatkozásán kívül (ami elsőre nyilván a legnagyobb hatású) ezer és ezer területen fogjuk tudni kivágni életünkből a „middle-man” típusú, középen elhelyezkedő – közvetítő – szereplőket. Mindazon területeken, ahol a középső szereplő létezését első sorban a Bizánci generális problémájának megléte indokolta. Elképesztően sok ilyen terület van.
+
+Pár egyszerű példa:
+    • Az ügyvéd szerződéskötéskor (gondoljunk itt bármiféle szerződésre): Egyrészt leprogramozhatóvá vált a tökéletes konszenzuson alapuló megállapodás, másrészt önmagát végrehajtja a szerződés (teljesítés ellenőrzés, fizetés), harmadrészt, ha ezek után amúgy fel is merülne teljességgel alaptalan „jogi” vita, az anyagi következmény behajthatatlan, mert nincsen a forrásokat kontrolláló kényszerítő és kényszeríthető szereplő.
+    • A közjegyző: Két fél közötti megállapodást (legyen az bármilyen két fél) nem kell hitelesíteni. Ha fent van a Blockchainen, akkor az megtörtént, igazolt. (esküvő, állampolgárság, nyelvvizsga, stb.…) A matek nagy úr.
+    • Szavazások, választások: egy egyszerű, elsőéves egyetemista által lefejlesztett rendszer tökéletesen kizárja a számoláskor elkövethető választási csalások lehetőségét. Elképesztő effektíven. Olcsó, egyszerű, és tökéletesen hamisíthatatlan.
+    • Adott esetben elképzelhető, hogy az identitásunkat is decentralizáltan fogjuk tudni, mi magunk menedzselni úgy, hogy kinek-kinek csak az aktuális szituációban fontos adatunkat fogjuk célzottan és titkosítva igazolni (nem kiadni). (Push, és nem Pull rendszer.) Egy biometrikus identitás meghatározás eredményeként létrejött privát kulcs tökéletesen leírhat egy személyt, de az adataidat mégsem adod ki, mindössze kódolva a Blockchainen tárolod. A boltban csak annyit igazolsz, hogy elmúltál 18, a határátlépésnél, hogy magyar állampolgár vagy, az egyetemen, hogy érettségit szereztél. Nem kell a teljes adatcsomagodat újra és újra mindenki számára átadnod, csak a ténylegesen szükséges részéről készült - kulccsal védett - igazolást.
+    • Vicces, hogyan terjed és arat az Über, vagy az AirBNB? Várd ki a végét, míg megírják decentralizáltra! Jelzem az Ebay már megvan: Open Bazaar-nak hívják. Az elsőt.
+
+Elképzelésünk sincsen, miféle gyökeres, forradalmi változást fog okozni Satoshi találmánya. Nem hiszem, hogy érdemes a jelzőkkel fukarkodni.
+Nos akkor, mi ez a Bitcoin dolog.
+Ez egy:
+    • decentralizált adatbázis,
+    • egy a konszenzust megalapozó proof-of-work algoritmus, ezt a kettőt üzemeltető
+    • decentralizáltan futó számítógépes program, vegyítve egy okosan hangolt
+    • játékelméleti ösztönző rendszerrel.
+    • Mindez egy fű alatt – számosságában és energiafelhasználásában – hatalmasra nőtt decentralizált hálózaton működtetve.
+
+Ezekről röviden:
+    • A decentralizált adatbázist hívjuk Blockchainnek (blokklánc)
+    • Az algoritmust a Bitcoin program alkalmazza. Ennek a lelke a konszenzus mechanizmus. Ez egy újabb esszét érne, de jegyezzük meg: ez az elem az, amit a központosított bankrendszer elvben nem tud átvenni, mert ez decentralizálja a találmányt. Enélkül a Blockchain egy sima, kifejezetten szögletes, egyáltalán nem hatékony adatbázis.
+    • A program a Bitcoin motorja, ennek különböző verziói futnak a decentralizált hálózat gépein, ez a motor hajtja végre a számításokat.
+    • A játékelméleti szabályrendszer pedig garantálja, hogy a feleknek érdekük legyen a szabályokat betartva játszani. Ez írja le a bitcoinok (kisbetűvel) – mint egységek – kibocsátásának feltételrendszerét is.
+    • Ez az egész pedig kizárólag azért feltörhetetlen, illetve időben teljesen szabadon használható, mert a rendszer olyan irdatlan energiamennyiséggel igazolja a decentralizált konszenzust, ami akkora számítási kapacitást biztosít, hogy mostanra a világ legnagyobb szuverén entitásainak együttműködésével sem lehet ennél többet bevetni ellene.
+
+Bitcoin-nak (nagybetűvel) hívjuk a Satoshi által a saját ötletének igazolására indított első, gyakorlati alkalmazást, ami az említett 4 (-5) elemből áll, olyan beállításokkal, amivel ő finomhangolta.
+
+A Bitcoinon kívül százszámra léteznek már decentralizált adatbázisok, amik a Satoshi által megoldott matematikát használják, de sok-sok faktorban különböz(het)nek. Miután az elv ismert, holnap reggel Te is létrehozhatsz egy decentralizált adatbázist, amit pl. a Nőegyletben végrehajtott tevékenység kiértékelésére használtok, vagy a cikkek impakt-faktorait tartjátok benne nyilván, esetleg a cserkészcsapat anonim szavazását bonyolítjátok vele, de nem kell, hogy Juliska vezesse a kockás lapon, mert mindenki mobilján ott van az állás, és garantált az összhang. Ráadásul, ha belép egy új tag, csak letölti, és máris használhatja. Ezek a nulláról indított adatbázisok kizárólag addig a szintig lesznek decentralizáltak, amíg az üzemeltetők valamely csoportja nem éri el a kritikus energia-kontrollt. Ezt úgy kell elképzelni, hogy egy-egy adatbázishoz elvben értéket rendelünk. A PoW addig tud decentralizált működést biztosítani, amíg az adatbázis írásával próbálkozó szereplők nem fektetnek lényegesen nagyobb energiát a versenybe, mint amennyit az ér. (az értéket pedig az univerzális értékmérőben -  Energiában célszerű eleve mérni)
+
+A Bitcoin rendszerben (és valamennyi Satoshi-féle decentralizált adatbázisban) az információt kis kvantumokhoz csatoljuk, ezeket a kis kvantumokat a Bitcoinban bitcoinnak (kisbetűvel) hívjuk. Ezen bitcoinok építik fel a decentralizált adatbázist. A bitcoinok nem mozdulnak meg, csak a fölöttük történő rendelkezés joga vándorol egyik felhasználótól a másikhoz. (emlékszel még: mint a kövek a törzs elszámolásában)
+Ezeknek a kis kvantumoknak van értéke, hiszen egyrészt véges a számuk, másrészt – egy rakás tulajdonság következményeként – korlátlan a határhasznosságuk.
+
+Megjegyzés: valójában a bitcoinok sem léteznek az adatbázisban, mint objektumok. A rendszer igazából tranzakciókat tart számon, pusztán az egyszerűség kedvéért beszélünk bitcoinokról, mint statikus kvantumokról.
+
+A felhasználócsere pedig egy régi-régi, mocskosul feltörhetetlen „2-kulcsos kódolás”-i technológián alapul, amit egyébiránt az USA titkosszolgálatai is szeretnének régóta betiltani (asszem a 70-es évek környékén találták ki), mert feltörni „sajna” nem lehet. Brutálisan biztonságos.
+2 256  méretű bináris számzárakat kellene feltörni… na azt nem érdemes kivárni. Ja, és növelhető ám a szám!
+Link: https://en.wikipedia.org/wiki/Public-key_cryptography
+
+A Blockchain adatbázis, és benne a bitcoinok, akárkinek a számítógépén lehetnek, és egyre több ember gépén vannak is. A Bitcoin működési elve (konszenzus mechanizmusa) pedig garantálja, hogy az adatbázisok a világ összes felhasználójának gépén megegyeznek.
+
+10 percenként hozzáírunk az adatbázishoz egy újabb BLOCK-ot (egy oldalt a könyvelésünkbe) ami 2 dolgogból van összegyúrva:
+    • (I.) az elmúlt tíz percben lezajlott átutalásokról készített HASH kódból.
+    • (II.) az ÖSSZES eddigi Block adatait magába foglaló HASH kódból.
+
+HASH kód: egy tetszőleges adatról készített ujjlenyomat jellegű megkülönböztető kód. Az eredeti adatról mindig ugyanaz a HASH készül el, de minimális változtatás az eredeti adatban totális változást okoz a HASH-ben.
+A HASH-ből az eredeti adat nem fejthető vissza, de ugyanannak az adatnak a HASH-e ugyanazzal az algoritmussal mindig ugyanaz lesz.
+
+Egy felhasználó, aki letöltötte a gépére ingyen és szabadon a BITCOIN programot és a Blockchaint, valamint futtatja a Bitcoin szoftvert, és ezáltal üzemelteti a rendszert, ő a BÁNYÁSZ. Két dolga van:
+    1.) a kezdeményezett tranzakciókról eldönti, hogy szabályosak-e
+    2.) a szabályos tranzakciók közül a lehető legtöbbet összefogva megpróbál legyártani egy az (I.) és (II.) pontban leírt kombinált HASH-t, azaz megpróbálja előállítani a következő BLOCK-ot.
+A húzós feladat a 2.) pontban leírt. Ugyanis ezt a feladatot - elvileg is - csak próbálgatással lehet megoldani. Amihez energia kell.
+A rendszer ráadásul előír egy dinamikusan változó (rendszerint nehezedő) feltételrendszert. Azaz olyan HASHT kell kitalálgatni, aminek egy növekvő hányada a rendszer által meg van kötve.
+
+Ennek a feladatnak a megoldása nehezedik dinamikusan úgy, hogy mindig közel 10 percenként lehessen kitalálni, annak függvényében, hogy hányan kísérleteznek.
+
+Az a Bányász, aki először fejti meg az utolsó 10 perc tranzakcióinak HASH-ét, egyből szétküldi a nagyvilágba, és mindenki kezdheti a következő BLOCK megfejtését. Ő pedig – jutalomként – ebben az újonnan generált BLOCK-ban jóváír magának egy előre meghatározott mennyiségű bitcoint, a semmiből! Ennek az újonnan létrehozott bitcoin adagnak a fedezete tulajdonképpen az összes Bányász által elhasznált energia. Ha semmi más nem is adna értéket a Bitcoinnak, ez a tény természeténél fogva ad. (lásd még arany)
+Vegyük észre, a bányász elnevezés abból a szempontból félreérthető, hogy a végrehajtott feladat valójában a rendszer biztonságát, megmásíthatatlanságát garantálja, és a „kibányászott” egységek csupán, mint e tevékenység jutalma kerül hozzá – feltéve, hogy szerencséje van.
+Kő kemény verseny folyik tehát a bányászok között, hogy ők oldják meg a következő 10 perces feladványt, amihez irgalmatlan nagy erőfeszítés (energia) szükséges.
+Ha amúgy véletlenül többen jönnek rá az új, aktuális HASH-re, akkor az a verzió nyer, amelyik hosszabb, tehát újabb.
+
+Egyébiránt a (II.) pont adja a rendszer azon tulajdonságát, hogy megváltoztathatatlan. Tudniillik minden 10 percben ellenőrizzük a teljes történelmet, az adatbázis összes másolatában. Az előző BLOCK-okra fűzünk fel egy újabbat. Láncot hozunk létre (CHAIN angolul LÁNC) Ezért hívják az adatbázist BLOCKCHAIN-nek.
+
+Ahhoz, hogy egy 12 perccel ezelőtti átutalást megváltoztassunk, az egész bolygón működő hálózatnál gyorsabban ki kéne számolni az aktuális ÉS az előző BLOCK tranzakcióinak a Hashkódját! Ha a tegnap délutáni tranzakciót akarjuk átírni, akkor kb. 80 BLOCK-nyi adatnak a teljes újraszámolását kellene valahogyan megoldanunk annyi idő alatt, amíg a többiek egy BLOCK-kal végeznek.
+Utána pedig nincs más dolgunk, mint ezt a számítási kapacitást örök időre fenntartani... Mondom, elvileg nem tökéletes a megoldás… Gyerekjáték feltörni…
+
+Na erre mondják, hogy megváltoztathatatlan. Ráadásul, ha valaki valamilyen 22. századi Quantum számítógéppel képes is lenne pár órára visszamenőleg ilyen változásokat eszközölni, a motivációs rendszer miatt jobban jár, ha egyszerűen arra használja a kapacitását, hogy inkább megfejti a soron következő Blockok hash-ét, és ezzel termel hasznot, tovább erősítve a rendszert, és nem megroppantva a bizalmat, a saját gazdagságát biztosító felállásban. Már csak azért sem, mert a találmány ugye skálázható, tehát Quantum számítógépekre is működik, szóval ha megremeg a bizalom , az érdekeltek pillanatok alatt Quantum-biztossá tehetik konszenzus segítségével. A találmány lényegén nem kell változtatni.
+
+Bizonyos időközönként a rendszer elfelezi – halving –  a sikeresen megfejtett Blokkokért járó jutalmat, azaz csökkenti az adott idő alatt létrehozható új bitcoinok számát. Csökkenő Infláció (- figyelem az Infláció szót itt a HELYES értelmében használom, a fizetőeszköz mennyiségének a növekedését értem alatta – á lá Milton Friedman). Csökken a bitcoinok mennyiségének növekedési üteme. Valamikor 2140-re az összes bitcoin létre lesz hozva, onnantól nincs több, azzal lehet gazdálkodni, ami van.
+
+
+    2. A bitcoin egység kibocsátási görbéje
+
+Ki van ez találva.
+Nem véletlen egyébként a terminológia sem: BÁNYÁSZ, COIN (érme). Ezek az arany kitermelési és használati mechanizmusaira hajaznak. Satoshi a saját maga által indított rendszer finomhangolását az arany analógiájára végezte: Egyre fogyó készletek, energia mint fedezet, nehezedő kitermelés, stb.…
+
+A Bitcoin rendszerének lényege, és forradalmi jellege
+Az alábbi két vonás, a leírt fontossági sorrendben:
+    1.) Általános, tetszőleges számú szereplő számára megoldás a Bizánci generális problémájára (statikus, időben pontszerűen – újra és újra lejátszódó esemény) egy proof-of-work alapú konszenzus algoritmust használó adatlánccal.
+    2.) Az egységek létrehozásának, elosztásának és újraelosztásának megvalósítása (dinamikusan, időben folyamatosan). Ezt a faktort implementálta Satoshi akképp, hogy a rendszer résztvevői számára egyúttal ösztönzőként is hat.
+
+A Bitcoin egyes részeit tehát ki-ki a maga szájíze szerint átírhatja, ha egy új Bitcoin-szerű adatbázist kíván létrehozni, de állításom szerint e két faktor megváltoztatása a találmány lényegét veszi el, és teszi az újonnan alkotott decentralizált adatbázist értelmetlenné. Ezért gondolom, hogy igazából nem lesz másik „kriptovaluta” ami felérne a bitcoin szintjére.
+Hogy világos legyen, miféle változtatható tulajdonságokról is beszélek, itt egy rövid leírás a Bitcoin vonásairól. A színes kitételeket ki-ki megváltoztathatja, és létrehozhat egy újabb decentralizált adatbázist (fizetőeszközt)
+Állításom szerint viszont a pirossal szedett beállítások megváltoztatásának hatására a rendszer a találmány lényegi és forradalmi tulajdonságait veszítené el.
+
+A Bitcoin egyenrangú rácspontokból (node) áll. Ezek a pontok egyetértenek a tárolt adatok tartalmában, és a tárolás időpontjában, anélkül, hogy szükség lenne megbízható harmadik félre (trusted third party)
+A konszenzust egy skálázható léptékű proof-of-work eljárás biztosítja.
+A szabadon belépő szereplők közötti verseny „a győztes mindent visz” alapon az újonnan létrehozott egységeket a győztesnek súlyozott véletlenszerűséggel írja jóvá, lehetővé téve, sőt ezáltal ösztönözve a növekvő számú szereplő részvételét valamit egyes szereplők energiaráfordítását, mely növekvő számú szereplő egyszersmind a rendszer biztonságát növeli, és a hálózati hatás (network effect) miatt a rendszer elterjedését is biztosítja.
+Egy-egy információ-csomag Public-Private titkosítással kódolva kerül tárolásra, azaz csak a Privát kulcs segítségével társítható egy másik privát kulcshoz (ruházható át)
+Az információ csak az adatbázisban meglévő, és korábban abban keletkezett, matematikailag igazolhatóan, minden szereplő számára transzparensen szabályozott mennyiségű kvantumokhoz rendelve tárolható, melyek mennyisége korlátosan növekszik, tehát véges számú.
+Egy adott időegység elteltével frissül az adatbázis, mely minden frissítés alkalmával visszamenőleg egy hash segítségével a korábbi teljes adatbázist megváltoztathatatlanul, konszenzusosan lezárva tárolja az újonnan érkezett információ-módosításokat. Minden újonnan tárolt információ időpecséttel ellátva kerül tárolásra.
+A rácspontok ellenőrzik az új állapot szabályosságát, az elvégzett munkát, majd folytatják az újonnan érkező információ beépítését az adatbázisba.
+Az adatok változásáról hash jellegű ujjlenyomatok készülnek, melyek egymásra épülve tartalmazzák a korábbi változások ujjlenyomatait is.
+
+Itt válik világossá, hogy miért nem érti a találmány lényegét, aki a Bitcointól elválasztva a Blockchain-ben látja a forradalmi újítást. (jelenlegi Bankszektor):
+- Vedd ki bármelyik elemet a fent ismertetett kéttagú listából, (vagyis változtasd meg bármelyik pirossal írt tulajdonságot) és egy hétköznapi (és meglehetősen ineffektív) adatbázist kapsz, mely a jelen technológiai tudásunkhoz viszonyítva eleve túlhaladott, és lényegesen hatékonyabban megoldható egy klasszikus, centralizált modellel, ahol a hatalmat gyakorló központban kell bízni.
+    • Hagyd meg a rendszer két lényegi jellegét (azaz a piros vonásokat) és a központi szereplő fölöslegessé, hátráltató tényezővé válik.
+Azt viszont ismét fontosnak érzem leszögezni, hogy a teljes energiafelhasználás óriási mennyisége ami valójában garantálja az 1. pontot. Így nem látom, hogyan tudna egy nulláról indított rendszer a bitcoin fölé nőni. Hiszen a Bitcoin önvédelme a veszély felmerülésekor megtámadná az alternatív rendszert, és erőből ellehetetlenítené.
+Az energiaigény kritikája
+Akik a Bitcoin rendszer túlzott energiafelhasználását kritizálják, három alapvető dologról feledkeznek meg.
+    • A decentralizált konszenzus igazoltan megoldhatatlan, Satoshi mégis megoldotta.
+      Tök nyilvánvaló, hogy egy ennyire rendkívüli, és ekkora volumenű probléma megoldásához irdatlan vargabetűk és kompromisszumok kellettek. Akad a Bitcoinban egy:
+        ◦ Lomha, redundáns, óriási méretű, folyton növekvő, csak bővíthető, viszont igen korlátozott adat-egység-méretű adatbázis, ami minden más felhasználásra teljességgel alkalmatlan(!)
+        ◦ Körülményes motivációs rendszer
+        ◦ Egyenlőtlen egységkibocsájtás
+        ◦ egy rendszer, ami „pusztán” valószínűségi alapon hozza meg a döntései legnagyobb részét.
+      Leginkább a találmány legutolsó lépése, ami nem hatékony, az energiaigény. Utolsó lépés ez időben is, mert – bár az emberiség túlnyomó többsége azt gondolja, hogy a Bitcoin a semmiből jött –, valójában a 60-as évek óta folyamatosan próbálkoztunk decentralizált pénzekkel, de nem tudtuk megvalósítani a ténylegesen decentralizált konszenzust. Az energiafelhasználáson kívül már MINDEN részlet rég ki volt találva. Ez hiányzott.
+      A PoW, azaz az energiaigény oldotta meg végül megoldhatatlan problémát: A Proof-of-work. Az energiaigénytől az a rendszer, ami. Ettől decentralizált és ettől megmásíthatatlan a konszenzus. Ha úgy tetszik, a PoW a titkos adalék. Ráadásul, mivel a rendszer valószínűségi alapon működik, minél nagyobb az energiaigénye, annál biztonságosabb. Ha tehát ezt a problémát akarod megoldani, az ennyi energiába fáj...
+      Legyen kisebb az energiaigény? Semmi gond: az eddigi adatbázisainknak mind kisebb. Csak azok nem képesek decentralizált, szabadon használható, semleges és megmásíthatatlan konszenzus létrehozására. Hmm... nos tehát?
+    • Bármiről kijelenteni, hogy „drága” teljességgel értelmezhetetlen. Mi „drága”, azaz mi az hogy túl sok az energiafogyasztása valaminek. Ahhoz, hogy valamit bárki „drágának” nevezzen, először is meg kellene néznünk, mit kapunk azért az energiáért.
+      A Bitcoin rendszer által felhasznált energia a Föld nevű bolygó egyetlen igazoltan feltörhetetlen, decentralizált adatbázisát tartja fenn és üzemelteti, aminek elméleti megvalósíthatóságáról 2009-ig eleve azt feltételeztük, hogy még csak nem is lehetséges. Azon egymástól független és számos esetben kifejezetten ellenérdekelt bolygólakók számára, akik a számukra elérhető energia egy részét arra fordítják, hogy egy matematikailag garantált megmásíthatatlan adatbázist tartsanak fenn, ez a tevékenység – úgy tűnik – megér ennyit. Tehát definíció szerint nem drága. Vagyis definíció szerint nem túl sok számukra az erre fordított energia. Senki nem kényszerít senkit, hogy üzemeltesse a Bitcoin rendszerét. Akinek ez az adatbázis megéri a befektetett energiát, az beleteszi. Bányásztól  nem fogod hallani, hogy fúúú, de drága. Akkor majd nem bányászik...
+    • Egy másik megközelítése a rendszer energiaigényének is viszonylagos, ti. Az „alternatív” pénzügyi rendszerhez képest. Az alternatív szó itt mókás, hiszen a teljes eddig létező pénzügyi rendszerről beszélünk. MINDENRŐL!!! Az összes tetves csilli-villi banképületről, minden egyes ripityomra fizetett rabló bankár fizetéséről, az összes társadalmi hozzájárulást nélkülöző tintanyaló puccos kocsijáról, minden ezer és ezer milliónyi kenőpénzről, minden hitelpénzből finanszírozott háborúról. Minden fingszázaléknyi átutalási költségről, fizetésigazolásról, banki szerződésről. Minden fölösleges sorban állás, aláírási címpéldány, szerződéskötés, csekkbefizetés energiaigényéről. Minden egyes bankfiók folyó energiaigényéről, az ott fölöslegesen hülyeséget csináló alkalmazott energiaigényéről. Ezek energiaigénye valahogy nem csapja ki a biztosítékot. Pedig itt több nagyságrendnyi különbségről beszélünk. A bitcoin 500 db c++ sorban kiváltotta a bolygó legkárosabb iparágát. Hááát.... ehhez képest nekem nem tűnik olyan soknak az a villany, amit eltüzelünk. Javaslom, lassacskán kezdjük lekapcsolni az „alternatív” pénzügyi rendszerünket, oszt majd ugyanazt fogjuk látni, mint a lelkes klíma-vészmadár a belvárosban: meg lehet menteni a környezetet, úgy is hogy nem virágokat ültetünk, hanem leállítjuk a globális szállítást. Hasonlót fogunk látni a bankok tönkremenetelének következményeként.
+A bizalomról
+Mit értünk bizalom alatt egy fizetési rendszerben:
+    1.) globális bizalom a rendszer irányában. A FIAT rendszerekben a „rendszer” mögött MINDIG központi szereplő áll. Ezért is NEM PÉNZ, amit fenntartanak, csupán fizetőeszköz.
+    2.) lokális bizalom az egymással folytatott tranzakciók esetén. Elhiszem-e, hogy a következő fél is elfogadja-e a fizetőeszközömet. Ebből a bizalomból rendszer szintű bizalom lesz, ha fogy, rendszer méretű fogyást is okoz. Ez viszont csak akkor terjed futótűz szerűen, ha az információ is ilyen sebességgel terjed.
+
+Kitérőnek tűnhet, de a látszat csal. Olvassuk el a következő bekezdést, hogy megalapozzuk a bizalomról folytatott diskurzust:
+A Pénz három funkciója
+    • 1. Univerzális csereeszköz: nagyobb méretű közösség tagja hajlandóak valóságos javakért cserében elfogadni.
+    • 2. Értékmérő egység: Egyes jószágok értékének egydimenziós mérésére használjuk, így minden jószág „értékét” (még ha barterben is cseréljük ki egymással a két jószágot) egy absztrakt skálán meg tudjuk határozni.
+    • 3. Értékmegőrző eszköz: Időben relatív megkötés. A Gazdasági energiánkat tároljuk benne, annak reményében, hogy időben eltolódva visszacserélhetjük valóságos javakra. Az időfaktor itt lényeges. A legtöbb fizetőeszköz alkalmas az érték rövid távú tárolására. (vegyük észre mennyire finom az átmenet.) A Forintunkért holnap reggel valószínűleg ugyanazt az értéket kapjuk, mint ma este, de ha több éves időtávlatban gondolkodunk, látjuk, hogy a forint nem jó értékmegőrző, hiszen több éves távlatban rendszerint kevesebb jószágot tudunk érte elcserélni. Hogy az időfaktor mennyire relatív, tekintsük példának azt a folyamatot, amiben Magyarország valószínűleg örök időkre világrekorder marad, mégpedig a hiperinflációt. A 40-es évek derekán órák alatt érezhetően veszített az értékéből a fizetőeszközünk.
+
+Ha csak az első 2 tulajdonság adott, fizetőeszközről beszélünk, és csak ha a 3. tulajdonsága is megvan egy fizetőeszköznek, akkor hívjuk pénznek.
+
+Definíció szerint a FIAT (tehát dekrétumon alapuló) fizetőeszközök nem tekinthetőek PÉNZnek, mert e harmadik tulajdonságuk – az értékmegőrzés - nincsen meg. A „jó” pénz nem csupán nem veszít értékéből, de természeténél fogva értékesebbé válik azáltal, hogy a technikai fejlődés révén egyre jobb és jobb minőségű jószágokat tudunk elcserélni ellenében. Ez a FIAT (nemzeti, központi hatalom által kibocsátott) fizetőeszközökre általánosan és hosszabb távon soha nem igaz.
+Globális szinten pénzről gyakorlatilag csak az arany és az ezüst (mint kémiai elemek) esetében beszélhetünk.
+Az arany a legtökéletesebb pénzünk, ezért álljon itt egy rövid lista a pénz szükségszerű tulajdonságairól: (minden ponthoz oda lehet képzelni, és kielemezni bármelyik állami - FIAT fizetőeszközt, de részemről nem vesztegetném ezzel az időt.)
+
+A jó Pénz tulajdonságai:
+Ahhoz hogy egy Pénz el tudja látni 3 ismertetett feladatát, a következő tulajdonságokkal célszerű rendelkeznie, mindegyikkel kisebb nagyobb mértékben:
+1.) Divisibility – oszthatóság:		Világos, hogy miért szükséges tulajdonság.
+Arany: elvileg atomi szintig osztható – ez alatt megszűnik aranynak lenni, gyakorlatban a szemmel látható, kézzel fogható tartomány alá nem lehet ereszkedni.
+Bitcoin: Elvileg korlátlanul osztható, jelenleg 8 tizedespontig oszt a protokoll, de a második réteg bármilyen kis egységet le tud kezelni. A jelenlegi legkisebb on-chain egység - a satoshi – értéke nagyságrendileg egy ezred cent. Ekkora értékű arany szabad szemmel nem látható, pénzként használhatatlan.
+A bitcoin oszthatósága nagyságrendekkel jobb az aranyénál.
+2.) Recognizebility – felismerhetőség:	Fontos a gyors kezelés, és a hamisítás megelőzése érdekében
+Arany: mint elem tökéletesen felismerhető, a gyakorlati manifesztációi viszont masszívan hamisíthatóak. Ez volt az egyik ok, ami miatt a middle-man, azaz a szuverén aktorra igény merült fel. Az érmeverés, és annak az autoritás általi lepecsételése „garantálta”, hogy arany az, aminek a valódiságát egyébként körülményes ellenőrizni. (természetesen mindenütt elcsalta a hatalom. Ezt nevezzük inflációnak: növelem a forgalomban lévő fizetőeszköz mennyiségét. (úgy hogy csökkentem az egység PÉNZ tartalmát)) A lokális bizalmat globálisra cserélve kerültek forgalomba a felismerhető arany fizetőeszközök. De nem pusztán hamisításról, hanem egyszerű felismerésről is szól ez a tulajdonság. Az utca embere az ezüstöt valószínűleg az alumíniumtól sem tudja megkülönböztetni. De akár az összes fémet kirakva magunk elé, az aranyat bárki felismeri.
+Bitcoin: teljességgel hamisíthatatlan, és a bitcoinunk valódiságának minden határon túli bizonyossággal történő ellenőrzése jelenleg egy egérkattintással letudható. Ráadásul ehhez semmiféle autoritás igénybe vétele nem szükséges.
+A bitcoinnak mind egyedi, mind rendszerszintű felismerhetősége nagyságrendekkel az aranyé fölött van.
+3.) Fungability – felcserélhetőség:	Fontos, hogy ne legyen kitüntetett egyik egység a másikkal szemben.
+Arany: Egy gramm arany (nem érme) az én zsebemben teljesen egyenértékű egy gramm arannyal a tiédben. Ha az anyagot vizsgáljuk tökéletes a felcserélhetőség. Ha Kanada állam és egy általam kibocsátott érmét hasonlítunk össze, elvész a felcserélhetőség praktikus vonalon.
+Bitcoin: a bitcoinok nem tökéletesen egyformák. Múltjuk van, ami lekövethető. Ennek kiküszöbölésére jelenleg csak profi, geek-oid felhasználók képesek (egészen addig, míg nem kerülnek ezek az eszközök mainstream használatba)
+Itt az arany vezet, de ebben a pontban nem hirdetnék végeredményt, idővel várható csak az eltolódás a bitcoin irányába. Ezzel együtt az arany mint elem felcserélhetőségét soha nem érheti el a bitcoin.
+4.) Durability – tartósság: Szükségszerű tulajdonság a hosszútávú értékmegőrzési funkció teljesítéséhez.
+Arany: az anyag nem vész el. Az arany, mint elem örök. Az arany ráadásul nem oldódik, nem reagál, szóval ezen a ponton gyakorlatilag 100%-on teljesít. 2000 éve elásott aranytárgyak, egyszerű mechanikus tisztítással eredeti fényükben tündökölnek.
+Bitcoin: amíg van egyetlen aktor (ember vagy gép) aki számára értéke (nem feltétlenül pénzügyi) van a Bitcoinnak, az fennmarad. Akárhol, akárkinél, akármilyen formában. Tévedés, hogy a bitcoin tárolásához energia kellene. Mind említettem fejben tudom tárolni a bitcoinomat. Ebben a pontban szintén nem hirdetnék eredmény, bár az eddig eltelt idő értelemszerűen az arany irányába billenti a mérleget, a dinamika viszont kedvez a bitcoinnak.
+(itt kell megemlíteni, hogy a bitcoinhoz való hozzáférést nagyon is könnyű elveszíteni – míg ezzel kivonódik a forgalomból, a gyakorlati értéke (egy másik értekezés témája) ezzel nem feltétlenül vész el.
+5.a) Rare – ritkaság: relatív fogalom, és a 5.b) densityvel – sűrűséggel jár párban.
+Arany: ritka… mit értünk ez alatt. Aránylag kevés kell belőle nagy munka (gazdasági energia) és fizikai energia tárolásához. Mi az hogy kevés? A Következő pontban térünk ki rá. Egyszerűsítve: praktikusan tárolható benne nagy mennyiségű vagyon: Éppen annyira ritka, hogy az felhasználók össz-gazdasági teljesítményéhez viszonyított mennyisége a praktikus használhatóságot lehetővé tegye, azaz például könnyen lehessen szállítani vagy tárolni. (innen a sűrűség kifejezés: érték / mérési egység arány magas)
+Bitcoin: pontosan tudjuk, hogy mekkora mennyiség áll rendelkezésünkre. Legfeljebb. Itt még a relatív szó használata sem feltétlenül indokolt. De ami elveszett, az elveszett! Ritka, és egy-egy új egység létrehozásához munka (gazdasági energia) kell. Törvényszerűen közel akkora, amennyit az egység amúgy a piacon ér.
+Mindkét oldalon jó a végeredmény, nem hirdetünk győztest.
+Nem úgy a Density – sűrűség esetében. A bitcoin, miután információ, majdhogynem végtelen sűrűséggel bír, így a tárolása jóval olcsóbb, mint az aranyé.
+6.) Transportability – szállíthatóság. A fizikai világban ez összefügg bizonyos vonatkozásban a ritkasággal. Aránylag kevés mennyiség tárol nagy vagyont, szóval kis tömeget és térfogatot kell mozgatni.
+Arany: a fizikai világban kifejezetten jól teljesít, kis helyen elfér nagy vagyon..
+Bitcoin: fénysebességgel tetszőleges mennyiség, röhejes áron továbbítható.
+Tiszta győztes a bitcoin.
+A 6(+1) vizsgálatot figyelembe véve kijelenthetjük, a pénz utility value (hasznossága alapján) a bitcoin lényegesen alkalmasabb fizetőeszköznek, mint az arany. Értékmegőrzésben definíció szerint nem „lehet” behozni az arany több ezer éves előnyét, de a rövid, 8 éves pályafutása alatti vásárlóérték növekedés alapján finoman fogalmazva ígéretes jelölt a bitcoin.
+
+Nézzünk még egy fontos 7. vonást, ami nem szerepel klasszikus értelemben a pénz tulajdonságai között, de legalább ilyen fontos, mint az előzőek:
+7.) Értékstabilitás. E pont kifejtésekor - mintegy félvállról – el szeretném simítani „az arany pénz vagy nyersanyag” vitát is, mely a nyugati felfogást mérgezi, és az aranyba vetett hitet ingatja (legtöbbünk kézzelfogható kárára)
+A nyersanyagokat, jelenleg működő on-time gazdasági modellünkben nem szeretjük tárolni. Ha mindenáron tárolni akarunk valamilyen nyersanyagot, azt legszívesebben a lelőhelyükön, a föld alatt, ki nem bányászott formában tesszük. Ha vetünk egy pillantást bármilyen nyersanyag mindenkori föld feletti mennyiségére, az adott időegység alatt (pl. egy év) kitermelt mennyiség függvényében, akkor nagyon egysíkú képet kapunk az összes nyersanyag vonatkozásában: egyetlen nyersanyagunkból sincsen egy éves kitermelésnél v. felhasznált mennyiségnél több a Föld felszínén (ennél általában jóóóval kevesebb van). Réz, vas, olaj, alumínium, építőanyagok… nincs. Hiszen nincsen értelme. Van viszont a kimutatásban egy szembeötlő kivétel. (Illetve kettő). Az arany (és az ezüst). Aranyból közel 60 évnyi kitermelés van a föld felett, jelenlegi kitermelési sebességgel. (ami azon túl, hogy a történelem folyamán a legmagasabb, éppen átesőben van, és csökkenni látszik - Gondoljuk végig ennek a jelentőségét.)
+
+
+    3. egyes jószágok raktározott mennyiség / éves kitermelés értékei.
+Gold: arany, Silver: ezüst, Crude: olaj, Copper: réz, Corn: kukorica, Wheat: búza
+Az arany NEM nyersanyag. Az arany pénz. Persze, nyersanyag, abban a tekintetben, hogy használjuk az iparban. De az értéke a felhasználásénak arányában röhejesen alacsony. Egy high-tech cuccba épített arany értéke akár a 3szorosára ugorhat, olyan kicsi az arany érték-arány a termékhez képest, hogy ez nem változtatja a termék árát érdemben. Az arany elsősorban Pénz. (emiatt nem fog deflációs környezetben leértékelődni, hanem mint a készpénz, emelkedni fog, és hát van itt még valami, de ez nem mostani téma…ETF)
+Értékstabilitás volt a pontunk címe. Ugyanis ahhoz, hogy a pénz értéke ne változhasson hirtelen, biztosítottnak kell lennie, hogy adott esetben hirtelen mennyiség-növekedés ne legyen nagy hatással a meglévő készletekre. (utalás a 9. pontra: ékszer – gyakorlatilag hatástalan) Nézzük meg az olaj hogy jár ide-s-tova 2-3 éve. (csak jelzem, éppen mekkora problémát jelent, hogy a tengeren vesztegelő tankhajókban 1-2 napnyi fogyasztás rostokol. EGY-KÉT napnyi) Az arany értékét ilyen kereslet-kínálati incidens egyszerűen nem ingathatja meg. Az olaj árát a kínálati oldal azért tudja megrángatni, mert relatív kevés a föld fölötti készlet. Az arany 60-as kvótája mellett hiába indulna be brutális arany mennyiség kitermelés (meteorit... facepalm), nem fogja számottevően mozgatni a fizikai arany (nem ETF) értékét. Ez társulva az 5-ös ponttal konstans határhasznosságot is biztosít az aranynak.:…
+A Bitcoin kitermelt mennyisége szintén elenyésző a folyamatosan létrejövő mennyiséghez képest, ráadásul itt egészen pontosan előre tudjuk jelezni a jövőbeli mennyiség alakulásának felső korlátját. (itt azért van egy fontos adalék, ez pedig a Satoshi ládikó tartalma. – ha valahol, hát itt érheti megrázkódtatás a rendszerbe vetett bizalmat)
+
+8.) Nem káros a felhasználóra nézve: (Sziller féle nyolcadik)
+Na ez meg mi? Egy fizikai példa. Higany. (de akár radioaktív anyagokat is említhetnék.) Ha jobban megvizsgáljuk, a higany sok vonásban hasonlít az aranyhoz. Ritka, osztható, felismerhető, felcserélhető, tartós (oké, itt mondjuk van baj), viszont például igencsak káros a tulajdonosára nézve. (különös, hogy a higany pont az arannyal egy oszlopban tanyázik a periódusos rendszerben). Azért vezetem be ezt az aspektust, mert a bizalomvesztéshez egy ilyen tulajdonság például hozzásegíthet. U.i. ez mesterségesen kialakulhat. Pl. ha egy csoport (kormány, bankszervezet) bejelenti, hogy büntetni fogja a birtoklását, használatát. Érdekesség: az ilyen környezet általában emeli a szankcionált pénz értékét.
+Arany: volt a történelem folyamán jó pár eset, mikor megpróbálták betiltani az aranyat. Rövid időtávon ez természetesen árt a pénzbe vetett bizalomnak. De persze idővel minden rendszer bedől. Az arany meg ott marad a maga tulajdonságaival.
+Bitcoin: világos, hogy tiltják és tiltani fogják. Igyekezni fognak korlátozni. De a bitcoin tartós. Tovább bírja, mint egy-egy félresikerült rezsim.
+Egyelőre egyik sem káros a tulajdonosára nézve, de ezt a történelem fogja eldönteni.
+
+9.) Kommunikációs képesség: (Sziller féle kilencedik)
+Az emberekben (élőlényekben) számos okból kifolyólag felmerül az igény, hogy megjelenítsék, láthatóvá tegyék rátermettségüket, fittségüket, hangsúlyozzák saját értéküket. Ez legegyszerűbben úgy történik, hogy az amúgy létszükséges, de a fittebb élőlény számára nagyobb mennyiségben rendelkezésre álló fölösleges energiákat feltűnően megmutatjuk. Az állatvilág hemzseg az ilyen jelenségektől. A hímek díszes külseje, a csoportban mozgó gazella ostobának ható szökdécselése, a násztáncok, énekek, mind azt a célt szolgálják, hogy a potenciális partnernek, vagy a riválisnak, vagy akár a ragadozónak jelezzék: nekem annyi erőforrásom van, hogy belefér egy, amúgy a túléléshez nem szükséges dísz, mozgás, gesztus. Különb vagyok, tehát velem érdemes párosodni, velem nem célszerű packázni, ne engem akarj elkapni, mert úgyis gyorsabb vagyok nálad (de a haveromnál biztosan, szóval inkább őt edd meg).
+A társadalmakban a gazdasági erőt a felhalmozott javak közszemlére tételével tudom hatékonyan bemutatni. Ha sok tartalékom van, erről célszerű lehet tájékoztatni másokat is, különböző céllal.
+Arany: kiváló tulajdonsága az aranynak, hogy nem csupán felismerhető, de könnyen megmunkálható. Így az anyag értékén kívül egy-egy tárgy geometriájának formálásával is jelezhetem, tele vagyok fölösleges energiával, én vagyok a menő.
+Tehát a pénz alakításával közvetlenül tudok kommunikálni.
+(Érdekes lenne egy húsz-ezresekből álló homlokzatburkolat, vagy lámpabura látványa is)
+Bitcoin: itt bizony egyelőre nem látni előrelépést, de véleményem szerint ez egy nyitott piaci rés, ahová be fog férkőzni előbb-utóbb valamilyen „virtuális-hirdetési” mód. (Feltűnő QR Kódok, könnyen olvasható publikus kulcsok, stb…)
+Itt bizony toronymagas győztes az arany.
+
+Azért is írom le ezt, mert amit az arany ipari felhasználásról állítottam, azt ez a bekezdés kerekíti le. Az arany ipari felhasználása elenyésző, és az ékszer – éppen az imént leírtak miatt – valójában nem a reálgazdaságot képviseli, hanem az arany, mint pénz kommunikációs képességét teszi lehetővé. Szóval az ékszerészet aranyfelhasználása nem célszerű az arany egyéb gazdasági szerepei közé sorolni, hiszen csupán arról van szó, hogy az épphogy kifejezetten kevés területen és kis mértékben felhasználható arany-pénzt kommunikációra alkalmas formában tároljuk, anélkül hogy az aranytartalom jelentősen javítaná ezen tárgyak egyéb tulajdonságait, használhatóságát. (elismerve, hogy néhol ez is fontos)
+A 7. pontra visszatérve. Ha jelentősen megugrik az arany ára, az szintén teljesen hatástalan lesz az ékszeriparra, abban a tekintetben, hogy:
+    • a megmunkálás költsége semmit nem változik
+    • az ékszer attól ékszer, hogy a megmunkáláson felül éppen az aranytartalék értékét tárolja. Szóval, ha drágul az arany, persze, kevesebb ékszert fogunk vásárolni, mert hát kevesebb fölösleges gazdasági energiát fogunk tudni reklámozni.
+    • Az ékszeripar így is úgy is a lánc leges legvége. Erre nem épül további gazdasági tevékenység.
+
+Tehát a bizalom. Felhasználó szinten.
+A PÉNZ attól lesz pénz, hogy pénzként használható. Egy fizetőeszközbe vetett bizalom nem az éterben keringő elméleti szócska. Ennek a 9 tulajdonságnak az összességéből fakad, ráadásul relatív fogalom: a többi lehetséges versenyzőhöz képest mérik ugyebár.
+Ha valami működik pénzként, az ezektől a tulajdonságoktól működik, és ezek miatt alakul ki iránta a bizalom.
+(Kihagytam, de bárki elvégezheti az iménti összehasonlítást bármelyik FIAT fizetőeszközre. Érdemes végiggondolni, melyik felsorolt tulajdonságok romlásából is fakad egy-egy FIAT fizetőeszközzel szemben bekövetkező bizalomvesztés – súgok: 5.a -, vagy hogy egyáltalán hogyan teljesítenek a FIAT valuták, akár papír, akár digitális formában. Ínyencek akár nem klasszikus fizetőeszközökkel, mint államkötvényekkel, vállalati kötényekkel kapcsolatban is hasonlítgathatnak.)
+
+Ráadásul, hiába nem tökéletes a bizalom valamiben, elég, ha csak relatíve magas az összes versenyző között. Az eszmei térben lebegő Bizalom fogalmat keresgélni sima összeadási hiba: Ha egy fizetőeszközbe vetett bizalomból elkezdjük kivonogatni az említett tulajdonságokat, a bizalom eltűnik. Ezek a vonások alkotják egy pénzbe – fizetőeszközbe vetett bizalmat. Ezek miatt hiszem el, hogy elfogadja tőlem valaki később, és el tudom cserélni illetve hogy érdemes benne mérni.
+A 9 tulajdonságban pedig – úgy tűnik – sem az arany, sem a Bitcoin nem fog romlani. Szóval, ha mindenképpen a bizalom irányából kritizálom a Bitcoint, érdemesebb talán a 9 említett pontot boncolgatva kritizálni. Pontosan melyik pontban, és milyen alternatívához képest lesz gyengülés - és ezáltal bizalomvesztés - a Bitcoinnal szemben? Mert ha ezek a faktorok nem romlanak a többi fizetőeszközhöz képest, akkor ne várjunk bizalomvesztést.
+
+És még egy apró adalék. Pontosan milyen időtávról beszélünk?
+
+Álljon itt egy jóslat. Nemhogy nem fog hosszú távon (30-50 év) megremegni a bizalom a decentralizált, blockchain alapú, a Bitcoinnal analóg konszenzus mechanizmuson alapuló rendszerekben, hanem úgy fogja kiszorítani a centralizált rendszereket globális szinten, mint az íjászt a géppuska.
+Lesznek itt-ott persze tradíciókövetők, de globálisan súlytalanná fognak válni. És lehet, hogy lesz 5-6 év, mikor épp lefelé fog mutatni a képzeletbeli 9 dimenziós grafikon egyik, vagy másik síkján a görbe? Aha, lehet. És?
+
+Megtetőzném ezt még egy játékelméleti megközelítéssel: (kicsit az íjászokhoz még)
+Adva van 10-20 egymással versengő csapat (hatalom). Mindegyikük íjakkal felszerelkezve. Mindegyik csapatnak elemi érdeke, hogy (legyőzze a másikat) legalább versenyben maradjon. Ezzel párhuzamosan mindegyik a nádas felé akar terjeszkedni, mert abból lehet nyílvesszőt gyártani. Ráadásul mindegyik hadvezér a saját nádasát felügyelve gyakorolja a hatalmát a saját csapatának tagjai felett.
+
+Csakhogy valaki elárulta MINDENKINEK, hogyan lehet kénből, szénből puskaport gyártani.
+
+Nos itt a dilemma. A lőport be lehet tiltani, lehet róla mindenféléket terjeszteni, de azért az ott van, és kurvára ott is marad, korlátlanul.
+A következő dologról feledkezünk meg, mikor azt vizionáljuk, hogy majd úgy hirtelen mindenki egyszerre betiltja a lőport: tudniillik, hogy azért azzal jobban lehet lövöldözni az ellenfelekre. Szóval érdekes módon valakik mégiscsak használni fogják, egyszerűen azért, mert csak jobbak a fizikai tulajdonságai, és jobban lehet vele lőni, mint az íjakkal. Vezetők generációi jönnek, mennek, egyre kevésbé fognak a nádastól függeni, és szépen lassan leszokunk a nyilazgatásról.
+
+Közben persze lesz egy-két idióta a piramis tetején, aki azon fog gondolkodni, hogy hogyan lehetne puskaporral bevonni a nyílvesszőt, mert hát ha átvesszük a puskaport, akkor majd forradalmasíthatjuk az íjászatot, és akkor fú milyen forradalmiak leszünk. És akkor majd ellenőrizni tudjuk a puskaporhasználatot, mert a nyílvesszőkön lesz rajta.
+Ezzel van jelenleg elfoglalva a bankvilág, mikor a blockchain technológiát kutatva agonizál.
+
+A tippem: az egymással történő versengésben fel fog oldódni a Bitcoin „utálata”, mert aki előbb használja, a többiek elé fog kerülni. Már most is iszonyatos érdekek vannak a Bitcoin mellett is, és ez napról napra növekszik.
+
+Ugyanez történt, és történik az arannyal. Kína, Oroszország, India, mind-mind szeretné persze a saját fizetőeszközét terjeszteni, ilyen szempontból az arany nem lenne a barátjuk. A saját fizetőeszközüket akarják, elfogadottabbá, használtabbá tenni, növelni benne a bizalmat a többihez képest. Természetesen az USA is így gondolkodik, de ugye jelenleg a dollár vezet a versenyben. Ezért a dollár legnagyobb ellenfele az arany, így az USA azzal eteti a sajátjait, hogy nem érdemes a decentralizált verziót választani, mert az bla-bla-bla… át is basszuk magunkat mi itt nyugaton, miközben a többi játékos – mivel vesztésre áll a nagy papírmeccsben – szép lassan rájön, hogy mégsem olyan szar az a decentralizált megoldás. Igaz kisebb fölötte a direkt kontrollom, de legalább verhető vele az ellenfél.
+Totális analógiára számítok a bitcoin jellegű rendszerekkel. Az aranyban sem kell bízni. Az evolúció meg majd szépen kiszelektálja azokat, akik nem bíznak.
+
+És akkor a rendszer szintű bizalomról:
+A bitcoin alapú rendszereket nem véletlenül hívják „trustless” azaz bizalommentes rendszereknek. A rendszerben ui. nem kell bízni. Nem a bizalmon alapul. A matematikán alapul. Persze, ha valaki a szavakon szeretne lovagolni, lefordíthatja úgy, hogy a matematikában kell bízni.
+Nem kommentálnám ezt a hozzáállást.
+A bitcoin jellegű, rendszernek NINCSEN szüksége bizalomra, ti. nem létezik olyan aktor, akiben bízni kellene, és nem szükséges a tranzakciókhoz a tranzakcióban résztvevőknek egymásban sem bízni, sem ad abszurdum egymást ismerni. (a tranzakciós partnerben sem kell bíznom)
+Hogy még világosabb legyen: programozott rendszerek tudnak egymással tranzakciókat bizonyítani, bizalmat feltételező központ nélkül. Gépek. Matematikai alapon működő algoritmusok…
+Értsük meg: a közgazdaságtan által hangoztatott kötelező bizalom akár rendszer, akár peer to peer szinten:
+    1.) eleve nincsen pontosan definiálva (ahogy a 7 pontról írtam)
+    2.) ami ennél fontosabb, éppen azért lett kényszerből bevezetve, mert a bizánci generálisok problémáját megoldhatatlannak tartottuk. Ovis szinten fogalmazva:
+Ha nem tudsz decentralizált rendszert üzemeltetni bizalom nélkül, akkor bizalomra van szükséged. Nos, most már tudunk. Azt, hogy ez a módszer 1, 5, 10 vagy 100 év alatt terjed el, teljesen mindegy. El fog. Egy találmányt nem fogunk nem feltalálttá tenni. A rendszerbe vetett bizalomra nincs többé szükség.
+Bizalom, a bizalmon alapuló rendszerekhez kell. Ha bizalom nélküli rendszert akarunk építeni meg kellene oldani a Bizánci generálisok problémáját.
+Pipa!
+
+=== Mi a Bitcoin?
+7 Tweetben összefoglalva, attól függően, pontosan melyik aspektust kívánjuk leírni.
+
+Eljárás::
+Adott időegységenként módosított, és verifikált decentralizált rendszer üzemeltetése, tetszőleges számú önkéntes
+szereplő számára. A szereplők szabadon és érdek-vezérelten kapcsolódhatnak a fenntartásához.
+A működés open source alapú, bárki ellenőrizheti.
+
+Adatbázis:: Blockchain: Egy időpecséttel ellátott, tíz percenként frissülő csak bővíthető decentralizált adatbázis, melynek múltbéli integritását (hitelességét és állandóságát) a teljes adatbázisra visszamenőleg bárki igazolhatja, jövőbeli tartalmát bármely (kulccsal rendelkező) szereplő - energia igazolt felhasználásával  - befolyásolhatja.
+
+Találmány:: Egy módszer és hálózat, mely tetszőleges számú szereplő számára biztosítja a decentralizált konszenzus
+(Bizánci generálisok) problémájának skálázható, igényeknek megfelelő decentralizáltságú, és igazoltságú megoldását.
+
+Egység:: bitcoin: A decentralizált Bitcoin adatbázis dedikált egysége. A fedezete energia.
+
+Rendszer:: A Bitcoin egy decentralizált könyv, melyben az egyenrangú felek közötti konszenzust egy energia fedezetű proof-of-work eljárás biztosítja. A rendszer alapját képező egységek elosztása egyúttal a szabályos és érdekalapú részvételt ösztönzi.
+
+Pénz és fizetési rendszer:: Bitcoin: korlátozottan, transzparens inflációs görbével automatikusan kibocsátott, energia fedezetű pénz és ettől elválaszthatatlan, automatikusan működő algoritmus által felügyelt, hamisíthatatlan fizetési rendszer, központi hatóság nélkül.
+
+Program:: ingyenesen és szabadon letölthető (adott esetben megírható) szoftver, melynek segítségével a Blockchain adatbázis elérhető: írásra, olvasásra, ellenőrzésre. Satoshi találmányának első proof-of-conceptje.
+
+És akkor nézzük a jóslataimat: 2016 derekán. Akkor írt bekezdés(!)
+Gazdasági területen:
+Nézzünk egy kicsit az előttünk álló néhány fa mögé, és tekintsük át az erdőt.
+Adva van egy fizetőeszköz, aminek a többi fizetőeszközben mért értéke – aránylag magas belső Infláció mellett is – emelkedik. Ez persze csak azokat lepi meg, akik szerint a világgazdaságban nincsen Infláció. Azon kívül persze, hogy van! Minden Nemzeti Bank, amelyik él és mozog, önti a pénzt a gazdaságba, más kérdés, hogy a pénzmozgás sebessége bizonyos árucikkek esetében lelassult, azért effektíven ott nem érezhető az ÁR-Infláció, de persze ha az ÁR-Inflációba nem számolom bele az értékmegőrzésre használt jószágokat, akkor mégis mire számítok ugyebár. Magyarországon egy év alatt 2015 –2016 között ááááátlagosan 16%-kal emelkedtek az ingatlanárak, és nyugi világviszonylatban is hasonló a szitu. Ez az értékmegőrzésre használható ingatlanok esetében jóval magasabb számot jelent. Nem lenne tehát ÁR-Infláció? Mi a helyzet a képzőművészeti alkotásokkal (talán hallani a méltatlankodást, hogy milyen áron vásárolgat be az MNB…? Egy pillantást javaslok az aranyárra vetni (még úgy is, hogy azt KÖTELEZŐ lefelé manipulálni, különben borul az egész kártyavár), vagy a luxuscikkekre. Ezek az értékmegőrzési funkciójuk miatt szállnak el.
+
+Nem véletlen. Hiszen a FIAT fizetőeszközöket, amiket mi tévesen pénznek nevezünk, éppen a 3 szükségszerű funkció közül a legfontosabbnak – az értékmegőrzésnek – a hiánya különbözteti meg a valódi Pénztől. A Forint, a Dollár, az Euró nem pénz. Mert nem értékmegőrző. Ezek fizetőeszközök.
+A gazdaság szereplői pedig éppen a hiányzó funkciót keresik.
+
+Ha pedig még mindig keresne valaki ÁR-Inflációt, nézzük a részvénypiacot. Azt ne gondolja valaki, hogy valódi értéknövekedésnek vagyunk szemtanúi. Ezt egyébként a vállalati adatok amúgy sem támasztják alá, semmilyen mértékben. Sima ÁR-Infláció az, én mondom. A bankok által generált fizetőeszköz a felső rétegekhez jut, és ott emeli az árakat. Persze, hogy a részvények drágulnak. Ennek semmi köze a gazdaság növekedéséhez, ez sima, teljesen hétköznapi, tőről metszett ÁR-Infláció, aminek az oka, hogy a frissen nyomtatott (hamisított, létrehozott) fizetőeszközt a WallStreet kapja először kézbe, így ott jelentkezik az árfelhajtó hatás. Méghogy nincs infláció…
+Tehát ilyen háttér előtt a Bitcoin látható és ellenőrizhető, 2016-ig 8% körüli Inflációja masszív értékemelkedést jelent a világ összes valutájában mérve, hiszen:
+    • így is kisebb az Infláció, mint a többi valutában
+    • rohamosan bővül a használók köre
+    • architektúrájánál fogva alkalmas az értékmegőrzésre – ellentétben a nemzeti fizetőeszközökkel
+    • nem kell bankárokban, pénzügyminiszterekben – egyszóval a rendszerben - „bízni”
+
+A bitcoin rendszer idén 2016. júliusában lefelezi – halving - az új bitcoinok kibocsátásának ütemét. Feleződik az Infláció. Várom a tippeket, hogy milyen hatással lesz ez, az egyéb valutákhoz képest meghatározott árfolyamokra.
+A Bitcoin teljesen szabadon hozzáférhető, programozható, fejleszthető rendszer, amit 2009 januárja óta hozzáférhetősége miatt folyamatosan, lépten-nyomon támadnak, próbálnak feltörni, meghekkelni. Eddig egy eset nem sok, annyiszor sem sikerült.
+Melyik kontra-szelektált politikus, elkényelmesedett és intellektuálisan rokkant, alkalmazkodni alkalmatlan bankár lesz képes kitalálni ellene valamit.
+
+Ahhoz, hogy a Bitcoint lekapcsolják, az Internetet kell lekapcsolni. És van egy kifejezetten kellemetlen hírem, az sem segít igazán. Ugyanis az adat akkor sem veszett el, hiszen ott van minden számítógépen. Ha pedig visszakapcsolják a netet, ott folytatjuk, ahol abbahagytuk. Az isten szerelmére, a bitcoinjaimat akár fejben tudom tárolni! Ha meztelenül kihajítanak a sivatagban, is nálam lehetnek! Dúúúrva, mi?
+Az átutalások – tranzakciók mérete minimális: bájtokban mérhető. Hogy Andreas Antonopulos hasonlatával éljek, Skype smiley - kat küldve tudok bárkinek pénzt utalni. Ez egyébként nem hasonlat, ez tény. A tranzakciómat meg hiába kapja el valaki, elvileg sem tud vele mit kezdeni. Max megállította. Pff, akkor majd szépen újraküldöm. A bitcoinomat nem tudja elvenni.
+Ha Észak Koreában Mr CsenCsel odahajol a vasúti sínre, át tud morzézni a határon egy tranzakciót(!)
+Szóval a betiltáson, lekapcsoláson én nagyon nem agyalnék. Értsük meg, nincsen központi támadható felület! Sehol, semmi! Mondom, nehezebb ellehetetleníteni, mint az Internetet.
+
+Aztán számoljunk:
+Tudjuk, hogy mindösszesen 21.000.000 (21 millió) darab bitcoin lesz valaha is az egész világon. Több soha, de már én magam is veszítettem el hozzáférést kisebb összeghez, amit az Atyaúristen sem fog visszaadni senkinek. Szóval a 21.000.000 darab 2140 körül lenne igaz, ha addig senki nem hagyott volna el egy satoshit sem.
+Jelenleg mondjuk Forintból mennyi lehet a világon? (M0, M1) Tízezer-Milliárd egység? Százezer Milliárd? Ezek nagyságrendileg 1-2 év GDP számai csupán.(?)
+Sokkkal több? Vegyünk egy nem túl magas becslést, 10.000 Milliárd forint van a Földkerekségen. M1-et becsültem. Kb. ez analóg a bitcoinnal.
+Ha a Forinttéval hasonló lenne valaha is a bitcoin gazdasági háttere, és ugyanannyi vagyonra licitálna minden bitcoin felhasználó, mint minden Forint felhasználó, akkor több, mint 450.000 forintot érne 1 db bitcoin. Azt feltételeztem, hogy minden bitcoint kibányásztunk, hogy mindegyik még elérhető, hogy a Forint mennyisége röhejesen alacsony, és hogy egy, a világon mindenki számára korlátozás nélkül hozzáférhető valutának mindössze akkora lesz a gazdasági háttere, mint a Forinté, illetve, hogy csupán a forintban elérhető mennyiségű jószágra „licitál”.
+Mindegyik becslésem lefelé téved, akár nagyságrendekkel.
+
+
+
+    4. EUR/BTC árfolyam alakulása 2016-ig
+
+Szerinted, ha valaki nem állítja meg a Bitcoint, mekkora lesz az értéke? Annyit hadd jósoljak, hogy több mint ma. Elég óvatos voltam?
+
+
+[]
+|====================
+|szempontok                         |Bitcoin        |Arany      |Fiat:készpénz  |Fiat:banki pénz    |Fiat:CBDC
+|Nem leállítható                    |Igen           |Igen       |Neccesen       |Nem                |Nem
+|Nem kikényszeríthető / behajtható  |Igen           |Igen       |Igen           |Nem                |Nem
+|Decentralizált                     |Igen           |Igen       |Igen           |Nem                |Nem
+|olcsón tárolható                   |Igen           |Nem        |Nem            |Igen               |Igen
+|instant utalható                   |Igen           |Nem        |Nem            |Nem                |Igen
+|olcsón utalható                    |Igen           |Nem        |Nem            |Igen               |Igen
+|anonim                             |hozzáértéssel  |Igen       |Igen           |Nem                |Nem
+|Nem hamisítható                    |Igen           |nehezen    |Igen           |Nem                |Ki által?
+|Auditálható                        |Igen           |nehezen    |Igen           |Nem                |Nem
+|Osztható                           |8-11 számj.    |Igen       |miért?         |miért?             |miért?
+|valódi fedezettel rendelkezik      |Igen           |Igen       |Nem            |Nem                |Nem
+|Korlátozott mennyiség              |Igen           |Igen       |Nem            |Nem                |Nem
+|Tárolt / új                        |Óriási és fix ütem |Őriási - minimális kilengés| Minimális – kiszámíthatatlan dinamika (bank)| g | g
+|Egyéb felhasználás                 |nővexik        |Díszítés, High Tech|:)     |g  |g
+|Fogyasztott                        |nem            |nem igazán |Nem            |Nem                |Nem
+
+|====================
+
+

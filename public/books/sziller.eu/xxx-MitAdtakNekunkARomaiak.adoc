@@ -1,0 +1,65 @@
+
+Mit adtak nekünk a rómaiak?
+PoW
+
+- Energia fedezetű fizetőeszközt
+- A motivációs rendszer büntetés oldalát
+- az Orákulum probléma megoldását
+- egy bámulatosan skálázható algoritmust
+- az Anonim Decentralizált Konszenzusból az:
+
+* ...Anonimot meg a...
+* a, a Decentralizáltat és
+* javarészt a konszenzust.
+
+Szóval mikor Andorka a játékboltban kér egy Blokkláncot, de nem akarja hozzá azt a fránya Energiafogyasztást, akkor ő kér egy Anoním decentralizált Konszenzust, de lehetne nem annyira Anoním, és lehetőleg jóval centralizáltabb. Én meg majd egyetértek magammal.
+
+Vannak nem Proof-of-Work Blokkláncok. Azok mindössze egyetlen dologra nem jók. Arra amire a Blokkláncot kitalálták.
+Az ADK egy megoldhatatlan probléma, amire egy irdatlan sok kompromisszumot használó Megoldást adott Satoshi. Böszme adatbázis, sok villany, nagy hálózat.
+Ez a Földlakóknak ennyibe fáj. Lehet olcsóbban csinálni, csak akkor nem oldottuk meg a Problémát.
+
+És az megvan, mikor Rendőrünk kifogja az aranyhalat:
+
+-- jajjajj dobj vissza, teljesítem három kívánságodat!
+
+-- oké, kérek egy söröskorsót, amiből sose fogy ki a sör!
+
+A halacska csettint az uszonyával, és rendőrünk máris elégedetten teszteli a korsóját. Iszik belőle, önti a földre, locsolja, de a korsó tényleg állandóan tele van.
+
+-- Fú, ez baró. Ebből kérek még kettőt!
+
+Annyi Blokklánc készül, mint réten a fűszál. Viszont azon kívül, hogy az anonim d. k. definició szerint globális, tehát abból csak egy kell, és azt letudtuk, na ezek kívül az energiaigény előnye behozhatatpan. Bármilyen P-o-W versnytársat ebédszünetben tönkretesz. (előremutatunk a 4. pontra)
+
+Döntési fa befektetőknek:
+Kopogtat valaki remek blokklánc ötlettel: ---
+
+
+=== hogyan fejlődik a rendszer
+
+Aki fejlesztőként érkezik a bitcoin világába, fölöslegesen keresi a Bitcoin program specifikációját. Satoshi
+a Bitcoin működését a már említett fehér könyvben szűkszavúan és lényegretörően felvázolta, a szoftver működését
+viszont nem részletezte. Ehelyett - valószínűleg többedmagával - elkészítette a Bitcoin referencia-implementációját,
+és úgy tűnik 2009. január harmadikán egyszerűen elkezdte futtatni azt.
+A forráskódot - tudomásom szerint - C++ nyelven írta, fejlesztése pedig nyílt forráskódú, azaz akárki írhatja.
+
+Annak meghatározása tehát, hogy a Bitcoin rendszerként mire miként reagál egy kifejezetten gyakorlati kérdés.
+Nem találunk olyan tekintélyelvű központot, ahol Satoshi részletesen leírta volna a szoftver működését.
+A Bitcoin viselkedését és egy egy utasításunkra adott várható válaszát a forráskód alapos tanulmánxozásával érthetjük meg.
+A pontos specifikációra való igény idővel fejlesztési szabály javaslatokban azaz BIP-ekben öltött testet. A Bitcoin Implementation
+Proposal-okat a közösség tagjai - azaz az ég világon bárki - fogalmaznak meg, a többiek pedig fáradtságos munkával
+analizálják, szűrik, szedik ízekre ezeket. Ha valamelyikben fantázit lát a közösség, vagy annak egy része, hosszú hónapokig, gyakran évekig fejlesztik csiszolják ezeket, míg végül
+- ideális esetben - egy továbbra is senkire nem kötelező, de praktikus javaslatra kerül a közösség pecsétje.
+Egy-egy BIP tetszőleges témakört érinthet, fedhet le, a legkülönbözőbb témakörökben: a fejlesztés mikéntjétől,
+a kulcsok létrehozásának és tárolásáank módján át egészen a szoftver viselkedésére vonatkozóan.
+
+Minket most a decentralizált szoftwer működésére és/vagy az adatbázis formátumára vonatkozó javaslatok érdekelnek, mert ezek
+előbb-utóbb a Node-okon futó programokat fogják befolyásolni - amennyiben a Node tulajdonos a kód frissítése mellett dönt.
+Ha tehát Node üzemeltetőként veszünk részt a Bitcoin rendszerben - a bányászokat is ide sorolom - akkor előbb utóbb
+egy nyílt forráskódú elvek mentén fejlesztett frissítést fogunk a Node-unkra telepíteni valamilyen módon.
+Ez a szoftver pedig végeredményben vagy sikeresen és ígényeink szerint beszélget a többi Node-dal vagy nem.
+Ahogyan az adatbázis tartalmát illetően sem létezik EGY központi valóság, úgy a rendszer különböző Node-jainak viselkedése
+együtt határozza meg a Bitcoin adott időben tanusított viselkedését. Nincs tökéletes konszenzus a szoftvert illetően sem.
+
+Érdekesség::
+A Lightning Network feljesztése hajnalán létrehozták a BOLT specifikációt: Basis of Lightning Technology azaz a
+Lightning technológia alaja néven. Ha tehát valaki a Lightning hálózat fejlesztésére adná a fejét, a BOLT-okhoz fordulhat.

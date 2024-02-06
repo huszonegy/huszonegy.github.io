@@ -1,0 +1,84 @@
+== Satoshi jól kifőzte
+szerző: sziller - http://sziller.eu
+
+...aztán jött 2008 ősze, és egy addig teljesen ismeretlen figura az Internet egy félreeső zugában nyilvánosságra hozott
+egy kilenc oldalas írást. Ebben felvázolt egy "Elektronikus készpénz rendszert". Az írás tömör, elegáns, érthető.
+Hogy mi érthető, az persze viszonylagos: A fórumot - ahol a cikket lehozta - kocka tudósok, geek fejlesztők
+látogatták. A tudományos cikke alapján ez a bizonyos Satoshi Nakamoto nevű úriember cseppet sem lógott ki ebből a sorból.
+Szóval Satoshi biztosan értette amit írt, és úgy tűnik voltak még páran ilyenek, hiszen a fórumon rögtön kialakult a
+vita az ötletéről.
+Két érdekes felvetést említenék meg. Az egyik a Megoldás skálázhatóságát firtatta, míg a másik afelől érdeklődött,
+miként oldja meg a Bitcoin A Bizánci Generális Problémáját, mitől lesz bizánci hibatűrő (Bizantine fault tolerant) az ötlet.
+
+Bíztatlak kedves olvasóm, ha türelmed engedi olvasd el ez utóbbi blogbejegyzést csakúgy, mint Satoshi Fehér könyvét
+eredeti angol nyelven.
+
+====
+A fehér könyv: https://bitcoin.org/bitcoin.pdf
+
+Blogbejegyzés a bizánci hibatűrésről:
+https://satoshi.nakamotoinstitute.org/emails/cryptography/11/
+====
+
+=== Satoshi letudta
+____
+Az egész Földgolyó számara létrehozott egy adatbázist, melynek tartalmát bárki írhatja adott szabályok szerint, és
+akárki olvashatja. +
+Mindenki bizonyos lehet benne:
+
+- hogy a tartalmát nem változtatta meg senki visszamenőlegesen, és
+- hogy e tartalomban mindenki egyetért.
+____
+
+Az anonim decentralizált konszenzus létrehozása mérföldkő. 
+
+De gondoljunk bele egy másik, véleményem szerint legalább ekkora teljesítménybe, amit a Bitcoin szinte a fű alatt
+végrehajt. Amiről ritkán beszélünk, pedig minden központ nélküli rendszer elhal nélküle. Ez pedig a felek okosan
+kimódolt motivációja.
+
+Ahhoz, hogy egy teljesen decentralizált rendszert bárki használhasson, az azt fenntartó entitásokat - ők ugye definíció
+szerint akárkik lehetnek - valahogyan motiválni kell a részvételre. Miután nincsen központi hatalom, nincs aki
+büntessen vagy jutalmazzon, a protokollnak kell mindezt megoldania. A protokoll kidolgozójának el kell érnie,
+hogy legyen, aki fenntartja a rendszert, és ha már írogatja az adatbázist, ne legyen értelme csalnia.
+Ha a decentralizált anonim konszenzus megvalósítása bonyolultnak hallatszott, erre mit főzünk ki? 
+
+Konszenzus és Motiváció - Két finnyás vendég, egy zseniális szakács! 
+
+Satoshi Nakamoto a következő összetevőkből állította össze receptjét. A főzet első három eleme statikusan,
+egyszeri programozás hatására lett a Bitcoin része. Ha úgy tetszik, ezeket Satoshi Nakamoto önkezével kavarta bele
+főzéskor a Találmányába. A negyedik faktor pedig egy dinamikus feltétel, ami egyrészt azért valósult meg
+(befejezett múltban), mert az ösztönzőrendszer jól működött és működik,
+másrészt meg mert *marhanagy szerencsénk volt!* +
+De nem Satoshi lett volna, ha nem várja ki, míg összeérnek az ízek, s így megvalósul a negyedik feltétel is.
+
+Állításom szerint tehát ennek a négy tényezőnek kell egyszerre igaznak lennie, hogy Bitcoinról és ezáltal globálisan
+biztosított anonim decentralizál konszenzusról beszélhessünk.
+
+Végy egy:
+
+* decentralizált adatbázist,
+* tegyél hozzá egy decentralizáltan futó számítógépes programot és keverd össze egy 
+* okosan hangolt játékelméleti ösztönző rendszerrel.
+* Végül lassan, a párna alá rejtve (!) dagaszd – számosságában és energiafelhasználásában -, míg el nem éri a kellő méretet.
+
+Soron következő cikkeimben alaposan kielemzem majd az összetevőket külön-külön. Elöljáróban álljon itt egy pár soros kóstoló mindegyikből: 
+
+* *Decentralizált adatbázis:* Proof-of-Work Chain, azaz egy Befektetett Energiát igazoló adatlánc. Ezt az összetevőt Satoshi egy egységként kezelte. Magam is azt gondolom, hogy csak együtt van értelme tárgyalni, mégis -- mivel a gyakorlatban, számos bitcoin-másolatban kettévált az adatláncolat és a konszenzus algoritmus -- külön is megemlítem ezeket:
+** Blokkláncnak -- angolul: Blockchain -- nevezzük magát a lineárisan összefűzött, additív adatsort, mely számtalan (gyakorlatilag korlátlan mennyiségű) számítógépen jelen van, és bővül közel 10 percenként egy újabb adatblokkal. Egy 90-es évek elején kitalált, redundáns, kevés adat tárolására alkalmas, lineáris adatsor, amit ráadásul azért fejlesztettek ki, hogy ne is lehessen belőle törölni, így aztán... dobpergééés:
+törölni sem lehet belőle.
+** A konszenzust kikényszerítő elvégzett munkát igazoló -- angolul: proof-of-work -- algoritmus. Azért felel, hogy az adatbázis verzióit író szereplők valós értéket kockáztassanak, ha új adatcsomagot kívánnak hozzátenni az adatbázishoz. +
+A motivációs rendszer _büntetés_ részéért felel.
+* *Szoftver:* a Bitcoin motorja, ennek különböző verziói futnak a decentralizált hálózat gépein. Ez a motor hajtja végre a számításokat. Ellenőrzi a protokoll betartását különböző szinteken: +
+(adatbázis, blokk, tranzakció, utxo (nem elköltött output)) +
+A szoftver lelke egy Turing Incomplete, Script nevű programnyelv, mely két részből álló okosszerződéseket bírál el Igaz-Hamis alapon. Minden, az adatbázisba bekerült tranzakció okosszerződése legalább egyszer lefut a teljes Bitcoin rendszer összes gépén.
+* A motor által kikényszerített *Játékelméleti szabályrendszer* pedig garantálja, hogy a feleknek érdekük legyen a szabályokat betartva biztosítani a konszenzust. Ez írja le a bitcoinok (kisbetűvel) – mint egységek kibocsátásának feltételrendszerét is. +
+A motiváció _jutalmazás_ részéért felel.
+* *Hatalmas rendszer:* ...ez az egész pedig kizárólag azért feltörhetetlen, mégis szabadon használható, mert a rendszer olyan irdatlan energiamennyiséggel igazolja a decentralizált konszenzust, hogy mostanra a világ legnagyobb szuverén entitásainak  együttműködésével sem lehet ennél több számítási kapacitást bevetni ellene.
+
+=== Tehát mi a Bitcoin?
+
+- Egy találmány: Egy recept a bolygó szintű anonim decentralizált konszenzus megteremtésére.
+- E találmány koncepciójának igazolása.
+- Mivel a növekedési fázisát túlélte, valószínűleg az egyébként megoldhatatlan anonim decentralizált konszenzus egyetlen bolygó szintű gyakorlati megvalósítása.
+
+Ja amúgy meg egy állati jó digitális pénz!
