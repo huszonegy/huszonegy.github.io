@@ -15,8 +15,8 @@
       <div name="main-inner container">
         <div class="card py-4 px-4 my-3" style="max-width: 800px;">
             <p class="card-text">Miután egy Lightning tárca qr kód olvasójával beolvasod a fenti kódot, adj meg egy tetszőleges összeget (általában sat-ban kifejezve), opcionálisan üzenetet is adhatsz hozzá, majd kattints a küldésre!</p>
-            <p class="card-text">Ha valamilyen oknál fogva on-chain küldenél számunkra bitcoint, lejjebb ahhoz is találsz címet.</p>
-            <p class="card-text">Bármekkora összeget bármikor hálásan köszönünk, és minden egyes sat-ot magyar nyelvű bitcoin oktatássá konvertálunk.</p>
+            <p class="card-text">Ha valamilyen oknál fogva a Lightning küldés nem megoldható (bár az alacsonyabb díjak miatt ez az ajánlott), lejjebb található egy on-chain cím is (a magasabb díjak miatt ez pici összegekre nem praktikus).</p>
+            <p class="card-text">Bármekkora támogatást hálásan köszönünk, és minden egyes sat-ot magyar nyelvű bitcoin oktatássá konvertálunk.</p>
         </div>
       </div>
 
