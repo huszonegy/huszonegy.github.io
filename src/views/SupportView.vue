@@ -21,7 +21,15 @@
       </div>
 
       <div class="container-sm py-3 px-3 mx-auto text-center" style="min-height: 400px;">
-        <p><b>Publikus cím:</b><br />bc1pzv8afe5l4tv392uhuqasyypl6tpdrc024s9m6ckyw0z8348ukayqudrydd</p>
+        <p>
+          <b>
+            Publikus cím:
+          </b>
+          <br />
+          <span class="small">
+            bc1pzv8afe5l4tv392uhuqasyypl6tpdrc024s9m6ckyw0z8348ukayqudrydd
+          </span> 
+        </p>
         <div class="px-3 py-3">
           <img src="/pics/huszonegy-qr-onchain.jpg" class="img-fluid" alt="qr kód" width="300" height="300">
         </div>
