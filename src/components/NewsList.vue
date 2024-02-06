@@ -22,9 +22,10 @@ defineProps<{
 </template>
 
 <style scoped>
-    .py-3 {
+/*    .py-3 {
         padding-top: 0 !important;
     }
+*/
     .small {
         font-size: .7em;
         color: #999;

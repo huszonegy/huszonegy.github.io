@@ -11,14 +11,19 @@ main {
     background: transparent !important;
 }
 
+.navbar {
+    --bs-navbar-padding-y: 0;
+}
+
 .navbar .container-fluid {
     padding-left: 0;
     background: rgb(255, 255, 255, .1);
+    height: 52px;
 }
 
 .navbar-brand {
     background-color: white;
-    padding-left: 10px;
+    padding: 10px;
 }
 
 .nav-item {
@@ -26,8 +31,8 @@ main {
 }
 
 .navbar-toggler-icon {
-    width: 0.5em;
-    height: 1em;
+    width: 0.7em;
+    height: 1.4em;
 }
 
 .article-banner {
@@ -84,9 +89,6 @@ h2 {
     margin-bottom: 20px;
 }
 
-@media (max-width: 750px) {
-}
-
 @media (max-width: 992px) {
     .navbar-collapse {
         margin-top: 15px;
@@ -94,6 +96,12 @@ h2 {
 
     .navbar-nav {
         margin-left: 10px;
+    }
+
+    .nav-item {
+        font-size: 18px;
+        margin-top: 5px;
+        margin-bottom: 5px;
     }
 
     .mx-1, .mx-2, .mx-3, .mx-4, .mx-5, .card .row .col {
