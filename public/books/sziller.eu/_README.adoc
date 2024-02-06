@@ -1,0 +1,25 @@
+== Fájlok, formátumok.
+
+=== asciidoc vagy adoc
+Egy sima markdown nyelv, vagy még egyszerűbben egy nagyon egyszerű txt fájl.
+TXT ként olvasható, és az a lényege, hogy MINDEN, ami formázási utasítás, az ténylegesen megjelenik
+karakterként a szövegben. Szóval txt ként is láthatod, meg asciidoc-ként is.
+TXT ként is mentheted, és nem vész el adat belőle.
+
+[TIP]
+====
+Öt dolog jó benne: +
+ 
+ 1. egy klikkel tudom akár HTML-be, akár PDF-be fordítani. 
+ 2. nagyon egyszerűen tudok kereszthivatkozni másik asciidoc fájlokra, vagy a fájon belül linkelni 
+ 3. css-sel formázhatod a HTML megjelenését, képeket referneciaként bele tudod tenni
+ 4. könnyű különálló cikkeket kiadványba, könyvbe összefoglalni, tartalomjegyzék is automata
+ 5. szép és kicsi a végeredmény
+====
+
+Andreas Antonopoulos ebben írta mindhárom könyvét... tőle vettem az ötletet.
+Nekem minden doksim ebben van.
+
+=== Hogyan teszed ki?
+Azt én nem tudom... ha kell gyártok belőle HTML-eket. Ha kell nyomok belőle PDF-et.
+Nézz rá, és amit kell én is csinálok...
