@@ -15,7 +15,7 @@ import NewsList from '../components/NewsList.vue'
 
       <div class="row">
         <div class="col home-col">
-          <div class="fs-5 mx-4" style="margin-bottom: 0 !important;">
+          <div class="fs-5 mx-4 no-response" style="margin-bottom: 0 !important;">
             &nbsp;
           </div>
           <div class="card px-4 py-4 my-3">
