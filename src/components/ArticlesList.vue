@@ -13,13 +13,13 @@ defineProps<{
             <div v-for="article in get_articles(max_count)" class="card mx-2 my-3" style="width: 19.4rem;">
 
                 <div class="d-flex align-items-end article-banner" style="min-height: 80px;">
-                    <a :href="article.link" target="_blank" class="link">
+                    <a :href="article.link" target="_self" class="link">
                         <img v-if="article.img" class="card-img-top center" :src="article.img" alt="image" />
                     </a>
                 </div>
                 <div class="card-body">
                     <h5 class="card-title">
-                        <a :href="article.link" target="_blank" class="link">
+                        <a :href="article.link" target="_self" class="link">
                             {{ article.name }}
                         </a>
                     </h5>
