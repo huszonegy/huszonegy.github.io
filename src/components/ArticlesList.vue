@@ -8,7 +8,7 @@ defineProps<{
 </script>
 
 <template>
-    <div name="links-list" class="container-flex blokk" style="margin-bottom: 50px;">
+    <div name="links-list" class="container-flex blokk">
         <div class="row">
             <div v-for="article in get_articles(max_count)" class="card mx-2 my-3" style="width: 19.4rem;">
 

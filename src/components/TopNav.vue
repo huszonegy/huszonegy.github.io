@@ -45,6 +45,9 @@
                     <li class="nav-item">
                         <a class="nav-link disabled" href="#">Könyvek</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/support">Támogatás</a>
+                    </li>
                     <!-- <li class="nav-item">
                         <a class="nav-link disabled" href="#">Projektek</a>
                     </li>

@@ -16,7 +16,7 @@ import NewsList from '../components/NewsList.vue'
       <div class="row">
         <div class="col home-col">
           <div class="fs-5 mx-4" style="margin-bottom: 0 !important;">
-            Üdv!
+            &nbsp;
           </div>
           <div class="card px-4 py-4 my-3">
             <p class="card-text">
@@ -48,6 +48,7 @@ import NewsList from '../components/NewsList.vue'
       </div>
       <ArticlesList :max_count = 4 />
     </div>
+    <div class="bottom-space"><!-- empty --></div>
   </main>
 </template>
 

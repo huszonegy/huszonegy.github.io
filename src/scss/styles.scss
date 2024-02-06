@@ -90,8 +90,12 @@ h2 {
 }
 
 .home-col {
-    min-width: 450px;
+    min-width: 340px;
     padding: 0 8px;
+}
+
+.bottom-space {
+    margin-bottom: 40px;
 }
 
 @media (max-width: 992px) {
