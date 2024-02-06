@@ -28,6 +28,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="/podcasts">Podcast</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/books">Könyvek</a>
+                    </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                             aria-expanded="false">
@@ -43,9 +46,6 @@
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link disabled" href="#">Könyvek</a>
-                    </li>
-                    <li class="nav-item">
                         <a class="nav-link" href="/support">Támogatás</a>
                     </li>
                     <!-- <li class="nav-item">
@@ -58,16 +58,10 @@
                         <a class="nav-link disabled" href="#">Fordítások</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link disabled" href="#">Podcast</a>
-                    </li>
-                    <li class="nav-item">
                         <a class="nav-link disabled" href="#">Naptár</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link disabled" href="#">Galéria</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link disabled" href="#">...</a>
                     </li> -->
                 </ul>
             </div>
