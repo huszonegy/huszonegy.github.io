@@ -6,10 +6,10 @@ import ForumExplain from '../components/ForumExplain.vue'
 <template>
     <main style="width: auto;">
         <div class="row">
-            <div class="col col-auto" style="max-width: 500px;">
+            <div class="col col-auto" style="max-width: 500px; width: 100%;">
                 <ForumExplain />
             </div>
-            <div class="col col-auto" style="max-width: 500px;">
+            <div class="col col-auto" style="max-width: 500px; width: 100%;">
                 <ForumShort />
             </div>
         </div>

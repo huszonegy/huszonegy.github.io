@@ -9,7 +9,7 @@ defineProps<{
 
 <template>
     <div name="links-list" class="container-flex py-3" style="margin-bottom: 50px;">
-        <div class="row row-cols-2">
+        <div class="row">
             <div v-for="article in get_articles(max_count)" class="card mx-2 my-2" style="width: 19.4rem;">
 
                 <div class="d-flex align-items-end article-banner" style="min-height: 80px;">
@@ -31,11 +31,4 @@ defineProps<{
 </template>
 
 <style scoped>
-/* @media (min-width: 1024px) {
-footer {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-  }
-} */
 </style>
