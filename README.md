@@ -1,16 +1,18 @@
-# HUSZONEGY weboldal, üres keret
+# HUSZONEGY weboldal
 
 https://huszonegy.world
 
 Simple site, with some dynamic rendering.
 
-This is not a content manaagement system, no DB, no users.
+This is not a content management system, no DB, no users.
 
-Tech: vite, bootrstrap, vue
+Tech: Vite, Bootrstrap, Vue
 
 ## Usage
 
-0. Prereq: node, npm
+0. Set up
+
+Prereq: node, npm
 
 ```
 npm install
@@ -53,7 +55,4 @@ As a workaround, index.html is simply duplicated to 404.html
 
 ## TODO
 
-- könyvek - HU
-- backlink from twentyone.world
-- meta tags, search friendly
 - light color mode
