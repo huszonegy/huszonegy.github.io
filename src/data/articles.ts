@@ -36,6 +36,13 @@ export const articles = [
         text: "Miként zajlik egy bitcoin tranzakció? Milyen folyamaton megy keresztül?",
         link: "https://europeanbitcoiners.com/mi-az-a-bitcoin-tranzakcio-hogy-mukodik/",
         img: "/article/mi-az-a-bitcoin-tranzakcio-hogy-mukodik.png"
+    },
+    {
+        name: "Bitcoin bányászok és csomópontok",
+        lang: "hu",
+        text: "Mit takar a bitcoin csomópont és a bitcoin bányász kifejezés? Mi köztük a különbség?",
+        link: "https://europeanbitcoiners.com/bitcoin-banyaszok-es-csomopontok/",
+        img: "/article/bitcoin-banyaszok-es-csomopontok.png"
     }
 ]
 
