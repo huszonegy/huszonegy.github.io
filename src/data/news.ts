@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Budapesti meetup-ok",
+        html: "Februárban két Bitcoin meetup-ot szervezünk. 20-án magyar nyelven, 21-én angol nyelven ismerkedünk egymással. Részletek a <a href='https://t.me/huszonegy'>telegram csoportban.</a>",
+        date: "2024.02.07."
+    },
+    {
         summary: "Blink wallet magyarul",
         html: "Egy kósza ötletet tett követett, és egy lelkes bitcoiner odaadó munkája eredményeképp immár magyarul is elérhető a <a href='https://blink.sv/' target='_blank'>Blink tárca</a> app!",
         date: "2024.02.02."
