@@ -98,6 +98,25 @@ h2 {
     margin-bottom: 40px;
 }
 
+.btn-custom {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #cc6600;
+    --bs-btn-border-color: cc6600;
+    --bs-btn-hover-color: #222;
+    --bs-btn-hover-bg: #cc6600;
+    --bs-btn-hover-border-color: #cc6600;
+    --bs-btn-focus-shadow-rgb: 49, 132, 253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: rgba(255, 166, 0, 1);
+    --bs-btn-active-border-color: rgba(255, 166, 0);
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: orange;
+    --bs-btn-disabled-border-color: orange;
+    margin: 10px;
+    padding: 10px 20px;
+}
+
 @media (max-width: 992px) {
     .navbar-collapse {
         margin-top: 15px;
