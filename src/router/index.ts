@@ -14,53 +14,194 @@ const router = createRouter({
     {
       path: '/',
       name: 'home',
-      component: HomeView
+      component: HomeView,
+      meta: {
+        title: 'HUSZONEGY',
+        metaTags: [
+          {
+            name: 'description',
+            content: 'HUSZONEGY - Csak Bitcoinról magyarul. Magyar bitcoinerek összefogása.'
+          },
+          {
+            name: 'keywords',
+            content: 'Bitcoin, magyar, Hungarian, huszonegy, magyarul, Bitcoinról, bitcoinerek, összefogás'
+          }
+        ]
+      }
     },
     {
-      path: '/articles',
+      path: '/cikkek',
       name: 'articles',
-      component: ArticlesView
+      component: ArticlesView,
+      meta: {
+        title: 'Cikkek',
+        metaTags: [
+          {
+            name: 'description',
+            content: 'Cikkek Bitcoinról magyarul'
+          },
+          {
+            name: 'keywords',
+            content: 'Bitcoin, magyar, cikk, cikkek, magyarul, Bitcoinról'
+          }
+        ]
+      }
     },
     {
       path: '/forum',
       name: 'forum',
-      component: ForumView
+      component: ForumView,
+      meta: {
+        title: 'Fórum',
+        metaTags: [
+          {
+            name: 'description',
+            content: 'Magyar nyelvű Bitcoin csoport'
+          },
+          {
+            name: 'keywords',
+            content: 'Bitcoin, magyar, csoport, magyarul'
+          }
+        ]
+      }
     },
     {
-      path: '/links',
+      path: '/linkek',
       name: 'links',
-      component: LinksView
+      component: LinksView,
+      meta: {
+        title: 'Linkek',
+        metaTags: [
+          {
+            name: 'description',
+            content: 'Magyar Bitcoin Linkek'
+          },
+          {
+            name: 'keywords',
+            content: 'Bitcoin, magyar, link, linkek, magyarul'
+          }
+        ]
+      }
     },
     {
-      path: '/news',
+      path: '/hirek',
       name: 'news',
-      component: NewsView
+      component: NewsView,
+      meta: {
+        title: 'Hírek',
+        metaTags: [
+          {
+            name: 'description',
+            content: 'Bitcoin hírek magyarul'
+          },
+          {
+            name: 'keywords',
+            content: 'Bitcoin, magyar, hír, hírek, magyarul'
+          }
+        ]
+      }
     },
     {
-      path: '/podcasts',
+      path: '/podcast',
       name: 'podcasts',
-      component: PodsView
+      component: PodsView,
+      meta: {
+        title: 'Podcast',
+        metaTags: [
+          {
+            name: 'description',
+            content: 'Magyar Bitcoin podcast'
+          },
+          {
+            name: 'keywords',
+            content: 'Bitcoin, magyar, podcast, beszélgetés, magyarul'
+          }
+        ]
+      }
     },
     {
-      path: '/books',
+      path: '/konyvek',
       name: 'books',
-      component: BooksView
+      component: BooksView,
+      meta: {
+        title: 'Könyvek',
+        metaTags: [
+          {
+            name: 'description',
+            content: 'Bitcoin könyvek magyar nyelven'
+          },
+          {
+            name: 'keywords',
+            content: 'Bitcoin, magyar, könyv, könyvek, magyarul, nyelven'
+          }
+        ]
+      }
     },
     {
-      path: '/support',
+      path: '/tamogatas',
       name: 'support',
-      component: SupportView
+      component: SupportView,
+      meta: {
+        title: 'Támogatás',
+        metaTags: [
+          {
+            name: 'description',
+            content: 'Bitcoin önkéntesek támogatása'
+          },
+          {
+            name: 'keywords',
+            content: 'Bitcoin, magyar, támogatás, önkéntes, támogat'
+          }
+        ]
+      }
     }
-
-    // {
-    //   path: '/about',
-    //   name: 'about',
-    //   // route level code-splitting
-    //   // this generates a separate chunk (About.[hash].js) for this route
-    //   // which is lazy-loaded when the route is visited.
-    //   component: () => import('../views/AboutView.vue')
-    // }
   ]
 })
+
+// source: https://www.digitalocean.com/community/tutorials/vuejs-vue-router-modify-head
+
+// This callback runs before every route change, including on page load.
+router.beforeEach((to, from, next) => {
+  // This goes through the matched routes from last to first, finding the closest route with a title.
+  // e.g., if we have `/some/deep/nested/route` and `/some`, `/deep`, and `/nested` have titles,
+  // `/nested`'s will be chosen.
+  const nearestWithTitle = to.matched.slice().reverse().find(r => r.meta && r.meta.title);
+
+  // Find the nearest route element with meta tags.
+  const nearestWithMeta = to.matched.slice().reverse().find(r => r.meta && r.meta.metaTags);
+
+  const previousNearestWithMeta = from.matched.slice().reverse().find(r => r.meta && r.meta.metaTags);
+
+  // If a route with a title was found, set the document (page) title to that value.
+  if(nearestWithTitle) {
+    document.title = nearestWithTitle.meta.title as string;
+  } else if(previousNearestWithMeta) {
+    document.title = previousNearestWithMeta.meta.title as string;
+  }
+
+  // Remove any stale meta tags from the document using the key attribute we set below.
+  Array.from(document.querySelectorAll('[data-vue-router-controlled]')).map(el => el.parentNode?.removeChild(el));
+
+  // Skip rendering meta tags if there are none.
+  if(!nearestWithMeta) return next();
+
+  // Turn the meta tag definitions into actual elements in the head.
+  nearestWithMeta.meta.metaTags.map(tagDef => {
+    const tag = document.createElement('meta');
+
+    Object.keys(tagDef).forEach(key => {
+      tag.setAttribute(key, tagDef[key]);
+    });
+
+    // We use this to track which meta tags we create so we don't interfere with other ones.
+    tag.setAttribute('data-vue-router-controlled', '');
+
+    return tag;
+  })
+  // Add the meta tags to the document head.
+  .forEach(tag => document.head.appendChild(tag));
+
+  next();
+});
 
 export default router

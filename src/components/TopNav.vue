@@ -5,7 +5,7 @@
     <nav class="navbar navbar-expand-lg bg-body-tertiary justify-content-center">
         <div class="container-fluid">
             <a class="navbar-brand" href="/">
-                <img src="/logo/he-logo-oneline-1-200x64.png" alt="Huszonegy" height="32">
+                <img src="/logo/he-logo-oneline-1-200x64.png" alt="huszonegy" height="32">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -17,19 +17,19 @@
                         <a class="nav-link" href="/forum">Fórum</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/news">Hírek</a>
+                        <a class="nav-link" href="/hirek">Hírek</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/articles">Cikkek</a>
+                        <a class="nav-link" href="/cikkek">Cikkek</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/links">Linkek</a>
+                        <a class="nav-link" href="/linkek">Linkek</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/podcasts">Podcast</a>
+                        <a class="nav-link" href="/podcast">Podcast</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/books">Könyvek</a>
+                        <a class="nav-link" href="/konyvek">Könyvek</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
@@ -46,23 +46,8 @@
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/support">Támogatás</a>
+                        <a class="nav-link" href="/tamogatas">Támogatás</a>
                     </li>
-                    <!-- <li class="nav-item">
-                        <a class="nav-link disabled" href="#">Projektek</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link disabled" href="#">Blog</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link disabled" href="#">Fordítások</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link disabled" href="#">Naptár</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link disabled" href="#">Galéria</a>
-                    </li> -->
                 </ul>
             </div>
         </div>

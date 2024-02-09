@@ -39,14 +39,14 @@ import NewsList from '../components/NewsList.vue'
 
         <div class="col home-col">
           <div class="fs-5 mx-4" style="margin-bottom: 0 !important;">
-            <a href="/news">Friss hírek</a>
+            <a href="/hirek">Friss hírek</a>
           </div>
           <NewsList :max_count = 2 />
         </div>
       </div>
 
       <div class="fs-5 mx-4" style="margin-bottom: 0 !important;">
-        <a href="/articles">Friss cikkek</a>
+        <a href="/cikkek">Friss cikkek</a>
       </div>
       <ArticlesList :max_count = 4 />
     </div>
