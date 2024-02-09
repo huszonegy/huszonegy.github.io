@@ -186,7 +186,8 @@ router.beforeEach((to, from, next) => {
   if(!nearestWithMeta) return next();
 
   // Turn the meta tag definitions into actual elements in the head.
-  nearestWithMeta.meta.metaTags.map(tagDef => {
+  const metaArray = nearestWithMeta.meta.metaTags as Array<String>;
+  metaArray.map(tagDef => {
     const tag = document.createElement('meta');
 
     Object.keys(tagDef).forEach(key => {
