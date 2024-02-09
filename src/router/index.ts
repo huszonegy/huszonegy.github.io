@@ -157,8 +157,9 @@ const router = createRouter({
     }
   ]
 })
-/*
+
 // source: https://www.digitalocean.com/community/tutorials/vuejs-vue-router-modify-head
+// modified here and there by pesz
 
 // This callback runs before every route change, including on page load.
 router.beforeEach((to, from, next) => {
@@ -173,9 +174,9 @@ router.beforeEach((to, from, next) => {
   const previousNearestWithMeta = from.matched.slice().reverse().find(r => r.meta && r.meta.metaTags);
 
   // If a route with a title was found, set the document (page) title to that value.
-  if(nearestWithTitle) {
+  if (nearestWithTitle) {
     document.title = nearestWithTitle.meta.title as string;
-  } else if(previousNearestWithMeta) {
+  } else if (previousNearestWithMeta) {
     document.title = previousNearestWithMeta.meta.title as string;
   }
 
@@ -183,7 +184,7 @@ router.beforeEach((to, from, next) => {
   Array.from(document.querySelectorAll('[data-vue-router-controlled]')).map(el => el.parentNode?.removeChild(el));
 
   // Skip rendering meta tags if there are none.
-  if(!nearestWithMeta) return next();
+  if (!nearestWithMeta) return next();
 
   // Turn the meta tag definitions into actual elements in the head.
   const metaArray = nearestWithMeta.meta.metaTags as Array<String>;
@@ -191,7 +192,7 @@ router.beforeEach((to, from, next) => {
     const tag = document.createElement('meta');
 
     Object.keys(tagDef).forEach(key => {
-      tag.setAttribute(key, tagDef[key]);
+      tag.setAttribute(key, tagDef[key as keyof typeof nearestWithMeta.meta.metaTags]);
     });
 
     // We use this to track which meta tags we create so we don't interfere with other ones.
@@ -204,5 +205,5 @@ router.beforeEach((to, from, next) => {
 
   next();
 });
-*/
+
 export default router
