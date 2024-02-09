@@ -157,7 +157,7 @@ const router = createRouter({
     }
   ]
 })
-
+/*
 // source: https://www.digitalocean.com/community/tutorials/vuejs-vue-router-modify-head
 
 // This callback runs before every route change, including on page load.
@@ -204,5 +204,5 @@ router.beforeEach((to, from, next) => {
 
   next();
 });
-
+*/
 export default router
