@@ -7,7 +7,7 @@ import { get_links_filter } from '../data/links'
         <div class="row px-1 py-2 justify-content-center center">
 
             <div class="col col-auto py-3">
-                <a href="/support">Támogass! ⚡</a>
+                <a href="/tamogatas">Támogass! ⚡</a>
             </div>
 
             <div class="col col-auto">
