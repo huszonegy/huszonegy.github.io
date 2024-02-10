@@ -1,10 +1,6 @@
 <script setup lang="ts">
 import { links } from '../data/links'
 import { link_simplified } from '../utils'
-
-// defineProps<{
-//     msg: string
-// }>()
 </script>
 
 <template>
@@ -13,8 +9,10 @@ import { link_simplified } from '../utils'
         <div class="row">
             <div v-for="link in links" class="card mx-2 my-2" style="width: 16rem;">
 
-                <div class="d-flex align-items-end" style="min-height: 80px;">
-                    <img v-if="link.logo" class="card-img-top" :src="link.logo" alt="Logo" width="150px" height="48" />
+                <div class="d-flex align-items-end center" style="min-height: 80px;">
+                    <a :href="link.link" target="_blank" class="link small">
+                        <img v-if="link.logo" class="card-img-top" :src="link.logo" alt="Logo" width="150px" height="48" />
+                    </a>
                 </div>
                 <div class="card-body">
                     <h5 class="card-title">{{ link.name }}</h5>
