@@ -17,7 +17,7 @@ import { link_simplified } from '../utils'
                 <div class="card-body">
                     <h5 class="card-title">{{ pod.name }}</h5>
                     <p class="card-text" v-html="pod.text" />
-                    <a :href="pod.link" target="_blank" class="link">
+                    <a :href="pod.link" target="_blank" class="link small">
                         {{ link_simplified(pod.link) }}
                     </a>
                 </div>
@@ -32,7 +32,7 @@ import { link_simplified } from '../utils'
                 <div class="card-body">
                     <h5 class="card-title">{{ pod.name }}</h5>
                     <p class="card-text" v-html="pod.text" />
-                    <a :href="pod.link" target="_blank" class="link">
+                    <a :href="pod.link" target="_blank" class="link small">
                         {{ link_simplified(pod.link) }}
                     </a>
                 </div>

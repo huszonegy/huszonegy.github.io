@@ -48,6 +48,7 @@ main {
 
 .card {
     padding-bottom: 10px;
+    --bs-card-title-spacer-y: 1rem;
 }
 
 a {
@@ -87,6 +88,19 @@ h1, .h1 {
 
 h2 {
     margin-bottom: 20px;
+}
+
+h2.fs-5 {
+    font-size: 1.4rem !important;
+    margin-bottom: 0px !important;
+}
+
+h5, .h5 {
+    font-size: 1.15rem;
+}
+
+p {
+    line-height: 1.4em;
 }
 
 .home-col {
