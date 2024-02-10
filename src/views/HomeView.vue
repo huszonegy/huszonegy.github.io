@@ -15,9 +15,9 @@ import NewsList from '../components/NewsList.vue'
 
       <div class="row">
         <div class="col home-col">
-          <div class="fs-5 mx-4 no-response" style="margin-bottom: 0 !important;">
+          <h2 class="fs-5 mx-4 no-response">
             &nbsp;
-          </div>
+          </h2>
           <div class="card px-4 py-4 my-3">
             <p class="card-text">
               Ezen honlapot magyar bitcoinerek maréknyi csoportja fejleszti önként. A honlap egyrészt kapcsolódási és közös megnyilvánulási pontként funkcionál, másrészt a bitcoin irányába nyitott érdeklődőket minőségi magyar nyelvű információ csokorral hivatott szolgálni.
@@ -38,16 +38,16 @@ import NewsList from '../components/NewsList.vue'
         </div>
 
         <div class="col home-col">
-          <div class="fs-5 mx-4" style="margin-bottom: 0 !important;">
-            <a href="/hirek">Friss hírek</a>
-          </div>
+          <h2 class="fs-5 mx-4">
+            Friss <a href="/hirek">hírek</a>
+          </h2>
           <NewsList :max_count = 2 />
         </div>
       </div>
 
-      <div class="fs-5 mx-4" style="margin-bottom: 0 !important;">
-        <a href="/cikkek">Friss cikkek</a>
-      </div>
+      <h2 class="fs-5 mx-4">
+        Friss <a href="/cikkek">cikkek</a>
+      </h2>
       <ArticlesList :max_count = 4 />
     </div>
     <div class="bottom-space"><!-- empty --></div>
