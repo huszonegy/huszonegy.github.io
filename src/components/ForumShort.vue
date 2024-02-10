@@ -9,12 +9,6 @@
             <br />
             <br />
         </p>
-<!--        <p class="card-text center">
-            <a href="https://t.me/huszonegy" target="_blank">
-                <img src="/logo/he-logo-tgram-1-200x64.png" width="150" height="48" class="my-3"/>
-            </a>
-        </p>
--->
         <center>
               <a href="https://t.me/huszonegy" target="_blank">
                 <button type="button" class="btn btn-custom">Csatlakozz a csoporthoz</button>

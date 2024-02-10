@@ -10,7 +10,7 @@ import { link_simplified } from '../utils'
 <template>
     <div class="fs-3 py-1">Podcast</div>
     <div class="fs-4 py-1">magyarul</div>
-    <div name="links-list" class="container-flex py-3">
+    <div name="links-list" class="container-flex py-3 podcast">
         <div class="row row-cols-2">
             <div v-for="pod in podcasts.filter((p) => p.lang === 'hu')" class="card mx-2 my-2" style="width: 20rem;">
                 <!-- <img class="card-img-top" src="..." alt="Card image cap"> -->
@@ -25,7 +25,7 @@ import { link_simplified } from '../utils'
         </div>
     </div>
     <div class="fs-4 py-1">nem magyarul (leginkább angolul)</div>
-    <div name="links-list" class="container-flex py-3">
+    <div name="links-list" class="container-flex py-3 podcast">
         <div class="row row-cols-2">
             <div v-for="pod in podcasts.filter((p) => p.lang !== 'hu')" class="card mx-2 my-2" style="width: 20rem;">
                 <!-- <img class="card-img-top" src="..." alt="Card image cap"> -->

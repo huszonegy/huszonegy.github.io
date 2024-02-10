@@ -8,7 +8,7 @@ defineProps<{
 </script>
 
 <template>
-    <div name="links-list" class="container-flex blokk">
+    <div name="links-list" class="container-flex news">
         <div v-for="nn in get_news(max_count)" class="card my-3" style="width: 80pct;">
             <div class="card-body">
                 <h5 class="card-title">
@@ -22,10 +22,6 @@ defineProps<{
 </template>
 
 <style scoped>
-/*    .py-3 {
-        padding-top: 0 !important;
-    }
-*/
     .small {
         font-size: .7em;
         color: #999;
