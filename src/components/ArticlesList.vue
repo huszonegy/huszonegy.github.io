@@ -8,9 +8,9 @@ defineProps<{
 </script>
 
 <template>
-    <div name="links-list" class="container-flex blokk">
+    <div name="links-list" class="container-flex">
         <div class="row">
-            <div v-for="article in get_articles(max_count)" class="card mx-2 my-3" style="width: 19.4rem;">
+            <div v-for="article in get_articles(max_count)" class="card mx-2 my-3 article" style="width: 19.4rem;">
 
                 <div class="d-flex align-items-end article-banner" style="min-height: 80px;">
                     <a :href="article.link" target="_self" class="link">
@@ -25,7 +25,7 @@ defineProps<{
                     </h5>
                     <p class="card-text" v-html="article.text" />
                     <p class="card-text category">
-                        Nehézség: {{ article.cat }}
+                        <span>nehézség:</span> {{ article.cat }}
                     </p>
                 </div>
             </div>
