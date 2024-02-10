@@ -5,7 +5,7 @@ import { get_book_ids } from '../data/books';
 
 <template>
     <!-- List with all books -->
-    <div name="books-list" class="container-flex py-3">
+    <div name="books-list" class="container-flex books">
         <BooksItem v-for="bid in get_book_ids()" :id="bid" />
     </div>
 </template>

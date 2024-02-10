@@ -5,9 +5,9 @@
 
 export const news = [
     {
-        summary: "Rólunk blogol az inflacio.eu",
-        html: "Megszületett az első <a href='https://inflacio.eu/huszonegy/' target='_blank'>HUSZONEGY vonatkozású blog bejegyzés</a> az inflacio.eu-n, ahol amúgy értékes, témába vágó oktatóanyag olvasható.",
-        date: "2024.02.09."
+        summary: "Rólunk ír az inflacio.eu és a BitcoinBázis",
+        html: "Megszületett az első <a href='https://inflacio.eu/huszonegy/' target='_blank'>HUSZONEGY vonatkozású blog bejegyzés</a> az inflacio.eu-n, ahol amúgy értékes, témába vágó oktatóanyag olvasható. Továbbá a BitcoinBázis is írt egy <a href='https://www.bitcoinbazis.hu/huszonegy-world-bitcoin/' target='_blank'>cikket a HUSZONEGY-ről.</a>",
+        date: "2024.02.10."
     },
     {
         summary: "Budapesti meetup-ok",
