@@ -2,6 +2,12 @@
 
 export const podcasts = [
     {
+        name: "HUSZONEGY",
+        lang: "hu",
+        text: "Csoportunk saját bitcoin podcastja hamarosan indul",
+        link: ""
+    },
+    {
         name: "Bitcoin Kebab",
         lang: "hu",
         text: "Magyar bitcoin podcast, Stier Katával, a Bitcoin Bázis gondozásában",

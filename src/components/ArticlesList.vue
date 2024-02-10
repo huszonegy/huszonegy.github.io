@@ -24,6 +24,9 @@ defineProps<{
                         </a>
                     </h5>
                     <p class="card-text" v-html="article.text" />
+                    <p class="card-text category">
+                        Nehézség: {{ article.cat }}
+                    </p>
                 </div>
             </div>
         </div>
