@@ -4,7 +4,7 @@ import BooksList from '../components/BooksList.vue'
 
 <template>
     <main>
-        <div class="fs-3 py-2 mx-4">Magyar nyelvű bitcoin könyvek</div>
+        <div class="fs-3 py-1 mx-4">Magyar nyelvű bitcoin könyvek</div>
         <BooksList />
     </main>
 </template>
