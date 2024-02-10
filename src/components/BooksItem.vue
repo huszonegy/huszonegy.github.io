@@ -9,7 +9,7 @@ defineProps<{
 
 <template>
     <!-- Renders one book, with the given ID -->
-    <div v-for="book in get_book(id)" class="card mb-3 px-3 py-3" style="max-width: 740px;">
+    <div v-for="book in get_book(id)" class="card my-3 px-3 py-3" style="max-width: 740px;">
         <div class="row g-0">
             <div class="col-md-4 content-justify-center center">
                 <img v-if="book.img" class="img-fluid rounded-start px-3 py-3" :src="book.img" alt="cover" width="300" />

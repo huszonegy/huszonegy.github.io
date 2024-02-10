@@ -54,6 +54,10 @@ main {
     --bs-card-spacer-y: 1.8rem !important;
 }
 
+.news .card, .books .card {
+    max-width: 740px;
+}
+
 .podcast .card-title {
     margin-top: var(--bs-card-title-spacer-y);
 }
