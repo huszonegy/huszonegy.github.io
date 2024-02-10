@@ -8,7 +8,7 @@ import { link_simplified } from '../utils'
 </script>
 
 <template>
-    <div class="fs-3 py-1">Pár Podcast</div>
+    <div class="fs-3 py-1">Podcast</div>
     <div class="fs-4 py-1">magyarul</div>
     <div name="links-list" class="container-flex py-3">
         <div class="row row-cols-2">
