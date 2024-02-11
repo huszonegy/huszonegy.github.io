@@ -9,7 +9,7 @@ defineProps<{
 
 <template>
     <div name="links-list" class="container-flex news">
-        <div v-for="nn in get_news(max_count)" class="card my-3" style="width: 80pct;">
+        <div v-for="nn in get_news(max_count)" class="card my-4" style="width: 80pct;">
             <div class="card-body">
                 <h5 class="card-title">
                     {{ nn.summary }}

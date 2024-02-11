@@ -50,7 +50,7 @@ import NewsList from '../components/NewsList.vue'
       </h2>
       <ArticlesList :max_count = 4 />
     </div>
-    <div class="bottom-space"><!-- empty --></div>
+    <div class="bottom-space no-response"><!-- empty --></div>
   </main>
 </template>
 

@@ -140,7 +140,7 @@ p {
 }
 
 .bottom-space {
-    margin-bottom: 40px;
+    margin-bottom: 50px;
 }
 
 .btn-custom {
@@ -206,6 +206,10 @@ p {
         display: none;
         height: 0;
     }
+
+    .footer {
+        margin-top: 50px;
+    }
 }
 
 
@@ -213,4 +217,9 @@ p {
     .centerpage {
         min-height: 86vh !important;
     }
+
+    .home-col .my-4 {
+        margin-top: 1rem !important;
+        margin-bottom: 1rem !important;
+    }    
 }
