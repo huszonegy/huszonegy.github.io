@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "A bitcoin árfolyamának alakulása és a felezés hatása",
+        html: "<a href='https://inflacio.eu/a-bitcoin-arfolyamanak-alakulasa-es-a-felezes-hatasa/' target='_blank'>Magyar nyelvű összefoglaló</a> Jack Mallers hétfői pocastjáról.</a>",
+        date: "2024.02.13."
+    },
+    {
         summary: "Rólunk ír az inflacio.eu és a BitcoinBázis",
         html: "Megszületett az első <a href='https://inflacio.eu/huszonegy/' target='_blank'>HUSZONEGY vonatkozású blog bejegyzés</a> az inflacio.eu-n, ahol amúgy értékes, témába vágó oktatóanyag olvasható. Továbbá a BitcoinBázis is írt egy <a href='https://www.bitcoinbazis.hu/huszonegy-world-bitcoin/' target='_blank'>cikket a HUSZONEGY-ről.</a>",
         date: "2024.02.10."
