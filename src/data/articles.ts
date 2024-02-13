@@ -55,7 +55,17 @@ export const articles = [
         img: "/article/bitcoin-banyaszok-es-csomopontok.png",
         cat: "bevezető",
         id: 6
+    },
+    {
+        name: "Mik azok a kulcsok és a címek?",
+        lang: "hu",
+        text: "Mik azok a bitcoin címek? Mit jelent az, hogy kulcs?",
+        link: "https://europeanbitcoiners.com/mik-azok-a-kulcsok-es-a-cimek/",
+        img: "/article/mik-azok-a-kulcsok-es-a-cimek.png",
+        cat: "bevezető",
+        id: 7
     }
+
 ]
 
 // Get the articles, optionally only the last N
