@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Magyar nyelven ingyenesen olvasható Bitcoin könyvek",
+        html: "Négy fantasztikus Bitcoin könyvvel bővült a <a href='/konyvek/' target='_self'>Könyvek</a> oldalunk. Ezek a könyvek pdf-ben is letölthetőek, illetve közvetlenül a böngészőben is olvashatóak a CoinCrumb.com honlapján.",
+        date: "2024.02.14."
+    },
+    {
         summary: "A bitcoin árfolyamának alakulása és a felezés hatása",
         html: "<a href='https://inflacio.eu/a-bitcoin-arfolyamanak-alakulasa-es-a-felezes-hatasa/' target='_blank'>Magyar nyelvű összefoglaló</a> Jack Mallers hétfői pocastjáról.</a>",
         date: "2024.02.13."

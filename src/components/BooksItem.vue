@@ -30,7 +30,7 @@ defineProps<{
                     <!-- <p class="card-text" :v-if="book.year"><small>{{ book.year }}</small></p> -->
                     <p class="card-text" v-html="book.text" />
                     <p class="card-text small" v-html="book.desc" />
-                    <p class="card-text small" :v-if="book.shop" v-html="'<strong>Megvásárolható itt:</strong> ' + book.shop" />
+                    <p class="card-text small" :v-if="book.shop" v-html="book.shop" />
                 </div>
             </div>
         </div>
