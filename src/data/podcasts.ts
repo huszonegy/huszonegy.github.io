@@ -4,7 +4,7 @@ export const podcasts = [
     {
         name: "HUSZONEGY",
         lang: "hu",
-        text: "<b>Hamarosan indul saját Bitcoin podcastunk. Iratkozz fel!</b>",
+        text: "Elstartolt saját Bitcoin podcastunk. <a href='https://www.youtube.com/@huszonegy-podcast' target='_blank'>Mi az a Bitcoin?</a> címmel heti rendszerességgel jelentkezünk youtube-on, spotify-on és további felületeken.",
         link: "https://www.youtube.com/@huszonegy-podcast"
     },
     {

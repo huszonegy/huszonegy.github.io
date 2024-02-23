@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Mi az a Bitcoin?",
+        html: "Megjelent Bitcoin podcastunk első epizódja <a href='https://www.youtube.com/watch?v=JEu3CcID0dU' target='_blank'>Mi az a Bitcoin?</a> címmel. Mostantól heti rendszerességgel jelentkezünk youtube-on, spotify-on és további felületeken.",
+        date: "2024.02.23."
+    },
+    {
         summary: "Magyar nyelven ingyenesen olvasható Bitcoin könyvek",
         html: "Négy fantasztikus Bitcoin könyvvel bővült a <a href='/konyvek/' target='_self'>Könyvek</a> oldalunk. Ezek a könyvek pdf-ben is letölthetőek, illetve közvetlenül a böngészőben is olvashatóak a CoinCrumb.com honlapján.",
         date: "2024.02.14."
