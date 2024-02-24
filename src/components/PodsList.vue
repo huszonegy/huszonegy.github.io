@@ -10,7 +10,6 @@ import { link_simplified } from '../utils'
 <template>
     <div class="fs-3 py-1">Podcast</div>
     <div class="fs-4 py-1">magyarul</div>
-    <iframe width='560' height='318' src='https://www.youtube.com/embed/JEu3CcID0dU?si=WXGEK4X7Oq-9Nc6-' title='Mi az a Bitcoin' frameborder='0' allow='accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>
     <div name="links-list" class="container-flex py-3 podcast">
         <div class="row row-cols-2">
             <div v-for="pod in podcasts.filter((p) => p.lang === 'hu')" class="card mx-2 my-2" style="width: 20rem;">
