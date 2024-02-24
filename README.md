@@ -46,6 +46,12 @@ Vue single-page-application routing does not work well with Github pages, see ht
 As a workaround, index.html is simply duplicated to 404.html
 
 
+## Add Nostr username and pubkey for NIP05
+
+- npub - hex converter: https://nostrtool.com/
+- sample PR: https://github.com/huszonegy/huszonegy.github.io/pull/65/files
+
+
 ## Contribute
 
 - For items that are stored in data files, like links, adding should be straightforward. Watch out for commas!
