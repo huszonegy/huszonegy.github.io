@@ -25,7 +25,7 @@ import NewsList from '../components/NewsList.vue'
             <p class="card-text">
               A
               <a href="https://t.me/huszonegy" target="_blank">
-                huszonegy telegram csoport
+                HUSZONEGY telegram csoport
               </a>
               nyitott, bárki csatlakozhat, akit érdekel a Bitcoinnal kapcsolatos magyar nyelvű kommunikáció. Egyetlen szabályunk, hogy a csoporton belül csak Bitcoinról kommunikálunk magyar nyelven.
             </p>
