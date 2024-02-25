@@ -4,7 +4,7 @@ export const podcasts = [
     {
         name: "HUSZONEGY Bitcoin podcast",
         lang: "hu",
-        text: "<a href='https://www.youtube.com/@huszonegy-bitcoin-podcast' target='_blank'><img src='/public/pics/s01e01-indexkep.jpg' width='260' alt='Mi az a Bitcoin?' title='Mi az a Bitcoin?' style='margin-bottom: 20px'/></a><br />Elstartolt saját Bitcoin podcastunk. <a href='https://www.youtube.com/@huszonegy-bitcoin-podcast' target='_blank'>Mi az a Bitcoin?</a> címmel heti rendszerességgel jelentkezünk <a href='https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N' target='_blank'>fountain.fm</a>-en, youtube-on, spotify-on, amazon-on, apple podcastban, google podcastban és további felületeken.",
+        text: "<a href='https://www.youtube.com/@huszonegy-bitcoin-podcast' target='_blank'><img src='public/pics/mi-az-a-bitcoin.jpg' width='260' alt='Mi az a Bitcoin?' title='Mi az a Bitcoin?' style='margin-bottom: 20px'/></a><br />Elstartolt saját Bitcoin podcastunk. <a href='https://www.youtube.com/@huszonegy-bitcoin-podcast' target='_blank'>Mi az a Bitcoin?</a> címmel heti rendszerességgel jelentkezünk <a href='https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N' target='_blank'>fountain.fm</a>-en, youtube-on, spotify-on, amazon-on, apple podcastban, google podcastban és további felületeken.",
         link: "https://www.youtube.com/@huszonegy-bitcoin-podcast"
     },
     {
