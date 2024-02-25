@@ -36,12 +36,12 @@ export const news = [
     },
     {
         summary: "huszonegy.world honlap",
-        html: "Honlapja is lett a huszonegy csoportnak, elkészült a <a href='/'>huszonegy.world</a>! Ebben az első változatban rövid leírások és néhány fontosabb link kapott helyet.",
+        html: "Honlapja is lett a HUSZONEGY csoportnak, elkészült a <a href='/'>huszonegy.world</a>! Ebben az első változatban rövid leírások és néhány fontosabb link kapott helyet.",
         date: "2024.01.29."
     },
     {
-        summary: "Elindult a huszonegy telegram csatorna",
-        html: "2023 májusában Murányi Árpád elindította a <a href='/forum'>huszonegy telegram csatornát</a>, amely azóta több tucat magyar bitcoiner nyüzsgő találkozási pontjává vált.",
+        summary: "Elindult a HUSZONEGY telegram csatorna",
+        html: "2023 májusában Murányi Árpád elindította a <a href='/forum'>HUSZONEGY telegram csatornát</a>, amely azóta több tucat magyar bitcoiner nyüzsgő találkozási pontjává vált.",
         date: "2023.05.11."
     }
 ]

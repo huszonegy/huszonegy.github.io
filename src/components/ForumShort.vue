@@ -5,7 +5,7 @@
     <div class="card py-5 px-5 my-3 mx-4">
         <p class="card-text center">
             Közösségünk fő találkozási pontja a
-            <b>huszonegy telegram csoport.</b>
+            <b>HUSZONEGY telegram csoport.</b>
             <br />
             <br />
         </p>
