@@ -6,7 +6,7 @@
 export const news = [
     {
         summary: "Podcast 2.0",
-        html: "Bitcoin podcastunk második adása egy blogbejegyzést is vagával vonzott, melyben szó esik a <a href='https://inflacio.eu/mi-az-a-bitcoin/' target='_blank'>podcast 2.0 névvel is illetett újításról</a>, mely kipróbálható és akár rendszeresen gyakorolható a HUSZONEGY Bitcoin Podcasttal.",
+        html: "Bitcoin podcastunk második adása egy blogbejegyzést is magával vonzott, melyben szó esik a <a href='https://inflacio.eu/mi-az-a-bitcoin/' target='_blank'>podcast 2.0 névvel is illetett újításról</a>, mely kipróbálható és akár rendszeresen gyakorolható a HUSZONEGY Bitcoin Podcasttal.",
         date: "2024.02.29."
     },
     {
