@@ -41,7 +41,7 @@ export const news = [
     },
     {
         summary: "Blink wallet magyarul",
-        html: "Egy kósza ötletet tett követett, és egy lelkes bitcoiner odaadó munkája eredményeképp immár magyarul is elérhető a <a href='https://blink.sv/' target='_blank'>Blink tárca</a> app!",
+        html: "Egy kósza ötletet tett követett, és egy lelkes bitcoiner, Lóri önkéntes munkája eredményeként immár magyarul is elérhető a <a href='https://blink.sv/' target='_blank'>Blink tárca</a> app!",
         date: "2024.02.02."
     },
     {
@@ -51,7 +51,7 @@ export const news = [
     },
     {
         summary: "Elindult a HUSZONEGY telegram csatorna",
-        html: "2023 májusában Murányi Árpád elindította a <a href='/forum'>HUSZONEGY telegram csatornát</a>, amely azóta több tucat magyar bitcoiner nyüzsgő találkozási pontjává vált.",
+        html: "2023 májusában elindult a <a href='/forum'>HUSZONEGY telegram csatorna</a>, amely azóta több tucat magyar bitcoiner nyüzsgő találkozási pontjává vált.",
         date: "2023.05.11."
     }
 ]
