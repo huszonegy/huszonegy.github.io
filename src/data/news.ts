@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "1 BTC = 1 BTC",
+        html: "<a href='https://youtu.be/vliH7iNDbVk' target='_blank'>Podcastunk harmadik epizódja</a> a Bitcoin Atlantis konferencia kapcsán érint olyan témákat, mint 1 BTC = 1 BTC, minden osztva 21 millióval, időlánc/timechain, adósság spirál.",
+        date: "2024.03.09."
+    },
+    {
         summary: "Podcast 2.0",
         html: "Bitcoin podcastunk második adása egy blogbejegyzést is magával vonzott, melyben szó esik a <a href='https://inflacio.eu/mi-az-a-bitcoin/' target='_blank'>podcast 2.0 névvel is illetett újításról</a>, mely kipróbálható és akár rendszeresen gyakorolható a HUSZONEGY Bitcoin Podcasttal.",
         date: "2024.02.29."
