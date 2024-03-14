@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Bitcoin meetup-ok Miskolcon és Pécsett is",
+        html: "A huszonegy podcast negyedik epizódja többek közt ilyen témákat érint: a bitcoinban való megtakarításhoz nem kell tőzsdei ismeret, eljött az öngondoskodás ideje, egy Bitcoin alapú világban nem lesz ennyi háború, meetup-ok Miskolcon és Pécsett is, Bitcoin konferencia Miskolcon.<br /><br />Nézd a <a href='https://www.youtube.com/@huszonegy-bitcoin-podcast' target='_blank'>HUSZONEGY youtube csatornán</a>, hallgasd az innovatív <a href='https://fountain.fm/' target='_blank'>Fountain alkalmazással!</a> De megtalálod spotify-on, apple és google podcast felületeken is.",
+        date: "2024.03.14."
+    },
+    {
         summary: "1 BTC = 1 BTC",
         html: "<a href='https://youtu.be/vliH7iNDbVk' target='_blank'>Podcastunk harmadik epizódja</a> a Bitcoin Atlantis konferencia kapcsán érint olyan témákat, mint 1 BTC = 1 BTC, minden osztva 21 millióval, időlánc/timechain, adósság spirál.",
         date: "2024.03.09."
