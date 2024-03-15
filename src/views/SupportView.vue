@@ -35,6 +35,17 @@
         </div>
       </div>
 
+      <div class="container-sm py-3 px-3 mx-auto text-center" style="min-height: 400px;">
+        <h3>
+          <b>
+            Töltsd le a Fountain appot, hallgasd abban podcastunkat,<br />s közben csurgass felénk satokat!
+          </b>
+        </h3>
+        <div class="px-3 py-3">
+          <img src="/pics/fountain.png" class="img-fluid" alt="Fountain app" />
+        </div>
+      </div>
+
       <div class="bottom-space"><!-- empty --></div>
     </div>
   </main>
