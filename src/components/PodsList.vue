@@ -15,9 +15,13 @@ import { link_simplified } from '../utils'
         <div class="row row-cols-2">
             <div v-for="pod in podcasts" class="card mx-2 my-2" style="width: 20rem;">
                 <div class="card-body">
-                    <h5 class="card-title">{{ pod.name }}</h5>
-                    <img :src="pod.img" />
-                    <p class="small my-3">
+                    <h4>
+                        <img :src="pod.img" alt="Mi az a Bitcoin?" />
+                    </h4>
+                    <h5 class="card-title">
+                        {{ pod.name }}
+                    </h5>
+                    <p class="small my-3 grey">
                         {{ pod.date }}<span v-for="member in pod.members">&nbsp;|&nbsp;{{ member }}</span> 
                     </p>
                     <p class="small my-3">
@@ -31,6 +35,9 @@ import { link_simplified } from '../utils'
                             audio
                         </a>
                     </p>
+                    <p class="small my-3">
+                        {{ pod.topic }}
+                    </p>
                 </div>
             </div>
         </div>
@@ -43,5 +50,8 @@ import { link_simplified } from '../utils'
     }
     h3 {
         font-size: 16px;
+    }
+    .grey {
+        color: #999;
     }
 </style>
