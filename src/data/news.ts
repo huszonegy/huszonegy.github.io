@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Még több Bitcoin podcast",
+        html: "<a href='/podcast#bitcoin-kebab'>Podcast oldalunkat</a> bővítettük a Bitcoin Kebab epizódjaiból való válogatással, melyben bitcoin maxik szólalnak meg.",
+        date: "2024.03.17."
+    },
+    {
         summary: "Rejtett elnyomás - Hogyan adja el az IMF és a Világbank a kizsákmányolást fejlesztésként",
         html: "<a href='/konyvek#hidden-repression'>Könyv oldalunkat</a> bővítettük a podcastunk negyedik epizódjában ajánlott megdöbbentően egyedülálló könyvvel az IMF és a Világbank a harmadik világ országait kizsákmányoló működéséről, mely ugyan egyelőre nem érhető el magyar nyelven, jelentősége ugyanakkor olyan kiemelkedő, hogy szükségesnek érezzük felhívni rá a figyelmet.",
         date: "2024.03.17."
