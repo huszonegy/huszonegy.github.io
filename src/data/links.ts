@@ -13,6 +13,12 @@ export const links = [
         logo: "/logo/he-logo-tgram-1-200x64.png"
     },
     {
+        name: "inflacio.eu",
+        text: "Oktatóanyag és blog pénzről, pénzügyi rendszerről, pénzügyi eszközökről",
+        link: "https://inflacio.eu/",
+        logo: "/logo/orange-pill-200x64.png"
+    },
+    {
         name: "TwentyOne.World (EN)",
         footer: true,
         text: "Globális TwentyOne gyűjtőoldal",

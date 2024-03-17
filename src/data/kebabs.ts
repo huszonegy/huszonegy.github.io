@@ -62,7 +62,7 @@ export const kebabs = [
         img: "/pics/bitcoin-kebab-230417.png",
         date: "2023.04.17.",
         members: ["Kata", "Árpi"],
-        topic: "A 'Bitcoin kontra CBDC avagy “szabadok legyünk, s ne rabok”' című előadásról, központi bankokról, Lightning Network-ről, tanácsok kezdők számára.",
+        topic: "A <a href='https://www.youtube.com/watch?v=1aSoRf17WRg' target='_blank'>Bitcoin kontra CBDC avagy “szabadok legyünk, s ne rabok”</a> című előadásról, a digitális jegybankpénzről, központi bankokról, Lightning Network-ről, tanácsok kezdők számára.",
         yt: "https://www.youtube.com/watch?v=rpD8o6V-j_k",
     }
 ]

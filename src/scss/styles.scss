@@ -136,6 +136,10 @@ h5, .h5 {
     font-size: 1rem;
 }
 
+h5.top {
+    margin-top: 20px;
+}
+
 .news h5, .news .h5 {
     font-size: 1.1rem;
 }
@@ -194,8 +198,13 @@ p {
     font-style: normal;
 }
 
-.grey {
+.small.grey {
     color: #999;
+    font-size: 0.8em;
+}
+
+.dark {
+    color: #777;
 }
 
 @media (max-width: 992px) {

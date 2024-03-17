@@ -17,14 +17,14 @@ import { link_simplified } from '../utils'
         <div class="row row-cols-2">
             <div v-for="pod in podcasts" class="card mx-2 my-2" style="width: 20rem;">
                 <div class="card-body">
-                    <h4>
+                    <h4 class="my-3">
                         <img :src="pod.img" alt="Mi az a Bitcoin?" />
                     </h4>
-                    <h5 class="card-title">
+                    <h5 class="top">
                         {{ pod.name }}
                     </h5>
                     <p class="small my-3 grey">
-                        {{ pod.date }}<span v-for="member in pod.members">&nbsp;|&nbsp;{{ member }}</span> 
+                        {{ pod.date }}<span v-for="member in pod.members">&nbsp;<span class="dark">|</span>&nbsp;{{ member }}</span> 
                     </p>
                     <p class="small my-3">
                         youtube: 
@@ -53,10 +53,10 @@ import { link_simplified } from '../utils'
         <div class="row row-cols-2">
             <div v-for="kebab in kebabs" class="card mx-2 my-2" style="width: 20rem;">
                 <div class="card-body">
-                    <h4>
+                    <h4 class="my-3">
                         <img :src="kebab.img" alt="Bitcoin Kebab" />
                     </h4>
-                    <h5 class="card-title">
+                    <h5 class="top">
                         {{ kebab.name }}
                     </h5>
                     <p class="small my-3 grey">
@@ -68,9 +68,7 @@ import { link_simplified } from '../utils'
                             video
                         </a>
                     </p>
-                    <p class="small my-3">
-                        {{ kebab.topic }}
-                    </p>
+                    <p class="small" v-html="kebab.topic" />
                 </div>
             </div>
         </div>

@@ -13,7 +13,7 @@
             szellemében.
         </p>
         <p class="card-text">
-            Az év során összegyűlt egy lelkes csapat, volt pár személyes találkozó, és sok ötlet született.
+            Az év során összegyűlt egy lelkes csapat, volt pár személyes találkozó, sok ötlet született, aztán ez a honlap, aztán a közös podcast, egyre több városban szervezünk találkozókat, egyre több anyagot fordítunk magyarra...
         </p>
     </div>
 </template>
