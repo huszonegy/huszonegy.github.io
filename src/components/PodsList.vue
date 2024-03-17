@@ -45,13 +45,4 @@ import { link_simplified } from '../utils'
 </template>
 
 <style scoped>
-    h2 {
-        font-size: 21px;
-    }
-    h3 {
-        font-size: 16px;
-    }
-    .grey {
-        color: #999;
-    }
 </style>
