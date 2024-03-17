@@ -58,6 +58,11 @@ main {
     max-width: 740px;
 }
 
+.podcast {
+    padding-top: 0 !important;
+    margin-bottom: 25px;
+}
+
 .podcast .card-title {
     margin-top: var(--bs-card-title-spacer-y);
 }
@@ -103,11 +108,12 @@ a:hover {
 
 h1, .h1 {
     font-size: 2rem;
+    margin: 25px 0;
 }
 
 h2 {
     margin-bottom: 20px;
-    font-size: 21px;
+    font-size: 1.6rem;
 }
 
 h2.fs-5 {
@@ -118,11 +124,20 @@ h2.fs-5 {
 }
 
 h3 {
-    font-size: 16px;
+    font-size: 1.4rem;
+    margin-bottom: 14px;
+}
+
+h4 {
+    font-size: 1.2rem;
 }
 
 h5, .h5 {
-    font-size: 1.15rem;
+    font-size: 1rem;
+}
+
+.news h5, .news .h5 {
+    font-size: 1.1rem;
 }
 
 p {
