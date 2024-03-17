@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Rejtett elnyomás - Hogyan adja el az IMF és a Világbank a kizsákmányolást fejlesztésként",
+        html: "<a href='/konyvek#hidden-repression'>Könyv oldalunkat</a> bővítettük a podcastunk negyedik epizódjában ajánlott megdöbbentően egyedülálló könyvvel az IMF és a Világbank a harmadik világ országait kizsákmányoló működéséről, mely ugyan egyelőre nem érhető el magyar nyelven, jelentősége ugyanakkor olyan kiemelkedő, hogy szükségesnek érezzük felhívni rá a figyelmet.",
+        date: "2024.03.17."
+    },
+    {
         summary: "Bitcoin meetup-ok Miskolcon és Pécsett is",
         html: "A huszonegy podcast negyedik epizódja többek közt ilyen témákat érint: a bitcoinban való megtakarításhoz nem kell tőzsdei ismeret, eljött az öngondoskodás ideje, egy Bitcoin alapú világban nem lesz ennyi háború, meetup-ok Miskolcon és Pécsett is, Bitcoin konferencia Miskolcon.<br /><br />Nézd a <a href='https://www.youtube.com/@huszonegy-bitcoin-podcast' target='_blank'>HUSZONEGY youtube csatornán</a>, hallgasd az innovatív <a href='https://fountain.fm/' target='_blank'>Fountain alkalmazással!</a> De megtalálod spotify-on, apple és google podcast felületeken is.",
         date: "2024.03.14."

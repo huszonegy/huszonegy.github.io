@@ -107,6 +107,7 @@ h1, .h1 {
 
 h2 {
     margin-bottom: 20px;
+    font-size: 21px;
 }
 
 h2.fs-5 {
@@ -114,6 +115,10 @@ h2.fs-5 {
     margin-bottom: 0px !important;
     margin-left: 2rem!important;
     margin-right: 2rem!important;
+}
+
+h3 {
+    font-size: 16px;
 }
 
 h5, .h5 {
@@ -172,6 +177,10 @@ p {
 .category span {
     color: #999;
     font-style: normal;
+}
+
+.grey {
+    color: #999;
 }
 
 @media (max-width: 992px) {

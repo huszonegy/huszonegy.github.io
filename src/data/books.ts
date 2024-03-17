@@ -3,6 +3,17 @@
 
 export const books = [
     {
+        id: "hidden-repression",
+        title: "Hidden repression - How the IMF and World Bank Sell Exploitation as Development",
+        author: "Alex Gladstein",
+        translator: "",
+        year: "2023",
+        text: "Rejtett elnyomás - Hogyan adja el az IMF és a Világbank a kizsákmányolást fejlesztésként",
+        desc: "Az IMF-et és a Világbankot azért hozták létre, hogy segítsenek az országoknak túlélni a pénzügyi válságokat, és segítsenek nekik prosperáló gazdasági szereplőkké válni. A 75 éves múltjuk azonban éppen az ellenkezőjét mutatja: hiteleik és strukturális kiigazítási politikáik lehetetlenül nagy adósságcsapdába taszították a szegény országokat, és arra kényszerítették a harmadik világot, hogy a nyugati fogyasztásra szánt áruk előállítására összpontosítson, ahelyett, hogy a hazai fogyasztást és ipart növelné. A Világbank és az IMF 'fejlesztése és segítsége' minden egyéb, csak nem 'fejlesztés'. A valóság a neokolonialista kizsákmányolás története, megdöbbentő eredményekkel.",
+        img: "/books/hidden-repression.png",
+        shop: "<strong>Megvásárolható:</strong> <a href='https://store.bitcoinmagazine.com/collections/books/products/hidden-repression' target='_blank'>BitcoinMagazine</a>"
+    },
+    {
         id: "kis-bitcon-konyv",
         title: "A kis Bitcoin könyv",
         author: "T. Ajiboye, L. Buenaventura, A. Gladstein, L. Liu, A. Lloyd, A. Machado, J. Song, A. Vranova",
@@ -91,6 +102,10 @@ export function get_book(id: string) {
 }
 
 // Return the IDs of the books
-export function get_book_ids() {
-    return books.map((b) => b.id);
+export function get_book_ids(hu: boolean) {
+    if (hu) {
+        return books.filter(e => e.translator).map((b) => b.id);
+    } else {
+        return books.filter(e => !e.translator).map((b) => b.id);
+    }
 }
