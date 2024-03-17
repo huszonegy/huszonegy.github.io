@@ -45,7 +45,7 @@ import { link_simplified } from '../utils'
         </div>
     </div>
 
-    <h2>Bitcoin Kebab podcast</h2>
+    <h2 id="bitcoin-kebab">Bitcoin Kebab podcast</h2>
     <p>
         Válogatás a BitcoinBázis podcastjának adásaiból.
     </p>
