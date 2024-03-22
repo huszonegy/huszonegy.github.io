@@ -2,6 +2,15 @@
 
 export const podcasts = [
     {
+        name: "Mi az a Bitcoin? | E05",
+        img: "/pics/mi-az-a-bitcoin-s01e05.jpg",
+        date: "2024.03.21.",
+        members: ["Anti", "Lez", "Openoms", "Optout"],
+        topic: "nostr, decentralizált közösségi protokoll, nostr kliensek, alby, zap-olás, value-for-value, segítünk, a lila pirula után a narancs pirula jobban csúszik",
+        yt: "https://www.youtube.com/watch?v=ZJ9WCUxmxgU",
+        fountain: "https://fountain.fm/episode/xFdS93iQUE2kbLBTcJ4q"
+    },
+    {
         name: "Mi az a Bitcoin? | E04",
         img: "/pics/mi-az-a-bitcoin-s01e04.jpg",
         date: "2024.03.14.",
