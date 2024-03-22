@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Nostr, a decentralizált közösségi protokoll",
+        html: "A <a href='/podcast'>Mi az a Bitcoin? podcast</a> ötödik epizódjában négy bitcoiner vezet be minden érdeklődőt egy nagyon új és legalább annyira fontos területre, a mindenkitől független közösségi média világába.",
+        date: "2024.03.22."
+    },
+    {
         summary: "Még több Bitcoin podcast",
         html: "<a href='/podcast#bitcoin-kebab'>Podcast oldalunkat</a> bővítettük a Bitcoin Kebab epizódjaiból való válogatással, melyben bitcoin maxik szólalnak meg.",
         date: "2024.03.17."
