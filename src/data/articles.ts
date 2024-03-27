@@ -64,6 +64,24 @@ export const articles = [
         img: "/article/mik-azok-a-kulcsok-es-a-cimek.png",
         cat: "bevezető",
         id: 7
+    },
+    {
+        name: "Tudod, hogy én tudom, hogy Te tudod...?",
+        lang: "hu",
+        text: "Ezzel a kis sztorival egy cikksorozatot indítok útnak. Részletesen be fogom nektek mutatni korunk - ha nem az egész történelem - egyik legnagyobb hatású találmányát, a Bitcoint.",
+        link: "https://europeanbitcoiners.com/tudod-hogy-en-tudom-hogy-te-tudod/",
+        img: "/article/tudod-hogy-en-tudom-hogy-te-tudod.png",
+        cat: "bevezető",
+        id: 8
+    },
+    {
+        name: "Tábornok úr, van egy kis gond!",
+        lang: "hu",
+        text: "Ha nem lenne elég lehangoló, hogy két szereplő között képtelenek vagyunk a tökéletes egyetértés elérésére, mit fogunk gondolni ha megértjük, hogy pusztán egy sokkal összetettebb témakör felszínét kapirgáljuk.",
+        link: "https://europeanbitcoiners.com/tabornok-ur-van-egy-kis-gond/",
+        img: "/article/tabornok-ur-van-egy-kis-gond.png",
+        cat: "bevezető",
+        id: 9
     }
 
 ]
