@@ -4,6 +4,7 @@
 export const articles = [
     {
         name: "Mi az a Bitcoin?",
+        origin: "fordító: árpi",
         lang: "hu",
         text: "Mi az a Bitcoin, és hogyan működik?",
         link: "https://europeanbitcoiners.com/mi-az-a-bitcoin/",
@@ -13,6 +14,7 @@ export const articles = [
     },
     {
         name: "Hogy működik a Bitcoin?",
+        origin: "fordító: árpi",
         lang: "hu",
         text: "Hogy jönnek létre a tranzakciók, és miként tartják fenn decentralizált, bizalom nélküli módon?",
         link: "https://europeanbitcoiners.com/hogy-mukodik-a-bitcoin/",
@@ -22,6 +24,7 @@ export const articles = [
     },
     {
         name: "Honnan jön a Bitcoin?",
+        origin: "fordító: árpi",
         lang: "hu",
         text: "Hogyan keletkezik a bitcoin, és mit jelent a felezés?",
         link: "https://europeanbitcoiners.com/honnan-jon-a-bitcoin/",
@@ -31,6 +34,7 @@ export const articles = [
     },
     {
         name: "Milyen problémákra nyújt megoldást a Bitcoin?",
+        origin: "fordító: árpi",
         lang: "hu",
         text: "A Bitcoin által orvosolt problémák a teljesség igénye nélkül.",
         link: "https://europeanbitcoiners.com/milyen-problemakra-nyujt-megoldast-a-bitcoin/",
@@ -40,6 +44,7 @@ export const articles = [
     },
     {
         name: "Mi az a bitcoin tranzakció? Hogy működik?",
+        origin: "fordító: árpi",
         lang: "hu",
         text: "Miként zajlik egy bitcoin tranzakció? Milyen folyamaton megy keresztül?",
         link: "https://europeanbitcoiners.com/mi-az-a-bitcoin-tranzakcio-hogy-mukodik/",
@@ -49,6 +54,7 @@ export const articles = [
     },
     {
         name: "Bitcoin bányászok és csomópontok",
+        origin: "fordító: árpi",
         lang: "hu",
         text: "Mit takar a bitcoin csomópont és a bitcoin bányász kifejezés? Mi köztük a különbség?",
         link: "https://europeanbitcoiners.com/bitcoin-banyaszok-es-csomopontok/",
@@ -58,6 +64,7 @@ export const articles = [
     },
     {
         name: "Mik azok a kulcsok és a címek?",
+        origin: "fordító: árpi",
         lang: "hu",
         text: "Mik azok a bitcoin címek? Mit jelent az, hogy kulcs?",
         link: "https://europeanbitcoiners.com/mik-azok-a-kulcsok-es-a-cimek/",
@@ -67,6 +74,7 @@ export const articles = [
     },
     {
         name: "Tudod, hogy én tudom, hogy Te tudod...?",
+        origin: "szerző: sziller",
         lang: "hu",
         text: "Ezzel a kis sztorival egy cikksorozatot indítok útnak. Részletesen be fogom nektek mutatni korunk - ha nem az egész történelem - egyik legnagyobb hatású találmányát, a Bitcoint.",
         link: "https://europeanbitcoiners.com/tudod-hogy-en-tudom-hogy-te-tudod/",
@@ -76,6 +84,7 @@ export const articles = [
     },
     {
         name: "Tábornok úr, van egy kis gond!",
+        origin: "szerző: sziller",
         lang: "hu",
         text: "Ha nem lenne elég lehangoló, hogy két szereplő között képtelenek vagyunk a tökéletes egyetértés elérésére, mit fogunk gondolni ha megértjük, hogy pusztán egy sokkal összetettebb témakör felszínét kapirgáljuk.",
         link: "https://europeanbitcoiners.com/tabornok-ur-van-egy-kis-gond/",
