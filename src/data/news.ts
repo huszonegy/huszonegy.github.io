@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Sziller cikksorozata",
+        html: "Cikkeink sorába felvettünk Sziller Bitcoin cikksorozatának első hét elemét. Érdemes az elején kezdeni, a remek <a href='https://europeanbitcoiners.com/tudod-hogy-en-tudom-hogy-te-tudod/'>Tudod, hogy én tudom, hogy Te tudod...?</a> bevezető irománnyal.",
+        date: "2024.03.27."
+    },
+    {
         summary: "Nostr, a decentralizált közösségi protokoll",
         html: "A <a href='/podcast'>Mi az a Bitcoin? podcast</a> ötödik epizódjában négy bitcoiner vezet be minden érdeklődőt egy nagyon új és legalább annyira fontos területre, a mindenkitől független közösségi média világába.",
         date: "2024.03.22."
