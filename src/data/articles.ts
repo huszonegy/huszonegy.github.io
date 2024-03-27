@@ -91,8 +91,57 @@ export const articles = [
         img: "/article/tabornok-ur-van-egy-kis-gond.png",
         cat: "bevezető",
         id: 9
+    },
+    {
+        name: "A hatalom korrupttá tesz, a korlátlan hatalom korlátlanul",
+        origin: "szerző: sziller",
+        lang: "hu",
+        text: "Indítsunk ma egy erős állítással: A jogrendszerünk valójában az egyik legjobb próbálkozásunk, hogy áthidaljuk a Megoldhatatlant. Egy tökéletlen megoldási kísérlet társadalmunk részéről a megoldhatatlan Decentralizál anonim konszenzus megkerülésére...",
+        link: "https://europeanbitcoiners.com/a-hatalom-korruptta-tesz-a-korlatlan-hatalom-korlatlanul/",
+        img: "/article/a-hatalom-korruptta-tesz-a-korlatlan-hatalom-korlatlanul.png",
+        cat: "bevezető",
+        id: 10
+    },
+    {
+        name: "Satoshi jól kifőzte",
+        origin: "szerző: sziller",
+        lang: "hu",
+        text: "...aztán jött 2008 ősze, és egy addig teljesen ismeretlen figura az Internet egy félreeső zugában nyilvánosságra hozott egy kilenc oldalas írást. Ebben felvázolt egy 'Elektronikus készpénz rendszert'. Az írás tömör, elegáns, érthető.",
+        link: "https://europeanbitcoiners.com/satoshi-jol-kifozte/",
+        img: "/article/satoshi-jol-kifozte.png",
+        cat: "közepes",
+        id: 12
+    },
+    {
+        name: "A Rózsaszín Párduc",
+        origin: "szerző: sziller",
+        lang: "hu",
+        text: "A Bitcoin négy összetevője közül - pár írás erejéig - az átlagember, az átlag fejlesztő, mi több az átlag műszaki érdeklődésű szakember számára egyaránt legismertebbikkel - és állításom szerint leginkább félreértettel - fogunk foglalkozni.",
+        link: "https://europeanbitcoiners.com/a-rozsaszin-parduc/",
+        img: "/article/a-rozsaszin-parduc.png",
+        cat: "közepes",
+        id: 13
+    },
+    {
+        name: "A Trolloknak reszeltek",
+        origin: "szerző: sziller",
+        lang: "hu",
+        text: "Az idő - úgy tűnik - nem feltétlenül egyformán drága mindenki számára. Akinek túl sok van, sokszor hajlamos másét is igénybe venni: ő, aki minden témához hozzászól, akinek szemlátomást nem drága a saját ideje.",
+        link: "https://europeanbitcoiners.com/a-trolloknak-reszeltek/",
+        img: "/article/a-trolloknak-reszeltek.png",
+        cat: "közepes",
+        id: 14
+    },
+    {
+        name: "Ne csak üss, simogass is!",
+        origin: "szerző: sziller",
+        lang: "hu",
+        text: "Elérkeztünk Satoshi receptjének második összetevőjéhez. A következő néhány cikkben a Bitcoin igáslovát vesszük górcső alá: témánk a decentralizáltan futó Bitcoin szoftver lesz.",
+        link: "https://europeanbitcoiners.com/ne-csak-uss-simogass-is/",
+        img: "/article/ne-csak-uss-simogass-is.png",
+        cat: "közepes",
+        id: 15
     }
-
 ]
 
 // Get the articles, optionally only the last N
