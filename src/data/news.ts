@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Világméretű szabadságigény és abszolút kontroll",
+        html: "<a href='/podcast'>Podcastunk</a> eheti adásában szó esett Bitcoin node-okról, energiafogyasztásról, központi bankokról, aranytartalékról, profi Bitcoin elfogadásról, világméretű szabadságigényről, Kína iránymutatásáról, valamint arról, hogy az abszolút kontroll nagyon fontos.",
+        date: "2024.03.29."
+    },
+    {
         summary: "Sziller cikksorozata",
         html: "Cikkeink sorába felvettünk Sziller Bitcoin cikksorozatának első hét elemét. Érdemes az elején kezdeni, a remek <a href='https://europeanbitcoiners.com/tudod-hogy-en-tudom-hogy-te-tudod/'>Tudod, hogy én tudom, hogy Te tudod...?</a> bevezető irománnyal.",
         date: "2024.03.27."
