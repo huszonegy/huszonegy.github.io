@@ -2,6 +2,15 @@
 
 export const podcasts = [
     {
+        name: "Mi az a Bitcoin? | E06",
+        img: "/pics/mi-az-a-bitcoin-s01e06.jpg",
+        date: "2024.03.29.",
+        members: ["Anti", "Tamás", "Árpi"],
+        topic: "kötelék a fizikai világhoz, központi bank vagy aranytartalék, Bitcoin elfogadás profi módon, világméretű szabadságigény, Kína mutatja az irányt, az abszolút kontroll nagyon fontos",
+        yt: "https://www.youtube.com/watch?v=wIPwwZhhnRs",
+        fountain: "https://fountain.fm/episode/D6prBgC48nhfUnAUh2Qp"
+    },
+    {
         name: "Mi az a Bitcoin? | E05",
         img: "/pics/mi-az-a-bitcoin-s01e05.jpg",
         date: "2024.03.21.",
