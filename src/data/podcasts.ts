@@ -2,6 +2,15 @@
 
 export const podcasts = [
     {
+        name: "Mi az a Bitcoin? | E07",
+        img: "/pics/mi-az-a-bitcoin-s01e07.jpg",
+        date: "2024.04.05.",
+        members: ["Anti", "Balaxi", "Kata"],
+        topic: "Bitcoin bányászat és elfogadottság Paraguayban - white paper fordítása - különbség a Bitcoin és a shitcoinok között - amit Satoshi lerakott az asztalra, megismételhetetlen - fenntarthatóság és értékteremtés - exponenciális fejlődés - Bitcoin könyvek",
+        yt: "https://youtu.be/-dOQVN5L4hs",
+        fountain: "https://fountain.fm/episode/1tWJBjkR7y6jh5lN3pMw"
+    },
+    {
         name: "Mi az a Bitcoin? | E06",
         img: "/pics/mi-az-a-bitcoin-s01e06.jpg",
         date: "2024.03.29.",

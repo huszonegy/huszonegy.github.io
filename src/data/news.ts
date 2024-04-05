@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Fenntarthatóság és értékteremtés",
+        html: "A <a href='/podcast'>Mi az a Bitcoin? podcast</a> ötödik epizódjában szóba került a Bitcoin bányászat és elfogadottság Paraguayban, a white paper és Bitcoin könyvek fordítása, a különbség a Bitcoin és a shitcoinok között, valamint az, hogy amit Satoshi lerakott az asztalra, az megismételhetetlen.",
+        date: "2024.04.05."
+    },
+    {
         summary: "Világméretű szabadságigény és abszolút kontroll",
         html: "<a href='/podcast'>Podcastunk</a> eheti adásában szó esett Bitcoin node-okról, energiafogyasztásról, központi bankokról, aranytartalékról, profi Bitcoin elfogadásról, világméretű szabadságigényről, Kína iránymutatásáról, valamint arról, hogy az abszolút kontroll nagyon fontos.",
         date: "2024.03.29."
