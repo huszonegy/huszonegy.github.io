@@ -8,7 +8,7 @@ export const podcasts = [
         members: ["Tamás", "Árpi"],
         topic: "önrendelkezés - Umbrel node belülről - Bitcoin Node alkalmazás - Lightning Node alkalmazás - Bitcoin ETF kitérő - Bitfeed alkalmazás - mempool alkalmazás - Genezis blokk - Bitcoin felezések - Bitcoin könyvajánló",
         yt: "https://youtu.be/vhoFSZCCwPc",
-        fountain: ""
+        fountain: "https://fountain.fm/episode/WnJJzVFiVYQGdiX3ocdH"
     },
     {
         name: "Mi az a Bitcoin? | E07",
