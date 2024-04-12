@@ -5,8 +5,13 @@
 
 export const news = [
     {
+        summary: "Önrendelkezés, Umbrel node belülről",
+        html: "Rendkívül edukatív tartalommal jelentkezik podcastunk, melyben szándékunk szerint érthető és szemléletes oktatóanyag öltött formát a kibertérben magyar nyelven. <a href='/podcast'>Nézzétek, hallgassátok, kommenteljétek, lájkoljátok, osszátok!</a>",
+        date: "2024.04.12."
+    },
+    {
         summary: "Fenntarthatóság és értékteremtés",
-        html: "A <a href='/podcast'>Mi az a Bitcoin? podcast</a> ötödik epizódjában szóba került a Bitcoin bányászat és elfogadottság Paraguayban, a white paper és Bitcoin könyvek fordítása, a különbség a Bitcoin és a shitcoinok között, valamint az, hogy amit Satoshi lerakott az asztalra, az megismételhetetlen.",
+        html: "A <a href='/podcast'>Mi az a Bitcoin? podcast</a> hetedik epizódjában szóba került a Bitcoin bányászat és elfogadottság Paraguayban, a white paper és Bitcoin könyvek fordítása, a különbség a Bitcoin és a shitcoinok között, valamint az, hogy amit Satoshi lerakott az asztalra, az megismételhetetlen.",
         date: "2024.04.05."
     },
     {

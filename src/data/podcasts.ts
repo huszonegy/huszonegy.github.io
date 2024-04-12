@@ -2,6 +2,15 @@
 
 export const podcasts = [
     {
+        name: "Mi az a Bitcoin? | E08",
+        img: "/pics/mi-az-a-bitcoin-s01e08.jpg",
+        date: "2024.04.12.",
+        members: ["Tamás", "Árpi"],
+        topic: "önrendelkezés - Umbrel node belülről - Bitcoin Node alkalmazás - Lightning Node alkalmazás - Bitcoin ETF kitérő - Bitfeed alkalmazás - mempool alkalmazás - Genezis blokk - Bitcoin felezések - Bitcoin könyvajánló",
+        yt: "https://youtu.be/vhoFSZCCwPc",
+        fountain: ""
+    },
+    {
         name: "Mi az a Bitcoin? | E07",
         img: "/pics/mi-az-a-bitcoin-s01e07.jpg",
         date: "2024.04.05.",
