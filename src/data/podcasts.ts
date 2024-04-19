@@ -2,6 +2,15 @@
 
 export const podcasts = [
     {
+        name: "Mi az a Bitcoin? | E09",
+        img: "/pics/mi-az-a-bitcoin-s01e09.jpg",
+        date: "2024.04.19.",
+        members: ["Árpi", "Optout", "nopara73"],
+        topic: "infláció = lopás - Wasabi wallet - anonimitás, pszeudonimitás - privacy, magánszféra - coinjoin, payjoin - búcsú a Wasabi fejlesztésétől - hosszúéletesítés - hagyományos orvos - állami beavatkozás - magyar találmány",
+        yt: "https://youtu.be/KW3LpoP_8UM",
+        fountain: "https://fountain.fm/episode/pPwukfdQIzVYVOrg2AOE"
+    },
+    {
         name: "Mi az a Bitcoin? | E08",
         img: "/pics/mi-az-a-bitcoin-s01e08.jpg",
         date: "2024.04.12.",

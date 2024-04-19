@@ -5,8 +5,13 @@
 
 export const news = [
     {
+        summary: "Wasabi bitcoin tárca, magánszféra, magyar találmány",
+        html: "<a href='/podcast'>Podcastunk</a> vendége Optout és a Wasabi wallet atyja, nopara73. Szóba került: lopás, anonimitás, pszeudonimitás, privacy, magánszféra, coinjoin, payjoin, búcsú a Wasabi fejlesztésétől, hosszúéletesítés, hagyományos orvos, állami beavatkozás, magyar találmány.",
+        date: "2024.04.19."
+    },
+    {
         summary: "Felezés",
-        html: "Szuper lényegre törő cikk arról, hogy <a href='https://europeanbitcoiners.com/negyedik-felezes/' target='_blank'>Mi az a Negyedik Felezés, és miért olyan nagy dolog?</a>",
+        html: "Szuper, lényegre törő cikk arról, hogy <a href='https://europeanbitcoiners.com/negyedik-felezes/' target='_blank'>Mi az a Negyedik Felezés, és miért olyan nagy dolog?</a>",
         date: "2024.04.19."
     },
     {
