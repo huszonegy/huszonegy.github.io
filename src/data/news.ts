@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Felezés",
+        html: "Szuper lényegre törő cikk arról, hogy <a href='https://europeanbitcoiners.com/negyedik-felezes/' target='_blank'>Mi az a Negyedik Felezés, és miért olyan nagy dolog?</a>",
+        date: "2024.04.19."
+    },
+    {
         summary: "Önrendelkezés, Umbrel node belülről",
         html: "Rendkívül edukatív tartalommal jelentkezik podcastunk, melyben szándékunk szerint érthető és szemléletes oktatóanyag öltött formát a kibertérben magyar nyelven. <a href='/podcast'>Nézzétek, hallgassátok, kommenteljétek, lájkoljátok, osszátok!</a>",
         date: "2024.04.12."

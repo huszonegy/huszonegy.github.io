@@ -141,6 +141,16 @@ export const articles = [
         img: "/article/ne-csak-uss-simogass-is.png",
         cat: "közepes",
         id: 15
+    },
+    {
+        name: "Mi az a Negyedik Felezés, és miért olyan nagy dolog?",
+        origin: "szerző: optout",
+        lang: "hu",
+        text: "Köztudott, hogy 21 millió bitcoin van, vagyis pontosabban lesz, ha már mind meglesz. Új bitcoinok folyamatosan keletkeznek, mégpedig minden blokkban létrejön néhány. Egészen pontosan 6,25 bitcoin, és ezt a blokk megtalálója teszi zsebre. De miért is van ez így?",
+        link: "https://europeanbitcoiners.com/negyedik-felezes/",
+        img: "/article/negyedik-felezes.png",
+        cat: "bevezető",
+        id: 16
     }
 ]
 
