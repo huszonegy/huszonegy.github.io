@@ -151,6 +151,16 @@ export const articles = [
         img: "/article/negyedik-felezes.png",
         cat: "bevezető",
         id: 16
+    },
+    {
+        name: "Bitcoin-hídépítés: Európa egyesítése a pénzügyi szabadság jegyében - 1. rész",
+        origin: "fordító: árpi",
+        lang: "hu",
+        text: "A digitális euró központosított mivoltával szemben a Bitcoin decentralizált alternatívát kínál. A pszeudonim tranzakcióknak és a világszerte elosztott számítógépes hálózatnak köszönhetően a Bitcoin nem csupán értéktárolásban jeleskedik...",
+        link: "https://europeanbitcoiners.com/bitcoin-hidepites-1-resz/",
+        img: "/article/bitcoin-hidepites-1-resz.png",
+        cat: "bevezető",
+        id: 17
     }
 ]
 
