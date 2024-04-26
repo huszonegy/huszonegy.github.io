@@ -2,6 +2,15 @@
 
 export const podcasts = [
     {
+        name: "Mi az a Bitcoin? | E10",
+        img: "/pics/mi-az-a-bitcoin-s01e10.jpg",
+        date: "2024.04.26.",
+        members: ["Anti", "Árpi"],
+        topic: "visszatekintés - osztrák közgazdaságtan - bullrun - összesöpört falevélkupac - elválasztjuk a pénzt az államtól - inflációs adó - állampapír - szabad választás - nem vagyunk odaláncolva - önrendelkezés, felelősség - szolgáltató állam - Clark Moody Bitcoin Dashboard",
+        yt: "https://youtu.be/MsltcX-OdxE",
+        fountain: "https://fountain.fm/episode/ukbo5I6KZrU4hXRZQIxh"
+    },
+    {
         name: "Mi az a Bitcoin? | E09",
         img: "/pics/mi-az-a-bitcoin-s01e09.jpg",
         date: "2024.04.19.",
