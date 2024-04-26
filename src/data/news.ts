@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Elválasztjuk a pénzt az államtól",
+        html: "A <a href='/podcast'>Mi az a Bitcoin?</a> 10. adásában visszatekintünk a Bitcoin elmúlt 15 évére, közgazdász szemmel nézünk az inflációra, az adósság spirálra, az állampapírra, a szabad választásra, az állam igazi szerepére és nem utolsó sorban a széleskörű felelősségvállalás szükségességére.",
+        date: "2024.04.26."
+    },
+    {
         summary: "Wasabi bitcoin tárca, magánszféra, magyar találmány",
         html: "<a href='/podcast'>Podcastunk</a> vendége Optout és a Wasabi wallet atyja, nopara73. Szóba került: lopás, anonimitás, pszeudonimitás, privacy, magánszféra, coinjoin, payjoin, búcsú a Wasabi fejlesztésétől, hosszúéletesítés, hagyományos orvos, állami beavatkozás, magyar találmány.",
         date: "2024.04.19."
