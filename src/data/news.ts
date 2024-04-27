@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Mi a 'cheat code' a mai világban?",
+        html: "Megjelent <a href='https://europeanbitcoiners.com/mi-a-cheat-code-a-mai-vilagban/' target='_blank'>cikk formátumban egy magyar nyelvű kivonat</a> American Hodl, amerikai bitcoiner bedfordi konferencia nyitó előadásából. A 'cheat code' a videojátékokban egy olyan eszköz, melyet ha egy felhasználó megismer és alkalmaz, olyan lehetőségek nyílnak meg előtte, melyek segítségével könnyebben boldogul.",
+        date: "2024.04.27."
+    },
+    {
         summary: "Elválasztjuk a pénzt az államtól",
         html: "A <a href='/podcast'>Mi az a Bitcoin?</a> 10. adásában visszatekintünk a Bitcoin elmúlt 15 évére, közgazdász szemmel nézünk az inflációra, az adósság spirálra, az állampapírra, a szabad választásra, az állam igazi szerepére és nem utolsó sorban a széleskörű felelősségvállalás szükségességére.",
         date: "2024.04.26."

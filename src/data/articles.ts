@@ -161,6 +161,16 @@ export const articles = [
         img: "/article/bitcoin-hidepites-1-resz.png",
         cat: "bevezető",
         id: 17
+    },
+    {
+        name: "Mi a 'cheat code' a mai világban?",
+        origin: "fordító: árpi",
+        lang: "hu",
+        text: "Az alábbi cikk egy magyar nyelvű kivonat American Hodl, amerikai bitcoiner bedfordi konferencia nyitó előadásából. A 'cheat code' a videojátékokban egy olyan eszköz, melyet ha egy felhasználó megismer és alkalmaz, olyan lehetőségek nyílnak meg előtte, melyek segítségével könnyebben boldogul.",
+        link: "https://europeanbitcoiners.com/mi-a-cheat-code-a-mai-vilagban/",
+        img: "/article/mi-a-cheat-code-a-mai-vilagban.png",
+        cat: "bevezető",
+        id: 18
     }
 ]
 
