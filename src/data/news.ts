@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Bitcoin-hídépítés: Európa egyesítése a pénzügyi szabadság jegyében",
+        html: "Meglehetősen tartalmas, ugyanakkor terjedelmes cikket publikált pár hete a 'Szuverén Szerzetes' fedőnevű európai bitcoiner srác. Fordítása két részre bontva lelhető fel <a href='/cikkek'>cikkeink között.</a>",
+        date: "2024.04.28."
+    },
+    {
         summary: "Mi a 'cheat code' a mai világban?",
         html: "Megjelent <a href='https://europeanbitcoiners.com/mi-a-cheat-code-a-mai-vilagban/' target='_blank'>cikk formátumban egy magyar nyelvű kivonat</a> American Hodl, amerikai bitcoiner bedfordi konferencia nyitó előadásából. A 'cheat code' a videojátékokban egy olyan eszköz, melyet ha egy felhasználó megismer és alkalmaz, olyan lehetőségek nyílnak meg előtte, melyek segítségével könnyebben boldogul.",
         date: "2024.04.27."

@@ -171,6 +171,16 @@ export const articles = [
         img: "/article/mi-a-cheat-code-a-mai-vilagban.png",
         cat: "bevezető",
         id: 18
+    },
+    {
+        name: "Bitcoin-hídépítés: Európa egyesítése a pénzügyi szabadság jegyében - 2. rész",
+        origin: "fordító: árpi",
+        lang: "hu",
+        text: "Európa szívében, a gazdag kulturális sokszínűségéről és történelmi diverzitásáról híres kontinensen egy új mozgalom van kialakulóban, amely a Bitcoin univerzális nyelvén keresztül igyekszik túllépni a nyelvi korlátokon és az országhatárokon.",
+        link: "https://europeanbitcoiners.com/bitcoin-hidepites-europa-egyesitese-a-penzugyi-szabadsag-jegyeben-2-resz/",
+        img: "/article/bitcoin-hidepites-2-resz.png",
+        cat: "bevezető",
+        id: 19
     }
 ]
 
