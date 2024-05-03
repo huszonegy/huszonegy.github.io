@@ -2,6 +2,15 @@
 
 export const podcasts = [
     {
+        name: "Mi az a Bitcoin? | E11",
+        img: "/pics/mi-az-a-bitcoin-s01e11.jpg",
+        date: "2024.05.03.",
+        members: ["Anti", "Tamás"],
+        topic: "Bitcoin tárca kóstoló - fizetés bitcoinnal - 12 szó - Electrum szoftver tárca - Trezor hardver tárca - Coldcard és Bitbox hardver tárca - Blink mobil tárca - Umbrel node tárca - Zeus mobil tárca - hardver tárca vásárlás bitcoinnal - szeretik a fizetőt is azonosítani",
+        yt: "https://youtu.be/yX6UpxdITuE",
+        fountain: "https://fountain.fm/episode/ReagtOmRpkZ8Of0y6vSZ"
+    },
+    {
         name: "Mi az a Bitcoin? | E10",
         img: "/pics/mi-az-a-bitcoin-s01e10.jpg",
         date: "2024.04.26.",
