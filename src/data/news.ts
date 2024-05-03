@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Bitcoin tárca kóstoló, fizetés bitcoinnal",
+        html: "<a href='/podcast'>Podcastunkban</a> belekóstolunk a szoftver tárcák, hardver tárcák és mobil tárcák világába. Játékosan bemutatjuk a bitcoin küldés és fogadás néhány gyors, elenyésző díjú, titkosított módját a Lightning Network-ön keresztül, majd vásárolunk egy hardver tárcát szintén bitcoin használatával.",
+        date: "2024.05.03."
+    },
+    {
         summary: "Bitcoin-hídépítés: Európa egyesítése a pénzügyi szabadság jegyében",
         html: "Meglehetősen tartalmas, ugyanakkor terjedelmes cikket publikált pár hete a 'Szuverén Szerzetes' fedőnevű európai bitcoiner srác. Fordítása két részre bontva lelhető fel <a href='/cikkek'>cikkeink között.</a>",
         date: "2024.04.28."
