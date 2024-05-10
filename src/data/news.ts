@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Megfontolt megtakarítás",
+        html: "A <a href='/podcast'>Mi az a Bitcoin?</a> fókuszában ezúttal a megtakarítás, a türelem és egymás támogatása mocorog. Felhívjuk a figyelmet a megtakarítás egy nagyon kedvező és gyors módjára, melyet a Strike alkalmazása biztosít most már Európában is. Bemutatjuk a pénzkészlet 2020-ban kezdődő drasztikus bővülésének ütemét, és utalunk az elkerülhetetlenül közelgő még drasztikusabb központi banki beavatkozásra. Ezáltal hangsúlyozzuk a megfontolt megtakarítás fontosságát.",
+        date: "2024.05.10."
+    },
+    {
         summary: "Bitcoin tárca kóstoló, fizetés bitcoinnal",
         html: "<a href='/podcast'>Podcastunkban</a> belekóstolunk a szoftver tárcák, hardver tárcák és mobil tárcák világába. Játékosan bemutatjuk a bitcoin küldés és fogadás néhány gyors, elenyésző díjú, titkosított módját a Lightning Network-ön keresztül, majd vásárolunk egy hardver tárcát szintén bitcoin használatával.",
         date: "2024.05.03."

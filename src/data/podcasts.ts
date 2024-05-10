@@ -2,6 +2,15 @@
 
 export const podcasts = [
     {
+        name: "Mi az a Bitcoin? | E12",
+        img: "/pics/mi-az-a-bitcoin-s01e12.jpg",
+        date: "2024.05.10.",
+        members: ["Anti", "Feri"],
+        topic: "12 szó - 21 telegram csoport - megtakarítás - Strike Európában - vásárlóérték mentése - M2 pénzkészlet - menekülőeszköz, alternatíva - elfogadás, BTCPay Server - érdeklődés, nyitottság - hatéves hobbi - szabad gondolkodás - közelgő rendezvények - 21 lecke",
+        yt: "https://youtu.be/ebH7xZUCg5U",
+        fountain: "https://fountain.fm/episode/9FLxbxm3HiTvwIgRsKZB"
+    },
+    {
         name: "Mi az a Bitcoin? | E11",
         img: "/pics/mi-az-a-bitcoin-s01e11.jpg",
         date: "2024.05.03.",
