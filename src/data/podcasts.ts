@@ -2,6 +2,15 @@
 
 export const podcasts = [
     {
+        name: "Mi az a Bitcoin? | E13",
+        img: "/pics/mi-az-a-bitcoin-s01e13.jpg",
+        date: "2024.05.17.",
+        members: ["Anti", "Karo", "Árpi"],
+        topic: "szociálpszichológia - bizalom probléma - alacsony időpreferencia - magánszféra - bizalom, morál - szemléletváltás, felelősségvállalás - arany, ingatlan, bér - központilag irányított gazdaság - megvan a hunyó - inflációs kosár trükk - kagylózó politikus - következő El Salvador?",
+        yt: "https://youtu.be/Mb_UnQ6ZVa4",
+        fountain: "https://fountain.fm/episode/iF8odGrt5LjUbgAxQvC8"
+    },
+    {
         name: "Mi az a Bitcoin? | E12",
         img: "/pics/mi-az-a-bitcoin-s01e12.jpg",
         date: "2024.05.10.",

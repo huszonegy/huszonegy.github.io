@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Bizalom probléma",
+        html: "<a href='/podcast'>Podcastunk</a> vendége ezúttal Karo Zagorus volt, akivel beszélgettünk angol nyelvű könyvéről és cikkeiről, valamint olyan témákról, mint szociálpszichológia, alacsony időpreferencia, magánszféra, bizalom, morál, szemléletváltás, felelősségvállalás, arany, ingatlan, bér, központilag irányított gazdaság. Kiderült továbbá, hogy megvan a hunyó, hogy hogyan fest az inflációs kosár trükk, majd felbukkan egy kagylózó politikus, és megcsillan a következő El Salvador lehetősége.",
+        date: "2024.05.17."
+    },
+    {
         summary: "Megfontolt megtakarítás",
         html: "A <a href='/podcast'>Mi az a Bitcoin?</a> fókuszában ezúttal a megtakarítás, a türelem és egymás támogatása mocorog. Felhívjuk a figyelmet a megtakarítás egy nagyon kedvező és gyors módjára, melyet a Strike alkalmazása biztosít most már Európában is. Bemutatjuk a pénzkészlet 2020-ban kezdődő drasztikus bővülésének ütemét, és utalunk az elkerülhetetlenül közelgő még drasztikusabb központi banki beavatkozásra. Ezáltal hangsúlyozzuk a megfontolt megtakarítás fontosságát.",
         date: "2024.05.10."
