@@ -181,6 +181,16 @@ export const articles = [
         img: "/article/bitcoin-hidepites-2-resz.png",
         cat: "bevezető",
         id: 19
+    },
+    {
+        name: "A hiperbitcoinizáció 5-10 éven belül lezajlik",
+        origin: "fordító: árpi",
+        lang: "hu",
+        text: "Samson Mow szerint a hiperbitcoinizáció 5-10 éven belül lezajlik, és mindenkinek érdemes felkészülni arra, hogy a fiat valuták menthetetlenül, teljesen elértéktelenednek. Előszeretettel hangoztatja, hogy mindenféle többlet energiát érdemes bitcoin bányászatra fordítani, mivel a bitcoin bányászat mellőzése a valódi pazarlás.",
+        link: "https://europeanbitcoiners.com/a-hiperbitcoinizacio-5-10-even-belul-lezajlik/",
+        img: "/article/a-hiperbitcoinizacio-5-10-even-belul-lezajlik.png",
+        cat: "bevezető",
+        id: 20
     }
 ]
 
