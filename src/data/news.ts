@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Legalitás és illegalitás határán",
+        html: "A <a href='/podcast'>Mi az a Bitcoin?</a> ezen adásában Glaser Anitától jutunk rendkívül hasznos információkhoz elsősorban a legalitás és az illegalitás határvidékéről. Szó esik a demokratikus szabályozás céljáról, tempójáról és korlátairól, a központi kontrollal kapcsolatos aggályokról, a bitcoin és a kriptók közti alapvető különbségről, a csaló és scam projektek kivédési receptjéről, és nem utolsó sorban arról, hogy valójában csak az a bitcoin a tiéd, melynek a hozzáféréséhez nincs szükséged se központi szereplőre, se senki másra, tehát rendelkezel a privát kulcsával.",
+        date: "2024.05.24."
+    },
+    {
         summary: "Bizalom probléma",
         html: "<a href='/podcast'>Podcastunk</a> vendége ezúttal Karo Zagorus volt, akivel beszélgettünk angol nyelvű könyvéről és cikkeiről, valamint olyan témákról, mint szociálpszichológia, alacsony időpreferencia, magánszféra, bizalom, morál, szemléletváltás, felelősségvállalás, arany, ingatlan, bér, központilag irányított gazdaság. Kiderült továbbá, hogy megvan a hunyó, hogy hogyan fest az inflációs kosár trükk, majd felbukkan egy kagylózó politikus, és megcsillan a következő El Salvador lehetősége.",
         date: "2024.05.17."

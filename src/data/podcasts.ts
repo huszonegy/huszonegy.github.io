@@ -2,6 +2,15 @@
 
 export const podcasts = [
     {
+        name: "Mi az a Bitcoin? | E14",
+        img: "/pics/mi-az-a-bitcoin-s01e14.jpg",
+        date: "2024.05.24.",
+        members: ["Anti", "Anita", "Árpi"],
+        topic: "adózás, szabályozás, blokklánc nyomozás - privát kulcs legalitása, megpecsételés - privacy ellen és mellett - van fej, nincs fej - adórendszer - MiCA - unhosted/non-custodial/self-custodial/önrendelkező tárcák - CBDC = technológiával való visszaélés - fogyasztóvédelem és pénzmosás elleni küzdelem - csaló, scam projektek ellen - decentralizáció, szabadság, morál, csak Bitcoin",
+        yt: "https://youtu.be/eh49hOxkcvw",
+        fountain: "https://fountain.fm/episode/9hv1z3HXvXb7prdJJ9I5"
+    },
+    {
         name: "Mi az a Bitcoin? | E13",
         img: "/pics/mi-az-a-bitcoin-s01e13.jpg",
         date: "2024.05.17.",
