@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Revolutból Strike appba, EUR-ból BTC-be + Jade hardver tárca",
+        html: "<a href='/podcast'>Podcastunkban</a> bemutatunk egy gyors, könnyű, alacsony díjú bitcoin vásárlási lehetőséget. Revolutból instant lehet eurót utalni a Strike appba, ahol instant lehet bitcoint venni, majd elenyésző díjjal lehet - szintén instant - kiutalni a bitcoint (illetve satokat) a Lightning Network-ön keresztül bármilyen lightning tárcába. Mi egy Umbrel node tárcájába küldtük, mely egyike a lightning kompatibilis önrendelkező (self custody), haladó módoknak. Elkezdtünk ismerkedni a Jade hardver tárcával, melyre tovább küldve hidegre tehetjük bitcoinunkat.",
+        date: "2024.05.31."
+    },
+    {
         summary: "Legalitás és illegalitás határán",
         html: "A <a href='/podcast'>Mi az a Bitcoin?</a> ezen adásában Glaser Anitától jutunk rendkívül hasznos információkhoz elsősorban a legalitás és az illegalitás határvidékéről. Szó esik a demokratikus szabályozás céljáról, tempójáról és korlátairól, a központi kontrollal kapcsolatos aggályokról, a bitcoin és a kriptók közti alapvető különbségről, a csaló és scam projektek kivédési receptjéről, és nem utolsó sorban arról, hogy valójában csak az a bitcoin a tiéd, melynek a hozzáféréséhez nincs szükséged se központi szereplőre, se senki másra, tehát rendelkezel a privát kulcsával.",
         date: "2024.05.24."
