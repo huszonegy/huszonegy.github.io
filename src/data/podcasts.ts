@@ -8,7 +8,7 @@ export const podcasts = [
         members: ["Anti", "Tamás"],
         topic: "Jade hardver tárca - párosítás Blockstream Green mobil tárcával - Revolutból Strike appba, EUR-ból BTC-be - Strike appból Bitcoin Lightning küldés - Lightning elméleti alapok - node üzemeltetés, 'banki' szolgáltatás - ETF, növekvő intézményi ill. céges elfogadás - lottó bányászat Jade tárcával - Bitcoin konferencia",
         yt: "https://youtu.be/1AO4nS-5ywI",
-        fountain: "https://fountain.fm/episode/9hv1z3HXvXb7prdJJ9I5"
+        fountain: "https://fountain.fm/episode/RPwf39QU3DbGprhAZ5WJ"
     },
     {
         name: "Mi az a Bitcoin? | E14",
