@@ -2,6 +2,15 @@
 
 export const podcasts = [
     {
+        name: "Mi az a Bitcoin? | E15",
+        img: "/pics/mi-az-a-bitcoin-s01e15.jpg",
+        date: "2024.05.31.",
+        members: ["Anti", "Tamás"],
+        topic: "Jade hardver tárca - párosítás Blockstream Green mobil tárcával - Revolutból Strike appba, EUR-ból BTC-be - Strike appból Bitcoin Lightning küldés - Lightning elméleti alapok - node üzemeltetés, 'banki' szolgáltatás - ETF, növekvő intézményi ill. céges elfogadás - lottó bányászat Jade tárcával - Bitcoin konferencia",
+        yt: "https://youtu.be/1AO4nS-5ywI",
+        fountain: "https://fountain.fm/episode/RPwf39QU3DbGprhAZ5WJ"
+    },
+    {
         name: "Mi az a Bitcoin? | E14",
         img: "/pics/mi-az-a-bitcoin-s01e14.jpg",
         date: "2024.05.24.",
