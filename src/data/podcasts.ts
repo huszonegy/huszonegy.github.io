@@ -2,6 +2,15 @@
 
 export const podcasts = [
     {
+        name: "Mi az a Bitcoin? | E16",
+        img: "/pics/mi-az-a-bitcoin-s01e16.jpg",
+        date: "2024.06.07.",
+        members: ["Optout", "Sziller", "Árpi"],
+        topic: "Oslo Freedom Forum - decentralizált anonim konszenzus - versengés, hulladék energia felhasználás - proof-of-work, hashelés, játék elmélet - profit orientáltság, sima üzlet - nincs olyan, hogy Blockchain technológia - bányász bevételi számítás - ipari és otthoni bányagép paraméterek - metánkibocsátás csökkentése profitért - valós energia valós hardverekkel - arany analógia - Greenpeace ellenkampányok - megújuló energia, hálózat stabilizálás - energia fedezet",
+        yt: "https://youtu.be/q8La6NJtNbM",
+        fountain: "https://fountain.fm/episode/8yJJzwgA2Wjh6vLJ6UQu"
+    },
+    {
         name: "Mi az a Bitcoin? | E15",
         img: "/pics/mi-az-a-bitcoin-s01e15.jpg",
         date: "2024.05.31.",

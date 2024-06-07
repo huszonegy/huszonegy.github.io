@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Bitcoin bányászat A-Z-ig, Oslo Freedom Forum",
+        html: "A <a href='/podcast'>Mi az a Bitcoin?</a> fókuszában: a bitcoin bányászat. Mérnöki alapossággal körbejárjuk, hogy mi az a bitcoin bányászat, hogy miért használ energiát, mire használja azt, mennyi és milyen energiát használ, nem utolsó sorban pedig környezetbarát-e, megéri-e, illetve pazarlás-e bitcoint bányászni.",
+        date: "2024.06.07."
+    },
+    {
         summary: "Revolutból Strike appba, EUR-ból BTC-be + Jade hardver tárca",
         html: "<a href='/podcast'>Podcastunkban</a> bemutatunk egy gyors, könnyű, alacsony díjú bitcoin vásárlási lehetőséget. Revolutból instant lehet eurót utalni a Strike appba, ahol instant lehet bitcoint venni, majd elenyésző díjjal lehet - szintén instant - kiutalni a bitcoint (illetve satokat) a Lightning Network-ön keresztül bármilyen lightning tárcába. Mi egy Umbrel node tárcájába küldtük, mely egyike a lightning kompatibilis önrendelkező (self custody), haladó módoknak. Elkezdtünk ismerkedni a Jade hardver tárcával, melyre tovább küldve hidegre tehetjük bitcoinunkat.",
         date: "2024.05.31."
