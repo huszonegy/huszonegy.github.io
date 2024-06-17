@@ -6,7 +6,7 @@
 export const news = [
     {
         summary: "Prágai Bitcoin konferencia",
-        html: "A HUSZONEGY-ből 11-en vegyültünk el a BTC Prague 2024 konferencia több ezer részvevője között. Csütörtök este rögzítettük <a href='/podcast'>podcastunk</a> aktuális epizódját, melyben ezúttal az alábbi témák között szlalomoztunk: együttműködés az emberiség előrejutásáért, közös értékrend, az igazság közvetítése, valós energia, valós érték, kitartó megtakarítás apránként, bitcoin elfogadás, fiatalok, 21 lecke, kételkedés, kapcsolódás egymáshoz és forradalmi cégekhez.",
+        html: "A HUSZONEGY-ből 12-en vegyültünk el a BTC Prague 2024 konferencia több ezer részvevője között. Csütörtök este rögzítettük <a href='/podcast'>podcastunk</a> aktuális epizódját, melyben ezúttal az alábbi témák között szlalomoztunk: együttműködés az emberiség előrejutásáért, közös értékrend, az igazság közvetítése, valós energia, valós érték, kitartó megtakarítás apránként, bitcoin elfogadás, fiatalok, 21 lecke, kételkedés, kapcsolódás egymáshoz és forradalmi cégekhez.",
         date: "2024.06.17."
     },
     {
