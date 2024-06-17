@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Prágai Bitcoin konferencia",
+        html: "A HUSZONEGY-ből 11-en vegyültünk el a BTC Prague 2024 konferencia több ezer részvevője között. Csütörtök este rögzítettük <a href='/podcast'>podcastunk</a> aktuális epizódját, melyben ezúttal az alábbi témák között szlalomoztunk: együttműködés az emberiség előrejutásáért, közös értékrend, az igazság közvetítése, valós energia, valós érték, kitartó megtakarítás apránként, bitcoin elfogadás, fiatalok, 21 lecke, kételkedés, kapcsolódás egymáshoz és forradalmi cégekhez.",
+        date: "2024.06.17."
+    },
+    {
         summary: "Bitcoin bányászat A-Z-ig, Oslo Freedom Forum",
         html: "A <a href='/podcast'>Mi az a Bitcoin?</a> fókuszában: a bitcoin bányászat. Mérnöki alapossággal körbejárjuk, hogy mi az a bitcoin bányászat, hogy miért használ energiát, mire használja azt, mennyi és milyen energiát használ, nem utolsó sorban pedig környezetbarát-e, megéri-e, illetve pazarlás-e bitcoint bányászni.",
         date: "2024.06.07."
