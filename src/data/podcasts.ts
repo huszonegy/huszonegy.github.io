@@ -2,6 +2,15 @@
 
 export const podcasts = [
     {
+        name: "Mi az a Bitcoin? | E17",
+        img: "/pics/mi-az-a-bitcoin-s01e17.jpg",
+        date: "2024.06.07.",
+        members: ["Feri", "Anti", "Árpi"],
+        topic: "Prágai Bitcoin konferencia - együttműködés az emberiség előrejutásáért - közös értékrend - az igazság közvetítése - valós energia, valós érték - kitartó megtakarítás apránként - bitcoin elfogadás - fiatalok - 21 lecke - kételkedés - kapcsolódás egymáshoz, forradalmi cégekhez",
+        yt: "https://youtu.be/sUGsbQowU-8",
+        fountain: "https://fountain.fm/episode/NWAWgPc8y1kZ1v0EsJOM"
+    },
+    {
         name: "Mi az a Bitcoin? | E16",
         img: "/pics/mi-az-a-bitcoin-s01e16.jpg",
         date: "2024.06.07.",
