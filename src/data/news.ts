@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Magas és alacsony időpreferencia",
+        html: "Még a prágai konferencia hatása alatt <a href='/podcast'>beszélgetünk</a> magánszféráról, annak védelméről, korlátozásáról, kriminalizálásáról, az időpreferencia fogalmáról, a magas időpreferencia és a fiat pénzügyi rendszer összefüggéseiről, az alacsony időpreferencia és a Bitcoin kapcsolatáról, bepillantunk egy háztáji lightning zöldség tranzakcióba, egy remek prezentációba, valamint felvillantunk magyarítási projektekben való együttműködési és villámgyors támogatási lehetőséget is.",
+        date: "2024.06.21."
+    },
+    {
         summary: "Prágai Bitcoin konferencia",
         html: "A HUSZONEGY-ből 12-en vegyültünk el a BTC Prague 2024 konferencia több ezer részvevője között. Csütörtök este rögzítettük <a href='/podcast'>podcastunk</a> aktuális epizódját, melyben ezúttal az alábbi témák között szlalomoztunk: együttműködés az emberiség előrejutásáért, közös értékrend, az igazság közvetítése, valós energia, valós érték, kitartó megtakarítás apránként, bitcoin elfogadás, fiatalok, 21 lecke, kételkedés, kapcsolódás egymáshoz és forradalmi cégekhez.",
         date: "2024.06.17."
