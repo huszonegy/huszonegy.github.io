@@ -2,9 +2,18 @@
 
 export const podcasts = [
     {
+        name: "Mi az a Bitcoin? | E18",
+        img: "/pics/mi-az-a-bitcoin-s01e18.jpg",
+        date: "2024.06.21.",
+        members: ["Anti", "Karo", "Árpi"],
+        topic: "Magánszféra - kontroll, kriminalizálás - magas és alacsony időpreferencia - háztáji lightning zöldség tranzakció - könyv dedikálás, oktató animáció magyarítás - Jack Mallers prezentáció, Strike magyarítás",
+        yt: "https://youtu.be/x8WBgYrDsfs",
+        fountain: "https://fountain.fm/episode/v9JKeGRSVz4q9tmuZg1c"
+    },
+    {
         name: "Mi az a Bitcoin? | E17",
         img: "/pics/mi-az-a-bitcoin-s01e17.jpg",
-        date: "2024.06.07.",
+        date: "2024.06.14.",
         members: ["Feri", "Anti", "Árpi"],
         topic: "Prágai Bitcoin konferencia - együttműködés az emberiség előrejutásáért - közös értékrend - az igazság közvetítése - valós energia, valós érték - kitartó megtakarítás apránként - bitcoin elfogadás - fiatalok - 21 lecke - kételkedés - kapcsolódás egymáshoz, forradalmi cégekhez",
         yt: "https://youtu.be/sUGsbQowU-8",
