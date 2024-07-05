@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Mesterséges intelligencia, digitális állapolgárság",
+        html: "<a href='/podcast'>Podcastunk</a> az elmúlt két hétben a digitális állampolgárság, majd a mesterséges intelligencia kérdéskörét járta körbe. Mindkét epizód felhívja a figyelmet a világban történő technológiai változások figyelemmel követésének valamint az öngondoskodás és a felelősségvállalás fontosságára.<br /><br />Néhány kulcs momentum: 'az opt out az opcióm', 'az AI kitűnően ismétel és összegez, az ember kreatívan újít', 'AI és Bitcoin - az jár pórul, aki mellőzi a használatát', 'mindenki keresse meg, hogy tudja életének részévé tenni'.",
+        date: "2024.07.05."
+    },
+    {
         summary: "Magas és alacsony időpreferencia",
         html: "Még a prágai konferencia hatása alatt <a href='/podcast'>beszélgetünk</a> magánszféráról, annak védelméről, korlátozásáról, kriminalizálásáról, az időpreferencia fogalmáról, a magas időpreferencia és a fiat pénzügyi rendszer összefüggéseiről, az alacsony időpreferencia és a Bitcoin kapcsolatáról, bepillantunk egy háztáji lightning zöldség tranzakcióba, egy remek prezentációba, valamint felvillantunk magyarítási projektekben való együttműködési és villámgyors támogatási lehetőséget is.",
         date: "2024.06.21."
