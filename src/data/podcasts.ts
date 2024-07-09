@@ -2,6 +2,24 @@
 
 export const podcasts = [
     {
+        name: "Mi az a Bitcoin? | E20",
+        img: "/pics/mi-az-a-bitcoin-s01e20.jpg",
+        date: "2024.07.05.",
+        members: ["Anti", "Robi", "Lőrinc"],
+        topic: "Beszélgetés a ChatGPT-vel - innen egy lépés az AGI - jelenleg információtömörítést tud hallucinálva - munkakiváltás, ijesztő, ugyanakkor lehetőség - hang deep fake demo - tanulási segéd - autista zseni kreativitás nélkül - mi ketten jobban, mint bármelyikünk külön - AI kitűnően ismétel és összegez, ember újít - AI és Bitcoin - az jár pórul, aki mellőzi a használatát - univerzális alapjövedelem (UBI) - mindenki keresse meg, hogy tudja életének részévé tenni",
+        yt: "https://youtu.be/gkNyQjIcm7w",
+        fountain: "https://fountain.fm/episode/pKT9jLamGS2Rhw9V4Ybm"
+    },
+    {
+        name: "Mi az a Bitcoin? | E19",
+        img: "/pics/mi-az-a-bitcoin-s01e19.jpg",
+        date: "2024.06.28.",
+        members: ["Anti", "Kata"],
+        topic: "Digitális állampolgárság - kritikus parlamenti felszólalás - digitális személyes adatkezelés - bankrendszer, digitális jegybankpénz - a készpénz védelme - 'Az opt out az opcióm' - öngondoskodás, felelősségvállalás - CBDC, karbonlábnyom, pontrendszer, kontroll - ötmilliós lúzerszám, általános alapjövedelem",
+        yt: "https://youtu.be/Y4R8ix9saU8",
+        fountain: "https://fountain.fm/episode/dg6FBzmlY67FrS3HyWmo"
+    },
+    {
         name: "Mi az a Bitcoin? | E18",
         img: "/pics/mi-az-a-bitcoin-s01e18.jpg",
         date: "2024.06.21.",
