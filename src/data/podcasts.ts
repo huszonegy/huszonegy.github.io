@@ -2,6 +2,15 @@
 
 export const podcasts = [
     {
+        name: "Mi az a Bitcoin? | E21",
+        img: "/pics/mi-az-a-bitcoin-s01e21.jpg",
+        date: "2024.07.12.",
+        members: ["Anti", "Tamás", "Árpi"],
+        topic: "Egy kis statisztika, bear market - bull market - Bitcoin az amerikai elnökválasztáson és a német parlamentben - nyelvi korlát, egyéni tanulás fontossága - pénzügyi tudatosság növelése - öngondoskodás, felelősségvállalás - NgU (number go up), 200 WMA (200 hetes mozgóátlag) - Twitter, Nostr, közösség - első magyar Bitcoin konferencia, bitcoiner invitálás - elég/nem elég - forkok, node (csomópont) futtatás - jövőbe tekintés",
+        yt: "https://youtu.be/7HpOpaDSIUU",
+        fountain: "https://fountain.fm/episode/9kvlMbxSLLhn2KJGG4Xb"
+    },
+    {
         name: "Mi az a Bitcoin? | E20",
         img: "/pics/mi-az-a-bitcoin-s01e20.jpg",
         date: "2024.07.05.",
