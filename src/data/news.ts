@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "21 hét, 21 adás a HUSZONEGY-től",
+        html: "21 héttel ezelőtt indult a HUSZONEGY bitcoiner közösség <a href='/podcast'>'Mi az a Bitcoin?' podcastja</a>, mely hétről hétre egyre több magyar bitcoinerrel folytatott beszélgetést tesz közkinccsé, melyek magyar nyelvű bitcoin ismereteket hivatottak közvetíteni az arra nyitott hallgatóság számára.<br /><br />A 21. adásban arra tettünk kísérletet, hogy egy sajátosan rendezett csokorba fogjuk mindazt, amit eddig produkáltunk, és erre rálátva vegyünk lendületet a folytatáshoz.<br /><br />Ezúton is köszönünk minden visszajelzést, megosztást és támogatást, melyek mind hozzájárulnak ahhoz, hogy egyre szélesebb körű hallgatósághoz juttassuk el szabadságért szóló szavainkat.",
+        date: "2024.07.12."
+    },
+    {
         summary: "Mesterséges intelligencia, digitális állapolgárság",
         html: "<a href='/podcast'>Podcastunk</a> az elmúlt két hétben a digitális állampolgárság, majd a mesterséges intelligencia kérdéskörét járta körbe. Mindkét epizód felhívja a figyelmet a világban történő technológiai változások figyelemmel követésének valamint az öngondoskodás és a felelősségvállalás fontosságára.<br /><br />Néhány kulcs momentum: 'az opt out az opcióm', 'az AI kitűnően ismétel és összegez, az ember kreatívan újít', 'AI és Bitcoin - az jár pórul, aki mellőzi a használatát', 'mindenki keresse meg, hogy tudja életének részévé tenni'.",
         date: "2024.07.05."
