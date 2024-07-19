@@ -2,6 +2,15 @@
 
 export const podcasts = [
     {
+        name: "Mi az a Bitcoin? | E22",
+        img: "/pics/mi-az-a-bitcoin-s01e22.jpg",
+        date: "2024.07.19.",
+        members: ["Anti", "Árpi"],
+        topic: "MNB a bitcoinról - Larry Fink (BlackRock) a bitcoinról - digitális tárcák fajtái, pro és kontra - letéti (custodial) bitcoin tárcák jellemzői - Blink (magyarul, Lightning kompatibilis, játékosan tanít) - Strike (angolul, Lightning kompatibilis, btc adás-vétel, globális küldés) - sat küldés Lightning Network-ön - better money - tárca ill. szolgáltató választási szempontok - kis összeggel érdemes próbálgatni",
+        yt: "https://youtu.be/emMAN6O5T8M",
+        fountain: "https://fountain.fm/episode/ZLfg6mfz1ndtRAKVSpMo"
+    },
+    {
         name: "Mi az a Bitcoin? | E21",
         img: "/pics/mi-az-a-bitcoin-s01e21.jpg",
         date: "2024.07.12.",
