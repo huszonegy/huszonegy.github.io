@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Bitcoin tárca kezdőknek és Lightning Network felhasználóknak",
+        html: "<a href='/podcast'>Bemutatkozik</a> a Galoy nevű cég (El Salvador) Blink applikációja, illetve a Strike nevű cég (USA) Strike alkalmazása. Mindkét cég etikus és egyúttal bitcoin-only, tehát kizárólag Bitcoinnal foglalkoznak. Ezek letéti tárcák, tehát a pénzügyi szolgáltató  - mint egy bitcoin bank - kezeli a 'bennük' tárolt satokat. Használatuk könnyű, gyorsan elsajátítható és nem utolsó sorban kedvező díjszabású. Ezért kiváló tárcák kezdők számára, de azok számára is szolgálnak igen hasznos funkciókkal, akik korábban 'csak' tartottak bitcoint, és végre nyitnak a Lightning Network használata felé.<br /><br />A Blink magyar felülettel is rendelkezik, és kvíz kérdések megválaszolásán keresztül játékosan tanít a Bitcoinról, miközben satokkal jutalmaz. A Strike egyelőre csak angolul tud, viszont a Strike egyben minden szempontból a legjobb exchange vagyis kritotőzsde, ahol bitcoinhoz lehet jutni.",
+        date: "2024.07.19."
+    },
+    {
         summary: "21 hét, 21 adás a HUSZONEGY-től",
         html: "21 héttel ezelőtt indult a HUSZONEGY bitcoiner közösség <a href='/podcast'>'Mi az a Bitcoin?' podcastja</a>, mely hétről hétre egyre több magyar bitcoinerrel folytatott beszélgetést tesz közkinccsé, melyek magyar nyelvű bitcoin ismereteket hivatottak közvetíteni az arra nyitott hallgatóság számára.<br /><br />A 21. adásban arra tettünk kísérletet, hogy egy sajátosan rendezett csokorba fogjuk mindazt, amit eddig produkáltunk, és erre rálátva vegyünk lendületet a folytatáshoz.<br /><br />Ezúton is köszönünk minden visszajelzést, megosztást és támogatást, melyek mind hozzájárulnak ahhoz, hogy egyre szélesebb körű hallgatósághoz juttassuk el szabadságért szóló szavainkat.",
         date: "2024.07.12."
