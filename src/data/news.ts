@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Bitcoin Miskolc, politika és magánszféra",
+        html: "A <a href='/podcast'>Mi az a Bitcoin?</a>-ban Ferivel és Noparával beszélgettünk. Feritől megtudhattuk, hogy áll az októberi Bitcoin Miskolc konferencia szervezése, miket várhatunk, kikkel találkozhatunk majd az október 11-13. között a miskolci Aurora Hotelben megrendezésre kerülő első hazai Bitcoin konferencián. Nopara elmesélte, hogyan nehezítette meg a privacy alapú fejlesztéseket a Biden kormány az USÁ-ban, valamint miket látunk ezen a területen, és miért vagyunk mégis optimisták. Továbbá kitértünk a bitcoin tanulásának legfájdalmasabb módjára, de beszéltünk hardware tárcákról és a Wasabi walletről is.",
+        date: "2024.07.26."
+    },
+    {
         summary: "Bitcoin tárca kezdőknek és Lightning Network felhasználóknak",
         html: "<a href='/podcast'>Bemutatkozik</a> a Galoy nevű cég (El Salvador) Blink applikációja, illetve a Strike nevű cég (USA) Strike alkalmazása. Mindkét cég etikus és egyúttal bitcoin-only, tehát kizárólag Bitcoinnal foglalkoznak. Ezek letéti tárcák, tehát a pénzügyi szolgáltató  - mint egy bitcoin bank - kezeli a 'bennük' tárolt satokat. Használatuk könnyű, gyorsan elsajátítható és nem utolsó sorban kedvező díjszabású. Ezért kiváló tárcák kezdők számára, de azok számára is szolgálnak igen hasznos funkciókkal, akik korábban 'csak' tartottak bitcoint, és végre nyitnak a Lightning Network használata felé.<br /><br />A Blink magyar felülettel is rendelkezik, és kvíz kérdések megválaszolásán keresztül játékosan tanít a Bitcoinról, miközben satokkal jutalmaz. A Strike egyelőre csak angolul tud, viszont a Strike egyben minden szempontból a legjobb exchange vagyis kritotőzsde, ahol bitcoinhoz lehet jutni.",
         date: "2024.07.19."

@@ -2,6 +2,15 @@
 
 export const podcasts = [
     {
+        name: "Mi az a Bitcoin? | E23",
+        img: "/pics/mi-az-a-bitcoin-s01e23.jpg",
+        date: "2024.07.26.",
+        members: ["Feri", "Anti", "nopara73"],
+        topic: "Bitcoin Miskolc, az első magyar Bitcoin konferencia - a bitcoin tárolása és a tanulás legfájóbb módja - a centralizált tőzsdék veszélyei - tanuljunk inkább mások hibáiból - a KYC veszélyei és a hardware walletek - politikusok és a Bitcoin - Donald Trump és a Bitcoin - privacy és hosszú távú optimizmus",
+        yt: "https://youtu.be/79S1FL-QOPA",
+        fountain: "https://fountain.fm/episode/Mj4gWjf0jTmG1JJ4Y0q1"
+    },
+    {
         name: "Mi az a Bitcoin? | E22",
         img: "/pics/mi-az-a-bitcoin-s01e22.jpg",
         date: "2024.07.19.",
