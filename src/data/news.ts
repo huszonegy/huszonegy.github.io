@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Trump Bitcoin konferencia beszéde és White Paper",
+        html: "Az elmúlt két hét <a href='/podcast'>podcast</a> adásaiban Trump Nashville-i Bitcoin Konferencián mondott beszéde kapcsán beszélgettünk arról, hogy a Bitcoin egyre nagyobb szerepet kap a világpolitikában, majd pedig egy különleges epizód keretében sor került a 'Bitcoin White Paper', a Satoshi Nakamoto által 2008. október 31-én publikált 'Bitcoin tanulmány' magyar változatának felolvasására.",
+        date: "2024.08.09."
+    },
+    {
         summary: "Bitcoin Miskolc, politika és magánszféra",
         html: "A <a href='/podcast'>Mi az a Bitcoin?</a>-ban Ferivel és Noparával beszélgettünk. Feritől megtudhattuk, hogy áll az októberi Bitcoin Miskolc konferencia szervezése, miket várhatunk, kikkel találkozhatunk majd az október 11-13. között a miskolci Aurora Hotelben megrendezésre kerülő első hazai Bitcoin konferencián. Nopara elmesélte, hogyan nehezítette meg a privacy alapú fejlesztéseket a Biden kormány az USÁ-ban, valamint miket látunk ezen a területen, és miért vagyunk mégis optimisták. Továbbá kitértünk a bitcoin tanulásának legfájdalmasabb módjára, de beszéltünk hardware tárcákról és a Wasabi walletről is.",
         date: "2024.07.26."

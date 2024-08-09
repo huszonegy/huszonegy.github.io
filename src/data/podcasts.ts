@@ -2,6 +2,24 @@
 
 export const podcasts = [
     {
+        name: "Mi az a Bitcoin? | E25",
+        img: "/pics/mi-az-a-bitcoin-s01e25.jpg",
+        date: "2024.08.09.",
+        members: ["Anti"],
+        topic: "Bitcoin: Egy peer-to-peer elektronikus készpénzrendszer - a 'Bitcoin White Paper', azaz a Satoshi Nakamoto által 2008. október 31-én publikált 'Bitcoin tanulmány' magyar változatának elolvasása",
+        yt: "https://youtu.be/Mo8e53Hv80Y",
+        fountain: "https://fountain.fm/episode/n99t3xJi6QM76Y7yMCHM"
+    },
+    {
+        name: "Mi az a Bitcoin? | E24",
+        img: "/pics/mi-az-a-bitcoin-s01e24.jpg",
+        date: "2024.08.02.",
+        members: ["Tamás", "Feri", "Anti"],
+        topic: "A Bitcoin egyre nagyobb szerepet kap a világpolitikában - Trump beszéde a Nashville-i Bitcoin Konferencián - self-custody mint amerikai alapjog Trump szerint - mennyi coint tud az USA felhalmozni? - Trump Bitcoin tanácsadó testület felállítását tervezi - adósságválságok a nemzeti költségvetésekben - államok közötti verseny a bitcoinért - Gary Gensler mehet - az infláció-kamu - Bitcoin kontra Fiat - miért jobb a Bitcoin, mint a csúcs fiat CBDC-k?",
+        yt: "https://youtu.be/cYQ7Wj9HQFk",
+        fountain: "https://fountain.fm/episode/TcxbdGjAaXMuTET2q8Gm"
+    },
+    {
         name: "Mi az a Bitcoin? | E23",
         img: "/pics/mi-az-a-bitcoin-s01e23.jpg",
         date: "2024.07.26.",
