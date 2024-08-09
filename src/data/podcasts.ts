@@ -6,7 +6,7 @@ export const podcasts = [
         img: "/pics/mi-az-a-bitcoin-s01e25.jpg",
         date: "2024.08.09.",
         members: ["Anti"],
-        topic: "Bitcoin: Egy peer-to-peer elektronikus készpénzrendszer - a 'Bitcoin White Paper', azaz a Satoshi Nakamoto által 2008. október 31-én publikált 'Bitcoin tanulmány' magyar változatának elolvasása",
+        topic: "Bitcoin: Egy peer-to-peer elektronikus készpénzrendszer - a 'Bitcoin Whitepaper', azaz a Satoshi Nakamoto által 2008. október 31-én publikált 'Bitcoin tanulmány' magyar változatának elolvasása",
         yt: "https://youtu.be/Mo8e53Hv80Y",
         fountain: "https://fountain.fm/episode/n99t3xJi6QM76Y7yMCHM"
     },
