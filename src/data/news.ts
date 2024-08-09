@@ -6,7 +6,7 @@
 export const news = [
     {
         summary: "Trump Bitcoin konferencia beszéde és White Paper",
-        html: "Az elmúlt két hét <a href='/podcast'>podcast</a> adásaiban Trump Nashville-i Bitcoin Konferencián mondott beszéde kapcsán beszélgettünk arról, hogy a Bitcoin egyre nagyobb szerepet kap a világpolitikában, majd pedig egy különleges epizód keretében sor került a 'Bitcoin White Paper', a Satoshi Nakamoto által 2008. október 31-én publikált 'Bitcoin tanulmány' magyar változatának felolvasására.",
+        html: "Az elmúlt két hét <a href='/podcast'>podcast</a> adásaiban Trump Nashville-i Bitcoin Konferencián mondott beszéde kapcsán beszélgettünk arról, hogy a Bitcoin egyre nagyobb szerepet kap a világpolitikában, majd pedig egy különleges epizód keretében sor került a 'Bitcoin Whitepaper', a Satoshi Nakamoto által 2008. október 31-én publikált 'Bitcoin tanulmány' magyar változatának felolvasására.",
         date: "2024.08.09."
     },
     {
