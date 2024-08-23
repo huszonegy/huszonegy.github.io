@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "A pénzek királya és 21 oktató cikk",
+        html: "A <a href='/podcast'>Mi az a Bitcoin?</a> legutóbbi adásaiban szót ejtettünk az elmúlt hetek árdinamikájáról, a japán carry-trade-ről, likviditásról, az ETF-ekről, továbbá rejtett elnyomásról, átverésekről, a Bitcoinról mint nem befektetésről, jogalkotásról, általános alapjövedelemről, valódi értékről, valódi növekedésről, közelgő magyar Bitcoin konferenciáról, női mozgolódásokról, 21 frissen fordított oktató cikkről és további Bitcoin könyvekről.",
+        date: "2024.08.23."
+    },
+    {
         summary: "Trump Bitcoin konferencia beszéde és White Paper",
         html: "Az elmúlt két hét <a href='/podcast'>podcast</a> adásaiban Trump Nashville-i Bitcoin Konferencián mondott beszéde kapcsán beszélgettünk arról, hogy a Bitcoin egyre nagyobb szerepet kap a világpolitikában, majd pedig egy különleges epizód keretében sor került a 'Bitcoin Whitepaper', a Satoshi Nakamoto által 2008. október 31-én publikált 'Bitcoin tanulmány' magyar változatának felolvasására.",
         date: "2024.08.09."
