@@ -2,6 +2,24 @@
 
 export const podcasts = [
     {
+        name: "Mi az a Bitcoin? | E27",
+        img: "/pics/mi-az-a-bitcoin-s01e27.jpg",
+        date: "2024.08.23.",
+        members: ["Anti", "Kata", "Árpi"],
+        topic: "Rejtett elnyomás - átverések - a Bitcoin nem egy befektetés - Bitcoin ETF, jogalkotás - általános alapjövedelem (UBI) - valódi érték, valódi növekedés - Bitcoin Miskolc, női energiák - 21 magyar nyelvű oktató cikk - könyvajánló",
+        yt: "https://youtu.be/46OXgXo4K7c",
+        fountain: "https://fountain.fm/episode/rIhNJNXxGudUkzoGGY1b"
+    },
+    {
+        name: "Mi az a Bitcoin? | E26",
+        img: "/pics/mi-az-a-bitcoin-s01e26.jpg",
+        date: "2024.08.16.",
+        members: ["Feri", "Anti"],
+        topic: "Az elmúlt hetek árdinamikája - a japán carry-trade - likviditás - Bitcoin ETF-ek",
+        yt: "https://youtu.be/rOIAj5UaW78",
+        fountain: "https://fountain.fm/episode/ZC10hO5KK1b7tfurjarm"
+    },
+    {
         name: "Mi az a Bitcoin? | E25",
         img: "/pics/mi-az-a-bitcoin-s01e25.jpg",
         date: "2024.08.09.",
