@@ -2,6 +2,15 @@
 
 export const podcasts = [
     {
+        name: "Mi az a Bitcoin? | E28",
+        img: "/pics/mi-az-a-bitcoin-s01e28.jpg",
+        date: "2024.08.23.",
+        members: ["Anti", "Robi", "l0rinc"],
+        topic: "Félelem és kreativitás - kő alá bújás vagy élethosszig tartó tanulás - új modellek - centralizált és open source összevetés ChatGPT által - Claude és Grok válasza Elevenlabs által felolvasva - ijesztő és megmondja a tutit? - Bitcoin, AI és Nostr összekapcsolódása - jó kérdés feltevése - konklúzió",
+        yt: "https://youtu.be/Ie8enwTgKdI",
+        fountain: "https://fountain.fm/episode/XsffVVHFUIzlVeQ1Yl9l"
+    },
+    {
         name: "Mi az a Bitcoin? | E27",
         img: "/pics/mi-az-a-bitcoin-s01e27.jpg",
         date: "2024.08.23.",
@@ -68,7 +77,7 @@ export const podcasts = [
         name: "Mi az a Bitcoin? | E20",
         img: "/pics/mi-az-a-bitcoin-s01e20.jpg",
         date: "2024.07.05.",
-        members: ["Anti", "Robi", "Lőrinc"],
+        members: ["Anti", "Robi", "l0rinc"],
         topic: "Beszélgetés a ChatGPT-vel - innen egy lépés az AGI - jelenleg információtömörítést tud hallucinálva - munkakiváltás, ijesztő, ugyanakkor lehetőség - hang deep fake demo - tanulási segéd - autista zseni kreativitás nélkül - mi ketten jobban, mint bármelyikünk külön - AI kitűnően ismétel és összegez, ember újít - AI és Bitcoin - az jár pórul, aki mellőzi a használatát - univerzális alapjövedelem (UBI) - mindenki keresse meg, hogy tudja életének részévé tenni",
         yt: "https://youtu.be/gkNyQjIcm7w",
         fountain: "https://fountain.fm/episode/pKT9jLamGS2Rhw9V4Ybm"
