@@ -55,7 +55,7 @@ export const books = [
         text: "",
         desc: "Beleesni a Bitcoin nyúlüregébe furcsa élmény. Sokakhoz hasonlóan én is úgy érzem, az elmúlt pár évben többet tanultam a Bitcoin segítségével, mint előtte két évtizedet eltöltve az iskolarendszerben. Az itt olvasható sorok az általam megtanult dolgok összegzése.",
         img: "/books/21-lecke.png",
-        shop: "<strong>Ingyenesen olvasható:</strong> <a href='/public/files/21-lecke-Gigi.pdf' target='_blank'>pdf</a>"
+        shop: "<strong>Ingyenesen olvasható:</strong> <a href='/files/21-lecke-Gigi.pdf' target='_blank'>pdf</a>"
     },
     {
         id: "a-bitcoin-igeretes-jovoje",
@@ -66,7 +66,7 @@ export const books = [
         text: "",
         desc: "2017-ben a bitcoin árfolyama olyan magasságokba ért, hogy minden befektető előtt egyértelművé vált, itt valami fontos történik. Ezzel együtt természetesen továbbra is ostobaságnak tűnt olyasmibe fektetni, amely mögött sem árucikk, sem nemzetgazdaság nem áll, ráadásul az árfolyamemelkedését sokan a tulipán-mániához, vagy a dotcom lufihoz hasonlították. Ezek a nézetek alaptalanok, míg a lehetőségek lenyűgözőek, viszont egyáltalán nem egyértelműek. Bitcoinba fektetni most, eme sorok 2018-as írásakor kockázatosnak számít, de mégis hatalmas lehetőségeket biztosíthat.",
         img: "/books/a-bitcoin-igeretes-jovoje.png",
-        shop: "<strong>Ingyenesen olvasható:</strong> <a href='/public/files/A-Bitcoin-igeretes-jovoje-Vijay-Boyapati.pdf' target='_blank'>pdf</a>"
+        shop: "<strong>Ingyenesen olvasható:</strong> <a href='/files/A-Bitcoin-igeretes-jovoje-Vijay-Boyapati.pdf' target='_blank'>pdf</a>"
     },
     {
         id: "a-bitcoin-letrehozasa",
@@ -77,7 +77,7 @@ export const books = [
         text: "",
         desc: "Mikor a többség először hall a Bitcoinról, sokszor még azelőtt véleményt alkot róla, hogy ténylegesen megismerné. Rengeteg az információ a területtel kapcsolatban, az embert könnyen félre lehet vezetni, hogy mi is a Bitcoin, és hogyan működik. Egészen három évvel ezelőttig én is így voltam. Hogy miért döntöttem ennek a könyvnek a megírása mellett? Az elmúlt húsz év során tech startupokat hoztam létre. Minden egyes nap az új technológiákkal foglalkoztam, és elég jó lettem abba, hogy rájöjjek dolgokra. Még így is öt év telt el az első találkozás után, hogy leüljek, és megpróbáljam megérteni a Bitcoint. Úgy érzem, nem csak nekem lehet hasznos, ha kicsi jobban feltárjuk ennek a világot potenciálisan nagyon megváltoztató innovációnak a hátterét.",
         img: "/books/a-bitcoin-letrehozasa.png",
-        shop: "<strong>Ingyenesen olvasható:</strong> <a href='/public/files/A-Bitcoin-letrehozasa-Yan-Pritzker.pdf' target='_blank'>pdf</a>"
+        shop: "<strong>Ingyenesen olvasható:</strong> <a href='/files/A-Bitcoin-letrehozasa-Yan-Pritzker.pdf' target='_blank'>pdf</a>"
     },
     {
         id: "miert-eppen-a-bitcoin",
@@ -88,7 +88,7 @@ export const books = [
         text: "",
         desc: "A Bitcoin témaköre szerteágazó, számtalan nézőpontból vizsgálható. Sokféle, különböző módon lehet értelmezni, és gondolkodni róla. Azért választottam ezt a rövid formátumot a cikkekhez, fejezetekhez, mert remélem, hogy így a lehető legtöbb nézőpontot megismerhetjük. Ezért az olvasók jobban megérthetik a terület egészét. Remélem az olvasás segítségedre lesz, tanulni tudsz belőle, és élvezed is közben! Megjegyzés a magyar fordításhoz: A cikksorozat jobbára filozófikus jelleggel tárgyalja a témát. Emiatt sokszor bővebb kifejtés nélkül foglalkozik a Bitcoin egyes tulajdonságaival, jellegzetességeivel, működési mechanizmusaival. Ha most ismerkedsz a területtel, a könnyebb megértés érdekében előbb érdemes elolvasni a bitcoinnal, mint pénzeszközzel foglalkozó, 'A Bitcoin ígéretes jövője' című könyvet Vijay Boyapati részéről, amely itt az oldalon is fent van, magyarul, és, a háttérben lévő technológiáról szóló, 'A Bitcoin létrehozása' című könyvet Yan Pritzker tollából, amely szintén elérhető magyarul, ingyenesen.",
         img: "/books/miert-eppen-a-bitcoin.png",
-        shop: "<strong>Ingyenesen olvasható:</strong> <a href='/public/files/Miert-eppen-a-Bitcoin-Tomer-Strolight.pdf' target='_blank'>pdf</a>"
+        shop: "<strong>Ingyenesen olvasható:</strong> <a href='/files/Miert-eppen-a-Bitcoin-Tomer-Strolight.pdf' target='_blank'>pdf</a>"
     }
 
 
