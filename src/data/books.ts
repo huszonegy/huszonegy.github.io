@@ -22,7 +22,7 @@ export const books = [
         text: "Ez a kis könyv kiváló bevezető a bitcoinról, ajánljuk mindenkinek, aki kicsit is nyitott a megismerésre. Könnyen érthető és hiteles; a bitcoin társadalmi és szabadságjogi vonatkozásai irányából közeliti meg a kérdést.",
         desc: "Biztosan hallottál már a bitcoinról a hírekben vagy ismerősöktől. Miért változik az árfolyama? Tényleg jó befektetés a bitcoin? Mitől van értéke? Miért beszélnek egyesek róla úgy, mint valamiről, ami megváltoztathatja a világot? A kis Bitcoin könyv rávilágít arra, hogy mi a gond a pénzzel napjainkban, és miért találták ki a bitcoint mint a jelenlegi rendszer jobb alternatíváját.",
         img: "/books/kis-bitcoin-konyv.jpg",
-        shop: "<strong>Megvásárolható:</strong> <a href='https://bookline.hu/search/search.action?page=1&searchfield=kis+bitcoin+k%C3%B6nyv' target='_blank'>BookLine</a> és <a href='https://shop.bitcoinbazis.hu/termek/a-kis-bitcoin-konyv/' target='_blank'>BitcoinBázis Shop</a> (bitcoinért is)<br /><strong>Ingyenesen olvasható:</strong> <a href='/public/files/A-kis-bitcoin-konyv.pdf' target='_blank'>pdf</a>"
+        shop: "<strong>Megvásárolható:</strong> <a href='https://bookline.hu/search/search.action?page=1&searchfield=kis+bitcoin+k%C3%B6nyv' target='_blank'>BookLine</a> és <a href='https://shop.bitcoinbazis.hu/termek/a-kis-bitcoin-konyv/' target='_blank'>BitcoinBázis Shop</a> (bitcoinért is)<br /><strong>Ingyenesen olvasható:</strong> <a href='/files/A-kis-bitcoin-konyv.pdf' target='_blank'>pdf</a>"
     },
     {
         id: "saif-bitcoin-standard",
