@@ -2,13 +2,22 @@
 
 export const podcasts = [
     {
-        name: "Mi az a Bitcoin? | E28",
-        img: "/pics/mi-az-a-bitcoin-s01e28.jpg",
-        date: "2024.08.30.",
-        members: ["Anti", "Robi", "l0rinc"],
-        topic: "Félelem és kreativitás - kő alá bújás vagy élethosszig tartó tanulás - új modellek - centralizált és open source összevetés ChatGPT által - Claude és Grok válasza Elevenlabs által felolvasva - ijesztő és megmondja a tutit? - Bitcoin, AI és Nostr összekapcsolódása - jó kérdés feltevése - konklúzió",
-        yt: "https://youtu.be/Ie8enwTgKdI",
-        fountain: "https://fountain.fm/episode/XsffVVHFUIzlVeQ1Yl9l"
+        name: "Mi az a Bitcoin? | E30",
+        img: "/pics/mi-az-a-bitcoin-s01e30.jpg",
+        date: "2024.09.13.",
+        members: ["Anti", "Árpi"],
+        topic: "Venezuela, hiperinfláció, ellenállás és védekezés - pénzkészlet növelése, megtakarítások értéktelenítése - programozottan csökkenő infláció - erőforrás, idő, szabadság - kicsit lyukas vödör - Matolcsy György előadása - 'Nincs egy szabad óránk' - függetlenedés, opt-out - Bitcoin kontra arany",
+        yt: "https://youtu.be/U3cUYrjMMaY",
+        fountain: "https://fountain.fm/episode/mrOEkKgUa002tgHuUORZ"
+    },
+    {
+        name: "Mi az a Bitcoin? | E29",
+        img: "/pics/mi-az-a-bitcoin-s01e29.jpg",
+        date: "2024.09.06.",
+        members: ["Openoms", "Árpi"],
+        topic: "Emberi szabadság - szabad szoftver - Baltic Honeybadger Bitcoin konferencia - NostRiga - cenzúra, titkosítás - Telegram, Signal, SimpleX - RaspiBlitz",
+        yt: "https://youtu.be/b0gkWVXcG6Y",
+        fountain: "https://fountain.fm/episode/PddsfZF3sobjb1SwAuKG"
     },
     {
         name: "Mi az a Bitcoin? | E27",
