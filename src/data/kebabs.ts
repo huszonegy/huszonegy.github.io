@@ -10,6 +10,14 @@ export const kebabs = [
         yt: "https://www.youtube.com/watch?v=QqwJN9unBIQ",
     },
     {
+        name: "Könyvek a pénzügyi szabadsághoz",
+        img: "/pics/bitcoin-kebab-240115.png",
+        date: "2024.01.15.",
+        members: ["Kata", "Bedő Máté"],
+        topic: "A Bitcoin Standard és a Fiat Standard könyvekről, fordításukról, anarchokapitalizmusról, megoldásról, narancspirulázásról, tervekről.",
+        yt: "https://www.youtube.com/watch?v=eHgUrnPVP4Y",
+    },
+    {
         name: "A megismételhetetlen Bitcoin",
         img: "/pics/bitcoin-kebab-231030.png",
         date: "2023.10.30.",
