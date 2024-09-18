@@ -36,6 +36,17 @@ export const books = [
         shop: "<strong>Megvásárolható:</strong> A legtöbb magyarországi könyesbolt és <a href='https://shop.bitcoinbazis.hu/termek/bitcoin-standard-a-kozponti-bankok-decentralizalt-alternativaja-2-kiadas/' target='_blank'>BitcoinBázis Shop</a> (bitcoinért is)"
     },
     {
+        id: "saif-fiat-standard",
+        title: "Fiat Standard - A mindent uraló pénzügyi rendszer alternatívái",
+        author: "Saifedean Ammous",
+        translator: "Bedő Máté",
+        year: "2023",
+        text: "Gondolatébresztő és provokatív alapmű a modern, fiatalapú pénzügyi rendszer megértéséhez.<br />A fiat latin szó, jelentése 'legyen (megcsinálva)'.  Az angol nyelvben a kifejezés a „hivatalos rendelet”, „felhatalmazás” vagy „parancs” jelentésekkel bővült. Igen találó elnevezés a jelenlegi monetáris rendszerre, aminek fő jellemzője, hogy a piac helyett az állam diktál. A mai modern pénzek kivétel nélkül fiatpénzek.",
+        desc: "A Bitcoin standard szerzője nemzetközi hírű közgazdász, aki ezúttal a fiaton alapuló monetáris rendszert veszi górcső alá. Szisztematikusan bemutatja a 20. századi történetét, és részletesen elemzi, hogy miként határozza meg a mindennapi életünket, az élelmiszerektől kezdődően az üzemanyagokig, illetve hogyan szövi át a tudományos kutatások és az oktatás minden szegmensét. A szerző elutasítja a klímaváltozásról, a megújuló energiaforrásokról vagy éppen a vörös húsok fogyasztásáról alkotott és általánosan elfogadott narratívákat. Véleménye több mint rendhagyó, sarkos állításaival azonban nem megbotránkoztatni akar. Azt szeretné, ha az olvasó is ráébredne, hogy a fék nélküli hitelezés, és a mennyiségileg végtelenül növelhető gyenge pénz, miként köti az életünket a központi bankok és az állami rendeletek béklyójába.",
+        img: "/books/fiat-standard.png",
+        shop: "<strong>Megvásárolható:</strong> A legtöbb magyarországi könyesbolt és <a href='https://shop.bitcoinbazis.hu/termek/fiat-standard/' target='_blank'>BitcoinBázis Shop</a> (bitcoinért is)"
+    },
+    {
         id: "knut-szuverenitas",
         title: "Bitcoin: Szuverenitás & függetlenség",
         author: "Knut Svanholm",
