@@ -38,11 +38,11 @@
       <div class="container-sm py-3 px-3 mx-auto text-center" style="min-height: 400px;">
         <h3>
           <b>
-            Töltsd le a Fountain appot, hallgasd abban podcastunkat,<br />s közben csurgass felénk satokat!
+            Töltsd le a Fountain appot, <a href="https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N">hallgasd abban podcastunkat</a>,<br />s közben csurgass felénk satokat!
           </b>
         </h3>
         <div class="px-3 py-3">
-          <img src="/pics/fountain.png" class="img-fluid" alt="Fountain app" />
+          <a href="https://fountain.fm/features"><img src="/pics/fountain.png" class="img-fluid" alt="Fountain app" /></a>
         </div>
       </div>
 
