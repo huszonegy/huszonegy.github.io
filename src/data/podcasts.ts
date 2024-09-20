@@ -2,6 +2,15 @@
 
 export const podcasts = [
     {
+        name: "Mi az a Bitcoin? | E31",
+        img: "/pics/mi-az-a-bitcoin-s01e31.jpg",
+        date: "2024.09.20.",
+        members: ["Anti", "Optout"],
+        topic: "Magyarul elérhető alapművek - A kis Bitcoin könyv - Bitcoin Standard - A központi bankok decentralizált alternatívája - alacsony és magas időpreferencia - Fiat Standard, Principles of Economics, Broken Money - 21 Lecke - The Saif House - BitcoinBázis Shop",
+        yt: "https://youtu.be/Fitsp-pDsPI",
+        fountain: "https://fountain.fm/episode/SdlDOP2DK6Nh9YvgskbA"
+    },
+    {
         name: "Mi az a Bitcoin? | E30",
         img: "/pics/mi-az-a-bitcoin-s01e30.jpg",
         date: "2024.09.13.",
