@@ -29,6 +29,15 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/PddsfZF3sobjb1SwAuKG"
     },
     {
+        name: "Mi az a Bitcoin? | E28",
+        img: "/pics/mi-az-a-bitcoin-s01e28.jpg",
+        date: "2024.08.30.",
+        members: ["Anti", "Robi", "l0rinc"],
+        topic: "Félelem és kreativitás - kő alá bújás vagy élethosszig tartó tanulás - új modellek - centralizált és open source összevetés ChatGPT által - Claude és Grok válasza Elevenlabs által felolvasva - ijesztő és megmondja a tutit? - Bitcoin, AI és Nostr összekapcsolódása - jó kérdés feltevése - konklúzió",
+        yt: "https://youtu.be/Ie8enwTgKdI",
+        fountain: "https://fountain.fm/episode/XsffVVHFUIzlVeQ1Yl9l"
+    },
+    {
         name: "Mi az a Bitcoin? | E27",
         img: "/pics/mi-az-a-bitcoin-s01e27.jpg",
         date: "2024.08.23.",
