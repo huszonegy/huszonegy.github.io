@@ -191,6 +191,16 @@ export const articles = [
         img: "/article/a-hiperbitcoinizacio-5-10-even-belul-lezajlik.png",
         cat: "bevezető",
         id: 20
+    },
+    {
+        name: "TANULJ a Bitcoinról!",
+        origin: "fordító: árpi",
+        lang: "hu",
+        text: "A Strike a LEARN weboldalon tematizált, egymásra linkelt informatív cikkek sorozatát teszi közzé angol nyelven. Mivel a cikksorozatuk páratlanul edukatív, TANULJ címszó alatt a közel múltban elérhetővé vált 27 oktató cikk magyar változata.",
+        link: "https://europeanbitcoiners.com/tanulj-a-bitcoinrol/",
+        img: "/article/tanulj-a-bitcoinrol.png",
+        cat: "bevezető",
+        id: 21
     }
 ]
 
