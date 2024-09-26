@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Szaporodó magyar Bitcoin tartalom",
+        html: "Az elmúlt hetek rendszeres podcast adásai mellett több magyar nyelvű Bitcoinnal kapcsolatos anyag is napvilágot látott: egyrészt a <a href='https://jan3.com/?lang=hu' target='_blank'>JAN3 honlapjának magyarított változata</a>, másrészt a <a href='https://europeanbitcoiners.com/tanulj-a-bitcoinrol/' target='_blank'>TANULJ a Bitcoinról!</a> c. cikk beszámol arról, hogy milyen immár 27 kérésre olvasható lényegre törő válasz magyar nyelven, és hogy miért, valamint hogyan tovább. Podcastunkban mindeközben olyan témákat érintettünk, mint az élethosszig tartó tanulás, szabad szoftver és szabad ember, hogyan függetlenedünk a központi genyózástól, valamint milyen Bitcoin könyvek támogatják a magyar nyelvű tanulást.",
+        date: "2024.09.26."
+    },
+    {
         summary: "A pénzek királya és 21 oktató cikk",
         html: "A <a href='/podcast'>Mi az a Bitcoin?</a> legutóbbi adásaiban szót ejtettünk az elmúlt hetek árdinamikájáról, a japán carry-trade-ről, likviditásról, az ETF-ekről, továbbá rejtett elnyomásról, átverésekről, a Bitcoinról mint nem befektetésről, jogalkotásról, általános alapjövedelemről, valódi értékről, valódi növekedésről, közelgő magyar Bitcoin konferenciáról, női mozgolódásokról, 21 frissen fordított oktató cikkről és további Bitcoin könyvekről.",
         date: "2024.08.23."
