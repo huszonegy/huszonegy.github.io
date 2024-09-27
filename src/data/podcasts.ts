@@ -2,6 +2,15 @@
 
 export const podcasts = [
     {
+        name: "Mi az a Bitcoin? | E32",
+        img: "/pics/mi-az-a-bitcoin-s01e32.jpg",
+        date: "2024.09.27.",
+        members: ["Feri", "Anti"],
+        topic: "Bitcoin Miskolc konferencia - 'A Bitcoin ígéretes jövője' - befektetett idő és energia - 10-15 tudományág együttállása - mérnökileg megtervezett pénzügyi rendszer - hogyan csap be minket a nyomtatható pénz világa - a holnap ára - nemzetállamok békés háborúja - a konferencia előadói",
+        yt: "https://youtu.be/_nHPcRtleDw",
+        fountain: "https://fountain.fm/episode/7aINVLFk8tMyE62kKTkm"
+    },
+    {
         name: "Mi az a Bitcoin? | E31",
         img: "/pics/mi-az-a-bitcoin-s01e31.jpg",
         date: "2024.09.20.",
