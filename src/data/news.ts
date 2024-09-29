@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Bitcoin előadások",
+        html: "Új oldallal és új menüponttal gazdagodott honlapunk. <a href='/eloadas'>Előadás</a> címszó alatt mostantól megtalálhatóak a magyar bitcoinerekből álló HUSZONEGY csoport magyar nyelvű előadásai. Az eddigi néhány előadást hamarosan számos újabb követi, melyek a közelgő <a href='https://bitcoinmiskolc.hu' target='_blank'>Bitcoin Miskolc konferenciát</a> követően lesznek közzé téve.",
+        date: "2024.09.29."
+    },
+    {
         summary: "A mérnökileg megtervezett pénzügyi rendszer időszerűsége",
         html: "A <a href='/podcast'>Mi az a Bitcoin?</a> aktuális adásában szót ejtünk a Bitcoin Miskolc konferencia részleteiről, 'A Bitcoin ígéretes jövőjéről', a jó pénz kritériumairól, az arany demonetizálásáról, befektetett időről és energiáról, interdiszciplinaritásról, a mérnökileg megtervezett pénzügyi rendszer időszerűségéről, arról, hogy hogyan csap be minket a nyomtatható pénz világa, a holnap áráról, nemzetállamok békés háborúskodásáról.<br /><br />Az elmúlt néhány epizódban beszélgettünk Bitcoin könyvekről, a központi bankok kártékony manőverezéséről, az ettől való függetlenedésről, a szabad szoftver és emberi szabadság összefüggéseiről, valamint az AI élethosszig tartó tanulást támogató aspektusáról.",
         date: "2024.09.27."

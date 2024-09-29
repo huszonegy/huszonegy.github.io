@@ -35,7 +35,7 @@ const router = createRouter({
       name: 'articles',
       component: ArticlesView,
       meta: {
-        title: 'Cikkek',
+        title: 'Bitcoin cikkek',
         metaTags: [
           {
             name: 'description',
@@ -53,7 +53,7 @@ const router = createRouter({
       name: 'forum',
       component: ForumView,
       meta: {
-        title: 'Fórum',
+        title: 'Bitcoin fórum',
         metaTags: [
           {
             name: 'description',
@@ -71,7 +71,7 @@ const router = createRouter({
       name: 'links',
       component: LinksView,
       meta: {
-        title: 'Linkek',
+        title: 'Bitcoin linkek',
         metaTags: [
           {
             name: 'description',
@@ -89,7 +89,7 @@ const router = createRouter({
       name: 'news',
       component: NewsView,
       meta: {
-        title: 'Hírek',
+        title: 'Bitcoin hírek',
         metaTags: [
           {
             name: 'description',
@@ -107,7 +107,7 @@ const router = createRouter({
       name: 'podcasts',
       component: PodsView,
       meta: {
-        title: 'Podcast',
+        title: 'Bitcoin podcast',
         metaTags: [
           {
             name: 'description',
@@ -125,7 +125,7 @@ const router = createRouter({
       name: 'presentations',
       component: PreziView,
       meta: {
-        title: 'Előadás',
+        title: 'Bitcoin előadás',
         metaTags: [
           {
             name: 'description',
@@ -143,7 +143,7 @@ const router = createRouter({
       name: 'books',
       component: BooksView,
       meta: {
-        title: 'Könyvek',
+        title: 'Bitcoin könyv',
         metaTags: [
           {
             name: 'description',
@@ -161,7 +161,7 @@ const router = createRouter({
       name: 'support',
       component: SupportView,
       meta: {
-        title: 'Támogatás',
+        title: 'Bitcoin támogatás',
         metaTags: [
           {
             name: 'description',
