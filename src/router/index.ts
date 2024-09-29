@@ -4,6 +4,7 @@ import ForumView from '../views/ForumView.vue'
 import ArticlesView from '../views/ArticlesView.vue'
 import LinksView from '../views/LinksView.vue'
 import PodsView from '../views/PodsView.vue'
+import PreziView from '../views/PreziView.vue'
 import SupportView from '../views/SupportView.vue'
 import NewsView from '../views/NewsView.vue'
 import BooksView from '../views/BooksView.vue'
@@ -115,6 +116,24 @@ const router = createRouter({
           {
             name: 'keywords',
             content: 'Bitcoin, magyar, podcast, beszélgetés, magyarul'
+          }
+        ]
+      }
+    },
+    {
+      path: '/eloadas',
+      name: 'presentations',
+      component: PreziView,
+      meta: {
+        title: 'Előadás',
+        metaTags: [
+          {
+            name: 'description',
+            content: 'Bitcoin előadás magyarul'
+          },
+          {
+            name: 'keywords',
+            content: 'Bitcoin, magyar, előadás, prezentáció, magyarul'
           }
         ]
       }
