@@ -75,5 +75,21 @@ export const presentations = [
                 fountain: "https://fountain.fm/episode/NkOPsEfBaB4T3q25Vf2n"
             }
         ]
+    },
+    {
+        event: "Bitcoin kontra CBDC",
+        params: "Magyar Antropozófiai Társaság Rudolf Steiner Háza - 2023. március 23.",
+        details: "Bevezetés abba, hogy hogyan támogatja a Bitcoin az emberi szabadságot szemben a világ központi bankjai által gőzerővel fejlesztett digitális jegybankpénzekkel megtámogatni kívánt egyre központosítottabb iránnyal, melynek mintája Kína.",
+        parts: [
+            {
+                name: "Bitcoin kontra CBDC avagy 'Szabadok legyünk, s ne rabok'",
+                img: "/pics/bitcoin-kontra-cbdc.jpg",
+                date: "2023.03.23.",
+                members: ["Árpi"],
+                topic: "A pénz funkciói - A pénz 'evolúciója' - Kulcsfontosságú események - Fiat valuta - Fiat pénzen alapuló, központosított rendszer - Digitális jegybankpénz, abszolút kontroll - Bitcoin megjelenése, küldetése, alapelvei, céljai - Bitcoin mint szoftver, digitális szűkösség, értéktároló, pénz, pénzügyi rendszer, réteges pénz, decentralizált hálózat, villámhálózat, alkalmazás, digitális energia, emberek, művészet, gyakorlat, tanulás",
+                yt: "https://youtu.be/1aSoRf17WRg",
+                fountain: ""
+            }
+        ]
     }
 ]
