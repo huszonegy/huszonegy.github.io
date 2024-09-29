@@ -17,19 +17,19 @@
                         <a class="nav-link" href="/forum">Fórum</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/hirek">Hírek</a>
+                        <a class="nav-link" href="/hirek">Hír</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/cikkek">Cikkek</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/linkek">Linkek</a>
+                        <a class="nav-link" href="/cikkek">Cikk</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/podcast">Podcast</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/konyvek">Könyvek</a>
+                        <a class="nav-link" href="/eloadas">Előadás</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/konyvek">Könyv</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
@@ -47,6 +47,9 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/tamogatas">Támogatás</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/linkek">Link</a>
                     </li>
                 </ul>
             </div>
