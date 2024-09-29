@@ -20,7 +20,10 @@ import { link_simplified } from '../utils'
                 <div v-for="prezi in alkalom.parts" class="card mx-2 my-2" style="width: 20rem;">
                     <div class="card-body">
                         <h4 class="my-3">
-                            <img :src="prezi.img" alt="Bitcoin előadás magyarul" />
+                            <a v-if="prezi.yt" :href="prezi.yt" target="_blank">
+                                <img :src="prezi.img" :alt="prezi.name" :title="prezi.name" />
+                            </a>
+                            <img v-else :src="prezi.img" :alt="prezi.name" :title="prezi.name" />
                         </h4>
                         <h5 class="top">
                             {{ prezi.name }}
@@ -28,16 +31,22 @@ import { link_simplified } from '../utils'
                         <p v-if="prezi.date" class="small my-3 grey">
                             {{ prezi.date }}<span v-for="member in prezi.members">&nbsp;<span class="dark">|</span>&nbsp;{{ member }}</span> 
                         </p>
-                        <p v-if="prezi.yt && prezi.fountain" class="small my-3">
-                            youtube: 
-                            <a :href="prezi.yt" target="_blank" class="link">
-                                video
-                            </a>
-                            &nbsp;|&nbsp;
-                            fountain: 
-                            <a :href="prezi.fountain" target="_blank" class="link">
-                                audio
-                            </a>
+                        <p class="small my-3">
+                            <span v-if="prezi.yt">
+                                youtube: 
+                                <a :href="prezi.yt" target="_blank" class="link">
+                                    video
+                                </a>
+                            </span>
+                            <span v-if="prezi.yt && prezi.fountain">
+                                &nbsp;|&nbsp;
+                            </span>
+                            <span v-if="prezi.fountain">
+                                fountain: 
+                                <a :href="prezi.fountain" target="_blank" class="link">
+                                    audio
+                                </a>
+                            </span>
                         </p>
                         <p class="small my-3">
                             {{ prezi.topic }}
