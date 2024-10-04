@@ -173,6 +173,10 @@ const router = createRouter({
           }
         ]
       }
+    },
+    {
+      path: '/support',
+      redirect: '/tamogatas'
     }
   ]
 })
