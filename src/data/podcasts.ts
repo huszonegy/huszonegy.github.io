@@ -2,6 +2,15 @@
 
 export const podcasts = [
     {
+        name: "Mi az a Bitcoin? | E33",
+        img: "/pics/mi-az-a-bitcoin-s01e33.jpg",
+        date: "2024.10.04.",
+        members: ["Kata", "Anti"],
+        topic: "Bitcoin Miskolc konferencia - Szabadulási kísérlet - hegedülni se lehet megtanulni egy nap alatt - gyors változás - élethosszig tartó tanulás - Bitcoin: Szuverenitás és függetlenség - A Bitcoin létrehozása - Nők a Bitcoinban - Bitcoin konferencián barátságos a légkör - Miért éppen a Bitcoin? - Hogyan adja el az IMF és a Világbank a kizsákmányolást fejlesztésként",
+        yt: "https://youtu.be/xo2XhbUxsB0",
+        fountain: "https://fountain.fm/episode/KiNbETCmjuV5SphVLq0T"
+    },
+    {
         name: "Mi az a Bitcoin? | E32",
         img: "/pics/mi-az-a-bitcoin-s01e32.jpg",
         date: "2024.09.27.",

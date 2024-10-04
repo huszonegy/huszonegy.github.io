@@ -22,7 +22,7 @@ export const kebabs = [
         img: "/pics/bitcoin-kebab-231030.png",
         date: "2023.10.30.",
         members: ["Kata", "Knut Svanholm"],
-        topic: "Matrózból bitcoiner, a BTC Infinity Day eredete, a praxiológia és a Bitcoin kapcsolata, madeirai élmények, pár jótanácsal kezdők számára.",
+        topic: "Matrózból bitcoiner, a BTC Infinity Day eredete, a praxiológia és a Bitcoin kapcsolata, madeirai élmények, pár jótanács kezdők számára.",
         yt: "https://www.youtube.com/watch?v=9TlEA2FlIUA",
     },
     {
