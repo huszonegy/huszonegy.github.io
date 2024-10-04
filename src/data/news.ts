@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Nők a Bitcoinban, 'Biztonságos-e a Bitcoin?'",
+        html: "<a href='/podcast'>Podcastunkban</a> nők a Bitcoinban, <a href='https://bitcoinmiskolc.hu' target='_blank'>Bitcoin Miskolc konferencia</a>, barátságos légkör, életen át tartó tanulás, olvasás, könyvek. A magyarra fordított Strike oktató cikkek pedig kiegészültek a Bitcoin kockázatait optimális tömörséggel kifejtő <a href='https://inflacio.eu/biztonsagos-e-a-bitcoin/' target='_blank'>Biztonságos-e a Bitcoin?</a>.",
+        date: "2024.10.04."
+    },
+    {
         summary: "Bitcoin előadások",
         html: "Új oldallal és új menüponttal gazdagodott honlapunk. <a href='/eloadas'>Előadás</a> címszó alatt mostantól megtalálhatóak a magyar bitcoinerekből álló HUSZONEGY csoport magyar nyelvű előadásai. Az eddigi néhány előadást hamarosan számos újabb követi, melyek a közelgő <a href='https://bitcoinmiskolc.hu' target='_blank'>Bitcoin Miskolc konferenciát</a> követően lesznek közzé téve.",
         date: "2024.09.29."
