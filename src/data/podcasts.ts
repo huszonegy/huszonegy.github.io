@@ -2,6 +2,15 @@
 
 export const podcasts = [
     {
+        name: "Mi az a Bitcoin? | E34",
+        img: "/pics/mi-az-a-bitcoin-s01e34.jpg",
+        date: "2024.10.11.",
+        members: ["Alan Plus", "Anti", "Árpi"],
+        topic: "Objektivizmus, Veszett világ - Andreas M. Antonopoulos könyvei - korai Bitcoin konferenciák - a Lightning Network megoldja a legnagyobb problémát - Mire való a Lightning és mire nem? - Mi az a Lightning Network? - okosszerződések biztosítják - villámgyors, skálázható, alacsony díjú - a legnagyobb okosszerződés - Lightning Network Plus (LN+) - új és meglévő szolgáltatások - Bitcoin oktató leckék - Lightning node üzemeltetési megoldások - Bitcoin Miskolc előadásai",
+        yt: "https://youtu.be/Le9yCr2uh8E",
+        fountain: "https://fountain.fm/episode/gbhuZdcIdsA0VNIHmxnR"
+    },
+    {
         name: "Mi az a Bitcoin? | E33",
         img: "/pics/mi-az-a-bitcoin-s01e33.jpg",
         date: "2024.10.04.",
