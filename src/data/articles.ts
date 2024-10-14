@@ -194,13 +194,23 @@ export const articles = [
     },
     {
         name: "TANULJ a Bitcoinról!",
-        origin: "fordító: árpi",
+        origin: "szerző: árpi",
         lang: "hu",
         text: "A Strike a LEARN weboldalon tematizált, egymásra linkelt informatív cikkek sorozatát teszi közzé angol nyelven. Mivel a cikksorozatuk páratlanul edukatív, TANULJ címszó alatt a közel múltban elérhetővé vált 27(+1) oktató cikk magyar változata.",
         link: "https://europeanbitcoiners.com/tanulj-a-bitcoinrol/",
         img: "/article/tanulj-a-bitcoinrol.png",
         cat: "bevezető",
         id: 21
+    },
+    {
+        name: "Első magyar Bitcoin konferencia",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "Október 13-án, vasárnap zárult a 3-napos Bitcoin Miskolc, az első magyarországi Bitcoin konferencia. Korábban ugyan voltak már olyan magyar nyelvű rendezvények, melyeken a Bitcoinról is szó esett, de ezúttal lehettünk első alkalommal tanúi kizárólag Bitcoin témájú, magyar nyelvű konferenciának, közel 200 résztvevővel, ráadásul ingyen.",
+        link: "https://europeanbitcoiners.com/elso-magyar-bitcoin-konferencia/",
+        img: "/article/elso-magyar-bitcoin-konferencia.png",
+        cat: "bevezető",
+        id: 22
     }
 ]
 
