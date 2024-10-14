@@ -14,7 +14,7 @@ defineProps<{
 
                 <div class="d-flex align-items-end article-banner" style="min-height: 80px;">
                     <a :href="article.link" target="_self" class="link">
-                        <img v-if="article.img" class="card-img-top center" :src="article.img" alt="image" />
+                        <img v-if="article.img" class="card-img-top center" :src="article.img" :alt="article.name" />
                     </a>
                 </div>
                 <div class="card-body">
