@@ -4,15 +4,15 @@ export const presentations = [
     {
         event: "Bitcoin Miskolc",
         params: "Hotel Aurora, Miskolc - 2024. október 11-13.",
-        details: "Közeleg Magyarország első Bitcoin Konferenciája, melynek előadásai itt is elérhetők lesznek.",
+        details: "Az első magyar Bitcoin konferencia a HUSZONEGY csoport tagjainak jól felépített előadás-sorozatán keresztül mutatja be részletesen, hogy miért kizárólag a Bitcoinnal foglalkozunk.",
         parts: [
             {
-                name: "Hamarosan...",
-                img: "/pics/bitcoin-miskolc-banner.png",
-                date: "",
-                members: [""],
-                topic: "",
-                yt: "",
+                name: "Mi a pénz? Mi a probléma?",
+                img: "/pics/bitcoin-miskolc-mi-a-penz.jpg",
+                date: "2024.10.11.",
+                members: ["Feri"],
+                topic: "Köszöntő - Mi a pénz? - A pénz tulajdonságai - Pénz és történelem - Aranyfedezet megszűnése - Mi történt 1971-ben? - Az adósság probléma - Mi várható? - Kérdés-válasz",
+                yt: "https://youtu.be/j4ZF4AseQN4",
                 fountain: ""
             }
         ]

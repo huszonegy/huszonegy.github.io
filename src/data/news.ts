@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Mi a pénz? Mi a probléma?",
+        html: "Megjelent a konferencia kezdő videója, mely <a href='/eloadas'>Előadás</a> oldalunkra is felkerült, és olyan témákban elmerülve alapozza meg ismereteinket, mint: <em>Mi a pénz? A pénz tulajdonságai. Pénz és történelem. Az aranyfedezet megszűnése. Mi történt 1971-ben? Az adósság probléma. Mi várható?</em>, majd a közönség néhány kérdésére elhangzott válaszokra derül fény.",
+        date: "2024.10.16."
+    },
+    {
         summary: "Első magyar Bitcoin konferencia",
         html: "Október 13-án, vasárnap zárult a minden szempontból fantasztikusan sikerült, 3-napos Bitcoin Miskolc, az első magyarországi Bitcoin konferencia. Ezúttal lehettünk első alkalommal tanúi kizárólag Bitcoin témájú, magyar nyelvű konferenciának, közel 200 résztvevővel, ráadásul ingyen. A szervezésben és az előadások, beszélgetések megtartásában a HUSZONEGY számos tagja önként vállalt aktív szerepet, amiért ezúton is nagy köszönet mindannyiuknak. A remek előadások és beszélgetések video felvételei néhány napon belül elérhetőek lesznek a <a href='https://www.youtube.com/@Bitcoinmiskolc' target='_blank'>BitcoinMiskolc youtube csatornáján</a>.<br /><br />Egy bővebb <a href='https://europeanbitcoiners.com/elso-magyar-bitcoin-konferencia/' target='_blank'>beszámoló a konferenciáról</a> ebben a cikkben olvasható.<br /><br /><a href='/podcast'>Podcastunk</a> legfrissebb adásában pedig a Lightning Network körül forog a világ, kimondottan jól érthető formában.",
         date: "2024.10.14."
