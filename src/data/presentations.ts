@@ -23,6 +23,15 @@ export const presentations = [
                 topic: "Intro - Mi a Bitcoin? - Mit ad nekünk a Bitcoin? - Bitcoin előtti kísérletek - A Bitcoin indulása (2009) - Genesis blokk - Végtelen osztva 21 millióval - Maximum 21 millió - Bitcoin, arany, FIAT - Kérdések",
                 yt: "https://youtu.be/8SJHoTtD3Z4",
                 fountain: ""
+            },
+            {
+                name: "Absztrakt erő és fizikai erő",
+                img: "/pics/bitcoin-miskolc-absztrakt-ero-fizikai-ero.jpg",
+                date: "2024.10.11.",
+                members: ["Feri"],
+                topic: "Koordináta-rendszer a digitális világhoz - Proof of Work, a munka bizonyítéka - Varázstükör - A virtuális világ nem a valóság - Egy absztrakt világban a szabályok is rugalmasak - Absztrakt erő - Fizikai erő - Absztrakt hadviselés és fizikai hadviselés - Lehetetlen fizikai határokat, védelmeket szabni egy absztrakt virtuális világban? - Adam Back és a 'Hash Cost Function' - A Bitcoin Proof of Work rendszere mint fizikai erő - A valós világ energiája és a digitális idő - Kérdések",
+                yt: "https://youtu.be/pYC5swYXXfc",
+                fountain: ""
             }
         ]
     },
