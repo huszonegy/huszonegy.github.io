@@ -14,6 +14,15 @@ export const presentations = [
                 topic: "Köszöntő - Mi a pénz? - A pénz tulajdonságai - Pénz és történelem - Aranyfedezet megszűnése - Mi történt 1971-ben? - Az adósság probléma - Mi várható? - Kérdés-válasz",
                 yt: "https://youtu.be/j4ZF4AseQN4",
                 fountain: ""
+            },
+            {
+                name: "Mi a bitcoin?",
+                img: "/pics/bitcoin-miskolc-mi-a-bitcoin.jpg",
+                date: "2024.10.11.",
+                members: ["Feri"],
+                topic: "Intro - Mi a Bitcoin? - Mit ad nekünk a Bitcoin? - Bitcoin előtti kísérletek - A Bitcoin indulása (2009) - Genesis blokk - Végtelen osztva 21 millióval - Maximum 21 millió - Bitcoin, arany, FIAT - Kérdések",
+                yt: "https://youtu.be/8SJHoTtD3Z4",
+                fountain: ""
             }
         ]
     },
