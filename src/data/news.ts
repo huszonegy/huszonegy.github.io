@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Mitől működik a Bitcoin?",
+        html: "Elérhetővé vált további 3 <a href='/eloadas'>előadás</a> anyaga, melyek <em>Mi a bitcoin?</em>, <em>Absztrakt erő és fizikai erő</em> és <em>Bitcoin hálózat működése</em> címmel hangzottak el a konferencia színpadán. Több irányból is megvilágítást nyer, hogy miért szükségszerűen fantasztikus eleme a Bitcoinnak a proof-of-work, majd fény derül a tökéletes pénz ideájára és annak megközelítésére is.",
+        date: "2024.10.18."
+    },
+    {
         summary: "Mi a pénz? Mi a probléma?",
         html: "Megjelent a konferencia kezdő videója, mely <a href='/eloadas'>Előadás</a> oldalunkra is felkerült, és olyan témákban elmerülve alapozza meg ismereteinket, mint: <em>Mi a pénz? A pénz tulajdonságai. Pénz és történelem. Az aranyfedezet megszűnése. Mi történt 1971-ben? Az adósság probléma. Mi várható?</em>, majd a közönség néhány kérdésére elhangzott válaszokra derül fény.",
         date: "2024.10.16."

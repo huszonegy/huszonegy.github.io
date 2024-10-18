@@ -32,6 +32,15 @@ export const presentations = [
                 topic: "Koordináta-rendszer a digitális világhoz - Proof of Work, a munka bizonyítéka - Varázstükör - A virtuális világ nem a valóság - Egy absztrakt világban a szabályok is rugalmasak - Absztrakt erő - Fizikai erő - Absztrakt hadviselés és fizikai hadviselés - Lehetetlen fizikai határokat, védelmeket szabni egy absztrakt virtuális világban? - Adam Back és a 'Hash Cost Function' - A Bitcoin Proof of Work rendszere mint fizikai erő - A valós világ energiája és a digitális idő - Kérdések",
                 yt: "https://youtu.be/pYC5swYXXfc",
                 fountain: ""
+            },
+            {
+                name: "Bitcoin hálózat működése",
+                img: "/pics/bitcoin-miskolc-bitcoin-halozat-mukodese.jpg",
+                date: "2024.10.11.",
+                members: ["Sziller"],
+                topic: "Bevezető - Energia és érték - Mitől működik a Bitcoin? - Energia - Energia mint az élet feltétele: objektív érték az univerzumban - Energia mint pénz - Fiat fizetőeszköz - Decentralizált pénz - Szubjektív érték - Decentralizált konszenzus - Hasznos linkek",
+                yt: "https://youtu.be/vqzVVVvpozg",
+                fountain: ""
             }
         ]
     },
