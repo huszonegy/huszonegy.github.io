@@ -2,6 +2,15 @@
 
 export const podcasts = [
     {
+        name: "Mi az a Bitcoin? | E35",
+        img: "/pics/mi-az-a-bitcoin-s01e35.jpg",
+        date: "2024.10.18.",
+        members: ["Anti", "Lóri", "Árpi"],
+        topic: "Első magyar Bitcoin konferencia élmények - Tudásbázis a Blink tárcában - Kvíz kérdések sat jutalomért - Bitcoin borravaló - MNB a Bitcoinról - Ismert emberek a Bitcoinról - Időszerű és megismételhetetlen - Társadalmi egyezmény, Cantillon-hatás - Gyerekek, iskolai előre gondolkodás - Nyugdíj, önrendelkezés, politikai szándék - Bitcoin a német és a kanadai parlamentben - Bitcoint a magyarnak! - Összekapcsolónak a dolgok - SEEDOR",
+        yt: "https://youtu.be/Cp1Zanr943c",
+        fountain: "https://fountain.fm/episode/ycqB1BwrYvBPF51UZhJP"
+    },
+    {
         name: "Mi az a Bitcoin? | E34",
         img: "/pics/mi-az-a-bitcoin-s01e34.jpg",
         date: "2024.10.11.",

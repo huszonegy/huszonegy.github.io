@@ -18,7 +18,9 @@ import { link_simplified } from '../utils'
             <div v-for="pod in podcasts" class="card mx-2 my-2" style="width: 20rem;">
                 <div class="card-body">
                     <h4 class="my-3">
-                        <img :src="pod.img" alt="Mi az a Bitcoin?" />
+                        <a :href="pod.yt" target="_blank" class="link">
+                            <img :src="pod.img" alt="Mi az a Bitcoin?" />
+                        </a>
                     </h4>
                     <h5 class="top">
                         {{ pod.name }}
