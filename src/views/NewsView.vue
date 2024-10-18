@@ -5,7 +5,7 @@ import NewsList from '../components/NewsList.vue'
 <template>
     <main>
         <h1>Bitcoin hírek</h1>
-        <NewsList :max_count=20 />
+        <NewsList :max_count=0 />
         <div class="bottom-space no-response"><!-- empty --></div>
     </main>
 </template>
