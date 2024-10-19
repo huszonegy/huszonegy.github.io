@@ -34,8 +34,8 @@ export const presentations = [
                 fountain: ""
             },
             {
-                name: "Bitcoin hálózat működése",
-                img: "/pics/bitcoin-miskolc-bitcoin-halozat-mukodese.jpg",
+                name: "Mitől működik a Bitcoin?",
+                img: "/pics/bitcoin-miskolc-mitol-mukodik-a-bitcoin.jpg",
                 date: "2024.10.11.",
                 members: ["Sziller"],
                 topic: "Bevezető - Energia és érték - Mitől működik a Bitcoin? - Energia - Energia mint az élet feltétele: objektív érték az univerzumban - Energia mint pénz - Fiat fizetőeszköz - Decentralizált pénz - Szubjektív érték - Decentralizált konszenzus - Hasznos linkek",
