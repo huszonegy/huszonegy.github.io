@@ -6,7 +6,7 @@
 export const news = [
     {
         summary: "Mitől működik a Bitcoin?",
-        html: "Elérhetővé vált további 3 <a href='/eloadas'>előadás</a> anyaga, melyek <em>Mi a bitcoin?</em>, <em>Absztrakt erő és fizikai erő</em> és <em>Bitcoin hálózat működése</em> címmel hangzottak el a konferencia színpadán. Több irányból is megvilágítást nyer, hogy miért szükségszerűen fantasztikus eleme a Bitcoinnak a proof-of-work, majd fény derül a tökéletes pénz ideájára és annak megközelítésére is.",
+        html: "Elérhetővé vált további 3 <a href='/eloadas'>előadás</a> anyaga, melyek <em>Mi a bitcoin?</em>, <em>Absztrakt erő és fizikai erő</em> és <em>Mitől működik a Bitcoin?</em> címmel hangzottak el a konferencia színpadán. Több irányból is megvilágítást nyer, hogy miért szükségszerűen fantasztikus eleme a Bitcoinnak a proof-of-work, majd fény derül a tökéletes pénz ideájára és annak megközelítésére is.",
         date: "2024.10.18."
     },
     {
