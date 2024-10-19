@@ -41,6 +41,15 @@ export const presentations = [
                 topic: "Bevezető - Energia és érték - Mitől működik a Bitcoin? - Energia - Energia mint az élet feltétele: objektív érték az univerzumban - Energia mint pénz - Fiat fizetőeszköz - Decentralizált pénz - Szubjektív érték - Decentralizált konszenzus - Hasznos linkek",
                 yt: "https://youtu.be/vqzVVVvpozg",
                 fountain: ""
+            },
+            {
+                name: "Kérdések, kötetlen beszélgetés az előadókkal",
+                img: "/pics/bitcoin-miskolc-kerdesek-kotetlen-beszelgetes-az-eloadokkal.jpg",
+                date: "2024.10.11.",
+                members: ["Feri", "Sziller", "Kata", "Anti"],
+                topic: "",
+                yt: "https://youtu.be/5mRpUyRmAAo",
+                fountain: ""
             }
         ]
     },
