@@ -211,7 +211,18 @@ export const articles = [
         img: "/article/elso-magyar-bitcoin-konferencia.png",
         cat: "bevezető",
         id: 22
+    },
+    {
+        name: "Mit mond a sofőr a szakadékhoz közeledve?",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "A központi bankok összehangoltan kormányozzák a szakadék felé a világgazdaságot. Vessünk egy pillantást arra, mit kommunikálnak a szakadék közelében!",
+        link: "https://europeanbitcoiners.com/mit-mond-a-sofor-a-szakadekhoz-kozeledve/",
+        img: "/article/mit-mond-a-sofor-a-szakadekhoz-kozeledve.png",
+        cat: "bevezető",
+        id: 23
     }
+
 ]
 
 // Get the articles, optionally only the last N
