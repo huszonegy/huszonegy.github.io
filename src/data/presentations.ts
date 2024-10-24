@@ -50,7 +50,41 @@ export const presentations = [
                 topic: "",
                 yt: "https://youtu.be/5mRpUyRmAAo",
                 fountain: ""
-            }
+            },
+            {
+                name: "Bitcoin alapok és magyar know-how",
+                img: "/pics/bitcoin-miskolc-bitcoin-alapok-es-magyar-know-how.jpg",
+                date: "2024.10.12.",
+                members: ["Feri"],
+                topic: "Mi a Bitcoin? - Mit ad nekünk a Bitcoin? - Miért használunk pénzt? - Pénz és történelem - Milyen pénzt használunk? - Az adósság probléma - Értékvesztés - Mi várható? - Genezis blokk - Bitcoin White Paper - Digitális tulajdon - Proof of Work - Az egyetlen, amiből nem lesz több, ha felmegy az ára - Hogyan használjuk a Bitcoint? - Bitcoin, ingatlan és infláció - Mit csináltunk mi eddig?",
+                yt: "https://youtu.be/oGDClY4jUnk",
+                fountain: ""
+            },            {
+                name: "Bitcoin gondolkodásmód",
+                img: "/pics/bitcoin-miskolc-bitcoin-gondolkodasmod.jpg",
+                date: "2024.10.12.",
+                members: ["Roli"],
+                topic: "Bitcoin gondolkodásmód - Változatlan mérőeszköz - Vizsgáljuk meg a pénzt - Hogyan mérjünk a Bitcoinnal? - Kérdések",
+                yt: "https://youtu.be/HQR86e909aQ",
+                fountain: ""
+            },            {
+                name: "Kell-e, avagy lehet-e szabályozni a Bitcoint?",
+                img: "/pics/bitcoin-miskolc-bitcoin-szabalyzas.jpg",
+                date: "2024.10.12.",
+                members: ["Kata"],
+                topic: "",
+                yt: "https://youtu.be/S-CcS2Ax2ZA",
+                fountain: ""
+            },            {
+                name: "Bitcoin pszichológia: mit lehet elrontani, mit kell jól csinálni?",
+                img: "/pics/bitcoin-miskolc-bitcoin-pszichologia.jpg",
+                date: "2024.10.12.",
+                members: ["Anti"],
+                topic: "Ne higgy, ellenőrizz! - Fiat vs Bitcoin gondolkodás - A fiat mentalitás buktatói - A Bitcoin mentalitás - A bitcoinerek pszichopaták? - Az igazság tükre - Mit lehet elrontani? - Pánik: ne legyél áldozat! - FOMO: lemaradok? - A türelmetlenség: maraton, nem pedig sprint! - Az ár? Nem az a legfontosabb! - Kutasd a Bitcoin alapvetéseit - Tartsd szem előtt az adó kérdést - Rendelkezz vele te magad! - Csalások és SCAM-ek - Felelőtlen kockázatvállalás - A kétélű kard - Ne engedjünk a magánszférából",
+                yt: "https://youtu.be/NMuLdbOLAuA",
+                fountain: ""
+            },
+
         ]
     },
     {
