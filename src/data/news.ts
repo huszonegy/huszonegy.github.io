@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Ma is forradalom részesei vagyunk",
+        html: "<em>A ma általánosan alkalmazott pénzügyi rendszerünk alapvetően korrupt. Ebből egyrészt következtethetünk arra, hogy egyáltalán nem meglepő, hogy a korrupció áthatja az egész társadalmat, másrészt könnyűszerrel beláthatjuk, hogy a korrupció ellenes törekvés egyetlen hatékony módja az, ha megoldjuk az alapvető problémát.</em><br/>Részlet egy <a href='https://europeanbitcoiners.com/ma-is-forradalom-reszesei-vagyunk/' target='_blank'>forradalmi hangvételű cikkből.</a><br /><br />Újabb négy előadás jelent meg, így most már mintegy <a href='/eloadas'>öt és fél órányi anyag hallgatható illetve nézhető meg</a> a forradalmi konferenciából.",
+        date: "2024.10.23."
+    },
+    {
         summary: "Mitől működik a Bitcoin?",
         html: "Elérhetővé vált további 3 <a href='/eloadas'>előadás</a> anyaga, melyek <em>Mi a bitcoin?</em>, <em>Absztrakt erő és fizikai erő</em> és <em>Mitől működik a Bitcoin?</em> címmel hangzottak el a konferencia színpadán. Több irányból is megvilágítást nyer, hogy miért szükségszerűen fantasztikus eleme a Bitcoinnak a proof-of-work, majd fény derül a tökéletes pénz ideájára és annak megközelítésére is.",
         date: "2024.10.18."

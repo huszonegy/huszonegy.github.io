@@ -221,8 +221,17 @@ export const articles = [
         img: "/article/mit-mond-a-sofor-a-szakadekhoz-kozeledve.png",
         cat: "bevezető",
         id: 23
+    },
+    {
+        name: "Ma is forradalom részesei vagyunk",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "Mélyen bennünk él az ‘56-os forradalom szellemisége. Figyeljünk fel hát arra október 23-án, hogy ma is forradalom részesei vagyunk!",
+        link: "https://europeanbitcoiners.com/ma-is-forradalom-reszesei-vagyunk/",
+        img: "/article/ma-is-forradalom-reszesei-vagyunk.png",
+        cat: "bevezető",
+        id: 24
     }
-
 ]
 
 // Get the articles, optionally only the last N
