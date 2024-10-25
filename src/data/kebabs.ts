@@ -58,11 +58,11 @@ export const kebabs = [
         yt: "https://www.youtube.com/watch?v=ovRZQ-Wzt88",
     },
     {
-        name: "A blokklánc rettenetes adatbázis!",
+        name: "A blokklánc rettenetes adatbázis",
         img: "/pics/bitcoin-kebab-230508.png",
         date: "2023.05.08.",
         members: ["Kata", "Sziller"],
-        topic: "Bitcoin, Lightning Network, tranzakciós költségek, skálázhatóság, blokklánc technológia, aminél Szilárd véleménye szerint nincsen rettenetesebb adatbázis.",
+        topic: "Bitcoin, Lightning Network, tranzakciós költségek, skálázhatóság, blokklánc technológia, aminél Szilárd véleménye szerint nincs rettenetesebb adatbázis.",
         yt: "https://www.youtube.com/watch?v=6qSw4kspPH8",
     },
     {

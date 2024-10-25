@@ -2,7 +2,18 @@
 
 export const podcasts = [
     {
-        name: "Mi az a Bitcoin? | E35",
+        name: "Egy igaz pénzügyi rendszer fontossága",
+        id: "E36",
+        img: "/pics/mi-az-a-bitcoin-s01e36.jpg",
+        date: "2024.10.25.",
+        members: ["Feri", "Kata", "Anti"],
+        topic: "Közös élmények - Előadások, vissza- és előretekintés - Jó érzés, hála, szerepvállalás, lelkesedés - Megértés, eligazodás, szabadabb jövő - Rengeteg jó videó, korosztályok, szabadság - Sokoldalúság, problémamegoldás, elvek, alapok - A Bitcoin egy jó eszköz, alapvetően az emberek jók - Új politikai irányzat, igazság - Egy igaz pénzügyi rendszer fontossága - SEEDOR - Következő konferencia és meetup-ok",
+        yt: "https://youtu.be/CNprHyy8vtg",
+        fountain: "https://fountain.fm/episode/8s2Yu1YYQ1JhLxZqQyl5"
+    },
+    {
+        name: "Bitcoint a magyarnak",
+        id: "E35",
         img: "/pics/mi-az-a-bitcoin-s01e35.jpg",
         date: "2024.10.18.",
         members: ["Anti", "Lóri", "Árpi"],
@@ -11,7 +22,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/ycqB1BwrYvBPF51UZhJP"
     },
     {
-        name: "Mi az a Bitcoin? | E34",
+        name: "Lightning Network a legnagyobb okosszerződés",
+        id: "E34",
         img: "/pics/mi-az-a-bitcoin-s01e34.jpg",
         date: "2024.10.11.",
         members: ["Alan Plus", "Anti", "Árpi"],
@@ -20,7 +32,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/gbhuZdcIdsA0VNIHmxnR"
     },
     {
-        name: "Mi az a Bitcoin? | E33",
+        name: "Csajok, gyertek a Bitcoin konferenciára!",
+        id: "E33",
         img: "/pics/mi-az-a-bitcoin-s01e33.jpg",
         date: "2024.10.04.",
         members: ["Kata", "Anti"],
@@ -29,7 +42,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/KiNbETCmjuV5SphVLq0T"
     },
     {
-        name: "Mi az a Bitcoin? | E32",
+        name: "A Bitcoin ígéretes jövője",
+        id: "E32",
         img: "/pics/mi-az-a-bitcoin-s01e32.jpg",
         date: "2024.09.27.",
         members: ["Feri", "Anti"],
@@ -38,7 +52,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/7aINVLFk8tMyE62kKTkm"
     },
     {
-        name: "Mi az a Bitcoin? | E31",
+        name: "Magyar nyelvű Bitcoin könyvek",
+        id: "E31",
         img: "/pics/mi-az-a-bitcoin-s01e31.jpg",
         date: "2024.09.20.",
         members: ["Anti", "Optout"],
@@ -47,7 +62,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/SdlDOP2DK6Nh9YvgskbA"
     },
     {
-        name: "Mi az a Bitcoin? | E30",
+        name: "Függetlenedünk a központi genyózástól",
+        id: "E30",
         img: "/pics/mi-az-a-bitcoin-s01e30.jpg",
         date: "2024.09.13.",
         members: ["Anti", "Árpi"],
@@ -56,7 +72,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/mrOEkKgUa002tgHuUORZ"
     },
     {
-        name: "Mi az a Bitcoin? | E29",
+        name: "Szabad szoftver, szabad ember",
+        id: "E29",
         img: "/pics/mi-az-a-bitcoin-s01e29.jpg",
         date: "2024.09.06.",
         members: ["Openoms", "Árpi"],
@@ -65,7 +82,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/PddsfZF3sobjb1SwAuKG"
     },
     {
-        name: "Mi az a Bitcoin? | E28",
+        name: "Élethosszig tartó tanulás",
+        id: "E28",
         img: "/pics/mi-az-a-bitcoin-s01e28.jpg",
         date: "2024.08.30.",
         members: ["Anti", "Robi", "l0rinc"],
@@ -74,7 +92,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/XsffVVHFUIzlVeQ1Yl9l"
     },
     {
-        name: "Mi az a Bitcoin? | E27",
+        name: "Valódi érték, valódi növekedés, 21 oktató cikk",
+        id: "E27",
         img: "/pics/mi-az-a-bitcoin-s01e27.jpg",
         date: "2024.08.23.",
         members: ["Anti", "Kata", "Árpi"],
@@ -83,7 +102,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/rIhNJNXxGudUkzoGGY1b"
     },
     {
-        name: "Mi az a Bitcoin? | E26",
+        name: "Bitcoin a pénzek királya",
+        id: "E26",
         img: "/pics/mi-az-a-bitcoin-s01e26.jpg",
         date: "2024.08.16.",
         members: ["Feri", "Anti"],
@@ -92,7 +112,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/ZC10hO5KK1b7tfurjarm"
     },
     {
-        name: "Mi az a Bitcoin? | E25",
+        name: "Bitcoin: Egy peer-to-peer elektronikus készpénzrendszer",
+        id: "E25",
         img: "/pics/mi-az-a-bitcoin-s01e25.jpg",
         date: "2024.08.09.",
         members: ["Anti"],
@@ -101,7 +122,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/n99t3xJi6QM76Y7yMCHM"
     },
     {
-        name: "Mi az a Bitcoin? | E24",
+        name: "Bitcoin és az amerikai elnökválasztási ígéretek",
+        id: "E24",
         img: "/pics/mi-az-a-bitcoin-s01e24.jpg",
         date: "2024.08.02.",
         members: ["Tamás", "Feri", "Anti"],
@@ -110,7 +132,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/TcxbdGjAaXMuTET2q8Gm"
     },
     {
-        name: "Mi az a Bitcoin? | E23",
+        name: "Bitcoin Miskolc, politika és magánszféra",
+        id: "E23",
         img: "/pics/mi-az-a-bitcoin-s01e23.jpg",
         date: "2024.07.26.",
         members: ["Feri", "Anti", "nopara73"],
@@ -119,7 +142,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/Mj4gWjf0jTmG1JJ4Y0q1"
     },
     {
-        name: "Mi az a Bitcoin? | E22",
+        name: "Bitcoin tárca kezdőknek és Lightning Network felhasználóknak",
+        id: "E22",
         img: "/pics/mi-az-a-bitcoin-s01e22.jpg",
         date: "2024.07.19.",
         members: ["Anti", "Árpi"],
@@ -128,7 +152,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/ZLfg6mfz1ndtRAKVSpMo"
     },
     {
-        name: "Mi az a Bitcoin? | E21",
+        name: "Visszatekintés, jelenlét, jövőbe tekintés",
+        id: "E21",
         img: "/pics/mi-az-a-bitcoin-s01e21.jpg",
         date: "2024.07.12.",
         members: ["Anti", "Tamás", "Árpi"],
@@ -137,7 +162,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/9kvlMbxSLLhn2KJGG4Xb"
     },
     {
-        name: "Mi az a Bitcoin? | E20",
+        name: "Mesterséges intelligencia, ChatGPT használata",
+        id: "E20",
         img: "/pics/mi-az-a-bitcoin-s01e20.jpg",
         date: "2024.07.05.",
         members: ["Anti", "Robi", "l0rinc"],
@@ -146,7 +172,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/pKT9jLamGS2Rhw9V4Ybm"
     },
     {
-        name: "Mi az a Bitcoin? | E19",
+        name: "Digitális központi hatalom",
+        id: "E19",
         img: "/pics/mi-az-a-bitcoin-s01e19.jpg",
         date: "2024.06.28.",
         members: ["Anti", "Kata"],
@@ -155,7 +182,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/dg6FBzmlY67FrS3HyWmo"
     },
     {
-        name: "Mi az a Bitcoin? | E18",
+        name: "Magas és alacsony időpreferencia",
+        id: "E18",
         img: "/pics/mi-az-a-bitcoin-s01e18.jpg",
         date: "2024.06.21.",
         members: ["Anti", "Karo", "Árpi"],
@@ -164,7 +192,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/v9JKeGRSVz4q9tmuZg1c"
     },
     {
-        name: "Mi az a Bitcoin? | E17",
+        name: "Prágai Bitcoin konferencia",
+        id: "E17",
         img: "/pics/mi-az-a-bitcoin-s01e17.jpg",
         date: "2024.06.14.",
         members: ["Feri", "Anti", "Árpi"],
@@ -173,7 +202,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/NWAWgPc8y1kZ1v0EsJOM"
     },
     {
-        name: "Mi az a Bitcoin? | E16",
+        name: "Bitcoin bányászat",
+        id: "E16",
         img: "/pics/mi-az-a-bitcoin-s01e16.jpg",
         date: "2024.06.07.",
         members: ["Optout", "Sziller", "Árpi"],
@@ -182,7 +212,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/8yJJzwgA2Wjh6vLJ6UQu"
     },
     {
-        name: "Mi az a Bitcoin? | E15",
+        name: "Bitcoin vásárlás",
+        id: "E15",
         img: "/pics/mi-az-a-bitcoin-s01e15.jpg",
         date: "2024.05.31.",
         members: ["Anti", "Tamás"],
@@ -191,7 +222,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/RPwf39QU3DbGprhAZ5WJ"
     },
     {
-        name: "Mi az a Bitcoin? | E14",
+        name: "Legalitás és illegalitás határán",
+        id: "E14",
         img: "/pics/mi-az-a-bitcoin-s01e14.jpg",
         date: "2024.05.24.",
         members: ["Anti", "Anita", "Árpi"],
@@ -200,7 +232,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/9hv1z3HXvXb7prdJJ9I5"
     },
     {
-        name: "Mi az a Bitcoin? | E13",
+        name: "Bizalom probléma",
+        id: "E13",
         img: "/pics/mi-az-a-bitcoin-s01e13.jpg",
         date: "2024.05.17.",
         members: ["Anti", "Karo", "Árpi"],
@@ -209,7 +242,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/iF8odGrt5LjUbgAxQvC8"
     },
     {
-        name: "Mi az a Bitcoin? | E12",
+        name: "Megfontolt megtakarítás",
+        id: "E12",
         img: "/pics/mi-az-a-bitcoin-s01e12.jpg",
         date: "2024.05.10.",
         members: ["Anti", "Feri"],
@@ -218,7 +252,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/9FLxbxm3HiTvwIgRsKZB"
     },
     {
-        name: "Mi az a Bitcoin? | E11",
+        name: "Bitcoin tárca bemutató",
+        id: "E11",
         img: "/pics/mi-az-a-bitcoin-s01e11.jpg",
         date: "2024.05.03.",
         members: ["Anti", "Tamás"],
@@ -227,7 +262,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/ReagtOmRpkZ8Of0y6vSZ"
     },
     {
-        name: "Mi az a Bitcoin? | E10",
+        name: "Elválasztjuk a pénzt az államtól",
+        id: "E10",
         img: "/pics/mi-az-a-bitcoin-s01e10.jpg",
         date: "2024.04.26.",
         members: ["Anti", "Árpi"],
@@ -236,7 +272,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/ukbo5I6KZrU4hXRZQIxh"
     },
     {
-        name: "Mi az a Bitcoin? | E09",
+        name: "Wasabi bitcoin tárca",
+        id: "E09",
         img: "/pics/mi-az-a-bitcoin-s01e09.jpg",
         date: "2024.04.19.",
         members: ["nopara73", "Optout", "Árpi"],
@@ -245,7 +282,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/pPwukfdQIzVYVOrg2AOE"
     },
     {
-        name: "Mi az a Bitcoin? | E08",
+        name: "Önrendelkezés, Umbrel node bemutató",
+        id: "E08",
         img: "/pics/mi-az-a-bitcoin-s01e08.jpg",
         date: "2024.04.12.",
         members: ["Tamás", "Árpi"],
@@ -254,7 +292,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/WnJJzVFiVYQGdiX3ocdH"
     },
     {
-        name: "Mi az a Bitcoin? | E07",
+        name: "Bitcoin bányászat Paraguayban",
+        id: "E07",
         img: "/pics/mi-az-a-bitcoin-s01e07.jpg",
         date: "2024.04.05.",
         members: ["Anti", "Balaxi", "Kata"],
@@ -263,7 +302,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/1tWJBjkR7y6jh5lN3pMw"
     },
     {
-        name: "Mi az a Bitcoin? | E06",
+        name: "Mi a legnagyobb különbség a fiat valuták és a kriptovaluták között?",
+        id: "E06",
         img: "/pics/mi-az-a-bitcoin-s01e06.jpg",
         date: "2024.03.29.",
         members: ["Anti", "Tamás", "Árpi"],
@@ -272,7 +312,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/D6prBgC48nhfUnAUh2Qp"
     },
     {
-        name: "Mi az a Bitcoin? | E05",
+        name: "Nostr, a decentralizált közösségi protokoll",
+        id: "E05",
         img: "/pics/mi-az-a-bitcoin-s01e05.jpg",
         date: "2024.03.21.",
         members: ["Anti", "Lez", "Openoms", "Optout"],
@@ -281,7 +322,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/xFdS93iQUE2kbLBTcJ4q"
     },
     {
-        name: "Mi az a Bitcoin? | E04",
+        name: "Öngondoskodás, megtakarítás, bitcoin zsebpénz",
+        id: "E04",
         img: "/pics/mi-az-a-bitcoin-s01e04.jpg",
         date: "2024.03.14.",
         members: ["Anti", "Kata", "Feri"],
@@ -290,7 +332,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/odzEIohsIkEPxXEyZgYn"
     },
     {
-        name: "Mi az a Bitcoin? | E03",
+        name: "Bitcoin Atlantis konferencia, Madeira",
+        id: "E03",
         img: "/pics/mi-az-a-bitcoin-s01e03.jpg",
         date: "2024.03.08.",
         members: ["Anti", "Roli", "Árpi"],
@@ -299,7 +342,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/0lMbuTipmKkGflGnWtyn"
     },
     {
-        name: "Mi az a Bitcoin? | E02",
+        name: "Bitcoin bányászat, csomópontok, blokk jutalom, felezés",
+        id: "E02",
         img: "/pics/mi-az-a-bitcoin-s01e02.jpg",
         date: "2024.02.29.",
         members: ["Anti", "Árpi"],
@@ -308,7 +352,8 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/CLQiTVsh1Wjb0qnoaryN"
     },
     {
-        name: "Mi az a Bitcoin? | E01",
+        name: "Mi az a Bitcoin?",
+        id: "E01",
         img: "/pics/mi-az-a-bitcoin-s01e01.jpg",
         date: "2024.02.23.",
         members: ["Anti", "Optout", "Árpi"],

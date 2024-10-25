@@ -59,7 +59,8 @@ export const presentations = [
                 topic: "Mi a Bitcoin? - Mit ad nekünk a Bitcoin? - Miért használunk pénzt? - Pénz és történelem - Milyen pénzt használunk? - Az adósság probléma - Értékvesztés - Mi várható? - Genezis blokk - Bitcoin White Paper - Digitális tulajdon - Proof of Work - Az egyetlen, amiből nem lesz több, ha felmegy az ára - Hogyan használjuk a Bitcoint? - Bitcoin, ingatlan és infláció - Mit csináltunk mi eddig?",
                 yt: "https://youtu.be/oGDClY4jUnk",
                 fountain: ""
-            },            {
+            },
+            {
                 name: "Bitcoin gondolkodásmód",
                 img: "/pics/bitcoin-miskolc-bitcoin-gondolkodasmod.jpg",
                 date: "2024.10.12.",
@@ -67,7 +68,8 @@ export const presentations = [
                 topic: "Bitcoin gondolkodásmód - Változatlan mérőeszköz - Vizsgáljuk meg a pénzt - Hogyan mérjünk a Bitcoinnal? - Kérdések",
                 yt: "https://youtu.be/HQR86e909aQ",
                 fountain: ""
-            },            {
+            },
+            {
                 name: "Kell-e, avagy lehet-e szabályozni a Bitcoint?",
                 img: "/pics/bitcoin-miskolc-bitcoin-szabalyzas.jpg",
                 date: "2024.10.12.",
@@ -75,7 +77,8 @@ export const presentations = [
                 topic: "",
                 yt: "https://youtu.be/S-CcS2Ax2ZA",
                 fountain: ""
-            },            {
+            },
+            {
                 name: "Bitcoin pszichológia: mit lehet elrontani, mit kell jól csinálni?",
                 img: "/pics/bitcoin-miskolc-bitcoin-pszichologia.jpg",
                 date: "2024.10.12.",
@@ -84,6 +87,25 @@ export const presentations = [
                 yt: "https://youtu.be/NMuLdbOLAuA",
                 fountain: ""
             },
+            {
+                name: "Fenntarthatóság és értékteremtés a Bitcoin ökoszisztémában",
+                img: "/pics/bitcoin-miskolc-fenntarthatosag-es-ertekteremtes.jpg",
+                date: "2024.10.12.",
+                members: ["Kata"],
+                topic: "",
+                yt: "https://youtu.be/-bMQAkkRsMk",
+                fountain: ""
+            },
+            {
+                name: "Bitcoin használata az üzleti életben",
+                img: "/pics/bitcoin-miskolc-bitcoin-hasznalata-az-uzleti-eletben.jpg",
+                date: "2024.10.13.",
+                members: ["Feri"],
+                topic: "Bitcoin az üzleti életben - Bitcoin a vállalkozásodért - Marketing érték - Megtakarítás - Hogyan kezeljük a Bitcoint a könyvelésben? - Hogyan értékeljük a Bitcoint a könyvelésben? - Bevételek és kiadások elszámolása - A Bitcoin terminál használata - Strike használata - Év végi árfolyam-értékelés - Mit csináltunk eddig? - Kérdések és válaszok",
+                yt: "https://youtu.be/hIJnJi2V43A",
+                fountain: ""
+            }
+
 
         ]
     },

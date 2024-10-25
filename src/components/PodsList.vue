@@ -7,9 +7,11 @@ import { link_simplified } from '../utils'
 <template>
     <h1>Bitcoin podcast magyarul</h1>
     <h2><a href='https://www.youtube.com/@huszonegy-bitcoin-podcast' target='_blank'>Mi az a Bitcoin?</a> podcast</h2>
+<!--
     <h3 style="margin-top: 20px;">
-        Heti rendszerességgel jelentkezünk új tartalommal.
+        Minden héten a Bitcoinról
     </h3>
+-->
     <p>
         Kizárólag Bitcoinnal foglalkozunk, és fő célunk a magyar nyelvű Bitcoin témájú tájékoztatás mennyiségének, minőségének, közérthetőségének és valóságtartalmának intenzív javítása.
     </p>
@@ -19,14 +21,14 @@ import { link_simplified } from '../utils'
                 <div class="card-body">
                     <h4 class="my-3">
                         <a :href="pod.yt" target="_blank" class="link">
-                            <img :src="pod.img" alt="Mi az a Bitcoin?" />
+                            <img :src="pod.img" :alt="pod.name" :title="pod.name" />
                         </a>
                     </h4>
                     <h5 class="top">
                         {{ pod.name }}
                     </h5>
                     <p class="small my-3 grey">
-                        {{ pod.date }}<span v-for="member in pod.members">&nbsp;<span class="dark">|</span>&nbsp;{{ member }}</span> 
+                        {{ pod.date }}&nbsp;<span class="dark">|</span>&nbsp;{{ pod.id }}<span v-for="member in pod.members">&nbsp;<span class="dark">|</span>&nbsp;{{ member }}</span>
                     </p>
                     <p class="small my-3">
                         youtube: 
@@ -56,7 +58,9 @@ import { link_simplified } from '../utils'
             <div v-for="kebab in kebabs" class="card mx-2 my-2" style="width: 20rem;">
                 <div class="card-body">
                     <h4 class="my-3">
-                        <img :src="kebab.img" alt="Bitcoin Kebab" />
+                        <a :href="kebab.yt" target="_blank" class="link">
+                            <img :src="kebab.img" :alt="kebab.name" :title="kebab.name" />
+                        </a>
                     </h4>
                     <h5 class="top">
                         {{ kebab.name }}
