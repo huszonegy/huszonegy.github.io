@@ -104,9 +104,25 @@ export const presentations = [
                 topic: "Bitcoin az üzleti életben - Bitcoin a vállalkozásodért - Marketing érték - Megtakarítás - Hogyan kezeljük a Bitcoint a könyvelésben? - Hogyan értékeljük a Bitcoint a könyvelésben? - Bevételek és kiadások elszámolása - A Bitcoin terminál használata - Strike használata - Év végi árfolyam-értékelés - Mit csináltunk eddig? - Kérdések és válaszok",
                 yt: "https://youtu.be/hIJnJi2V43A",
                 fountain: ""
+            },
+            {
+                name: "Kriptoadózási szabályok magyar magánszemélyeknek",
+                img: "/pics/bitcoin-miskolc-adozas.jpg",
+                date: "2024.10.13.",
+                members: ["Anita"],
+                topic: "Miért érdemes foglalkozni az adóval? - Milyen kripto-szabályozás érint közvetlenül bennünket Magyarországon? - Hol jár Magyarország a szabályozásban? - (Kripto)adózás Magyarországon - A „Fekete doboz” elv - Adóamnesztia - Költségek elszámolása - Adókiegyenlítés - A költségek dokumentálása - Hogyan kell adózni?",
+                yt: "https://youtu.be/-TMYZj8i-A4",
+                fountain: ""
+            },
+            {
+                name: "Bitcoin vásárlása és tárolása",
+                img: "/pics/bitcoin-miskolc-bitcoin-vasarlas.jpg",
+                date: "2024.10.13.",
+                members: ["Feri"],
+                topic: "Tárca létrehozása hardware walleten - Adatok exportja hardware walletből - Blue tárca létrehozása - Bitcoin vásárlás Revoluton - Bitcoin küldése Revolutról Strike-ra - Bitcoin küldése Strike-ról Hardware walletre - Bitcoin küldése Blink walletre - Tranzakció ellenőrzése - mempool - Bitcoin tranzakciók jutalékai",
+                yt: "https://youtu.be/MwrOONprtIM",
+                fountain: ""
             }
-
-
         ]
     },
     {
