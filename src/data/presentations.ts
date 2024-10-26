@@ -119,7 +119,7 @@ export const presentations = [
                 img: "/pics/bitcoin-miskolc-bitcoin-vasarlas.jpg",
                 date: "2024.10.13.",
                 members: ["Feri"],
-                topic: "Tárca létrehozása hardware walleten - Adatok exportja hardware walletből - Blue tárca létrehozása - Bitcoin vásárlás Revoluton - Bitcoin küldése Revolutról Strike-ra - Bitcoin küldése Strike-ról Hardware walletre - Bitcoin küldése Blink walletre - Tranzakció ellenőrzése - mempool - Bitcoin tranzakciók jutalékai",
+                topic: "Tárca létrehozása hardware walleten - Adatok exportja hardware walletből - Blue tárca létrehozása - Euro küldése Revolutról Strike-ra - Bitcoin vásárlás Strike-on - Bitcoin küldése Strike-ról hardware walletre - Bitcoin küldése Blink walletre - Tranzakció ellenőrzése - mempool - Bitcoin tranzakciók jutalékai",
                 yt: "https://youtu.be/MwrOONprtIM",
                 fountain: ""
             }
