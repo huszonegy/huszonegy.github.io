@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "Nemzetállami bitcoin bányászat",
+        id: "E37",
+        img: "/pics/mi-az-a-bitcoin-s01e37.jpg",
+        date: "2024.11.01.",
+        members: ["Tamás", "Anti", "Árpi"],
+        topic: "Konferencia élmények - Fiat pénz megjavító készülék - Bitcoin fizetés bemutató - Előadások, fb oldal - Bitcoin a német parlamentben - Satoshi-szobor leleplezés Luganoban - Microsoft, Microstrategy - Nemzetállami bitcoin bányászat - EKB: A Bitcoin elosztási következményei - Bitcoin Strategy Platform - 2050-es Vaneck prognózis, állam, terjedés",
+        yt: "https://youtu.be/XioWBmxixyw",
+        fountain: "https://fountain.fm/episode/XZyEnaR2CasSBCVXtlLR"
+    },
+    {
         name: "Egy igaz pénzügyi rendszer fontossága",
         id: "E36",
         img: "/pics/mi-az-a-bitcoin-s01e36.jpg",
