@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "DIY, Pogi, feliratozás",
+        html: "<a href='/podcast'>Podcastunkban</a> néhány szereld magad (DIY) készüléket vettünk górcső alá, majd pedig Pogátsa Zoltán 'Bitcoin és barátai' online előadását, és kommentáltuk az abban elhangzott tévedéseket, továbbá meghivatkoztunk néhány magyar felirattal frissen ellátott Bitcoin vonatkozású videót, melyeket a <a href='https://youtube.com/playlist?list=PL2mtusxzX3HJtT29NWyVy-feSf8OcRJlB&si=8ZcBHbtw-fVXFya1' target='_blank'>Bitcoin videók, mémek magyar felirattal</a> lejátszási listában szedtük csokorba.",
+        date: "2024.11.08."
+    },
+    {
         summary: "16 éves a Bitcoin tanulmány",
         html: "Ma 16 éves a Bitcoin whitepaper néven ismert tanulmány, mely egy 9-oldalas dokumentum formájában a Bitcoin működési elvét írja le részletesen. Ennek a publikálása volt Satoshi Nakamoto első megnyilvánulása. Balaxi jóvoltából <a href='/files/bitcoin_tanulmany.pdf'>magyar nyelven is olvasható</a>, sőt Anti jóvoltából <a href='https://youtu.be/Mo8e53Hv80Y' target='_blank'>hangoskönyvként is fogyasztható</a>. Nem egy könnyed olvasmány ill. hallgatmány, szóval nem ciki nem érteni, ugyanakkor óriási a jelentősége, és ezzel érdemes tisztában lenni.",
         date: "2024.10.31."

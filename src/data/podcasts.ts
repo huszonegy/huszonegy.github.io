@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "Pogátsa Zoltán Bitcoin tévedései",
+        id: "E38",
+        img: "/pics/mi-az-a-bitcoin-s01e38.jpg",
+        date: "2024.11.08.",
+        members: ["Openoms", "Anti", "Árpi"],
+        topic: "Szereld magad, bányászgép simogató - Nyílt forráskód, generikus alkatrészek - Pogátsa Zoltán: Bitcoin és barátai - Több mint kriptográfia, kapcsolat a fizikai valósággal - Cenzúraállás, Lindy-hatás, decentralizáció - Egyenlőtlen elosztás, Cantillon-hatás - Energiaigény, zöldség - Poof-of-work, proof-of-stake - Illegális tevékenységek - El Salvador, Bukele - SEEDOR - Bitcoin Mátrix mém",
+        yt: "https://youtu.be/1_ID4hliLmE",
+        fountain: "https://fountain.fm/episode/aJ68VsT0tgJBrDwMFz3T"
+    },
+    {
         name: "Nemzetállami bitcoin bányászat",
         id: "E37",
         img: "/pics/mi-az-a-bitcoin-s01e37.jpg",
