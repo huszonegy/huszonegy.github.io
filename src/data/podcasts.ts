@@ -2,6 +2,26 @@
 
 export const podcasts = [
     {
+        name: "Nostr és otthoni bitcoin bányászat",
+        id: "E40",
+        img: "/pics/mi-az-a-bitcoin-s01e40.jpg",
+        date: "2024.11.15.",
+        members: ["HenkyPenky", "Anti"],
+        topic: "Nostr, Alby Hub költési csatorna - Konferencia élmények - Miért a Nostr? Magyar relay - Alby Hub alkalmazások - noStrudel - Bitaxe bányászgép - Nukleáris energia és bitcoin bányászat - Biztonságos privát kulcs tárolás - Bitcoin Mátrix mém",
+        yt: "https://youtu.be/K_WV1rllK58",
+        fountain: "https://fountain.fm/episode/tZSurpnMXBdhSz2pKsP7"
+    },
+    {
+        name: "Pogátsa Zoltán Bitcoin tévedései ráadás",
+        id: "E39",
+        img: "/pics/mi-az-a-bitcoin-s01e39.jpg",
+        date: "2024.11.13.",
+        members: ["Anti", "Árpi"],
+        topic: "El Salvador állami bitcoin vásárlása - A bitcoin társadalmi hasznossága - Bitcoin kontra digitális jegybankpénz",
+        yt: "https://youtu.be/-06km0EFQWI",
+        fountain: "https://fountain.fm/episode/cvdyjMNhZZpKaTsl8XCw"
+    },
+    {
         name: "Pogátsa Zoltán Bitcoin tévedései",
         id: "E38",
         img: "/pics/mi-az-a-bitcoin-s01e38.jpg",
