@@ -14,6 +14,11 @@
                 <button type="button" class="btn btn-custom">Csatlakozz a csoporthoz</button>
               </a>
         </center>
+        <center>
+            <!-- QR code -->
+            <br />
+            <img src="/pics/qr_21_tgram.png" width="230" />
+        </center>
     </div>
 </template>
 

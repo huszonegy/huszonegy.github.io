@@ -22,7 +22,7 @@ npm install
 ```
 npm run dev
 ```
-Open http://localhost:5137
+Open http://localhost:5173
 
 2. Check production version locally:
 ```
