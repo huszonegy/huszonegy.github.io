@@ -7,10 +7,10 @@ import ForumExplain from '../components/ForumExplain.vue'
     <main style="width: auto;">
         <div class="row">
             <div class="col col-auto" style="max-width: 500px; width: 100%;">
-                <ForumExplain />
+                <ForumShort />
             </div>
             <div class="col col-auto" style="max-width: 500px; width: 100%;">
-                <ForumShort />
+                <ForumExplain />
             </div>
         </div>
     </main>
