@@ -122,6 +122,15 @@ export const presentations = [
                 topic: "Tárca létrehozása hardware walleten - Adatok exportja hardware walletből - Blue tárca létrehozása - Euro küldése Revolutról Strike-ra - Bitcoin vásárlás Strike-on - Bitcoin küldése Strike-ról hardware walletre - Bitcoin küldése Blink walletre - Tranzakció ellenőrzése - mempool - Bitcoin tranzakciók jutalékai",
                 yt: "https://youtu.be/MwrOONprtIM",
                 fountain: ""
+            },
+            {
+                name: "A pénz és Te az eltűnő érték világában",
+                img: "/pics/bitcoin-miskolc-a-penz-es-te.jpg",
+                date: "2024.10.13.",
+                members: ["Karo"],
+                topic: "Mi a pénz? - Korai pénzek - Fiat pénz - A pénznyomtatás következménye - Lassú elértéktelenedés - Idő preferencia - HIKIKOMORI - Spórolás - Mesterségesen generált betegség - Fogyasztható élelmiszeripari hulladékok - Gyógyszergyártóipari megújuló befektetések - Tervezett elavulás - Végeredmény",
+                yt: "https://youtu.be/LUYYXmvbmF4",
+                fountain: ""
             }
         ]
     },
