@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "Anonimitás alapjai a Bitcoin világában",
+        id: "E41",
+        img: "/pics/mi-az-a-bitcoin-s01e41.jpg",
+        date: "2024.11.22.",
+        members: ["Dávid", "Anti", "Árpi"],
+        topic: "Szoftverfejlesztés, Neo és Morpheus - Irány a nyílt forráskód - Wasabi és Ginger tárcák - Bitcoin vállalkozás indítása - Anonimitás alapvető igénye - Mennyire védettek az adataim? - Hálózati szintű és blockchain szintű anonimitás - Saját full node, Tor, IVPN - Bitcoin tranzakciók lekövetése, Coinjoin - Ginger wallet miért jó? - Bitcoin Mátrix mém",
+        yt: "https://youtu.be/72qxk0ic0gY",
+        fountain: "https://fountain.fm/episode/XEeDDQ6p2USa0pUxCsdT"
+    },
+    {
         name: "Nostr és otthoni bitcoin bányászat",
         id: "E40",
         img: "/pics/mi-az-a-bitcoin-s01e40.jpg",
