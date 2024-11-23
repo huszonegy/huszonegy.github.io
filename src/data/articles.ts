@@ -231,7 +231,29 @@ export const articles = [
         img: "/article/ma-is-forradalom-reszesei-vagyunk.png",
         cat: "bevezető",
         id: 24
+    },
+    {
+        name: "Globális verseny folyik a Bitcoinért",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "Anthony Pompliano vagyonkezelő és befektető az amerikai elnökválasztást követően kijelentette, hogy a szuverén nemzetek és kormányok közötti globális Bitcoin fegyverkezési verseny elkezdődött.",
+        link: "https://europeanbitcoiners.com/globalis-verseny-folyik-a-bitcoinert/",
+        img: "/article/globalis-verseny-folyik-a-bitcoinert.png",
+        cat: "bevezető",
+        id: 25
+    },
+    {
+        name: "Stratégiai bitcoin vásárlás",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "Jack Mallers, a Strike 30 éves CEO-ja a Bloomberg Technology kérdéseire válaszolva elmondja, hogy cége miért kizárólag Bitcoinnal foglalkozik, kiknek milyen szolgáltatásokat nyújt, valamint hogy mennyire egyedülálló lehetőség a stratégiai Bitcoin vásárlás.",
+        link: "https://europeanbitcoiners.com/strategiai-bitcoin-vasarlas/",
+        img: "/article/strategiai-bitcoin-vasarlas.png",
+        cat: "bevezető",
+        id: 26
     }
+
+
 ]
 
 // Get the articles, optionally only the last N
