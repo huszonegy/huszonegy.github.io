@@ -5,6 +5,16 @@
 
 export const news = [
     {
+        summary: "Globális verseny, stratégiai bitcoin vásárlás",
+        html: "Két új <a href='/cikkek'>cikk</a> hívja fel a figyelmet arra, ahogy amerikai bitcoinerek pénzügyi műsorokon keresztül adnak hangot azon véleményüknek, hogy a globális bitcoin tartalékolási verseny elkezdődött. Mindkettő fókuszában olyan néhány perces videó áll, melyek fontos üzenetet hordoznak, s ennek köszönhetően magyar feliratot is kaptak. Ezzel egyidőben a cikkek megjelenésének sorrendje is megváltozott, így mostantól a legfrissebb cikk kerül a lista elejére.",
+        date: "2024.11.24."
+    },
+    {
+        summary: "Nostr, anonimitás, bitcoin tárca fejlesztés",
+        html: "Bővült <a href='/podcast'>podcast</a> gyűjteményünk Nosrt, anonimitás, bitcoin tárca fejlesztés témákban, valamint újabb <a href='/eloadas'>előadás</a> anyaga vált elérhetővé 'A pénz és Te az eltűnő érték világában' címmel.",
+        date: "2024.11.23."
+    },
+    {
         summary: "DIY, Pogi, feliratozás",
         html: "<a href='/podcast'>Podcastunkban</a> néhány szereld magad (DIY) készüléket vettünk górcső alá, majd pedig Pogátsa Zoltán 'Bitcoin és barátai' online előadását, és kommentáltuk az abban elhangzott tévedéseket, továbbá meghivatkoztunk néhány magyar felirattal frissen ellátott Bitcoin vonatkozású videót, melyeket a <a href='https://youtube.com/playlist?list=PL2mtusxzX3HJtT29NWyVy-feSf8OcRJlB&si=8ZcBHbtw-fVXFya1' target='_blank'>Bitcoin videók, mémek magyar felirattal</a> lejátszási listában szedtük csokorba.",
         date: "2024.11.08."
