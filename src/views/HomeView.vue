@@ -34,6 +34,11 @@ import NewsList from '../components/NewsList.vue'
                 <button type="button" class="btn btn-custom">Csatlakozz a csoporthoz</button>
               </a>
             </center>
+            <center>
+              <!-- QR code -->
+              <br />
+              <img src="/pics/qr_21_tgram.png" width="230" />
+          </center>
           </div>
         </div>
 
@@ -41,7 +46,7 @@ import NewsList from '../components/NewsList.vue'
           <h2 class="fs-5 mx-4">
             Friss <a href="/hirek">hírek</a>
           </h2>
-          <NewsList :max_count = 2 />
+          <NewsList :max_count = 3 />
         </div>
       </div>
 
