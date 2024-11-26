@@ -8,6 +8,7 @@ import PreziView from '../views/PreziView.vue'
 import SupportView from '../views/SupportView.vue'
 import NewsView from '../views/NewsView.vue'
 import BooksView from '../views/BooksView.vue'
+import WalletsView from '../views/WalletsView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -152,6 +153,24 @@ const router = createRouter({
           {
             name: 'keywords',
             content: 'Bitcoin, magyar, könyv, könyvek, magyarul, nyelven'
+          }
+        ]
+      }
+    },
+    {
+      path: '/tarcak',
+      name: 'wallets',
+      component: WalletsView,
+      meta: {
+        title: 'Tárcák, SW, HW, eszközök',
+        metaTags: [
+          {
+            name: 'description',
+            content: 'Ajánlott tárcák, eszközök, egyebek'
+          },
+          {
+            name: 'keywords',
+            content: 'Bitcoin, tárca, wallet, ajánlás'
           }
         ]
       }
