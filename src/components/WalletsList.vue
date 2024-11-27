@@ -10,7 +10,7 @@ import { wallets } from '../data/wallets';
             <br/>
             Az egyszerűsített ajánlások nagyon szubjektívek, és messze nem tudnak figyelembe venni minden szempontot!
             <br/>
-            Nincs érdekeltségünk egyik ajánlott szolgáltatással vagy termékkel kapcsolatban.
+            Nincs érdekeltségünk egyik ajánlott szolgáltatással vagy termékkel kapcsolatban sem.
             <br/>
             Az itt felsorolt szoftver/technológiai elemzések nem befektetési tanácsok!
         </div>

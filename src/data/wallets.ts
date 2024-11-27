@@ -3,12 +3,12 @@
 export const wallets = {
     intro: "Figyelemeztetések: \
 Az egyszerűsített ajánlások nagyon szubjektívek, és messze nem tudnak figyelembe venni minden szempontot. \
-Nincs érdekeltségünk egyik ajánlott szolgáltatással vagy termékkel kapcsolatban. \
+Nincs érdekeltségünk egyik ajánlott szolgáltatással vagy termékkel kapcsolatban sem. \
 Az itt felsorolt szoftver/technológiai elemzések nem befektetési tanácsok.",
     categories: [
         {
             name: "Lightning tárcák -- önrendelkező",
-            id: "lighning-selfcustodial",
+            id: "lightning-selfcustodial",
             text: "A lightning egy elterjedt második-szintű bitcoin fizetési rendszer, gyors és olcsó utalásokat tesz lehetővé, főleg kisebb összegekre praktikus. \
 Az ún. szuverén, önredelkező (self-custodial) tárcáknál a privát kulcsok kizárólag a felhasználónál vannak, ezáltal biztonságosabbak. \
 Léteznek még letétkezelői (custodial) tárcák, ahol valójában a szolgáltató tárolja a felhasználók pénzét; itt van rizikó a szolgáltató miatt, viszont kicsit egyszerűbben használhatók.",
@@ -40,7 +40,7 @@ A letétkezelői tárcák gyszerűbbek, első ismerkedésre jobban megfelelnek, 
                     link: "https://walletofsatoshi.com/"
                 }
             ],
-            outro: "Megemlíthető még a Strike app is, bár az több mint egy Lightning tárca, hiszen fiatot (euró) is támogat."
+            outro: "Megemlíthető még a Strike app is, bár az több mint egy Lightning tárca, hiszen fiat (euró) - bitcoin átváltást is támogat. KYC szükséges."
         },
         {
             name: "Onchain tárcák -- mobilon",
