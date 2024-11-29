@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "Magyar Nemzeti Bitcoin Tartalék",
+        id: "E42",
+        img: "/pics/mi-az-a-bitcoin-s01e42.jpg",
+        date: "2024.11.29.",
+        members: ["Feri", "Anti"],
+        topic: "Szembeszél után hátszél - Intézményi befektetők - Nemzeti Bitcoin Tartalék javaslat - Államadósság-csökkentési számítás - Nemzetállami bitcoin tanácsadás - Energetikai mintapélda és javaslat - Satoshi Foundation és nemzetállamok - Véges készlet, megugró kereslet - Tartalékolj bitcoinban! - Jack Mallers: Stratégiai bitcoin vásárlás",
+        yt: "https://youtu.be/YpbLeJXmSDQ",
+        fountain: "https://fountain.fm/episode/ICBihixPCBUuvbeutedl"
+    },
+    {
         name: "Anonimitás alapjai a Bitcoin világában",
         id: "E41",
         img: "/pics/mi-az-a-bitcoin-s01e41.jpg",
