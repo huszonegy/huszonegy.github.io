@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Bitcoin fejlesztés, Nemzeti Bitcoin Tartalék javaslat",
+        html: "<a href='/podcast'>Podcastunk</a> két legutóbbi adásában egyrészt a Bitcoin fejlesztésről illetve magukról a Bitcoin fejlesztőkről beszélgettünk, másrészt pedig javaslatot tettünk Nemzeti Bitcoin Tartalék kialakítására, melyet kiegészítettünk egy államadósság-csökkentési számítással, nem utolsó sorban pedig bitcoinban való megtakarításra biztatunk mindenkit.",
+        date: "2024.12.06."
+    },
+    {
         summary: "Globális verseny, stratégiai bitcoin vásárlás",
         html: "Két új <a href='/cikkek'>cikk</a> hívja fel a figyelmet arra, ahogy amerikai bitcoinerek pénzügyi műsorokon keresztül adnak hangot azon véleményüknek, hogy a globális bitcoin tartalékolási verseny elkezdődött. Mindkettő fókuszában olyan néhány perces videó áll, melyek fontos üzenetet hordoznak, s ennek köszönhetően magyar feliratot is kaptak. Ezzel egyidőben a cikkek megjelenésének sorrendje is megváltozott, így mostantól a legfrissebb cikk kerül a lista elejére.",
         date: "2024.11.24."
