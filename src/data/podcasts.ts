@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "Bitcoin fejlesztők és a bitcoin fejlesztés",
+        id: "E43",
+        img: "/pics/mi-az-a-bitcoin-s01e43.jpg",
+        date: "2024.12.06.",
+        members: ["l0rinc", "Anti"],
+        topic: "A bitcoin gyökerei és születése - Kezdeti hibák, támadások, javítások - Konszenzus - Folytonos fejlesztés szükségessége, gyakorlata - Soft fork, hard fork - Core dev, immunrendszer, önállóság, szponzorálás - Feladatok, kihívások, támadási felületek, felelősség - Hozzájárulás nyílt forráskódú projekthez - Michael Saylor: Take Me To The Moon",
+        yt: "https://youtu.be/-C9S4HpsaHc",
+        fountain: "https://fountain.fm/episode/OGvuXvyI9Y2uRq3aH4Ew"
+    },
+    {
         name: "Magyar Nemzeti Bitcoin Tartalék",
         id: "E42",
         img: "/pics/mi-az-a-bitcoin-s01e42.jpg",
