@@ -2,7 +2,7 @@
 
 export const podcasts = [
     {
-        name: "Bitcoin fejlesztők és a bitcoin fejlesztés",
+        name: "Bitcoin fejlesztők és a bitcoin fejlesztése",
         id: "E43",
         img: "/pics/mi-az-a-bitcoin-s01e43.jpg",
         date: "2024.12.06.",
