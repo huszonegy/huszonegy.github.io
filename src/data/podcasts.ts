@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "A tömegeknek kell megérteni a Bitcoin mondanivalóját",
+        id: "E44",
+        img: "/pics/mi-az-a-bitcoin-s01e44.jpg",
+        date: "2024.12.13.",
+        members: ["Anti", "Kata"],
+        topic: "Bitcoin Mena konferencia - A Bitcoin a politika felett áll - Minden a pénzről szól - Nem képviselik az emberek érdekeit - A tömegeknek kell megérteni a Bitcoin mondanivalóját - Összefogás, a világ fordul, egymásra figyelés - Mi az, amiben még hazudtak nekünk? Miben nem? - Visszatekintés",
+        yt: "https://youtu.be/OPpCfUkTRzQ",
+        fountain: "https://fountain.fm/episode/G5gbyzh5ZwEWWXA2I83y"
+    },
+    {
         name: "Bitcoin fejlesztők és a bitcoin fejlesztése",
         id: "E43",
         img: "/pics/mi-az-a-bitcoin-s01e43.jpg",
