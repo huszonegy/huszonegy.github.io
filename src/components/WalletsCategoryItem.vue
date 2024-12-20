@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { link_simplified } from '../utils'
 
 // Category data
 defineProps<{
@@ -12,7 +13,13 @@ defineProps<{
             <a :href="item.link" target="_blank">{{ item.name }}</a>
         </h4>
         <div class="card.body">
-            {{ item.text }}
+            <div>
+                {{ item.text }}
+            </div>
+            <br/>
+            <div>
+                <a :href="item.link" target="_blank" class="link small">{{ link_simplified(item.link) }}</a>
+            </div>
         </div>
     </div>
 </template>

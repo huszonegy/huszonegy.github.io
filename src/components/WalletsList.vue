@@ -5,8 +5,8 @@ import { wallets } from '../data/wallets';
 
 <template>
     <div name="wallets-list" class="container-flex py-3">
-        <div class="py-1 px-1">
-            <strong>Figyelemeztetések:</strong>
+        <div class="py-1 px-1" style="font-style: italic;">
+            <strong>Figyelmeztetések:</strong>
             <br/>
             Az egyszerűsített ajánlások nagyon szubjektívek, és messze nem tudnak figyelembe venni minden szempontot!
             <br/>
@@ -15,7 +15,7 @@ import { wallets } from '../data/wallets';
             Az itt felsorolt szoftver/technológiai elemzések nem befektetési tanácsok!
         </div>
         <!-- contents -->
-        <div class="py-1 px-1">
+        <div class="py-3 px-1">
             <h2>Kategóriák:</h2>
             <!-- loop is a bit tricker than simple `in wallets.categories` to be able to print index number as well -->
             <div v-for="idx in Array.from(Array(wallets.categories.length).keys())">
