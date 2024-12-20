@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "Peer-to-peer bitcoin fedezetű hitel",
+        id: "E45",
+        img: "/pics/mi-az-a-bitcoin-s01e45.jpg",
+        date: "2024.12.20.",
+        members: ["Roli", "Openoms", "Árpi"],
+        topic: "JAN3 nyereményjáték január 3-ig - Peer-to-peer bitcoin fedezetű hitel bevezető - Firefish technikai háttér, Loan-To-Value - Biztonságos letét menedzselés - Kedvező euro befektetés, okosszerződés - Megfontolt eszköz őrzés, észszerű hiteligénylés - HUSZONEGY Firefish kedvezmény kód, honlap magyarítás - Ne adjátok el a bitcoint!",
+        yt: "https://youtu.be/sdvxqskHOjs",
+        fountain: "https://fountain.fm/episode/ohksFGl7zrSOTWqjhKax"
+    },
+    {
         name: "A tömegeknek kell megérteni a Bitcoin mondanivalóját",
         id: "E44",
         img: "/pics/mi-az-a-bitcoin-s01e44.jpg",
