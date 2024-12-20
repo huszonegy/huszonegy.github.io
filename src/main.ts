@@ -3,11 +3,11 @@
 
 import { createApp } from 'vue'
 import App from './App.vue'
-import router from './router'
+import { createSSRRouter } from './router';
 
 // Bootstrap stuff:
 // Import our custom CSS
-import './scss/styles.scss'
+import '/scss/styles.scss'
 // Import all of Bootstrap's JS
 import * as bootstrap from 'bootstrap'
 // sample to import individual components
@@ -16,7 +16,10 @@ import * as bootstrap from 'bootstrap'
 // import { Tooltip, Toast, Popover } from 'bootstrap';
 
 const app = createApp(App)
+const router = createSSRRouter();
 
 app.use(router)
 
-app.mount('#app')
+router.isReady().then(() => {
+    app.mount('#app');
+});

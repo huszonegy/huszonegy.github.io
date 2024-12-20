@@ -6,7 +6,6 @@ import TopNav from './components/TopNav.vue'
 </script>
 
 <template>
-  <header>
 
     <div class="wholepage">
       <TopNav />
@@ -18,7 +17,6 @@ import TopNav from './components/TopNav.vue'
       <Footer />
     </div>
 
-  </header>
 </template>
 
 

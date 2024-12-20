@@ -29,16 +29,16 @@ import NewsList from '../components/NewsList.vue'
               </a>
               nyitott, bárki csatlakozhat, akit érdekel a Bitcoinnal kapcsolatos magyar nyelvű kommunikáció. Egyetlen szabályunk, hogy a csoporton belül csak Bitcoinról kommunikálunk magyar nyelven.
             </p>
-            <center>
+            <p>
               <a href="https://t.me/huszonegy" target="_blank">
                 <button type="button" class="btn btn-custom">Csatlakozz a csoporthoz</button>
               </a>
-            </center>
-            <center>
+            </p>
+            <p>
               <!-- QR code -->
               <br />
               <img src="/pics/qr_21_tgram.png" width="230" />
-          </center>
+            </p>
           </div>
         </div>
 

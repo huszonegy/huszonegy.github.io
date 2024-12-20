@@ -1,18 +1,22 @@
-import { createRouter, createWebHistory } from 'vue-router'
-import HomeView from '../views/HomeView.vue'
-import ForumView from '../views/ForumView.vue'
-import ArticlesView from '../views/ArticlesView.vue'
-import LinksView from '../views/LinksView.vue'
-import PodsView from '../views/PodsView.vue'
-import PreziView from '../views/PreziView.vue'
-import SupportView from '../views/SupportView.vue'
-import NewsView from '../views/NewsView.vue'
-import BooksView from '../views/BooksView.vue'
-import WalletsView from '../views/WalletsView.vue'
-
-const router = createRouter({
-  history: createWebHistory(import.meta.env.BASE_URL),
-  routes: [
+import {
+    createRouter,
+    createMemoryHistory,
+    createWebHistory,
+    type RouteRecordRaw,
+  } from 'vue-router';
+  import HomeView from '../views/HomeView.vue';
+  import ForumView from '../views/ForumView.vue';
+  import ArticlesView from '../views/ArticlesView.vue';
+  import LinksView from '../views/LinksView.vue';
+  import PodsView from '../views/PodsView.vue';
+  import PreziView from '../views/PreziView.vue';
+  import SupportView from '../views/SupportView.vue';
+  import NewsView from '../views/NewsView.vue';
+  import BooksView from '../views/BooksView.vue';
+  import WalletsView from '../views/WalletsView.vue';
+  
+  // Define the routes
+  const routes: RouteRecordRaw[] = [
     {
       path: '/',
       name: 'home',
@@ -22,14 +26,15 @@ const router = createRouter({
         metaTags: [
           {
             name: 'description',
-            content: 'HUSZONEGY - Csak Bitcoinról magyarul. Magyar bitcoinerek összefogása.'
+            content: 'HUSZONEGY - Csak Bitcoinról magyarul. Magyar bitcoinerek összefogása.',
           },
           {
             name: 'keywords',
-            content: 'Bitcoin, magyar, Hungarian, huszonegy, magyarul, Bitcoinról, bitcoinerek, összefogás'
-          }
-        ]
-      }
+            content:
+              'Bitcoin, magyar, Hungarian, huszonegy, magyarul, Bitcoinról, bitcoinerek, összefogás',
+          },
+        ],
+      },
     },
     {
       path: '/cikkek',
@@ -40,14 +45,14 @@ const router = createRouter({
         metaTags: [
           {
             name: 'description',
-            content: 'Cikkek Bitcoinról magyarul'
+            content: 'Cikkek Bitcoinról magyarul',
           },
           {
             name: 'keywords',
-            content: 'Bitcoin, magyar, cikk, cikkek, magyarul, Bitcoinról'
-          }
-        ]
-      }
+            content: 'Bitcoin, magyar, cikk, cikkek, magyarul, Bitcoinról',
+          },
+        ],
+      },
     },
     {
       path: '/forum',
@@ -58,14 +63,14 @@ const router = createRouter({
         metaTags: [
           {
             name: 'description',
-            content: 'Magyar nyelvű Bitcoin csoport'
+            content: 'Magyar nyelvű Bitcoin csoport',
           },
           {
             name: 'keywords',
-            content: 'Bitcoin, magyar, csoport, magyarul'
-          }
-        ]
-      }
+            content: 'Bitcoin, magyar, csoport, magyarul',
+          },
+        ],
+      },
     },
     {
       path: '/linkek',
@@ -76,14 +81,14 @@ const router = createRouter({
         metaTags: [
           {
             name: 'description',
-            content: 'Magyar Bitcoin Linkek'
+            content: 'Magyar Bitcoin Linkek',
           },
           {
             name: 'keywords',
-            content: 'Bitcoin, magyar, link, linkek, magyarul'
-          }
-        ]
-      }
+            content: 'Bitcoin, magyar, link, linkek, magyarul',
+          },
+        ],
+      },
     },
     {
       path: '/hirek',
@@ -94,14 +99,14 @@ const router = createRouter({
         metaTags: [
           {
             name: 'description',
-            content: 'Bitcoin hírek magyarul'
+            content: 'Bitcoin hírek magyarul',
           },
           {
             name: 'keywords',
-            content: 'Bitcoin, magyar, hír, hírek, magyarul'
-          }
-        ]
-      }
+            content: 'Bitcoin, magyar, hír, hírek, magyarul',
+          },
+        ],
+      },
     },
     {
       path: '/podcast',
@@ -112,14 +117,14 @@ const router = createRouter({
         metaTags: [
           {
             name: 'description',
-            content: 'Magyar Bitcoin podcast'
+            content: 'Magyar Bitcoin podcast',
           },
           {
             name: 'keywords',
-            content: 'Bitcoin, magyar, podcast, beszélgetés, magyarul'
-          }
-        ]
-      }
+            content: 'Bitcoin, magyar, podcast, beszélgetés, magyarul',
+          },
+        ],
+      },
     },
     {
       path: '/eloadas',
@@ -130,14 +135,14 @@ const router = createRouter({
         metaTags: [
           {
             name: 'description',
-            content: 'Bitcoin előadás magyarul'
+            content: 'Bitcoin előadás magyarul',
           },
           {
             name: 'keywords',
-            content: 'Bitcoin, magyar, előadás, prezentáció, magyarul'
-          }
-        ]
-      }
+            content: 'Bitcoin, magyar, előadás, prezentáció, magyarul',
+          },
+        ],
+      },
     },
     {
       path: '/konyvek',
@@ -148,14 +153,14 @@ const router = createRouter({
         metaTags: [
           {
             name: 'description',
-            content: 'Bitcoin könyvek magyar nyelven'
+            content: 'Bitcoin könyvek magyar nyelven',
           },
           {
             name: 'keywords',
-            content: 'Bitcoin, magyar, könyv, könyvek, magyarul, nyelven'
-          }
-        ]
-      }
+            content: 'Bitcoin, magyar, könyv, könyvek, magyarul, nyelven',
+          },
+        ],
+      },
     },
     {
       path: '/tarcak',
@@ -166,14 +171,14 @@ const router = createRouter({
         metaTags: [
           {
             name: 'description',
-            content: 'Ajánlott tárcák, eszközök, egyebek'
+            content: 'Ajánlott tárcák, eszközök, egyebek',
           },
           {
             name: 'keywords',
-            content: 'Bitcoin, tárca, wallet, ajánlás'
-          }
-        ]
-      }
+            content: 'Bitcoin, tárca, wallet, ajánlás',
+          },
+        ],
+      },
     },
     {
       path: '/tamogatas',
@@ -184,68 +189,28 @@ const router = createRouter({
         metaTags: [
           {
             name: 'description',
-            content: 'Bitcoin önkéntesek támogatása'
+            content: 'Bitcoin önkéntesek támogatása',
           },
           {
             name: 'keywords',
-            content: 'Bitcoin, magyar, támogatás, önkéntes, támogat'
-          }
-        ]
-      }
+            content: 'Bitcoin, magyar, támogatás, önkéntes, támogat',
+          },
+        ],
+      },
     },
     {
       path: '/support',
-      redirect: '/tamogatas'
-    }
-  ]
-})
-
-// source: https://www.digitalocean.com/community/tutorials/vuejs-vue-router-modify-head
-// modified here and there by pesz
-
-// This callback runs before every route change, including on page load.
-router.beforeEach((to, from, next) => {
-  // This goes through the matched routes from last to first, finding the closest route with a title.
-  // e.g., if we have `/some/deep/nested/route` and `/some`, `/deep`, and `/nested` have titles,
-  // `/nested`'s will be chosen.
-  const nearestWithTitle = to.matched.slice().reverse().find(r => r.meta && r.meta.title);
-
-  // Find the nearest route element with meta tags.
-  const nearestWithMeta = to.matched.slice().reverse().find(r => r.meta && r.meta.metaTags);
-
-  const previousNearestWithMeta = from.matched.slice().reverse().find(r => r.meta && r.meta.metaTags);
-
-  // If a route with a title was found, set the document (page) title to that value.
-  if (nearestWithTitle) {
-    document.title = nearestWithTitle.meta.title as string;
-  } else if (previousNearestWithMeta) {
-    document.title = previousNearestWithMeta.meta.title as string;
-  }
-
-  // Remove any stale meta tags from the document using the key attribute we set below.
-  Array.from(document.querySelectorAll('[data-vue-router-controlled]')).map(el => el.parentNode?.removeChild(el));
-
-  // Skip rendering meta tags if there are none.
-  if (!nearestWithMeta) return next();
-
-  // Turn the meta tag definitions into actual elements in the head.
-  const metaArray = nearestWithMeta.meta.metaTags as Array<String>;
-  metaArray.map(tagDef => {
-    const tag = document.createElement('meta');
-
-    Object.keys(tagDef).forEach(key => {
-      tag.setAttribute(key, tagDef[key as keyof typeof nearestWithMeta.meta.metaTags]);
+      redirect: '/tamogatas',
+    },
+  ];
+  
+  // createSSRRouter() function to create a router instance
+  export function createSSRRouter() {
+    return createRouter({
+      history: import.meta.env.SSR
+        ? createMemoryHistory() // Server-side
+        : createWebHistory(import.meta.env.BASE_URL), // Client-side
+      routes,
     });
-
-    // We use this to track which meta tags we create so we don't interfere with other ones.
-    tag.setAttribute('data-vue-router-controlled', '');
-
-    return tag;
-  })
-  // Add the meta tags to the document head.
-  .forEach(tag => document.head.appendChild(tag));
-
-  next();
-});
-
-export default router
+  }
+  

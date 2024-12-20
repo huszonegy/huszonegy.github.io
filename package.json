@@ -5,27 +5,35 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "run-p type-check \"build-only {@}\" --",
     "preview": "vite preview",
     "build-only": "vite build",
-    "type-check": "vue-tsc --build --force"
+    "type-check": "vue-tsc --build --force",
+    "build:client": "vite build --mode client",
+    "build:ssr": "vite build --mode ssr",
+    "build": "npm run build:client && npm run build:ssr && cp server.js dist/server.js",
+    "serve": "node dist/server.js"
   },
   "dependencies": {
     "@popperjs/core": "^2.11.8",
-    "bootstrap": "^5.3.2",
+    "bootstrap": "^5.3.3",
+    "express": "^4.21.2",
+    "ts-node": "^10.9.2",
+    "vite-plugin-html": "^3.2.2",
+    "vite-plugin-ssr": "^0.4.142",
     "vue": "^3.3.11",
     "vue-router": "^4.2.5"
   },
   "devDependencies": {
     "@tsconfig/node18": "^18.2.2",
     "@types/bootstrap": "^5.2.10",
-    "@types/node": "^18.19.3",
+    "@types/express": "^5.0.0",
+    "@types/node": "^18.19.68",
     "@vitejs/plugin-vue": "^4.5.2",
     "@vue/tsconfig": "^0.5.0",
     "npm-run-all2": "^6.1.1",
-    "sass": "^1.70.0",
+    "sass": "^1.83.0",
     "typescript": "~5.3.0",
-    "vite": "^5.0.10",
+    "vite": "^5.4.11",
     "vue-tsc": "^2.1.6"
   }
 }
