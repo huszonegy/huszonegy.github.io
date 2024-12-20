@@ -8,7 +8,7 @@ defineProps<{
 </script>
 
 <template>
-    <div :id="cat.id" class="py-3 px-1">
+    <div :id="cat.id" class="py-4 px-1">
         <h3>
             {{ cat.name }}
         </h3>
