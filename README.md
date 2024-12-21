@@ -30,7 +30,13 @@ npm run build && npm run preview
 ```
 Open http://localhost:4137
 
-3. Build for deploy:
+3. Serve SSR server on localhost:3000:
+```
+npm run serve
+```
+Open http://localhost:3000
+
+4. Build for deploy:
 ```
 npm run build
 ```
