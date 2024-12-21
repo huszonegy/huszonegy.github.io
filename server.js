@@ -40,6 +40,7 @@ app.use('/logo', express.static(path.resolve(__dirname, './client/logo')));
 app.use('/article', express.static(path.resolve(__dirname, './client/article')));
 app.use('/pics', express.static(path.resolve(__dirname, './client/pics')));
 app.use('/books', express.static(path.resolve(__dirname, './client/books')));
+app.use('/index.js', express.static(path.resolve(__dirname, './client/index.js')));
 
 
 app.get('*', async (req, res) => {
