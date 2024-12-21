@@ -14,25 +14,25 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link" href="/forum">Fórum</a>
+                        <router-link class="nav-link" to="/forum">Fórum</router-link>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/hirek">Hír</a>
+                        <router-link class="nav-link" to="/hirek">Hír</router-link>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/cikkek">Cikk</a>
+                        <router-link class="nav-link" to="/cikkek">Cikk</router-link>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/podcast">Podcast</a>
+                        <router-link class="nav-link" to="/podcast">Podcast</router-link>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/eloadas">Előadás</a>
+                        <router-link class="nav-link" to="/eloadas">Előadás</router-link>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/konyvek">Könyv</a>
+                        <router-link class="nav-link" to="/konyvek">Könyv</router-link>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/tarcak">Tárcák</a>
+                        <router-link class="nav-link" to="/tarcak">Tárcák</router-link>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
@@ -49,10 +49,10 @@
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/tamogatas">Támogatás</a>
+                        <router-link class="nav-link" to="/tamogatas">Támogatás</router-link>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/linkek">Link</a>
+                        <router-link class="nav-link" to="/linkek">Link</router-link>
                     </li>
                 </ul>
             </div>
