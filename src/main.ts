@@ -23,4 +23,28 @@ app.use(router);
 
 router.isReady().then(() => {
   app.mount("#app");
+
+  // Dynamically import Bootstrap JS after hydration
+  if (typeof window !== 'undefined') {
+    import('bootstrap').then((bootstrap) => {
+      const { Collapse } = bootstrap;
+
+      // Close navbar collapse menu on route change
+      router.afterEach(() => {
+        const navbarCollapse = document.querySelector('.navbar-collapse');
+        if (navbarCollapse) {
+          const bsCollapse = Collapse.getInstance(navbarCollapse);
+          if (bsCollapse) {
+            bsCollapse.hide();
+          }
+        }
+
+        // Close dropdown menus
+        const dropdownMenus = document.querySelectorAll('.dropdown-menu.show');
+        dropdownMenus.forEach((menu) => {
+          menu.classList.remove('show');
+        });
+      });
+    });
+  }
 });
