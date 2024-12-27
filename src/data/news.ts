@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Bitcoin fedezetű hitel, tömeges megértés, JAN3 játék, felirat",
+        html: "Az év utolsó két <a href='/podcast'>podcast</a> epizódjának fő témája a bitcoin fedezetű hitelek és a bitcoin tömeges megértésének szükségessége voltak, röviden visszatekintettünk a mögöttünk hagyott egy év 45 epizódjára, valamint elindítottunk egy január 3-ig tartó támogatói nyereményjátékot, mely során 3 db JAN3 logós Jade hardver tárca és 10 db webkamera takaró talál gazdára.<br/><br/>Továbbá publikáltunk egy újabb magyar feliratos rövid videót, mely a <a href='https://youtube.com/playlist?list=PL2mtusxzX3HJtT29NWyVy-feSf8OcRJlB' target='_blank'>Bitcoin videók magyar felirattal</a> lejátszási listát gazdagítja.",
+        date: "2024.12.27."
+    },
+    {
         summary: "Bitcoin fejlesztés, Nemzeti Bitcoin Tartalék javaslat",
         html: "<a href='/podcast'>Podcastunk</a> két legutóbbi adásában egyrészt a Bitcoin fejlesztésről illetve magukról a Bitcoin fejlesztőkről beszélgettünk, másrészt pedig javaslatot tettünk Nemzeti Bitcoin Tartalék kialakítására, melyet kiegészítettünk egy államadósság-csökkentési számítással, nem utolsó sorban pedig bitcoinban való megtakarításra biztatunk mindenkit.",
         date: "2024.12.06."
@@ -21,7 +26,7 @@ export const news = [
     },
     {
         summary: "DIY, Pogi, feliratozás",
-        html: "<a href='/podcast'>Podcastunkban</a> néhány szereld magad (DIY) készüléket vettünk górcső alá, majd pedig Pogátsa Zoltán 'Bitcoin és barátai' online előadását, és kommentáltuk az abban elhangzott tévedéseket, továbbá meghivatkoztunk néhány magyar felirattal frissen ellátott Bitcoin vonatkozású videót, melyeket a <a href='https://youtube.com/playlist?list=PL2mtusxzX3HJtT29NWyVy-feSf8OcRJlB&si=8ZcBHbtw-fVXFya1' target='_blank'>Bitcoin videók, mémek magyar felirattal</a> lejátszási listában szedtük csokorba.",
+        html: "<a href='/podcast'>Podcastunkban</a> néhány szereld magad (DIY) készüléket vettünk górcső alá, majd pedig Pogátsa Zoltán 'Bitcoin és barátai' online előadását, és kommentáltuk az abban elhangzott tévedéseket, továbbá meghivatkoztunk néhány magyar felirattal frissen ellátott Bitcoin vonatkozású videót, melyeket a <a href='https://youtube.com/playlist?list=PL2mtusxzX3HJtT29NWyVy-feSf8OcRJlB' target='_blank'>Bitcoin videók magyar felirattal</a> lejátszási listában szedtük csokorba.",
         date: "2024.11.08."
     },
     {
