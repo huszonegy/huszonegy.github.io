@@ -19,9 +19,15 @@ Léteznek még letétkezelői (custodial) tárcák, ahol valójában a szolgált
                     name: "Breez",
                     text: "Self-custodial lightning tárca, mobilon futó teljes lightning node, saját csatorna-kezelés lehetőséggel",
                     link: "https://breez.technology/mobile/"
+                },
+                {
+                    name: "Zeus",
+                    text: "A Zeus egy sokoldalú lightning tárca, gyakran 'távirányító appként' használják egy szerveren futó saját node kezeléséhez. De ezen túl képes helyben futó nodeként is működni, akár saját csatorna kezeléssel, akár a Zeus LSP-jét használva.",
+                    link: "https://zeusln.com/"
                 }
+
             ],
-            outro: "Léteznek ú.n. teljes node tárcák is, ahol a felhasználó kell foglalkozzon a csatorna kezeléssel, de ezeket csak tapasztalt felhasználóknak ajánljuk (pl. Blixt)."
+            outro: "Az olyan tárcákat, ahol mi magunk kell a csatornákat kezeljük, csak azoknak ajánljuk, akik már járatossabbak a Lightningban. Említésre méltó még: Blixt."
         },
         {
             name: "Lightning tárcák -- szolgáltatói",
@@ -62,7 +68,7 @@ Szempontok: jó ha egy tárca: nyílt forráskódú (FOSS), és kizárólag bitc
                 },
                 {
                     name: "Nunchuk",
-                    text: "Modern tárca app, erőssége a több-eszközös védelem (multisig)",
+                    text: "Modern tárca app, erőssége a több-eszközös védelem (multidevice/multisig), illetve jól együttműködik hardver tárcákkal.",
                     link: "https://nunchuk.io/"
                 }
             ]
