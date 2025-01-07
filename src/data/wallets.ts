@@ -4,6 +4,27 @@ export const wallets = {
     intro: "",
     categories: [
         {
+            name: "Lightning tárcák -- szolgáltatói",
+            id: "lighning-custodial",
+            text: "A lightning egy elterjedt második-szintű (L2) bitcoin fizetési rendszer, gyors és olcsó utalásokat tesz lehetővé, főleg kisebb összegekre praktikus. \
+A letétkezelői (custodial) tárcáknál valójában a szolgáltató tárolja a felhasználók satoshijait, ezért meg kell bízni bennük. \
+Léteznek még ún. szuverén (self-custodial) tárcák, ahol a privát kulcsok a felhasználónál vannak, ezért biztonságosabbak. \
+A letétkezelői tárcák egyszerűbbek, első ismerkedésre jobban megfelelnek, de szigorúan CSAK KISEBB ÖSSZEGEKKEL ajánljuk!",
+            items: [
+                {
+                    name: "Blink",
+                    text: "Könnyen használható, sok funkcióval bíró mobil app; salvadori központú cég áll mögötte, nem szükséges KYC; elérhető magyar felülettel is; hasznos kvízt is foglal magában.",
+                    link: "https://blink.sv/"
+                },
+                {
+                    name: "Wallet of Satoshi",
+                    text: "Könnyen használható, népszerű mobil app, alap funckiókkal; a cégről kevés információ ismert, nem szükséges KYC.",
+                    link: "https://walletofsatoshi.com/"
+                }
+            ],
+            outro: "Megemlíthető még a Strike app is, bár az több mint egy Lightning tárca, hiszen fiat (euró) - bitcoin átváltást is támogat. KYC szükséges."
+        },
+        {
             name: "Lightning tárcák -- önrendelkező",
             id: "lightning-selfcustodial",
             text: "A lightning egy elterjedt második-szintű (L2) bitcoin fizetési rendszer, gyors és olcsó utalásokat tesz lehetővé, főleg kisebb összegekre praktikus. \
@@ -28,27 +49,6 @@ Léteznek még letétkezelői (custodial) tárcák, ahol valójában a szolgált
 
             ],
             outro: "Az olyan tárcákat, ahol mi magunk kell a csatornákat kezeljük, csak azoknak ajánljuk, akik már járatossabbak a Lightningban. Említésre méltó még: Blixt."
-        },
-        {
-            name: "Lightning tárcák -- szolgáltatói",
-            id: "lighning-custodial",
-            text: "A lightning egy elterjedt második-szintű (L2) bitcoin fizetési rendszer, gyors és olcsó utalásokat tesz lehetővé, főleg kisebb összegekre praktikus. \
-A letétkezelői (custodial) tárcáknál valójában a szolgáltató tárolja a felhasználók satoshijait, ezért meg kell bízni bennük. \
-Léteznek még ún. szuverén (self-custodial) tárcák, ahol a privát kulcsok a felhasználónál vannak, ezért biztonságosabbak. \
-A letétkezelői tárcák gyszerűbbek, első ismerkedésre jobban megfelelnek, de szigorúan csak kisebb összegekkel ajánljuk!",
-            items: [
-                {
-                    name: "Blink",
-                    text: "Könnyen használható, sok funkcióval bíró mobil app; salvadori központú cég áll mögötte, nem szükséges KYC; elérhető magyar felülettel is; hasznos kvízt is foglal magában.",
-                    link: "https://blink.sv/"
-                },
-                {
-                    name: "Wallet of Satoshi",
-                    text: "Könnyen használható, népszerű mobil app, alap funckiókkal; a cégről kevés információ ismert, nem szükséges KYC.",
-                    link: "https://walletofsatoshi.com/"
-                }
-            ],
-            outro: "Megemlíthető még a Strike app is, bár az több mint egy Lightning tárca, hiszen fiat (euró) - bitcoin átváltást is támogat. KYC szükséges."
         },
         {
             name: "Onchain tárcák -- mobilon",
@@ -107,23 +107,23 @@ Több haladó opciója van, profiknak ajánlott, kezdőknek nem feltétlenül a 
                     link: "https://blockstream.com/jade/"
                 },
                 {
-                    name: "BitBox",
-                    text: "Egy igényes kis eszköz Svájcból.",
-                    link: "https://bitbox.swiss/bitbox02/"
-                },
-                {
                     name: "BitKey (3)",
                     text: "A Block rendhagyó válasza a hardver tárca problémára: self-custodial de gyakorlatilag elveszthetetlen (mert a kütyü-mobilapp-szolgáltató hármasból kettő is elég a visszaállításhoz). \
 Mindez egy nagyobacska kavics kinézetű érekes kis eszközben.",
                     link: "https://bitkey.build/"
                 },
                 {
-                    name: "SeedSigner DIY",
+                    name: "BitBox",
+                    text: "Egy igényes kis eszköz Svájcból.",
+                    link: "https://bitbox.swiss/bitbox02/"
+                },
+                {
+                    name: "SeedSigner (DIY)",
                     text: "Általános célú alkatrészekből összerakható, Raspberry Zero alapú olcsó eszköz. Csináld magad, vagy vedd meg készen. Nem tárolja el a titkokat, így kilopni sem lehet belőle, viszont minden alkalommal be kell azt vinni.",
                     link: "https://seedsigner.com/"
                 },
                 {
-                    name: "Specter DIY",
+                    name: "Specter (DIY)",
                     text: "Csináld-magad hardver eszköz, nagy érintőképernyővel, kiegészítőkkel és sokoldalú szoftverrel.",
                     link: "https://specter.solutions/hardware/index.html"
                 },
@@ -132,7 +132,8 @@ Mindez egy nagyobacska kavics kinézetű érekes kis eszközben.",
                     text: "Egy népszerű eszköz az egyik első hardver tárca gyártótól, Csehországból.",
                     link: "https://trezor.io/"
                 }
-            ]
+            ],
+            outro: "Amit NEM AJÁNLUNK: Ledger, Tangem."
         },
         {
             name: "Bitcoin csomópontok (node)",

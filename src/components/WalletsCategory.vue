@@ -18,7 +18,7 @@ defineProps<{
         <div class="row">
             <WalletsCategoryItem v-for="item in cat.items" :item="item" class="card mx-2 my-2" style="width: 25rem;" />
         </div>
-        <div>
+        <div class="py-1 px-1">
             {{ cat.outro }}
         </div>
     </div>
