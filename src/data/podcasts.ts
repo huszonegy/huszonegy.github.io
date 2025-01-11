@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "16 éves a Bitcoin - Jade tárca ajándékozás és ismertetés",
+        id: "E46",
+        img: "/pics/mi-az-a-bitcoin-e46.jpg",
+        date: "2025.01.10.",
+        members: ["Anti", "Tamás", "Árpi"],
+        topic: "4-éves ciklusok, MSTR - Nemzetállami Bitcoin stratégia - Megdől a ciklus teória? - MNB a Bitcoinról - 16 éves Bitcoin történelem - Jade bitcoin tárca oktatóvideó készítés - JAN3 nyereményjáték eredmény - Jade hardver tárca beüzemelés",
+        yt: "https://youtu.be/JR-_0YXRKKg",
+        fountain: "https://fountain.fm/episode/z2Rhc6UIZam84HZoThnH"
+    },
+    {
         name: "Peer-to-peer bitcoin fedezetű hitel",
         id: "E45",
         img: "/pics/mi-az-a-bitcoin-s01e45.jpg",
