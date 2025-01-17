@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "",
+        html: "Újabb videókkal bővült a <a href='https://youtube.com/playlist?list=PL2mtusxzX3HJtT29NWyVy-feSf8OcRJlB' target='_blank'>Bitcoin videók magyar felirattal</a> lejátszási lista, többek között az <a href='https://youtu.be/IamoZ0f1dlU' target='_blank'>Isten, áldd meg a Bitcoint</a> 90 perces dokumentumfilmmel, mely mélyen belemerül a Bitcoin erkölcsi és etikai aspektusaiba, valamint abba, hogy milyen hatással lehet a világra ez a pénz.<br/><br/>Youtube csatornánk egy <a href='https://youtu.be/wyIY89yrGZU' target='_blank'>Jade tárca oktatóvideóval</a> is bővült, illetve újabb <a href='/podcast'>podcast</a> adásokkal, melyekben a Travel Rule, a MiCA szabályozás és a 16 éves Bitcoin ciklusai kaptak főszerepet.",
+        date: "2025.01.17."
+    },
+    {
         summary: "Bitcoin fedezetű hitel, tömeges megértés, JAN3 játék, felirat",
         html: "Az év utolsó két <a href='/podcast'>podcast</a> epizódjának fő témája a bitcoin fedezetű hitelek és a bitcoin tömeges megértésének szükségessége voltak, röviden visszatekintettünk a mögöttünk hagyott egy év 45 epizódjára, valamint elindítottunk egy január 3-ig tartó támogatói nyereményjátékot, mely során 3 db JAN3 logós Jade hardver tárca és 10 db webkamera takaró talál gazdára.<br/><br/>Továbbá publikáltunk egy újabb magyar feliratos rövid videót, mely a <a href='https://youtube.com/playlist?list=PL2mtusxzX3HJtT29NWyVy-feSf8OcRJlB' target='_blank'>Bitcoin videók magyar felirattal</a> lejátszási listát gazdagítja.",
         date: "2024.12.27."
