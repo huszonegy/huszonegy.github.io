@@ -46,7 +46,7 @@ import NewsList from '../components/NewsList.vue'
           <h2 class="fs-5 mx-4">
             Friss <a href="/hirek">hírek</a>
           </h2>
-          <NewsList :max_count = 3 />
+          <NewsList :max_count = 2 />
         </div>
       </div>
 
