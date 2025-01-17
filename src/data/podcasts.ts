@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "Mit jelent a Travel Rule és a MiCA?",
+        id: "E47",
+        img: "/pics/mi-az-a-bitcoin-e47.jpg",
+        date: "2025.01.17.",
+        members: ["Kata", "Árpi", "Anti"],
+        topic: "MiCA szabályozás, Travel Rule - Arany vásárlás kontra Bitcoin tranzakció - Banki átutalás kontra Bitcoin tranzakció - Grandfathering - Trump beiktatási kripto bál, NFT-k - Legjobb rész a MiCA-ból - Szabadság szellem, leleményesség - Rendszeres, havi szintű, akár kis összegű befektetés - A legnagyobb olasz bank bitcoint vásárol - Nyílt levél Orbán Viktornak",
+        yt: "https://youtu.be/dwdFKSqdEf8",
+        fountain: "https://fountain.fm/episode/5jR7azlczUUWFccZvgeW"
+    },
+    {
         name: "16 éves a Bitcoin - Jade tárca ajándékozás és ismertetés",
         id: "E46",
         img: "/pics/mi-az-a-bitcoin-e46.jpg",
