@@ -141,7 +141,7 @@ const router = createRouter({
       }
     },
     {
-      path: '/video',
+      path: '/oktato-video',
       name: 'videos',
       component: VideoView,
       meta: {
