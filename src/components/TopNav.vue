@@ -29,6 +29,9 @@
                         <router-link class="nav-link" to="/eloadas">Előadás</router-link>
                     </li>
                     <li class="nav-item">
+                        <router-link class="nav-link" to="/video">Oktató videó</router-link>
+                    </li>
+                    <li class="nav-item">
                         <router-link class="nav-link" to="/konyvek">Könyv</router-link>
                     </li>
                     <li class="nav-item">

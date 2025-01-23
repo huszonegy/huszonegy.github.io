@@ -9,6 +9,7 @@ import SupportView from '../views/SupportView.vue'
 import NewsView from '../views/NewsView.vue'
 import BooksView from '../views/BooksView.vue'
 import WalletsView from '../views/WalletsView.vue'
+import VideoView from '../views/VideoView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -135,6 +136,24 @@ const router = createRouter({
           {
             name: 'keywords',
             content: 'Bitcoin, magyar, előadás, prezentáció, magyarul'
+          }
+        ]
+      }
+    },
+    {
+      path: '/video',
+      name: 'videos',
+      component: VideoView,
+      meta: {
+        title: 'Bitcoin oktató videó',
+        metaTags: [
+          {
+            name: 'description',
+            content: 'Bitcoin oktató videó'
+          },
+          {
+            name: 'keywords',
+            content: 'Bitcoin, magyar, oktató, videó, magyarul'
           }
         ]
       }
