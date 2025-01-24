@@ -90,7 +90,7 @@ export const videos = [
     },
     {
         type: "Magyar nyelvű",
-        details: "A HUSZONEGY tagjai által készített oktató videók",
+        details: "A HUSZONEGY tagjai által készített oktatóvideók",
         parts: [
             {
                 name: "Blockstream JADE tárca beüzemelése",

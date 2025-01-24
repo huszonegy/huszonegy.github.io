@@ -4,7 +4,7 @@ import { link_simplified } from '../utils'
 </script>
 
 <template>
-    <h1>Bitcoin oktató videók magyarul</h1>
+    <h1>Bitcoin oktatóvideók magyarul</h1>
     <div v-for="kategoria in videos">
         <h2>
             {{ kategoria.type }}
