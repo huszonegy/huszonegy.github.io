@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "Hozz létre saját tartalék alapot!",
+        id: "E48",
+        img: "/pics/mi-az-a-bitcoin-e48.jpg",
+        date: "2025.01.24.",
+        members: ["Feri", "Anti"],
+        topic: "Trump pump & dump - Természetes kiválasztódás - Mi a baj a pénzzel? - Miért a pénz a legnagyobb probléma? - Arra fókuszálj, amire tudsz hatni - Szabad vagy, csak a szabadságot kell választanod - A Bitcoin támogatja a pozitív szemléletet - A bankban lévő pénzed nem pénz és nem a tiéd - Heti három ezerből tíz év alatt száz millió - Hozz létre saját tartalék alapot! - Bitcoin konferencia Hajdúszoboszlón - Te mit teszel?",
+        yt: "https://youtu.be/tfW8ChjnQjw",
+        fountain: "https://fountain.fm/episode/ujHdzPXfyWm2gN4yxnRC"
+    },
+    {
         name: "Mit jelent a Travel Rule és a MiCA?",
         id: "E47",
         img: "/pics/mi-az-a-bitcoin-e47.jpg",

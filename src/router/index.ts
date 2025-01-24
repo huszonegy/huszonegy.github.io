@@ -141,19 +141,19 @@ const router = createRouter({
       }
     },
     {
-      path: '/oktato-video',
+      path: '/oktatovideo',
       name: 'videos',
       component: VideoView,
       meta: {
-        title: 'Bitcoin oktató videó',
+        title: 'Bitcoin oktatóvideó',
         metaTags: [
           {
             name: 'description',
-            content: 'Bitcoin oktató videó'
+            content: 'Bitcoin oktatóvideó'
           },
           {
             name: 'keywords',
-            content: 'Bitcoin, magyar, oktató, videó, magyarul'
+            content: 'Bitcoin, magyar, oktató, videó, oktatóvideó, magyarul'
           }
         ]
       }
