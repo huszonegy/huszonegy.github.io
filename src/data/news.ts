@@ -5,7 +5,12 @@
 
 export const news = [
     {
-        summary: "",
+        summary: "Új oktatóvideó oldal, kulcs gondolatok",
+        html: "<a href='/oktatovideo'>Oktatóvideó</a> oldalunkon mostantól megtaláljátok az általunk feliratozott ill. általunk készített videók összefoglalóját.<br /><br />Legfrissebb <a href='/podcast'>podcastunk</a> néhány kulcs gondolata: Trump pump & dump - Miért a pénz a legnagyobb probléma? - Arra fókuszálj, amire tudsz hatni - Szabad vagy, csak a szabadságot kell választanod - A Bitcoin támogatja a pozitív szemléletet - A bankban lévő pénzed nem pénz és nem a tiéd - Hozz létre saját tartalék alapot! - Bitcoin konferencia Hajdúszoboszlón",
+        date: "2025.01.24."
+    },
+    {
+        summary: "Travel Rule, MiCA, nyílt levél",
         html: "Újabb videókkal bővült a <a href='https://youtube.com/playlist?list=PL2mtusxzX3HJtT29NWyVy-feSf8OcRJlB' target='_blank'>Bitcoin videók magyar felirattal</a> lejátszási lista, többek között az <a href='https://youtu.be/IamoZ0f1dlU' target='_blank'>Isten, áldd meg a Bitcoint</a> 90 perces dokumentumfilmmel, mely mélyen belemerül a Bitcoin erkölcsi és etikai aspektusaiba, valamint abba, hogy milyen hatással lehet a világra ez a pénz.<br/><br/>Youtube csatornánk egy <a href='https://youtu.be/wyIY89yrGZU' target='_blank'>Jade tárca oktatóvideóval</a> is bővült, illetve újabb <a href='/podcast'>podcast</a> adásokkal, melyekben a Travel Rule, a MiCA szabályozás és a 16 éves Bitcoin ciklusai kaptak főszerepet.",
         date: "2025.01.17."
     },
