@@ -3,6 +3,16 @@
 
 export const articles = [
     {
+        name: "Bitcoin és az emberi jogok",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "Az emberi jogok és a Bitcoin kapcsolata sokkal mélyebb, mint azt elsőre gondolnánk. Alex Gladstein, a Human Rights Foundation vezető stratégiai tisztviselője osztotta meg gondolatait arról, hogyan válik a Bitcoin az emberi jogok védelmének kulcsfontosságú eszközévé globális szinten.",
+        link: "https://europeanbitcoiners.com/bitcoin-es-az-emberi-jogok/",
+        img: "/article/bitcoin-es-az-emberi-jogok.png",
+        cat: "bevezető",
+        id: 27
+    },
+    {
         name: "Stratégiai bitcoin vásárlás",
         origin: "szerző: árpi",
         lang: "hu",
