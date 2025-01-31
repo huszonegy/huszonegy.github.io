@@ -2,16 +2,6 @@
 
 export const podcasts = [
     {
-        name: "Bitcoin félelmek, bizonytalanság, kétségek I.",
-        id: "E49",
-        img: "/pics/mi-az-a-bitcoin-e49.jpg",
-        date: "2025.01.31.",
-        members: ["Optout", "Kata", "Anti"],
-        topic: "Bitcoin hírek - FUD, Fear-Uncertainty-Doubt alapok - Környezetszennyezés, pazarlás - Betiltja az állam - Bűnözők használják - Drága, volatilis, bezuhan - Satoshi felbukkan, CIA, NSA - Kvantumszámítógép - Lufi a következő adásban",
-        yt: "https://youtu.be/X_D5jFsnOII",
-        fountain: "https://fountain.fm/episode/76AmqSgZ3vBTZVpjpMzB"
-    },
-    {
         name: "Hozz létre saját tartalék alapot!",
         id: "E48",
         img: "/pics/mi-az-a-bitcoin-e48.jpg",
