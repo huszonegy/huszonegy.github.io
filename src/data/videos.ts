@@ -6,6 +6,15 @@ export const videos = [
         details: "A HUSZONEGY tagjai által feliratozott videók",
         parts: [
             {
+                name: "MI A FUD? Félelem - Bizonytalanság - Kétely",
+                img: "/pics/Mi-a-FUD.jpg",
+                date: "2025.02.06.",
+                members: ["Zsolt", "Árpi"],
+                topic: "Ez a rövidfilm bemutatja és oszlatja a Bitcoinnal kapcsolatos félelmet, bizonytalanságot és kételyt (FUD: Fear - Uncertainty - Doubt).",
+                yt: "https://youtu.be/B_2R0XiCRc8",
+                fountain: ""
+            },
+            {
                 name: "Mi a probléma?",
                 img: "/pics/mi-a-problema.jpg",
                 date: "2025.01.19.",
