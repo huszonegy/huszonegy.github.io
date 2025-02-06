@@ -3,6 +3,16 @@
 
 export const articles = [
     {
+        name: "A Bitcoin szerepe az új gazdasági világrendben",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "Jack Mallers, a Strike Bitcoin szolgáltató cég vezérigazgatója a legutóbbi podcastjában részletesen beszélt arról, hogy szerinte mi zajlik most valójában az amerikai gazdaságban és a globális pénzügyi rendszerben.",
+        link: "https://europeanbitcoiners.com/a-bitcoin-szerepe-az-uj-gazdasagi-vilagrendben/",
+        img: "/article/a-bitcoin-szerepe-az-uj-gazdasagi-vilagrendben.png",
+        cat: "bevezető",
+        id: 28
+    },
+    {
         name: "Bitcoin és az emberi jogok",
         origin: "szerző: árpi",
         lang: "hu",
