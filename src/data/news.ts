@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "FUD-oszlatás",
+        html: "Több fronton is oszlatjuk a FUD-ot, vagyis a tipikus félelmeket, bizonytalanságokat és kétségeket, melyek visszatérően felmerülnek, nagyrészt a médiának köszönhetően. Két <a href='/podcast'>podcast</a> adásunk fókuszába is ez került, továbbá ez a témája a <em>Mi a FUD?</em> c. rövidfilmnek is, melyet frissen feliratoztunk és immár <a href='/oktatovideo'>oktatóvideó</a> oldalunkat gazdagítja.<br /><br /><a href='/cikkek'>Cikkeink tárháza</a> is bővült. Ezúttal két tartalmas, angol nyelvű podcast beszélgetés összefoglalója jelent meg magyar nyelven. Az egyik a <em>Bitcoin és az emberi jogok</em> témáját boncolgatja, a másik pedig az amerikai gazdaság és a globális pénzügyi rendszer várható változásait veszi górcső alá.",
+        date: "2025.02.07."
+    },
+    {
         summary: "Új oktatóvideó oldal, kulcs gondolatok",
         html: "<a href='/oktatovideo'>Oktatóvideó</a> oldalunkon mostantól megtaláljátok az általunk feliratozott ill. általunk készített videók összefoglalóját.<br /><br />Legfrissebb <a href='/podcast'>podcastunk</a> néhány kulcs gondolata: Trump pump & dump - Miért a pénz a legnagyobb probléma? - Arra fókuszálj, amire tudsz hatni - Szabad vagy, csak a szabadságot kell választanod - A Bitcoin támogatja a pozitív szemléletet - A bankban lévő pénzed nem pénz és nem a tiéd - Hozz létre saját tartalék alapot! - Bitcoin konferencia Hajdúszoboszlón",
         date: "2025.01.24."
