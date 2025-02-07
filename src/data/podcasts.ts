@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "Bitcoin félelmek, bizonytalanság, kétségek II.",
+        id: "E50",
+        img: "/pics/mi-az-a-bitcoin-e50.jpg",
+        date: "2025.02.07.",
+        members: ["Optout", "Anti", "Árpi"],
+        topic: "Bitcoin hírek - Defláció - Nem lenne költekezés - Hogy működne a hitel? - Fiat hitelből Bitcoin vásárlás - Mi lufi és mi nem lufi",
+        yt: "https://youtu.be/iC1D9bxivLs",
+        fountain: "https://fountain.fm/episode/FGEwKOlrCxpzffL0U05O"
+    },
+    {
         name: "Bitcoin félelmek, bizonytalanság, kétségek I.",
         id: "E49",
         img: "/pics/mi-az-a-bitcoin-e49.jpg",
