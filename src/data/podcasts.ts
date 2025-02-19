@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "Bitcoin konferencia + idő faktor = türelem",
+        id: "E51",
+        img: "/pics/mi-az-a-bitcoin-e51.jpg",
+        date: "2025.02.14.",
+        members: ["Feri", "Anti"],
+        topic: "Bitcoin konferencia Hajdúszoboszlón - Bitcoin hírek - FED auditálás - Árfolyam és hashrate - Banki költség kontra Lightning - Milei és Argentina - Idő faktor, türelem, remény",
+        yt: "https://youtu.be/b8k4XPX-msc",
+        fountain: "https://fountain.fm/episode/QbTHzMvuPW5MZz8ksMXV"
+    },
+    {
         name: "Bitcoin félelmek, bizonytalanság, kétségek II.",
         id: "E50",
         img: "/pics/mi-az-a-bitcoin-e50.jpg",
@@ -52,12 +62,12 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/z2Rhc6UIZam84HZoThnH"
     },
     {
-        name: "Peer-to-peer bitcoin fedezetű hitel",
+        name: "Peer-to-peer bitcoin fedezetű kölcsön",
         id: "E45",
         img: "/pics/mi-az-a-bitcoin-s01e45.jpg",
         date: "2024.12.20.",
         members: ["Roli", "Openoms", "Árpi"],
-        topic: "JAN3 nyereményjáték január 3-ig - Peer-to-peer bitcoin fedezetű hitel bevezető - Firefish technikai háttér, Loan-To-Value - Biztonságos letét menedzselés - Kedvező euro befektetés, okosszerződés - Megfontolt eszköz őrzés, észszerű hiteligénylés - HUSZONEGY Firefish ajánlókód, honlap magyarítás - Ne adjátok el a bitcoint!",
+        topic: "JAN3 nyereményjáték január 3-ig - Peer-to-peer bitcoin fedezetű kölcsön bevezető - Firefish technikai háttér, Loan-To-Value - Biztonságos letét menedzselés - Kedvező euro befektetés, okosszerződés - Megfontolt eszköz őrzés, észszerű kölcsönigénylés - HUSZONEGY Firefish ajánlókód, honlap magyarítás - Ne adjátok el a bitcoint!",
         yt: "https://youtu.be/sdvxqskHOjs",
         fountain: "https://fountain.fm/episode/ohksFGl7zrSOTWqjhKax"
     },
