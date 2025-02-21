@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "Bitcoin vásárlás: hol ajánljuk, hol nem ajánljuk",
+        id: "E52",
+        img: "/pics/mi-az-a-bitcoin-e52.jpg",
+        date: "2025.02.21.",
+        members: ["Openoms", "Anti", "Dávid"],
+        topic: "Bitcoin ATM - Nem ajánlott kaszinók - Kihívó bankok - Bitcoin-only exchange-ek - Ismerd meg az ügyfeledet (KYC) - Decentralizált, No-KYC exchange-ek - Trade aggregátorok",
+        yt: "https://youtu.be/AWOY70zi3MQ",
+        fountain: "https://fountain.fm/episode/ThOgYGoNl3j31bNxIwhT"
+    },
+    {
         name: "Bitcoin konferencia + idő faktor = türelem",
         id: "E51",
         img: "/pics/mi-az-a-bitcoin-e51.jpg",
