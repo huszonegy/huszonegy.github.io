@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "Bitcoin vagy Fiat: Ki nyeri majd a pénzügyi háborút?",
+        id: "E53",
+        img: "/pics/mi-az-a-bitcoin-e53.jpg",
+        date: "2025.02.28.",
+        members: ["Robi", "Anti"],
+        topic: "Bevezetés a Bitcoin világába - Közösségi élmények és konferenciák - A Bitcoin mint alternatív pénz - Infláció, defláció - A Bitcoin mint megtakarítási eszköz - Michael Saylor és Elon Musk kapcsolata - A Bitcoin terjedése a cégek körében - Energiafogyasztás és a Bitcoin bányászat - A Bitcoin és a bankrendszer összehasonlítása - Bürokrácia és a Bitcoin hatása - Az arany és a Bitcoin értéke - A pénzügyi rendszer jövője - A Bitcoin politikai hatása és társadalmi változások",
+        yt: "https://youtu.be/8YqqPsQaabI",
+        fountain: "https://fountain.fm/episode/TSjJMMDxlL36ahxLZgHP"
+    },
+    {
         name: "Bitcoin vásárlás: hol ajánljuk, hol nem ajánljuk",
         id: "E52",
         img: "/pics/mi-az-a-bitcoin-e52.jpg",
