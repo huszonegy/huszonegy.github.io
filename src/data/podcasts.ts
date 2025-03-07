@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "Ginger wallet - bitcoin tárca bemutató",
+        id: "E54",
+        img: "/pics/mi-az-a-bitcoin-e54.jpg",
+        date: "2025.03.07.",
+        members: ["Dávid", "Anti", "Árpi"],
+        topic: "Amerikai tartalék alakulása - Ginger wallet letöltése - Első elindítás, szoftver tárca létrehozás - Fő a biztonság: blokk filterek, Tor - Alapbeállítás, bitcoin fogadás - Bitcoin küldés, díj optimalizálás - Blokklánc elemzés, tranzakció gyorsítás - Bitcoin vásárlás - Coinjoin - Legitimitás",
+        yt: "https://youtu.be/u8fLiAlHEXI",
+        fountain: "https://fountain.fm/episode/Rwxkx9BNBA8bqkN4TYjS"
+    },
+    {
         name: "Bitcoin vagy Fiat: Ki nyeri majd a pénzügyi háborút?",
         id: "E53",
         img: "/pics/mi-az-a-bitcoin-e53.jpg",
