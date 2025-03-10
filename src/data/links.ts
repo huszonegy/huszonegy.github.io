@@ -66,21 +66,29 @@ export const links = [
             {
                 name: "Telegram csoport",
                 text: "HUSZONEGY csoport a Telegramon",
+                afftype: "",
+                affdetail: "",
                 url: "https://t.me/huszonegy",
             },
             {
                 name: "inflacio.eu",
                 text: "Oktatóanyagok inflációról, adósságról, pénzről, pénzügyi rendszerről",
+                afftype: "",
+                affdetail: "",
                 url: "https://inflacio.eu",
             },
             {
                 name: "nostr.hu",
                 text: "Új paradigma, mely felcsillantotta a reményt, hogy visszavegyük az irányítást az internetes életünk felett",
+                afftype: "",
+                affdetail: "",
                 url: "https://nostr.hu",
             },
             {
                 name: "noszter.hu",
                 text: "Decentralizált kommunikációs protokoll, amely teljesen átalakítja a közösségi hálózatok működését",
+                afftype: "",
+                affdetail: "",
                 url: "https://noszter.hu",
             }
         ]
