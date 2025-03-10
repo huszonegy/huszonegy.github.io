@@ -199,13 +199,26 @@ p {
     font-style: normal;
 }
 
-.small.grey {
-    color: #999;
+.small {
     font-size: 0.8em;
+}
+
+.grey {
+    color: #999;
 }
 
 .dark {
     color: #777;
+}
+
+.alert {
+    color: rgb(220, 38, 38);
+    font-weight: bold;
+    padding: 0;
+}
+
+.minimargin {
+    margin-bottom: 2px;
 }
 
 @media (max-width: 992px) {
