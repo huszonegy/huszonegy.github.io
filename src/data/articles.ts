@@ -3,6 +3,16 @@
 
 export const articles = [
     {
+        name: "All-In Bitcoin",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "Az All-In Podcast ezen részletében David Sacks, Donald Trump adminisztrációjának innovációs tanácsadója, a 'crypto czar' beszélget Jason Calacanisszal a Bitcoin fontosságáról és az amerikai kormány kriptovaluta-stratégiájáról, különös tekintettel a stratégiai Bitcoin tartalékra és a digitális eszközök készletére.",
+        link: "https://europeanbitcoiners.com/all-in-bitcoin/",
+        img: "/article/all-in-bitcoin.png",
+        cat: "bevezető",
+        id: 31
+    },
+    {
         name: "Bitcoin for America konferencia",
         origin: "szerző: árpi",
         lang: "hu",

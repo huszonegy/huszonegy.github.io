@@ -7,7 +7,7 @@ export const podcasts = [
         img: "/pics/mi-az-a-bitcoin-e55.jpg",
         date: "2025.03.14.",
         members: ["Tamás", "Anti"],
-        topic: "Stratégiai Bitcoin tartalék - Grafikonelemzés - Rövidtávú Bitcoin tartók és piaci hatásuk - Dollárindex és a Bitcoin árfolyam kapcsolata - Hozamgörbe inverzió és recessziós kilátások - Clark Moody Bitcoin Dashboard - Umbrel node frissítve - Lightning Network és fizetési rendszer tesztelése - Bitcoin Miskolc konferencia Hajdúszoboszlón",
+        topic: "Stratégiai Bitcoin Tartalék - Grafikonelemzés - Rövidtávú Bitcoin tartók és piaci hatásuk - Dollárindex és a Bitcoin árfolyam kapcsolata - Hozamgörbe inverzió és recessziós kilátások - Clark Moody Bitcoin Dashboard - Umbrel node frissítve - Lightning Network és fizetési rendszer tesztelése - Bitcoin Miskolc konferencia Hajdúszoboszlón",
         yt: "https://youtu.be/n43wroeQDGQ",
         fountain: "https://fountain.fm/episode/8o6ivad7jKbMxNyu1Wr3"
     },
