@@ -3,6 +3,16 @@
 
 export const articles = [
     {
+        name: "Bitcoin for America konferencia",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "A Bitcoin for America konferencia egy jelentős esemény volt az Egyesült Államok fővárosában, amely a bitcoin és a digitális eszközök szerepét tárgyalta az amerikai gazdasági és technológiai jövőképben.",
+        link: "https://europeanbitcoiners.com/bitcoin-for-america-konferencia/",
+        img: "/article/bitcoin-for-america-konferencia.png",
+        cat: "bevezető",
+        id: 30
+    },
+    {
         name: "A nyílt forráskód értéke",
         origin: "szerző: árpi",
         lang: "hu",
