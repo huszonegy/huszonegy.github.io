@@ -3,6 +3,16 @@
 
 export const articles = [
     {
+        name: "A nyílt forráskód értéke",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "Az alábbi panel beszélgetés a Presidio Bitcoin nevű kezdeményezés indulása alkalmából szervezett eseményen hangzott el. Jack Dorsey (Block, korábban Twitter), Alex Gladstein (Human Rights Foundation), David Marcus (Lightspark, korábban Meta/Facebook), Steve Lee (Spiral).",
+        link: "https://europeanbitcoiners.com/a-nyilt-forraskod-erteke/",
+        img: "/article/a-nyilt-forraskod-erteke.png",
+        cat: "bevezető",
+        id: 29
+    },
+    {
         name: "A Bitcoin szerepe az új gazdasági világrendben",
         origin: "szerző: árpi",
         lang: "hu",
