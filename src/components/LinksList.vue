@@ -16,9 +16,7 @@ import { links } from '../data/links'
                             {{ link.name }}
                         </h5>
                     </a>
-                    <p v-if="link.text" class="minimargin">
-                        {{ link.text }}
-                    </p>
+                    <p v-if="link.text" class="minimargin" v-html="link.text" />
                     <p v-if="link.afftype" class="minimargin">
                         <b>{{ link.afftype }}</b><br />
                         <span class="alert">{{ link.affdetail }}</span>
