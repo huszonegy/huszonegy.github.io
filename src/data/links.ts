@@ -45,7 +45,7 @@ export const links = [
             },
             {
                 name: "BTC Prague",
-                text: "Európa legnagyobb, legmeghatározóbb bitcoin rendezvénye.",
+                text: "Európa legnagyobb, legmeghatározóbb bitcoin rendezvénye - 2025. június 19-21.",
                 afftype: "HUSZONEGY kuponkód",
                 affdetail: "-10%",
                 url: "https://btcprague.com/?promo_id=25460&key=30cdf2cfae450312369542954b10cbaa"
