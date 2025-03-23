@@ -9,7 +9,7 @@ export const podcasts = [
         members: ["Feri", "Anti"],
         topic: "Bemelegítő beszélgetés a második magyarországi Bitcoin konferencia előtt a rendezvény helyszínén, Hajdúszoboszlón, a podcastot is támogató, bitcoin-elfogadó Hotel Atlantisban.",
         yt: "https://youtu.be/n43wroeQDGQ",
-        fountain: "https://fountain.fm/episode/8o6ivad7jKbMxNyu1Wr3"
+        fountain: "https://fountain.fm/episode/5xSoBJ0TPim7chc5e4T1"
     },
     {
         name: "Bitcoin makrogazdaság és a saját node jelentősége",
