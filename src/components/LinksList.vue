@@ -9,7 +9,7 @@ import { links } from '../data/links'
             {{ kategoria.category }}
         </h2>
         <div name="links-list" class="card py-3 px-4 my-4">
-            <div v-for="link in kategoria.items" class="mx-2 my-2">
+            <div v-for="link in kategoria.items" class="my-2">
                 <a :href="link.url" target="_blank" class="link">
                     <h5 class="top minimargin" style="font-size: 18px;">
                         {{ link.name }}
