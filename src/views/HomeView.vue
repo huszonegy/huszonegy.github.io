@@ -8,7 +8,7 @@ import NewsList from '../components/NewsList.vue'
     <div name="main-inner" class="container">
       <div class="container-sm py-3 px-3 mx-auto text-center" style="min-height: 300px;">
         <div class="px-3 py-3">
-          <img src="/logo/he-logo-circle-320x320.png" class="img-fluid" alt="huszonegy" width="200" height="200">
+          <img src="/logo/he-logo-circle-320x320-2.png" class="img-fluid" alt="huszonegy" width="200" height="200">
         </div>
         <h1 class="px-3 py-3">csak bitcoinról, magyarul</h1>
       </div>
