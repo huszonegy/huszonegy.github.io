@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "Kössük a pénzt az energiához!",
+        id: "E57",
+        img: "/pics/mi-az-a-bitcoin-e57.jpg",
+        date: "2025.03.28.",
+        members: ["Feri", "Anti", "Árpi"],
+        topic: "Bitcoin konferencia összesítés - Gyerekek pénzügyi tudatosodása - Vonat analógiák és a bitcoin társadalmi szerepe - Gondolkodó, szabad emberek - Az állam szemében az ember adózó - Kössük a pénzt az energiához! - Bitcoin megértési hozadékok - Központi fegyverkezés lakossági megtakarításból? - Bitcoin a júniusi Trust Summiton - Japán és kínai elmentek bitcoint venni",
+        yt: "https://youtu.be/Nz-EX5eXOIg",
+        fountain: "https://fountain.fm/episode/TLCREBYe0jEPTTm3WHMh"
+    },
+    {
         name: "Bitcoin konferencia Hajdúszoboszlón",
         id: "E56",
         img: "/pics/mi-az-a-bitcoin-e56.jpg",
