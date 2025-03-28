@@ -32,14 +32,10 @@ import { link_simplified } from '../utils'
                     </p>
                     <p class="small my-3">
                         youtube: 
-                        <a :href="pod.yt" target="_blank" class="link">
-                            video
-                        </a>
+                        <a :href="pod.yt" target="_blank" class="link">video</a>
                         &nbsp;|&nbsp;
                         fountain: 
-                        <a :href="pod.fountain" target="_blank" class="link">
-                            audio
-                        </a>
+                        <a :href="pod.fountain" target="_blank" class="link">audio</a>
                     </p>
                     <p class="small my-3">
                         {{ pod.topic }}
