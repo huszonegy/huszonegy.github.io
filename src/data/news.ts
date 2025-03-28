@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Fut a vonat",
+        html: "A konferencián több százan kapcsolódtunk egymástól tanulva, egy igazságosabb és szabadabb rendszer épüléséért tevékenykedve. Köszönünk szépen minden személyes visszajelzést!<br /><br /><a href='/podcast'>Podcastunk</a> az utóbbi hetekben számos új témával rukkolt elő. Kiveséztük a bitcoin vásárlási módokat, bemutattuk a Ginger walletet, ismerkedtünk, makróztunk, áramoltunk és még vonatoztunk is. Az új <a href='/cikkek'>cikkek</a> pedig újfent amerikai fejleményekkel kapcsolatosak.",
+        date: "2025.03.28."
+    },
+    {
         summary: "FUD-oszlatás",
         html: "Több fronton is oszlatjuk a FUD-ot, vagyis a tipikus félelmeket, bizonytalanságokat és kétségeket, melyek visszatérően felmerülnek, nagyrészt a médiának köszönhetően. Két <a href='/podcast'>podcast</a> adásunk fókuszába is ez került, továbbá ez a témája a <em>Mi a FUD?</em> c. rövidfilmnek is, melyet frissen feliratoztunk és immár <a href='/oktatovideo'>oktatóvideó</a> oldalunkat gazdagítja.<br /><br /><a href='/cikkek'>Cikkeink tárháza</a> is bővült. Ezúttal két tartalmas, angol nyelvű podcast beszélgetés összefoglalója jelent meg magyar nyelven. Az egyik a <em>Bitcoin és az emberi jogok</em> témáját boncolgatja, a másik pedig az amerikai gazdaság és a globális pénzügyi rendszer várható változásait veszi górcső alá.",
         date: "2025.02.07."
