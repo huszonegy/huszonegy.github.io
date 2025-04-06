@@ -9,18 +9,18 @@ export const links = [
         category: "Partnereink",
         items: [
             {
-                name: "Hotel Atlantis****",
-                text: "Bitcoint elfogadó és tartalékoló szálloda Hajdúszoboszlón.<br /><a href='https://bitcoinmiskolc.hu' target='_blank'>Bitcoin Miskolc konferencia</a> 2025. március 21-23.",
-                afftype: "",
-                affdetail: "",
-                url: "https://hotelatlantis.hu"
-            },
-            {
-                name: "Hotel Aurora****",
-                text: "Bitcoint elfogadó és tartalékoló szálloda Miskolctapolcán.",
+                name: "Hotel AURORA****",
+                text: "Bitcoint elfogadó és tartalékoló szálloda Miskolctapolcán.<br /><a href='https://bitcoinmiskolc.hu' target='_blank'>Bitcoin Miskolc konferencia</a> 2025. október 17-19.",
                 afftype: "",
                 affdetail: "",
                 url: "https://hotelaurora.hu"
+            },
+            {
+                name: "Hotel ATLANTIS****",
+                text: "Bitcoint elfogadó és tartalékoló szálloda Hajdúszoboszlón.",
+                afftype: "",
+                affdetail: "",
+                url: "https://hotelatlantis.hu"
             },
             {
                 name: "Firefish",
@@ -56,7 +56,15 @@ export const links = [
                 afftype: "HUSZONEGY kuponkód",
                 affdetail: "-2.1%",
                 url: "https://bitcoinbrabant.com/en/winkel"
+            },
+            {
+                name: "JAN3",
+                text: "Technológiák és megoldások egyének, vállalkozások és nemzetállamok számára, hogy felkészüljenek a jövőre, sikeresek legyenek, és kezükbe vehessék sorsuk irányítását.",
+                afftype: "",
+                affdetail: "",
+                url: "https://jan3.com/?lang=hu"
             }
+
 
         ]
     },

@@ -4,7 +4,7 @@ import { links } from '../data/links'
 
 <template>
     <h1>Bitcoin linkek</h1>
-    <div v-for="kategoria in links">
+    <div v-for="kategoria in links" class="links">
         <h2 style="margin-top: 40px;">
             {{ kategoria.category }}
         </h2>
