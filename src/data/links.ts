@@ -63,9 +63,14 @@ export const links = [
                 afftype: "",
                 affdetail: "",
                 url: "https://jan3.com/?lang=hu"
+            },
+            {
+                name: "Bitcoin tartalék",
+                text: "Miért lenne előnyös Magyarországnak a bitcoin mint stratégiai tartalék bevezetése?",
+                afftype: "",
+                affdetail: "",
+                url: "https://bitcointartalek.hu"
             }
-
-
         ]
     },
     {
