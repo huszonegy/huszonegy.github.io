@@ -2,11 +2,21 @@
 
 export const podcasts = [
     {
+        name: "Bitcoin és spiritualitás",
+        id: "E59",
+        img: "/pics/mi-az-a-bitcoin-e59.jpg",
+        date: "2025.04.11.",
+        members: ["Dani", "Árpi"],
+        topic: "Mi az a spiritualitás és a tudatosság? - Meditációs technikák és tanítások - Energia, érték és felelősség - Ahol a figyelem, oda megy az energia - Légy magad a változás! - Befelé figyelés, összpontosítás - Decentralizáció és a rendszer repedései - Nyugalom és felelősség a káoszban - A meditáció ereje - Decentralizáció és belső szabadság - Technológia és tudatosság",
+        yt: "https://youtu.be/Cir7YPlX4qo",
+        fountain: "https://fountain.fm/episode/8rYzelL7shxWZHj8oiFe"
+    },
+    {
         name: "Bitcoin vs. digitális euró: a szabadság jövője",
         id: "E58",
         img: "/pics/mi-az-a-bitcoin-e58.jpg",
         date: "2025.04.04.",
-        members: ["Robet", "Anti"],
+        members: ["Robert", "Anti"],
         topic: "Digitális euró: a központosítás veszélyei - A Bitcoin ereje: decentralizáció és node-ok - Infláció és adósság: a rendszer hibái - Bitcoinnal az egzisztenciális biztonságért - Adósságspirálból a Bitcoin szabadságába - Bitcoin tudás: könyvek itthon és Németországban - Hogyan kezdj Bitcoint okosan? - Luxuselmélet: szabadság a Bitcoinnal - Miért elég 21 millió Bitcoin? - Vagyonkoncentráció vs. Bitcoin elosztottság - Digitális euró: a végjáték kezdete?",
         yt: "https://youtu.be/Wr4EvEZJOZQ",
         fountain: "https://fountain.fm/episode/NOSdfkLOyFB1SruJuIF3"
@@ -56,7 +66,7 @@ export const podcasts = [
         id: "E53",
         img: "/pics/mi-az-a-bitcoin-e53.jpg",
         date: "2025.02.28.",
-        members: ["Robi", "Anti"],
+        members: ["Robert", "Anti"],
         topic: "Bevezetés a Bitcoin világába - Közösségi élmények és konferenciák - A Bitcoin mint alternatív pénz - Infláció, defláció - A Bitcoin mint megtakarítási eszköz - Michael Saylor és Elon Musk kapcsolata - A Bitcoin terjedése a cégek körében - Energiafogyasztás és a Bitcoin bányászat - A Bitcoin és a bankrendszer összehasonlítása - Bürokrácia és a Bitcoin hatása - Az arany és a Bitcoin értéke - A pénzügyi rendszer jövője - A Bitcoin politikai hatása és társadalmi változások",
         yt: "https://youtu.be/8YqqPsQaabI",
         fountain: "https://fountain.fm/episode/TSjJMMDxlL36ahxLZgHP"
