@@ -16,7 +16,7 @@ export const podcasts = [
         id: "E58",
         img: "/pics/mi-az-a-bitcoin-e58.jpg",
         date: "2025.04.04.",
-        members: ["Robert", "Anti"],
+        members: ["Anti", "Robert"],
         topic: "Digitális euró: a központosítás veszélyei - A Bitcoin ereje: decentralizáció és node-ok - Infláció és adósság: a rendszer hibái - Bitcoinnal az egzisztenciális biztonságért - Adósságspirálból a Bitcoin szabadságába - Bitcoin tudás: könyvek itthon és Németországban - Hogyan kezdj Bitcoint okosan? - Luxuselmélet: szabadság a Bitcoinnal - Miért elég 21 millió Bitcoin? - Vagyonkoncentráció vs. Bitcoin elosztottság - Digitális euró: a végjáték kezdete?",
         yt: "https://youtu.be/Wr4EvEZJOZQ",
         fountain: "https://fountain.fm/episode/NOSdfkLOyFB1SruJuIF3"

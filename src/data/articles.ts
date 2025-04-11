@@ -3,6 +3,16 @@
 
 export const articles = [
     {
+        name: "A digitális euró sürgetése: veszélyek és alternatíva",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "Az Európai Központi Bank eltökélt szándéka, hogy októberre megvalósítsa a digitális eurót, egy központi bank által kibocsátott digitális valutát (CBDC), vagyis az eurózóna digitális jegybankpénzét.",
+        link: "https://europeanbitcoiners.com/a-digitalis-euro-surgetese-veszelyek-es-alternativa/",
+        img: "/article/a-digitalis-euro-surgetese-veszelyek-es-alternativa.png",
+        cat: "bevezető",
+        id: 32
+    },
+    {
         name: "All-In Bitcoin",
         origin: "szerző: árpi",
         lang: "hu",
