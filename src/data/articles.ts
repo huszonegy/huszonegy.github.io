@@ -3,6 +3,16 @@
 
 export const articles = [
     {
+        name: "Egészséges pénz + szabad piac = osztrák közgazdaságtan",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "Az osztrák közgazdaságtan a gazdaságot az emberek egyéni döntései felől közelíti meg, és hisz abban, hogy a piac szabad működése a legjobb út a jóléthez.",
+        link: "https://europeanbitcoiners.com/egeszseges-penz-szabad-piac-osztrak-kozgazdasagtan/",
+        img: "/article/egeszseges-penz-szabad-piac-osztrak-kozgazdasagtan.png",
+        cat: "bevezető",
+        id: 33
+    },
+    {
         name: "A digitális euró sürgetése: veszélyek és alternatíva",
         origin: "szerző: árpi",
         lang: "hu",
