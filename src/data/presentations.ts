@@ -3,6 +3,22 @@
 export const presentations = [
     {
         event: "Bitcoin Miskolc",
+        params: "Hotel Atlantis, Hajdúszoboszló - 2025. március 21-23.",
+        details: "A második magyar Bitcoin konferencia felvételei szép sorban válnak elérhetővé.",
+        parts: [
+            {
+                name: "Mi a pénz és mi a probléma vele?",
+                img: "/pics/bitcoin-miskolc-mi-a-penz-2025.jpg",
+                date: "2025.03.21.",
+                members: ["Feri"],
+                topic: "Köszöntő - Mi a pénz és mi vele a probléma? - A pénz tulajdonságai - Pénz és történelem - Aranyfedezet megszűnése - Mi történt 1971-ben? - Az adósság probléma - Mi várható?",
+                yt: "https://youtu.be/UpEKesTwjtI",
+                fountain: ""
+            },
+        ]
+    },
+    {
+        event: "Bitcoin Miskolc",
         params: "Hotel Aurora, Miskolc - 2024. október 11-13.",
         details: "Az első magyar Bitcoin konferencia a HUSZONEGY csoport tagjainak jól felépített előadás-sorozatán keresztül mutatja be részletesen, hogy miért kizárólag a Bitcoinnal foglalkozunk.",
         parts: [
