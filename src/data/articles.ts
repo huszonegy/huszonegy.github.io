@@ -3,6 +3,16 @@
 
 export const articles = [
     {
+        name: "A nagy nyomtatás",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "Lawrence Lepard “A nagy nyomtatás” (The Big Print) című könyvében és a “What Bitcoin Did” podcastban a globális gazdasági rendszer válságát elemzi, kiemelve a fiat valuták és a keynesi gazdasági modell hibáit, valamint az egészséges pénz – különösen a Bitcoin – kulcsszerepét.",
+        link: "https://europeanbitcoiners.com/a-nagy-nyomtatas/",
+        img: "/article/a-nagy-nyomtatas.png",
+        cat: "bevezető",
+        id: 34
+    },
+    {
         name: "Egészséges pénz + szabad piac = osztrák közgazdaságtan",
         origin: "szerző: árpi",
         lang: "hu",
