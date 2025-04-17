@@ -3,6 +3,16 @@
 
 export const articles = [
     {
+        name: "Monetáris káoszpont",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "Jack Mallers, az egyik legtehetségesebb és legsikeresebb amerikai bitcoin szolgáltató cég vezetője hetente értékeli a makrogazdasági helyzetet, és legfrissebb elemzésében szenvedélyesen ecseteli, hogy történelmi fordulóponthoz érkeztünk.",
+        link: "https://europeanbitcoiners.com/monetaris-kaoszpont/",
+        img: "/article/monetaris-kaoszpont.png",
+        cat: "bevezető",
+        id: 35
+    },
+    {
         name: "A nagy nyomtatás",
         origin: "szerző: árpi",
         lang: "hu",
