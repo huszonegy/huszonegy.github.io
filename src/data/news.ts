@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Dömping",
+        html: "Egyrészt izgalmas <a href='/cikkek'>cikkek</a>kel és <a href='/podcast'>podcast</a> beszélgetésekkel bővült a honlapunkon elérhető anyagok tárháza, többek közt az alábbi témákaban: digitális euró vs. bitcoin, egészéges pénz, szabad piac, osztrák közgazdaságtan, pénznyomtatás, bitcoin és spiritualitás.<br /><br />Másrészt pedig egyre több felvétel bukkan fel <a href='/eloadas'>előadás</a> oldalunkon a márciusi bitcoin konferencia terméseként. Böngésszétek, osszátok!",
+        date: "2025.04.17."
+    },
+    {
         summary: "Fut a vonat",
         html: "A konferencián több százan kapcsolódtunk egymástól tanulva, egy igazságosabb és szabadabb rendszer épüléséért tevékenykedve. Köszönünk szépen minden személyes visszajelzést!<br /><br /><a href='/podcast'>Podcastunk</a> az utóbbi hetekben számos új témával rukkolt elő. Kiveséztük a bitcoin vásárlási módokat, bemutattuk a Ginger walletet, ismerkedtünk, makróztunk, áramoltunk és még vonatoztunk is. Az új <a href='/cikkek'>cikkek</a> pedig újfent amerikai fejleményekkel kapcsolatosak.",
         date: "2025.03.28."
