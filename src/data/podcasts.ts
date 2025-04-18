@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "Bitcoin pszichológia",
+        id: "E60",
+        img: "/pics/mi-az-a-bitcoin-e60.jpg",
+        date: "2025.04.18.",
+        members: ["Anti", "Karo", "Árpi"],
+        topic: "Vetítés indul - Kognitív disszonancia és status quo - FOMO, FUD és tömegpszichológia - Amerikai mitológia - Bitcoin elleni támadások: az állam trükkjei - A manipuláció mesterei: piac és propaganda - Közösségi ellenállás: decentralizált erő - El Salvador és az IMF: Bitcoin harcban - Magyarország mint Bitcoin-paradicsom",
+        yt: "https://youtu.be/_WHiNumbIbQ",
+        fountain: "https://fountain.fm/episode/ZpVNjMhPQbMOcw8r2x3o"
+    },
+    {
         name: "Bitcoin és spiritualitás",
         id: "E59",
         img: "/pics/mi-az-a-bitcoin-e59.jpg",
