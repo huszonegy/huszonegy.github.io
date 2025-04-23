@@ -77,6 +77,15 @@ export const presentations = [
                 topic: "Bevezetés - Fogalmak és felhasználási módok - Milyen társa a legalkalmasabb - Lightning - Hideg tárca - Összeg szerint tárolás - Akkor melyik tárcát is?",
                 yt: "https://youtu.be/efm-e_4q7to",
                 fountain: ""
+            },
+            {
+                name: "Nostr - a digitális szabadság protokollja",
+                img: "/pics/bitcoin-miskolc-nostr.jpg",
+                date: "2025.03.22.",
+                members: ["HenkyPenky"],
+                topic: "Bevezetés - Ismerős üzenetek a digitális életünkből - A digitális függőség hétköznapi példája - Közösségi média: függőség vagy szabadság? - E-mail vs. Nostr üzenetküldés - NOSTR működési elve - Valós alkalmazások és eszközök - Bemutató: Egy nap a NOSTR-ral - Gyakori kérdések - A digitális szabadság gyakorlati jelentősége - Magyarok a NOSTR ökoszisztémában - Gyakorlati bemutató a Primal használatával",
+                yt: "https://youtu.be/722DDGstuW0",
+                fountain: ""
             }
         ]
     },
