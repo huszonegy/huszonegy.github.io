@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "Árelnyomás és magyar Firefish felület",
+        id: "E61",
+        img: "/pics/mi-az-a-bitcoin-e61.jpg",
+        date: "2025.04.25.",
+        members: ["Anti", "Árpi"],
+        topic: "Tőzsdék, ETF-ek, kontroll, árelnyomás - Piaci félelem generálása - Erőszak- és pénzgyártási monopólium - Csatornázott költekezés - Óriási alapkezelők - Manipuláció jelei - Kulcsok napja - Firefish regisztráció - Kezdőlap - Kölcsönfelvétel, piactér - Befektetés - Beállítások - Tudástár",
+        yt: "https://youtu.be/DPVvksFOR2E",
+        fountain: "https://fountain.fm/episode/JddLn5rknrsh9VhEF08L"
+    },
+    {
         name: "Bitcoin pszichológia",
         id: "E60",
         img: "/pics/mi-az-a-bitcoin-e60.jpg",
