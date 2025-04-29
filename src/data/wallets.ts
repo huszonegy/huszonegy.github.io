@@ -133,7 +133,7 @@ Mindez egy nagyobacska kavics kinézetű érekes kis eszközben.",
                     link: "https://trezor.io/"
                 }
             ],
-            outro: "Amit NEM AJÁNLUNK: Ledger, Tangem."
+            outro: "Amit NEM AJÁNLUNK új vásárlásra: Ledger, Tangem. Az ok: különböző korábbi biztonsági problémák. Aki ilyen használ, használja tovább, de fontoljon meg alternatívákat. Ledger esetében egy ajánlott lépés a LedgerLive app mellőzése, és az eszköz használata egy független tárcával, pl. Sparrow-val."
         },
         {
             name: "Bitcoin csomópontok (node)",
