@@ -3,6 +3,16 @@
 
 export const articles = [
     {
+        name: "Hiperbitcoinizáció",
+        origin: "fordító: árpi",
+        lang: "hu",
+        text: "Daniel Krawisz 2014-ben a Bitcoin által kiváltott valuta demonetizáció, vagyis a hiperbitcoinizáció lehetőségét elemezte, amely egy olyan gazdasági forgatókönyvet vázol fel, mely során a Bitcoin globális dominanciája radikálisan átalakíthatja a hagyományos pénzrendszereket.",
+        link: "https://europeanbitcoiners.com/hiperbitcoinizacio/",
+        img: "/article/hiperbitcoinizacio.png",
+        cat: "bevezető",
+        id: 36
+    },
+    {
         name: "Monetáris káoszpont",
         origin: "szerző: árpi",
         lang: "hu",
