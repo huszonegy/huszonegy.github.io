@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "XXI Capital - a Bitcoin új támadása a fiat rendszer ellen",
+        id: "E62",
+        img: "/pics/mi-az-a-bitcoin-e62.jpg",
+        date: "2025.05.01.",
+        members: ["Anti", "Árpi"],
+        topic: "Új támadás a fiat rendszer ellen - XXI Capital tervei és Nasdaq megjelenés - Jack Mallers podcastja: pénzpiaci hatások - Amerikai kincstárjegyek és Bitcoin átmenet - Nagy játékosok és Bitcoin kereslet - Bitcoin mint értékmérő - Nemzetállamok és Bitcoin trendek - Bitcoin az USA-ban és Magyarországon - Hibrid kincstárak és a jövő pénzügyei - Strategy, XXI Capital és szintetikus felezés",
+        yt: "https://youtu.be/gFeF91xKcQw",
+        fountain: "https://fountain.fm/episode/Eez4uWjheMc2aho8wpJ4"
+    },
+    {
         name: "Árelnyomás és magyar Firefish felület",
         id: "E61",
         img: "/pics/mi-az-a-bitcoin-e61.jpg",
