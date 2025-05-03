@@ -6,7 +6,7 @@ export const articles = [
         name: "Hiperbitcoinizáció",
         origin: "fordító: árpi",
         lang: "hu",
-        text: "Daniel Krawisz 2014-ben a Bitcoin által kiváltott valuta demonetizáció, vagyis a hiperbitcoinizáció lehetőségét elemezte, amely egy olyan gazdasági forgatókönyvet vázol fel, mely során a Bitcoin globális dominanciája radikálisan átalakíthatja a hagyományos pénzrendszereket.",
+        text: "Daniel Krawisz 2014-ben a Bitcoin által kiváltott valuta kiszorulását, vagyis a hiperbitcoinizáció lehetőségét tárja fel, és egy olyan gazdasági forgatókönyvet vázol fel, amelyben a Bitcoin globális térnyerése alapjaiban változtathatja meg a pénzrendszert.",
         link: "https://europeanbitcoiners.com/hiperbitcoinizacio/",
         img: "/article/hiperbitcoinizacio.png",
         cat: "bevezető",
