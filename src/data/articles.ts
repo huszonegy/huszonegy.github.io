@@ -3,6 +3,16 @@
 
 export const articles = [
     {
+        name: "Az exponenciális fejlődés kihívás és lehetőség",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "A technológiai fejlődés olyan sebességgel alakítja át a világot, amit alig tudunk felfogni, miközben gazdasági rendszerünk, amely adósságra és inflációra épül, képtelen követni ezt a változást. Ez társadalmi feszültségeket, egyenlőtlenségeket, sőt háborúkat is szül.",
+        link: "https://europeanbitcoiners.com/az-exponencialis-fejlodes-kihivas-es-lehetoseg/",
+        img: "/article/az-exponencialis-fejlodes-kihivas-es-lehetoseg.png",
+        cat: "bevezető",
+        id: 37
+    },
+    {
         name: "Hiperbitcoinizáció",
         origin: "fordító: árpi",
         lang: "hu",
