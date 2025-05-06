@@ -8,10 +8,21 @@ export const books = [
         author: "Alex Gladstein",
         translator: "",
         year: "2023",
-        text: "Rejtett elnyomás - Hogyan adja el az IMF és a Világbank a kizsákmányolást fejlesztésként",
+        text: "Rejtett elnyomás – Hogyan adja el az IMF és a Világbank a kizsákmányolást fejlesztésként",
         desc: "Az IMF-et és a Világbankot azért hozták létre, hogy segítsenek az országoknak túlélni a pénzügyi válságokat, és segítsenek nekik prosperáló gazdasági szereplőkké válni. A 75 éves múltjuk azonban éppen az ellenkezőjét mutatja: hiteleik és strukturális kiigazítási politikáik lehetetlenül nagy adósságcsapdába taszították a szegény országokat, és arra kényszerítették a harmadik világot, hogy a nyugati fogyasztásra szánt áruk előállítására összpontosítson, ahelyett, hogy a hazai fogyasztást és ipart növelné. A Világbank és az IMF 'fejlesztése és segítsége' minden egyéb, csak nem 'fejlesztés'. A valóság a neokolonialista kizsákmányolás története, megdöbbentő eredményekkel.<br /><br /><small><b>Bővebben:</b> <a href='https://www.bitcoinbazis.hu/hogyan-adja-el-az-imf-es-a-vilagbank-a-kizsakmanyolast-fejleszteskent/' target='_blank'>BitcoinBázis cikk</a>, Bitcoin Kebab <a href='https://www.youtube.com/watch?v=rzOMbfTRjwg' target='_blank'>podcast a szerzővel</a> magyar felirattal</small>",
         img: "/books/hidden-repression.png",
         shop: "<strong>Megvásárolható:</strong> <a href='https://store.bitcoinmagazine.com/collections/books/products/hidden-repression' target='_blank'>BitcoinMagazine</a>"
+    },
+    {
+        id: "a-holnap-ara",
+        title: "A holnap ára – A jövőnket alakító technológiai és gazdasági folyamatok",
+        author: "Jeff Booth",
+        translator: "Nyuli Kinga",
+        year: "2023",
+        text: "",
+        desc: "<b>Különleges korban élünk.</b> A technológiai fejlesztések gyorsabb ütemben haladnak, mint ahogy képesek lennénk felfogni azokat. Elképesztő sebességgel változó világunkban egyszerűen nem engedhetjük meg magunknak, hogy ne próbáljunk meg lépést tartani.<br /><br /><b>A helyi és a globális gazdaság számára mielőbb egy új keretrendszert kell megteremtenünk,</b> különben a technológiai fejlődés, ahelyett hogy jólétet teremtene, könnyedén romboló erővé válhat.<br /><br /><b>A technológia és az e-kereskedelem</b> világában vezetőként és kiemelkedő gondolkodóként is otthonosan mozgó Jeff Booth nem fél kétségbe vonni az általánosan elfogadott elképzeléseket. Egyedülálló kötetében bemutatja a jelenünket – és egyben a jövőnket – alakító technológiai és gazdasági folyamatokat és az előttünk álló döntéseket. A virtuális valóság, az önvezető autók, a mesterséges intelligencia, vagy a 3D-nyomtatás bemutatásával és jövőbeli irányaival rámutat, hogy noha hihetetlen lehetőség előtt áll az emberiség, a közös jólét érdekében együtt kell működnünk.<br /><br />„Booth bemutatja a technológiai fejlődés deflációs hatását, továbbá az egyre könnyebben hozzáférhető hitelek következményeit. Booth vállalkozóként egyszerre gondolkodó és cselekvő ember, aki könyvével igyekszik döntésre késztetni olvasóit. Kötelező olvasmány az üzleti élet vezetői, a vállalkozók, a politikusok és az összes olyan fiatal számára, akik egy jobb jövőn munkálkodnak.” – Ajay Agrawal, a University of Toronto professzora és a Creative Destruction Lab alapítója<br /><br /><small><b>Bővebben:</b> <a href='https://europeanbitcoiners.com/az-exponencialis-fejlodes-kihivas-es-lehetoseg/' target='_blank'>magyar nyelvű cikk a könyvről</a></small>",
+        img: "/books/a-holnap-ara.jpg",
+        shop: "<strong>Megvásárolható:</strong> <a href='https://www.scolar.hu/a-holnap-ara' target='_blank'>Scolar</a>"
     },
     {
         id: "kis-bitcon-konyv",
@@ -26,7 +37,7 @@ export const books = [
     },
     {
         id: "saif-bitcoin-standard",
-        title: "Bitcoin Standard - A központi bankok decentralizált alternatívája",
+        title: "Bitcoin Standard – A központi bankok decentralizált alternatívája",
         author: "Saifedean Ammous",
         translator: "Bedő Máté",
         year: "2022",
@@ -37,7 +48,7 @@ export const books = [
     },
     {
         id: "saif-fiat-standard",
-        title: "Fiat Standard - A mindent uraló pénzügyi rendszer alternatívái",
+        title: "Fiat Standard – A mindent uraló pénzügyi rendszer alternatívái",
         author: "Saifedean Ammous",
         translator: "Bedő Máté",
         year: "2023",
