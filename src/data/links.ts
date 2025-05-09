@@ -10,14 +10,14 @@ export const links = [
         items: [
             {
                 name: "Hotel AURORA****",
-                text: "Bitcoint elfogadó és tartalékoló szálloda Miskolctapolcán.<br /><a href='https://bitcoinmiskolc.hu' target='_blank'>Bitcoin Miskolc konferencia</a> 2025. október 17-19.",
+                text: "Bitcoint elfogadó és tartalékoló, wellness szálloda Miskolctapolcán.<br /><a href='https://bitcoinmiskolc.hu' target='_blank'>Bitcoin Miskolc konferencia</a> 2025. október 17-19.",
                 afftype: "",
                 affdetail: "",
                 url: "https://hotelaurora.hu"
             },
             {
                 name: "Hotel ATLANTIS****",
-                text: "Bitcoint elfogadó és tartalékoló szálloda Hajdúszoboszlón.",
+                text: "Bitcoint elfogadó és tartalékoló, családi wellness szálloda Hajdúszoboszlón.",
                 afftype: "",
                 affdetail: "",
                 url: "https://hotelatlantis.hu"
