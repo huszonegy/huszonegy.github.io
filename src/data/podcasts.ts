@@ -77,7 +77,7 @@ export const podcasts = [
         img: "/pics/mi-az-a-bitcoin-e56.jpg",
         date: "2025.03.21.",
         members: ["Feri", "Anti"],
-        topic: "Bemelegítő beszélgetés a második magyarországi Bitcoin konferencia előtt a rendezvény helyszínén, Hajdúszoboszlón, a podcastot is támogató, bitcoin-elfogadó Hotel Atlantisban.",
+        topic: "Bemelegítő beszélgetés a második magyarországi Bitcoin konferencia előtt a rendezvény helyszínén, Hajdúszoboszlón, a podcastot is támogató, bitcoin-elfogadó, négycsillagos Hotel Atlantisban, mely alapból egy családi wellness szálloda.",
         yt: "https://youtu.be/VtgyZaPU588",
         fountain: "https://fountain.fm/episode/5xSoBJ0TPim7chc5e4T1"
     },
