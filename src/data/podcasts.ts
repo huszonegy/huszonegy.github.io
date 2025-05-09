@@ -2,10 +2,20 @@
 
 export const podcasts = [
     {
+        name: "Miért fontosak a Bitcoin node-ok?",
+        id: "E63",
+        img: "/pics/mi-az-a-bitcoin-e63.jpg",
+        date: "2025.05.09.",
+        members: ["Anti", "Openoms", "Árpi"],
+        topic: "Miért fontosak a Bitcoin node-ok? - Hogyan kezdj neki node futtatásának? - A Bitcoin hálózat decentralizált természete - Magánszféra védelme Tor hálózattal - Tor, I2P és egyéb privát hálózatok használata - Dedikált hardverek nódokhoz - Raspiblitz: a legszabadabb nodeprojekt - Közösségi támogatás - Újdonságok a honlapon és könyvajánló - Támogatók és BTC Prague -10% - Bitcoin for Corporations",
+        yt: "https://youtu.be/E4urDbrZ-IA",
+        fountain: "https://fountain.fm/episode/RIKJwV6lYDuKNq5tb1nY"
+    },
+    {
         name: "XXI Capital - a Bitcoin új támadása a fiat rendszer ellen",
         id: "E62",
         img: "/pics/mi-az-a-bitcoin-e62.jpg",
-        date: "2025.05.01.",
+        date: "2025.05.02.",
         members: ["Anti", "Árpi"],
         topic: "Új támadás a fiat rendszer ellen - XXI Capital tervei és Nasdaq megjelenés - Jack Mallers podcastja: pénzpiaci hatások - Amerikai kincstárjegyek és Bitcoin átmenet - Nagy játékosok és Bitcoin kereslet - Bitcoin mint értékmérő - Nemzetállamok és Bitcoin trendek - Bitcoin az USA-ban és Magyarországon - Hibrid kincstárak és a jövő pénzügyei - Strategy, XXI Capital és szintetikus felezés",
         yt: "https://youtu.be/gFeF91xKcQw",
