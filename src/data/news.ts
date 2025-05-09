@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Defláció, decentralizáció, hiperbitcoinizáció",
+        html: "<a href='/podcast'>Podcastunkban</a> szóba került a tömegpszichológia, a manipuláció, az árelnyomás és a Bitcoin kincstári cégek témája, valamint a Bitcoin node működtetésének jelentősége, ami tömören a biztonság, magánszféra és szabadság támogatása.<br /><br />Új <a href='/cikkek'>cikkeink</a> egyrészt a hiperbitcoinizációt veszik górcső alá, másrészt pedig <b>A holnap ára</b> c. fantasztikusan időszerű könyvet, mely immár magyar nyelven is elérhető, és lényegében azt ecseteli, hogy a technológiai fejlődés az árak zuhanását eredményezi, ami deflációs hatása miatt az infláción és adósságon alapuló, elavult, centralizált pénzügyi-gazdasági rendszer ellen hat, ez pedig egyre nagyobb feszültségekhez vezet. A probléma részletes feltárása mellett erősen megjelenik a könyvben a megoldás centrikus, optimista hozzáállás, és a lényegi üzenete, hogy <b>arra fókuszáljunk, amit látni szeretnénk a világban,</b> és kreatívan, szabadon együttműködve vegyük ki a részünket új, decentralizált rendszereink építésében.<br /><br /><a href='/konyvek'>Könyv</a> oldalunk pedig bővült a fentebb említett kötelező olvasmánnyal.",
+        date: "2025.05.09."
+    },
+    {
         summary: "Dömping",
         html: "Egyrészt izgalmas <a href='/cikkek'>cikkek</a>kel és <a href='/podcast'>podcast</a> beszélgetésekkel bővült a honlapunkon elérhető anyagok tárháza, többek közt az alábbi témákaban: digitális euró vs. bitcoin, egészéges pénz, szabad piac, osztrák közgazdaságtan, pénznyomtatás, bitcoin és spiritualitás.<br /><br />Másrészt pedig egyre több felvétel bukkan fel <a href='/eloadas'>előadás</a> oldalunkon a márciusi bitcoin konferencia terméseként. Böngésszétek, osszátok!",
         date: "2025.04.17."
