@@ -6,6 +6,7 @@ import LinksView from '../views/LinksView.vue'
 import PodsView from '../views/PodsView.vue'
 import PreziView from '../views/PreziView.vue'
 import SupportView from '../views/SupportView.vue'
+import PizzaView from '../views/PizzaView.vue'
 import NewsView from '../views/NewsView.vue'
 import BooksView from '../views/BooksView.vue'
 import WalletsView from '../views/WalletsView.vue'
@@ -210,6 +211,14 @@ const router = createRouter({
             content: 'Bitcoin, magyar, támogatás, önkéntes, támogat'
           }
         ]
+      }
+    },
+    {
+      path: '/pizzaday',
+      name: 'pizzaday',
+      component: PizzaView,
+      meta: {
+        title: 'Pizza Nap',
       }
     },
     {
