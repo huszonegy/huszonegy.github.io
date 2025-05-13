@@ -5,6 +5,11 @@
 
 export const news = [
     {
+        summary: "Pizza Day a Dunakanyarban és Budapesten",
+        html: "<a href=\"/pizzaday\"><img src=\"/pics/pizzai.jpg\" style=\"float: left; margin-right: 10px;\"></a><p>Idén 15 éve történt az első vásárlás Bitcoinnal. Ebből az alkalomból május 24-én szombaton egész nap Bitcoinnal fizethetsz a Dunakanyarban 3 helyen.</p><p>Lazuljunk együtt a Piknikben Nagymaroson, majd félórás bringázás a Duna-parton, végül pizzázzunk együtt Verőcén! <a href=\"/pizzaday\">Részletek itt.</a></p><p>Budapesten is lesz a Pizza Nap alkalmából találkozó. Várunk május 22-én délután 4-től az Ábel jenő utca 29. szám alatt egy nagy kerti pizzázásra!</p>",
+        date: "2025.05.13."
+    },
+    {
         summary: "Defláció, decentralizáció, hiperbitcoinizáció",
         html: "<a href='/podcast'>Podcastunkban</a> szóba került a tömegpszichológia, a manipuláció, az árelnyomás és a Bitcoin kincstári cégek témája, valamint a Bitcoin node működtetésének jelentősége, ami tömören a biztonság, magánszféra és szabadság támogatása.<br /><br />Új <a href='/cikkek'>cikkeink</a> egyrészt a hiperbitcoinizációt veszik górcső alá, másrészt pedig <b>A holnap ára</b> c. fantasztikusan időszerű könyvet, mely immár magyar nyelven is elérhető, és lényegében azt ecseteli, hogy a technológiai fejlődés az árak zuhanását eredményezi, ami deflációs hatása miatt az infláción és adósságon alapuló, elavult, centralizált pénzügyi-gazdasági rendszer ellen hat, ez pedig egyre nagyobb feszültségekhez vezet. A probléma részletes feltárása mellett erősen megjelenik a könyvben a megoldás centrikus, optimista hozzáállás, és a lényegi üzenete, hogy <b>arra fókuszáljunk, amit látni szeretnénk a világban,</b> és kreatívan, szabadon együttműködve vegyük ki a részünket új, decentralizált rendszereink építésében.<br /><br /><a href='/konyvek'>Könyv</a> oldalunk pedig bővült a fentebb említett kötelező olvasmánnyal.",
         date: "2025.05.09."
