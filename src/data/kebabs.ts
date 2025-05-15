@@ -2,6 +2,14 @@
 
 export const kebabs = [
     {
+        name: "Így épít Bitcoin tartalékot egy magyar cégvezető",
+        img: "/pics/bitcoin-kebab-250511.png",
+        date: "2025.05.11.",
+        members: ["Barbi", "Feri"],
+        topic: "Ha a pénzrendszer romlott, akkor teljesen mindegy, mit csinálunk. De ha megjavítjuk a pénzt, megjavíthatjuk a világot is - vallja Kovács Ferenc, a Bitcoin Miskolc konferencia szervezője, cégvezető és elkötelezett bitcoiner.",
+        yt: "https://www.youtube.com/watch?v=OeetCvGm8i0",
+    },
+    {
         name: "Lightning Network",
         img: "/pics/bitcoin-kebab-240219.png",
         date: "2024.02.19.",
