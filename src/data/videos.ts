@@ -2,6 +2,39 @@
 
 export const videos = [
     {
+        type: "Magyar nyelvű",
+        details: "A HUSZONEGY tagjai által készített oktatóvideók",
+        parts: [
+            {
+                name: "Magyar nyelvű Firefish felület bemutató",
+                img: "/pics/magyar-nyelvu-firefish-felulet-bemutato.jpg",
+                date: "2025.05.15.",
+                members: ["Árpi"],
+                topic: "Ebben a videóban bemutatkoznak a peer-to-peer Bitcoin fedezetű kölcsönplatform alapvető funkciói, a regisztrációtól a kezelőfelületen keresztül, a piactéren, kölcsönigénylésen és befektetésen át a tudástárig.",
+                yt: "https://youtu.be/fxir9iKJrBc",
+                fountain: ""
+            },
+            {
+                name: "Blockstream JADE tárca beüzemelése",
+                img: "/pics/Blockstream-JADE-tarca-beuzemelese.jpg",
+                date: "2025.01.06.",
+                members: ["Tamás"],
+                topic: "A Blockstream JADE hardver tárca kicsomagolása, kulcs generálás, a 12 szó felírása, csatlakoztatás a Green wallethez, mely szintén az Adam Back által vezetett Blockstream terméke.",
+                yt: "https://youtu.be/wyIY89yrGZU",
+                fountain: ""
+            },
+            {
+                name: "A Bitcoin lényege",
+                img: "/pics/a-bitcoin-lenyege.jpg",
+                date: "2023.05.26.",
+                members: ["Árpi"],
+                topic: "A pénz képezi civilizációnk alapját. Az, hogy milyen pénzt használunk, alapvetően meghatározza, hogy hogyan működünk. A manipulálható pénz manipulált társadalmat szül, az egészséges pénz pedig egészséges társadalmat szül.",
+                yt: "https://youtu.be/8reD26Fj5R8",
+                fountain: ""
+            }
+        ]
+    },
+    {
         type: "Feliratos",
         details: "A HUSZONEGY tagjai által feliratozott videók",
         parts: [
@@ -93,30 +126,6 @@ export const videos = [
                 members: ["Árpi"],
                 topic: "A FIAT egy rendszer, Neo. Az a rendszer az ellenségünk. Benne körülnézve mi az, amit látsz? Üzletemberek, tanárok, ügyvédek, asztalosok... mind azt gondolják, hogy maguknak keresnek. Abban a hitben, hogy pénzük a kereskedelem eszköze, nem pedig a kontrollé. Meg kell értened, hogy a legtöbben nem készek látni ezt. Sokan annyira elkötelezettek, oly reménytelenül függnek a rendszertől, hogy készek harcolni a védelméért...",
                 yt: "https://youtu.be/xSgeEg1U0AQ",
-                fountain: ""
-            }
-        ]
-    },
-    {
-        type: "Magyar nyelvű",
-        details: "A HUSZONEGY tagjai által készített oktatóvideók",
-        parts: [
-            {
-                name: "Blockstream JADE tárca beüzemelése",
-                img: "/pics/Blockstream-JADE-tarca-beuzemelese.jpg",
-                date: "2025.01.06.",
-                members: ["Tamás"],
-                topic: "A Blockstream JADE hardver tárca kicsomagolása, kulcs generálás, a 12 szó felírása, csatlakoztatás a Green wallethez, mely szintén az Adam Back által vezetett Blockstream terméke.",
-                yt: "https://youtu.be/wyIY89yrGZU",
-                fountain: ""
-            },
-            {
-                name: "A Bitcoin lényege",
-                img: "/pics/a-bitcoin-lenyege.jpg",
-                date: "2023.05.26.",
-                members: ["Árpi"],
-                topic: "A pénz képezi civilizációnk alapját. Az, hogy milyen pénzt használunk, alapvetően meghatározza, hogy hogyan működünk. A manipulálható pénz manipulált társadalmat szül, az egészséges pénz pedig egészséges társadalmat szül.",
-                yt: "https://youtu.be/8reD26Fj5R8",
                 fountain: ""
             }
         ]
