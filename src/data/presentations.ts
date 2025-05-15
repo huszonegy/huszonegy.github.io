@@ -86,6 +86,33 @@ export const presentations = [
                 topic: "Bevezetés - Ismerős üzenetek a digitális életünkből - A digitális függőség hétköznapi példája - Közösségi média: függőség vagy szabadság? - E-mail vs. Nostr üzenetküldés - NOSTR működési elve - Valós alkalmazások és eszközök - Bemutató: Egy nap a NOSTR-ral - Gyakori kérdések - A digitális szabadság gyakorlati jelentősége - Magyarok a NOSTR ökoszisztémában - Gyakorlati bemutató a Primal használatával",
                 yt: "https://youtu.be/722DDGstuW0",
                 fountain: ""
+            },
+            {
+                name: "Kriptoadózási szabályok magánszemélyeknek",
+                img: "/pics/bitcoin-miskolc-adozas-2025.jpg",
+                date: "2025.03.22.",
+                members: ["Anita"],
+                topic: "Miért érdemes foglalkozni az adóval? - Milyen kriptoszabályozás érint közvetlenül bennünket Magyarországon? - Hol jár Magyarország a szabályozásban? - 'Kriptoeszköz' fogalma az szja törvényben - A 15%-os adókulcs - A 'Fekete Doboz' elv - Adóamnesztia - Költségek elszámolása - Adókiegyenlítés - A költségek dokumentálása - Keressek könyvelőt? - Kriptoadózási kalkulátor - Kiegészítése a személyi jövedelemadónak online - Hogyan kell - Az adó befizetése - Hogyan kell adózni? - Kriptoadózás lépésről lépésre könyv - További tartalmak az adózásról és szabályozásról közösséghez QR kód - Kripto SCAM-ek - Miről lesz szó a következő előadáson",
+                yt: "https://youtu.be/lsE6KLgP0I4",
+                fountain: ""
+            },
+            {
+                name: "Generációk a bitcoin világában",
+                img: "/pics/bitcoin-miskolc-gyerekek.jpg",
+                date: "2025.03.22.",
+                members: ["gyerekek"],
+                topic: "Első találkozás a Bitcoinnal - Használat tároláson túl, árfolyamkövetés - Bitcoin zsebpénzként - Bitcoin a fiatalok körében - Közösség kérdései - A Bitcoin, mint zsebpénz működése - Tárolás vagy költés - Érdekli-e őket, ha esik az árfolyam és milyen gyakran nézik azt - Hány évesen kezdtek el foglalkozni ezzel - Hosszútávú célok - Mögöttes pénzügyi világ, gazdasági helyzet befolyásolja-e a döntéseket - A Bitcoin árfolyama, mikor elkezdtek ezzel foglalkozni - Bitcoin zsebpénzként: hogyan kezdj bele?",
+                yt: "https://youtu.be/z4DqCqtgibg",
+                fountain: ""
+            },
+            {
+                name: "Ne add el, használd fedezetként!",
+                img: "/pics/bitcoin-miskolc-firefish.jpg",
+                date: "2025.03.22.",
+                members: ["Árpi"],
+                topic: "Az előadás egy olyan megoldást mutat be, amely lehetővé teszi, hogy bitcoin eladása nélkül is euróhoz lehessen jutni. Ismertetésre kerül a Firefish platform, amely letétkezelő nélküli, peer-to-peer alapon kapcsolja össze a bitcoin tulajdonosokat és a kölcsönadókat, így a bitcoin kölcsön fedezetként használható, amit a világ legerősebb számítógépes hálózata, a Bitcoin hálózat biztosít.",
+                yt: "https://youtu.be/fu82KiJzfks",
+                fountain: ""
             }
         ]
     },
