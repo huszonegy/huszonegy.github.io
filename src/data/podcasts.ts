@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "Bitcoint az étlapra: üzleti bitcoin elfogadás",
+        id: "E64",
+        img: "/pics/mi-az-a-bitcoin-e64.jpg",
+        date: "2025.05.16.",
+        members: ["Anti", "Tamás", "Árpi"],
+        topic: "Bitcoin az étlapon - A Bitcoin elfogadás technikai folyamata - Lightning Network és fizetési kérelmek - Bitcoin POS terminál működés közben - Nyomtatott és elektronikus nyugta - Bikás és medvés várakozások - Papír bitcoin - OP_RETURN vita: vihar egy pohár vízben - Újdonság, együttműködés - Pizza Day rendezvényeink, ráadás",
+        yt: "https://youtu.be/-9uC2Whebgw",
+        fountain: "https://fountain.fm/episode/AEFRIMgwFxoLiAeWYP4z"
+    },
+    {
         name: "Miért fontosak a Bitcoin node-ok?",
         id: "E63",
         img: "/pics/mi-az-a-bitcoin-e63.jpg",
