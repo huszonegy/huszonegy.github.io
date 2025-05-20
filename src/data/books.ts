@@ -3,6 +3,17 @@
 
 export const books = [
     {
+        id: "kis-bitcon-konyv",
+        title: "A kis Bitcoin könyv",
+        author: "T. Ajiboye, L. Buenaventura, A. Gladstein, L. Liu, A. Lloyd, A. Machado, J. Song, A. Vranova",
+        translator: "Kovács Andrea (BitcoinBázis), Bánfi Balázs Miklós, 'OptOut'",
+        year: "2023",
+        text: "Ez a kis könyv kiváló bevezető a bitcoinról, ajánljuk mindenkinek, aki kicsit is nyitott a megismerésre. Könnyen érthető és hiteles; a bitcoin társadalmi és szabadságjogi vonatkozásai irányából közeliti meg a kérdést.",
+        desc: "Biztosan hallottál már a bitcoinról a hírekben vagy ismerősöktől. Miért változik az árfolyama? Tényleg jó befektetés a bitcoin? Mitől van értéke? Miért beszélnek egyesek róla úgy, mint valamiről, ami megváltoztathatja a világot? A kis Bitcoin könyv rávilágít arra, hogy mi a gond a pénzzel napjainkban, és miért találták ki a bitcoint mint a jelenlegi rendszer jobb alternatíváját.",
+        img: "/books/kis-bitcoin-konyv.jpg",
+        shop: "<strong>Megvásárolható:</strong> <a href='https://bookline.hu/search/search.action?page=1&searchfield=kis+bitcoin+k%C3%B6nyv' target='_blank'>BookLine</a> és <a href='https://shop.bitcoinbazis.hu/termek/a-kis-bitcoin-konyv/' target='_blank'>BitcoinBázis Shop</a> (bitcoinért is)<br /><strong>Ingyenesen olvasható:</strong> <a href='/files/A-kis-bitcoin-konyv.pdf' target='_blank'>pdf</a>"
+    },
+    {
         id: "hidden-repression",
         title: "Hidden repression - How the IMF and World Bank Sell Exploitation as Development",
         author: "Alex Gladstein",
@@ -23,17 +34,6 @@ export const books = [
         desc: "<b>Különleges korban élünk.</b> A technológiai fejlesztések gyorsabb ütemben haladnak, mint ahogy képesek lennénk felfogni azokat. Elképesztő sebességgel változó világunkban egyszerűen nem engedhetjük meg magunknak, hogy ne próbáljunk meg lépést tartani.<br /><br /><b>A helyi és a globális gazdaság számára mielőbb egy új keretrendszert kell megteremtenünk,</b> különben a technológiai fejlődés, ahelyett hogy jólétet teremtene, könnyedén romboló erővé válhat.<br /><br /><b>A technológia és az e-kereskedelem</b> világában vezetőként és kiemelkedő gondolkodóként is otthonosan mozgó Jeff Booth nem fél kétségbe vonni az általánosan elfogadott elképzeléseket. Egyedülálló kötetében bemutatja a jelenünket – és egyben a jövőnket – alakító technológiai és gazdasági folyamatokat és az előttünk álló döntéseket. A virtuális valóság, az önvezető autók, a mesterséges intelligencia, vagy a 3D-nyomtatás bemutatásával és jövőbeli irányaival rámutat, hogy noha hihetetlen lehetőség előtt áll az emberiség, a közös jólét érdekében együtt kell működnünk.<br /><br />„Booth bemutatja a technológiai fejlődés deflációs hatását, továbbá az egyre könnyebben hozzáférhető hitelek következményeit. Booth vállalkozóként egyszerre gondolkodó és cselekvő ember, aki könyvével igyekszik döntésre késztetni olvasóit. Kötelező olvasmány az üzleti élet vezetői, a vállalkozók, a politikusok és az összes olyan fiatal számára, akik egy jobb jövőn munkálkodnak.” – Ajay Agrawal, a University of Toronto professzora és a Creative Destruction Lab alapítója<br /><br /><small><b>Bővebben:</b> <a href='https://europeanbitcoiners.com/az-exponencialis-fejlodes-kihivas-es-lehetoseg/' target='_blank'>magyar nyelvű cikk a könyvről</a></small>",
         img: "/books/a-holnap-ara.jpg",
         shop: "<strong>Beleolvasható és megvásárolható:</strong> <a href='https://www.scolar.hu/a-holnap-ara' target='_blank'>Scolar</a>"
-    },
-    {
-        id: "kis-bitcon-konyv",
-        title: "A kis Bitcoin könyv",
-        author: "T. Ajiboye, L. Buenaventura, A. Gladstein, L. Liu, A. Lloyd, A. Machado, J. Song, A. Vranova",
-        translator: "Kovács Andrea (BitcoinBázis), Bánfi Balázs Miklós, 'OptOut'",
-        year: "2023",
-        text: "Ez a kis könyv kiváló bevezető a bitcoinról, ajánljuk mindenkinek, aki kicsit is nyitott a megismerésre. Könnyen érthető és hiteles; a bitcoin társadalmi és szabadságjogi vonatkozásai irányából közeliti meg a kérdést.",
-        desc: "Biztosan hallottál már a bitcoinról a hírekben vagy ismerősöktől. Miért változik az árfolyama? Tényleg jó befektetés a bitcoin? Mitől van értéke? Miért beszélnek egyesek róla úgy, mint valamiről, ami megváltoztathatja a világot? A kis Bitcoin könyv rávilágít arra, hogy mi a gond a pénzzel napjainkban, és miért találták ki a bitcoint mint a jelenlegi rendszer jobb alternatíváját.",
-        img: "/books/kis-bitcoin-konyv.jpg",
-        shop: "<strong>Megvásárolható:</strong> <a href='https://bookline.hu/search/search.action?page=1&searchfield=kis+bitcoin+k%C3%B6nyv' target='_blank'>BookLine</a> és <a href='https://shop.bitcoinbazis.hu/termek/a-kis-bitcoin-konyv/' target='_blank'>BitcoinBázis Shop</a> (bitcoinért is)<br /><strong>Ingyenesen olvasható:</strong> <a href='/files/A-kis-bitcoin-konyv.pdf' target='_blank'>pdf</a>"
     },
     {
         id: "saif-bitcoin-standard",
