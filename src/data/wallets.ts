@@ -80,6 +80,11 @@ Szempontok: jó ha egy tárca: nyílt forráskódú (FOSS), és kizárólag bitc
 Szempontok: jó ha egy tárca: nyílt forráskódú (FOSS), és kizárólag bitcoinos.",
             items: [
                 {
+                    name: "Ginger wallet",
+                    text: "Non-Custodial, Open source Bitcoin tárca CoinJoinnal, 2FA-val, Torral és hardvertárca-támogatással. Magyar nyelv elérhető.",
+                    link: "https://gingerwallet.io"
+                },
+                {
                     name: "Sparrow",
                     text: "A Sparrow wallet sokrétű funkcionalitást támogat, egyik legprofibb, viszont a felülete elsőre nem a legegyszerűbb. ",
                     link: "https://www.sparrowwallet.com"
