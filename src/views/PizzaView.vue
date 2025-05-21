@@ -2,7 +2,7 @@
   <main>
     <div name="main-inner" class="container">
       <div class="container-sm py-3 px-3 mx-auto" style="min-height: 400px; max-width: 860px;">
-        <img src="/pics/pizzaday.jpg" style="max-width: 800px;"><br>
+        <img src="/pics/pizzaday.png" style="max-width: 800px;"><br>
         <h1>Pizza Nap a Dunakanyarban</h1>
 
 <p>
@@ -25,7 +25,7 @@ Ha most kezded a bitcoinozást, javasoljuk, hogy a "Blink Bitcoin Wallet"-et (iP
 Tegyél a pénztárcába valamennyi Bitcoint, hogy pizzára, kajára, piára is jusson!
 </p>
 <p>
-Aki szeretné, annak a Piknikben délelőtt segítünk, hogy bitcoin kerüljön a tárcájába. Vagy a Zsengélőben délután. Ha csak kíváncsi vagy, mi hajtja a Bitcoinosokat, természetesen forinttal is vásárolhatsz a helyeken, szívesen látunk.
+Aki szeretné, annak a Piknikben 12h-14h-ig segítünk, hogy Bitcoin kerüljön a tárcájába. Vagy a Zsengélőben délután. Ha csak kíváncsi vagy, mi hajtja a Bitcoinosokat, természetesen forinttal is vásárolhatsz a helyeken, szívesen látunk.
 </p>
 
 <h3>Helyszínek, ahol elfogadják a Bitcoint aznap</h3>
@@ -38,7 +38,7 @@ Aki szeretné, annak a Piknikben délelőtt segítünk, hogy bitcoin kerüljön 
 </p>
 
 <p>
-A <b>Piknik Manufaktúrában</b> változatos kajákat, hamburgert, sütiket, sülteket vagy épp indiai fűszerezéssel készült egytálételeket kaptok. Érdemes elidőzni egy kicsit a mediterrán hangulatú helyen a Duna-parton. Reggel 10h-tól 13h-ig minket is megtaláltok ott, és segítünk mindenben ami az induláshoz kell, válaszolunk a kérdéseitekre.
+A <b>Piknik Manufaktúrában</b> változatos kajákat, hamburgert, sütiket, sülteket vagy épp indiai fűszerezéssel készült egytálételeket kaptok. Érdemes elidőzni egy kicsit a mediterrán hangulatú helyen a Duna-parton. Egy ebéd mellett 12h-14h-ig minket is megtaláltok ott, és segítünk mindenben ami az induláshoz kell, válaszolunk a kérdéseitekre.
 </p>
 <p>
 A <b>Béke Pékség és Bisztró</b> a bringaút mellett található, ahol igen kényesek az étel minőségére. Bio minősítésű Csorosznyai lisztet használnak és egész éjjel kovászolják a tésztát sütés előtt, Különböző ízesítésű kenyereket és péksütiket, quiche-t és mikrozöldségeket kaphattok a kávé mellé. Bio-lisztet is vásárolhattok náluk, melyen tapintható a különbség a bolti liszthez képest.
@@ -47,9 +47,9 @@ A <b>Béke Pékség és Bisztró</b> a bringaút mellett található, ahol igen 
 Délután a <b>Zsengélőben</b>, Verőce kulturális középpontjában egy kiváló pizza mellett tapasztalt bitcoinosok fognak a kérdéseitekre válaszolni, praktikus tippeket adni, segíteni wallet témában, és abban, hogy hozzájussatok azokhoz a kevésbé ismert, ám fontos részletekhez, amik az újságcikkekből gyakran kimaradnak. Ez a fő helyszín, ahol délután 6 óra körül 5 perces, könnyed előadásokat hallhattok. Ha van neked is témád, amiről 5 percben beszélnél, keress meg minket a Telegramon! A pizza 15h-20h-ig elérhető.
 </p>
 
-<h3>Info tapasztalt bitcoinosoknak</h3>
+<h3>Technikai infó</h3>
 <p>
-Bármelyik bitcoin wallet jó, ami támogat lightning-ot. A pultos egy QR kódot fog eléd rakni, ami egy Lightning invoice - ezt a bitcoin lightning walleteddel le kell olvasni, így tudsz fizetni. A Zsengélőben hardveres pénztárcákkal is találkozhatsz, és megnézheted, hogy működnek.
+Bármelyik Bitcoin wallet jó, ami támogat lightning-ot. A pultos egy QR kódot fog eléd rakni, ami egy Lightning invoice - ezt a Bitcoin Lightning walleteddel le kell olvasni, így tudsz fizetni. A Zsengélőben hardveres pénztárcákkal is találkozhatsz, és megnézheted, hogy működnek.
 </p>
 
 <h3>Linkek</h3>
