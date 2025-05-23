@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "Bitcoin öröklés, biztonságos jövő",
+        id: "E65",
+        img: "/pics/mi-az-a-bitcoin-e65.jpg",
+        date: "2025.05.23.",
+        members: ["nopara", "Anti", "Dávid"],
+        topic: "Miért fontos téma a Bitcoin öröklés? - A Bitcoin elvesztésének kockázatai - Technikai megoldások az öröklésre - Naív és tökéletes öröklési megoldások - Haladó technológiai megközelítések - Kombinált megoldások és jogi szempontok - Záró tanácsok és összefoglalás",
+        yt: "https://youtu.be/3p4moTz05vs",
+        fountain: "https://fountain.fm/episode/Dbm3TbvgfeOPZhXJkMiY"
+    },
+    {
         name: "Bitcoint az étlapra: üzleti bitcoin elfogadás",
         id: "E64",
         img: "/pics/mi-az-a-bitcoin-e64.jpg",
