@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "Bitcoin Pizza Day történetek és tanulságok",
+        id: "E66",
+        img: "/pics/mi-az-a-bitcoin-e66.jpg",
+        date: "2025.05.30.",
+        members: ["Dani", "Lez", "Anti"],
+        topic: "Bitcoin elfogadás, Pizza Day - Jogi és technikai kihívások - Blink wallet használata, tranzakciók ellenőrzése - BTC Map, elfogadóhelyek növelése, marketing előnyök - Ingatlan vs. Bitcoin, forgalomképesség - Digitális euró bevezetésének potenciális hatásai - További események szervezése kezdőknek",
+        yt: "https://youtu.be/rvEMkylYZ-k",
+        fountain: "https://fountain.fm/episode/S9p56cZl0K1V47qnI88s"
+    },
+    {
         name: "Bitcoin öröklés, biztonságos jövő",
         id: "E65",
         img: "/pics/mi-az-a-bitcoin-e65.jpg",
