@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "Bitcoin, Nostr és a szabadságtechnológiák jövője",
+        id: "E67",
+        img: "/pics/mi-az-a-bitcoin-e67.jpg",
+        date: "2025.06.06.",
+        members: ["Anti", "Five", "Árpi"],
+        topic: "Szabadságtechnológiák iránti elköteleződés - Privacy és önrendelkezés a Bitcoin használatában - bitcoinplebs.org: gyakorlati útmutatók a Bitcoin tárolásához - Bitcoin meetupok szervezése Budapesten - QR-kódos jattolás: ötlet a Bitcoin népszerűsítésére - Noster: a szuverén online identitás kulcsa - SatShoot.com: szabadúszó piactér Bitcoinnal és Noszterrel - A Nostr előnyei és a decentralizáció jövője - Bitcoin továbbadása: szabadságra nevelés",
+        yt: "https://youtu.be/my6BzEQbhTI",
+        fountain: "https://fountain.fm/episode/ELSzj55egDOOOn6V03tn"
+    },
+    {
         name: "Bitcoin Pizza Day történetek és tanulságok",
         id: "E66",
         img: "/pics/mi-az-a-bitcoin-e66.jpg",
