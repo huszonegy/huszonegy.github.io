@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "Üzleti Bitcoin tartalékképzés és publikálás magyar úttörője",
+        id: "E68",
+        img: "/pics/mi-az-a-bitcoin-e68.jpg",
+        date: "2025.06.13.",
+        members: ["Anti", "Feri"],
+        topic: "Bitcoin Pizza Day élmények - Trust Summit és Bitcoin-előadás - Bitcoin-tartalékolás és a bitcointreasuries.net - Vállalati Bitcoin-stratégia és verseny - Bitcoin árfolyam-előrejelzések - Bitcoin-elfogadás technikai részletei - BTC Prague és bányászati eszközök - BitcoinBázis podcast vendégszereplés - Előadás diák és a pénzügyi rendszer problémái - Jack Mallers prezi 5 percben felirattal",
+        yt: "https://youtu.be/a9G0KK3RO40",
+        fountain: "https://fountain.fm/episode/4nrPUH23AWO9CkvstAuu"
+    },
+    {
         name: "Bitcoin, Nostr és a szabadságtechnológiák jövője",
         id: "E67",
         img: "/pics/mi-az-a-bitcoin-e67.jpg",
