@@ -39,6 +39,24 @@ export const videos = [
         details: "A HUSZONEGY tagjai által feliratozott videók",
         parts: [
             {
+                name: "Michael Saylor: 21 út a gazdagsághoz",
+                img: "/pics/michael-saylor-21-ut-a-gazdagsaghoz.jpg",
+                date: "2025.06.17.",
+                members: ["Zsolt"],
+                topic: "Michael Saylor tartotta a nyitóbeszédet 2025. május 29-én a Las Vegasban megtartott Bitcoin Konferencián. Ismerd meg gondolatait az általunk készített magyar feliratozással! Saylor a beszédében szereplő 21 alapelvet magánszemélyeknek, családoknak és kisvállalkozásoknak szánta. Hangsúlyozta, hogy a Bitcoin egy tökéletesített, programozható tőke, amelyre hatalmas globális kereslet mutatkozik.",
+                yt: "https://youtu.be/RqFakk6PS4o",
+                fountain: ""
+            },
+            {
+                name: "Adósság alapú pénzügyi rendszerben élünk",
+                img: "/pics/adossag-alapu-penzugyi-rendszerben-elunk.jpg",
+                date: "2025.06.13.",
+                members: ["Árpi"],
+                topic: "Jack Mallers, a Strike és a TwentyOne vezérigazgatója szenvedélyes előadásában a fiat valuta válságát és a Bitcoin forradalmi megoldását mutatja be. Ez a rövidített, magyar felirattal ellátott változat az adósság alapú pénzügyi rendszer problémáit és a Bitcoin szuverenitást nyújtó erejét tárja fel. Csatlakozz a békés forradalomhoz, és ismerd meg, miért a Bitcoin a jövő pénze!",
+                yt: "https://youtu.be/ZRV4aRwY864",
+                fountain: ""
+            },
+            {
                 name: "MI A FUD? Félelem - Bizonytalanság - Kétely",
                 img: "/pics/Mi-a-FUD.jpg",
                 date: "2025.02.06.",
