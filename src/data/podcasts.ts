@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "Bitcoin: a decentralizált szabadság szelleme",
+        id: "E69",
+        img: "/pics/mi-az-a-bitcoin-e69.jpg",
+        date: "2025.06.20.",
+        members: ["Anti", "Dani", "Árpi"],
+        topic: "Spiritualitás és Bitcoin - Az ego és a felelősségvállalás a Bitcoin kapcsán - Centralizáció vs. decentralizáció a természetben és társadalomban - A Bitcoin mint reménysugár és közösségi erő - Alulról szerveződő közösségek és a cselekvés fontossága - Tudatosság és a Bitcoin hatása a világlátásra - A Bitcoin elfogadása és gyakorlati alkalmazása - A pénzvilág átformálása és pozitív jövőkép - Bitcoinerek közössége és az egyesítő erő",
+        yt: "https://youtu.be/heedVK9k-88",
+        fountain: "https://fountain.fm/episode/nOtPTkwIMEU3chMktfjl"
+    },
+    {
         name: "Üzleti Bitcoin tartalékképzés és publikálás magyar úttörője",
         id: "E68",
         img: "/pics/mi-az-a-bitcoin-e68.jpg",
