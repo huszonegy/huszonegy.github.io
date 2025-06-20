@@ -5,7 +5,7 @@ import { link_simplified } from '../utils'
 
 <template>
     <h1>Bitcoin oktatóvideók magyarul</h1>
-    <div v-for="kategoria in videos">
+    <div v-for="kategoria in videos" :id="kategoria.type.toLowerCase().replace(' ', '-')">
         <h2>
             {{ kategoria.type }}
         </h2>
