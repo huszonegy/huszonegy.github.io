@@ -6,15 +6,20 @@ export const wallets = {
         {
             name: "Lightning tárcák -- szolgáltatói",
             id: "lighning-custodial",
-            text: "A lightning egy elterjedt második-szintű (L2) bitcoin fizetési rendszer, gyors és olcsó utalásokat tesz lehetővé, főleg kisebb összegekre praktikus. \
-A letétkezelői (custodial) tárcáknál valójában a szolgáltató tárolja a felhasználók satoshijait, ezért meg kell bízni bennük. \
+            text: "A Lightning egy elterjedt második-rétegű (L2) bitcoin fizetési rendszer, gyors és olcsó utalásokat tesz lehetővé, főleg kisebb összegekre praktikus. \
+A szolgáltatói vagy letétkezelő (custodial) tárcáknál valójában a szolgáltató tárolja a felhasználók satoshijait, ezért meg kell bízni bennük. \
 Léteznek még ún. szuverén (self-custodial) tárcák, ahol a privát kulcsok a felhasználónál vannak, ezért biztonságosabbak. \
 A letétkezelői tárcák egyszerűbbek, első ismerkedésre jobban megfelelnek, de szigorúan CSAK KISEBB ÖSSZEGEKKEL ajánljuk!",
             items: [
                 {
                     name: "Blink",
-                    text: "Könnyen használható, sok funkcióval bíró mobil app; salvadori központú cég áll mögötte, nem szükséges KYC; elérhető magyar felülettel is; hasznos kvízt is foglal magában.",
+                    text: "Könnyen használható, sok funkcióval bíró mobil app; salvadori központú cég áll mögötte, nem szükséges KYC; elérhető magyar felülettel is; hasznos, tanulságos kvízt is foglal magában, mely néhány 1-2 sat-tal jutalmazza az egyes leckéket teljesítő felhasználót.",
                     link: "https://blink.sv/"
+                },
+                {
+                    name: "Strike",
+                    text: "Könnyen használható, sokoldalú mobil app, amely a Lightning hálózaton gyors és olcsó bitcoin tranzakciókat kínál. Támogatja a fiat (pl. euró) és bitcoin közötti átváltást, valamint globális pénzátutalásokat. KYC szükséges. Kezelőfelülete intuitív, ideális kezdőknek és haladóknak egyaránt.",
+                    link: "https://strike.me/"
                 },
                 {
                     name: "Wallet of Satoshi",
@@ -22,15 +27,20 @@ A letétkezelői tárcák egyszerűbbek, első ismerkedésre jobban megfelelnek,
                     link: "https://walletofsatoshi.com/"
                 }
             ],
-            outro: "Megemlíthető még a Strike app is, bár az több mint egy Lightning tárca, hiszen fiat (euró) - bitcoin átváltást is támogat. KYC szükséges."
+            outro: ""
         },
         {
             name: "Lightning tárcák -- önrendelkező",
             id: "lightning-selfcustodial",
-            text: "A lightning egy elterjedt második-szintű (L2) bitcoin fizetési rendszer, gyors és olcsó utalásokat tesz lehetővé, főleg kisebb összegekre praktikus. \
+            text: "A Lightning egy elterjedt második-rétegű (L2) bitcoin fizetési rendszer, gyors és olcsó utalásokat tesz lehetővé, főleg kisebb összegekre praktikus. \
 Az ún. szuverén, önredelkező (self-custodial) tárcáknál a privát kulcsok kizárólag a felhasználónál vannak, ezáltal biztonságosabbak. \
-Léteznek még letétkezelői (custodial) tárcák, ahol valójában a szolgáltató tárolja a felhasználók pénzét; itt van rizikó a szolgáltató miatt, viszont kicsit egyszerűbben használhatók.",
+Léteznek még szolgáltatói vagy letétkezelő (custodial) tárcák, ahol valójában a szolgáltató tárolja a felhasználók pénzét; itt van rizikó a szolgáltató miatt, viszont kicsit egyszerűbben használhatók.",
             items: [
+                {
+                    name: "AQUA",
+                    text: "Az AQUA egy olyan önrendelkező (self-custodial) Bitcoin és Lightning tárca, amely egyszerű kezelhetőséget kínál kezdőknek is. Hamarosan magyar felülettel is elérhető lesz. Támogatja a Bitcoin on-chain, Lightning és Liquid hálózatokat, valamint a Tether USDt-t. A Lightning tranzakciókat a Boltz segítségével, Liquid Bitcoin (L-BTC) alapú submarine swap-okkal kezeli, automatizálva a csatornakezelést.",
+                    link: "https://aquawallet.io/"
+                },
                 {
                     name: "Phoenix",
                     text: "Ez egy olyan Lightning tárca, amelyik tárolja a privát kulcsokat, így nem kell megbízni a szolgáltatóban, viszont nem is kell a felhasználónak foglalkoznia a csatornák kezelésével, mert azt a szolgáltató szinte teljesen automatizálja -- némi díjért cserébe (jól átlátható díjazás).",
@@ -38,12 +48,12 @@ Léteznek még letétkezelői (custodial) tárcák, ahol valójában a szolgált
                 },
                 {
                     name: "Breez",
-                    text: "Self-custodial lightning tárca, mobilon futó teljes lightning node, saját csatorna-kezelés lehetőséggel",
+                    text: "Self-custodial lightning tárca, mobilon futó teljes Lightning node, saját csatorna-kezelés lehetőséggel",
                     link: "https://breez.technology/mobile/"
                 },
                 {
                     name: "Zeus",
-                    text: "A Zeus egy sokoldalú lightning tárca, gyakran 'távirányító appként' használják egy szerveren futó saját node kezeléséhez. De ezen túl képes helyben futó nodeként is működni, akár saját csatorna kezeléssel, akár a Zeus LSP-jét használva.",
+                    text: "A Zeus egy sokoldalú Lightning tárca, sokan 'távirányító appként' használjuk egy szerveren futó saját node kezeléséhez. De ezen túl képes helyben futó node-ként is működni, akár saját csatorna kezeléssel, akár a Zeus LSP-jét használva.",
                     link: "https://zeusln.com/"
                 }
 
@@ -51,19 +61,19 @@ Léteznek még letétkezelői (custodial) tárcák, ahol valójában a szolgált
             outro: "Az olyan tárcákat, ahol mi magunk kell a csatornákat kezeljük, csak azoknak ajánljuk, akik már járatossabbak a Lightningban. Említésre méltó még: Blixt."
         },
         {
-            name: "Onchain tárcák -- mobilon",
+            name: "On-chain tárcák -- mobilon",
             id: "onchain-mobil",
             text: "Mobilapplikációk amelyekkel on-chain bitcoint tárolhatunk. \
 Szempontok: jó ha egy tárca: nyílt forráskódú (FOSS), és kizárólag bitcoinos. Plusz pont, ha mutatja az egyes UTXO-kat (coin selection)",
             items: [
                 {
                     name: "Green wallet",
-                    text: "A Blockstream tárcája, jó onchain tárca, de támogat Liquidet is.",
+                    text: "A Blockstream tárcája, jó on-chain tárca, de támogat Liquidet is.",
                     link: "https://blockstream.com/green/"
                 },
                 {
                     name: "Blue wallet",
-                    text: "Kipróbált bitcoin tárca app, a lightning részét nem ajánluk, de onchainre nagyon jó.",
+                    text: "Kipróbált bitcoin tárca app, on-chain tranzakciókra nagyon jó.",
                     link: "https://bluewallet.io/"
                 },
                 {
@@ -74,7 +84,7 @@ Szempontok: jó ha egy tárca: nyílt forráskódú (FOSS), és kizárólag bitc
             ]
         },
         {
-            name: "Onchain tárcák -- számítógépen",
+            name: "On-chain tárcák -- számítógépen",
             id: "onchain-mobil",
             text: "Szoftveres tárca applikációk, amelyekkel on-chain bitcoint tárolhatunk. Legbiztonságosabbak egy hardver tárcával együtt használva. \
 Szempontok: jó ha egy tárca: nyílt forráskódú (FOSS), és kizárólag bitcoinos.",
@@ -108,7 +118,7 @@ Több haladó opciója van, profiknak ajánlott, kezdőknek nem feltétlenül a 
                 },
                 {
                     name: "Jade",
-                    text: "Kicsi, egyszerű, jól összerakott, air-gapped tárca a Blockstreamtől, jó ár/érték aránnyal.",
+                    text: "Kicsi, egyszerű, jól összerakott, air-gapped tárca a Blockstreamtől, jó ár-érték aránnyal.",
                     link: "https://blockstream.com/jade/"
                 },
                 {
@@ -145,15 +155,15 @@ Mindez egy nagyobacska kavics kinézetű érekes kis eszközben.",
             id: "node",
             text: "Ha nem szeretnél más szoftver szolgáltatásától függeni, vagy nem szeretnéd ha bárki más látná, hogy milyen (saját) címek egyenlegére vagy kíváncsi, \
 vagy hogy honnan jönnek a tranzakcióid, vagy csak hozzá szeretnél járulni a bitcoin hálózat decentralizáltságához, \
-a legjobb ha te is futtatsz egy bitcoin csomópontot (\"node\"-ot). \
+a legjobb ha te is futtatsz egy bitcoin csomópontot (node-ot). \
 Ehhez egy szerényebb hardver is elég, pl. egy Raspberry Pi, vagy egy mini PC, vagy egy régi laptop. \
 Adattárolóból viszont egy 2TB-os ajánlott -- és ha lehet SSD. \
 Itt pár szoftver projektet említünk meg, de komplett hardver+szoftver megoldások is elérhetők ezektől a projektektől vagy kapcsolódó forrásokból. \
-Tipikusan egy bitcoin node mellett egyéb társult szolgáltatásokat is lehet/érdemes futtatni, mint pl. indexelők (electrum, mempool, stb.), vagy lightning node.",
+Tipikusan egy bitcoin node mellett egyéb társult szolgáltatásokat is lehet/érdemes futtatni, mint pl. indexelők (electrum, mempool, stb.), vagy Lightning node.",
             items: [
                 {
                     name: "StartOS",
-                    text: "Egy külön oprendszer otthoni szerverekhez, melynek fő célja az adatok szuverén kezelése. Természetesen támogatja a bitcoin nodeot és kapcsolódó szolgáltatásokat is.",
+                    text: "Egy külön oprendszer otthoni szerverekhez, melynek fő célja az adatok szuverén kezelése. Természetesen támogatja a bitcoin node-ot és kapcsolódó szolgáltatásokat is.",
                     link: "https://start9.com/"
                 },
                 {
@@ -170,5 +180,5 @@ Tipikusan egy bitcoin node mellett egyéb társult szolgáltatásokat is lehet/�
 
         }
     ],
-    outro: "Kiegészítésket, javításokat a GitHub-ban vagy a telegram csoportban várunk"
+    outro: "Kiegészítésket, javításokat a GitHub repoban vagy a telegram csoportban várunk."
 }
