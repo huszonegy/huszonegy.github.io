@@ -15,7 +15,12 @@ defineProps<{
                     {{ nn.summary }}
                 </h5>
                 <p class="small">{{ nn.date }}</p>
-                <p class="card-text" v-html="nn.html" />
+                <p>
+                    <a v-if="nn.yt"  :href="nn.yt" target="_blank" class="link">
+                        <img :src="nn.img" :alt="nn.summary" :title="nn.summary" />
+                    </a>
+                </p>
+                <p v-if="nn.html" class="card-text" v-html="nn.html" />
             </div>
         </div>
     </div>
