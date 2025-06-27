@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import ArticlesList from '../components/ArticlesList.vue'
 import NewsList from '../components/NewsList.vue'
+import PodsList from '../components/PodsList.vue'
 </script>
 
 <template>
@@ -38,7 +39,7 @@ import NewsList from '../components/NewsList.vue'
               <!-- QR code -->
               <br />
               <img src="/pics/qr_21_tgram.png" width="230" />
-          </div>
+            </div>
           </div>
         </div>
 
@@ -49,12 +50,26 @@ import NewsList from '../components/NewsList.vue'
           <NewsList :max_count = 2 />
         </div>
       </div>
-
-      <h2 class="fs-5 mx-4">
-        Friss <a href="/cikkek">cikkek</a>
-      </h2>
-      <ArticlesList :max_count = 4 />
     </div>
+
+    <div class="row">
+
+      <div class="col home-col">
+        <h2 class="fs-5 mx-4">
+          Friss <a href="/podcast">podcast</a>
+        </h2>
+        <PodsList :max_count = 2 />
+      </div>
+
+      <div class="col home-col">
+        <h2 class="fs-5 mx-4">
+          Friss <a href="/cikkek">cikkek</a>
+        </h2>
+        <ArticlesList :max_count = 4 />
+      </div>
+
+    </div>
+
     <div class="bottom-space no-response"><!-- empty --></div>
   </main>
 </template>
