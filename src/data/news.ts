@@ -5,15 +5,22 @@
 
 export const news = [
     {
-        summary: "Legújabb podcast adásunk",
+        summary: "Prágában jártunk 8000-en",
+        date: "2025.06.27.",
+        html: "70. <a href='/podcast'>podcast</a> adásunkban élménybeszámolóval jelentkezünk a múlt heti, kb. 8000 érdeklődőt vonzó prágai konferenciáról, ahol több mint 7000 Bitcoin Lightning tranzakció zajlott flottul és villámgyorsan a <a href='https://btcpayserver.org' target='_blank'>BTCPay Server</a> és a <a href='https://www.blink.sv' target='_blank'>Blink</a> profi együttműködésének köszönhetően. A beszélgetésben szó esik többek közt a Bitaxe bitcoin bányászgépekről, a cypherpunk meetup egyedi hangulatáról és a vállalati Bitcoin adaptáció legfrissebb trendjeiről is.",
+        img: "/pics/mi-az-a-bitcoin-e70.jpg",
+        yt: "https://youtu.be/EE0m8noziMc"
+    },
+    {
+        summary: "Felelősségvállalás, szuverenitás, gazdagság",
         date: "2025.06.20.",
-        html: "Spiritualitás és Bitcoin - Az ego és a felelősségvállalás a Bitcoin kapcsán - Centralizáció vs. decentralizáció a természetben és társadalomban - A Bitcoin mint reménysugár és közösségi erő - Alulról szerveződő közösségek és a cselekvés fontossága - Tudatosság és a Bitcoin hatása a világlátásra - A Bitcoin elfogadása és gyakorlati alkalmazása - A pénzvilág átformálása és pozitív jövőkép - Bitcoinerek közössége és az egyesítő erő",
+        html: "69. <a href='/podcast'>podcast</a> adásunk újra a spiritualitás és a Bitcoin kapcsolatát boncolgatja. Feljönnek olyan témák, mint az ego, a felelősségvállalás, centralizáció vs. decentralizáció a természetben és társadalomban, a Bitcoin mint reménysugár és közösségi erő, alulról szerveződő közösségek, a cselekvés fontossága, a tudatosság és a Bitcoin hatása a világlátásra, a Bitcoin elfogadása és gyakorlati alkalmazása, a pénzvilág átformálása és pozitív jövőkép, Bitcoinerek közössége és az egyesítő erő.<br /><br />Oktatóvideóink között megjelent <a href='oktatovideo#feliratos'>két újonnan feliratozott felvétel</a>, melyek a május végi Las Vegas-i Bitcoin Konferencián hangzottak el. Egyik feliratozott videónk Jack Mallers prezentációjának rövidített változata, melyben az adósság alapú pénzügyi rendszer problémáit és a Bitcoin szuverenitást nyújtó erejét tárja fel. A másik videó pedig Michael Saylor <em>21 út a gazdagsághoz</em> c. nyitóbeszédének teljes változata.",
         img: "/pics/mi-az-a-bitcoin-e69.jpg",
         yt: "https://youtu.be/heedVK9k-88"
     },
     {
         summary: "Pizza Day a Dunakanyarban és Budapesten",
-        html: "<a href=\"/pizzaday\"><img src=\"/pics/pizzai.jpg\" style=\"float: left; margin-right: 10px;\"></a><p>Idén 15 éve történt az első vásárlás Bitcoinnal. Ebből az alkalomból május 24-én szombaton egész nap Bitcoinnal fizethetsz a Dunakanyarban 3 helyen.</p><p>Lazuljunk együtt a Piknikben Nagymaroson, majd félórás bringázás a Duna-parton, végül pizzázzunk együtt Verőcén! <a href=\"/pizzaday\">Részletek itt.</a></p><p>Budapesten is lesz a Pizza Nap alkalmából találkozó. Várunk május 22-én délután 4-től az Ábel jenő utca 29. szám alatt egy nagy kerti pizzázásra!</p>",
+        html: "<a href=\"/pizzaday\"><img src=\"/pics/pizzai.jpg\"></a><p>Idén 15 éve történt az első vásárlás Bitcoinnal. Ebből az alkalomból május 24-én szombaton egész nap Bitcoinnal fizethetsz a Dunakanyarban 3 helyen.</p><p>Lazuljunk együtt a Piknikben Nagymaroson, majd félórás bringázás a Duna-parton, végül pizzázzunk együtt Verőcén! <a href=\"/pizzaday\">Részletek itt.</a></p><p>Budapesten is lesz a Pizza Nap alkalmából találkozó. Várunk május 22-én délután 4-től az Ábel Jenő utca 29. szám alatt egy nagy kerti pizzázásra!</p>",
         date: "2025.05.13."
     },
     {
