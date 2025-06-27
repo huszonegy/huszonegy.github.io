@@ -1,10 +1,10 @@
 <script setup lang="ts">
-import PodsList from '../components/PodsList.vue'
+import Pods from '../components/Pods.vue'
 </script>
 
 <template>
     <main>
-        <PodsList />
+        <Pods />
     </main>
 </template>
 
