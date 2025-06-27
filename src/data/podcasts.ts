@@ -703,3 +703,20 @@ export const podcasts = [
     }
 ]
 
+// Get the podcast items, sorted by date with latest first, optionally only the latest N
+export function get_pods(max_count: number) {
+    let sorted = podcasts.sort((n1, n2) => {
+        let d1 = Date.parse(n1.date);
+        let d2 = Date.parse(n2.date);
+        if (d1 && d2) {
+            if (d1 < d2) { return 1; } else if (d1 > d2) { return -1; } else { return 0; }
+        }
+        return 0;
+    });
+    var n = sorted.length;
+    if (max_count == 0 || max_count >= n) {
+        return sorted;
+    }
+    // Sort and filter
+    return sorted.splice(0, max_count);
+}
