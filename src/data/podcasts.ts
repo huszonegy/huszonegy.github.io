@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "BTC Prague kalandok: Adaptáció és összefogás",
+        id: "E70",
+        img: "/pics/mi-az-a-bitcoin-e70.jpg",
+        date: "2025.06.27.",
+        members: ["Feri", "Optout", "Anti"],
+        topic: "A BTC Prague konferencia áttekintése - A konferencia hangulata és a kiállítók - Bitcoin adaptáció: egyéni és vállalati perspektívák - A Bitcoin közösség összefogása és a konkurálás hiánya - Bitcoin mint morális eszköz és szabályozási kihívások - Menekülőútvonalak és a Bitcoin jövője",
+        yt: "https://youtu.be/EE0m8noziMc",
+        fountain: "https://fountain.fm/episode/KIjnDlf8EfJjkifDR6Sw"
+    },
+    {
         name: "Bitcoin: a decentralizált szabadság szelleme",
         id: "E69",
         img: "/pics/mi-az-a-bitcoin-e69.jpg",
