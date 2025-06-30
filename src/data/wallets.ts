@@ -4,32 +4,6 @@ export const wallets = {
     intro: "",
     categories: [
         {
-            name: "Lightning tárcák -- szolgáltatói",
-            id: "lighning-custodial",
-            text: "A Lightning egy elterjedt második-rétegű (L2) bitcoin fizetési rendszer, gyors és olcsó utalásokat tesz lehetővé, főleg kisebb összegekre praktikus. \
-A szolgáltatói vagy letétkezelő (custodial) tárcáknál valójában a szolgáltató tárolja a felhasználók satoshijait, ezért meg kell bízni bennük. \
-Léteznek még ún. szuverén (self-custodial) tárcák, ahol a privát kulcsok a felhasználónál vannak, ezért biztonságosabbak. \
-A letétkezelői tárcák egyszerűbbek, első ismerkedésre jobban megfelelnek, de szigorúan CSAK KISEBB ÖSSZEGEKKEL ajánljuk!",
-            items: [
-                {
-                    name: "Blink",
-                    text: "Könnyen használható, sok funkcióval bíró mobil app; salvadori központú cég áll mögötte, nem szükséges KYC; elérhető magyar felülettel is; hasznos, tanulságos kvízt is foglal magában, mely néhány 1-2 sat-tal jutalmazza az egyes leckéket teljesítő felhasználót.",
-                    link: "https://blink.sv/"
-                },
-                {
-                    name: "Strike",
-                    text: "Könnyen használható, sokoldalú mobil app, amely a Lightning hálózaton gyors és olcsó bitcoin tranzakciókat kínál. Támogatja a fiat (pl. euró) és bitcoin közötti átváltást, valamint globális pénzátutalásokat. KYC szükséges. Kezelőfelülete intuitív, ideális kezdőknek és haladóknak egyaránt.",
-                    link: "https://strike.me/"
-                },
-                {
-                    name: "Wallet of Satoshi",
-                    text: "Könnyen használható, népszerű mobil app, alap funckiókkal; a cégről kevés információ ismert, nem szükséges KYC.",
-                    link: "https://walletofsatoshi.com/"
-                }
-            ],
-            outro: ""
-        },
-        {
             name: "Lightning tárcák -- önrendelkező",
             id: "lightning-selfcustodial",
             text: "A Lightning egy elterjedt második-rétegű (L2) bitcoin fizetési rendszer, gyors és olcsó utalásokat tesz lehetővé, főleg kisebb összegekre praktikus. \
