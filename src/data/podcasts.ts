@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "A Bitcoin morális jelentősége",
+        id: "E71",
+        img: "/pics/mi-az-a-bitcoin-e71.jpg",
+        date: "2025.07.04.",
+        members: ["Anti", "Árpi"],
+        topic: "Magyar jogszabály-változások - Jack Mallers előadása: Az örökségünk ára - Az államadósság és a fiat pénz problémái - A Bitcoin mint erkölcsi és technológiai megoldás - Podcastunk célja és a szabadság üzenete - A Bitcoin elleni harc és a megfélemlítés - Nyári visszatekintés és korábbi adások ajánlása - A Nostr jelentősége és a cenzúra problémái - Nyári házi feladatok és technológiai elmélyülés - Közösségi ötletek és a Bitcoin mint mentőcsónak",
+        yt: "https://youtu.be/1zyeFZQc_K8",
+        fountain: "https://fountain.fm/episode/0eWAP0nf3KNv3L5jQdyS"
+    },
+    {
         name: "BTC Prague kalandok: Adaptáció és összefogás",
         id: "E70",
         img: "/pics/mi-az-a-bitcoin-e70.jpg",
