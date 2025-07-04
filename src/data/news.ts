@@ -5,16 +5,23 @@
 
 export const news = [
     {
-        summary: "Prágában jártunk 8000-en",
-        date: "2025.06.27.",
-        html: "70. <a href='/podcast'>podcast</a> adásunkban élménybeszámolóval jelentkezünk a múlt heti, kb. 8000 érdeklődőt vonzó prágai konferenciáról, ahol több mint 7000 Bitcoin Lightning tranzakció zajlott flottul és villámgyorsan a <a href='https://btcpayserver.org' target='_blank'>BTCPay Server</a> és a <a href='https://www.blink.sv' target='_blank'>Blink</a> profi együttműködésének köszönhetően. A beszélgetésben szó esik többek közt a Bitaxe bitcoin bányászgépekről, a cypherpunk meetup egyedi hangulatáról és a vállalati Bitcoin adaptáció legfrissebb trendjeiről is.",
-        img: "/pics/mi-az-a-bitcoin-e70.jpg",
-        yt: "https://youtu.be/EE0m8noziMc"
+        summary: "A Bitcoin morális jelentősége",
+        date: "2025.07.04.",
+        html: "71. <a href='/podcast'>podcast</a> adásunkban összefoglaljuk Jack Mallers előadását a Bitcoin morális jelentőségéről, és szót ejtünk a fiat pénz problémáiról, a magyar Büntető Törvénykönyv új passzusairól, a Bitcoin elleni harcról, a megfélemlítésről, a YouTube cenzúráról, a Nostr jelentőségéről, valamint a nyári szünet előtti terveinkről és házi feladatokról.",
+        img: "/pics/mi-az-a-bitcoin-e71.jpg",
+        yt: "https://youtu.be/1zyeFZQc_K8"
     },
     {
         summary: "Gondolatok az új kriminalizációs törvénymódosításról",
         date: "2025.07.02.", 
         html: "2025. július 1-én Magyarországon életbe lépett egy Btk. törvénymódosítás, amely kriminalizálja a bitcoin és fiat pénz közötti váltást, ha az nem \"validált szolgáltatónál\" történik (mindkét irányban, mindkét félre vonatkozóan, jelentős összeg esetén), illetve egyéb tevékenységeket is. Bárki, aki bitcoint vásárol vagy ad forintért (euróért, stb.) nagyobb összegért egy szolgáltatónál, az immár potenciálisan bűncselekményt követ el Magyarországon. Az azóta elfogadott javaslat itt érhető el: <a href='https://www.parlament.hu/irom42/11922/11922-0013.pdf' target='_blank'>https://www.parlament.hu/irom42/11922/11922-0013.pdf</a></p> Egy kis fellélegzésre legfeljebb csak az ad okot, hogy a jelentős összeg alsó határa 5 millió forintra van definiálva, illetve hogy a felügyeleti szerv (\"SZTFH\") \"kriptós részlege\" még nem létezik, illetve végrehajtási rendelet sincs még, ezért ebben az átmeneti időszakban az érintett tevékenységek nem pontosan definiálhatók. Egy vélemény szerint egy szolgáltató MICA CASP engedélye teljesíti a \"validált\" fogalmat, de erről jelenleg nincs semmilyen hivatalos állásfoglalás. </p> A Huszonegy laza csoportosulás semmilyen autoritással nem bír, de mivel sok kérdést kaptunk a fórumainkon, ezért gondoltuk, itt is összefoglaljuk véleményünket. Összességében nagyon károsnak gondoljuk ezt a törvénymódosítást. Bár egyes csalási tevékenységeket (amik sajnálatos módon gyakoriak Magyarországon) visszaszoríthat, de versenyhátrányba hozza a magyar embereket és az érintett magyar cégeket is. A kiszámíthatatlan és szakmai egyeztetés nélküli jogi környezet ellehetetleníti a kevés hazai szereplőt. </p> Ami a leglehangolóbb, hogy ez a jogi módosítás visszavetheti a magyar átlagember lehetőségét a bitcoin, mint infláció-álló megtakarítás és etikus pénz használatára, tovább lassítva a magyarországi bitcoin adaptációt, amely a régió és szomszédos országokhoz képest is elmaradásban van. </p> Mindenkit ösztönzünk a bitcoin megismerésére és használatára, de természetesen a törvények betartása mellett! Most is kihangsúlyozzuk a bitcoin, az altcoinok és a shitcoinok megkülönböztetését, valamint a bitcoin saját tárolásának fontosságát. Az új törvény kapcsán azt tanácsoljuk, hogy mindenki tájékozódjon (a törvény értelmezése sok ponton még nem egyértelmű), járja körbe a lehetséges opciókat -- beleértve a kivárást -- és azok jogi státuszát, tartsa be az említett értékhatárokat, és ha szolgáltatót használ, akkor MICA engedéllyel rendelkezőt válasszon. </p> <i>\"First They Ignore You, Then They Laugh at You, Then They Attack You, Then You Win\"</i>"
+    },
+    {
+        summary: "Prágában jártunk 8000-en",
+        date: "2025.06.27.",
+        html: "70. <a href='/podcast'>podcast</a> adásunkban élménybeszámolóval jelentkezünk a múlt heti, kb. 8000 érdeklődőt vonzó prágai konferenciáról, ahol több mint 7000 Bitcoin Lightning tranzakció zajlott flottul és villámgyorsan a <a href='https://btcpayserver.org' target='_blank'>BTCPay Server</a> és a <a href='https://www.blink.sv' target='_blank'>Blink</a> profi együttműködésének köszönhetően. A beszélgetésben szó esik többek közt a Bitaxe bitcoin bányászgépekről, a cypherpunk meetup egyedi hangulatáról és a vállalati Bitcoin adaptáció legfrissebb trendjeiről is.",
+        img: "/pics/mi-az-a-bitcoin-e70.jpg",
+        yt: "https://youtu.be/EE0m8noziMc"
     },
     {
         summary: "Felelősségvállalás, szuverenitás, gazdagság",
