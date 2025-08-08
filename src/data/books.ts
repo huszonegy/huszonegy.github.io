@@ -14,28 +14,6 @@ export const books = [
         shop: "<strong>Megvásárolható:</strong> <a href='https://bookline.hu/search/search.action?page=1&searchfield=kis+bitcoin+k%C3%B6nyv' target='_blank'>BookLine</a> és <a href='https://shop.bitcoinbazis.hu/termek/a-kis-bitcoin-konyv/' target='_blank'>BitcoinBázis Shop</a> (bitcoinért is)<br /><strong>Ingyenesen olvasható:</strong> <a href='/files/A-kis-bitcoin-konyv.pdf' target='_blank'>pdf</a>"
     },
     {
-        id: "hidden-repression",
-        title: "Hidden repression - How the IMF and World Bank Sell Exploitation as Development",
-        author: "Alex Gladstein",
-        translator: "",
-        year: "2023",
-        text: "Rejtett elnyomás – Hogyan adja el az IMF és a Világbank a kizsákmányolást fejlesztésként",
-        desc: "Az IMF-et és a Világbankot azért hozták létre, hogy segítsenek az országoknak túlélni a pénzügyi válságokat, és segítsenek nekik prosperáló gazdasági szereplőkké válni. A 75 éves múltjuk azonban éppen az ellenkezőjét mutatja: hiteleik és strukturális kiigazítási politikáik lehetetlenül nagy adósságcsapdába taszították a szegény országokat, és arra kényszerítették a harmadik világot, hogy a nyugati fogyasztásra szánt áruk előállítására összpontosítson, ahelyett, hogy a hazai fogyasztást és ipart növelné. A Világbank és az IMF 'fejlesztése és segítsége' minden egyéb, csak nem 'fejlesztés'. A valóság a neokolonialista kizsákmányolás története, megdöbbentő eredményekkel.<br /><br /><small><b>Bővebben:</b> <a href='https://www.bitcoinbazis.hu/hogyan-adja-el-az-imf-es-a-vilagbank-a-kizsakmanyolast-fejleszteskent/' target='_blank'>BitcoinBázis cikk</a>, Bitcoin Kebab <a href='https://www.youtube.com/watch?v=rzOMbfTRjwg' target='_blank'>podcast a szerzővel</a> magyar felirattal</small>",
-        img: "/books/hidden-repression.png",
-        shop: "<strong>Megvásárolható:</strong> <a href='https://store.bitcoinmagazine.com/collections/books/products/hidden-repression' target='_blank'>BitcoinMagazine</a>"
-    },
-    {
-        id: "a-holnap-ara",
-        title: "A holnap ára – A jövőnket alakító technológiai és gazdasági folyamatok",
-        author: "Jeff Booth",
-        translator: "Nyuli Kinga",
-        year: "2023",
-        text: "",
-        desc: "<b>Különleges korban élünk.</b> A technológiai fejlesztések gyorsabb ütemben haladnak, mint ahogy képesek lennénk felfogni azokat. Elképesztő sebességgel változó világunkban egyszerűen nem engedhetjük meg magunknak, hogy ne próbáljunk meg lépést tartani.<br /><br /><b>A helyi és a globális gazdaság számára mielőbb egy új keretrendszert kell megteremtenünk,</b> különben a technológiai fejlődés, ahelyett hogy jólétet teremtene, könnyedén romboló erővé válhat.<br /><br /><b>A technológia és az e-kereskedelem</b> világában vezetőként és kiemelkedő gondolkodóként is otthonosan mozgó Jeff Booth nem fél kétségbe vonni az általánosan elfogadott elképzeléseket. Egyedülálló kötetében bemutatja a jelenünket – és egyben a jövőnket – alakító technológiai és gazdasági folyamatokat és az előttünk álló döntéseket. A virtuális valóság, az önvezető autók, a mesterséges intelligencia, vagy a 3D-nyomtatás bemutatásával és jövőbeli irányaival rámutat, hogy noha hihetetlen lehetőség előtt áll az emberiség, a közös jólét érdekében együtt kell működnünk.<br /><br />„Booth bemutatja a technológiai fejlődés deflációs hatását, továbbá az egyre könnyebben hozzáférhető hitelek következményeit. Booth vállalkozóként egyszerre gondolkodó és cselekvő ember, aki könyvével igyekszik döntésre késztetni olvasóit. Kötelező olvasmány az üzleti élet vezetői, a vállalkozók, a politikusok és az összes olyan fiatal számára, akik egy jobb jövőn munkálkodnak.” – Ajay Agrawal, a University of Toronto professzora és a Creative Destruction Lab alapítója<br /><br /><small><b>Bővebben:</b> <a href='https://europeanbitcoiners.com/az-exponencialis-fejlodes-kihivas-es-lehetoseg/' target='_blank'>magyar nyelvű cikk a könyvről</a></small>",
-        img: "/books/a-holnap-ara.jpg",
-        shop: "<strong>Beleolvasható és megvásárolható:</strong> <a href='https://www.scolar.hu/a-holnap-ara' target='_blank'>Scolar</a>"
-    },
-    {
         id: "saif-bitcoin-standard",
         title: "Bitcoin Standard – A központi bankok decentralizált alternatívája",
         author: "Saifedean Ammous",
@@ -67,6 +45,28 @@ export const books = [
         desc: "Ez a könyv Knut Svanholm első két bitcoin témájú könyvének újragondolt változata: “Bitcoin: Szuverenitás a matematikán keresztül” és “Bitcoin: Újraértelmezett függetlenség”. Két magával ragadó és tanulságos olvasmány pénzről, egyéni függetlenségről, digitális szűkösségről és a decentralizált jövőbe vetett reményről.<br /><br /><small><b>Bővebben:</b> Bitcoin Kebab <a href='https://www.youtube.com/watch?v=9TlEA2FlIUA' target='_blank'>podcast a szerzővel</a> magyar felirattal</small>",
         img: "/books/szuverenitas-fuggetlenseg-konyv.png",
         shop: "<strong>Megvásárolható:</strong> <a href='https://shop.bitcoinbazis.hu/termek/bitcoin-szuverenitas-fuggetlenseg/' target='_blank'>BitcoinBázis Shop</a> (bitcoinért is)"
+    },
+    {
+        id: "a-holnap-ara",
+        title: "A holnap ára – A jövőnket alakító technológiai és gazdasági folyamatok",
+        author: "Jeff Booth",
+        translator: "Nyuli Kinga",
+        year: "2023",
+        text: "",
+        desc: "<b>Különleges korban élünk.</b> A technológiai fejlesztések gyorsabb ütemben haladnak, mint ahogy képesek lennénk felfogni azokat. Elképesztő sebességgel változó világunkban egyszerűen nem engedhetjük meg magunknak, hogy ne próbáljunk meg lépést tartani.<br /><br /><b>A helyi és a globális gazdaság számára mielőbb egy új keretrendszert kell megteremtenünk,</b> különben a technológiai fejlődés, ahelyett hogy jólétet teremtene, könnyedén romboló erővé válhat.<br /><br /><b>A technológia és az e-kereskedelem</b> világában vezetőként és kiemelkedő gondolkodóként is otthonosan mozgó Jeff Booth nem fél kétségbe vonni az általánosan elfogadott elképzeléseket. Egyedülálló kötetében bemutatja a jelenünket – és egyben a jövőnket – alakító technológiai és gazdasági folyamatokat és az előttünk álló döntéseket. A virtuális valóság, az önvezető autók, a mesterséges intelligencia, vagy a 3D-nyomtatás bemutatásával és jövőbeli irányaival rámutat, hogy noha hihetetlen lehetőség előtt áll az emberiség, a közös jólét érdekében együtt kell működnünk.<br /><br />„Booth bemutatja a technológiai fejlődés deflációs hatását, továbbá az egyre könnyebben hozzáférhető hitelek következményeit. Booth vállalkozóként egyszerre gondolkodó és cselekvő ember, aki könyvével igyekszik döntésre késztetni olvasóit. Kötelező olvasmány az üzleti élet vezetői, a vállalkozók, a politikusok és az összes olyan fiatal számára, akik egy jobb jövőn munkálkodnak.” – Ajay Agrawal, a University of Toronto professzora és a Creative Destruction Lab alapítója<br /><br /><small><b>Bővebben:</b> <a href='https://europeanbitcoiners.com/az-exponencialis-fejlodes-kihivas-es-lehetoseg/' target='_blank'>magyar nyelvű cikk a könyvről</a></small>",
+        img: "/books/a-holnap-ara.jpg",
+        shop: "<strong>Beleolvasható és megvásárolható:</strong> <a href='https://www.scolar.hu/a-holnap-ara' target='_blank'>Scolar</a>"
+    },
+    {
+        id: "bitcoin-a-penz-demokraciaja",
+        title: "Bitcoin – A pénz demokráciája",
+        author: "Tótik Róbert",
+        translator: "",
+        year: "2025",
+        text: "",
+        desc: "Fedezd fel a Bitcoin titkát!<br /><br />Mindig is szeretted volna megérteni, mi is az a Bitcoin, de túl bonyolultnak tűnt? Ebben a könyvben egyszerű, érthető módon vezetlek végig a legfontosabb tudnivalókon, hogy akár teljesen kezdőként is megtapasztalhasd az AHA-élményt – azt a pillanatot, amikor minden összeáll, és megérted a Bitcoin valódi lényegét.<br /><br />Ha kíváncsi vagy, hogyan alakíthatja át a pénzről és a szabadságról alkotott képedet, ez a könyv neked szól!",
+        img: "/books/bitcoin-a-penz-demokraciaja.jpg",
+        shop: "<strong>Megvásárolható:</strong> <a href='https://rukkola.hu/termek/bitcoin-a-penz-demokraciaja/' target='_blank'>Rukkola</a>"
     },
     {
         id: "21-lecke",
@@ -111,11 +111,18 @@ export const books = [
         desc: "A Bitcoin témaköre szerteágazó, számtalan nézőpontból vizsgálható. Sokféle, különböző módon lehet értelmezni, és gondolkodni róla. Azért választottam ezt a rövid formátumot a cikkekhez, fejezetekhez, mert remélem, hogy így a lehető legtöbb nézőpontot megismerhetjük. Ezért az olvasók jobban megérthetik a terület egészét. Remélem az olvasás segítségedre lesz, tanulni tudsz belőle, és élvezed is közben! Megjegyzés a magyar fordításhoz: A cikksorozat jobbára filozófikus jelleggel tárgyalja a témát. Emiatt sokszor bővebb kifejtés nélkül foglalkozik a Bitcoin egyes tulajdonságaival, jellegzetességeivel, működési mechanizmusaival. Ha most ismerkedsz a területtel, a könnyebb megértés érdekében előbb érdemes elolvasni a bitcoinnal, mint pénzeszközzel foglalkozó, 'A Bitcoin ígéretes jövője' című könyvet Vijay Boyapati részéről, amely itt az oldalon is fent van, magyarul, és, a háttérben lévő technológiáról szóló, 'A Bitcoin létrehozása' című könyvet Yan Pritzker tollából, amely szintén elérhető magyarul, ingyenesen.",
         img: "/books/miert-eppen-a-bitcoin.png",
         shop: "<strong>Ingyenesen olvasható:</strong> <a href='/files/Miert-eppen-a-Bitcoin-Tomer-Strolight.pdf' target='_blank'>pdf</a>"
+    },
+    {
+        id: "hidden-repression",
+        title: "Hidden repression - How the IMF and World Bank Sell Exploitation as Development",
+        author: "Alex Gladstein",
+        translator: "",
+        year: "2023",
+        text: "Rejtett elnyomás – Hogyan adja el az IMF és a Világbank a kizsákmányolást fejlesztésként",
+        desc: "Az IMF-et és a Világbankot azért hozták létre, hogy segítsenek az országoknak túlélni a pénzügyi válságokat, és segítsenek nekik prosperáló gazdasági szereplőkké válni. A 75 éves múltjuk azonban éppen az ellenkezőjét mutatja: hiteleik és strukturális kiigazítási politikáik lehetetlenül nagy adósságcsapdába taszították a szegény országokat, és arra kényszerítették a harmadik világot, hogy a nyugati fogyasztásra szánt áruk előállítására összpontosítson, ahelyett, hogy a hazai fogyasztást és ipart növelné. A Világbank és az IMF 'fejlesztése és segítsége' minden egyéb, csak nem 'fejlesztés'. A valóság a neokolonialista kizsákmányolás története, megdöbbentő eredményekkel.<br /><br /><small><b>Bővebben:</b> <a href='https://www.bitcoinbazis.hu/hogyan-adja-el-az-imf-es-a-vilagbank-a-kizsakmanyolast-fejleszteskent/' target='_blank'>BitcoinBázis cikk</a>, Bitcoin Kebab <a href='https://www.youtube.com/watch?v=rzOMbfTRjwg' target='_blank'>podcast a szerzővel</a> magyar felirattal</small>",
+        img: "/books/hidden-repression.png",
+        shop: "<strong>Megvásárolható:</strong> <a href='https://store.bitcoinmagazine.com/collections/books/products/hidden-repression' target='_blank'>BitcoinMagazine</a>"
     }
-
-
-
-
 ]
 
 // Return the book with given ID
@@ -124,10 +131,6 @@ export function get_book(id: string) {
 }
 
 // Return the IDs of the books
-export function get_book_ids(hu: boolean) {
-    if (hu) {
-        return books.filter(e => e.translator).map((b) => b.id);
-    } else {
-        return books.filter(e => !e.translator).map((b) => b.id);
-    }
+export function get_book_ids() {
+    return books.map((b) => b.id);
 }
