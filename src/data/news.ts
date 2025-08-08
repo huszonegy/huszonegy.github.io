@@ -5,11 +5,18 @@
 
 export const news = [
     {
+        summary: "Bitcoin – A pénz demokráciája",
+        date: "2025.08.08.",
+        html: "Fedezd fel a Bitcoin titkát Tótik Róbert frissen megjelent könyvén keresztül!<br /><br /><em>Mindig is szeretted volna megérteni, mi is az a Bitcoin, de túl bonyolultnak tűnt? Ebben a könyvben egyszerű, érthető módon vezetlek végig a legfontosabb tudnivalókon, hogy akár teljesen kezdőként is megtapasztalhasd az AHA-élményt – azt a pillanatot, amikor minden összeáll, és megérted a Bitcoin valódi lényegét.<br /><br />Ha kíváncsi vagy, hogyan alakíthatja át a pénzről és a szabadságról alkotott képedet, ez a könyv neked szól!</em>",
+        img: "/books/bitcoin-a-penz-demokraciaja.jpg",
+        link: "https://rukkola.hu/termek/bitcoin-a-penz-demokraciaja/"
+    },
+    {
         summary: "A Bitcoin morális jelentősége",
         date: "2025.07.04.",
         html: "71. <a href='/podcast'>podcast</a> adásunkban összefoglaljuk Jack Mallers előadását a Bitcoin morális jelentőségéről, és szót ejtünk a fiat pénz problémáiról, a magyar Büntető Törvénykönyv új passzusairól, a Bitcoin elleni harcról, a megfélemlítésről, a YouTube cenzúráról, a Nostr jelentőségéről, valamint a nyári szünet előtti terveinkről és házi feladatokról.",
         img: "/pics/mi-az-a-bitcoin-e71.jpg",
-        yt: "https://youtu.be/1zyeFZQc_K8"
+        link: "https://youtu.be/1zyeFZQc_K8"
     },
     {
         summary: "Gondolatok az új kriminalizációs törvénymódosításról",
@@ -21,14 +28,14 @@ export const news = [
         date: "2025.06.27.",
         html: "70. <a href='/podcast'>podcast</a> adásunkban élménybeszámolóval jelentkezünk a múlt heti, kb. 8000 érdeklődőt vonzó prágai konferenciáról, ahol több mint 7000 Bitcoin Lightning tranzakció zajlott flottul és villámgyorsan a <a href='https://btcpayserver.org' target='_blank'>BTCPay Server</a> és a <a href='https://www.blink.sv' target='_blank'>Blink</a> profi együttműködésének köszönhetően. A beszélgetésben szó esik többek közt a Bitaxe bitcoin bányászgépekről, a cypherpunk meetup egyedi hangulatáról és a vállalati Bitcoin adaptáció legfrissebb trendjeiről is.",
         img: "/pics/mi-az-a-bitcoin-e70.jpg",
-        yt: "https://youtu.be/EE0m8noziMc"
+        link: "https://youtu.be/EE0m8noziMc"
     },
     {
         summary: "Felelősségvállalás, szuverenitás, gazdagság",
         date: "2025.06.20.",
         html: "69. <a href='/podcast'>podcast</a> adásunk újra a spiritualitás és a Bitcoin kapcsolatát boncolgatja. Feljönnek olyan témák, mint az ego, a felelősségvállalás, centralizáció vs. decentralizáció a természetben és társadalomban, a Bitcoin mint reménysugár és közösségi erő, alulról szerveződő közösségek, a cselekvés fontossága, a tudatosság és a Bitcoin hatása a világlátásra, a Bitcoin elfogadása és gyakorlati alkalmazása, a pénzvilág átformálása és pozitív jövőkép, Bitcoinerek közössége és az egyesítő erő.<br /><br />Oktatóvideóink között megjelent <a href='oktatovideo#feliratos'>két újonnan feliratozott felvétel</a>, melyek a május végi Las Vegas-i Bitcoin Konferencián hangzottak el. Egyik feliratozott videónk Jack Mallers prezentációjának rövidített változata, melyben az adósság alapú pénzügyi rendszer problémáit és a Bitcoin szuverenitást nyújtó erejét tárja fel. A másik videó pedig Michael Saylor <em>21 út a gazdagsághoz</em> c. nyitóbeszédének teljes változata.",
         img: "/pics/mi-az-a-bitcoin-e69.jpg",
-        yt: "https://youtu.be/heedVK9k-88"
+        link: "https://youtu.be/heedVK9k-88"
     },
     {
         summary: "Pizza Day a Dunakanyarban és Budapesten",
