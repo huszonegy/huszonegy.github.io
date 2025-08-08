@@ -16,7 +16,7 @@ defineProps<{
                 </h5>
                 <p class="small">{{ nn.date }}</p>
                 <p>
-                    <a v-if="nn.yt"  :href="nn.yt" target="_blank" class="link">
+                    <a v-if="nn.link"  :href="nn.link" target="_blank" class="link">
                         <img :src="nn.img" :alt="nn.summary" :title="nn.summary" />
                     </a>
                 </p>
