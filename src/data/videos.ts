@@ -39,6 +39,15 @@ export const videos = [
         details: "A HUSZONEGY tagjai által feliratozott videók",
         parts: [
             {
+                name: "Hogyan tesz szabaddá a Bitcoin? - 21 perc alatt a világ körül",
+                img: "/pics/hogyan-tesz-szabadda-a-bitcoin.jpg",
+                date: "2025.08.29.",
+                members: ["Zsolt", "Árpi"],
+                topic: "Ez a 21 perces kivonat az 'Isten, áldd meg a Bitcoint' című dokumentumfilmből bemutatja, hogyan kínál a Bitcoin pénzügyi szabadságot, egyenlőséget és védelmet az elnyomó és megfigyelő rendszerekkel szemben. Nézd meg, hogyan változtatja meg a világot a decentralizált kriptovaluta erkölcsi és társadalmi ereje!",
+                yt: "https://youtu.be/E3_pIxq_Rb0",
+                fountain: ""
+            },
+            {
                 name: "Michael Saylor: 21 út a gazdagsághoz",
                 img: "/pics/michael-saylor-21-ut-a-gazdagsaghoz.jpg",
                 date: "2025.06.17.",
