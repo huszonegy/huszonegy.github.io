@@ -6,7 +6,7 @@ import { link_simplified } from '../utils'
 
 <template>
     <h1>Bitcoin podcast magyarul</h1>
-    <h2><a href='https://www.youtube.com/@huszonegy-bitcoin-podcast' target='_blank'>Mi az a Bitcoin?</a> podcast</h2>
+    <h2><a href='https://www.youtube.com/@huszonegy-bitcoin-podcast' target='_blank'>HUSZONEGY</a> Bitcoin podcast</h2>
 <!--
     <h3 style="margin-top: 20px;">
         Minden héten a Bitcoinról

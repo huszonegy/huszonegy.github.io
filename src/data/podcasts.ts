@@ -2,6 +2,96 @@
 
 export const podcasts = [
     {
+        name: "Jogbizonytalanságtól a bitcoiner lifestyle-ig",
+        id: "E73",
+        img: "/pics/e73.jpg",
+        date: "2025.09.12.",
+        members: ["Anti", "Kata", "Árpi"],
+        topic: "Jogbizonytalanság, jóságos jogalkotók - Bitcoinbányász konferencia, narancs nők - The Bitcoiner's Pretties, bitcoiner lifestyle - Zajszűrés és közösségi tér a Bitcoin adoptációért - Bizalom és kapcsolatok a Bitcoin világában - Boating accident mém és a lázadó dizájnok - Satlantis, digitális nomádság - A Bitcoin lényege a fürdőszobában - Bitcoin Miskolc és Rejtett elnyomás közeleg",
+        yt: "https://youtu.be/ttfcpXms8J4",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
+        name: "Bitcoin(erek) újratöltve",
+        id: "E72",
+        img: "/pics/e72.jpg",
+        date: "2025.09.05.",
+        members: ["Anti", "Tamás", "Árpi"],
+        topic: "Nyári összefoglaló: árfolyamok, törvények és piaci mozgások - Tamás új bányászgépe: Bitaxe bemutató és tapasztalatok - Bitcoin bányászat és decentralizáció: hogyan járulhatunk hozzá? - Ingatlanpiac vs. Bitcoin: befektetési dilemmák és a fiat rendszer hatásai - Gazdasági körkép: államadósság, infláció és a fiat pénzrendszer kihívásai - Hazai szabályozás: Revolut és a július 1-jei törvény hatásai - Bitcoin árfolyam és piaci ciklusok: mit hozhat az október? - Közelgő események: szeptember 18-i bp-i meetup, Bitcoin Miskolc konferencia",
+        yt: "https://youtu.be/lr00KNSkLHM",
+        fountain: "https://fountain.fm/episode/ipmNJMGOILI7QkUaCIrD"
+    },
+    {
+        name: "Nyári remix: Szoftverfejlesztés, szabadságtechnológiák",
+        id: "R07",
+        img: "/pics/r07.jpg",
+        date: "2025.08.22.",
+        members: ["Dávid", "Nopara", "Anti", "Lőrinc", "Openoms", "Árpi", "Five"],
+        topic: "Szoftverfejlesztők öröklésről, titkos kulcsokról, inflációról - Bitcoin fejlesztési kihívások, támadási felületek - Felelősség, tanulás, a Bitcoin mint élőlény - Biztonság, privacy és szabadság a blockchain validálásával - Bitcoin Core szoftver - Magánszféra védelme Tor és egyéb privát hálózatokkal - Szabadságtechnológiák, laposabb hierarchia, öröklés",
+        yt: "https://youtu.be/NMcqaZfFdgk",
+        fountain: "https://fountain.fm/episode/7JadmfCd8JE1tgDo2CdC"
+    },
+    {
+        name: "Nyári remix: Decentralizált társadalmat építünk",
+        id: "R06",
+        img: "/pics/r06.jpg",
+        date: "2025.08.15.",
+        members: ["Árpi", "Sziller", "OptOut", "Tamás"],
+        topic: "Oslo Freedom Fórum - Bitcoin és decentralizáció - Bitcoin bányászat működése - Tranzakciók kezelése - Gazdaságosság kérdése - Nehézségállítás szerepe - Bitcoin kezdetei - Otthoni bányászat - Bitcoin és arany",
+        yt: "https://youtu.be/oedj7f41lU4",
+        fountain: "https://fountain.fm/episode/gAahv0G1gTDKMEh6dnJh"
+    },
+    {
+        name: "Nyári remix: Objektív Bitcoin felszabadulás",
+        id: "R05",
+        img: "/pics/r05.jpg",
+        date: "2025.08.08.",
+        members: ["Anti", "Alan Plus", "Árpi", "OptOut", "Robert", "Dani"],
+        topic: "Na jó, ebből elég! - Bitcoin és Lightning mesterfokon - Fiat étkezés - Természetes defláció, mesterséges infláció - Tudás a Bitcoin előtt - Spiritualitás és tudatosság - Bitcoin, energia, önismeret - Légy te magad a változás! - Decentralizáció és szabadság",
+        yt: "https://youtu.be/J5eA9BmItAU",
+        fountain: "https://fountain.fm/episode/0uCmF5AiACu2dnV6xFoC"
+    },
+    {
+        name: "Nyári remix: Bitcoin könyv mix 2",
+        id: "R04",
+        img: "/pics/r04.jpg",
+        date: "2025.08.01.",
+        members: ["Anti", "Feri", "Kata"],
+        topic: "Értéktárolók tulajdonságai - A fiat rendszer problémái - Rendszeren kívüli megoldás - Békés háború a kibertérben - Társadalmi-gazdasági összefüggések - Kizsákmányoló fejlesztés",
+        yt: "https://youtu.be/PtY5N9M7Sw8",
+        fountain: "https://fountain.fm/episode/ohEqkodI0zhwpG8Ogkz7"
+    },
+    {
+        name: "Nyári remix: Bitcoin könyv mix 1",
+        id: "R03",
+        img: "/pics/r03.jpg",
+        date: "2025.07.25.",
+        members: ["Anti", "Árpi", "Kata", "Feri", "Tamás", "OptOut"],
+        topic: "Bevezetés, Knut Svanholm könyvei - Alex Gladstein: Hidden Repression - The UnCommunist Manifesto - A Bitcoin Standard részletes bemutatása - A kis Bitcoin könyv - A Fiat Standard és a pénzügyi rendszer kritikája - 21 Lecke és további magyar nyelvű könyvek",
+        yt: "https://youtu.be/qZeIamF-Q-A",
+        fountain: "https://fountain.fm/episode/bXvgIuw98B1f9WAytsdO"
+    },
+    {
+        name: "Nyári remix: Bitcoin önrendelkezés",
+        id: "R02",
+        img: "/pics/r02.jpg",
+        date: "2025.07.18.",
+        members: ["Anti", "Tamás", "Árpi", "Feri"],
+        topic: "Miért fontos az önrendelkezés? - A Bitcoin felelőssége - 12 szó, tárca létrehozása lépésről lépésre - Hardver tárcák biztonsága - Umbrel és Bitcoin node magyarázata - 12/24 szó, biztonsági mentés - Ajánlott tárcák: Sparrow, Blue, Keystone Pro - Multisig rendszerek és biztonság - Jade tárca és Blockstream Green",
+        yt: "https://youtu.be/C7B6ECIwpA0",
+        fountain: "https://fountain.fm/episode/LOg37n9vagxfDtJHH6Ei"
+    },
+    {
+        name: "Nyári remix: Bitcoin tárcák kezdőknek",
+        id: "R01",
+        img: "/pics/r01.jpg",
+        date: "2025.07.11.",
+        members: ["Anti", "Árpi"],
+        topic: "Az MNB Bitcoin videójának elemzése - Nem a te kulcsod, nem a te coinod: a letéti tárcák kockázatai - A Bitcoin forradalma: a saját kulcsok jelentősége - Blink és Strike tárcák gyakorlati használata - Strike globális pénzátutalási funkciói - Bitcoin Standard életmód és árfolyam-ingadozások - Kezdj kis összegekkel: gyakorlati tanácsok",
+        yt: "https://youtu.be/IOeApVUxV_Y",
+        fountain: "https://fountain.fm/episode/sIlRNPBWlpUKv7ZMUvfv"
+    },
+    {
         name: "A Bitcoin morális jelentősége",
         id: "E71",
         img: "/pics/mi-az-a-bitcoin-e71.jpg",
