@@ -9,7 +9,7 @@ export const podcasts = [
         members: ["Anti", "Kata", "Árpi"],
         topic: "Jogbizonytalanság, jóságos jogalkotók - Bitcoinbányász konferencia, narancs nők - The Bitcoiner's Pretties, bitcoiner lifestyle - Zajszűrés és közösségi tér a Bitcoin adoptációért - Bizalom és kapcsolatok a Bitcoin világában - Boating accident mém és a lázadó dizájnok - Satlantis, digitális nomádság - A Bitcoin lényege a fürdőszobában - Bitcoin Miskolc és Rejtett elnyomás közeleg",
         yt: "https://youtu.be/ttfcpXms8J4",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/4lzy8VYehX4UJzKuVkz4"
     },
     {
         name: "Bitcoin(erek) újratöltve",
