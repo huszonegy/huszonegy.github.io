@@ -5,6 +5,13 @@
 
 export const news = [
     {
+        summary: "Podcast újdonságok",
+        date: "2025.09.19.",
+        html: "Legfrissebb epizódunkban bemutatkozik Zoli, a Luxmérnök, mélyre ásunk vele a Bitcoin filozófiájában, a pénzügyi rendszer problémáiban és gyerekkori élményeiben, amelyek a decentralizált pénz iránti nyitottságát alakították.<br /><br />Előző <a href='/podcast'>podcast</a> adásunkban pedig Katával dumcsiztunk jogbizonytalanságról, jóságos jogalkotókról, finn bitcoinbányász konferenciáról, narancs nőkről, a <em>The Bitcoiner's Pretties</em>-ről, bitcoiner lifestyle-ról valamint a közelgő Bitcoin Miskolcról és magyar nyelvű <em>Rejtett elnyomás</em>ról.",
+        img: "/pics/e74.jpg",
+        link: "https://youtu.be/mLARFdKzTh8"
+    },
+    {
         summary: "Szeptemberi meetup helyszínváltozás",
         date: "2025.09.11.",
         html: "A vártnál jelentősebb érdeklődésre való tekintettel szeptemberi meetup-unk új helyszínéül a belvárosi <strong><a href='https://perspective-bar.hu/'>Perspective Bar</a></strong>t választottuk, melynek pontos címe: <strong>1072 Bp. Klauzál u. 26-28.</strong><br/><br/>Az időpont változatlanul: <strong>szeptember 18., csütörtök 18:00</strong><br/><br/>A részvétel ingyenes, de regisztrációhoz kötött.<br/><br/>Részletek és regisztráció:<br/><a href='https://bitcoinszeptember25.rsvpify.com'>bitcoinszeptember25.rsvpify.com</a>",

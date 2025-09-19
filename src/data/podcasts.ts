@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "A Luxmérnök útja: értékteremtés a Bitcoin szellemében",
+        id: "E74",
+        img: "/pics/e74.jpg",
+        date: "2025.09.19.",
+        members: ["Anti", "Zoli", "Árpi"],
+        topic: "Gyerekkori élmények és a pénz értéke - A Bitcoin filozófiája és a pénzügyi rendszer - Hogyan találtam rá a Bitcoinra? - Nostr és a decentralizált jövő - Vállalkozói út: valódi értékteremtés - Tanácsok kezdő vállalkozóknak és bitcoinereknek",
+        yt: "https://youtu.be/mLARFdKzTh8",
+        fountain: "https://fountain.fm/episode/jJHyP5C0foWuVgZH0swx"
+    },
+    {
         name: "Jogbizonytalanságtól a bitcoiner lifestyle-ig",
         id: "E73",
         img: "/pics/e73.jpg",
