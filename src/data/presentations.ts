@@ -2,6 +2,40 @@
 
 export const presentations = [
     {
+        event: "Rendhagyó szeptemberi meetup",
+        params: "Perspective Bar, Budapest - 2025. szeptember 18.",
+        details: "Szeptemberi budapesti meetup-unkat előadásokkal fűszereztük, mely hozott edukatív témát kezdő érdeklődők számára valamint a már jártasabbak számára is.",
+        parts: [
+            {
+                name: "Bitcoin tárca létrehozás, bitcoin fogadás és küldés - Gyakorlati bemutató",
+                img: "/pics/bitcoin-tarca-letrehozas-bitcoin-fogadas-es-kuldes.jpg",
+                date: "2025.09.18.",
+                members: ["Five"],
+                topic: "Sparrow wallet letöltése, elindítása - Bitcoin node-hoz való csatlakozás - Új tárca létrehozása - Bitcoin on-chain fogadása - Bitcoin on-chain küldése hardver tárcáról - QR-kódos aláírás/jóváhagyás - Five a Nostr-n - Pleb Lessons",
+                yt: "https://youtu.be/zY0ex0_tCuA",
+                fountain: ""
+            },
+            {
+                name: "NOSTR gyorstalpaló - Közösségépítés cenzúra nélkül",
+                img: "/pics/nostr-gyorstalpalo.jpg",
+                date: "2025.09.18.",
+                members: ["HenkyPenky"],
+                topic: "Bevezetés és a Nostr rövid bemutatása - A Nostr protokoll működése - Kriptográfiai kulcspárok és azonosítás - A decentralizáció és a cenzúraállóság előnyei - Nyílt forráskód és alkalmazásfejlesztés - Néhány Nostr alkalmazás bemutatása - Példák: SatShoot és Snort - Köztér és hosszú formátumú tartalmak - AI integráció és közösségi ötletek",
+                yt: "https://youtu.be/Z9gM4CwkPLk",
+                fountain: ""
+            },
+            {
+                name: "A magyar Bárka - Mit tudsz tenni Te, magadért?",
+                img: "/pics/a-magyar-barka.jpg",
+                date: "2025.09.18.",
+                members: ["Feri"],
+                topic: "Gazdasági ciklusok és a figyelem fontossága - A magyar Bárka koncepció: Mit tehetsz magadért? - Ray Dalio és a birodalmak felemelkedése és bukása - A fiat pénzrendszer problémái és a Bitcoin szerepe - Hogyan készülj fel egy gazdasági válságra? - A Bitcoin mint megtakarítási eszköz - Bitcoin használata zsebpénzként gyerekek számára - Bitcoin mint öröklési és megtakarítási stratégia - Bitcoin elfogadása vállalkozásokban: szállodai példák - A Bitcoin könyvelése és adózási kérdések - Vállalkozói tanácsok: Hogyan legyél hasznos a társadalom számára? - Kérdezz-felelek",
+                yt: "https://youtu.be/Yckbm1v09_o",
+                fountain: ""
+            }            
+        ]
+    },
+    {
         event: "Bitcoin Miskolc",
         params: "Hotel Atlantis, Hajdúszoboszló - 2025. március 21-23.",
         details: "A második magyar Bitcoin konferencia felvételei szép sorban válnak elérhetővé.",
@@ -112,6 +146,33 @@ export const presentations = [
                 members: ["Árpi"],
                 topic: "Az előadás egy olyan megoldást mutat be, amely lehetővé teszi, hogy bitcoin eladása nélkül is euróhoz lehessen jutni. Ismertetésre kerül a Firefish platform, amely letétkezelő nélküli, peer-to-peer alapon kapcsolja össze a bitcoin tulajdonosokat és a kölcsönadókat, így a bitcoin kölcsön fedezetként használható, amit a világ legerősebb számítógépes hálózata, a Bitcoin hálózat biztosít.",
                 yt: "https://youtu.be/fu82KiJzfks",
+                fountain: ""
+            },
+            {
+                name: "UTXO modell - Mitől a tiéd egy bitcoin érme?",
+                img: "/pics/utxo-modell-mitol-a-tied-egy-bitcoin-erme.jpg",
+                date: "2025.03.23.",
+                members: ["Lorry"],
+                topic: "Az időbeli és térbeli aspektusok kifejtése a Bitcoin működésében - Pénzügyi rendszerek összehasonlítása: Bankok vs. Arany - A számlaalapú modell (bankok) működési elve és annak korlátai - Az arany mint fizetőeszköz és az érmék fizikai kezelése - A tranzakciós díjak megjelenése és függése az érmék számától - A digitális tulajdonjog kérdése: Hogyan tehető a miénkké egy Bitcoin? - A kriptográfia (publikus és privát kulcsok) szerepe a tulajdonjog biztosításában - Az UTXO: A Bitcoin tranzakciók alapköve - Gyakorlati bemutató: Bitcoin tranzakciók a Sperrow Walletben - A Sparrow Wallet és a Tesztnet használatának demonstrálása - Bitcoin fogadása és küldése lépésről lépésre, címmásolással és címkézéssel - A tranzakció aláírásának folyamata mint a tulajdonjog megerősítése - A tranzakció hálózatra küldése és azonnali visszajelzések - A tranzakciós díj beállításának lehetőségei a gyorsabb megerősítésért - Tranzakciókövetés a Block Explorer segítségével - Tanulságok: Hatékony UTXO kezelés és költségoptimalizálás",
+                yt: "https://youtu.be/2tSIyDuNuBg",
+                fountain: ""
+            },
+            {
+                name: "A biztonságos hazautalás támogatása Blokklánc nyomozó szoftverrel",
+                img: "/pics/a-biztonsagos-hazautalas-tamogatasa-blokklanc-nyomozo-szoftverrel.jpg",
+                date: "2025.03.23.",
+                members: ["Glaser Anita"],
+                topic: "Az adózás mint a szabályozási környezet része - A kriptovilág tisztasága és az illegális tranzakciók statisztikái - Entitások és kockázati besorolások a blokkláncon - Kockázati besorolások a gyakorlatban - Pénzügyi szolgáltatók rendszere a kripto tranzakciók monitoringjára - Az on-chain nyomkövetés korlátai a centralizált szolgáltatóknál - Illegális tevékenységek típusai a blokkláncon - Mixerek és a pénzmosás elleni küzdelem - Wallet típusok és a KYC szerepe - Blokklánc nyomozó szoftverek vs. Explorer-ek - Kockázati besorolás megadása az entitásokhoz - Érdekesség: A bányászpoolok 0%-os kockázati besorolása - Szatosi Genesis blokkja a Crystal szoftverben - A Genesis blokk vizsgálata a Crystal szoftverben - A 2024. januári adomány nyomában - Esettanulmány: Ellopott kripto nyomában - Egy felhasználó tévedésből elbukott 1.36 BTC-jének nyomon követése - Mi történik, ha az ellopott kriptót DeFi protokollokon mossák tisztára? - A lopott Etherum USDT-re váltása - A pénz útjának végkövetése egy másik alacsony kockázatú tőzsdéig",
+                yt: "https://youtu.be/lWxMaKsuxK8",
+                fountain: ""
+            },
+            {
+                name: "Amit a bitcoin bányászatról tudni érdemes",
+                img: "/pics/amit-a-bitcoin-banyaszatrol-tudni-erdemes.jpg",
+                date: "2025.03.23.",
+                members: ["Optout"],
+                topic: "Játékos felhívás szatosi nyerésére egy számológép segítségével - Alapfogalmak és működési elvek megismertetése - Miért van bányászat? Hogyan működik? Számok a bányászatról - Elméleti alapok: Decentralizált idő és egyirányú számítás - A dupla költés problémája és annak jelentősége a decentralizált rendszerekben - Az egyirányú számítás koncepciója - A kriptográfia alapja - A Bitcoin Proof of Work működése - A bányászat szerepe a Bitcoin kiosztásában és forgalomba hozatalában - A Bitcoin 21 milliós limitje és a felezési események - A Bitcoin bányászat számszerűsítve - Egy tipikus bányagép bemutatása: teljesítmény és fogyasztás - Összehasonlítás atomerőművek teljesítményével - A bányászat mint lottó - A napi blokkjutalom és annak dollár értéke - Megéri-e bitcoint bányászni? - Összehasonlítás a közvetlen Bitcoin vásárlással - Mikor éri meg a bányászat - A Bitcoin bányászat kompetitív és nehezen tervezhető piaca - Mini bányagépek és a 256 bites titkosítás ereje",
+                yt: "https://youtu.be/vdAmKzPPpfY",
                 fountain: ""
             }
         ]
