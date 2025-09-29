@@ -5,6 +5,13 @@
 
 export const news = [
     {
+        summary: "Menekülési út, bárka, nostr, saját tárca",
+        date: "2025.09.29.",
+        html: "<a href='/podcast'>Podcastunk</a> 75. epizódja a Bitcoin szerepét vizsgálja a jelenlegi gazdasági környezetben, kiemelve a fiat pénzrendszer kihívásait és a Bitcoin mint lehetséges alternatíva jelentőségét. Szó esik a közelgő <a href='https://bitcoinmiskolc.hu/' target='_blank'>Bitcoin Miskolc</a> konferencia programjáról és a közösségi edukáció fontosságáról, melynek jegyében zajlott a szeptemberi budapesti meetup a maga három edukatív prezentációjával.<br/><br/>Az előadások anyaga elérhető a tanulni vágyók számára az <a href='/eloadas'>előadás</a> oldalunkon. Témáik:<br/><br/><ul><li>Bitcoin tárca létrehozás, bitcoin fogadás és küldés</li><li>NOSTR gyorstalpaló - Közösségépítés cenzúra nélkül</li><li>A magyar Bárka - Mit tudsz tenni Te, magadért?</li></ul>",
+        img: "/pics/e75.jpg",
+        link: "https://youtu.be/SJKpKzwi-4s"
+    },
+    {
         summary: "Podcast újdonságok",
         date: "2025.09.19.",
         html: "Legfrissebb epizódunkban bemutatkozik Zoli, a Luxmérnök, mélyre ásunk vele a Bitcoin filozófiájában, a pénzügyi rendszer problémáiban és gyerekkori élményeiben, amelyek a decentralizált pénz iránti nyitottságát alakították.<br /><br />Előző <a href='/podcast'>podcast</a> adásunkban pedig Katával dumcsiztunk jogbizonytalanságról, jóságos jogalkotókról, finn bitcoinbányász konferenciáról, narancs nőkről, a <em>The Bitcoiner's Pretties</em>-ről, bitcoiner lifestyle-ról valamint a közelgő Bitcoin Miskolcról és magyar nyelvű <em>Rejtett elnyomás</em>ról.",
