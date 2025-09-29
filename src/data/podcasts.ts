@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "Bitcoin: menekülési út a fiatvihar előtt",
+        id: "E75",
+        img: "/pics/e75.jpg",
+        date: "2025.09.26.",
+        members: ["Anti", "Feri", "Árpi"],
+        topic: "Budapesti meetup összefoglaló - A Bitcoin mint gazdasági menekülési lehetőség - Vállalkozók és a Bitcoin elfogadása Magyarországon - Fiat infláció vs. a Bitcoin stabilitása - A Bitcoin mint időtálló eszköz a vagyonvédelemben - Mérnöki szemmel a fiat rendszer törékenysége - Bitcoin Miskolc konferencia bemutatása - Gyakorlati tanácsok a Bitcoin használatához - Bitcoin elfogadás szállodákban és további tervek",
+        yt: "https://youtu.be/SJKpKzwi-4s",
+        fountain: "https://fountain.fm/episode/NQW9TOUGnsQTxTDWcHej"
+    },
+    {
         name: "A Luxmérnök útja: értékteremtés a Bitcoin szellemében",
         id: "E74",
         img: "/pics/e74.jpg",
