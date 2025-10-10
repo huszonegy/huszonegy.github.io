@@ -2,6 +2,26 @@
 
 export const podcasts = [
     {
+        name: "Villámok és node-ok: Lightning++, Ark és RaspiBlitz",
+        id: "E77",
+        img: "/pics/e77.jpg",
+        date: "2025.10.10.",
+        members: ["Openoms", "Anti"],
+        topic: "Lightning++ konferencia, Block node előadás - Bitcoin LARP társasjáték: a Bitcoin hálózat szimulációja - Ark protokoll: gyors és olcsó tranzakciók új megközelítése - Spark protokoll: gyors, könnyű aláírású bitcoin fizetés - RaspiBlitz projekt: otthoni Bitcoin node-ok építése - Bitcoin hálózat és cenzúra-rezisztencia - Új RaspiBlitz frissítések és hardverajánlások - Hardverek, node-ok és biztonsági workshop a Bitcoin Miskolcon",
+        yt: "https://youtu.be/8FpQ9RHZr1A",
+        fountain: "https://fountain.fm/episode/7JbmKj8MO3nRBf88XES9"
+    },
+    {
+        name: "Védd ki a csalásokat! - Tippek, technikák, tanulságos esetek",
+        id: "E76",
+        img: "/pics/e76.jpg",
+        date: "2025.09.26.",
+        members: ["Anti", "Dávid", "Árpi"],
+        topic: "Csalások a kriptovilágban - Adathalászat és wallet-hamisítás - Ügyfélszolgálati csalások és személyazonosság-lopás - Hamis befektetési platformok pszichológiai trükkjei - Érzelmi nyomás és zsarolás kivonáskor - Megbízható Bitcoin vásárlási alternatívák - További csalás példák és impulzuskezelés - Bitcoinerek óvatossága és hype kihasználása - Manipuláció összefoglalása és kapzsiság - Ginger Wallet ajánlás és konferencia",
+        yt: "https://youtu.be/ROmHdx_gpY4",
+        fountain: "https://fountain.fm/episode/GftQ8guhaboxf1ORyY2q"
+    },
+    {
         name: "Bitcoin: menekülési út a fiatvihar előtt",
         id: "E75",
         img: "/pics/e75.jpg",

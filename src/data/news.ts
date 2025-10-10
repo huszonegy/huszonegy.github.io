@@ -5,6 +5,13 @@
 
 export const news = [
     {
+        summary: "Villámok, node-ok és csalások",
+        date: "2025.10.10.",
+        html: "A <a href='/podcast'>HUSZONEGY Bitcoin podcast</a> legutóbbi két epizódjában egyrészt a kriptovilág leggyakoribb csalásaira fókuszáltunk, hogy hasznos tippek, technikák és tanulságos esetek megosztása által segítsünk a hatékony védekezésben. Másrészt pedig belekóstoltunk a Bitcoin Lightning Network legújabb fejlesztéseibe illetve protokolljaiba, és bemutattuk a RaspiBlitz projekt legújabb frissítéseit is, amely segít otthoni Bitcoin node-ok építésében, hangsúlyozva a hálózat decentralizációjának fontosságát és a saját validáció előnyeit.",
+        img: "/pics/e77.jpg",
+        link: "https://youtu.be/8FpQ9RHZr1A"
+    },
+    {
         summary: "Menekülési út, bárka, nostr, saját tárca",
         date: "2025.09.29.",
         html: "<a href='/podcast'>Podcastunk</a> 75. epizódja a Bitcoin szerepét vizsgálja a jelenlegi gazdasági környezetben, kiemelve a fiat pénzrendszer kihívásait és a Bitcoin mint lehetséges alternatíva jelentőségét. Szó esik a közelgő <a href='https://bitcoinmiskolc.hu/' target='_blank'>Bitcoin Miskolc</a> konferencia programjáról és a közösségi edukáció fontosságáról, melynek jegyében zajlott a szeptemberi budapesti meetup a maga három edukatív prezentációjával.<br/><br/>Az előadások anyaga elérhető a tanulni vágyók számára az <a href='/eloadas'>előadás</a> oldalunkon. Témáik:<br/><br/><ul><li>Bitcoin tárca létrehozás, bitcoin fogadás és küldés</li><li>NOSTR gyorstalpaló - Közösségépítés cenzúra nélkül</li><li>A magyar Bárka - Mit tudsz tenni Te, magadért?</li></ul>",
