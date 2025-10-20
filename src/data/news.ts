@@ -5,6 +5,13 @@
 
 export const news = [
     {
+        summary: "Felelősségvállalás, követés és feliratkozás",
+        date: "2025.10.20.",
+        html: "A <a href='/podcast'>podcastban</a> legutóbb a Bitcoin szellemiségéről és a felelősségvállalás fontosságáról beszélgettünk.<br /><br />Fantasztikus hangulatban telt a múlt hétvégi konferencia, ahol nagy örömmel ismertünk meg számos nyitott érdeklődőt. Ezúton is szeretettel köszöntjük őket köreinkben, továbbá ezt az alkalmat megragadva felsorolunk néhány felületet, ahol rendszeresen posztolunk:<ul><li><a href='https://www.youtube.com/@huszonegy-bitcoin-podcast' target='_blank'>youtube csatornánk</a></li><li><a href='https://primal.noszter.hu/p/npub1755d2hamvd0yerc32xk6d90kxjl35q4dn8yehywv8nmntl9fv2hsf7aa5e' target='_blank'>nostr profilunk</a></li><li><a href='https://www.facebook.com/huszonegybitcoinpodcast' target='_blank'>facebook oldalunk</a></li></ul>",
+        img: "/pics/e78.jpg",
+        link: "https://youtu.be/xWk2wU3_9Tw"
+    },
+    {
         summary: "Villámok, node-ok és csalások",
         date: "2025.10.10.",
         html: "A <a href='/podcast'>HUSZONEGY Bitcoin podcast</a> legutóbbi két epizódjában egyrészt a kriptovilág leggyakoribb csalásaira fókuszáltunk, hogy hasznos tippek, technikák és tanulságos esetek megosztása által segítsünk a hatékony védekezésben. Másrészt pedig belekóstoltunk a Bitcoin Lightning Network legújabb fejlesztéseibe illetve protokolljaiba, és bemutattuk a RaspiBlitz projekt legújabb frissítéseit is, amely segít otthoni Bitcoin node-ok építésében, hangsúlyozva a hálózat decentralizációjának fontosságát és a saját validáció előnyeit.",
