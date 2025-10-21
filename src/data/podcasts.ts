@@ -8,7 +8,8 @@ export const podcasts = [
         date: "2025.10.20.",
         members: ["Anti", "Dani", "Árpi"],
         topic: "Bitcoin és spirituális gondolkodás - Káosz és változás: a világ dinamikus átalakulása - Decentralizáció és felelősségvállalás - A Bitcoin mint alternatíva: átláthatóság és értékőrzés - Következmények és felelősség: a Bitcoin tanulságai - Korrupció és bizalomvesztés a fiat rendszerben - Értelmiség és tudatosság: a Bitcoin közösség ereje - Belső változás: az egyéni felelősség kulcsa - Bitcoin vs. kripto: miért más a Bitcoin? - Csendes forradalom: a Bitcoin közösség jövője",
-        yt: "https://youtu.be/xWk2wU3_9Tw"
+        yt: "https://youtu.be/xWk2wU3_9Tw",
+        fountain: "https://fountain.fm/episode/yR0rTmvSmolSsP2G1x3L"
     },
     {
         name: "Villámok és node-ok: Lightning++, Ark és RaspiBlitz",
