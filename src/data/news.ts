@@ -5,6 +5,13 @@
 
 export const news = [
     {
+        summary: "Konferencia összegzés és Nostr",
+        date: "2025.10.24.",
+        html: "<a href='/podcast'>Podcastunk</a> aktuális adásában a miskolci Bitcoin konferenciáról beszélgettünk, valamint a Bitcoin tábor ötletéről, a vállalkozások Bitcoin-elfogadásáról, sőt arról is, hogyan vásárolhatsz lakást Bitcoinnal a jövőben. Csatlakozz hozzánk, és kövesd a közösséget a Nostr-n!<br /><br />Amelyiktek még nincs jelen a nostr-n/noszteren, próbálja ki ezt a magyar felületet: <a href='https://primal.noszter.hu' target='_blank'>https://primal.noszter.hu</a><br /><br />A kezdés gombra kattintva lehet új fiókot regisztrálni, mely során nem kell személyes adatot megadni.<br /><br />Eredményként kapsz:<ul><li>egy privát/titkos kulcsot (nsec... kezdettel), ezt NE add meg senkinek, hanem írd fel vagy mentsd el jól magadnak,</li><li>valamint egy publikus/nyilvános kulcsot (npub... kezdettel), ezt add meg másoknak, hogy megtaláljanak a nostr-n!</li></ul>Aztán kövessétek be <a href='https://primal.noszter.hu/p/npub1755d2hamvd0yerc32xk6d90kxjl35q4dn8yehywv8nmntl9fv2hsf7aa5e' target='_blank'>a HUSZONEGY Nostr fiókját</a>, mert az egy fix kapcsolódási pont!",
+        img: "/pics/e79.jpg",
+        link: "https://youtu.be/x2vWSakAF3Y"
+    },
+    {
         summary: "Felelősségvállalás, követés és feliratkozás",
         date: "2025.10.20.",
         html: "A <a href='/podcast'>podcastban</a> legutóbb a Bitcoin szellemiségéről és a felelősségvállalás fontosságáról beszélgettünk.<br /><br />Fantasztikus hangulatban telt a múlt hétvégi konferencia, ahol nagy örömmel ismertünk meg számos nyitott érdeklődőt. Ezúton is szeretettel köszöntjük őket köreinkben, továbbá ezt az alkalmat megragadva felsorolunk néhány felületet, ahol rendszeresen posztolunk:<ul><li><a href='https://www.youtube.com/@huszonegy-bitcoin-podcast' target='_blank'>youtube csatornánk</a></li><li><a href='https://primal.noszter.hu/p/npub1755d2hamvd0yerc32xk6d90kxjl35q4dn8yehywv8nmntl9fv2hsf7aa5e' target='_blank'>nostr profilunk</a></li><li><a href='https://www.facebook.com/huszonegybitcoinpodcast' target='_blank'>facebook oldalunk</a></li></ul>",
