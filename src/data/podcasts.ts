@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "Bitcoin Miskolc: közösség, szabadság, jövő",
+        id: "E79",
+        img: "/pics/e79.jpg",
+        date: "2025.10.24.",
+        members: ["Anti", "Feri", "Árpi"],
+        topic: "A Bitcoin Miskolc konferencia hangulata - Bitcoin tábor és a jövő konferenciái - Hardver tárcák és Bitcoin adoptáció - Vállalkozások és a Bitcoin elfogadás előretörése - A fiat vonat és a Bitcoin szigete - Proof of work: történelmet írunk a Bitcoinnal - Új hangok a közösségben és a Noster fontossága - A Bitcoin használati értéke és az adoptáció jövője - Vállalkozók és a Bitcoin gazdaság előnyei - Lakásvásárlás Bitcoinnal: a jövő",
+        yt: "https://youtu.be/x2vWSakAF3Y",
+        fountain: "https://fountain.fm/episode/obqiAPe75HroBlmuCKmf"
+    },
+    {
         name: "Bitcoin és felelősség: út a tudatos jövő felé",
         id: "E78",
         img: "/pics/e78.jpg",
