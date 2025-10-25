@@ -7,7 +7,7 @@
             </div>
             <div class="col col-auto py-3">
                 <div class="small text-end text-secondary" style="padding-top: 3px;">
-                    ©️ 2024 HUSZONEGY Minden jog fenntartva
+                    ©️ 2024-2025 HUSZONEGY Minden jog fenntartva
                 </div>
             </div>
             <div class="col col-auto py-3">
