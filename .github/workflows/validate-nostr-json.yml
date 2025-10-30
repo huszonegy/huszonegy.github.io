@@ -1,0 +1,67 @@
+name: Validate nostr.json
+
+on:
+  # Run on pushes to main branch
+  push:
+    branches: ['main']
+    paths:
+      - 'nostr.json'
+  
+  # Run on pull requests
+  pull_request:
+    paths:
+      - 'nostr.json'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  validate:
+    name: Validate nostr.json
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Validate JSON syntax
+        run: |
+          echo "Validating nostr.json for JSON parsing errors..."
+          if jq empty nostr.json 2>/dev/null; then
+            echo "✅ nostr.json is valid JSON"
+          else
+            echo "❌ nostr.json has JSON parsing errors"
+            exit 1
+          fi
+      
+      - name: Validate nostr.json structure
+        run: |
+          echo "Validating nostr.json structure..."
+          
+          # Check if 'names' object exists
+          if ! jq -e '.names' nostr.json > /dev/null; then
+            echo "❌ Missing 'names' object in nostr.json"
+            exit 1
+          fi
+          
+          # Check if all values are valid hex strings (64 characters, hex only)
+          invalid_keys=$(jq -r '.names | to_entries[] | select(.value | test("^[0-9a-f]{64}$") | not) | .key' nostr.json)
+          
+          if [ -n "$invalid_keys" ]; then
+            echo "❌ Invalid pubkey format for the following names:"
+            echo "$invalid_keys"
+            echo ""
+            echo "All pubkeys must be 64-character hexadecimal strings"
+            exit 1
+          fi
+          
+          echo "✅ nostr.json structure is valid"
+          echo "✅ All pubkeys are valid 64-character hex strings"
+      
+      - name: Display nostr.json info
+        run: |
+          echo "📊 nostr.json statistics:"
+          echo "Total names: $(jq '.names | length' nostr.json)"
+          echo ""
+          echo "Registered names:"
+          jq -r '.names | keys[]' nostr.json | sort
