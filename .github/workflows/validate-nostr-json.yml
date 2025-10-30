@@ -27,10 +27,17 @@ jobs:
       - name: Validate JSON syntax
         run: |
           echo "Validating nostr.json for JSON parsing errors..."
-          if jq empty nostr.json 2>/dev/null; then
+
+          # Capture both stdout and stderr from jq
+          if output=$(jq empty nostr.json 2>&1); then
             echo "✅ nostr.json is valid JSON"
           else
             echo "❌ nostr.json has JSON parsing errors"
+            echo ""
+            echo "Detailed error message:"
+            echo "$output"
+            echo ""
+            echo "Please fix the JSON syntax errors above."
             exit 1
           fi
       
