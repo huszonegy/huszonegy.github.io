@@ -2,6 +2,26 @@
 
 export const podcasts = [
     {
+        name: "Magyar kriptoszabályozás: mi változik és kit érint?",
+        id: "E81",
+        img: "/pics/e81.jpg",
+        date: "2025.11.07.",
+        members: ["Anti", "Kata", "Árpi"],
+        topic: "Magyar kriptoszabályozás áttekintése - MiCA rendelet és a magyar kriptotörvény alapjai - Validálási kötelezettség: mi ez és kit érint? - Validálás célja és a megfelelősségi nyilatkozat - Magánszemélyek és peer-to-peer vásárlás - Hatályba lépés - BTK új tényállásai: kriptoeszközzel való visszaélés - Hogyan vásárolj legálisan bitcoint Magyarországon? - Pénzmosás-ellenes rezsim hatékonysága - Miért a Bitcoin az ideális pénz? - Céges bitcoin elfogadás és tartalékolás - Jó hírek: kit NEM érint a szabályozás?",
+        yt: "https://youtu.be/lci7ji6iTEk",
+        fountain: "https://fountain.fm/episode/SX2LKLWw5YYnfoPK0Jxz"
+    },
+    {
+        name: "A gondolat szabadsága – Máltától Prágáig, validáció nélkül",
+        id: "E80",
+        img: "/pics/e80.jpg",
+        date: "2025.10.31.",
+        members: ["Anti", "Kata", "Árpi"],
+        topic: "Új BTK-rendelet: validálás nélkül hodl, DEX, baráti csere - Tudati támadás: rádió, tévé, fake AI-videók - The Bitcoiner's Pretties: női mozgalom, merch, könyvek - Gyerekek a Bitcoin világában - BTC Prague 2026: női side event staféta átvétele - Újdonságok",
+        yt: "https://youtu.be/HEJReL5lRfg",
+        fountain: "https://fountain.fm/episode/LVRV7QbLyKN04JwJhJAs"
+    },
+    {
         name: "Bitcoin Miskolc: közösség, szabadság, jövő",
         id: "E79",
         img: "/pics/e79.jpg",
