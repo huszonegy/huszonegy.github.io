@@ -5,6 +5,13 @@
 
 export const news = [
     {
+        summary: "Kriptoszabályozás, a gondolat szabadsága, konf. előadások",
+        date: "2025.11.07.",
+        html: "A <a href='/podcast'>HUSZONEGY Bitcoin podcast</a> legutóbbi 2 epizódjában Kata jogászként átfogó képet ad a magyar kriptoszabályozásról: a MiCA uniós kerettől a hazai kriptotörvényen át a friss SZTFH rendeletig. Majd bemutatja a The Bitcoiner’s Pretties mozgalmat: női közösséggel, egyedi dizájnos merchcsel, saját kiadású könyvekkel és egy esztétikus webshoppal.<br /><br />Előadás oldalunkon pedig elkezdtek felsorakozni <a href='/eloadas'>a legutóbbi miskolci Bitcoin konferencia felvételei.</a> Az oldalon lefelé görgetve rengeteg korábbi, szintén magyar nyelvű videóanyag érhető el, szépen rendszerezve.",
+        img: "/pics/e81.jpg",
+        link: "https://youtu.be/lci7ji6iTEk"
+    },
+    {
         summary: "Konferencia összegzés és Nostr",
         date: "2025.10.24.",
         html: "<a href='/podcast'>Podcastunk</a> aktuális adásában a miskolci Bitcoin konferenciáról beszélgettünk, valamint a Bitcoin tábor ötletéről, a vállalkozások Bitcoin-elfogadásáról, sőt arról is, hogyan vásárolhatsz lakást Bitcoinnal a jövőben. Csatlakozz hozzánk, és kövesd a közösséget a Nostr-n!<br /><br />Amelyiktek még nincs jelen a nostr-n/noszteren, próbálja ki ezt a magyar felületet: <a href='https://primal.noszter.hu' target='_blank'>https://primal.noszter.hu</a><br /><br />A kezdés gombra kattintva lehet új fiókot regisztrálni, mely során nem kell személyes adatot megadni.<br /><br />Eredményként kapsz:<ul><li>egy privát/titkos kulcsot (nsec... kezdettel), ezt NE add meg senkinek, hanem írd fel vagy mentsd el jól magadnak,</li><li>valamint egy publikus/nyilvános kulcsot (npub... kezdettel), ezt add meg másoknak, hogy megtaláljanak a nostr-n!</li></ul>Aztán kövessétek be <a href='https://primal.noszter.hu/p/npub1755d2hamvd0yerc32xk6d90kxjl35q4dn8yehywv8nmntl9fv2hsf7aa5e' target='_blank'>a HUSZONEGY Nostr fiókját</a>, mert az egy fix kapcsolódási pont!",
