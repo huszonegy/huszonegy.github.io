@@ -113,15 +113,15 @@ export const books = [
         shop: "<strong>Ingyenesen olvasható:</strong> <a href='/files/Miert-eppen-a-Bitcoin-Tomer-Strolight.pdf' target='_blank'>pdf</a>"
     },
     {
-        id: "hidden-repression",
-        title: "Hidden repression - How the IMF and World Bank Sell Exploitation as Development",
+        id: "rejtett-elnyomas",
+        title: "Rejtett elnyomás – Hogyan adja el az IMF és a Világbank a kizsákmányolást fejlesztésként",
         author: "Alex Gladstein",
-        translator: "",
-        year: "2023",
-        text: "Rejtett elnyomás – Hogyan adja el az IMF és a Világbank a kizsákmányolást fejlesztésként",
-        desc: "Az IMF-et és a Világbankot azért hozták létre, hogy segítsenek az országoknak túlélni a pénzügyi válságokat, és segítsenek nekik prosperáló gazdasági szereplőkké válni. A 75 éves múltjuk azonban éppen az ellenkezőjét mutatja: hiteleik és strukturális kiigazítási politikáik lehetetlenül nagy adósságcsapdába taszították a szegény országokat, és arra kényszerítették a harmadik világot, hogy a nyugati fogyasztásra szánt áruk előállítására összpontosítson, ahelyett, hogy a hazai fogyasztást és ipart növelné. A Világbank és az IMF 'fejlesztése és segítsége' minden egyéb, csak nem 'fejlesztés'. A valóság a neokolonialista kizsákmányolás története, megdöbbentő eredményekkel.<br /><br /><small><b>Bővebben:</b> <a href='https://www.bitcoinbazis.hu/hogyan-adja-el-az-imf-es-a-vilagbank-a-kizsakmanyolast-fejleszteskent/' target='_blank'>BitcoinBázis cikk</a>, Bitcoin Kebab <a href='https://www.youtube.com/watch?v=rzOMbfTRjwg' target='_blank'>podcast a szerzővel</a> magyar felirattal</small>",
-        img: "/books/hidden-repression.png",
-        shop: "<strong>Megvásárolható:</strong> <a href='https://store.bitcoinmagazine.com/collections/books/products/hidden-repression' target='_blank'>BitcoinMagazine</a>"
+        translator: "Murányi Árpád",
+        year: "2025",
+        text: "",
+        desc: "Az IMF-et és a Világbankot azért hozták létre, hogy segítsenek az országoknak túlélni a pénzügyi válságokat, és segítsenek nekik prosperáló gazdasági szereplőkké válni. A 75 éves múltjuk azonban éppen az ellenkezőjét mutatja: hiteleik és strukturális kiigazítási politikáik lehetetlenül nagy adósságcsapdába taszították a szegény országokat, és arra kényszerítették a harmadik világot, hogy a nyugati fogyasztásra szánt áruk előállítására összpontosítson, ahelyett, hogy a hazai fogyasztást és ipart növelné. A Világbank és az IMF 'fejlesztése és segítsége' minden egyéb, csak nem 'fejlesztés'. A valóság a neokolonialista kizsákmányolás története, megdöbbentő eredményekkel.<br /><br /><small><b>Bővebben:</b> <a href='https://offtopik.hu/2023/07/24/hogyan-adja-el-az-imf-es-a-vilagbank-a-kizsakmanyolast-fejleszteskent/' target='_blank'>Offtopik cikk</a>, Bitcoin Kebab <a href='https://www.youtube.com/watch?v=rzOMbfTRjwg' target='_blank'>podcast a szerzővel</a> magyar felirattal</small>",
+        img: "/books/rejtett-elnyomas.jpg",
+        shop: "<strong>Megvásárolható:</strong> <a href='https://thebitcoinerspretties.com/products/rejtett-elnyom-s' target='_blank'>The Bitcoiner's Pretties</a>"
     }
 ]
 
