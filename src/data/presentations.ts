@@ -2,6 +2,40 @@
 
 export const presentations = [
     {
+        event: "Bitcoin Miskolc",
+        params: "Hotel Aurora, Miskolc - 2025. október 17-19.",
+        details: "A 3. magyar Bitcoin konferencia felvételei szép sorban válnak elérhetővé.",
+        parts: [
+            {
+                name: "Köszöntő",
+                img: "/pics/bitcoin-miskolc-3-koszonto.jpg",
+                date: "2025.10.17.",
+                members: ["Feri"],
+                topic: "Hivatalos megnyitó - Személyes út a Bitcoinhoz - A meghatározó inspiráció és a cselekvés - Az első meetupok és a Bitcoin Miskolc születése - A közösség és a konferencia küldetése - Köszönetnyilvánítás",
+                yt: "https://youtu.be/cPhH0ZNUzpA",
+                fountain: ""
+            },
+            {
+                name: "Mi a pénz és mi vele a probléma?",
+                img: "/pics/bitcoin-miskolc-3-mi-a-penz.jpg",
+                date: "2025.10.17.",
+                members: ["Feri"],
+                topic: "Bevezetés - Az alapvető probléma: Mi a pénz? - Első emlékek a pénzről - A pénz evolúciója és a Dunbar-szám - A pénz mint elszámolási rendszer - A jó pénz tulajdonságai - Történelmi pénzformák - A nemesfémek és a birodalmak bukása - Bizánc bukása és Orbán, az ágyúöntő - A papírpénz megjelenése - Ray Dalio: Birodalmak felemelkedése és bukása - 1971: A Nixon-sokk és a Fiat pénz kora - Mi történt 1971-ben? - A lila elefántok példázata - Pénzmennyiség (M2): USD, EUR, HUF - Az államadósság spirál - Miért dolgozol kétszer a pénzedért? - A pénzromlás társadalmi hatása - Fix the Money, Fix the World",
+                yt: "https://youtu.be/g3WgCKFI8js",
+                fountain: ""
+            },
+            {
+                name: "Mi a bitcoin?",
+                img: "/pics/bitcoin-miskolc-3-mi-a-bitcoin.jpg",
+                date: "2025.10.17.",
+                members: ["Feri"],
+                topic: "Bevezetés - Mi a Bitcoin? - A matematika és a cenzúrázhatatlanság - A Bitcoin véges készlete - Hamisíthatatlanság és ellenőrizhetőség - A hálózat védelme: Energia és termodinamika - A Bitcoin mint kész, stabil rendszer - A pénz valódi természete - A Bitcoin eredete - Előfutárok: EGold, Hashcash - Nick Szabo és a BitGold - 2008: Satoshi Nakamoto és a White Paper - A Bitcoin technológiái - A Genezis Blokk - A hármas könyvelés forradalma - Társadalmi jelentőség: A pénz és az állam szétválasztása - A pénz és a tőke szétválasztása - A digitális tulajdon - A kibocsátási ütemezés - A két valódi szűkös erőforrás: Az idő és a Bitcoin - A Bitcoin rugalmatlan kínálata - Miért értékes a Bitcoin? - Az arany és a gyémánt - A Bitcoin értéke a tulajdonságaiban rejlik - A szabályok megváltoztathatatlansága - Kripto vs. Bitcoin - Zárás és kérdések",
+                yt: "https://youtu.be/8-lLJ_KYR6Q",
+                fountain: ""
+            }
+        ]
+    },
+    {
         event: "Rendhagyó szeptemberi meetup",
         params: "Perspective Bar, Budapest - 2025. szeptember 18.",
         details: "Szeptemberi budapesti meetup-unkat előadásokkal fűszereztük, mely hozott edukatív témát kezdő érdeklődők számára valamint a már jártasabbak számára is.",
@@ -38,7 +72,7 @@ export const presentations = [
     {
         event: "Bitcoin Miskolc",
         params: "Hotel Atlantis, Hajdúszoboszló - 2025. március 21-23.",
-        details: "A második magyar Bitcoin konferencia felvételei szép sorban válnak elérhetővé.",
+        details: "A második magyar Bitcoin konferencia felvételei.",
         parts: [
             {
                 name: "Mi a pénz és mi a probléma vele?",
