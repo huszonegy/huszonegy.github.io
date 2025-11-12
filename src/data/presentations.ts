@@ -32,6 +32,42 @@ export const presentations = [
                 topic: "Bevezetés - Mi a Bitcoin? - A matematika és a cenzúrázhatatlanság - A Bitcoin véges készlete - Hamisíthatatlanság és ellenőrizhetőség - A hálózat védelme: Energia és termodinamika - A Bitcoin mint kész, stabil rendszer - A pénz valódi természete - A Bitcoin eredete - Előfutárok: EGold, Hashcash - Nick Szabo és a BitGold - 2008: Satoshi Nakamoto és a White Paper - A Bitcoin technológiái - A Genezis Blokk - A hármas könyvelés forradalma - Társadalmi jelentőség: A pénz és az állam szétválasztása - A pénz és a tőke szétválasztása - A digitális tulajdon - A kibocsátási ütemezés - A két valódi szűkös erőforrás: Az idő és a Bitcoin - A Bitcoin rugalmatlan kínálata - Miért értékes a Bitcoin? - Az arany és a gyémánt - A Bitcoin értéke a tulajdonságaiban rejlik - A szabályok megváltoztathatatlansága - Kripto vs. Bitcoin - Zárás és kérdések",
                 yt: "https://youtu.be/8-lLJ_KYR6Q",
                 fountain: ""
+            },
+            {
+                name: "A Bitcoin immunválasz",
+                img: "/pics/bitcoin-miskolc-3-immunvalasz.jpg",
+                date: "2025.10.17.",
+                members: ["Anti"],
+                topic: "A központi téma: A Bitcoin mint immunválasz - 1. Tünet: A pénzrendszer betegsége - A fenntartás eszközei: Kamat és infláció - A megtakarítás értelmetlensége és a fogyasztói társadalom - A Cantillon-effektus - A magas időpreferencia fogalma és hatásai - Politikai tünetek: Korlátlan pénzteremtés - 2. Diagnózis: A Fiat-gépezet szándékos - A rendszer irányítói és az adósrabszolgaság - Az infláció mint a legnagyobb rejtett adó - 3. Az elit 'megoldásai' - Az Agenda 2030 és a globális kontroll - A zöld narratíva mint erőforráskontroll - Viselkedéskontroll: A kínai szociális kreditrendszer - Következtetés: Az orvos is beteg - 4. A Bitcoin: A természetes immunválasz - A piramis megfordítása - A Proof-of-Work és az energia szerepe - Az erkölcs, becsület és bizalom visszatérése - Az immunválasz kulcsa: A magánszféra (Privacy) - 5. A Fiat rendszer végjátéka - 6. Kontraszt: CBDC (Kontroll) vs. Bitcoin (Szuverenitás) - Összegzés: A piramis megrepedezett",
+                yt: "https://youtu.be/y_b76dbFc_Q",
+                fountain: ""
+            },
+            {
+                name: "A Bitcointól a hosszúéletesítésig: Egy végtelen játék kezdete 1. rész",
+                img: "/pics/bitcoin-miskolc-3-hosszueletesites.jpg",
+                date: "2025.10.17.",
+                members: ["Nopara"],
+                topic: "A 'baro reflex' edzése és az öregedés jelei - Az előadás születése: Panelbeszélgetés helyett hosszúéletesítés? - Filozófiai kezdet: Túl későn a tengerekhez, túl korán a világűrhöz - A mi generációnk feladata: A pénzügyi rendszer helyretétele - A kezdetek: Műszaki Egyetem és Molnár Dávid - A Gólyatábor-pillanat: Marihuána, Silk Road és a Bitcoin - A Bitcoin Plebeus korszak - Budapest Bitcoin Meetupok - Én voltam az első ember Magyarországon, aki bitcoinnal sört vásárolt - A korai arcok: Boldog György és a hosszúéletesítés forradalma - A fejlesztői probléma - A mentor: Nicola Doré és a lehetőség Tokióban - Az ötlet: Chris Belcher és a JoinMarket - A felismerés: Hatalmas igény van az anonimitásra - A Wasabi Wallet születése - Sztori: A lisszaboni Breaking Bitcoin konferencia - A probléma: Nem volt kész a felhasználói felület (UI) - A megoldás: Dan, a fejlesztő, aki pont Lisszabonban nyaralt",
+                yt: "https://youtu.be/6nHr1HTIai8",
+                fountain: ""
+            },
+            {
+                name: "A Wasabi wallet története",
+                img: "/pics/bitcoin-miskolc-3-wasabi-wallet.jpg",
+                date: "2025.10.17.",
+                members: ["Dávid"],
+                topic: "Bevezetés: A Wasabi története - Mi az a CoinJoin? - A Wasabi sikere - A kezdeti cél (napi 1 tranzakció) és a növekedés - A Bitcoin átláthatóságának veszélyei - Váltás a zárt szoftverek világából az open-source-ba - A Wasabi üzleti modellje - A cég indulása - Privacy a meetingeken - A közösségi építkezés ereje - A Bitcoin-világ hitelessége és a vezetők elérhetősége - A Wasabi-szolgáltatás vége - A szabadság alapja a magánszféra - A hatósági nyomás és a Blind Signature technológia - Az utolsó csepp - A Bitcoin válasza a cenzúrára: A decentralizáltság - 11 új koordinátor és a Ginger Wallet születése - A szoftver túlélte a nyomást - Záró gondolat: A központi hatalom hiánya a Bitcoin ereje",
+                yt: "https://youtu.be/q3GQPMC9d5c",
+                fountain: ""
+            },
+            {
+                name: "A Bitcointól a hosszúéletesítésig: Egy végtelen játék kezdete 2. rész",
+                img: "/pics/bitcoin-miskolc-3-nopara.jpg",
+                date: "2025.10.17.",
+                members: ["Nopara"],
+                topic: "A Wasabi Wallet jogi háttere - Demoklész kardja - A 'Schrödinger macskája' dilemma - A Ginger Wallet (magyar projekt) születése - A felismerés és a váltás: hosszúéletesítés - Az új stratégia: Belépés a longevity témába - A biológiai életkor-visszafordító verseny - A Longevity World Cup - A megoldás: Figyelni az eredményeket - Kísérlet: Egy önkéntes jelentkező - Az etikai dilemma: 'Pofán vágom magát' - A kontraszt: A boxmeccs és a játékszabályok - A játékok hatalma (Póker: blöff vs. hazugság) - A hosszú életesítés mint 'játék' - A kísérletezés és az örök élet kulcsa - Zárszó és a Bitcoin QR kód (Giveaway)",
+                yt: "https://youtu.be/h3H684rwK1Y",
+                fountain: ""
             }
         ]
     },
