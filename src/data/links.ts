@@ -24,7 +24,7 @@ export const links = [
             },
             {
                 name: "Firefish",
-                text: "Peer-to-peer Bitcoin fedezetű kölcsön platform, magyar nyelvű felülettel és <a href='https://docs.firefish.io/magyar' target='_blank'>tudástár</a>ral. Ne add el a Bitcoinod, használd kölcsönfedezetként!",
+                text: "Peer-to-peer Bitcoin fedezetű kölcsön platform, magyar nyelvű felülettel és <a href='https://firefish.notion.site/Magyar-1b2cc9942270806ca2d0e54986d0e6b2' target='_blank'>tudástár</a>ral.<br /><ul style='margin-top: 12px'><li><a href='https://youtu.be/fu82KiJzfks' target='_blank'>Ne add el, használd fedezetként!</a> - prezentáció</li><li><a href='https://youtu.be/fxir9iKJrBc' target='_blank'>Magyar nyelvű Firefish felület bemutató</a> - oktatóvideó</li></ul>",
                 afftype: "HUSZONEGY ajánlókód",
                 affdetail: "-30% az első kölcsönfelvétel kezelési költségéből",
                 url: "https://app.firefish.io/auth/sign-up/?ref=HUSZONEGY"
@@ -45,7 +45,7 @@ export const links = [
             },
             {
                 name: "BTC Prague",
-                text: "Európa legnagyobb, legmeghatározóbb bitcoin rendezvénye - 2025. június 19-21.",
+                text: "Európa legnagyobb, legmeghatározóbb bitcoin rendezvénye",
                 afftype: "HUSZONEGY kuponkód",
                 affdetail: "-10%",
                 url: "https://btcprague.com/?promo_id=25460&key=30cdf2cfae450312369542954b10cbaa"
