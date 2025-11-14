@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "Espresso bitcoinért: 21 másodperc",
+        id: "E82",
+        img: "/pics/e82.jpg",
+        date: "2025.11.14.",
+        members: ["Anti", "D Tamás", "Árpi"],
+        topic: "Első találkozás, első olasz kávé - Öt évnyi Bitcoin: a későn jövés mítosza - 21 másodperc: az olasz espresso titka - Miért nem jó a citrusos kávé? - A víz: a legeslegfontosabb a kávéfőzésnél - mokambo.hu: kávé bitcoinért otthonra is - Bitcoin fizetés és közösségi kedvezmények - Decentralizáció: a nép pénze, nem a kormányé - Miből lesz a mokambogár?",
+        yt: "https://youtu.be/vXexEyKWrJ0",
+        fountain: "https://fountain.fm/episode/EFehOxNvvNlTuI8sJNcC"
+    },
+    {
         name: "Magyar kriptoszabályozás: mi változik és kit érint?",
         id: "E81",
         img: "/pics/e81.jpg",
