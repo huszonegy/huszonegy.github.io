@@ -5,6 +5,13 @@
 
 export const news = [
     {
+        summary: "Kávéval a szabadságért, új cikkek",
+        date: "2025.11.14.",
+        html: "<a href='/podcast'>Podcastunkban</a> felfedjük, hogy az igazi olasz espresso titka a 21 másodpercben rejlik. Megismerjük a minőségi kávékészítés titkait, az espresso valódi jelentését, majd beszivárognak olyan tipikus Bitcoinhoz kapcsolódó témák is, mint a későn jövés mítosza és a decentralizált jövő iránti elköteleződés. A beszélgetés végére pedig arra is fény derül, miből lesz a mokambogár.<br /><br />Új <a href='/cikkek'>cikkeink</a> között pedig újra felmerül a <em>szabad piac</em> és az <em>egészséges pénz</em> fogalma, valamint az 1993-ban megjelent <a href='https://bitcoinmentor.hu/cypherpunk-kialtvany/'>Cypherpunk kiáltvány</a> magyar fordítása.",
+        img: "/pics/e82.jpg",
+        link: "https://youtu.be/vXexEyKWrJ0"
+    },
+    {
         summary: "Kriptoszabályozás, a gondolat szabadsága, konf. előadások",
         date: "2025.11.07.",
         html: "A <a href='/podcast'>HUSZONEGY Bitcoin podcast</a> legutóbbi 2 epizódjában Kata jogászként átfogó képet ad a magyar kriptoszabályozásról: a MiCA uniós kerettől a hazai kriptotörvényen át a friss SZTFH rendeletig. Majd bemutatja a The Bitcoiner’s Pretties mozgalmat: női közösséggel, egyedi dizájnos merchcsel, saját kiadású könyvekkel és egy esztétikus webshoppal.<br /><br />Előadás oldalunkon pedig elkezdtek felsorakozni <a href='/eloadas'>a legutóbbi miskolci Bitcoin konferencia felvételei.</a> Az oldalon lefelé görgetve rengeteg korábbi, szintén magyar nyelvű videóanyag érhető el, szépen rendszerezve.",
