@@ -3,6 +3,26 @@
 
 export const articles = [
     {
+        name: "Bitcoin: a szabad piac egészséges pénze",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "Az osztrák közgazdaságtan a gazdaságot az emberek egyéni döntései felől közelíti meg, és hisz abban, hogy a piac szabad működése a legjobb út a jóléthez. Azt vallja, hogy az egyéni választások spontán rendet hoznak létre, ha az állam nem avatkozik be. Az egészséges pénz, azaz a stabil és értékálló valuta a kulcsa annak, hogy a gazdaság ne csússzon válságba az infláció vagy a rossz döntések miatt.",
+        link: "https://europeanbitcoiners.com/bitcoin-a-szabad-piac-egeszseges-penze/",
+        img: "/article/bitcoin-a-szabad-piac-egeszseges-penze.png",
+        cat: "bevezető",
+        id: 39
+    },
+    {
+        name: "Cypherpunk kiáltvány",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "1993-ban, amikor az internet még csak néhány millió felhasználó számára volt elérhető, Eric Hughes – a cypherpunk mozgalom egyik alapítója – megírta ezt a rövid, mégis korszakalkotó szöveget. A Cypherpunk kiáltvány nem technikai útmutató, hanem filozófiai és politikai program: a kriptográfia erejét állítja az egyéni szabadság szolgálatába, a központosított hatalommal és a tömeges megfigyeléssel szemben.",
+        link: "https://bitcoinmentor.hu/cypherpunk-kialtvany/",
+        img: "/article/cypherpunk-kialtvany.png",
+        cat: "bevezető",
+        id: 38
+    },
+    {
         name: "Az exponenciális fejlődés kihívás és lehetőség",
         origin: "szerző: árpi",
         lang: "hu",
