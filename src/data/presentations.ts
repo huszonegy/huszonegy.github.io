@@ -68,6 +68,24 @@ export const presentations = [
                 topic: "A Wasabi Wallet jogi háttere - Demoklész kardja - A 'Schrödinger macskája' dilemma - A Ginger Wallet (magyar projekt) születése - A felismerés és a váltás: hosszúéletesítés - Az új stratégia: Belépés a longevity témába - A biológiai életkor-visszafordító verseny - A Longevity World Cup - A megoldás: Figyelni az eredményeket - Kísérlet: Egy önkéntes jelentkező - Az etikai dilemma: 'Pofán vágom magát' - A kontraszt: A boxmeccs és a játékszabályok - A játékok hatalma (Póker: blöff vs. hazugság) - A hosszú életesítés mint 'játék' - A kísérletezés és az örök élet kulcsa - Zárszó és a Bitcoin QR kód (Giveaway)",
                 yt: "https://youtu.be/h3H684rwK1Y",
                 fountain: ""
+            },
+            {
+                name: "Nostr gyorsatalpaló",
+                img: "/pics/bitcoin-miskolc-3-nostr.jpg",
+                date: "2025.10.17.",
+                members: ["HenkyPenky"],
+                topic: "A Nostr alapjai: Mi ez, miért jött létre és a Damus-effektus - A Nostr fiók: A kriptográfiai kulcspár (NPUB/NECK) és a központi előny - A Nostr főbb jellemzői - Technikai útmutató 1: A NOS2X (Chrome/Brave) bővítmény telepítése és kulcsgenerálás - Technikai útmutató 2: Noster linkek kezelése és a NOS2X engedélyek - Technikai útmutató 3: Az Apple (Safari) megoldás, a NOS2X bővítmény - Belépés a Yakihonne kliensbe (Safarin és Brave-en keresztül, biztonsági figyelmeztetés) - A Yakihonne beállítása: Az átjátszók (relay) konfigurálása - Átjátszó (relay) javaslatok: A 3+1 szabály és a 21 csoport által használt átjátszók - A profil testreszabása és az első poszt létrehozása - Zárszó és a Noster fontossága: A cenzúra kikerülése",
+                yt: "https://youtu.be/N0bAgnt_5w4",
+                fountain: ""
+            },
+            {
+                name: "Bitcoin röviden",
+                img: "/pics/bitcoin-miskolc-3-bitcoin-roviden.jpg",
+                date: "2025.10.18.",
+                members: ["Feri"],
+                topic: "A 'Mi a Bitcoin 2 percben?' kihívás és a Bitcoin mint 'erdő' - A pénz valódi természete - A történelem rímel: A pénzrontás ciklusai - Az arany hordozhatósági problémája és a papírpénz kudarca - A modern pénzrendszer kudarca - Az infláció áldozatai - A megoldás - A Bitcoin tulajdonságai - A Bitcoin mint hatalmi ág - A Bitcoin mint a világ legmerevebb eszköze - Gyakorlati példa - Kinek segít a Bitcoin?",
+                yt: "https://youtu.be/eEXH5_NBz98",
+                fountain: ""
             }
         ]
     },
