@@ -74,7 +74,7 @@ export const presentations = [
                 img: "/pics/bitcoin-miskolc-3-nostr.jpg",
                 date: "2025.10.17.",
                 members: ["HenkyPenky"],
-                topic: "A Nostr alapjai: Mi ez, miért jött létre és a Damus-effektus - A Nostr fiók: A kriptográfiai kulcspár (NPUB/NECK) és a központi előny - A Nostr főbb jellemzői - Technikai útmutató 1: A NOS2X (Chrome/Brave) bővítmény telepítése és kulcsgenerálás - Technikai útmutató 2: Noster linkek kezelése és a NOS2X engedélyek - Technikai útmutató 3: Az Apple (Safari) megoldás, a NOS2X bővítmény - Belépés a Yakihonne kliensbe (Safarin és Brave-en keresztül, biztonsági figyelmeztetés) - A Yakihonne beállítása: Az átjátszók (relay) konfigurálása - Átjátszó (relay) javaslatok: A 3+1 szabály és a 21 csoport által használt átjátszók - A profil testreszabása és az első poszt létrehozása - Zárszó és a Noster fontossága: A cenzúra kikerülése",
+                topic: "A Nostr alapjai: Mi ez, miért jött létre? - A Nostr fiók: A kriptográfiai kulcspár (NPUB/NSEC) és a központi előny - A Nostr főbb jellemzői - Technikai útmutató 1: A NOS2X (Chrome/Brave) bővítmény telepítése és kulcsgenerálás - Technikai útmutató 2: Nostr linkek kezelése és a NOS2X engedélyek - Technikai útmutató 3: Az Apple (Safari) megoldás, a Nostash bővítmény - Belépés a Yakihonne kliensbe (Safarin és Brave-en keresztül, biztonsági figyelmeztetés) - A Yakihonne beállítása: Az átjátszók (relay) konfigurálása - Átjátszó (relay) javaslatok: A 3+1 szabály és a 21 csoport által használt átjátszók - A profil testreszabása és az első poszt létrehozása - Zárszó és a Nostr fontossága: A cenzúra kikerülése",
                 yt: "https://youtu.be/N0bAgnt_5w4",
                 fountain: ""
             },
