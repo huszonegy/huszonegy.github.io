@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "Giganet - Az első magyar Bitcoin-barát internetszolgáltató",
+        id: "E83",
+        img: "/pics/e83.jpg",
+        date: "2025.11.20.",
+        members: ["Anti", "B Zoli", "Tamás"],
+        topic: "20 éves barátság az internet hajnalából - Kosárközösségek és a helyi pénz kísérlet - 10 nap alatt 1 bitcoin - korai bányászat - 'Ez az új nyugdíjalapom' - Bitcoin fizetés a Giganetnél - élő demó - A könyvelés rémálma - miért késlekedtünk? - Bitcoin Miskolc és networking - Technológia vs. emberi kapcsolatok - NFC kártya és Lightning - a fizetés jövője - Miért nem fog harmadára esni a bitcoin? - Rainbow Chart és mozgóátlagok elemzése - Makrogazdaság: dollárkamat vs. Bitcoin - Budapesti meetup és záró gondolatok",
+        yt: "https://youtu.be/xNauOmGLsXM",
+        fountain: "https://fountain.fm/episode/VSDzRL0RfGbmB0bmMwNP"
+    },
+    {
         name: "Espresso bitcoinért: 21 másodperc",
         id: "E82",
         img: "/pics/e82.jpg",
