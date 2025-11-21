@@ -5,6 +5,18 @@
 
 export const news = [
     {
+        summary: "Decemberi meetup előadásokkal",
+        date: "2025.11.21.",
+        html: "Újra bitcoin meetup decemberben, a HUSZONEGY csoport szervezésében! Ismét lesznek előadások, a visszajelzések alapján még közérthetőbbek. Új érdeklődőket is és csoport tagokat is szívesen várunk, előzetes tudás nem feltétel, csak a nyitottság.<br/><br/>Időpont: <strong>december 4. </strong> (csütörtök), 18:00 <br/>Helyszín: <strong><a href='https://perspective-bar.hu/'>Perspective Bar</a> 1072 Bp. Klauzál u. 26-28.</strong> <br/><br/>Tervezett Program: <br/> 18:00 Érkezés<br/>18:15 Köszöntő, a Huszonegy csoport rövid bemutatása -- OptOut<br/>18:25 <strong>Mi a probléma?</strong> -- Zentropy (30p)<br/>19:00 <strong>Hogyan fogadjak el bitcoint?</strong> -- Kovács Ferenc (Bitcoin Miskolc, KV cégcsoport) (20p)<br/>19:30 <strong>Ginger tárca bemutató</strong> -- Molnár Dávid (Ginger Wallet) (40p)<br/>20:15 - 22:00 Kötetlen beszélgetés<br/>20:15 - 22:00 HUSZONEGY póló készítés a helyszínen (stencilezés), hozott pólóra<br/><br/><strong>Regisztráció:</strong> A létszám miatt kérünk regisztráljatok ezen a linken (névnek lehet bármi -- nick, kamu -- a megadott emailre visszajelzés megy, de az is kihagyható):<br/><a href='https://btcbuddec.rsvpify.com'>btcbuddec.rsvpify.com</a> <br/><br/>A program változhat! Bővebb információ a Telegram csoportban. A bitcoinra koncentrálunk, egyéb kriptókat ignoráljuk. A részvétel ingyenes.",
+    },
+    {
+        summary: "Professzionális Bitcoin elfogadási módok",
+        date: "2025.11.21.",
+        html: "Friss <a href='/podcast'>podcast adásunkban</a> demonstráljuk, hogyan működik a Giganet internetszolgáltató minden ügyfele számára elérhető, teljesen automatizált Bitcoin Lightning számlafizetés.<br/><br/>Bemutatkozik Zoli, a Giganet ügyvezetője, mesél korai bányászatról, nyugdíjalapról, könyvelési rémálomról, networkingről. Majd Tamás bemutat egy NFC kártyás Lightning fizetési módot is, továbbá néhány chartot elemezve azt is elmondja, miért nem fog harmadára esni a bitcoin.",
+        img: "/pics/e83.jpg",
+        link: "https://youtu.be/xNauOmGLsXM"
+    },
+    {
         summary: "Kávéval a szabadságért, új cikkek",
         date: "2025.11.14.",
         html: "<a href='/podcast'>Podcastunkban</a> felfedjük, hogy az igazi olasz espresso titka a 21 másodpercben rejlik. Megismerjük a minőségi kávékészítés titkait, az espresso valódi jelentését, majd beszivárognak olyan tipikus Bitcoinhoz kapcsolódó témák is, mint a későn jövés mítosza és a decentralizált jövő iránti elköteleződés. A beszélgetés végére pedig arra is fény derül, miből lesz a mokambogár.<br /><br />Új <a href='/cikkek'>cikkeink</a> között pedig újra felmerül a <em>szabad piac</em> és az <em>egészséges pénz</em> fogalma, valamint az 1993-ban megjelent <a href='https://bitcoinmentor.hu/cypherpunk-kialtvany/'>Cypherpunk kiáltvány</a> magyar fordítása.",
