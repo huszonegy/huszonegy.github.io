@@ -3,11 +3,21 @@
 
 export const articles = [
     {
+        name: "A Bitcoin részvények és kötvények térhódítása",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "Az elmúlt évben a Bitcoin ökoszisztémát elsősorban az hajtotta, hogy egyre több vállalat kezdett bitcoint tartani tartalékeszközként. 2024–2025-ben új vállalati hullám indult, amelyek a bitcoint tartalékeszközként fogadták el. Lyn Alden cikke ezt a trendet elemzi, és azt vizsgálja, hogy ez hasznos-e vagy káros a Bitcoin ökoszisztéma egészére nézve.",
+        link: "https://bitcoinmentor.hu/a-bitcoin-reszvenyek-es-kotvenyek-terhoditasa/",
+        img: "/article/a-bitcoin-reszvenyek-es-kotvenyek-terhoditasa.png",
+        cat: "bevezető",
+        id: 40
+    },
+    {
         name: "Bitcoin: a szabad piac egészséges pénze",
         origin: "szerző: árpi",
         lang: "hu",
         text: "Az osztrák közgazdaságtan a gazdaságot az emberek egyéni döntései felől közelíti meg, és hisz abban, hogy a piac szabad működése a legjobb út a jóléthez. Azt vallja, hogy az egyéni választások spontán rendet hoznak létre, ha az állam nem avatkozik be. Az egészséges pénz, azaz a stabil és értékálló valuta a kulcsa annak, hogy a gazdaság ne csússzon válságba az infláció vagy a rossz döntések miatt.",
-        link: "https://europeanbitcoiners.com/bitcoin-a-szabad-piac-egeszseges-penze/",
+        link: "https://bitcoinmentor.hu/bitcoin-a-szabad-piac-egeszseges-penze/",
         img: "/article/bitcoin-a-szabad-piac-egeszseges-penze.png",
         cat: "bevezető",
         id: 39
