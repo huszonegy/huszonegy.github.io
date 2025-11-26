@@ -86,6 +86,24 @@ export const presentations = [
                 topic: "A 'Mi a Bitcoin 2 percben?' kihívás és a Bitcoin mint 'erdő' - A pénz valódi természete - A történelem rímel: A pénzrontás ciklusai - Az arany hordozhatósági problémája és a papírpénz kudarca - A modern pénzrendszer kudarca - Az infláció áldozatai - A megoldás - A Bitcoin tulajdonságai - A Bitcoin mint hatalmi ág - A Bitcoin mint a világ legmerevebb eszköze - Gyakorlati példa - Kinek segít a Bitcoin?",
                 yt: "https://youtu.be/eEXH5_NBz98",
                 fountain: ""
+            },
+            {
+                name: "A jövő Bitcoin társadalmának problémái",
+                img: "/pics/bitcoin-miskolc-3-a-jovo-bitcoin-tarsadalmanak-problemai.jpg",
+                date: "2025.10.18.",
+                members: ["Karo"],
+                topic: "Bevezetés és az alapvető kérdés: Hogyan jön el a hiperbitcoinizáció? - A lehetséges jövőképek keretrendszere - A jövő forgatókönyvei (1-3) - A sötét forgatókönyvek (4-5) - Mennyi Bitcoin kell a túléléshez? - A 'Black Pill': Michael Saylor és a Bitcoin rendőrállam jeleinek felismerése - A válság gazdasági mozgatórugói és az elsődleges megoldás - Túlélési útmutató (1-2): A Bitcoinod biztosítása és a közösség építése - Túlélési útmutató (3-4): Cenzúrázatlan kommunikáció és a politikusok kontrollálása - Végső tanácsok és a konklúzió",
+                yt: "https://youtu.be/V7xYgs7ArkI",
+                fountain: ""
+            },
+            {
+                name: "Hogyan legyünk biztonságban online",
+                img: "/pics/bitcoin-miskolc-3-hogyan-legyunk-biztonsagban-online.jpg",
+                date: "2025.10.18.",
+                members: ["Openoms"],
+                topic: "Bevezetés és alapvető fenyegetések - Adatvédelem és KYC: A közösségi média, a tőzsdék és az adatmegosztás veszélyei - OpSec (Működési Biztonság): Az alapelvek és mit NE tegyél - Böngészőbiztonság (Brave, Firefox, Tor) és Ad Blockerek (Ublock Origin) - Jelszókezelés - Kétfaktoros hitelesítés (2FA/TOTP): Miért veszélyes az SMS és mik a jó alternatívák? - Haladó eszközök: email alias-ok és VPN - Összefoglaló csekklista Bitcoin vásárláshoz (a böngészőtől a saját tárcáig) - Gyakori átverések és rossz gyakorlatok - Kérdések és válaszok",
+                yt: "https://youtu.be/HRTJ6TUiOx0",
+                fountain: ""
             }
         ]
     },
