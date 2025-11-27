@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "A Bitcoin mint tükör – Miért szegényedünk és mit tehetünk ellene?",
+        id: "E84",
+        img: "/pics/e84.jpg",
+        date: "2025.11.27.",
+        members: ["Anti", "Roli", "Árpi"],
+        topic: "A gazdasági mérés kérdése - A gumiszalagos mérés allegóriája - Miért nézik mindig az árat a bitcoinerek is? - Az ár és az érték nem ugyanaz - 250 000 szatosi - Az igazi adoptáció: a megértés, nem a birtoklás - A tehetetlenség illúziója - Mi hiányzik a Bitcoin oktatásból? - Ha nem kapsz évi 10-15% béremelést, szegényedsz - Hogyan adjuk át apró adagokban? - Aki egyszer megérti, soha nem megy vissza",
+        yt: "https://youtu.be/--STxxMvqvY",
+        fountain: "https://fountain.fm/episode/rDACyz4d7RpVBrPSB0Hx"
+    },
+    {
         name: "Giganet - Az első magyar Bitcoin-barát internetszolgáltató",
         id: "E83",
         img: "/pics/e83.jpg",
