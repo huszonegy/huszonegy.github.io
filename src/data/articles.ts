@@ -3,6 +3,16 @@
 
 export const articles = [
     {
+        name: "Miért szabadságpénz a Bitcoin",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "A világ elnyomó kormányai egyre gyakrabban használják a pénzt fegyverként, hogy megbénítsák a szabadságért küzdő aktivistákat. Egy bankszámla zárolásával vagy megfigyelésével könnyedén ellehetetleníthetik a demokratikus mozgalmakat. Ezért fordulnak az emberi jogi szervezetek világszerte a Bitcoinhoz, ahhoz a digitális valutához, amely cenzúraálló és anonim tranzakciókat tesz lehetővé.",
+        link: "https://bitcoinmentor.hu/miert-szabadsagpenz-a-bitcoin/",
+        img: "/article/miert-szabadsagpenz-a-bitcoin.png",
+        cat: "bevezető",
+        id: 41
+    },
+    {
         name: "A Bitcoin részvények és kötvények térhódítása",
         origin: "szerző: árpi",
         lang: "hu",
