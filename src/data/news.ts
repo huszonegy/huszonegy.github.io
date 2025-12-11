@@ -5,9 +5,17 @@
 
 export const news = [
     {
+        summary: "Titánium lapka & Bitcoin tanácsadás",
+        date: "2025.12.04.",
+        html: "<a href='/podcast'>Podcastunkban</a> Mordai megosztja velünk, hogyan változtatta meg világlátását a pénz valódi természetének megértése, és bemutatja saját készítésű titánium lapkáját, ami kicsi, tűzálló és korróziómentes biztonsági mentést biztosít.<br/><br/>Emellett bemutatkozik a <a href='https://bitcoinmentor.hu/' target='_blank'>Bitcoin Mentor,</a> amely személyre szabott, magyar nyelvű tanácsadással segíti az érdeklődőket a Bitcoin megértésében és alkalmazásában.",
+        img: "/pics/e85.jpg",
+        link: "https://youtu.be/xNauOmGLsXM"
+
+    },
+    {
         summary: "Decemberi meetup előadásokkal",
         date: "2025.11.21.",
-        html: "Újra bitcoin meetup decemberben, a HUSZONEGY csoport szervezésében! Ismét lesznek előadások, a visszajelzések alapján még közérthetőbbek. Új érdeklődőket is és csoport tagokat is szívesen várunk, előzetes tudás nem feltétel, csak a nyitottság.<br/><br/>Időpont: <strong>december 4. </strong> (csütörtök), 18:00 <br/>Helyszín: <strong><a href='https://perspective-bar.hu/'>Perspective Bar</a> 1072 Bp. Klauzál u. 26-28.</strong> <br/><br/>Tervezett Program: <br/> 18:00 Érkezés<br/>18:15 Köszöntő, a Huszonegy csoport rövid bemutatása -- OptOut<br/>18:25 <strong>Mi a probléma?</strong> -- Zentropy (30p)<br/>19:00 <strong>Hogyan fogadjak el bitcoint?</strong> -- Kovács Ferenc (Bitcoin Miskolc, KV cégcsoport) (20p)<br/>19:30 <strong>Ginger tárca bemutató</strong> -- Molnár Dávid (Ginger Wallet) (40p)<br/>20:15 - 22:00 Kötetlen beszélgetés<br/>20:15 - 22:00 HUSZONEGY póló készítés a helyszínen (stencilezés), hozott pólóra<br/><br/><strong>Regisztráció:</strong> A létszám miatt kérünk regisztráljatok ezen a linken (névnek lehet bármi -- nick, kamu -- a megadott emailre visszajelzés megy, de az is kihagyható):<br/><a href='https://btcbuddec.rsvpify.com'>btcbuddec.rsvpify.com</a> <br/><br/>A program változhat! Bővebb információ a Telegram csoportban. A bitcoinra koncentrálunk, egyéb kriptókat ignoráljuk. A részvétel ingyenes.",
+        html: "Újra bitcoin meetup decemberben, a HUSZONEGY csoport szervezésében! Ismét lesznek előadások, a visszajelzések alapján még közérthetőbbek. Új érdeklődőket is és csoport tagokat is szívesen várunk, előzetes tudás nem feltétel, csak a nyitottság.<br/><br/>Időpont: <strong>december 4. </strong> (csütörtök), 18:00 <br/>Helyszín: <strong><a href='https://perspective-bar.hu/' target='_blank'>Perspective Bar</a> 1072 Bp. Klauzál u. 26-28.</strong> <br/><br/>Tervezett Program: <br/> 18:00 Érkezés<br/>18:15 Köszöntő, a Huszonegy csoport rövid bemutatása -- OptOut<br/>18:25 <strong>Mi a probléma?</strong> -- Zentropy (30p)<br/>19:00 <strong>Hogyan fogadjak el bitcoint?</strong> -- Kovács Ferenc (Bitcoin Miskolc, KV cégcsoport) (20p)<br/>19:30 <strong>Ginger tárca bemutató</strong> -- Molnár Dávid (Ginger Wallet) (40p)<br/>20:15 - 22:00 Kötetlen beszélgetés<br/>20:15 - 22:00 HUSZONEGY póló készítés a helyszínen (stencilezés), hozott pólóra<br/><br/><strong>Regisztráció:</strong> A létszám miatt kérünk regisztráljatok ezen a linken (névnek lehet bármi -- nick, kamu -- a megadott emailre visszajelzés megy, de az is kihagyható):<br/><a href='https://btcbuddec.rsvpify.com'>btcbuddec.rsvpify.com</a> <br/><br/>A program változhat! Bővebb információ a Telegram csoportban. A bitcoinra koncentrálunk, egyéb kriptókat ignoráljuk. A részvétel ingyenes.",
     },
     {
         summary: "Professzionális Bitcoin elfogadás és Bitcoin részvények",
