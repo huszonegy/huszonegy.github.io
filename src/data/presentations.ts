@@ -104,6 +104,33 @@ export const presentations = [
                 topic: "Bevezetés és alapvető fenyegetések - Adatvédelem és KYC: A közösségi média, a tőzsdék és az adatmegosztás veszélyei - OpSec (Működési Biztonság): Az alapelvek és mit NE tegyél - Böngészőbiztonság (Brave, Firefox, Tor) és Ad Blockerek (Ublock Origin) - Jelszókezelés - Kétfaktoros hitelesítés (2FA/TOTP): Miért veszélyes az SMS és mik a jó alternatívák? - Haladó eszközök: email alias-ok és VPN - Összefoglaló csekklista Bitcoin vásárláshoz (a böngészőtől a saját tárcáig) - Gyakori átverések és rossz gyakorlatok - Kérdések és válaszok",
                 yt: "https://youtu.be/HRTJ6TUiOx0",
                 fountain: ""
+            },
+            {
+                name: "Firefish bemutató",
+                img: "/pics/bitcoin-miskolc-3-firefish.jpg",
+                date: "2025.10.18.",
+                members: ["Árpi"],
+                topic: "",
+                yt: "https://youtu.be/-CBusU_BIgA",
+                fountain: ""
+            },
+            {
+                name: "Gondolatok a július 1. utáni magyar szabályozásról",
+                img: "/pics/bitcoin-miskolc-3-magyar-szabalyozas.jpg",
+                date: "2025.10.18.",
+                members: ["Anita"],
+                topic: "Bevezetés - A három fő változás (MiCA, BTK, kriptotörvény) - A MiCA rendelet lényege és a fogyasztóvédelem - Engedélyes szolgáltatók ellenőrzése (ESMA és MNB lista) - Szigorítás a BTK-ban - Kriptoeszközzel való visszaélés és az 5 milliós értékhatár - A magyar kriptotörvény új szereplője - Az SZTFH és a validálás - Mit jelent a váltás és a megfelelőségi nyilatkozat? - Jogbizonytalanság és a Revolut számlafagyasztások tanulságai - Adózási változások - Automatikus adatcsere és a 3 éves korlát eltörlése - Kvízjáték",
+                yt: "https://youtu.be/03jfd97Jer4",
+                fountain: ""
+            },
+            {
+                name: "A szabadság ostroma: Bitcoin mint ellenállás",
+                img: "/pics/bitcoin-miskolc-3-a-szabadsag-ostroma.jpg",
+                date: "2025.10.18.",
+                members: ["Kata"],
+                topic: "Amikor a jog az elnyomás eszközévé válik - A szabályozás háttere - Ki az az FATF és miért követjük vakon az ajánlásait? - A megfigyelés evolúciója - Travel Rule, MiCA és a pénzügyi karantén - A jövő képe - AMLA és a totális profilozás 2030-ra - CBDC és digitális euró - A programozható pénz és a kontroll eszközei - Chat Control - A privát üzenetek és a végponti titkosítás vége? - A Pegasus-ügy tanulsága - Amikor az állam a polgárai ellen fordul - Mi a szabadság valójában? - Döntés vs. engedély - Bitcoin - Nem spekuláció, hanem menekülőút és technológiai szabadság - Zárógondolat - A bizalom visszavétele és az igazság realitása",
+                yt: "https://youtu.be/jEH0XqzP8pI",
+                fountain: ""
             }
         ]
     },
@@ -267,7 +294,7 @@ export const presentations = [
                 name: "A biztonságos hazautalás támogatása Blokklánc nyomozó szoftverrel",
                 img: "/pics/a-biztonsagos-hazautalas-tamogatasa-blokklanc-nyomozo-szoftverrel.jpg",
                 date: "2025.03.23.",
-                members: ["Glaser Anita"],
+                members: ["Anita"],
                 topic: "Az adózás mint a szabályozási környezet része - A kriptovilág tisztasága és az illegális tranzakciók statisztikái - Entitások és kockázati besorolások a blokkláncon - Kockázati besorolások a gyakorlatban - Pénzügyi szolgáltatók rendszere a kripto tranzakciók monitoringjára - Az on-chain nyomkövetés korlátai a centralizált szolgáltatóknál - Illegális tevékenységek típusai a blokkláncon - Mixerek és a pénzmosás elleni küzdelem - Wallet típusok és a KYC szerepe - Blokklánc nyomozó szoftverek vs. Explorer-ek - Kockázati besorolás megadása az entitásokhoz - Érdekesség: A bányászpoolok 0%-os kockázati besorolása - Szatosi Genesis blokkja a Crystal szoftverben - A Genesis blokk vizsgálata a Crystal szoftverben - A 2024. januári adomány nyomában - Esettanulmány: Ellopott kripto nyomában - Egy felhasználó tévedésből elbukott 1.36 BTC-jének nyomon követése - Mi történik, ha az ellopott kriptót DeFi protokollokon mossák tisztára? - A lopott Etherum USDT-re váltása - A pénz útjának végkövetése egy másik alacsony kockázatú tőzsdéig",
                 yt: "https://youtu.be/lWxMaKsuxK8",
                 fountain: ""
