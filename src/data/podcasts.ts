@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "Magyar titánium lapka & Bitcoin tanácsadás",
+        id: "E85",
+        img: "/pics/e85.jpg",
+        date: "2025.12.04.",
+        members: ["Anti", "Mordai", "Árpi"],
+        topic: "Infláció és megtakarítások - Mainstream vs. valóság - Elválasztani a pénznyomtatást az államtól - Az emberi élet leértékelése - DCA és a Bitcoin standard - Titánium lapka használata és előnyei - Konferencia élmények és véletlen találkozások - 'Elment a hajó' - a legnagyobb tévhit - Bepakolás analógia - Bitcoin Mentor: személyre szabott tanácsadás - Záró gondolatok + győri meetup + pécsi meetup",
+        yt: "https://youtu.be/fMdQ4PeB75k",
+        fountain: "https://fountain.fm/episode/7H00jofx2bcr5GDbyK6K"
+    },
+    {
         name: "A Bitcoin mint tükör – Miért szegényedünk és mit tehetünk ellene?",
         id: "E84",
         img: "/pics/e84.jpg",
