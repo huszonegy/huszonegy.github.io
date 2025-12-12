@@ -5,6 +5,14 @@
 
 export const news = [
     {
+        summary: "Képzés, oktatás, validálás",
+        date: "2025.12.12.",
+        html: "A <a href='/podcast'>HUSZONEGY podcastban</a> Katával beszélgettünk a Bitcoin Educators Academy speciális torinói képzés tapasztalatairól, a The Bitcoiner's Pretties újdonságairól - beleértve az ingyenes kiszállítást és a Bitcoin Art Magazine európai forgalmazását -, valamint a magyarországi validálási szabályozás körüli felesleges pánikról. Emellett szóba kerül a Revolut friss korlátozása, a budapesti meetup élményei és a közelgő pécsi összejövetel is.",
+        img: "/pics/e86.jpg",
+        link: "https://youtu.be/JIsMR17oHLg"
+
+    },
+    {
         summary: "Titánium lapka & Bitcoin tanácsadás",
         date: "2025.12.04.",
         html: "<a href='/podcast'>Podcastunkban</a> Mordai megosztja velünk, hogyan változtatta meg világlátását a pénz valódi természetének megértése, és bemutatja saját készítésű titánium lapkáját, ami kicsi, tűzálló és korróziómentes biztonsági mentést biztosít.<br/><br/>Emellett bemutatkozik a <a href='https://bitcoinmentor.hu/' target='_blank'>Bitcoin Mentor,</a> amely személyre szabott, magyar nyelvű tanácsadással segíti az érdeklődőket a Bitcoin megértésében és alkalmazásában.",
