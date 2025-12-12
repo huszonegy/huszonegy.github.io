@@ -26,7 +26,7 @@ import { link_simplified } from '../utils'
                             {{ vid.name }}
                         </h5>
                         <p v-if="vid.date" class="small my-3 grey">
-                            {{ vid.date }}<span v-for="member in vid.members">&nbsp;<span class="dark">|</span>&nbsp;{{ member }}</span> 
+                            {{ vid.date }}<span v-for="member in vid.members">&nbsp;<span class="dark">|</span>&nbsp;{{ member }}</span>&nbsp;<span class="dark">|</span>&nbsp;{{vid.length}}
                         </p>
                         <p class="small my-3">
                             <span v-if="vid.yt">
