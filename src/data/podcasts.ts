@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "A nemzeti validáló esete a Bitcoin oktatással | Revolut, validálás, pánik",
+        id: "E86",
+        img: "/pics/e86.jpg",
+        date: "2025.12.11.",
+        members: ["Anti", "Kata", "Árpi"],
+        topic: "Bitcoin Educators Academy - Torinó - 'Imposztor szindróma' és proof-of-work - TEBx-díj és a mesterterv - Bitcoin bohóc - Szociális segítő Olaszországból - 'Kutyakötelességem megmutatni az utat' - BTC Prága - Bitcoin Educators előadások - Bitcoin Art Magazine - Európai forgalmazás - Digitális Bitcoin circular economy - Nemzeti validáló - Validálási pánik - Ne szarjuk össze magunkat! - Revolut korlátozás - Miért történt? - Bitcoiner's Pretties - Ingyenes kiszállítás worldwide - Bitcoin Mentor és budapesti meetup élmények - Pécsi meetup előzetes",
+        yt: "https://youtu.be/JIsMR17oHLg",
+        fountain: "https://fountain.fm/episode/RNX2zvDOkRflnJ9ruolN"
+    },
+    {
         name: "Magyar titánium lapka & Bitcoin tanácsadás",
         id: "E85",
         img: "/pics/e85.jpg",
