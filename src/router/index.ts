@@ -11,6 +11,7 @@ import NewsView from '../views/NewsView.vue'
 import BooksView from '../views/BooksView.vue'
 import WalletsView from '../views/WalletsView.vue'
 import VideoView from '../views/VideoView.vue'
+import MeetupView from '../views/MeetupView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -191,6 +192,24 @@ const router = createRouter({
           {
             name: 'keywords',
             content: 'Bitcoin, tárca, wallet, ajánlás'
+          }
+        ]
+      }
+    },
+    {
+      path: '/meetup',
+      name: 'meetup',
+      component: MeetupView,
+      meta: {
+        title: 'Meetupok, találkozók',
+        metaTags: [
+          {
+            name: 'description',
+            content: 'Meetupok, találkozók, események'
+          },
+          {
+            name: 'keywords',
+            content: 'Bitcoin, meetup'
           }
         ]
       }
