@@ -5,6 +5,14 @@
 
 export const news = [
     {
+        summary: "Lakás bitcoinért és Bitcoin tárolási útmutató",
+        date: "2025.12.29.",
+        html: "Legújabb <a href='/podcast'>podcast</a> epizódunkban Feri beszámol a Bitcoin Mena konferencia tapasztalatairól, ahol szemtanúja lehetett, hogyan nyitnak a világ bankjai és országai a Bitcoin felé. A legnagyobb hazai hír azonban: megtörtént az első Bitcoin tranzakció lakásvásárlás alkalmával Magyarországon – történelmi mérföldkő a szabadságtechnológia valódi használata felé. A beszélgetésben szó esik a 2026-os várakozásokról és arról, hogyan válhat a Bitcoin a hazai üzleti élet természetes részévé.<br /><br /><em><a href='https://bitcoinmentor.hu/a-legjobb-kriptovaluta-tarolasi-megoldasok/'>A legjobb kriptovaluta tárolási megoldások</a></em> című részletes útmutatónk pedig bemutatja a Bitcoin tárolás minden szintjét: a kezdőbarát mobil tárcáktól a professzionális hardveres és multisig megoldásokig. Megtanulhatod, hogyan légy a saját bankod, és mi az a <em>'Not your keys, not your coins'</em> alapelv, ami minden bitcoiner számára kulcsfontosságú. A cikk a magyar közösség évek óta gyűjtött gyakorlati tapasztalataira épül.",
+        img: "/pics/e87.jpg",
+        link: "https://youtu.be/ND-AIy1VSBw"
+
+    },
+    {
         summary: "Képzés, oktatás, validálás",
         date: "2025.12.12.",
         html: "A <a href='/podcast'>HUSZONEGY podcastban</a> Katával beszélgettünk a Bitcoin Educators Academy speciális torinói képzés tapasztalatairól, a The Bitcoiner's Pretties újdonságairól - beleértve az ingyenes kiszállítást és a Bitcoin Art Magazine európai forgalmazását -, valamint a magyarországi validálási szabályozás körüli felesleges pánikról. Emellett szóba kerül a Revolut friss korlátozása, a budapesti meetup élményei és a közelgő pécsi összejövetel is.",
