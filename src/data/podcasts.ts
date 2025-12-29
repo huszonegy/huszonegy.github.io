@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "'Európának lőttek' | Első magyar Bitcoin lakásvásárlás?",
+        id: "E87",
+        img: "/pics/e87.jpg",
+        date: "2025.12.18.",
+        members: ["Anti", "Feri", "Árpi"],
+        topic: "Bevezető - Abu Dhabi - Bitcoin Mena élmények - Miniszterek és a Bitcoin zokni - 'Európának lőttek' - miközben a világ nyit - Jamie Dimon derivatívái - árnyékharc a Bitcoinért - Első magyar Bitcoin lakásvásárlás? - Trump korszak vs. európai hanyatlás - Metaplanet és japán Bitcoin forradalma - Mi vár ránk jövőre? - Miért más ez, mint 10 évvel ezelőtt? - Bitcoin Vision 21 Kft. - amikor a neved is gyanús - Hogyan indíts Bitcoin meetupot? - Pozitív társadalmi mozgalom",
+        yt: "https://youtu.be/ND-AIy1VSBw",
+        fountain: "https://fountain.fm/episode/PYtHDSsCtuAwbCPdUzyr"
+    },
+    {
         name: "A nemzeti validáló esete a Bitcoin oktatással | Revolut, validálás, pánik",
         id: "E86",
         img: "/pics/e86.jpg",
