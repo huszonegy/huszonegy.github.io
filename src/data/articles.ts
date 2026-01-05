@@ -3,6 +3,36 @@
 
 export const articles = [
     {
+        name: "A legjobb kriptovaluta tárolási megoldások",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "A legjobb kriptovaluta tárolási megoldások valójában a legjobb Bitcoin tárolási módszerek, mivel egyetlen valóban decentralizált, cenzúraálló, matematikailag korlátozott digitális pénz létezik: a Bitcoin. Ebben a cikkben a Bitcoin tárolási megoldásait mutatjuk be részletesen – a kezdő szintű mobil tárcáktól a professzionális hardveres és multisig megoldásokig. Megtanulhatod, hogyan őrizd biztonságosan a bitcoinodat, hogyan légy a saját bankod, és mi az a „Not your keys, not your coins” alapelv, ami minden bitcoiner életének központi gondolata.",
+        link: "https://bitcoinmentor.hu/a-legjobb-kriptovaluta-tarolasi-megoldasok/",
+        img: "/article/a-legjobb-kriptovaluta-tarolasi-megoldasok.png",
+        cat: "bevezető",
+        id: 44
+    },
+    {
+        name: "A Bitcoin-dollár",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "Mark Goodwin 2023 augusztusában jelentette meg A Bitcoin-dollár: Egy gazdasági ősmítosz című könyvét, amely talán a legkényelmetlenebb kérdést teszi fel a Bitcoin közösségnek: Mi van, ha a Bitcoin nem elpusztítja, hanem megerősíti a dollárrendszert? Trevor Garcia a mű alapos tanulmányozását követően osztotta meg alábbi legfontosabb felismeréseit. Cikkében nem csupán összefoglalást ad a könyvről, hanem egy elkötelezett bitcoiner szemszögéből mutatja be, hogyan változtatta meg gondolkodását a Bitcoin jövőjéről, a stablecoinok szerepéről és az egyéni felelősségről.",
+        link: "https://bitcoinmentor.hu/a-bitcoin-dollar/",
+        img: "/article/a-bitcoin-dollar.png",
+        cat: "bevezető",
+        id: 43
+    },
+    {
+        name: "Fokozatosan, aztán hirtelen",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "Mi történik, ha egyetlen hét alatt két óriásbank omlik össze? Mi történik, ha 700 milliárd dollárt nyomtat egy központi bank? És mi történik, ha közben megszületik valami, amit senki sem tud kontrollálni, és amit senki sem tud nyomtatni? 2008-ban mindhárom kérdésre született válasz. Parker A. Lewis „Fokozatosan, aztán hirtelen” (Gradually, Then Suddenly) című könyvének bevezetője alapján készült cikkünk bemutatja, hogyan jött rá a szerző, hogy a Bitcoin nem pusztán technológia, hanem pénz – sőt, jobb pénz, mint bármelyik másik.",
+        link: "https://bitcoinmentor.hu/fokozatosan-aztan-hirtelen/",
+        img: "/article/fokozatosan-aztan-hirtelen.png",
+        cat: "bevezető",
+        id: 42
+    },
+    {
         name: "Miért szabadságpénz a Bitcoin",
         origin: "szerző: árpi",
         lang: "hu",
