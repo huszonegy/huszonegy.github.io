@@ -2,12 +2,22 @@
 
 export const podcasts = [
     {
+        name: "Te még szabadlábon vagy? | Validátor mizéria",
+        id: "E88",
+        img: "/pics/e88.jpg",
+        date: "2026.01.08.",
+        members: ["Anti", "Tamás", "Árpi"],
+        topic: "Decemberben beütött a villám - Validálás PDF-ben, emailben - Ellentmondások és fekete lyukak - A Revolut megszivatta az ügyfeleket - Coinjoin = bűn? - Bitcoin árfolyam és chartok - Négyéves ciklusok és kígyóspirál - Te még szabadlábon vagy? - Meetupok és közösségi élet",
+        yt: "https://youtu.be/sBYTk4I2EN8",
+        fountain: "https://fountain.fm/episode/J11YjFSzqFsxK6qY7xIU"
+    },
+    {
         name: "'Európának lőttek' | Első magyar Bitcoin lakásvásárlás?",
         id: "E87",
         img: "/pics/e87.jpg",
         date: "2025.12.18.",
         members: ["Anti", "Feri", "Árpi"],
-        topic: "Bevezető - Abu Dhabi - Bitcoin Mena élmények - Miniszterek és a Bitcoin zokni - 'Európának lőttek' - miközben a világ nyit - Jamie Dimon derivatívái - árnyékharc a Bitcoinért - Első magyar Bitcoin lakásvásárlás? - Trump korszak vs. európai hanyatlás - Metaplanet és japán Bitcoin forradalma - Mi vár ránk jövőre? - Miért más ez, mint 10 évvel ezelőtt? - Bitcoin Vision 21 Kft. - amikor a neved is gyanús - Hogyan indíts Bitcoin meetupot? - Pozitív társadalmi mozgalom",
+        topic: "Abu Dhabi - Bitcoin Mena élmények - Miniszterek és a Bitcoin zokni - 'Európának lőttek' - miközben a világ nyit - Jamie Dimon derivatívái - árnyékharc a Bitcoinért - Első magyar Bitcoin lakásvásárlás? - Trump korszak vs. európai hanyatlás - Metaplanet és japán Bitcoin forradalma - Mi vár ránk jövőre? - Miért más ez, mint 10 évvel ezelőtt? - Bitcoin Vision 21 Kft. - amikor a neved is gyanús - Hogyan indíts Bitcoin meetupot? - Pozitív társadalmi mozgalom",
         yt: "https://youtu.be/ND-AIy1VSBw",
         fountain: "https://fountain.fm/episode/PYtHDSsCtuAwbCPdUzyr"
     },
