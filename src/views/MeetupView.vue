@@ -11,12 +11,12 @@
                         meghirdetésére ajánljuk a Meetup Portált:
                     </p>
                     <div class="center px-4 py-4">
-                        <a href="https://portal.huszonegy.world/hu/meetups" target="_blank">
+                        <a href="https://portal.einundzwanzig.space/hu/meetups" target="_blank">
                             <button type="button" class="btn btn-custom">Meetup Portál</button>
                         </a>
                     </div>
                     <p class="card-text center">
-                        <a href="https://portal.huszonegy.world/hu/meetups">portal.huszonegy.world</a>
+                        <a href="https://portal.einundzwanzig.space/hu/meetups">portal.einundzwanzig.space/hu/meetups</a>
                         <br/>
                         (ez a nemzetközi huszonegy szerveződés meetup portáljának magyarított változata)
                     </p>
