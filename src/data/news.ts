@@ -5,6 +5,19 @@
 
 export const news = [
     {
+        summary: "Bitcoin meetup - február 26. - Perspective Bar",
+        date: "2026.01.28.",
+        html: "Újabb bitcoin meetup bp belvárosában februárban. Ezúttal egy előadás lesz műsoron.<br/><br/>Időpont: <strong>2026. február 26. </strong> (csütörtök), 18:00 <br/>Helyszín: <strong><a href='https://perspective-bar.hu/' target='_blank'>Perspective Bar</a> 1072 Bp. Klauzál u. 26-28.</strong> <br/><br/>Tervezett Program: <br/>18:00 Érkezés<br/>18:15 Köszöntő, a HUSZONEGY csoport rövid bemutatása - Árpi<br/>18:30 Bemutatkozó kör – akinek van kedve<br/>19:00 <strong>Ginger tárca és coinjoin bemutató</strong> – Molnár Dávid (Ginger Wallet)<br/>20:00 Kötetlen beszélgetés<br/><br/>Regisztráció:<br/>A szervezés megkönnyítése érdekében kérünk, regisztrálj az űrlap kitöltésével: <a href='https://bitcoinmentor.hu/meetup/'>bitcoinmentor.hu/meetup</a> <br/><br/>A program változhat! Bővebb információ a Telegram csoportban. A bitcoinra koncentrálunk, egyéb kriptókat ignoráljuk.<br/><br/>A részvétel ingyenes, a helyszínt a fogyasztásunkkal támogatjuk.",
+    },
+    {
+        summary: "Három beszélgetésről egy csokorban",
+        date: "2026.01.28.",
+        html: "Az elmúlt három hét <a href='/podcast'>podcast</a> adásaiban beszélgettünk a validátor mizériáról, a Nostr-ről mint cenzúraálló közösségi médiáról, valamint az antropozófia, a Waldorf-pedagógia és a Bitcoin találkozásáról.<br/><br/>Az előbbiben olyan hívószavak hangzanak el, mint PDF-ek, emailek, ellentmondások, Revolut-szívatás, coinjoin=bűn?, árfolyamok, chartok, négyéves ciklusok, kígyóspirál és hogy 'te még szabadlábon vagy?' Ha még nem vagy fent a noszteren, a 89. epizód jó belépő és motiváció egyszerre. A legutóbbiban pedig ilyenekkel találkozhatsz: belső kontinensek, igazság–szépség–jóság keresése, Rudolf Steiner nyomán női energia ébredés, szívközpontúság a hierarchia helyett, képernyő vs. testi fejlődés egyensúlya, fascia-gyógyulás és a Bitcoin mint közös teremtés eszköze.",
+        img: "/pics/e90.jpg",
+        link: "https://youtu.be/WVQQo0OE8m4"
+
+    },
+    {
         summary: "Lakás bitcoinért és Bitcoin tárolási útmutató",
         date: "2025.12.29.",
         html: "Legújabb <a href='/podcast'>podcast</a> epizódunkban Feri beszámol a Bitcoin Mena konferencia tapasztalatairól, ahol szemtanúja lehetett, hogyan nyitnak a világ bankjai és országai a Bitcoin felé. A legnagyobb hazai hír azonban: megtörtént az első Bitcoin tranzakció lakásvásárlás alkalmával Magyarországon – történelmi mérföldkő a szabadságtechnológia valódi használata felé. A beszélgetésben szó esik a 2026-os várakozásokról és arról, hogyan válhat a Bitcoin a hazai üzleti élet természetes részévé.<br /><br /><em><a href='https://bitcoinmentor.hu/a-legjobb-kriptovaluta-tarolasi-megoldasok/'>A legjobb kriptovaluta tárolási megoldások</a></em> című részletes útmutatónk pedig bemutatja a Bitcoin tárolás minden szintjét: a kezdőbarát mobil tárcáktól a professzionális hardveres és multisig megoldásokig. Megtanulhatod, hogyan légy a saját bankod, és mi az a <em>'Not your keys, not your coins'</em> alapelv, ami minden bitcoiner számára kulcsfontosságú. A cikk a magyar közösség évek óta gyűjtött gyakorlati tapasztalataira épül.",
