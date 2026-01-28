@@ -2,6 +2,26 @@
 
 export const podcasts = [
     {
+        name: "Antropozófia, Waldorf és Bitcoin: Szabadság kint és bent",
+        id: "E90",
+        img: "/pics/e90.jpg",
+        date: "2026.01.23.",
+        members: ["Hajnal", "Árpi"],
+        topic: "Belső kontinensek és a közjó teremtése - Igazság, szépség és jóság keresése - Rudolf Steiner nyomában: Waldorf és antropozófia - Értékcsere az önkény uralom helyett - Perspektívák találkozása – Mi az antropozófia? - Női energia ébredése és belső kontinensek - Hierarchiától a szívközpontúságig - Technológia, képernyő és a test fejlődése - Egyensúly a virtuális és fizikai világban - Bitcoin mint a közös teremtés eszköze - Fascia, test és tudat – gyógyulás összefüggései",
+        yt: "https://youtu.be/WVQQo0OE8m4",
+        fountain: "https://fountain.fm/episode/OeQx5HWVCRZAJenNoStf"
+    },
+    {
+        name: "Nostr: cenzúraálló közösségi média",
+        id: "E89",
+        img: "/pics/e89.jpg",
+        date: "2026.01.15.",
+        members: ["Anti", "Lez", "HenkyPenky"],
+        topic: "Miért fontos most a Nostr? - Bitcoin filozófia a közössági médiában - Hogyan működik: relayek és decentralizáció - Magyar közösség és follow pack - Plebs.app: YouTube alternatíva noszteren - Nostr.hu és magyar források kezdőknek - Legjobb alkalmazások - ChatControl és a szabadság jövője",
+        yt: "https://youtu.be/uP4HHYMxlog",
+        fountain: "https://fountain.fm/episode/t4fhUojkH1ZheHOizhjT"
+    },
+    {
         name: "Te még szabadlábon vagy? | Validátor mizéria",
         id: "E88",
         img: "/pics/e88.jpg",
