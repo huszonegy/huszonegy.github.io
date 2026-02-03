@@ -21,33 +21,33 @@ const router = createRouter({
       name: 'home',
       component: HomeView,
       meta: {
-        title: 'HUSZONEGY',
+        title: 'HUSZONEGY - Bitcoin Magyarországon',
         metaTags: [
           {
             name: 'description',
-            content: 'HUSZONEGY - Csak Bitcoinról magyarul. Magyar bitcoinerek összefogása.'
+            content: 'Magyar Bitcoin közösség. Csak bitcoinról, magyarul. Decentralizált jövő, meetupok, oktatás, podcast és cikkek egy helyen.'
           },
           {
             name: 'keywords',
-            content: 'Bitcoin, magyar, Hungarian, huszonegy, magyarul, Bitcoinról, bitcoinerek, összefogás'
+            content: 'bitcoin, huszonegy, magyarország, decentralizáció, szabadság, közösség, magyar bitcoinerek'
           }
         ]
       }
     },
     {
-      path: '/cikkek',
+      path: '/cikk',
       name: 'articles',
       component: ArticlesView,
       meta: {
-        title: 'Bitcoin cikkek',
+        title: 'Bitcoin cikkek magyarul - HUSZONEGY',
         metaTags: [
           {
             name: 'description',
-            content: 'Cikkek Bitcoinról magyarul'
+            content: 'Bitcoin cikkek, elemzések és tanulmányok magyarul. Ismerkedj meg a Bitcoin technológiájával, gazdasági hatásaival és a decentralizált jövővel!'
           },
           {
             name: 'keywords',
-            content: 'Bitcoin, magyar, cikk, cikkek, magyarul, Bitcoinról'
+            content: 'bitcoin cikkek, magyar bitcoin, bitcoin tanulmány, bitcoin, decentralizáció'
           }
         ]
       }
@@ -57,51 +57,51 @@ const router = createRouter({
       name: 'forum',
       component: ForumView,
       meta: {
-        title: 'Bitcoin fórum',
+        title: 'Bitcoin fórum - HUSZONEGY közösség',
         metaTags: [
           {
             name: 'description',
-            content: 'Magyar nyelvű Bitcoin csoport'
+            content: 'Magyar Bitcoin közösség fóruma. Csatlakozz a beszélgetéshez, tedd fel kérdéseidet és ossz meg tapasztalatokat más magyar bitcoinerekkel!'
           },
           {
             name: 'keywords',
-            content: 'Bitcoin, magyar, csoport, magyarul'
+            content: 'bitcoin fórum, magyar bitcoin közösség, bitcoin beszélgetés, telegram csoport'
           }
         ]
       }
     },
     {
-      path: '/linkek',
+      path: '/link',
       name: 'links',
       component: LinksView,
       meta: {
-        title: 'Bitcoin linkek',
+        title: 'Hasznos Bitcoin linkek - HUSZONEGY',
         metaTags: [
           {
             name: 'description',
-            content: 'Magyar Bitcoin Linkek'
+            content: 'Válogatott Bitcoin linkek, partnereink, kapcsolódó honlapok magyarul és angolul. Minden amit a Bitcoinról tudni kell.'
           },
           {
             name: 'keywords',
-            content: 'Bitcoin, magyar, link, linkek, magyarul'
+            content: 'bitcoin linkek, bitcoin források, bitcoin oktatás, bitcoin eszközök'
           }
         ]
       }
     },
     {
-      path: '/hirek',
+      path: '/hir',
       name: 'news',
       component: NewsView,
       meta: {
-        title: 'Bitcoin hírek',
+        title: 'Bitcoin hírek magyarul - HUSZONEGY',
         metaTags: [
           {
             name: 'description',
-            content: 'Bitcoin hírek magyarul'
+            content: 'Friss Bitcoin hírek és újdonságok magyarul. Kövesd a legfontosabb eseményeket a Bitcoin világából naprakészen!'
           },
           {
             name: 'keywords',
-            content: 'Bitcoin, magyar, hír, hírek, magyarul'
+            content: 'bitcoin hírek, bitcoin hírek magyarul, bitcoin news, bitcoin újdonságok'
           }
         ]
       }
@@ -111,15 +111,15 @@ const router = createRouter({
       name: 'podcasts',
       component: PodsView,
       meta: {
-        title: 'Bitcoin podcast',
+        title: 'Bitcoin podcast magyarul - HUSZONEGY',
         metaTags: [
           {
             name: 'description',
-            content: 'Magyar Bitcoin podcast'
+            content: 'Magyar Bitcoin podcastok és beszélgetések. Hallgass interjúkat, szakértői véleményeket és közösségi beszélgetéseket a Bitcoin világából!'
           },
           {
             name: 'keywords',
-            content: 'Bitcoin, magyar, podcast, beszélgetés, magyarul'
+            content: 'bitcoin podcast, magyar bitcoin podcast, beszélgetés, bitcoin interjú'
           }
         ]
       }
@@ -129,15 +129,15 @@ const router = createRouter({
       name: 'presentations',
       component: PreziView,
       meta: {
-        title: 'Bitcoin előadás',
+        title: 'Bitcoin előadások magyarul - HUSZONEGY',
         metaTags: [
           {
             name: 'description',
-            content: 'Bitcoin előadás magyarul'
+            content: 'Bitcoin előadások, prezentációk és konferencia anyagok magyarul. Tanulj szakértőktől a Bitcoin technológiájáról és gazdasági hatásairól!'
           },
           {
             name: 'keywords',
-            content: 'Bitcoin, magyar, előadás, prezentáció, magyarul'
+            content: 'bitcoin előadás, bitcoin prezentáció, bitcoin konferencia, bitcoin oktatás'
           }
         ]
       }
@@ -147,33 +147,33 @@ const router = createRouter({
       name: 'videos',
       component: VideoView,
       meta: {
-        title: 'Bitcoin oktatóvideó',
+        title: 'Bitcoin oktatóvideók magyarul - HUSZONEGY',
         metaTags: [
           {
             name: 'description',
-            content: 'Bitcoin oktatóvideó'
+            content: 'Bitcoin oktatóvideók kezdőknek és haladóknak magyarul. Tanuld meg a Bitcoin használatát, a tárcák kezelését és a biztonságos tárolást!'
           },
           {
             name: 'keywords',
-            content: 'Bitcoin, magyar, oktató, videó, oktatóvideó, magyarul'
+            content: 'bitcoin videó, bitcoin oktatás, bitcoin tutorial, bitcoin tanulás magyarul'
           }
         ]
       }
     },
     {
-      path: '/konyvek',
+      path: '/konyv',
       name: 'books',
       component: BooksView,
       meta: {
-        title: 'Bitcoin könyv',
+        title: 'Bitcoin könyvek magyarul - HUSZONEGY',
         metaTags: [
           {
             name: 'description',
-            content: 'Bitcoin könyvek magyar nyelven'
+            content: 'Ajánlott Bitcoin könyvek magyar nyelven és fordításban. A legjobb Bitcoin könyvek kezdőknek és szakértőknek.'
           },
           {
             name: 'keywords',
-            content: 'Bitcoin, magyar, könyv, könyvek, magyarul, nyelven'
+            content: 'bitcoin könyv, bitcoin könyv magyarul, bitcoin irodalom, bitcoin olvasmány'
           }
         ]
       }
@@ -183,15 +183,15 @@ const router = createRouter({
       name: 'wallets',
       component: WalletsView,
       meta: {
-        title: 'Tárcák, SW, HW, eszközök',
+        title: 'Bitcoin tárcák és eszközök - HUSZONEGY',
         metaTags: [
           {
             name: 'description',
-            content: 'Ajánlott tárcák, eszközök, egyebek'
+            content: 'Ajánlott Bitcoin tárcák, hardver wallet-ek és eszközök. Válaszd ki a számodra legmegfelelőbb megoldást a biztonságos Bitcoin tároláshoz!'
           },
           {
             name: 'keywords',
-            content: 'Bitcoin, tárca, wallet, ajánlás'
+            content: 'bitcoin tárca, hardver wallet, bitcoin wallet, trezor, coldcard, ledger'
           }
         ]
       }
@@ -201,15 +201,15 @@ const router = createRouter({
       name: 'meetup',
       component: MeetupView,
       meta: {
-        title: 'Meetupok, találkozók',
+        title: 'Bitcoin meetupok Magyarországon - HUSZONEGY',
         metaTags: [
           {
             name: 'description',
-            content: 'Meetupok, találkozók, események'
+            content: 'Bitcoin meetupok, találkozók és események Magyarországon. Csatlakozz a közösséghez, ismerj meg más bitcoinereket és tanulj együtt!'
           },
           {
             name: 'keywords',
-            content: 'Bitcoin, meetup'
+            content: 'bitcoin meetup, bitcoin találkozó, bitcoin esemény, bitcoin közösség magyarország'
           }
         ]
       }
@@ -219,15 +219,15 @@ const router = createRouter({
       name: 'support',
       component: SupportView,
       meta: {
-        title: 'Bitcoin támogatás',
+        title: 'HUSZONEGY támogatása - Bitcoin adományok',
         metaTags: [
           {
             name: 'description',
-            content: 'Bitcoin önkéntesek támogatása'
+            content: 'Támogasd a HUSZONEGY magyar Bitcoin közösséget! Segíts fenntartani az ingyenes oktatási anyagokat, meetupokat és közösségi kezdeményezéseket!'
           },
           {
             name: 'keywords',
-            content: 'Bitcoin, magyar, támogatás, önkéntes, támogat'
+            content: 'bitcoin támogatás, bitcoin adomány, közösség támogatása, btc donation'
           }
         ]
       }
@@ -237,7 +237,17 @@ const router = createRouter({
       name: 'pizzaday',
       component: PizzaView,
       meta: {
-        title: 'Pizza Nap',
+        title: 'Bitcoin Pizza Nap - HUSZONEGY',
+        metaTags: [
+          {
+            name: 'description',
+            content: 'Bitcoin Pizza Nap ünneplése. Május 22-én emlékezünk az első Bitcoin tranzakcióra, amikor Laszlo Hanyecz 10,000 BTC-ért pizzát vásárolt.'
+          },
+          {
+            name: 'keywords',
+            content: 'bitcoin pizza nap, pizza day, bitcoin history, laszlo hanyecz, május 22'
+          }
+        ]
       }
     },
     {
