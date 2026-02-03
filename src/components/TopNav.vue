@@ -17,10 +17,10 @@
                         <router-link class="nav-link" to="/forum">Fórum</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link class="nav-link" to="/hirek">Hír</router-link>
+                        <router-link class="nav-link" to="/hir">Hír</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link class="nav-link" to="/cikkek">Cikk</router-link>
+                        <router-link class="nav-link" to="/cikk">Cikk</router-link>
                     </li>
                     <li class="nav-item">
                         <router-link class="nav-link" to="/podcast">Podcast</router-link>
@@ -32,7 +32,7 @@
                         <router-link class="nav-link" to="/oktatovideo">Oktatóvideó</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link class="nav-link" to="/konyvek">Könyv</router-link>
+                        <router-link class="nav-link" to="/konyv">Könyv</router-link>
                     </li>
                     <li class="nav-item">
                         <router-link class="nav-link" to="/tarcak">Tárcák</router-link>
@@ -58,7 +58,7 @@
                         <router-link class="nav-link" to="/tamogatas">Támogatás</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link class="nav-link" to="/linkek">Link</router-link>
+                        <router-link class="nav-link" to="/link">Link</router-link>
                     </li>
                 </ul>
             </div>
