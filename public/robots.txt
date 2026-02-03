@@ -1,0 +1,16 @@
+# robots.txt a huszonegy.world számára
+
+# Minden keresőmotor indexelje az oldalt
+User-agent: *
+Allow: /
+
+# Sitemap helye (fontos a SEO-hoz!)
+Sitemap: https://huszonegy.world/sitemap.xml
+
+# Opcionális: Ha vannak olyan mappák/fájlok, amiket NEM akarsz indexelni:
+# Disallow: /admin/
+# Disallow: /temp/
+Disallow: /*.json$
+
+# Gyakoriság beállítása (opcionális)
+# Crawl-delay: 10
