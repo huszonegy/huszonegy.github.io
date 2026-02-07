@@ -2,10 +2,30 @@
 
 export const podcasts = [
     {
+        name: "A nyugalom forrása: zene, Bitcoin és Nostr",
+        id: "E92",
+        img: "/pics/e92.jpg",
+        date: "2026.02.05.",
+        members: ["Anti", "Boka", "Árpi"],
+        topic: "Boka útja a Bitcoinhoz - amikor betalált - Nostr felfedezés és csótánytaposás - Értéket értékért - zap a Nostr-n - Liberstad és Montelibero - szabad települések - Prepper közösségek és a Bitcoin hiánya - Mi lenne, ha holnap Bitcoin alapú lenne a világ? - Pszichológiai háború és a Bitcoin elleni támadások - A vezetettség szükségessége és a dualitás - A nyugalom forrása - zene, Bitcoin és életmód - Meetup és lemezbemutató koncert",
+        yt: "https://youtu.be/EQ7wR_fTzmo",
+        fountain: "https://fountain.fm/episode/bZ6FQ2nnW52L4vOA3Rg8"
+    },
+    {
+        name: "30 leggyakoribb Bitcoin kifogás és a tökéletes válaszok – Kata masterclass",
+        id: "E91",
+        img: "/pics/e91.jpg",
+        date: "2026.01.29.",
+        members: ["Anti", "Kata", "Árpi"],
+        topic: "Kata visszatér – vihar után, Máltáról - Újrakeretezés (reframing) – ne agresszívan pilleljünk - 30 Bitcoin kifogás és a tökéletes válaszok - 'Spekuláció' → a legkeményebb pénz - 'Túl volatilis' → a forint nem volatilis, csak lefelé megy - 'Majd betiltják' → matekot és internetet nem lehet betiltani - Magyar kifogások: 'A forint is jó volt eddig…' - Nőknek miért fontosabb a Bitcoin? – függetlenség és túlélés - Érzelmi szkeptikusok: 'Ez egy scam' → Ki ver át kit valójában? - A Bitcoin rétegei – életstílus-váltás és alacsony időpreferencia - Csendes forradalom – Orange pilling magasabb fokozaton",
+        yt: "https://youtu.be/7WwPk4ekfD8",
+        fountain: "https://fountain.fm/episode/mim817xYKKROlVP0xK2n"
+    },
+    {
         name: "Antropozófia, Waldorf és Bitcoin: Szabadság kint és bent",
         id: "E90",
         img: "/pics/e90.jpg",
-        date: "2026.01.23.",
+        date: "2026.01.22.",
         members: ["Hajnal", "Árpi"],
         topic: "Belső kontinensek és a közjó teremtése - Igazság, szépség és jóság keresése - Rudolf Steiner nyomában: Waldorf és antropozófia - Értékcsere az önkény uralom helyett - Perspektívák találkozása – Mi az antropozófia? - Női energia ébredése és belső kontinensek - Hierarchiától a szívközpontúságig - Technológia, képernyő és a test fejlődése - Egyensúly a virtuális és fizikai világban - Bitcoin mint a közös teremtés eszköze - Fascia, test és tudat – gyógyulás összefüggései",
         yt: "https://youtu.be/WVQQo0OE8m4",
