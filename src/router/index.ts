@@ -1,4 +1,5 @@
 import type { RouteRecordRaw } from 'vue-router'
+import NotFoundView from '../views/NotFoundView.vue'
 import HomeView from '../views/HomeView.vue'
 import ForumView from '../views/ForumView.vue'
 import ArticlesView from '../views/ArticlesView.vue'
@@ -251,5 +252,17 @@ export const routes: RouteRecordRaw[] = [
   {
     path: '/support',
     redirect: '/tamogatas'
+  },
+  {
+    path: '/404',
+    name: 'not-found',
+    component: NotFoundView,
+    meta: {
+      title: 'Oldal nem található - HUSZONEGY'
+    }
+  },
+  {
+    path: '/:pathMatch(.*)*',
+    redirect: '/404'
   }
 ]

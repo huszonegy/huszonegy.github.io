@@ -21,8 +21,8 @@ export const createApp = ViteSSG(
         // Close navbar collapse menu + track page views with GoatCounter on route change
         router.afterEach((to) => {
           // GoatCounter: manuális pageview küldése minden belső route váltáskor
-          if ((window as any).goatcounter) {
-            ;(window as any).goatcounter.count({
+          if (window.goatcounter) {
+            window.goatcounter.count({
               path: to.fullPath,
               title: document.title || (to.name as string) || 'Huszonegy',
               event: false,
