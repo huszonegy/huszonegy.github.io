@@ -1,8 +1,11 @@
 <script setup lang="ts">
-import { RouterLink, RouterView } from 'vue-router'
+import { RouterView } from 'vue-router'
 
 import Footer from './components/Footer.vue'
 import TopNav from './components/TopNav.vue'
+import { useRouteHead } from './composables/useRouteHead'
+
+useRouteHead()
 </script>
 
 <template>

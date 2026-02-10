@@ -33,14 +33,12 @@ jobs:
       - name: Set up Node
         uses: actions/setup-node@v3
         with:
-          node-version: 18
+          node-version: 20
           cache: 'npm'
       - name: Install dependencies
         run: npm install
       - name: Build
         run: npm run build
-      - name: Copy index.html to 404.html, as workaround for GH Pages route issue
-        run: cp ./dist/index.html ./dist/404.html
       - name: Create the .well-known directory
         run: mkdir ./dist/.well-known
       - name: Copy the nostr.json to activate NIP05
