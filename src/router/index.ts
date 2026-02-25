@@ -1,5 +1,10 @@
-import { createRouter, createWebHistory, type RouteRecordRaw } from 'vue-router'
-import HomeView from '../views/HomeView.vue' // A főoldalt hagyjuk fixen, ez kell rögtön
+import { 
+  createRouter, 
+  createWebHistory, 
+  createMemoryHistory, 
+  type RouteRecordRaw 
+} from 'vue-router'
+import HomeView from '../views/HomeView.vue'
 
 export const routes: RouteRecordRaw[] = [
   {
@@ -9,20 +14,20 @@ export const routes: RouteRecordRaw[] = [
     meta: {
       title: 'HUSZONEGY - A magyar Bitcoin tudástár és közösség',
       metaTags: [
-        { name: 'description', content: 'Tanulj a Bitcoinról magyarul! Cikkek, podcastok, ingyenesen letölthető könyvek és aktív közösség. Fedezd fel a pénzügyi szuverenitás világát a huszonegy.world-ön!' },
-        { name: 'keywords', content: 'bitcoin, huszonegy, magyarország, decentralizáció, szabadság, közösség, magyar bitcoinerek' }
+        { name: 'description', content: 'Tanulj a Bitcoinról magyarul! Cikkek, podcastok, ingyenesen letölthető könyvek és aktív közösség.' },
+        { name: 'keywords', content: 'bitcoin, huszonegy, magyarország, decentralizáció, szabadság, közösség' }
       ]
     }
   },
   {
     path: '/cikk',
     name: 'articles',
-    component: () => import('../views/ArticlesView.vue'), // Dinamikus import!
+    component: () => import('../views/ArticlesView.vue'),
     meta: {
       title: 'Bitcoin cikkek magyarul - HUSZONEGY',
       metaTags: [
-        { name: 'description', content: 'Bitcoin cikkek, elemzések és tanulmányok magyarul. Ismerkedj meg a Bitcoin technológiájával, gazdasági hatásaival és a decentralizált jövővel!' },
-        { name: 'keywords', content: 'bitcoin cikkek, magyar bitcoin, bitcoin tanulmány, bitcoin, decentralizáció' }
+        { name: 'description', content: 'Bitcoin cikkek, elemzések és tanulmányok magyarul.' },
+        { name: 'keywords', content: 'bitcoin cikkek, magyar bitcoin, bitcoin tanulmány' }
       ]
     }
   },
@@ -162,34 +167,41 @@ export const routes: RouteRecordRaw[] = [
 ]
 
 const router = createRouter({
-  history: createWebHistory(import.meta.env.BASE_URL),
+  // Ez a sor dönti el, hogy szerver (GitHub) vagy böngésző módban vagyunk-e
+  history: import.meta.env.SSR 
+    ? createMemoryHistory(import.meta.env.BASE_URL) 
+    : createWebHistory(import.meta.env.BASE_URL),
   routes
 })
 
-// EZ A RÉSZ FRISSÍTI A BÖNGÉSZŐT ÉS A GOOGLE-T:
-router.afterEach((to) => {
-  const title = to.meta.title as string
-  if (title) document.title = title
+// EZ A RÉSZ FRISSÍTI A BÖNGÉSZŐT, DE CSAK HA TÉNYLEG BÖNGÉSZŐBEN VAGYUNK
+if (!import.meta.env.SSR) {
+  router.afterEach((to) => {
+    // Cím frissítése
+    const title = (to.meta as any).title
+    if (title) document.title = title
 
-  const tags = to.meta.metaTags as any[]
-  if (tags) {
-    tags.forEach(tagData => {
-      let selector = tagData.name 
-        ? `meta[name="${tagData.name}"]` 
-        : `meta[property="${tagData.property}"]`
-      
-      let element = document.querySelector(selector)
-      if (element) {
-        element.setAttribute('content', tagData.content)
-      } else {
-        const newTag = document.createElement('meta')
-        if (tagData.name) newTag.setAttribute('name', tagData.name)
-        if (tagData.property) newTag.setAttribute('property', tagData.property)
-        newTag.setAttribute('content', tagData.content)
-        document.head.appendChild(newTag)
-      }
-    })
-  }
-})
+    // Meta tagek frissítése (SEO)
+    const tags = (to.meta as any).metaTags as any[]
+    if (tags && Array.isArray(tags)) {
+      tags.forEach(tagData => {
+        const selector = tagData.name 
+          ? `meta[name="${tagData.name}"]` 
+          : `meta[property="${tagData.property}"]`
+        
+        const element = document.querySelector(selector)
+        if (element) {
+          element.setAttribute('content', tagData.content)
+        } else {
+          const newTag = document.createElement('meta')
+          if (tagData.name) newTag.setAttribute('name', tagData.name)
+          if (tagData.property) newTag.setAttribute('property', tagData.property)
+          newTag.setAttribute('content', tagData.content)
+          document.head.appendChild(newTag)
+        }
+      })
+    }
+  })
+}
 
 export default router
