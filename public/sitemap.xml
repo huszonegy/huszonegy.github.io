@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <!-- Főoldal -->
   <url>
     <loc>https://huszonegy.world/</loc>
     <lastmod>2026-02-03</lastmod>
@@ -9,7 +8,6 @@
     <priority>1.0</priority>
   </url>
   
-  <!-- Fórum -->
   <url>
     <loc>https://huszonegy.world/forum</loc>
     <lastmod>2026-02-03</lastmod>
@@ -17,7 +15,6 @@
     <priority>0.8</priority>
   </url>
   
-  <!-- Hír -->
   <url>
     <loc>https://huszonegy.world/hir</loc>
     <lastmod>2026-02-03</lastmod>
@@ -25,7 +22,6 @@
     <priority>0.9</priority>
   </url>
   
-  <!-- Cikk -->
   <url>
     <loc>https://huszonegy.world/cikk</loc>
     <lastmod>2026-02-03</lastmod>
@@ -33,7 +29,6 @@
     <priority>0.8</priority>
   </url>
   
-  <!-- Podcast -->
   <url>
     <loc>https://huszonegy.world/podcast</loc>
     <lastmod>2026-02-03</lastmod>
@@ -41,7 +36,6 @@
     <priority>0.9</priority>
   </url>
   
-  <!-- Előadás -->
   <url>
     <loc>https://huszonegy.world/eloadas</loc>
     <lastmod>2026-02-03</lastmod>
@@ -49,7 +43,6 @@
     <priority>0.7</priority>
   </url>
   
-  <!-- Oktatóvideó -->
   <url>
     <loc>https://huszonegy.world/oktatovideo</loc>
     <lastmod>2026-02-03</lastmod>
@@ -57,7 +50,6 @@
     <priority>0.7</priority>
   </url>
   
-  <!-- Könyv -->
   <url>
     <loc>https://huszonegy.world/konyv</loc>
     <lastmod>2026-02-03</lastmod>
@@ -65,7 +57,6 @@
     <priority>0.6</priority>
   </url>
   
-  <!-- Tárcák -->
   <url>
     <loc>https://huszonegy.world/tarcak</loc>
     <lastmod>2026-02-03</lastmod>
@@ -73,7 +64,6 @@
     <priority>0.6</priority>
   </url>
   
-  <!-- Meetup -->
   <url>
     <loc>https://huszonegy.world/meetup</loc>
     <lastmod>2026-02-03</lastmod>
@@ -81,23 +71,55 @@
     <priority>0.7</priority>
   </url>
   
-   <!-- Bitcoin tanulmány PDF -->
-  <url>
+   <url>
     <loc>https://huszonegy.world/files/bitcoin_tanulmany.pdf</loc>
     <lastmod>2026-02-03</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   
-  <!-- Bitcoin whitepaper PDF -->
   <url>
     <loc>https://huszonegy.world/files/bitcoin.pdf</loc>
     <lastmod>2026-02-03</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
+
+  <url>
+    <loc>https://huszonegy.world/files/A-kis-bitcoin-konyv.pdf</loc>
+    <lastmod>2026-02-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://huszonegy.world/files/21-lecke-Gigi.pdf</loc>
+    <lastmod>2026-02-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://huszonegy.world/files/A-Bitcoin-igeretes-jovoje-Vijay-Boyapati.pdf</loc>
+    <lastmod>2026-02-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://huszonegy.world/files/A-Bitcoin-letrehozasa-Yan-Pritzker.pdf</loc>
+    <lastmod>2026-02-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://huszonegy.world/files/Miert-eppen-a-Bitcoin-Tomer-Strolight.pdf</loc>
+    <lastmod>2026-02-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
   
-  <!-- Támogatás -->
   <url>
     <loc>https://huszonegy.world/tamogatas</loc>
     <lastmod>2026-02-03</lastmod>
@@ -105,7 +127,6 @@
     <priority>0.6</priority>
   </url>
   
-  <!-- Link -->
   <url>
     <loc>https://huszonegy.world/link</loc>
     <lastmod>2026-02-03</lastmod>
