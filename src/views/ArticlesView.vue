@@ -5,7 +5,7 @@ import ArticlesList from '../components/ArticlesList.vue'
 <template>
     <main>
         <h1>Bitcoin cikkek</h1>
-        <ArticlesList :max_count=0 />
+        <ArticlesList :max_count="0" />
         <div class="bottom-space no-response"><!-- empty --></div>
     </main>
 </template>

@@ -436,10 +436,18 @@ export const articles = [
 
 // Get the articles, optionally only the last N
 export function get_articles(max_count: number) {
-    var n = articles.length;
-    if (max_count == 0 || max_count >= n) {
+    const n = articles.length;
+    
+    // Ha 0-t adunk meg, vagy többet kérünk, mint amennyi van, adjuk vissza az egészet
+    if (max_count <= 0 || max_count >= n) {
         return articles;
     }
-    return articles.splice(0, max_count);
+    
+    // .slice() NEM módosítja az eredeti tömböt!
+    // Ha a legfrissebbek vannak elöl a listában, akkor az első N kell:
+    return articles.slice(0, max_count);
+    
+    // MEGJEGYZÉS: Ha a lista végén vannak a legfrissebbek, 
+    // és az utolsó N kell (ahogy a komment írja), akkor használd ezt:
+    // return articles.slice(-max_count);
 }
-
