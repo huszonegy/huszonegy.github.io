@@ -1,5 +1,4 @@
-// Import all of Bootstrap's CSS
-@import "bootstrap/scss/bootstrap";
+@use "bootstrap/scss/bootstrap";
 
 main {
     padding-top: 20px;
@@ -84,6 +83,14 @@ main {
 a {
     text-decoration: none;
     color: orange;
+    outline: none !important; /* Ez letiltja a böngésző kék keretét */
+    box-shadow: none !important; /* Ez letiltja a Bootstrap kék árnyékát */
+}
+
+/* Kifejezetten a navigációs linkekre is rászoríthatunk */
+.nav-link:focus {
+    outline: none !important;
+    box-shadow: none !important;
 }
 
 a:hover {
@@ -93,6 +100,10 @@ a:hover {
 .nav-link:hover {
     text-decoration: none;
     color: white;
+}
+
+.router-link-exact-active {
+    color: #f7931a !important; /* Bitcoin narancs */
 }
 
 .footer {
@@ -241,9 +252,19 @@ p {
     }
 
     .nav-item {
-        font-size: 18px;
-        margin-top: 5px;
-        margin-bottom: 5px;
+        font-size: 1.3rem; /* 18px-ről kb. 21px-re növelve */
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .nav-link {
+        padding: 12px 15px !important; /* Nagyobb kattintható terület */
+        display: block;
+    }
+
+    /* Az utolsó elemről vegyük le a vonalat */
+    .nav-item:last-child {
+        border-bottom: none;
     }
 
     .mx-1, .mx-2, .mx-3, .mx-4, .mx-5, .card .row .col {
@@ -267,6 +288,74 @@ p {
     .footer {
         margin-top: 50px;
     }
+
+    /* Logó méretének növelése mobilon */
+    .navbar-brand {
+        padding: 15px 20px; /* Több hely a logó körül */
+    }
+    
+    .navbar-brand img {
+        height: 40px; /* Fix magasság a logónak, hogy ne legyen apró */
+        width: auto;
+    }
+
+    /* Hamburger ikon méretének növelése */
+    .navbar-toggler {
+        padding: 0.6rem 0.8rem; /* Nagyobb érintési felület */
+        border-width: 2px;      /* Vastagabb keret a gombnak */
+    }
+
+    .navbar-toggler-icon {
+        width: 1.5em !important;  /* Az eredeti 0.7em helyett */
+        height: 1.5em !important; /* Arányos, jól látható méret */
+    }
+    
+    .navbar-brand {
+        padding: 10px 15px !important;
+    }
+    
+    .navbar-brand img {
+        height: 42px; /* Itt tudod állítani a logó magasságát */
+        width: auto;
+    }
+
+    /* 2. A "szép" hamburger ikon keret nélkül */
+    .navbar-toggler {
+        border: none !important;      /* Keret le */
+        outline: none !important;     /* Kék böngésző-keret le */
+        box-shadow: none !important;  /* Bootstrap árnyék le */
+        box-shadow: none !important;
+        padding: 5px;
+        background: white;
+    }
+
+    .navbar-toggler-icon {
+        /* A Bootstrap alap ikont itt skálázzuk fel, hogy szép, 3 vonalas maradjon */
+        width: 1.6em !important;
+        height: 1.6em !important;
+        /* Ha sötét háttérnél nem látszik jól, itt tudunk rajta világosítani: */
+        filter: invert(1) brightness(1.2); 
+    }
+
+    /* 3. Lenyíló menü háttere és betűméret */
+    .navbar-collapse {
+        padding: 15px 10px;
+        margin-top: 10px;
+        border-top: 1px solid rgba(255, 165, 0, 0.2); /* Nagyon vékony narancs csík felül */
+    }
+
+    .nav-item {
+        font-size: 1.25rem; /* Nagyobb, kényelmesen olvasható betűk */
+        margin: 8px 0;
+        text-align: left;
+    }
+
+    .nav-link {
+        padding: 10px 15px !important;
+        color: rgba(255, 255, 255, 0.9) !important;
+    }
+
+    
 }
 
 
