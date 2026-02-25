@@ -243,23 +243,9 @@ p {
 }
 
 @media (max-width: 992px) {
-    .navbar-collapse {
-        margin-top: 15px;
-    }
 
     .navbar-nav {
         margin-left: 10px;
-    }
-
-    .nav-item {
-        font-size: 1.3rem; /* 18px-ről kb. 21px-re növelve */
-        margin-top: 10px;
-        margin-bottom: 10px;
-    }
-
-    .nav-link {
-        padding: 12px 15px !important; /* Nagyobb kattintható terület */
-        display: block;
     }
 
     /* Az utolsó elemről vegyük le a vonalat */
@@ -339,14 +325,13 @@ p {
 
     /* 3. Lenyíló menü háttere és betűméret */
     .navbar-collapse {
-        padding: 15px 10px;
+        padding: 10px;
         margin-top: 10px;
-        border-top: 1px solid rgba(255, 165, 0, 0.2); /* Nagyon vékony narancs csík felül */
     }
 
     .nav-item {
         font-size: 1.25rem; /* Nagyobb, kényelmesen olvasható betűk */
-        margin: 8px 0;
+        margin: 5px 0;
         text-align: left;
     }
 
@@ -355,7 +340,40 @@ p {
         color: rgba(255, 255, 255, 0.9) !important;
     }
 
-    
+    /* 1. A fő "Whitepaper" gomb stílusa */
+    .nav-item.dropdown .nav-link {
+        display: flex;
+        justify-content: space-between; /* A nyíl menjen a szélre */
+        align-items: center;
+    }
+
+    /* 2. Az almenü (dropdown-menu) konténere */
+    .dropdown-menu {
+        background-color: rgba(30, 30, 30, 0.5) !important; /* Kicsit eltérő szürke a főmenütől */
+        border: none;
+        border-left: 2px solid #f7931a; /* Bitcoin-narancs jelzés a bal oldalon */
+        margin-left: 15px;  /* Beljebb toljuk, hogy látszódjon a hierarchia */
+        margin-top: 5px;
+        padding: 5px 0;
+    }
+
+    /* 3. Az almenü pontjai (dropdown-item) */
+    .dropdown-item {
+        color: #ccc !important;
+        font-size: 1.1rem; /* Kicsit kisebb, mint a főmenü, de jól olvasható */
+        padding: 12px 20px !important; /* Kényelmes kattintási felület */
+        background: transparent !important;
+    }
+
+    .dropdown-item:hover, .dropdown-item:active {
+        color: #f7931a !important;
+        background: rgba(255, 147, 26, 0.1) !important; /* Nagyon halvány narancs háttér */
+    }
+
+    /* 4. A dropdown nyíl (caret) színe */
+    .navbar-dark .navbar-nav .nav-link.dropdown-toggle::after {
+        border-top-color: #f7931a; /* Narancssárga nyíl */
+    }
 }
 
 
