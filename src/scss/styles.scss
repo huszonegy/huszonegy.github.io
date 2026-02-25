@@ -374,6 +374,38 @@ p {
     .navbar-dark .navbar-nav .nav-link.dropdown-toggle::after {
         border-top-color: #f7931a; /* Narancssárga nyíl */
     }
+
+    .footer {
+        margin-top: 40px;
+        text-align: center; /* Mobilon a középre zárt tartalom profibb */
+    }
+
+    .footer .row {
+        flex-direction: column; /* Egymás alá rendezzük a szekciókat */
+        gap: 5px;
+    }
+
+    /* A lábléc linkjeinek térköze */
+    .footer a {
+        display: inline-block;
+        padding: 8px 12px; /* Nagyobb érintési felület */
+        margin: 5px 0;
+    }
+
+    /* A copyright szöveg és a "maréknyi csoport" rész */
+    .footer p, .footer small {
+        display: block;
+        line-height: 1.6;
+    }
+
+    /* Ha van logó a footerben, azt is középre tesszük */
+    .footer img {
+        max-width: 120px;
+    }
+
+    .footer .text-end {
+        text-align: center !important; 
+    }
 }
 
 
