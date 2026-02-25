@@ -2,6 +2,26 @@
 
 export const podcasts = [
     {
+        name: "Hollandiában megszavazták: 36% adó a bitcoinra, eladás nélkül",
+        id: "E94",
+        img: "/pics/e94.jpg",
+        date: "2026.02.19.",
+        members: ["Anti", "Robi"],
+        topic: "Mi a szabad pénz mellett tesszük le a voksunkat - Bitcoin 70x vs. arany 5x, 2017 óta - 36% adó eladás nélkül: ez történt Hollandiában - Német bankok bitcoint kínálnak, aki lemarad, kimarad - A bitcoin megváltoztatja a fogyasztói szokásokat - A pénz demokráciája: Robi könyvének története - Ciklusvég vagy újabb medvepiac? - A Wall Street tudja, amit a legtöbben nem vesznek észre - Mikor jön a supply shock? - A szabadság felé törekszik az emberi természet - Chat control: gyerekvédelem vagy totális kontroll?",
+        yt: "https://youtu.be/gt9eFE_4KvQ",
+        fountain: "https://fountain.fm/episode/aEjlMooq6tdYtMCCUj0v"
+    },
+    {
+        name: "Az önrendelkezés fontossága nehéz időkben",
+        id: "E93",
+        img: "/pics/e93.jpg",
+        date: "2026.02.12.",
+        members: ["Anti", "Feri"],
+        topic: "Önrendelkezés és felelősség - Piaci esés: pánik vagy lehetőség? - Tech részvények és bitcoin: miért mozognak együtt? - Pszichológiai háború a bitcoin ellen - DCA stratégia: hogyan gyűjts bitcoint okosan? - A világkommunizmus felé – CBDC-k és mozgástér - A forradalom már 17 éve zajlik - Vállalkozások bitcoinban: építőipar, szállodák, ingatlanfejlesztés - Hogyan fogadj el bitcoint kisvállalkozóként? - A Bitcoin lényege: nincs harmadik fél - A kettős bankrendszer vége – CBDC és teljes kontroll - Bitcoin Miskolc 2026. április 17-19., Hajdúszoboszló",
+        yt: "https://youtu.be/OriWX01jejw",
+        fountain: "https://fountain.fm/episode/yPnmN6k6qnPElg4DPC4Z"
+    },
+    {
         name: "A nyugalom forrása: zene, Bitcoin és Nostr",
         id: "E92",
         img: "/pics/e92.jpg",
