@@ -439,18 +439,23 @@ export const news = [
 
 // Get the news items, sorted by date with latest first, optionally only the latest N
 export function get_news(max_count: number) {
-    let sorted = news.sort((n1, n2) => {
-        let d1 = Date.parse(n1.date);
-        let d2 = Date.parse(n2.date);
-        if (d1 && d2) {
-            if (d1 < d2) { return 1; } else if (d1 > d2) { return -1; } else { return 0; }
-        }
-        return 0;
+    // 1. Másolat készítése [...news] és rendezés
+    // A spread operátorral (...) egy új tömböt hozunk létre, így az eredeti news nem változik meg
+    const sorted = [...news].sort((n1, n2) => {
+        const d1 = Date.parse(n1.date);
+        const d2 = Date.parse(n2.date);
+        
+        // Egyszerűbb, csökkenő sorrendbe rendezés (legfrissebb elöl)
+        return (d2 || 0) - (d1 || 0);
     });
-    var n = sorted.length;
-    if (max_count == 0 || max_count >= n) {
+
+    const n = sorted.length;
+
+    // 2. Kezeljük a 0-t vagy a túl nagy limitet
+    if (max_count <= 0 || max_count >= n) {
         return sorted;
     }
-    // Sort and filter
-    return sorted.splice(0, max_count);
+
+    // 3. .slice() használata, hogy ne vágjuk el az adatokat
+    return sorted.slice(0, max_count);
 }
