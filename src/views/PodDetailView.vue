@@ -2,13 +2,40 @@
 import { useRoute } from 'vue-router';
 import { get_pod_by_slug } from '../data/podcasts';
 import { useHead } from '@vueuse/head';
-import { computed } from 'vue';
+import { ref, onMounted, computed } from 'vue';
 
 const route = useRoute();
 const pod = get_pod_by_slug(route.params.slug as string);
+const transcriptText = ref('');
+const isLoading = ref(true);
 
 const topicList = computed(() => {
-  return pod?.topic ? pod.topic.split(' - ') : [];
+  if (!pod || !pod.topic) return [];
+  return pod.topic.split(' - ');
+});
+
+const fetchTranscript = async () => {
+  if (pod) {
+    try {
+      // YouTube ID kinyerése és a fájl betöltése
+      const videoId = pod.yt.split('v=')[1] || pod.yt.split('/').pop();
+      const response = await fetch(`/transcripts_clean/ep${pod.id}_${videoId}.txt`);
+      
+      if (response.ok) {
+        transcriptText.value = await response.text();
+      } else {
+        transcriptText.value = "Az adás átirata hamarosan elérhető lesz.";
+      }
+    } catch (e) {
+      transcriptText.value = "Hiba történt a tartalom betöltésekor.";
+    } finally {
+      isLoading.value = false;
+    }
+  }
+};
+
+onMounted(() => {
+  fetchTranscript();
 });
 
 // Kiszámoljuk a leírást (SEO barát hosszúság)
@@ -23,22 +50,37 @@ const seoDescription = computed(() => {
 useHead({
   title: computed(() => pod ? `${pod.id}: ${pod.name} | HUSZONEGY Bitcoin podcast` : 'HUSZONEGY Podcast'),
   meta: [
+    { name: 'description', content: seoDescription },
+    { name: 'author', content: computed(() => pod?.members.join(', ') || 'HUSZONEGY csapat') },
+    // Open Graph (Facebook, Discord stb.)
+    { property: 'og:title', content: computed(() => pod?.name || '') },
+    { property: 'og:description', content: seoDescription },
+    { property: 'og:image', content: computed(() => pod ? `https://huszonegy.world${pod.img}` : '') },
+    { property: 'og:type', content: 'video.episode' },
+    // Twitter
+    { name: 'twitter:card', content: 'summary_large_image' },
+    { name: 'twitter:title', content: computed(() => pod?.name || '') },
+  ],
+  link: [
+    { rel: 'canonical', href: computed(() => `https://huszonegy.world${route.fullPath}`) }
+  ],
+  script: [
     {
-      name: 'description',
-      content: seoDescription
-    },
-    // Opcionális: Közösségi média (Open Graph) cím és leírás
-    {
-      property: 'og:title',
-      content: computed(() => pod ? pod.name : '')
-    },
-    {
-      property: 'og:description',
-      content: seoDescription
-    },
-    {
-      property: 'og:image',
-      content: computed(() => pod ? `https://huszonegy.world${pod.img}` : '')
+      type: 'application/ld+json',
+      children: computed(() => JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "PodcastEpisode",
+        "name": pod?.name,
+        "description": pod?.topic,
+        "datePublished": pod?.date, // Győződj meg róla, hogy ez ISO formátum-e
+        "image": `https://huszonegy.world${pod?.img}`,
+        "url": `https://huszonegy.world${route.fullPath}`,
+        "partOfSeries": {
+          "@type": "PodcastSeries",
+          "name": "HUSZONEGY Bitcoin Podcast",
+          "url": "https://huszonegy.world/podcast"
+        }
+      }))
     }
   ]
 });
@@ -75,13 +117,25 @@ useHead({
           </div>
 
           <div class="description-area text-start mt-5">
-            <h2 class="label mb-2">Témák:</h2>
+            <h2 class="label mb-3">Témák</h2>
             <ul class="topic-list">
               <li v-for="(item, index) in topicList" :key="index" class="topic-item">
                 {{ item }} </li>
             </ul>
           </div>
-          
+
+          <section class="transcript-section text-start mt-5">
+            <h2 class="label mb-3">Átirat</h2>
+            
+            <div v-if="isLoading" class="text-center py-5">
+              <div class="spinner-border text-warning" role="status"></div>
+              <p class="mt-2 text-muted">Szöveg betöltése...</p>
+            </div>
+
+            <div v-else class="transcript-content">
+              {{ transcriptText }}
+            </div>
+          </section>
         </div>
 
         <div class="text-center mt-4">
@@ -230,6 +284,23 @@ useHead({
 @media (max-width: 768px) {
   .episode-title { font-size: 1.4rem; }
   .btn { width: 100%; justify-content: center; }
+}
+
+.text-orange { color: #ff9900; }
+
+.transcript-content {
+  white-space: pre-wrap; /* Megtartja a sortöréseket */
+  line-height: 1.8;
+  font-size: 1.1rem;
+  color: #f0f0f0;
+  text-align: justify;
+  /* Nincs max-height, így hosszan fut lefelé az oldalon */
+}
+
+/* Finom hangsúly a bekezdéseknek, ha az AI már végzett */
+.description-area, .transcript-section {
+  max-width: 850px; /* Olvashatóbb szélesség a hosszú szöveghez */
+  margin: 0 auto;
 }
 
 </style>

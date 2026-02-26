@@ -1,0 +1,9955 @@
+1
+00:00:00,654 --> 00:00:03,149
+
+[zene]
+
+2
+00:00:03,149 --> 00:00:03,159
+
+ 
+
+3
+00:00:03,159 --> 00:00:05,910
+
+Sziasztok! Üdv mindenkinek! Ez itt a 81.
+
+4
+00:00:05,910 --> 00:00:05,920
+Sziasztok! Üdv mindenkinek! Ez itt a 81.
+ 
+
+5
+00:00:05,920 --> 00:00:08,790
+Sziasztok! Üdv mindenkinek! Ez itt a 81.
+epizódja a 21 Bitcoin podcastnak, és a
+
+6
+00:00:08,790 --> 00:00:08,800
+epizódja a 21 Bitcoin podcastnak, és a
+ 
+
+7
+00:00:08,800 --> 00:00:11,749
+epizódja a 21 Bitcoin podcastnak, és a
+mai vendégünk [zene] ismét Kata.
+
+8
+00:00:11,749 --> 00:00:11,759
+mai vendégünk [zene] ismét Kata.
+ 
+
+9
+00:00:11,759 --> 00:00:14,509
+mai vendégünk [zene] ismét Kata.
+ugyanis a legutóbbi adásba, hát nem azt
+
+10
+00:00:14,509 --> 00:00:14,519
+ugyanis a legutóbbi adásba, hát nem azt
+ 
+
+11
+00:00:14,519 --> 00:00:16,550
+ugyanis a legutóbbi adásba, hát nem azt
+mondom, hogy ígéretet tett, de volt róla
+
+12
+00:00:16,550 --> 00:00:16,560
+mondom, hogy ígéretet tett, de volt róla
+ 
+
+13
+00:00:16,560 --> 00:00:18,630
+mondom, hogy ígéretet tett, de volt róla
+szó arról, miről is, hogy egy kicsit így
+
+14
+00:00:18,630 --> 00:00:18,640
+szó arról, miről is, hogy egy kicsit így
+ 
+
+15
+00:00:18,640 --> 00:00:21,189
+szó arról, miről is, hogy egy kicsit így
+a jogszabályi környezetbe belemászunk,
+
+16
+00:00:21,189 --> 00:00:21,199
+a jogszabályi környezetbe belemászunk,
+ 
+
+17
+00:00:21,199 --> 00:00:23,150
+a jogszabályi környezetbe belemászunk,
+illetve hát az ő segítségével, illetve
+
+18
+00:00:23,150 --> 00:00:23,160
+illetve hát az ő segítségével, illetve
+ 
+
+19
+00:00:23,160 --> 00:00:26,550
+illetve hát az ő segítségével, illetve
+hát pontosabban ő, és kikerekíti ezt az
+
+20
+00:00:26,550 --> 00:00:26,560
+hát pontosabban ő, és kikerekíti ezt az
+ 
+
+21
+00:00:26,560 --> 00:00:29,150
+hát pontosabban ő, és kikerekíti ezt az
+egész történetet, hogy hogyan is indul
+
+22
+00:00:29,150 --> 00:00:29,160
+egész történetet, hogy hogyan is indul
+ 
+
+23
+00:00:29,160 --> 00:00:31,429
+egész történetet, hogy hogyan is indul
+el ez a magyar szabályozás, mi az, amit
+
+24
+00:00:31,429 --> 00:00:31,439
+el ez a magyar szabályozás, mi az, amit
+ 
+
+25
+00:00:31,439 --> 00:00:33,590
+el ez a magyar szabályozás, mi az, amit
+erről lehet tudni, mi az a múlt heti
+
+26
+00:00:33,590 --> 00:00:33,600
+erről lehet tudni, mi az a múlt heti
+ 
+
+27
+00:00:33,600 --> 00:00:35,630
+erről lehet tudni, mi az a múlt heti
+STFH rendelet, ami kijött, és hogyan
+
+28
+00:00:35,630 --> 00:00:35,640
+STFH rendelet, ami kijött, és hogyan
+ 
+
+29
+00:00:35,640 --> 00:00:38,229
+STFH rendelet, ami kijött, és hogyan
+szabályozgatja itt ezeket a részeket.
+
+30
+00:00:38,229 --> 00:00:38,239
+szabályozgatja itt ezeket a részeket.
+ 
+
+31
+00:00:38,239 --> 00:00:40,150
+szabályozgatja itt ezeket a részeket.
+Úgyhogy én nem is húznám nagyon itt ezt
+
+32
+00:00:40,150 --> 00:00:40,160
+Úgyhogy én nem is húznám nagyon itt ezt
+ 
+
+33
+00:00:40,160 --> 00:00:42,150
+Úgyhogy én nem is húznám nagyon itt ezt
+a tésztát,
+
+34
+00:00:42,150 --> 00:00:42,160
+a tésztát,
+ 
+
+35
+00:00:42,160 --> 00:00:44,670
+a tésztát,
+hanem át is adnám a szót Katának, a mi
+
+36
+00:00:44,670 --> 00:00:44,680
+hanem át is adnám a szót Katának, a mi
+ 
+
+37
+00:00:44,680 --> 00:00:46,990
+hanem át is adnám a szót Katának, a mi
+jól ismert jogászunknak, aki ezen a
+
+38
+00:00:46,990 --> 00:00:47,000
+jól ismert jogászunknak, aki ezen a
+ 
+
+39
+00:00:47,000 --> 00:00:49,350
+jól ismert jogászunknak, aki ezen a
+területen már megedződött nagyon, és
+
+40
+00:00:49,350 --> 00:00:49,360
+területen már megedződött nagyon, és
+ 
+
+41
+00:00:49,360 --> 00:00:51,510
+területen már megedződött nagyon, és
+fejtsse ki ő, hogy mi is ez a terület
+
+42
+00:00:51,510 --> 00:00:51,520
+fejtsse ki ő, hogy mi is ez a terület
+ 
+
+43
+00:00:51,520 --> 00:00:53,069
+fejtsse ki ő, hogy mi is ez a terület
+pontosan,
+
+44
+00:00:53,069 --> 00:00:53,079
+pontosan,
+ 
+
+45
+00:00:53,079 --> 00:00:54,389
+pontosan,
+ami itt minket érint.
+
+46
+00:00:54,389 --> 00:00:54,399
+ami itt minket érint.
+ 
+
+47
+00:00:54,399 --> 00:00:58,509
+ami itt minket érint.
+>> Sziasztok! Újra újra itt 80 és 81.
+
+48
+00:00:58,509 --> 00:00:58,519
+>> Sziasztok! Újra újra itt 80 és 81.
+ 
+
+49
+00:00:58,519 --> 00:01:01,869
+>> Sziasztok! Újra újra itt 80 és 81.
+adásban is. De jó!
+
+50
+00:01:01,869 --> 00:01:01,879
+adásban is. De jó!
+ 
+
+51
+00:01:01,879 --> 00:01:04,630
+adásban is. De jó!
+Na nem félre a tréfát. Tényleg ígéretet
+
+52
+00:01:04,630 --> 00:01:04,640
+Na nem félre a tréfát. Tényleg ígéretet
+ 
+
+53
+00:01:04,640 --> 00:01:07,310
+Na nem félre a tréfát. Tényleg ígéretet
+tettem, hogy egy kicsivel nagyobb átfogó
+
+54
+00:01:07,310 --> 00:01:07,320
+tettem, hogy egy kicsivel nagyobb átfogó
+ 
+
+55
+00:01:07,320 --> 00:01:10,070
+tettem, hogy egy kicsivel nagyobb átfogó
+képet adjak itt a magyarországi
+
+56
+00:01:10,070 --> 00:01:10,080
+képet adjak itt a magyarországi
+ 
+
+57
+00:01:10,080 --> 00:01:12,429
+képet adjak itt a magyarországi
+szabályozásról, hiszen oly sok kérdést
+
+58
+00:01:12,429 --> 00:01:12,439
+szabályozásról, hiszen oly sok kérdést
+ 
+
+59
+00:01:12,439 --> 00:01:14,109
+szabályozásról, hiszen oly sok kérdést
+tettetek fel és tesztek fel
+
+60
+00:01:14,109 --> 00:01:14,119
+tettetek fel és tesztek fel
+ 
+
+61
+00:01:14,119 --> 00:01:15,910
+tettetek fel és tesztek fel
+folyamatosan, hogy akkor most
+
+62
+00:01:15,910 --> 00:01:15,920
+folyamatosan, hogy akkor most
+ 
+
+63
+00:01:15,920 --> 00:01:18,670
+folyamatosan, hogy akkor most
+bűncselekménye, nem bűncselekménye, mi
+
+64
+00:01:18,670 --> 00:01:18,680
+bűncselekménye, nem bűncselekménye, mi
+ 
+
+65
+00:01:18,680 --> 00:01:21,310
+bűncselekménye, nem bűncselekménye, mi
+újság a fali újság ezzel? És ugye kijött
+
+66
+00:01:21,310 --> 00:01:21,320
+újság a fali újság ezzel? És ugye kijött
+ 
+
+67
+00:01:21,320 --> 00:01:24,429
+újság a fali újság ezzel? És ugye kijött
+a múlt héten a várva várt rendelet, ami
+
+68
+00:01:24,429 --> 00:01:24,439
+a múlt héten a várva várt rendelet, ami
+ 
+
+69
+00:01:24,439 --> 00:01:26,749
+a múlt héten a várva várt rendelet, ami
+egy kicsit eloszlatta itt a dolgokat.
+
+70
+00:01:26,749 --> 00:01:26,759
+egy kicsit eloszlatta itt a dolgokat.
+ 
+
+71
+00:01:26,759 --> 00:01:28,190
+egy kicsit eloszlatta itt a dolgokat.
+Úgyhogy arra gondoltam, hogy nagyon
+
+72
+00:01:28,190 --> 00:01:28,200
+Úgyhogy arra gondoltam, hogy nagyon
+ 
+
+73
+00:01:28,200 --> 00:01:30,510
+Úgyhogy arra gondoltam, hogy nagyon
+röviden egy ilyen átfogó képet adnék
+
+74
+00:01:30,510 --> 00:01:30,520
+röviden egy ilyen átfogó képet adnék
+ 
+
+75
+00:01:30,520 --> 00:01:32,109
+röviden egy ilyen átfogó képet adnék
+arról, hogy akkor most hogy áll
+
+76
+00:01:32,109 --> 00:01:32,119
+arról, hogy akkor most hogy áll
+ 
+
+77
+00:01:32,119 --> 00:01:34,069
+arról, hogy akkor most hogy áll
+Magyarországon a kriptoeszközök
+
+78
+00:01:34,069 --> 00:01:34,079
+Magyarországon a kriptoeszközök
+ 
+
+79
+00:01:34,079 --> 00:01:35,749
+Magyarországon a kriptoeszközök
+szabályozása, illetve a kriptoeszköz
+
+80
+00:01:35,749 --> 00:01:35,759
+szabályozása, illetve a kriptoeszköz
+ 
+
+81
+00:01:35,759 --> 00:01:37,870
+szabályozása, illetve a kriptoeszköz
+szolgáltatók szabályozása. Tehát
+
+82
+00:01:37,870 --> 00:01:37,880
+szolgáltatók szabályozása. Tehát
+ 
+
+83
+00:01:37,880 --> 00:01:40,270
+szolgáltatók szabályozása. Tehát
+induljunk egy kicsit hátrébbról. Ugye a
+
+84
+00:01:40,270 --> 00:01:40,280
+induljunk egy kicsit hátrébbról. Ugye a
+ 
+
+85
+00:01:40,280 --> 00:01:42,190
+induljunk egy kicsit hátrébbról. Ugye a
+mikendelet az, ami meghatározta a
+
+86
+00:01:42,190 --> 00:01:42,200
+mikendelet az, ami meghatározta a
+ 
+
+87
+00:01:42,200 --> 00:01:44,630
+mikendelet az, ami meghatározta a
+kriptoeszközök piacára vonatkozó
+
+88
+00:01:44,630 --> 00:01:44,640
+kriptoeszközök piacára vonatkozó
+ 
+
+89
+00:01:44,640 --> 00:01:46,870
+kriptoeszközök piacára vonatkozó
+szabályokat. Ez egy európai uniós
+
+90
+00:01:46,870 --> 00:01:46,880
+szabályokat. Ez egy európai uniós
+ 
+
+91
+00:01:46,880 --> 00:01:48,749
+szabályokat. Ez egy európai uniós
+rendelet, egészen pontosan a
+
+92
+00:01:48,749 --> 00:01:48,759
+rendelet, egészen pontosan a
+ 
+
+93
+00:01:48,759 --> 00:01:51,950
+rendelet, egészen pontosan a
+2023/1114-es
+
+94
+00:01:51,950 --> 00:01:51,960
+
+ 
+
+95
+00:01:51,960 --> 00:01:54,950
+
+rendelet, ami 2023-ban már hatályba is
+
+96
+00:01:54,950 --> 00:01:54,960
+rendelet, ami 2023-ban már hatályba is
+ 
+
+97
+00:01:54,960 --> 00:01:57,469
+rendelet, ami 2023-ban már hatályba is
+lépett. 2020, tehát fokozatosan lépett
+
+98
+00:01:57,469 --> 00:01:57,479
+lépett. 2020, tehát fokozatosan lépett
+ 
+
+99
+00:01:57,479 --> 00:01:59,990
+lépett. 2020, tehát fokozatosan lépett
+hatályba, és a különböző tagországok
+
+100
+00:01:59,990 --> 00:02:00,000
+hatályba, és a különböző tagországok
+ 
+
+101
+00:02:00,000 --> 00:02:02,590
+hatályba, és a különböző tagországok
+különböző hatályba lépési időpontokat
+
+102
+00:02:02,590 --> 00:02:02,600
+különböző hatályba lépési időpontokat
+ 
+
+103
+00:02:02,600 --> 00:02:04,510
+különböző hatályba lépési időpontokat
+választhattak meg. Ez ugye benne volt a
+
+104
+00:02:04,510 --> 00:02:04,520
+választhattak meg. Ez ugye benne volt a
+ 
+
+105
+00:02:04,520 --> 00:02:07,749
+választhattak meg. Ez ugye benne volt a
+rendeletben, ami csak a legvégső dátumot
+
+106
+00:02:07,749 --> 00:02:07,759
+rendeletben, ami csak a legvégső dátumot
+ 
+
+107
+00:02:07,759 --> 00:02:09,990
+rendeletben, ami csak a legvégső dátumot
+határozta meg, hogy mi az a legvégső
+
+108
+00:02:09,990 --> 00:02:10,000
+határozta meg, hogy mi az a legvégső
+ 
+
+109
+00:02:10,000 --> 00:02:12,350
+határozta meg, hogy mi az a legvégső
+dátum, amikor minden tagállamban a
+
+110
+00:02:12,350 --> 00:02:12,360
+dátum, amikor minden tagállamban a
+ 
+
+111
+00:02:12,360 --> 00:02:14,750
+dátum, amikor minden tagállamban a
+Mikának hatályosulnia kell. Ezt nevezzük
+
+112
+00:02:14,750 --> 00:02:14,760
+Mikának hatályosulnia kell. Ezt nevezzük
+ 
+
+113
+00:02:14,760 --> 00:02:16,550
+Mikának hatályosulnia kell. Ezt nevezzük
+az úgynevezett grandfathering
+
+114
+00:02:16,550 --> 00:02:16,560
+az úgynevezett grandfathering
+ 
+
+115
+00:02:16,560 --> 00:02:18,110
+az úgynevezett grandfathering
+periódusnak.
+
+116
+00:02:18,110 --> 00:02:18,120
+periódusnak.
+ 
+
+117
+00:02:18,120 --> 00:02:19,110
+periódusnak.
+>> Azta!
+
+118
+00:02:19,110 --> 00:02:19,120
+>> Azta!
+ 
+
+119
+00:02:19,120 --> 00:02:20,190
+>> Azta!
+>> Ugye milyen szép!
+
+120
+00:02:20,190 --> 00:02:20,200
+>> Ugye milyen szép!
+ 
+
+121
+00:02:20,200 --> 00:02:22,430
+>> Ugye milyen szép!
+>> És az a jövő július vagy hogy is van?
+
+122
+00:02:22,430 --> 00:02:22,440
+>> És az a jövő július vagy hogy is van?
+ 
+
+123
+00:02:22,440 --> 00:02:23,309
+>> És az a jövő július vagy hogy is van?
+>> Nem, Magyarország
+
+124
+00:02:23,309 --> 00:02:23,319
+>> Nem, Magyarország
+ 
+
+125
+00:02:23,319 --> 00:02:26,869
+>> Nem, Magyarország
+>> ez a legutolsó dátum. Magyarország hat
+
+126
+00:02:26,869 --> 00:02:26,879
+>> ez a legutolsó dátum. Magyarország hat
+ 
+
+127
+00:02:26,879 --> 00:02:29,910
+>> ez a legutolsó dátum. Magyarország hat
+hónapot vállalt. 18 hónap volt a
+
+128
+00:02:29,910 --> 00:02:29,920
+hónapot vállalt. 18 hónap volt a
+ 
+
+129
+00:02:29,920 --> 00:02:32,270
+hónapot vállalt. 18 hónap volt a
+maximum, amelyet a a különböző
+
+130
+00:02:32,270 --> 00:02:32,280
+maximum, amelyet a a különböző
+ 
+
+131
+00:02:32,280 --> 00:02:35,509
+maximum, amelyet a a különböző
+tagállamok vállalhattak. Magyarország
+
+132
+00:02:35,509 --> 00:02:35,519
+tagállamok vállalhattak. Magyarország
+ 
+
+133
+00:02:35,519 --> 00:02:37,470
+tagállamok vállalhattak. Magyarország
+hat hónapot vállalt, mert mi nagyon jól
+
+134
+00:02:37,470 --> 00:02:37,480
+hat hónapot vállalt, mert mi nagyon jól
+ 
+
+135
+00:02:37,480 --> 00:02:39,990
+hat hónapot vállalt, mert mi nagyon jól
+fel voltunk készülve a kriptaeszközök
+
+136
+00:02:39,990 --> 00:02:40,000
+fel voltunk készülve a kriptaeszközök
+ 
+
+137
+00:02:40,000 --> 00:02:42,270
+fel voltunk készülve a kriptaeszközök
+piacának szabályozására. Gyerek.
+
+138
+00:02:42,270 --> 00:02:42,280
+piacának szabályozására. Gyerek.
+ 
+
+139
+00:02:42,280 --> 00:02:45,030
+piacának szabályozására. Gyerek.
+>> Így van. Ezért mi megcsináltuk a házi
+
+140
+00:02:45,030 --> 00:02:45,040
+>> Így van. Ezért mi megcsináltuk a házi
+ 
+
+141
+00:02:45,040 --> 00:02:47,470
+>> Így van. Ezért mi megcsináltuk a házi
+feladatunkat és hat hónap alatt
+
+142
+00:02:47,470 --> 00:02:47,480
+feladatunkat és hat hónap alatt
+ 
+
+143
+00:02:47,480 --> 00:02:50,550
+feladatunkat és hat hónap alatt
+implementáltuk a szabályokat. Ez csak
+
+144
+00:02:50,550 --> 00:02:50,560
+implementáltuk a szabályokat. Ez csak
+ 
+
+145
+00:02:50,560 --> 00:02:52,070
+implementáltuk a szabályokat. Ez csak
+vicc.
+
+146
+00:02:52,070 --> 00:02:52,080
+vicc.
+ 
+
+147
+00:02:52,080 --> 00:02:54,270
+vicc.
+A Mika megteremtette ugye az egységes
+
+148
+00:02:54,270 --> 00:02:54,280
+A Mika megteremtette ugye az egységes
+ 
+
+149
+00:02:54,280 --> 00:02:57,270
+A Mika megteremtette ugye az egységes
+uniós keretet, ugye itt a kriptoeszközök
+
+150
+00:02:57,270 --> 00:02:57,280
+uniós keretet, ugye itt a kriptoeszközök
+ 
+
+151
+00:02:57,280 --> 00:03:00,149
+uniós keretet, ugye itt a kriptoeszközök
+és azok szolgáltatóinak számára, ugye
+
+152
+00:03:00,149 --> 00:03:00,159
+és azok szolgáltatóinak számára, ugye
+ 
+
+153
+00:03:00,159 --> 00:03:03,350
+és azok szolgáltatóinak számára, ugye
+őket hívjuk CASPOKnak és ugye pontosan
+
+154
+00:03:03,350 --> 00:03:03,360
+őket hívjuk CASPOKnak és ugye pontosan
+ 
+
+155
+00:03:03,360 --> 00:03:05,789
+őket hívjuk CASPOKnak és ugye pontosan
+meghatározza, hogy mi a mi a mi a
+
+156
+00:03:05,789 --> 00:03:05,799
+meghatározza, hogy mi a mi a mi a
+ 
+
+157
+00:03:05,799 --> 00:03:08,149
+meghatározza, hogy mi a mi a mi a
+kriptoeszköz, mi számít kriptoeszköznek,
+
+158
+00:03:08,149 --> 00:03:08,159
+kriptoeszköz, mi számít kriptoeszköznek,
+ 
+
+159
+00:03:08,159 --> 00:03:10,470
+kriptoeszköz, mi számít kriptoeszköznek,
+mit jelent a váltás. Most csak kiragadok
+
+160
+00:03:10,470 --> 00:03:10,480
+mit jelent a váltás. Most csak kiragadok
+ 
+
+161
+00:03:10,480 --> 00:03:12,149
+mit jelent a váltás. Most csak kiragadok
+dolgokat, mert nagyon-nagyon sok mindent
+
+162
+00:03:12,149 --> 00:03:12,159
+dolgokat, mert nagyon-nagyon sok mindent
+ 
+
+163
+00:03:12,159 --> 00:03:14,030
+dolgokat, mert nagyon-nagyon sok mindent
+szabályoz, de azokat a pontokat próbálom
+
+164
+00:03:14,030 --> 00:03:14,040
+szabályoz, de azokat a pontokat próbálom
+ 
+
+165
+00:03:14,040 --> 00:03:15,350
+szabályoz, de azokat a pontokat próbálom
+kiragadni, ami számunkra jelen
+
+166
+00:03:15,350 --> 00:03:15,360
+kiragadni, ami számunkra jelen
+ 
+
+167
+00:03:15,360 --> 00:03:17,750
+kiragadni, ami számunkra jelen
+pillanatban fontosak. Tehát mit jelent a
+
+168
+00:03:17,750 --> 00:03:17,760
+pillanatban fontosak. Tehát mit jelent a
+ 
+
+169
+00:03:17,760 --> 00:03:20,910
+pillanatban fontosak. Tehát mit jelent a
+váltás és hogy mit jelent, illetve hogy
+
+170
+00:03:20,910 --> 00:03:20,920
+váltás és hogy mit jelent, illetve hogy
+ 
+
+171
+00:03:20,920 --> 00:03:23,229
+váltás és hogy mit jelent, illetve hogy
+kimondja, hogy az ilyen tevékenységeket
+
+172
+00:03:23,229 --> 00:03:23,239
+kimondja, hogy az ilyen tevékenységeket
+ 
+
+173
+00:03:23,239 --> 00:03:25,470
+kimondja, hogy az ilyen tevékenységeket
+ugye csak az engedéllyel rendelkező
+
+174
+00:03:25,470 --> 00:03:25,480
+ugye csak az engedéllyel rendelkező
+ 
+
+175
+00:03:25,480 --> 00:03:27,149
+ugye csak az engedéllyel rendelkező
+szolgáltatók
+
+176
+00:03:27,149 --> 00:03:27,159
+szolgáltatók
+ 
+
+177
+00:03:27,159 --> 00:03:28,910
+szolgáltatók
+végezhetik.
+
+178
+00:03:28,910 --> 00:03:28,920
+végezhetik.
+ 
+
+179
+00:03:28,920 --> 00:03:30,710
+végezhetik.
+Magyarországon tehát a hat hónapot
+
+180
+00:03:30,710 --> 00:03:30,720
+Magyarországon tehát a hat hónapot
+ 
+
+181
+00:03:30,720 --> 00:03:33,470
+Magyarországon tehát a hat hónapot
+követően ezt a magyar kriptörvény
+
+182
+00:03:33,470 --> 00:03:33,480
+követően ezt a magyar kriptörvény
+ 
+
+183
+00:03:33,480 --> 00:03:35,750
+követően ezt a magyar kriptörvény
+ültette át a magyar jogrendbe. Ugye ez
+
+184
+00:03:35,750 --> 00:03:35,760
+ültette át a magyar jogrendbe. Ugye ez
+ 
+
+185
+00:03:35,760 --> 00:03:38,309
+ültette át a magyar jogrendbe. Ugye ez
+volt a 2024-es
+
+186
+00:03:38,309 --> 00:03:38,319
+volt a 2024-es
+ 
+
+187
+00:03:38,319 --> 00:03:40,710
+volt a 2024-es
+2024 évi nyolcas törvény. Egészen
+
+188
+00:03:40,710 --> 00:03:40,720
+2024 évi nyolcas törvény. Egészen
+ 
+
+189
+00:03:40,720 --> 00:03:42,229
+2024 évi nyolcas törvény. Egészen
+pontosan
+
+190
+00:03:42,229 --> 00:03:42,239
+pontosan
+ 
+
+191
+00:03:42,239 --> 00:03:43,949
+pontosan
+ugye ez a törvény hozta létre a magyar
+
+192
+00:03:43,949 --> 00:03:43,959
+ugye ez a törvény hozta létre a magyar
+ 
+
+193
+00:03:43,959 --> 00:03:45,710
+ugye ez a törvény hozta létre a magyar
+joggrendben az alapokat. Tehát a Magyar
+
+194
+00:03:45,710 --> 00:03:45,720
+joggrendben az alapokat. Tehát a Magyar
+ 
+
+195
+00:03:45,720 --> 00:03:48,830
+joggrendben az alapokat. Tehát a Magyar
+Nemzeti Bank lett az engedélyező hatóság
+
+196
+00:03:48,830 --> 00:03:48,840
+Nemzeti Bank lett az engedélyező hatóság
+ 
+
+197
+00:03:48,840 --> 00:03:50,830
+Nemzeti Bank lett az engedélyező hatóság
+a Mika szerinti kriptoszolgáltatók
+
+198
+00:03:50,830 --> 00:03:50,840
+a Mika szerinti kriptoszolgáltatók
+ 
+
+199
+00:03:50,840 --> 00:03:53,190
+a Mika szerinti kriptoszolgáltatók
+számára. Tehát hogyha valaki szeretne
+
+200
+00:03:53,190 --> 00:03:53,200
+számára. Tehát hogyha valaki szeretne
+ 
+
+201
+00:03:53,200 --> 00:03:55,429
+számára. Tehát hogyha valaki szeretne
+kriptoeszközsz szolgáltatóvá válni,
+
+202
+00:03:55,429 --> 00:03:55,439
+kriptoeszközsz szolgáltatóvá válni,
+ 
+
+203
+00:03:55,439 --> 00:03:57,670
+kriptoeszközsz szolgáltatóvá válni,
+akkor a Magyar Nemzeti Bankhoz kell
+
+204
+00:03:57,670 --> 00:03:57,680
+akkor a Magyar Nemzeti Bankhoz kell
+ 
+
+205
+00:03:57,680 --> 00:04:00,390
+akkor a Magyar Nemzeti Bankhoz kell
+folyamodni az engedélykérelemmel.
+
+206
+00:04:00,390 --> 00:04:00,400
+folyamodni az engedélykérelemmel.
+ 
+
+207
+00:04:00,400 --> 00:04:01,949
+folyamodni az engedélykérelemmel.
+összehangolta ugye a kriptoeszköz
+
+208
+00:04:01,949 --> 00:04:01,959
+összehangolta ugye a kriptoeszköz
+ 
+
+209
+00:04:01,959 --> 00:04:03,789
+összehangolta ugye a kriptoeszköz
+átváltásával és kibocsátásával
+
+210
+00:04:03,789 --> 00:04:03,799
+átváltásával és kibocsátásával
+ 
+
+211
+00:04:03,799 --> 00:04:06,350
+átváltásával és kibocsátásával
+kapcsolatos fogalmakat ugye az uniós
+
+212
+00:04:06,350 --> 00:04:06,360
+kapcsolatos fogalmakat ugye az uniós
+ 
+
+213
+00:04:06,360 --> 00:04:07,869
+kapcsolatos fogalmakat ugye az uniós
+terminológiával
+
+214
+00:04:07,869 --> 00:04:07,879
+terminológiával
+ 
+
+215
+00:04:07,879 --> 00:04:09,350
+terminológiával
+és hát lefektette itt nekünk a
+
+216
+00:04:09,350 --> 00:04:09,360
+és hát lefektette itt nekünk a
+ 
+
+217
+00:04:09,360 --> 00:04:11,429
+és hát lefektette itt nekünk a
+játékszabályokat
+
+218
+00:04:11,429 --> 00:04:11,439
+játékszabályokat
+ 
+
+219
+00:04:11,439 --> 00:04:12,509
+játékszabályokat
+a kriptovóval kapcsolatos
+
+220
+00:04:12,509 --> 00:04:12,519
+a kriptovóval kapcsolatos
+ 
+
+221
+00:04:12,519 --> 00:04:14,069
+a kriptovóval kapcsolatos
+tevékenységeket
+
+222
+00:04:14,069 --> 00:04:14,079
+tevékenységeket
+ 
+
+223
+00:04:14,079 --> 00:04:15,789
+tevékenységeket
+milyen szabályok szerint lehet űzni
+
+224
+00:04:15,789 --> 00:04:15,799
+milyen szabályok szerint lehet űzni
+ 
+
+225
+00:04:15,799 --> 00:04:18,509
+milyen szabályok szerint lehet űzni
+Magyarországon a magyar jogalkotó nem
+
+226
+00:04:18,509 --> 00:04:18,519
+Magyarországon a magyar jogalkotó nem
+ 
+
+227
+00:04:18,519 --> 00:04:21,270
+Magyarországon a magyar jogalkotó nem
+állt meg a Mikánál hanem hozott egy
+
+228
+00:04:21,270 --> 00:04:21,280
+állt meg a Mikánál hanem hozott egy
+ 
+
+229
+00:04:21,280 --> 00:04:23,430
+állt meg a Mikánál hanem hozott egy
+olyan hazai kiegészítést ahol se amit
+
+230
+00:04:23,430 --> 00:04:23,440
+olyan hazai kiegészítést ahol se amit
+ 
+
+231
+00:04:23,440 --> 00:04:26,189
+olyan hazai kiegészítést ahol se amit
+sehol máshol Európában nem látunk ilyen
+
+232
+00:04:26,189 --> 00:04:26,199
+sehol máshol Európában nem látunk ilyen
+ 
+
+233
+00:04:26,199 --> 00:04:28,390
+sehol máshol Európában nem látunk ilyen
+formában ugye ezt 2025 nyarán
+
+234
+00:04:28,390 --> 00:04:28,400
+formában ugye ezt 2025 nyarán
+ 
+
+235
+00:04:28,400 --> 00:04:32,350
+formában ugye ezt 2025 nyarán
+módosította ezt a 2024-es kripto
+
+236
+00:04:32,350 --> 00:04:32,360
+módosította ezt a 2024-es kripto
+ 
+
+237
+00:04:32,360 --> 00:04:33,990
+módosította ezt a 2024-es kripto
+törvényt,
+
+238
+00:04:33,990 --> 00:04:34,000
+törvényt,
+ 
+
+239
+00:04:34,000 --> 00:04:36,790
+törvényt,
+és ezzel megszületett a kriptoeszköz
+
+240
+00:04:36,790 --> 00:04:36,800
+és ezzel megszületett a kriptoeszköz
+ 
+
+241
+00:04:36,800 --> 00:04:39,390
+és ezzel megszületett a kriptoeszköz
+átváltás validálására irányuló
+
+242
+00:04:39,390 --> 00:04:39,400
+átváltás validálására irányuló
+ 
+
+243
+00:04:39,400 --> 00:04:41,629
+átváltás validálására irányuló
+kötelezettség, illetve validáló
+
+244
+00:04:41,629 --> 00:04:41,639
+kötelezettség, illetve validáló
+ 
+
+245
+00:04:41,639 --> 00:04:44,469
+kötelezettség, illetve validáló
+szolgáltatókra vonatkozó előírás. Tehát
+
+246
+00:04:44,469 --> 00:04:44,479
+szolgáltatókra vonatkozó előírás. Tehát
+ 
+
+247
+00:04:44,479 --> 00:04:46,070
+szolgáltatókra vonatkozó előírás. Tehát
+ez gyakorlatilag egy ilyen előzetes
+
+248
+00:04:46,070 --> 00:04:46,080
+ez gyakorlatilag egy ilyen előzetes
+ 
+
+249
+00:04:46,080 --> 00:04:48,909
+ez gyakorlatilag egy ilyen előzetes
+megfelelősségi ellenőrzést jelent minden
+
+250
+00:04:48,909 --> 00:04:48,919
+megfelelősségi ellenőrzést jelent minden
+ 
+
+251
+00:04:48,919 --> 00:04:51,749
+megfelelősségi ellenőrzést jelent minden
+kriptoeszköz váltásra. És akkor itt
+
+252
+00:04:51,749 --> 00:04:51,759
+kriptoeszköz váltásra. És akkor itt
+ 
+
+253
+00:04:51,759 --> 00:04:53,629
+kriptoeszköz váltásra. És akkor itt
+hamar álljunk is meg, és tisztázzunk egy
+
+254
+00:04:53,629 --> 00:04:53,639
+hamar álljunk is meg, és tisztázzunk egy
+ 
+
+255
+00:04:53,639 --> 00:04:55,270
+hamar álljunk is meg, és tisztázzunk egy
+fogalmat,
+
+256
+00:04:55,270 --> 00:04:55,280
+fogalmat,
+ 
+
+257
+00:04:55,280 --> 00:04:57,950
+fogalmat,
+mert ugye itt van egy óriási félreértés,
+
+258
+00:04:57,950 --> 00:04:57,960
+mert ugye itt van egy óriási félreértés,
+ 
+
+259
+00:04:57,960 --> 00:04:59,909
+mert ugye itt van egy óriási félreértés,
+amire már többször próbáltam felhívni a
+
+260
+00:04:59,909 --> 00:04:59,919
+amire már többször próbáltam felhívni a
+ 
+
+261
+00:04:59,919 --> 00:05:04,870
+amire már többször próbáltam felhívni a
+figyelmet, de üres süket fülekre talált.
+
+262
+00:05:04,870 --> 00:05:04,880
+figyelmet, de üres süket fülekre talált.
+ 
+
+263
+00:05:04,880 --> 00:05:05,550
+figyelmet, de üres süket fülekre talált.
+>> Üres fülekre
+
+264
+00:05:05,550 --> 00:05:05,560
+>> Üres fülekre
+ 
+
+265
+00:05:05,560 --> 00:05:07,990
+>> Üres fülekre
+>> a kiáltásom. Üres és sük még kevesen
+
+266
+00:05:07,990 --> 00:05:08,000
+>> a kiáltásom. Üres és sük még kevesen
+ 
+
+267
+00:05:08,000 --> 00:05:09,070
+>> a kiáltásom. Üres és sük még kevesen
+hallottuk meg.
+
+268
+00:05:09,070 --> 00:05:09,080
+hallottuk meg.
+ 
+
+269
+00:05:09,080 --> 00:05:10,870
+hallottuk meg.
+>> Vagy még kevesen hallottátok meg. Igen,
+
+270
+00:05:10,870 --> 00:05:10,880
+>> Vagy még kevesen hallottátok meg. Igen,
+ 
+
+271
+00:05:10,880 --> 00:05:13,230
+>> Vagy még kevesen hallottátok meg. Igen,
+az is igaz. Tehát ugye a kripto
+
+272
+00:05:13,230 --> 00:05:13,240
+az is igaz. Tehát ugye a kripto
+ 
+
+273
+00:05:13,240 --> 00:05:16,029
+az is igaz. Tehát ugye a kripto
+átváltásnak a fogalmát
+
+274
+00:05:16,029 --> 00:05:16,039
+átváltásnak a fogalmát
+ 
+
+275
+00:05:16,039 --> 00:05:19,469
+átváltásnak a fogalmát
+azt a mikarendelet szabályozza meg. És a
+
+276
+00:05:19,469 --> 00:05:19,479
+azt a mikarendelet szabályozza meg. És a
+ 
+
+277
+00:05:19,479 --> 00:05:23,029
+azt a mikarendelet szabályozza meg. És a
+mikorendelet azt mondja, hogy
+
+278
+00:05:23,029 --> 00:05:23,039
+mikorendelet azt mondja, hogy
+ 
+
+279
+00:05:23,039 --> 00:05:25,909
+mikorendelet azt mondja, hogy
+kriptoeszközszolgáltatás egyik fajtája a
+
+280
+00:05:25,909 --> 00:05:25,919
+kriptoeszközszolgáltatás egyik fajtája a
+ 
+
+281
+00:05:25,919 --> 00:05:28,550
+kriptoeszközszolgáltatás egyik fajtája a
+kripto eszközök pénzre történő
+
+282
+00:05:28,550 --> 00:05:28,560
+kripto eszközök pénzre történő
+ 
+
+283
+00:05:28,560 --> 00:05:31,309
+kripto eszközök pénzre történő
+átváltása. Ugye ezt, hogyha itt szó
+
+284
+00:05:31,309 --> 00:05:31,319
+átváltása. Ugye ezt, hogyha itt szó
+ 
+
+285
+00:05:31,319 --> 00:05:32,870
+átváltása. Ugye ezt, hogyha itt szó
+szerint próbáljuk értelmezni, akkor ez
+
+286
+00:05:32,870 --> 00:05:32,880
+szerint próbáljuk értelmezni, akkor ez
+ 
+
+287
+00:05:32,880 --> 00:05:34,150
+szerint próbáljuk értelmezni, akkor ez
+nyilvánvalóan azt jelenti, hogy a
+
+288
+00:05:34,150 --> 00:05:34,160
+nyilvánvalóan azt jelenti, hogy a
+ 
+
+289
+00:05:34,160 --> 00:05:36,469
+nyilvánvalóan azt jelenti, hogy a
+kriptopénzt fiat pénzre váltjuk.
+
+290
+00:05:36,469 --> 00:05:36,479
+kriptopénzt fiat pénzre váltjuk.
+ 
+
+291
+00:05:36,479 --> 00:05:39,430
+kriptopénzt fiat pénzre váltjuk.
+Ugyanakkor a
+
+292
+00:05:39,430 --> 00:05:39,440
+Ugyanakkor a
+ 
+
+293
+00:05:39,440 --> 00:05:43,230
+Ugyanakkor a
+full definíció szerint a a kriptoeszköz
+
+294
+00:05:43,230 --> 00:05:43,240
+full definíció szerint a a kriptoeszköz
+ 
+
+295
+00:05:43,240 --> 00:05:45,629
+full definíció szerint a a kriptoeszköz
+pénzre történő átvált átváltás egy olyan
+
+296
+00:05:45,629 --> 00:05:45,639
+pénzre történő átvált átváltás egy olyan
+ 
+
+297
+00:05:45,639 --> 00:05:47,550
+pénzre történő átvált átváltás egy olyan
+tevékenység, amikor a szolgáltató a
+
+298
+00:05:47,550 --> 00:05:47,560
+tevékenység, amikor a szolgáltató a
+ 
+
+299
+00:05:47,560 --> 00:05:49,350
+tevékenység, amikor a szolgáltató a
+felhasználó megbízásából
+
+300
+00:05:49,350 --> 00:05:49,360
+felhasználó megbízásából
+ 
+
+301
+00:05:49,360 --> 00:05:51,670
+felhasználó megbízásából
+kriptoeszközöket fiat valutára vált,
+
+302
+00:05:51,670 --> 00:05:51,680
+kriptoeszközöket fiat valutára vált,
+ 
+
+303
+00:05:51,680 --> 00:05:53,990
+kriptoeszközöket fiat valutára vált,
+vagy fordítva.
+
+304
+00:05:53,990 --> 00:05:54,000
+vagy fordítva.
+ 
+
+305
+00:05:54,000 --> 00:05:57,790
+vagy fordítva.
+Tehát itt mindkét oldal játszik. Ha
+
+306
+00:05:57,790 --> 00:05:57,800
+Tehát itt mindkét oldal játszik. Ha
+ 
+
+307
+00:05:57,800 --> 00:06:00,270
+Tehát itt mindkét oldal játszik. Ha
+euróból forintból dollárból BTC-t
+
+308
+00:06:00,270 --> 00:06:00,280
+euróból forintból dollárból BTC-t
+ 
+
+309
+00:06:00,280 --> 00:06:03,309
+euróból forintból dollárból BTC-t
+veszek, vagy BTC-t átváltok euróra
+
+310
+00:06:03,309 --> 00:06:03,319
+veszek, vagy BTC-t átváltok euróra
+ 
+
+311
+00:06:03,319 --> 00:06:05,590
+veszek, vagy BTC-t átváltok euróra
+forintva dollárra, és természetesen
+
+312
+00:06:05,590 --> 00:06:05,600
+forintva dollárra, és természetesen
+ 
+
+313
+00:06:05,600 --> 00:06:07,830
+forintva dollárra, és természetesen
+minden egyéb más kriptoeszköz, és a
+
+314
+00:06:07,830 --> 00:06:07,840
+minden egyéb más kriptoeszköz, és a
+ 
+
+315
+00:06:07,840 --> 00:06:10,150
+minden egyéb más kriptoeszköz, és a
+kriptoeszköz más kriptoeszközre történő
+
+316
+00:06:10,150 --> 00:06:10,160
+kriptoeszköz más kriptoeszközre történő
+ 
+
+317
+00:06:10,160 --> 00:06:13,510
+kriptoeszköz más kriptoeszközre történő
+átváltását is természetesen ez magában
+
+318
+00:06:13,510 --> 00:06:13,520
+átváltását is természetesen ez magában
+ 
+
+319
+00:06:13,520 --> 00:06:16,350
+átváltását is természetesen ez magában
+foglalja. Tehát ugorjunk vissza.
+
+320
+00:06:16,350 --> 00:06:16,360
+foglalja. Tehát ugorjunk vissza.
+ 
+
+321
+00:06:16,360 --> 00:06:18,230
+foglalja. Tehát ugorjunk vissza.
+>> Várjál, hogyha a fekete dobozon belül
+
+322
+00:06:18,230 --> 00:06:18,240
+>> Várjál, hogyha a fekete dobozon belül
+ 
+
+323
+00:06:18,240 --> 00:06:20,350
+>> Várjál, hogyha a fekete dobozon belül
+maradok, merthogy ez nem adódás. Tehát
+
+324
+00:06:20,350 --> 00:06:20,360
+maradok, merthogy ez nem adódás. Tehát
+ 
+
+325
+00:06:20,360 --> 00:06:24,870
+maradok, merthogy ez nem adódás. Tehát
+itt ak másuk Oké. Tehát a kriptó
+
+326
+00:06:24,870 --> 00:06:24,880
+itt ak másuk Oké. Tehát a kriptó
+ 
+
+327
+00:06:24,880 --> 00:06:27,469
+itt ak másuk Oké. Tehát a kriptó
+kriptóra váltás is akkor
+
+328
+00:06:27,469 --> 00:06:27,479
+kriptóra váltás is akkor
+ 
+
+329
+00:06:27,479 --> 00:06:28,189
+kriptóra váltás is akkor
+>> oké
+
+330
+00:06:28,189 --> 00:06:28,199
+>> oké
+ 
+
+331
+00:06:28,199 --> 00:06:29,589
+>> oké
+>> nekem majd még itt lesz majd egy
+
+332
+00:06:29,589 --> 00:06:29,599
+>> nekem majd még itt lesz majd egy
+ 
+
+333
+00:06:29,599 --> 00:06:31,710
+>> nekem majd még itt lesz majd egy
+kérdésem a legvégén ehhez
+
+334
+00:06:31,710 --> 00:06:31,720
+kérdésem a legvégén ehhez
+ 
+
+335
+00:06:31,720 --> 00:06:33,909
+kérdésem a legvégén ehhez
+>> hát nyugodtan feltetted most hogy ne
+
+336
+00:06:33,909 --> 00:06:33,919
+>> hát nyugodtan feltetted most hogy ne
+ 
+
+337
+00:06:33,919 --> 00:06:34,469
+>> hát nyugodtan feltetted most hogy ne
+feledd el
+
+338
+00:06:34,469 --> 00:06:34,479
+feledd el
+ 
+
+339
+00:06:34,479 --> 00:06:36,749
+feledd el
+>> akkor ugye itt volt a Mikánál rugóztunk
+
+340
+00:06:36,749 --> 00:06:36,759
+>> akkor ugye itt volt a Mikánál rugóztunk
+ 
+
+341
+00:06:36,759 --> 00:06:39,230
+>> akkor ugye itt volt a Mikánál rugóztunk
+ilyen van neki bocsátója vagy nincs
+
+342
+00:06:39,230 --> 00:06:39,240
+ilyen van neki bocsátója vagy nincs
+ 
+
+343
+00:06:39,240 --> 00:06:41,189
+ilyen van neki bocsátója vagy nincs
+>> most a BTC-ről beszélünkig
+
+344
+00:06:41,189 --> 00:06:41,199
+>> most a BTC-ről beszélünkig
+ 
+
+345
+00:06:41,199 --> 00:06:43,749
+>> most a BTC-ről beszélünkig
+>> a BTC abszolút nem vonatkozik nincsen a
+
+346
+00:06:43,749 --> 00:06:43,759
+>> a BTC abszolút nem vonatkozik nincsen a
+ 
+
+347
+00:06:43,759 --> 00:06:44,909
+>> a BTC abszolút nem vonatkozik nincsen a
+a
+
+348
+00:06:44,909 --> 00:06:44,919
+a
+ 
+
+349
+00:06:44,919 --> 00:06:47,110
+a
+>> a Mika hatálya alá mert ugye a Mika
+
+350
+00:06:47,110 --> 00:06:47,120
+>> a Mika hatálya alá mert ugye a Mika
+ 
+
+351
+00:06:47,120 --> 00:06:49,390
+>> a Mika hatálya alá mert ugye a Mika
+kiveszi azokat a decentralizált
+
+352
+00:06:49,390 --> 00:06:49,400
+kiveszi azokat a decentralizált
+ 
+
+353
+00:06:49,400 --> 00:06:52,070
+kiveszi azokat a decentralizált
+rendszereket a hatálya alól ahol nem
+
+354
+00:06:52,070 --> 00:06:52,080
+rendszereket a hatálya alól ahol nem
+ 
+
+355
+00:06:52,080 --> 00:06:55,430
+rendszereket a hatálya alól ahol nem
+állapítható meg a kibocsátás, tehát ahol
+
+356
+00:06:55,430 --> 00:06:55,440
+állapítható meg a kibocsátás, tehát ahol
+ 
+
+357
+00:06:55,440 --> 00:06:57,510
+állapítható meg a kibocsátás, tehát ahol
+a köz, ahol nincsen úgymond egy központi
+
+358
+00:06:57,510 --> 00:06:57,520
+a köz, ahol nincsen úgymond egy központi
+ 
+
+359
+00:06:57,520 --> 00:06:59,029
+a köz, ahol nincsen úgymond egy központi
+szerv. Ugye itt is egy kicsit
+
+360
+00:06:59,029 --> 00:06:59,039
+szerv. Ugye itt is egy kicsit
+ 
+
+361
+00:06:59,039 --> 00:07:00,950
+szerv. Ugye itt is egy kicsit
+elkanyarodhatunk ezen, mert ilyenkor
+
+362
+00:07:00,950 --> 00:07:00,960
+elkanyarodhatunk ezen, mert ilyenkor
+ 
+
+363
+00:07:00,960 --> 00:07:02,350
+elkanyarodhatunk ezen, mert ilyenkor
+mindenki ugye azt szokta mondani, hogy
+
+364
+00:07:02,350 --> 00:07:02,360
+mindenki ugye azt szokta mondani, hogy
+ 
+
+365
+00:07:02,360 --> 00:07:04,270
+mindenki ugye azt szokta mondani, hogy
+hát a defi az nem tartozik a Mika
+
+366
+00:07:04,270 --> 00:07:04,280
+hát a defi az nem tartozik a Mika
+ 
+
+367
+00:07:04,280 --> 00:07:07,230
+hát a defi az nem tartozik a Mika
+hatálya alá. Jelen pillanatban egyetlen
+
+368
+00:07:07,230 --> 00:07:07,240
+hatálya alá. Jelen pillanatban egyetlen
+ 
+
+369
+00:07:07,240 --> 00:07:09,909
+hatálya alá. Jelen pillanatban egyetlen
+egy olyan decentralizált hálózat, ha úgy
+
+370
+00:07:09,909 --> 00:07:09,919
+egy olyan decentralizált hálózat, ha úgy
+ 
+
+371
+00:07:09,919 --> 00:07:11,629
+egy olyan decentralizált hálózat, ha úgy
+tetszik, működik, amelynek valóban
+
+372
+00:07:11,629 --> 00:07:11,639
+tetszik, működik, amelynek valóban
+ 
+
+373
+00:07:11,639 --> 00:07:14,629
+tetszik, működik, amelynek valóban
+nincsen központosított
+
+374
+00:07:14,629 --> 00:07:14,639
+nincsen központosított
+ 
+
+375
+00:07:14,639 --> 00:07:18,390
+nincsen központosított
+szerve, nincsen mögötte egy cég, nincsen
+
+376
+00:07:18,390 --> 00:07:18,400
+szerve, nincsen mögötte egy cég, nincsen
+ 
+
+377
+00:07:18,400 --> 00:07:20,990
+szerve, nincsen mögötte egy cég, nincsen
+ügyvezető igazgatója, nem tud ilyen
+
+378
+00:07:20,990 --> 00:07:21,000
+ügyvezető igazgatója, nem tud ilyen
+ 
+
+379
+00:07:21,000 --> 00:07:23,189
+ügyvezető igazgatója, nem tud ilyen
+módon megfelelni semmilyen előírásnak,
+
+380
+00:07:23,189 --> 00:07:23,199
+módon megfelelni semmilyen előírásnak,
+ 
+
+381
+00:07:23,199 --> 00:07:26,790
+módon megfelelni semmilyen előírásnak,
+hiszen nincs a láncolat végén egy
+
+382
+00:07:26,790 --> 00:07:26,800
+hiszen nincs a láncolat végén egy
+ 
+
+383
+00:07:26,800 --> 00:07:29,150
+hiszen nincs a láncolat végén egy
+alapító, egy startup, egy nem tudom én
+
+384
+00:07:29,150 --> 00:07:29,160
+alapító, egy startup, egy nem tudom én
+ 
+
+385
+00:07:29,160 --> 00:07:31,790
+alapító, egy startup, egy nem tudom én
+ki, aki ott felelősséget tudna vál. sem
+
+386
+00:07:31,790 --> 00:07:31,800
+ki, aki ott felelősséget tudna vál. sem
+ 
+
+387
+00:07:31,800 --> 00:07:34,390
+ki, aki ott felelősséget tudna vál. sem
+egy csoport, sem senki.
+
+388
+00:07:34,390 --> 00:07:34,400
+egy csoport, sem senki.
+ 
+
+389
+00:07:34,400 --> 00:07:37,869
+egy csoport, sem senki.
+Ezzel ellentétben ugye vannak különböző
+
+390
+00:07:37,869 --> 00:07:37,879
+Ezzel ellentétben ugye vannak különböző
+ 
+
+391
+00:07:37,879 --> 00:07:40,469
+Ezzel ellentétben ugye vannak különböző
+defi projektek, és itt a Mika, és azóta
+
+392
+00:07:40,469 --> 00:07:40,479
+defi projektek, és itt a Mika, és azóta
+ 
+
+393
+00:07:40,479 --> 00:07:43,390
+defi projektek, és itt a Mika, és azóta
+az Eszma ugye ontotta ki magából ezeket
+
+394
+00:07:43,390 --> 00:07:43,400
+az Eszma ugye ontotta ki magából ezeket
+ 
+
+395
+00:07:43,400 --> 00:07:45,430
+az Eszma ugye ontotta ki magából ezeket
+az értelmező rendelkezéseket, és ezekből
+
+396
+00:07:45,430 --> 00:07:45,440
+az értelmező rendelkezéseket, és ezekből
+ 
+
+397
+00:07:45,440 --> 00:07:47,990
+az értelmező rendelkezéseket, és ezekből
+kiolvasható, hogy ugye ezek a defi
+
+398
+00:07:47,990 --> 00:07:48,000
+kiolvasható, hogy ugye ezek a defi
+ 
+
+399
+00:07:48,000 --> 00:07:51,790
+kiolvasható, hogy ugye ezek a defi
+projektek mögött mindenhol egy cég áll.
+
+400
+00:07:51,790 --> 00:07:51,800
+projektek mögött mindenhol egy cég áll.
+ 
+
+401
+00:07:51,800 --> 00:07:55,550
+projektek mögött mindenhol egy cég áll.
+Lehet az egy DAO, lehet az egy LTD,
+
+402
+00:07:55,550 --> 00:07:55,560
+Lehet az egy DAO, lehet az egy LTD,
+ 
+
+403
+00:07:55,560 --> 00:07:57,350
+Lehet az egy DAO, lehet az egy LTD,
+lehet az egy alapítvány, teljesen
+
+404
+00:07:57,350 --> 00:07:57,360
+lehet az egy alapítvány, teljesen
+ 
+
+405
+00:07:57,360 --> 00:07:59,990
+lehet az egy alapítvány, teljesen
+lényegtelen. A platform üzemeltetése,
+
+406
+00:07:59,990 --> 00:08:00,000
+lényegtelen. A platform üzemeltetése,
+ 
+
+407
+00:08:00,000 --> 00:08:03,070
+lényegtelen. A platform üzemeltetése,
+ahol az állampolgár, hívjuk usernek,
+
+408
+00:08:03,070 --> 00:08:03,080
+ahol az állampolgár, hívjuk usernek,
+ 
+
+409
+00:08:03,080 --> 00:08:05,749
+ahol az állampolgár, hívjuk usernek,
+tehát ahol a felhasználó igénybe veheti
+
+410
+00:08:05,749 --> 00:08:05,759
+tehát ahol a felhasználó igénybe veheti
+ 
+
+411
+00:08:05,759 --> 00:08:08,029
+tehát ahol a felhasználó igénybe veheti
+ezeket a szolgáltatásokat, azokat
+
+412
+00:08:08,029 --> 00:08:08,039
+ezeket a szolgáltatásokat, azokat
+ 
+
+413
+00:08:08,039 --> 00:08:11,390
+ezeket a szolgáltatásokat, azokat
+jellemzően és nélkülözhetetlenül
+
+414
+00:08:11,390 --> 00:08:11,400
+jellemzően és nélkülözhetetlenül
+ 
+
+415
+00:08:11,400 --> 00:08:13,990
+jellemzően és nélkülözhetetlenül
+ezek a cégek üzemeltetik.
+
+416
+00:08:13,990 --> 00:08:14,000
+ezek a cégek üzemeltetik.
+ 
+
+417
+00:08:14,000 --> 00:08:16,110
+ezek a cégek üzemeltetik.
+Tehát érdemes úgy tesztelni ilyen defű
+
+418
+00:08:16,110 --> 00:08:16,120
+Tehát érdemes úgy tesztelni ilyen defű
+ 
+
+419
+00:08:16,120 --> 00:08:18,790
+Tehát érdemes úgy tesztelni ilyen defű
+projekteket, hogyha kihúzzuk mögülük
+
+420
+00:08:18,790 --> 00:08:18,800
+projekteket, hogyha kihúzzuk mögülük
+ 
+
+421
+00:08:18,800 --> 00:08:20,950
+projekteket, hogyha kihúzzuk mögülük
+ugye ezeket a frontokat, képesek-e a
+
+422
+00:08:20,950 --> 00:08:20,960
+ugye ezeket a frontokat, képesek-e a
+ 
+
+423
+00:08:20,960 --> 00:08:22,950
+ugye ezeket a frontokat, képesek-e a
+felhasználók igénybe venni azokat a
+
+424
+00:08:22,950 --> 00:08:22,960
+felhasználók igénybe venni azokat a
+ 
+
+425
+00:08:22,960 --> 00:08:24,629
+felhasználók igénybe venni azokat a
+szolgáltatásokat. És itt egy tök jó
+
+426
+00:08:24,629 --> 00:08:24,639
+szolgáltatásokat. És itt egy tök jó
+ 
+
+427
+00:08:24,639 --> 00:08:28,749
+szolgáltatásokat. És itt egy tök jó
+összonítása jöhet a NOS Nosterrel, ami
+
+428
+00:08:28,749 --> 00:08:28,759
+összonítása jöhet a NOS Nosterrel, ami
+ 
+
+429
+00:08:28,759 --> 00:08:30,589
+összonítása jöhet a NOS Nosterrel, ami
+ugye egy protokoll. Tehát ez is
+
+430
+00:08:30,589 --> 00:08:30,599
+ugye egy protokoll. Tehát ez is
+ 
+
+431
+00:08:30,599 --> 00:08:32,909
+ugye egy protokoll. Tehát ez is
+összekeverendő, hogy ugye ott van nekünk
+
+432
+00:08:32,909 --> 00:08:32,919
+összekeverendő, hogy ugye ott van nekünk
+ 
+
+433
+00:08:32,919 --> 00:08:35,550
+összekeverendő, hogy ugye ott van nekünk
+egy NOS platform, ahova mi felmegyünk,
+
+434
+00:08:35,550 --> 00:08:35,560
+egy NOS platform, ahova mi felmegyünk,
+ 
+
+435
+00:08:35,560 --> 00:08:36,870
+egy NOS platform, ahova mi felmegyünk,
+és azt gondolnánk, hogy ugyanúgy
+
+436
+00:08:36,870 --> 00:08:36,880
+és azt gondolnánk, hogy ugyanúgy
+ 
+
+437
+00:08:36,880 --> 00:08:39,430
+és azt gondolnánk, hogy ugyanúgy
+működik, mint egy Facebook, vagy mint
+
+438
+00:08:39,430 --> 00:08:39,440
+működik, mint egy Facebook, vagy mint
+ 
+
+439
+00:08:39,440 --> 00:08:43,310
+működik, mint egy Facebook, vagy mint
+egy X teljesen mindegy. Tehát ott azok
+
+440
+00:08:43,310 --> 00:08:43,320
+egy X teljesen mindegy. Tehát ott azok
+ 
+
+441
+00:08:43,320 --> 00:08:45,750
+egy X teljesen mindegy. Tehát ott azok
+mögött is ott van egy központosított,
+
+442
+00:08:45,750 --> 00:08:45,760
+mögött is ott van egy központosított,
+ 
+
+443
+00:08:45,760 --> 00:08:47,790
+mögött is ott van egy központosított,
+centralizált hatalom, ha úgy tetszik,
+
+444
+00:08:47,790 --> 00:08:47,800
+centralizált hatalom, ha úgy tetszik,
+ 
+
+445
+00:08:47,800 --> 00:08:50,310
+centralizált hatalom, ha úgy tetszik,
+egy entitás, aki ugye üzemelteti azokat
+
+446
+00:08:50,310 --> 00:08:50,320
+egy entitás, aki ugye üzemelteti azokat
+ 
+
+447
+00:08:50,320 --> 00:08:52,310
+egy entitás, aki ugye üzemelteti azokat
+a platformokat, és végsősoron mi minden
+
+448
+00:08:52,310 --> 00:08:52,320
+a platformokat, és végsősoron mi minden
+ 
+
+449
+00:08:52,320 --> 00:08:54,509
+a platformokat, és végsősoron mi minden
+kínunkkal, bajunkkal hozzájuk
+
+450
+00:08:54,509 --> 00:08:54,519
+kínunkkal, bajunkkal hozzájuk
+ 
+
+451
+00:08:54,519 --> 00:08:56,949
+kínunkkal, bajunkkal hozzájuk
+fordulhatunk, és ők is kontrollt
+
+452
+00:08:56,949 --> 00:08:56,959
+fordulhatunk, és ők is kontrollt
+ 
+
+453
+00:08:56,959 --> 00:08:59,670
+fordulhatunk, és ők is kontrollt
+gyakorolhatnak ugye felettünk azáltal.
+
+454
+00:08:59,670 --> 00:08:59,680
+gyakorolhatnak ugye felettünk azáltal.
+ 
+
+455
+00:08:59,680 --> 00:09:02,389
+gyakorolhatnak ugye felettünk azáltal.
+hogy cenzúrázzák azt, amit mi kiírunk
+
+456
+00:09:02,389 --> 00:09:02,399
+hogy cenzúrázzák azt, amit mi kiírunk
+ 
+
+457
+00:09:02,399 --> 00:09:04,710
+hogy cenzúrázzák azt, amit mi kiírunk
+vagy mondani akarunk. Sőt, bemehet az a
+
+458
+00:09:04,710 --> 00:09:04,720
+vagy mondani akarunk. Sőt, bemehet az a
+ 
+
+459
+00:09:04,720 --> 00:09:06,829
+vagy mondani akarunk. Sőt, bemehet az a
+cég, és egyik napra a másikra eltűnhet
+
+460
+00:09:06,829 --> 00:09:06,839
+cég, és egyik napra a másikra eltűnhet
+ 
+
+461
+00:09:06,839 --> 00:09:09,590
+cég, és egyik napra a másikra eltűnhet
+az accountunk, fiókunk mindenféle ott
+
+462
+00:09:09,590 --> 00:09:09,600
+az accountunk, fiókunk mindenféle ott
+ 
+
+463
+00:09:09,600 --> 00:09:12,150
+az accountunk, fiókunk mindenféle ott
+tárolt dolgokkal. Ilyenek ugye nem
+
+464
+00:09:12,150 --> 00:09:12,160
+tárolt dolgokkal. Ilyenek ugye nem
+ 
+
+465
+00:09:12,160 --> 00:09:14,710
+tárolt dolgokkal. Ilyenek ugye nem
+történhetnek meg a Nosterön, meg nem
+
+466
+00:09:14,710 --> 00:09:14,720
+történhetnek meg a Nosterön, meg nem
+ 
+
+467
+00:09:14,720 --> 00:09:17,269
+történhetnek meg a Nosterön, meg nem
+történhetnek meg a Bitcoin Networkön
+
+468
+00:09:17,269 --> 00:09:17,279
+történhetnek meg a Bitcoin Networkön
+ 
+
+469
+00:09:17,279 --> 00:09:19,750
+történhetnek meg a Bitcoin Networkön
+sem. Ugyanakkor simán megtörténhet
+
+470
+00:09:19,750 --> 00:09:19,760
+sem. Ugyanakkor simán megtörténhet
+ 
+
+471
+00:09:19,760 --> 00:09:21,310
+sem. Ugyanakkor simán megtörténhet
+bármilyen deffi platformon. Ugye
+
+472
+00:09:21,310 --> 00:09:21,320
+bármilyen deffi platformon. Ugye
+ 
+
+473
+00:09:21,320 --> 00:09:23,110
+bármilyen deffi platformon. Ugye
+valamelyik nap láttam a 21-ben is volt
+
+474
+00:09:23,110 --> 00:09:23,120
+valamelyik nap láttam a 21-ben is volt
+ 
+
+475
+00:09:23,120 --> 00:09:25,389
+valamelyik nap láttam a 21-ben is volt
+erről beszélgetés, hogy például egy
+
+476
+00:09:25,389 --> 00:09:25,399
+erről beszélgetés, hogy például egy
+ 
+
+477
+00:09:25,399 --> 00:09:28,710
+erről beszélgetés, hogy például egy
+stable coint is legyen az egy USDC
+
+478
+00:09:28,710 --> 00:09:28,720
+stable coint is legyen az egy USDC
+ 
+
+479
+00:09:28,720 --> 00:09:31,910
+stable coint is legyen az egy USDC
+bármelyik, amit ugyanúgy blokkolhat a
+
+480
+00:09:31,910 --> 00:09:31,920
+bármelyik, amit ugyanúgy blokkolhat a
+ 
+
+481
+00:09:31,920 --> 00:09:34,430
+bármelyik, amit ugyanúgy blokkolhat a
+kibocsátója. hiába tartom én azt egy
+
+482
+00:09:34,430 --> 00:09:34,440
+kibocsátója. hiába tartom én azt egy
+ 
+
+483
+00:09:34,440 --> 00:09:37,590
+kibocsátója. hiába tartom én azt egy
+decentralizált platformon, egy
+
+484
+00:09:37,590 --> 00:09:37,600
+decentralizált platformon, egy
+ 
+
+485
+00:09:37,600 --> 00:09:40,829
+decentralizált platformon, egy
+noncastodal walletben akár, hogyha annak
+
+486
+00:09:40,829 --> 00:09:40,839
+noncastodal walletben akár, hogyha annak
+ 
+
+487
+00:09:40,839 --> 00:09:42,990
+noncastodal walletben akár, hogyha annak
+a stable coinak esetben, ugye a USBC-t
+
+488
+00:09:42,990 --> 00:09:43,000
+a stable coinak esetben, ugye a USBC-t
+ 
+
+489
+00:09:43,000 --> 00:09:45,550
+a stable coinak esetben, ugye a USBC-t
+mondtam, tehát a circle kibocsátója
+
+490
+00:09:45,550 --> 00:09:45,560
+mondtam, tehát a circle kibocsátója
+ 
+
+491
+00:09:45,560 --> 00:09:49,150
+mondtam, tehát a circle kibocsátója
+valamilyen ügylet kapcsán vagy esemény
+
+492
+00:09:49,150 --> 00:09:49,160
+valamilyen ügylet kapcsán vagy esemény
+ 
+
+493
+00:09:49,160 --> 00:09:51,949
+valamilyen ügylet kapcsán vagy esemény
+kapcsán befagyasztja ezeket az
+
+494
+00:09:51,949 --> 00:09:51,959
+kapcsán befagyasztja ezeket az
+ 
+
+495
+00:09:51,959 --> 00:09:54,630
+kapcsán befagyasztja ezeket az
+eszközöket, vagy ön ő maga csődbe megy,
+
+496
+00:09:54,630 --> 00:09:54,640
+eszközöket, vagy ön ő maga csődbe megy,
+ 
+
+497
+00:09:54,640 --> 00:09:59,389
+eszközöket, vagy ön ő maga csődbe megy,
+vagy mondjuk egy depeg esemény történik,
+
+498
+00:09:59,389 --> 00:09:59,399
+vagy mondjuk egy depeg esemény történik,
+ 
+
+499
+00:09:59,399 --> 00:10:01,910
+vagy mondjuk egy depeg esemény történik,
+akkor elintegethetjük az eszközeinket.
+
+500
+00:10:01,910 --> 00:10:01,920
+akkor elintegethetjük az eszközeinket.
+ 
+
+501
+00:10:01,920 --> 00:10:05,030
+akkor elintegethetjük az eszközeinket.
+Tehát ilyen értelemben a defi is a mikat
+
+502
+00:10:05,030 --> 00:10:05,040
+Tehát ilyen értelemben a defi is a mikat
+ 
+
+503
+00:10:05,040 --> 00:10:08,069
+Tehát ilyen értelemben a defi is a mikat
+a hatálya alá tartozhat. Bizonyos
+
+504
+00:10:08,069 --> 00:10:08,079
+a hatálya alá tartozhat. Bizonyos
+ 
+
+505
+00:10:08,079 --> 00:10:09,790
+a hatálya alá tartozhat. Bizonyos
+aspektusai.
+
+506
+00:10:09,790 --> 00:10:09,800
+aspektusai.
+ 
+
+507
+00:10:09,800 --> 00:10:10,870
+aspektusai.
+Ez volt a kitérő.
+
+508
+00:10:10,870 --> 00:10:10,880
+Ez volt a kitérő.
+ 
+
+509
+00:10:10,880 --> 00:10:12,310
+Ez volt a kitérő.
+>> Köszönöm a kitérőt.
+
+510
+00:10:12,310 --> 00:10:12,320
+>> Köszönöm a kitérőt.
+ 
+
+511
+00:10:12,320 --> 00:10:14,030
+>> Köszönöm a kitérőt.
+>> Szívesen. Remélem sikerült megveszani a
+
+512
+00:10:14,030 --> 00:10:14,040
+>> Szívesen. Remélem sikerült megveszani a
+ 
+
+513
+00:10:14,040 --> 00:10:15,670
+>> Szívesen. Remélem sikerült megveszani a
+kérdésedet. Hogyha nem, akkor
+
+514
+00:10:15,670 --> 00:10:15,680
+kérdésedet. Hogyha nem, akkor
+ 
+
+515
+00:10:15,680 --> 00:10:16,590
+kérdésedet. Hogyha nem, akkor
+>> erre vártam.
+
+516
+00:10:16,590 --> 00:10:16,600
+>> erre vártam.
+ 
+
+517
+00:10:16,600 --> 00:10:18,949
+>> erre vártam.
+>> Tudod, mit kell tenned.
+
+518
+00:10:18,949 --> 00:10:18,959
+>> Tudod, mit kell tenned.
+ 
+
+519
+00:10:18,959 --> 00:10:21,269
+>> Tudod, mit kell tenned.
+Jó, tehát ugorjunk vissza oda, hogy ez a
+
+520
+00:10:21,269 --> 00:10:21,279
+Jó, tehát ugorjunk vissza oda, hogy ez a
+ 
+
+521
+00:10:21,279 --> 00:10:25,910
+Jó, tehát ugorjunk vissza oda, hogy ez a
+2025 évi 67. törvénnyel módosításra
+
+522
+00:10:25,910 --> 00:10:25,920
+2025 évi 67. törvénnyel módosításra
+ 
+
+523
+00:10:25,920 --> 00:10:28,590
+2025 évi 67. törvénnyel módosításra
+került a mi 2024-es magyar
+
+524
+00:10:28,590 --> 00:10:28,600
+került a mi 2024-es magyar
+ 
+
+525
+00:10:28,600 --> 00:10:30,230
+került a mi 2024-es magyar
+kriptörvényünk.
+
+526
+00:10:30,230 --> 00:10:30,240
+kriptörvényünk.
+ 
+
+527
+00:10:30,240 --> 00:10:33,910
+kriptörvényünk.
+És mint mondottam, magyar sajátosságként
+
+528
+00:10:33,910 --> 00:10:33,920
+És mint mondottam, magyar sajátosságként
+ 
+
+529
+00:10:33,920 --> 00:10:37,389
+És mint mondottam, magyar sajátosságként
+bevezette a kriptoeszköz átváltást
+
+530
+00:10:37,389 --> 00:10:37,399
+bevezette a kriptoeszköz átváltást
+ 
+
+531
+00:10:37,399 --> 00:10:40,470
+bevezette a kriptoeszköz átváltást
+kötelező validálást és az ehhez kötődő
+
+532
+00:10:40,470 --> 00:10:40,480
+kötelező validálást és az ehhez kötődő
+ 
+
+533
+00:10:40,480 --> 00:10:42,949
+kötelező validálást és az ehhez kötődő
+hatósági felügyeleti rendszert, illetve
+
+534
+00:10:42,949 --> 00:10:42,959
+hatósági felügyeleti rendszert, illetve
+ 
+
+535
+00:10:42,959 --> 00:10:44,670
+hatósági felügyeleti rendszert, illetve
+egy átmeneti rendelkezést, ugye a
+
+536
+00:10:44,670 --> 00:10:44,680
+egy átmeneti rendelkezést, ugye a
+ 
+
+537
+00:10:44,680 --> 00:10:47,509
+egy átmeneti rendelkezést, ugye a
+validálási szabályokat, a szabályozott
+
+538
+00:10:47,509 --> 00:10:47,519
+validálási szabályokat, a szabályozott
+ 
+
+539
+00:10:47,519 --> 00:10:49,829
+validálási szabályokat, a szabályozott
+tevékenységeket felügyelő hatóság
+
+540
+00:10:49,829 --> 00:10:49,839
+tevékenységeket felügyelő hatóság
+ 
+
+541
+00:10:49,839 --> 00:10:53,389
+tevékenységeket felügyelő hatóság
+röviden, STFH elnöki rendelet hatályba
+
+542
+00:10:53,389 --> 00:10:53,399
+röviden, STFH elnöki rendelet hatályba
+ 
+
+543
+00:10:53,399 --> 00:10:55,310
+röviden, STFH elnöki rendelet hatályba
+lépését követő 60 naptól kell
+
+544
+00:10:55,310 --> 00:10:55,320
+lépését követő 60 naptól kell
+ 
+
+545
+00:10:55,320 --> 00:10:59,629
+lépését követő 60 naptól kell
+alkalmazni. Tehát a 2025-es évi törvény
+
+546
+00:10:59,629 --> 00:10:59,639
+alkalmazni. Tehát a 2025-es évi törvény
+ 
+
+547
+00:10:59,639 --> 00:11:02,990
+alkalmazni. Tehát a 2025-es évi törvény
+bevezette a kriptotörvénybe
+
+548
+00:11:02,990 --> 00:11:03,000
+bevezette a kriptotörvénybe
+ 
+
+549
+00:11:03,000 --> 00:11:07,150
+bevezette a kriptotörvénybe
+ezt a 4A és 4B nevezetű fejezett
+
+550
+00:11:07,150 --> 00:11:07,160
+ezt a 4A és 4B nevezetű fejezett
+ 
+
+551
+00:11:07,160 --> 00:11:09,870
+ezt a 4A és 4B nevezetű fejezett
+címeket. Tehát a 4A szakasz meghatározza
+
+552
+00:11:09,870 --> 00:11:09,880
+címeket. Tehát a 4A szakasz meghatározza
+ 
+
+553
+00:11:09,880 --> 00:11:12,389
+címeket. Tehát a 4A szakasz meghatározza
+azt, hogy
+
+554
+00:11:12,389 --> 00:11:12,399
+azt, hogy
+ 
+
+555
+00:11:12,399 --> 00:11:15,509
+azt, hogy
+a validálás célja az a kriptoeszköz
+
+556
+00:11:15,509 --> 00:11:15,519
+a validálás célja az a kriptoeszköz
+ 
+
+557
+00:11:15,519 --> 00:11:18,230
+a validálás célja az a kriptoeszköz
+átváltási ügylet megfelelősségének az
+
+558
+00:11:18,230 --> 00:11:18,240
+átváltási ügylet megfelelősségének az
+ 
+
+559
+00:11:18,240 --> 00:11:21,430
+átváltási ügylet megfelelősségének az
+ellenőrzése, vagyis annak a vizsgálata,
+
+560
+00:11:21,430 --> 00:11:21,440
+ellenőrzése, vagyis annak a vizsgálata,
+ 
+
+561
+00:11:21,440 --> 00:11:25,150
+ellenőrzése, vagyis annak a vizsgálata,
+hogy a váltás nem sérti-e a pénzvasás
+
+562
+00:11:25,150 --> 00:11:25,160
+hogy a váltás nem sérti-e a pénzvasás
+ 
+
+563
+00:11:25,160 --> 00:11:28,350
+hogy a váltás nem sérti-e a pénzvasás
+ellen szabályokat, nem szankciós és nem
+
+564
+00:11:28,350 --> 00:11:28,360
+ellen szabályokat, nem szankciós és nem
+ 
+
+565
+00:11:28,360 --> 00:11:31,150
+ellen szabályokat, nem szankciós és nem
+sért egyéb jogszabályt sem. A validálást
+
+566
+00:11:31,150 --> 00:11:31,160
+sért egyéb jogszabályt sem. A validálást
+ 
+
+567
+00:11:31,160 --> 00:11:33,509
+sért egyéb jogszabályt sem. A validálást
+azt nem maga a váltó végzi, hanem egy
+
+568
+00:11:33,509 --> 00:11:33,519
+azt nem maga a váltó végzi, hanem egy
+ 
+
+569
+00:11:33,519 --> 00:11:36,030
+azt nem maga a váltó végzi, hanem egy
+külön engedéllyel rendelkező validáló
+
+570
+00:11:36,030 --> 00:11:36,040
+külön engedéllyel rendelkező validáló
+ 
+
+571
+00:11:36,040 --> 00:11:37,550
+külön engedéllyel rendelkező validáló
+szolgáltató.
+
+572
+00:11:37,550 --> 00:11:37,560
+szolgáltató.
+ 
+
+573
+00:11:37,560 --> 00:11:39,310
+szolgáltató.
+amely erről a tranzakcióról egy
+
+574
+00:11:39,310 --> 00:11:39,320
+amely erről a tranzakcióról egy
+ 
+
+575
+00:11:39,320 --> 00:11:41,190
+amely erről a tranzakcióról egy
+megfelelősségi nyilatkozatot ad.
+
+576
+00:11:41,190 --> 00:11:41,200
+megfelelősségi nyilatkozatot ad.
+ 
+
+577
+00:11:41,200 --> 00:11:43,629
+megfelelősségi nyilatkozatot ad.
+Mindjárt ide visszatérek. Csak előbb
+
+578
+00:11:43,629 --> 00:11:43,639
+Mindjárt ide visszatérek. Csak előbb
+ 
+
+579
+00:11:43,639 --> 00:11:46,310
+Mindjárt ide visszatérek. Csak előbb
+elmondom azt is, hogy a 4B pedig arról
+
+580
+00:11:46,310 --> 00:11:46,320
+elmondom azt is, hogy a 4B pedig arról
+ 
+
+581
+00:11:46,320 --> 00:11:48,150
+elmondom azt is, hogy a 4B pedig arról
+szól, hogy mindezt ugye az STFH
+
+582
+00:11:48,150 --> 00:11:48,160
+szól, hogy mindezt ugye az STFH
+ 
+
+583
+00:11:48,160 --> 00:11:49,750
+szól, hogy mindezt ugye az STFH
+felügyeli, ők adják ki a
+
+584
+00:11:49,750 --> 00:11:49,760
+felügyeli, ők adják ki a
+ 
+
+585
+00:11:49,760 --> 00:11:51,990
+felügyeli, ők adják ki a
+validálószolgáltatónak az engedélyét, de
+
+586
+00:11:51,990 --> 00:11:52,000
+validálószolgáltatónak az engedélyét, de
+ 
+
+587
+00:11:52,000 --> 00:11:54,550
+validálószolgáltatónak az engedélyét, de
+a szolgáltatók mikedélyeztetése továbbra
+
+588
+00:11:54,550 --> 00:11:54,560
+a szolgáltatók mikedélyeztetése továbbra
+ 
+
+589
+00:11:54,560 --> 00:11:56,350
+a szolgáltatók mikedélyeztetése továbbra
+is a Magyar Nemzeti Bank hatáskorében
+
+590
+00:11:56,350 --> 00:11:56,360
+is a Magyar Nemzeti Bank hatáskorében
+ 
+
+591
+00:11:56,360 --> 00:11:58,310
+is a Magyar Nemzeti Bank hatáskorében
+marad. Tehát van itt nekünk egy ilyen
+
+592
+00:11:58,310 --> 00:11:58,320
+marad. Tehát van itt nekünk egy ilyen
+ 
+
+593
+00:11:58,320 --> 00:12:01,269
+marad. Tehát van itt nekünk egy ilyen
+kettősség a magyar piacon. Ugye az
+
+594
+00:12:01,269 --> 00:12:01,279
+kettősség a magyar piacon. Ugye az
+ 
+
+595
+00:12:01,279 --> 00:12:04,030
+kettősség a magyar piacon. Ugye az
+engedélyezést és a szolgáltatók, a
+
+596
+00:12:04,030 --> 00:12:04,040
+engedélyezést és a szolgáltatók, a
+ 
+
+597
+00:12:04,040 --> 00:12:06,230
+engedélyezést és a szolgáltatók, a
+kripto eszközszolgáltató felügyeletét a
+
+598
+00:12:06,230 --> 00:12:06,240
+kripto eszközszolgáltató felügyeletét a
+ 
+
+599
+00:12:06,240 --> 00:12:08,269
+kripto eszközszolgáltató felügyeletét a
+Magyar Nemzeti Bank látja el és adja ki
+
+600
+00:12:08,269 --> 00:12:08,279
+Magyar Nemzeti Bank látja el és adja ki
+ 
+
+601
+00:12:08,279 --> 00:12:11,949
+Magyar Nemzeti Bank látja el és adja ki
+az engedélyt. Az STFH a validálást végző
+
+602
+00:12:11,949 --> 00:12:11,959
+az engedélyt. Az STFH a validálást végző
+ 
+
+603
+00:12:11,959 --> 00:12:13,629
+az engedélyt. Az STFH a validálást végző
+szolgáltatók számára adja ki az
+
+604
+00:12:13,629 --> 00:12:13,639
+szolgáltatók számára adja ki az
+ 
+
+605
+00:12:13,639 --> 00:12:16,189
+szolgáltatók számára adja ki az
+engedélyt, és őket felügyeli és
+
+606
+00:12:16,189 --> 00:12:16,199
+engedélyt, és őket felügyeli és
+ 
+
+607
+00:12:16,199 --> 00:12:19,069
+engedélyt, és őket felügyeli és
+ellenőrzi, valamint kiadja, nem,
+
+608
+00:12:19,069 --> 00:12:19,079
+ellenőrzi, valamint kiadja, nem,
+ 
+
+609
+00:12:19,079 --> 00:12:20,910
+ellenőrzi, valamint kiadja, nem,
+bocsánat, azt már a validáló szolgáltató
+
+610
+00:12:20,910 --> 00:12:20,920
+bocsánat, azt már a validáló szolgáltató
+ 
+
+611
+00:12:20,920 --> 00:12:23,310
+bocsánat, azt már a validáló szolgáltató
+adja ki, a megfelelősségi
+
+612
+00:12:23,310 --> 00:12:23,320
+adja ki, a megfelelősségi
+ 
+
+613
+00:12:23,320 --> 00:12:24,750
+adja ki, a megfelelősségi
+nyilatkozatot, ugye ezekről a
+
+614
+00:12:24,750 --> 00:12:24,760
+nyilatkozatot, ugye ezekről a
+ 
+
+615
+00:12:24,760 --> 00:12:26,470
+nyilatkozatot, ugye ezekről a
+tranzakciókról.
+
+616
+00:12:26,470 --> 00:12:26,480
+tranzakciókról.
+ 
+
+617
+00:12:26,480 --> 00:12:28,870
+tranzakciókról.
+És ugye itt sokan pörögtünk azon, hogy
+
+618
+00:12:28,870 --> 00:12:28,880
+És ugye itt sokan pörögtünk azon, hogy
+ 
+
+619
+00:12:28,880 --> 00:12:31,030
+És ugye itt sokan pörögtünk azon, hogy
+mi a validálás fogalma. És ugye itt a
+
+620
+00:12:31,030 --> 00:12:31,040
+mi a validálás fogalma. És ugye itt a
+ 
+
+621
+00:12:31,040 --> 00:12:34,150
+mi a validálás fogalma. És ugye itt a
+kriptörvényünk módosítása nyomán van
+
+622
+00:12:34,150 --> 00:12:34,160
+kriptörvényünk módosítása nyomán van
+ 
+
+623
+00:12:34,160 --> 00:12:36,069
+kriptörvényünk módosítása nyomán van
+némi fogózónk.
+
+624
+00:12:36,069 --> 00:12:36,079
+némi fogózónk.
+ 
+
+625
+00:12:36,079 --> 00:12:38,590
+némi fogózónk.
+Tehát a validálás során a szolgáltatónak
+
+626
+00:12:38,590 --> 00:12:38,600
+Tehát a validálás során a szolgáltatónak
+ 
+
+627
+00:12:38,600 --> 00:12:41,150
+Tehát a validálás során a szolgáltatónak
+három dolgot kell ellenőriznie. Először
+
+628
+00:12:41,150 --> 00:12:41,160
+három dolgot kell ellenőriznie. Először
+ 
+
+629
+00:12:41,160 --> 00:12:44,750
+három dolgot kell ellenőriznie. Először
+is a kriptoeszköznek az eredetét.
+
+630
+00:12:44,750 --> 00:12:44,760
+is a kriptoeszköznek az eredetét.
+ 
+
+631
+00:12:44,760 --> 00:12:47,350
+is a kriptoeszköznek az eredetét.
+Másodsorban a kriptoeszköz tárolására
+
+632
+00:12:47,350 --> 00:12:47,360
+Másodsorban a kriptoeszköz tárolására
+ 
+
+633
+00:12:47,360 --> 00:12:50,710
+Másodsorban a kriptoeszköz tárolására
+használt tárca vagy eszköz
+
+634
+00:12:50,710 --> 00:12:50,720
+használt tárca vagy eszköz
+ 
+
+635
+00:12:50,720 --> 00:12:52,550
+használt tárca vagy eszköz
+tulajdonjogát.
+
+636
+00:12:52,550 --> 00:12:52,560
+tulajdonjogát.
+ 
+
+637
+00:12:52,560 --> 00:12:55,110
+tulajdonjogát.
+Tehát, hogy az a mién, nem egy harmadik
+
+638
+00:12:55,110 --> 00:12:55,120
+Tehát, hogy az a mién, nem egy harmadik
+ 
+
+639
+00:12:55,120 --> 00:12:57,110
+Tehát, hogy az a mién, nem egy harmadik
+félé, hanem a sajátunk, valamint az
+
+640
+00:12:57,110 --> 00:12:57,120
+félé, hanem a sajátunk, valamint az
+ 
+
+641
+00:12:57,120 --> 00:12:59,750
+félé, hanem a sajátunk, valamint az
+ügyletben szereplők azonosítását,
+
+642
+00:12:59,750 --> 00:12:59,760
+ügyletben szereplők azonosítását,
+ 
+
+643
+00:12:59,760 --> 00:13:01,750
+ügyletben szereplők azonosítását,
+tehát ez már egy pénzmosás ellenes
+
+644
+00:13:01,750 --> 00:13:01,760
+tehát ez már egy pénzmosás ellenes
+ 
+
+645
+00:13:01,760 --> 00:13:04,069
+tehát ez már egy pénzmosás ellenes
+kötelezettség, ugye itt az adatoknak a
+
+646
+00:13:04,069 --> 00:13:04,079
+kötelezettség, ugye itt az adatoknak a
+ 
+
+647
+00:13:04,079 --> 00:13:07,069
+kötelezettség, ugye itt az adatoknak a
+valódiságáról van szó.
+
+648
+00:13:07,069 --> 00:13:07,079
+valódiságáról van szó.
+ 
+
+649
+00:13:07,079 --> 00:13:09,870
+valódiságáról van szó.
+Tehát ez gyakorlatilag egy extra réteg,
+
+650
+00:13:09,870 --> 00:13:09,880
+Tehát ez gyakorlatilag egy extra réteg,
+ 
+
+651
+00:13:09,880 --> 00:13:13,150
+Tehát ez gyakorlatilag egy extra réteg,
+amit itt a magyar jogalkotó képezett.
+
+652
+00:13:13,150 --> 00:13:13,160
+amit itt a magyar jogalkotó képezett.
+ 
+
+653
+00:13:13,160 --> 00:13:15,150
+amit itt a magyar jogalkotó képezett.
+Ugyanis mindhárom pont, amelyeket
+
+654
+00:13:15,150 --> 00:13:15,160
+Ugyanis mindhárom pont, amelyeket
+ 
+
+655
+00:13:15,160 --> 00:13:17,910
+Ugyanis mindhárom pont, amelyeket
+felsoroltam, valahol más ellenőrizésre
+
+656
+00:13:17,910 --> 00:13:17,920
+felsoroltam, valahol más ellenőrizésre
+ 
+
+657
+00:13:17,920 --> 00:13:20,230
+felsoroltam, valahol más ellenőrizésre
+kerül. Tehát, hogy ezért vannak a a
+
+658
+00:13:20,230 --> 00:13:20,240
+kerül. Tehát, hogy ezért vannak a a
+ 
+
+659
+00:13:20,240 --> 00:13:21,990
+kerül. Tehát, hogy ezért vannak a a
+pénzmosásni szabályok, ugye az
+
+660
+00:13:21,990 --> 00:13:22,000
+pénzmosásni szabályok, ugye az
+ 
+
+661
+00:13:22,000 --> 00:13:24,629
+pénzmosásni szabályok, ugye az
+ügyfélátvilágítás, know your customer,
+
+662
+00:13:24,629 --> 00:13:24,639
+ügyfélátvilágítás, know your customer,
+ 
+
+663
+00:13:24,639 --> 00:13:27,350
+ügyfélátvilágítás, know your customer,
+no your business, ugye céges és
+
+664
+00:13:27,350 --> 00:13:27,360
+no your business, ugye céges és
+ 
+
+665
+00:13:27,360 --> 00:13:30,509
+no your business, ugye céges és
+magánszemélyes fajálások. A Trevorul
+
+666
+00:13:30,509 --> 00:13:30,519
+magánszemélyes fajálások. A Trevorul
+ 
+
+667
+00:13:30,519 --> 00:13:32,509
+magánszemélyes fajálások. A Trevorul
+ugye ugye itt említettem a tárolásra
+
+668
+00:13:32,509 --> 00:13:32,519
+ugye ugye itt említettem a tárolásra
+ 
+
+669
+00:13:32,519 --> 00:13:34,110
+ugye ugye itt említettem a tárolásra
+használt tárca vagy eszközt
+
+670
+00:13:34,110 --> 00:13:34,120
+használt tárca vagy eszközt
+ 
+
+671
+00:13:34,120 --> 00:13:35,670
+használt tárca vagy eszközt
+tulajdonjogát. Ugye a Trevorul az
+
+672
+00:13:35,670 --> 00:13:35,680
+tulajdonjogát. Ugye a Trevorul az
+ 
+
+673
+00:13:35,680 --> 00:13:38,949
+tulajdonjogát. Ugye a Trevorul az
+utazási szabály is. Ezt kell, hogy
+
+674
+00:13:38,949 --> 00:13:38,959
+utazási szabály is. Ezt kell, hogy
+ 
+
+675
+00:13:38,959 --> 00:13:41,710
+utazási szabály is. Ezt kell, hogy
+ellenőrizze, hogy az a számla, az a
+
+676
+00:13:41,710 --> 00:13:41,720
+ellenőrizze, hogy az a számla, az a
+ 
+
+677
+00:13:41,720 --> 00:13:45,750
+ellenőrizze, hogy az a számla, az a
+tárca, ahova én kibe utalok, azok a
+
+678
+00:13:45,750 --> 00:13:45,760
+tárca, ahova én kibe utalok, azok a
+ 
+
+679
+00:13:45,760 --> 00:13:47,590
+tárca, ahova én kibe utalok, azok a
+sajátjaim, ha nem a sajátom,
+
+680
+00:13:47,590 --> 00:13:47,600
+sajátjaim, ha nem a sajátom,
+ 
+
+681
+00:13:47,600 --> 00:13:50,030
+sajátjaim, ha nem a sajátom,
+nyilatkoznom kell róla, hogy kié. Tehát,
+
+682
+00:13:50,030 --> 00:13:50,040
+nyilatkoznom kell róla, hogy kié. Tehát,
+ 
+
+683
+00:13:50,040 --> 00:13:51,829
+nyilatkoznom kell róla, hogy kié. Tehát,
+hogy egy dupla kötelmet ér elő, és
+
+684
+00:13:51,829 --> 00:13:51,839
+hogy egy dupla kötelmet ér elő, és
+ 
+
+685
+00:13:51,839 --> 00:13:54,910
+hogy egy dupla kötelmet ér elő, és
+mindezt ugye pénzért fogja tenni, mert
+
+686
+00:13:54,910 --> 00:13:54,920
+mindezt ugye pénzért fogja tenni, mert
+ 
+
+687
+00:13:54,920 --> 00:13:56,389
+mindezt ugye pénzért fogja tenni, mert
+ugye benne van a szabályokban az is,
+
+688
+00:13:56,389 --> 00:13:56,399
+ugye benne van a szabályokban az is,
+ 
+
+689
+00:13:56,399 --> 00:14:00,509
+ugye benne van a szabályokban az is,
+hogy majd a validálási szolgáltatásnak a
+
+690
+00:14:00,509 --> 00:14:00,519
+hogy majd a validálási szolgáltatásnak a
+ 
+
+691
+00:14:00,519 --> 00:14:03,069
+hogy majd a validálási szolgáltatásnak a
+az összegét azt majd nyilván a validáló
+
+692
+00:14:03,069 --> 00:14:03,079
+az összegét azt majd nyilván a validáló
+ 
+
+693
+00:14:03,079 --> 00:14:05,829
+az összegét azt majd nyilván a validáló
+szolgáltató fogja meghatározni. És akkor
+
+694
+00:14:05,829 --> 00:14:05,839
+szolgáltató fogja meghatározni. És akkor
+ 
+
+695
+00:14:05,839 --> 00:14:07,550
+szolgáltató fogja meghatározni. És akkor
+ugye volt még nekünk itt ez a fogalom,
+
+696
+00:14:07,550 --> 00:14:07,560
+ugye volt még nekünk itt ez a fogalom,
+ 
+
+697
+00:14:07,560 --> 00:14:11,350
+ugye volt még nekünk itt ez a fogalom,
+ez a megfelelősségi tanúsítvány,
+
+698
+00:14:11,350 --> 00:14:11,360
+ez a megfelelősségi tanúsítvány,
+ 
+
+699
+00:14:11,360 --> 00:14:13,829
+ez a megfelelősségi tanúsítvány,
+amit ugye feltételezhetően
+
+700
+00:14:13,829 --> 00:14:13,839
+amit ugye feltételezhetően
+ 
+
+701
+00:14:13,839 --> 00:14:16,350
+amit ugye feltételezhetően
+a bankok fognak majd kérni, amikor mi
+
+702
+00:14:16,350 --> 00:14:16,360
+a bankok fognak majd kérni, amikor mi
+ 
+
+703
+00:14:16,360 --> 00:14:18,350
+a bankok fognak majd kérni, amikor mi
+ott megpróbáljuk elhelyezni majd ebből a
+
+704
+00:14:18,350 --> 00:14:18,360
+ott megpróbáljuk elhelyezni majd ebből a
+ 
+
+705
+00:14:18,360 --> 00:14:21,470
+ott megpróbáljuk elhelyezni majd ebből a
+váltásból. szolgáló összeget. Jelen
+
+706
+00:14:21,470 --> 00:14:21,480
+váltásból. szolgáló összeget. Jelen
+ 
+
+707
+00:14:21,480 --> 00:14:23,550
+váltásból. szolgáló összeget. Jelen
+pillanatban a bankokra vonatkozó
+
+708
+00:14:23,550 --> 00:14:23,560
+pillanatban a bankokra vonatkozó
+ 
+
+709
+00:14:23,560 --> 00:14:26,470
+pillanatban a bankokra vonatkozó
+előadások nem citálnak megfelelősségi
+
+710
+00:14:26,470 --> 00:14:26,480
+előadások nem citálnak megfelelősségi
+ 
+
+711
+00:14:26,480 --> 00:14:28,069
+előadások nem citálnak megfelelősségi
+tanúsítványt.
+
+712
+00:14:28,069 --> 00:14:28,079
+tanúsítványt.
+ 
+
+713
+00:14:28,079 --> 00:14:30,430
+tanúsítványt.
+Tehát még ahhoz, hogy ezt jogszerűen
+
+714
+00:14:30,430 --> 00:14:30,440
+Tehát még ahhoz, hogy ezt jogszerűen
+ 
+
+715
+00:14:30,440 --> 00:14:32,829
+Tehát még ahhoz, hogy ezt jogszerűen
+kérhesse tőlünk bármelyik pénzintézet,
+
+716
+00:14:32,829 --> 00:14:32,839
+kérhesse tőlünk bármelyik pénzintézet,
+ 
+
+717
+00:14:32,839 --> 00:14:36,269
+kérhesse tőlünk bármelyik pénzintézet,
+ehhez még itt némi törvénymódosításra
+
+718
+00:14:36,269 --> 00:14:36,279
+ehhez még itt némi törvénymódosításra
+ 
+
+719
+00:14:36,279 --> 00:14:38,150
+ehhez még itt némi törvénymódosításra
+van szükség
+
+720
+00:14:38,150 --> 00:14:38,160
+van szükség
+ 
+
+721
+00:14:38,160 --> 00:14:42,949
+van szükség
+>> személyem, vagy hát szerintem
+
+722
+00:14:42,949 --> 00:14:42,959
+
+ 
+
+723
+00:14:42,959 --> 00:14:45,949
+
+de az is lehet, hogy nem fognak törvényt
+
+724
+00:14:45,949 --> 00:14:45,959
+de az is lehet, hogy nem fognak törvényt
+ 
+
+725
+00:14:45,959 --> 00:14:48,509
+de az is lehet, hogy nem fognak törvényt
+módosítani, hanem majd a bankok belső
+
+726
+00:14:48,509 --> 00:14:48,519
+módosítani, hanem majd a bankok belső
+ 
+
+727
+00:14:48,519 --> 00:14:50,470
+módosítani, hanem majd a bankok belső
+szabályzataiban megemlékeznek erről a
+
+728
+00:14:50,470 --> 00:14:50,480
+szabályzataiban megemlékeznek erről a
+ 
+
+729
+00:14:50,480 --> 00:14:52,910
+szabályzataiban megemlékeznek erről a
+megfelelégi tanúsítványról
+
+730
+00:14:52,910 --> 00:14:52,920
+megfelelégi tanúsítványról
+ 
+
+731
+00:14:52,920 --> 00:14:54,430
+megfelelégi tanúsítványról
+és
+
+732
+00:14:54,430 --> 00:14:54,440
+és
+ 
+
+733
+00:14:54,440 --> 00:14:56,990
+és
+nyilván majd küldenek valamiféle emailt,
+
+734
+00:14:56,990 --> 00:14:57,000
+nyilván majd küldenek valamiféle emailt,
+ 
+
+735
+00:14:57,000 --> 00:14:59,509
+nyilván majd küldenek valamiféle emailt,
+hogy megváltozott a az általános
+
+736
+00:14:59,509 --> 00:14:59,519
+hogy megváltozott a az általános
+ 
+
+737
+00:14:59,519 --> 00:15:01,509
+hogy megváltozott a az általános
+szerződési feltétlőnk, mert majd senki
+
+738
+00:15:01,509 --> 00:15:01,519
+szerződési feltétlőnk, mert majd senki
+ 
+
+739
+00:15:01,519 --> 00:15:03,389
+szerződési feltétlőnk, mert majd senki
+nem fog elolvasni.
+
+740
+00:15:03,389 --> 00:15:03,399
+nem fog elolvasni.
+ 
+
+741
+00:15:03,399 --> 00:15:05,150
+nem fog elolvasni.
+Hát ahogy menni szoktak ezek a dolgok,
+
+742
+00:15:05,150 --> 00:15:05,160
+Hát ahogy menni szoktak ezek a dolgok,
+ 
+
+743
+00:15:05,160 --> 00:15:09,790
+Hát ahogy menni szoktak ezek a dolgok,
+tudjátok vette. [nevetés]
+
+744
+00:15:09,790 --> 00:15:09,800
+
+ 
+
+745
+00:15:09,800 --> 00:15:12,670
+
+Jó, tehát ugye kijött a rendeletünk,
+
+746
+00:15:12,670 --> 00:15:12,680
+Jó, tehát ugye kijött a rendeletünk,
+ 
+
+747
+00:15:12,680 --> 00:15:14,189
+Jó, tehát ugye kijött a rendeletünk,
+amitől azért olyan nagyon sokkal
+
+748
+00:15:14,189 --> 00:15:14,199
+amitől azért olyan nagyon sokkal
+ 
+
+749
+00:15:14,199 --> 00:15:15,670
+amitől azért olyan nagyon sokkal
+okosabbak nem lettünk, és ezt a
+
+750
+00:15:15,670 --> 00:15:15,680
+okosabbak nem lettünk, és ezt a
+ 
+
+751
+00:15:15,680 --> 00:15:17,269
+okosabbak nem lettünk, és ezt a
+múltadásban el is mondtam, hogy kire
+
+752
+00:15:17,269 --> 00:15:17,279
+múltadásban el is mondtam, hogy kire
+ 
+
+753
+00:15:17,279 --> 00:15:19,030
+múltadásban el is mondtam, hogy kire
+vonatkozik ugye itt a validálás
+
+754
+00:15:19,030 --> 00:15:19,040
+vonatkozik ugye itt a validálás
+ 
+
+755
+00:15:19,040 --> 00:15:21,189
+vonatkozik ugye itt a validálás
+kötelezettsége. Ezt még egyszer hamar
+
+756
+00:15:21,189 --> 00:15:21,199
+kötelezettsége. Ezt még egyszer hamar
+ 
+
+757
+00:15:21,199 --> 00:15:23,910
+kötelezettsége. Ezt még egyszer hamar
+összefoglalva megemlíthetjük, hogy ugye
+
+758
+00:15:23,910 --> 00:15:23,920
+összefoglalva megemlíthetjük, hogy ugye
+ 
+
+759
+00:15:23,920 --> 00:15:25,430
+összefoglalva megemlíthetjük, hogy ugye
+magánszemélyekre
+
+760
+00:15:25,430 --> 00:15:25,440
+magánszemélyekre
+ 
+
+761
+00:15:25,440 --> 00:15:28,030
+magánszemélyekre
+nem vonatkozik a validálás, csak annak
+
+762
+00:15:28,030 --> 00:15:28,040
+nem vonatkozik a validálás, csak annak
+ 
+
+763
+00:15:28,040 --> 00:15:31,350
+nem vonatkozik a validálás, csak annak
+kell validálnia, aki üzletszerűen,
+
+764
+00:15:31,350 --> 00:15:31,360
+kell validálnia, aki üzletszerűen,
+ 
+
+765
+00:15:31,360 --> 00:15:33,509
+kell validálnia, aki üzletszerűen,
+bocsánat itt közben lesek, mert nem
+
+766
+00:15:33,509 --> 00:15:33,519
+bocsánat itt közben lesek, mert nem
+ 
+
+767
+00:15:33,519 --> 00:15:35,949
+bocsánat itt közben lesek, mert nem
+szeretném, hogyha bármi is kimaradna
+
+768
+00:15:35,949 --> 00:15:35,959
+szeretném, hogyha bármi is kimaradna
+ 
+
+769
+00:15:35,959 --> 00:15:40,030
+szeretném, hogyha bármi is kimaradna
+>> simán. Tehát, hogy üzletszerű váltás
+
+770
+00:15:40,030 --> 00:15:40,040
+>> simán. Tehát, hogy üzletszerű váltás
+ 
+
+771
+00:15:40,040 --> 00:15:41,990
+>> simán. Tehát, hogy üzletszerű váltás
+vonatkozik ide, nagyon szigorú
+
+772
+00:15:41,990 --> 00:15:42,000
+vonatkozik ide, nagyon szigorú
+ 
+
+773
+00:15:42,000 --> 00:15:43,590
+vonatkozik ide, nagyon szigorú
+feltételeknek kell megfelelniük a
+
+774
+00:15:43,590 --> 00:15:43,600
+feltételeknek kell megfelelniük a
+ 
+
+775
+00:15:43,600 --> 00:15:45,189
+feltételeknek kell megfelelniük a
+validálószolgáltatóknak,
+
+776
+00:15:45,189 --> 00:15:45,199
+validálószolgáltatóknak,
+ 
+
+777
+00:15:45,199 --> 00:15:46,990
+validálószolgáltatóknak,
+maguknak. Tehát ez egy ilyen mikak
+
+778
+00:15:46,990 --> 00:15:47,000
+maguknak. Tehát ez egy ilyen mikak
+ 
+
+779
+00:15:47,000 --> 00:15:49,550
+maguknak. Tehát ez egy ilyen mikak
+közeli feltételrendszer,
+
+780
+00:15:49,550 --> 00:15:49,560
+közeli feltételrendszer,
+ 
+
+781
+00:15:49,560 --> 00:15:52,470
+közeli feltételrendszer,
+amit ez a rendelet ugye meghatározott,
+
+782
+00:15:52,470 --> 00:15:52,480
+amit ez a rendelet ugye meghatározott,
+ 
+
+783
+00:15:52,480 --> 00:15:55,990
+amit ez a rendelet ugye meghatározott,
+törzőkével, felügyelő bizottsággal
+
+784
+00:15:55,990 --> 00:15:56,000
+törzőkével, felügyelő bizottsággal
+ 
+
+785
+00:15:56,000 --> 00:15:58,389
+törzőkével, felügyelő bizottsággal
+és hát egy sor kritériummal, amelyeknek
+
+786
+00:15:58,389 --> 00:15:58,399
+és hát egy sor kritériummal, amelyeknek
+ 
+
+787
+00:15:58,399 --> 00:16:00,749
+és hát egy sor kritériummal, amelyeknek
+meg kell felelni. De ugye ebből ami a
+
+788
+00:16:00,749 --> 00:16:00,759
+meg kell felelni. De ugye ebből ami a
+ 
+
+789
+00:16:00,759 --> 00:16:03,509
+meg kell felelni. De ugye ebből ami a
+lényeg, az az, hogy a magánszemélyek,
+
+790
+00:16:03,509 --> 00:16:03,519
+lényeg, az az, hogy a magánszemélyek,
+ 
+
+791
+00:16:03,519 --> 00:16:07,389
+lényeg, az az, hogy a magánszemélyek,
+akik csak saját maguk számára váltanak,
+
+792
+00:16:07,389 --> 00:16:07,399
+akik csak saját maguk számára váltanak,
+ 
+
+793
+00:16:07,399 --> 00:16:09,790
+akik csak saját maguk számára váltanak,
+és nem üzletszerűen, és nem érik el azt
+
+794
+00:16:09,790 --> 00:16:09,800
+és nem üzletszerűen, és nem érik el azt
+ 
+
+795
+00:16:09,800 --> 00:16:11,389
+és nem üzletszerűen, és nem érik el azt
+a bizonyos értékhatárt, hogy ami 5
+
+796
+00:16:11,389 --> 00:16:11,399
+a bizonyos értékhatárt, hogy ami 5
+ 
+
+797
+00:16:11,399 --> 00:16:15,189
+a bizonyos értékhatárt, hogy ami 5
+millió Ft, ők nem esnek a validálás alá.
+
+798
+00:16:15,189 --> 00:16:15,199
+millió Ft, ők nem esnek a validálás alá.
+ 
+
+799
+00:16:15,199 --> 00:16:18,069
+millió Ft, ők nem esnek a validálás alá.
+A hatályba lépés ugye még ami kimaradt,
+
+800
+00:16:18,069 --> 00:16:18,079
+A hatályba lépés ugye még ami kimaradt,
+ 
+
+801
+00:16:18,079 --> 00:16:20,230
+A hatályba lépés ugye még ami kimaradt,
+ugye azt mondta nekünk ez a rendelet a
+
+802
+00:16:20,230 --> 00:16:20,240
+ugye azt mondta nekünk ez a rendelet a
+ 
+
+803
+00:16:20,240 --> 00:16:22,350
+ugye azt mondta nekünk ez a rendelet a
+múlt héten, hogy október 30-ától fog
+
+804
+00:16:22,350 --> 00:16:22,360
+múlt héten, hogy október 30-ától fog
+ 
+
+805
+00:16:22,360 --> 00:16:24,110
+múlt héten, hogy október 30-ától fog
+hatályba lépni, és onnan lesz majd 60
+
+806
+00:16:24,110 --> 00:16:24,120
+hatályba lépni, és onnan lesz majd 60
+ 
+
+807
+00:16:24,120 --> 00:16:25,870
+hatályba lépni, és onnan lesz majd 60
+napja a piacnak, hogy felkészüljön,
+
+808
+00:16:25,870 --> 00:16:25,880
+napja a piacnak, hogy felkészüljön,
+ 
+
+809
+00:16:25,880 --> 00:16:27,389
+napja a piacnak, hogy felkészüljön,
+illetve legyen egy darab szolgáltató,
+
+810
+00:16:27,389 --> 00:16:27,399
+illetve legyen egy darab szolgáltató,
+ 
+
+811
+00:16:27,399 --> 00:16:28,829
+illetve legyen egy darab szolgáltató,
+aki megszerzi ezt a validálási
+
+812
+00:16:28,829 --> 00:16:28,839
+aki megszerzi ezt a validálási
+ 
+
+813
+00:16:28,839 --> 00:16:31,350
+aki megszerzi ezt a validálási
+engedélyt. Tehát biztonsággal mondhatjuk
+
+814
+00:16:31,350 --> 00:16:31,360
+engedélyt. Tehát biztonsággal mondhatjuk
+ 
+
+815
+00:16:31,360 --> 00:16:34,629
+engedélyt. Tehát biztonsággal mondhatjuk
+azt, hogy 202 január 1jétől fognak ezek
+
+816
+00:16:34,629 --> 00:16:34,639
+azt, hogy 202 január 1jétől fognak ezek
+ 
+
+817
+00:16:34,639 --> 00:16:37,189
+azt, hogy 202 január 1jétől fognak ezek
+a szabályok hatályba lépni a BTK-val
+
+818
+00:16:37,189 --> 00:16:37,199
+a szabályok hatályba lépni a BTK-val
+ 
+
+819
+00:16:37,199 --> 00:16:40,430
+a szabályok hatályba lépni a BTK-val
+egyetemben. Tehát a BTK is csak onnantól
+
+820
+00:16:40,430 --> 00:16:40,440
+egyetemben. Tehát a BTK is csak onnantól
+ 
+
+821
+00:16:40,440 --> 00:16:43,629
+egyetemben. Tehát a BTK is csak onnantól
+alkalmazható, amikortól ezek a további
+
+822
+00:16:43,629 --> 00:16:43,639
+alkalmazható, amikortól ezek a további
+ 
+
+823
+00:16:43,639 --> 00:16:46,949
+alkalmazható, amikortól ezek a további
+szabályok is maguk hatályba lépnek. Ugye
+
+824
+00:16:46,949 --> 00:16:46,959
+szabályok is maguk hatályba lépnek. Ugye
+ 
+
+825
+00:16:46,959 --> 00:16:49,230
+szabályok is maguk hatályba lépnek. Ugye
+a BTK-ról nem emlékeztünk még meg, azt
+
+826
+00:16:49,230 --> 00:16:49,240
+a BTK-ról nem emlékeztünk még meg, azt
+ 
+
+827
+00:16:49,240 --> 00:16:51,430
+a BTK-ról nem emlékeztünk még meg, azt
+összefoglalva elmondható, hogy 2025
+
+828
+00:16:51,430 --> 00:16:51,440
+összefoglalva elmondható, hogy 2025
+ 
+
+829
+00:16:51,440 --> 00:16:54,550
+összefoglalva elmondható, hogy 2025
+július 1jétől egészült ki a BTK ezzel a
+
+830
+00:16:54,550 --> 00:16:54,560
+július 1jétől egészült ki a BTK ezzel a
+ 
+
+831
+00:16:54,560 --> 00:16:56,790
+július 1jétől egészült ki a BTK ezzel a
+két új tényállással.
+
+832
+00:16:56,790 --> 00:16:56,800
+két új tényállással.
+ 
+
+833
+00:16:56,800 --> 00:16:58,470
+két új tényállással.
+Ugye egyik a kriptoeszközzel való
+
+834
+00:16:58,470 --> 00:16:58,480
+Ugye egyik a kriptoeszközzel való
+ 
+
+835
+00:16:58,480 --> 00:17:00,550
+Ugye egyik a kriptoeszközzel való
+visszaélés, a másik pedig a jogosulatlan
+
+836
+00:17:00,550 --> 00:17:00,560
+visszaélés, a másik pedig a jogosulatlan
+ 
+
+837
+00:17:00,560 --> 00:17:03,150
+visszaélés, a másik pedig a jogosulatlan
+kriptoeszköz átváltási és szolgáltatás
+
+838
+00:17:03,150 --> 00:17:03,160
+kriptoeszköz átváltási és szolgáltatás
+ 
+
+839
+00:17:03,160 --> 00:17:05,949
+kriptoeszköz átváltási és szolgáltatás
+nyújtása. Ugye a gyakorlati értelmezések
+
+840
+00:17:05,949 --> 00:17:05,959
+nyújtása. Ugye a gyakorlati értelmezések
+ 
+
+841
+00:17:05,959 --> 00:17:08,309
+nyújtása. Ugye a gyakorlati értelmezések
+szerint a felhasználó is felelősséget
+
+842
+00:17:08,309 --> 00:17:08,319
+szerint a felhasználó is felelősséget
+ 
+
+843
+00:17:08,319 --> 00:17:10,350
+szerint a felhasználó is felelősséget
+viselhet, hogyha jogosulatlan
+
+844
+00:17:10,350 --> 00:17:10,360
+viselhet, hogyha jogosulatlan
+ 
+
+845
+00:17:10,360 --> 00:17:12,789
+viselhet, hogyha jogosulatlan
+szolgáltatást vesz igénybe, különösen a
+
+846
+00:17:12,789 --> 00:17:12,799
+szolgáltatást vesz igénybe, különösen a
+ 
+
+847
+00:17:12,799 --> 00:17:15,549
+szolgáltatást vesz igénybe, különösen a
+jelentős érték felett, ami ugye az 5
+
+848
+00:17:15,549 --> 00:17:15,559
+jelentős érték felett, ami ugye az 5
+ 
+
+849
+00:17:15,559 --> 00:17:18,909
+jelentős érték felett, ami ugye az 5
+millió Ft értékhatár, a BTK értékhatár
+
+850
+00:17:18,909 --> 00:17:18,919
+millió Ft értékhatár, a BTK értékhatár
+ 
+
+851
+00:17:18,919 --> 00:17:21,309
+millió Ft értékhatár, a BTK értékhatár
+rendszeréhez viszonyulva, vagy hát
+
+852
+00:17:21,309 --> 00:17:21,319
+rendszeréhez viszonyulva, vagy hát
+ 
+
+853
+00:17:21,319 --> 00:17:22,870
+rendszeréhez viszonyulva, vagy hát
+igazodva.
+
+854
+00:17:22,870 --> 00:17:22,880
+igazodva.
+ 
+
+855
+00:17:22,880 --> 00:17:24,510
+igazodva.
+Tehát a gyakorlatban a bűncselekmény
+
+856
+00:17:24,510 --> 00:17:24,520
+Tehát a gyakorlatban a bűncselekmény
+ 
+
+857
+00:17:24,520 --> 00:17:27,630
+Tehát a gyakorlatban a bűncselekmény
+akkor valósulhat meg, amikortől az
+
+858
+00:17:27,630 --> 00:17:27,640
+akkor valósulhat meg, amikortől az
+ 
+
+859
+00:17:27,640 --> 00:17:29,150
+akkor valósulhat meg, amikortől az
+ágazati részletszabályok is
+
+860
+00:17:29,150 --> 00:17:29,160
+ágazati részletszabályok is
+ 
+
+861
+00:17:29,160 --> 00:17:31,230
+ágazati részletszabályok is
+alkalmazandók,
+
+862
+00:17:31,230 --> 00:17:31,240
+alkalmazandók,
+ 
+
+863
+00:17:31,240 --> 00:17:34,390
+alkalmazandók,
+vagyis a validási rendelet startjától,
+
+864
+00:17:34,390 --> 00:17:34,400
+vagyis a validási rendelet startjától,
+ 
+
+865
+00:17:34,400 --> 00:17:37,950
+vagyis a validási rendelet startjától,
+ami 2026 január elszi, amit ugye itt
+
+866
+00:17:37,950 --> 00:17:37,960
+ami 2026 január elszi, amit ugye itt
+ 
+
+867
+00:17:37,960 --> 00:17:39,669
+ami 2026 január elszi, amit ugye itt
+érdemes felvázolni, mert ugye ezek
+
+868
+00:17:39,669 --> 00:17:39,679
+érdemes felvázolni, mert ugye ezek
+ 
+
+869
+00:17:39,679 --> 00:17:42,070
+érdemes felvázolni, mert ugye ezek
+szoktak a a jellemző kérdések lenni,
+
+870
+00:17:42,070 --> 00:17:42,080
+szoktak a a jellemző kérdések lenni,
+ 
+
+871
+00:17:42,080 --> 00:17:44,909
+szoktak a a jellemző kérdések lenni,
+hogy most akkor bűncselekménnyel váltok,
+
+872
+00:17:44,909 --> 00:17:44,919
+hogy most akkor bűncselekménnyel váltok,
+ 
+
+873
+00:17:44,919 --> 00:17:47,150
+hogy most akkor bűncselekménnyel váltok,
+szabad-e akkor Magyarországon kriptót
+
+874
+00:17:47,150 --> 00:17:47,160
+szabad-e akkor Magyarországon kriptót
+ 
+
+875
+00:17:47,160 --> 00:17:50,190
+szabad-e akkor Magyarországon kriptót
+venni? Ezeket szeretném eloszlatni.
+
+876
+00:17:50,190 --> 00:17:50,200
+venni? Ezeket szeretném eloszlatni.
+ 
+
+877
+00:17:50,200 --> 00:17:51,430
+venni? Ezeket szeretném eloszlatni.
+Igen, lehet kriptót venni
+
+878
+00:17:51,430 --> 00:17:51,440
+Igen, lehet kriptót venni
+ 
+
+879
+00:17:51,440 --> 00:17:55,070
+Igen, lehet kriptót venni
+Magyarországon, BTC-t kell venni, de ez
+
+880
+00:17:55,070 --> 00:17:55,080
+Magyarországon, BTC-t kell venni, de ez
+ 
+
+881
+00:17:55,080 --> 00:17:57,510
+Magyarországon, BTC-t kell venni, de ez
+nem pénzügyi tanácsadás. Ugyanakkor
+
+882
+00:17:57,510 --> 00:17:57,520
+nem pénzügyi tanácsadás. Ugyanakkor
+ 
+
+883
+00:17:57,520 --> 00:17:59,190
+nem pénzügyi tanácsadás. Ugyanakkor
+figyelemmel kell lenni arra, hogy az a
+
+884
+00:17:59,190 --> 00:17:59,200
+figyelemmel kell lenni arra, hogy az a
+ 
+
+885
+00:17:59,200 --> 00:18:01,310
+figyelemmel kell lenni arra, hogy az a
+kriptaeszközszolgáltató, akitől mi
+
+886
+00:18:01,310 --> 00:18:01,320
+kriptaeszközszolgáltató, akitől mi
+ 
+
+887
+00:18:01,320 --> 00:18:03,510
+kriptaeszközszolgáltató, akitől mi
+legálisan kívánunk BTC-t vásárolni,
+
+888
+00:18:03,510 --> 00:18:03,520
+legálisan kívánunk BTC-t vásárolni,
+ 
+
+889
+00:18:03,520 --> 00:18:06,430
+legálisan kívánunk BTC-t vásárolni,
+mikor engedélyel rendelkezik.
+
+890
+00:18:06,430 --> 00:18:06,440
+mikor engedélyel rendelkezik.
+ 
+
+891
+00:18:06,440 --> 00:18:08,590
+mikor engedélyel rendelkezik.
+2026 január 1jétől már arra is
+
+892
+00:18:08,590 --> 00:18:08,600
+2026 január 1jétől már arra is
+ 
+
+893
+00:18:08,600 --> 00:18:09,990
+2026 január 1jétől már arra is
+figyelemmel kell lennünk, hogy
+
+894
+00:18:09,990 --> 00:18:10,000
+figyelemmel kell lennünk, hogy
+ 
+
+895
+00:18:10,000 --> 00:18:12,549
+figyelemmel kell lennünk, hogy
+validálási engedéllyel
+
+896
+00:18:12,549 --> 00:18:12,559
+validálási engedéllyel
+ 
+
+897
+00:18:12,559 --> 00:18:14,230
+validálási engedéllyel
+rendelkezik-e. Tehát egy validálási
+
+898
+00:18:14,230 --> 00:18:14,240
+rendelkezik-e. Tehát egy validálási
+ 
+
+899
+00:18:14,240 --> 00:18:16,430
+rendelkezik-e. Tehát egy validálási
+szolgáltató validálja-e azt a
+
+900
+00:18:16,430 --> 00:18:16,440
+szolgáltató validálja-e azt a
+ 
+
+901
+00:18:16,440 --> 00:18:18,789
+szolgáltató validálja-e azt a
+szolgáltatót, ahol mi vásárolni
+
+902
+00:18:18,789 --> 00:18:18,799
+szolgáltatót, ahol mi vásárolni
+ 
+
+903
+00:18:18,799 --> 00:18:21,710
+szolgáltatót, ahol mi vásárolni
+kívánunk. És ugye ezt tekintettel a BTKR
+
+904
+00:18:21,710 --> 00:18:21,720
+kívánunk. És ugye ezt tekintettel a BTKR
+ 
+
+905
+00:18:21,720 --> 00:18:23,710
+kívánunk. És ugye ezt tekintettel a BTKR
+mi magunknak kell ellenőriznünk, hogy
+
+906
+00:18:23,710 --> 00:18:23,720
+mi magunknak kell ellenőriznünk, hogy
+ 
+
+907
+00:18:23,720 --> 00:18:25,590
+mi magunknak kell ellenőriznünk, hogy
+nehogy véletlenül elkövessük a
+
+908
+00:18:25,590 --> 00:18:25,600
+nehogy véletlenül elkövessük a
+ 
+
+909
+00:18:25,600 --> 00:18:28,510
+nehogy véletlenül elkövessük a
+jogosulatlan, illetve nem azt ne ne
+
+910
+00:18:28,510 --> 00:18:28,520
+jogosulatlan, illetve nem azt ne ne
+ 
+
+911
+00:18:28,520 --> 00:18:31,549
+jogosulatlan, illetve nem azt ne ne
+kövessük el, hanem a kriptoeszközzel
+
+912
+00:18:31,549 --> 00:18:31,559
+kövessük el, hanem a kriptoeszközzel
+ 
+
+913
+00:18:31,559 --> 00:18:33,710
+kövessük el, hanem a kriptoeszközzel
+visszaélést ne kövessük el. Mi van
+
+914
+00:18:33,710 --> 00:18:33,720
+visszaélést ne kövessük el. Mi van
+ 
+
+915
+00:18:33,720 --> 00:18:35,470
+visszaélést ne kövessük el. Mi van
+akkor, hogyha mi egy külföldi váltótól
+
+916
+00:18:35,470 --> 00:18:35,480
+akkor, hogyha mi egy külföldi váltótól
+ 
+
+917
+00:18:35,480 --> 00:18:37,950
+akkor, hogyha mi egy külföldi váltótól
+szeretnénk vásárolni?
+
+918
+00:18:37,950 --> 00:18:37,960
+szeretnénk vásárolni?
+ 
+
+919
+00:18:37,960 --> 00:18:40,950
+szeretnénk vásárolni?
+>> Tehát ugye jogszerűen megtehetjük a ezt,
+
+920
+00:18:40,950 --> 00:18:40,960
+>> Tehát ugye jogszerűen megtehetjük a ezt,
+ 
+
+921
+00:18:40,960 --> 00:18:43,270
+>> Tehát ugye jogszerűen megtehetjük a ezt,
+amennyiben Mika engedélyes váltótól
+
+922
+00:18:43,270 --> 00:18:43,280
+amennyiben Mika engedélyes váltótól
+ 
+
+923
+00:18:43,280 --> 00:18:45,630
+amennyiben Mika engedélyes váltótól
+vásárolunk. Itt egy kicsit ugorjunk
+
+924
+00:18:45,630 --> 00:18:45,640
+vásárolunk. Itt egy kicsit ugorjunk
+ 
+
+925
+00:18:45,640 --> 00:18:47,750
+vásárolunk. Itt egy kicsit ugorjunk
+vissza a Mikához, hogy megértsük azt,
+
+926
+00:18:47,750 --> 00:18:47,760
+vissza a Mikához, hogy megértsük azt,
+ 
+
+927
+00:18:47,760 --> 00:18:49,830
+vissza a Mikához, hogy megértsük azt,
+hogy mit jelent a passporting. Ugye itt
+
+928
+00:18:49,830 --> 00:18:49,840
+hogy mit jelent a passporting. Ugye itt
+ 
+
+929
+00:18:49,840 --> 00:18:51,270
+hogy mit jelent a passporting. Ugye itt
+a mikor rendelet, és ez ugyanúgy
+
+930
+00:18:51,270 --> 00:18:51,280
+a mikor rendelet, és ez ugyanúgy
+ 
+
+931
+00:18:51,280 --> 00:18:54,270
+a mikor rendelet, és ez ugyanúgy
+működik, mint bármelyik banki engedély.
+
+932
+00:18:54,270 --> 00:18:54,280
+működik, mint bármelyik banki engedély.
+ 
+
+933
+00:18:54,280 --> 00:18:57,350
+működik, mint bármelyik banki engedély.
+Hogyha én egy szolgáltató vagyok, és
+
+934
+00:18:57,350 --> 00:18:57,360
+Hogyha én egy szolgáltató vagyok, és
+ 
+
+935
+00:18:57,360 --> 00:18:59,190
+Hogyha én egy szolgáltató vagyok, és
+Magyarországon hozzuk ezt példának
+
+936
+00:18:59,190 --> 00:18:59,200
+Magyarországon hozzuk ezt példának
+ 
+
+937
+00:18:59,200 --> 00:19:00,630
+Magyarországon hozzuk ezt példának
+Magyarországon megszerzem a mikro
+
+938
+00:19:00,630 --> 00:19:00,640
+Magyarországon megszerzem a mikro
+ 
+
+939
+00:19:00,640 --> 00:19:01,909
+Magyarországon megszerzem a mikro
+engedélyt, akkor az úgynevezett
+
+940
+00:19:01,909 --> 00:19:01,919
+engedélyt, akkor az úgynevezett
+ 
+
+941
+00:19:01,919 --> 00:19:04,230
+engedélyt, akkor az úgynevezett
+passporting szabály alapján minden
+
+942
+00:19:04,230 --> 00:19:04,240
+passporting szabály alapján minden
+ 
+
+943
+00:19:04,240 --> 00:19:06,830
+passporting szabály alapján minden
+európai uniós tagállamban jogszerűen
+
+944
+00:19:06,830 --> 00:19:06,840
+európai uniós tagállamban jogszerűen
+ 
+
+945
+00:19:06,840 --> 00:19:09,470
+európai uniós tagállamban jogszerűen
+szolgáltathatok. Amennyiben ezt
+
+946
+00:19:09,470 --> 00:19:09,480
+szolgáltathatok. Amennyiben ezt
+ 
+
+947
+00:19:09,480 --> 00:19:12,510
+szolgáltathatok. Amennyiben ezt
+bejelentem az adott tagállam nemzeti
+
+948
+00:19:12,510 --> 00:19:12,520
+bejelentem az adott tagállam nemzeti
+ 
+
+949
+00:19:12,520 --> 00:19:15,230
+bejelentem az adott tagállam nemzeti
+hatósága számára.
+
+950
+00:19:15,230 --> 00:19:15,240
+hatósága számára.
+ 
+
+951
+00:19:15,240 --> 00:19:16,950
+hatósága számára.
+Ez egy sima értesítést jelent a
+
+952
+00:19:16,950 --> 00:19:16,960
+Ez egy sima értesítést jelent a
+ 
+
+953
+00:19:16,960 --> 00:19:20,149
+Ez egy sima értesítést jelent a
+gyakorlatban. Az én compliance osztályom
+
+954
+00:19:20,149 --> 00:19:20,159
+gyakorlatban. Az én compliance osztályom
+ 
+
+955
+00:19:20,159 --> 00:19:23,669
+gyakorlatban. Az én compliance osztályom
+vezetője elkészíti a a az iratot és
+
+956
+00:19:23,669 --> 00:19:23,679
+vezetője elkészíti a a az iratot és
+ 
+
+957
+00:19:23,679 --> 00:19:25,830
+vezetője elkészíti a a az iratot és
+benyújtja azon tagállamok nemzeti
+
+958
+00:19:25,830 --> 00:19:25,840
+benyújtja azon tagállamok nemzeti
+ 
+
+959
+00:19:25,840 --> 00:19:27,470
+benyújtja azon tagállamok nemzeti
+hatóságának,
+
+960
+00:19:27,470 --> 00:19:27,480
+hatóságának,
+ 
+
+961
+00:19:27,480 --> 00:19:29,149
+hatóságának,
+ahol én szolgáltatni kívánok. Tehát ez
+
+962
+00:19:29,149 --> 00:19:29,159
+ahol én szolgáltatni kívánok. Tehát ez
+ 
+
+963
+00:19:29,159 --> 00:19:32,270
+ahol én szolgáltatni kívánok. Tehát ez
+sem azt jelenti, hogy én akkor a tag az
+
+964
+00:19:32,270 --> 00:19:32,280
+sem azt jelenti, hogy én akkor a tag az
+ 
+
+965
+00:19:32,280 --> 00:19:35,510
+sem azt jelenti, hogy én akkor a tag az
+összes tagállamban szó nélkül támadhatom
+
+966
+00:19:35,510 --> 00:19:35,520
+összes tagállamban szó nélkül támadhatom
+ 
+
+967
+00:19:35,520 --> 00:19:37,789
+összes tagállamban szó nélkül támadhatom
+ott a a helyi piacot a mindenféle
+
+968
+00:19:37,789 --> 00:19:37,799
+ott a a helyi piacot a mindenféle
+ 
+
+969
+00:19:37,799 --> 00:19:40,110
+ott a a helyi piacot a mindenféle
+szolgáltatásommal, hanem optimális
+
+970
+00:19:40,110 --> 00:19:40,120
+szolgáltatásommal, hanem optimális
+ 
+
+971
+00:19:40,120 --> 00:19:41,710
+szolgáltatásommal, hanem optimális
+esetben ugye minden kripteszköz
+
+972
+00:19:41,710 --> 00:19:41,720
+esetben ugye minden kripteszköz
+ 
+
+973
+00:19:41,720 --> 00:19:44,149
+esetben ugye minden kripteszköz
+szolgáltatónak van egy üzleti terve,
+
+974
+00:19:44,149 --> 00:19:44,159
+szolgáltatónak van egy üzleti terve,
+ 
+
+975
+00:19:44,159 --> 00:19:46,149
+szolgáltatónak van egy üzleti terve,
+amely szintén engedélyezresésre került
+
+976
+00:19:46,149 --> 00:19:46,159
+amely szintén engedélyezresésre került
+ 
+
+977
+00:19:46,159 --> 00:19:47,950
+amely szintén engedélyezresésre került
+ugye a saját nemzeti hatóságánál. Ott
+
+978
+00:19:47,950 --> 00:19:47,960
+ugye a saját nemzeti hatóságánál. Ott
+ 
+
+979
+00:19:47,960 --> 00:19:50,430
+ugye a saját nemzeti hatóságánál. Ott
+meghatározza azokat a piacokat,
+
+980
+00:19:50,430 --> 00:19:50,440
+meghatározza azokat a piacokat,
+ 
+
+981
+00:19:50,440 --> 00:19:53,430
+meghatározza azokat a piacokat,
+amelyekre ő törni kíván, és elvégzi
+
+982
+00:19:53,430 --> 00:19:53,440
+amelyekre ő törni kíván, és elvégzi
+ 
+
+983
+00:19:53,440 --> 00:19:56,669
+amelyekre ő törni kíván, és elvégzi
+ezeket a az értesítéseket az adott
+
+984
+00:19:56,669 --> 00:19:56,679
+ezeket a az értesítéseket az adott
+ 
+
+985
+00:19:56,679 --> 00:19:59,110
+ezeket a az értesítéseket az adott
+nemzeti hatóságoknál.
+
+986
+00:19:59,110 --> 00:19:59,120
+nemzeti hatóságoknál.
+ 
+
+987
+00:19:59,120 --> 00:20:01,149
+nemzeti hatóságoknál.
+Amennyiben ezt nem végzi el, hiába van
+
+988
+00:20:01,149 --> 00:20:01,159
+Amennyiben ezt nem végzi el, hiába van
+ 
+
+989
+00:20:01,159 --> 00:20:03,350
+Amennyiben ezt nem végzi el, hiába van
+mikroengedélye,
+
+990
+00:20:03,350 --> 00:20:03,360
+mikroengedélye,
+ 
+
+991
+00:20:03,360 --> 00:20:05,549
+mikroengedélye,
+nem teljesen jogszerű a szolgáltatása.
+
+992
+00:20:05,549 --> 00:20:05,559
+nem teljesen jogszerű a szolgáltatása.
+ 
+
+993
+00:20:05,559 --> 00:20:07,549
+nem teljesen jogszerű a szolgáltatása.
+Tehát ez visszafelé is igaz, amennyiben
+
+994
+00:20:07,549 --> 00:20:07,559
+Tehát ez visszafelé is igaz, amennyiben
+ 
+
+995
+00:20:07,559 --> 00:20:11,190
+Tehát ez visszafelé is igaz, amennyiben
+egy, nem tudom én, vegyük a Revolutot,
+
+996
+00:20:11,190 --> 00:20:11,200
+egy, nem tudom én, vegyük a Revolutot,
+ 
+
+997
+00:20:11,200 --> 00:20:13,669
+egy, nem tudom én, vegyük a Revolutot,
+ugye, aki a múlt héten szerezte meg
+
+998
+00:20:13,669 --> 00:20:13,679
+ugye, aki a múlt héten szerezte meg
+ 
+
+999
+00:20:13,679 --> 00:20:16,549
+ugye, aki a múlt héten szerezte meg
+Cipruson a Mika engedélyét. Ugye azt
+
+1000
+00:20:16,549 --> 00:20:16,559
+Cipruson a Mika engedélyét. Ugye azt
+ 
+
+1001
+00:20:16,559 --> 00:20:18,310
+Cipruson a Mika engedélyét. Ugye azt
+nagyon kell figyelnünk majd, még nem
+
+1002
+00:20:18,310 --> 00:20:18,320
+nagyon kell figyelnünk majd, még nem
+ 
+
+1003
+00:20:18,320 --> 00:20:21,750
+nagyon kell figyelnünk majd, még nem
+néztem meg, hogy a Magyar Nemzeti Bank
+
+1004
+00:20:21,750 --> 00:20:21,760
+néztem meg, hogy a Magyar Nemzeti Bank
+ 
+
+1005
+00:20:21,760 --> 00:20:23,510
+néztem meg, hogy a Magyar Nemzeti Bank
+ugye ilyenkor frissíti majd az ő
+
+1006
+00:20:23,510 --> 00:20:23,520
+ugye ilyenkor frissíti majd az ő
+ 
+
+1007
+00:20:23,520 --> 00:20:26,430
+ugye ilyenkor frissíti majd az ő
+adatbázisát, hogy az állampolgárok
+
+1008
+00:20:26,430 --> 00:20:26,440
+adatbázisát, hogy az állampolgárok
+ 
+
+1009
+00:20:26,440 --> 00:20:28,070
+adatbázisát, hogy az állampolgárok
+elnőrizni tudják azt, hogy vajon a
+
+1010
+00:20:28,070 --> 00:20:28,080
+elnőrizni tudják azt, hogy vajon a
+ 
+
+1011
+00:20:28,080 --> 00:20:31,110
+elnőrizni tudják azt, hogy vajon a
+Revolute már beadta-e az értesítését a
+
+1012
+00:20:31,110 --> 00:20:31,120
+Revolute már beadta-e az értesítését a
+ 
+
+1013
+00:20:31,120 --> 00:20:32,950
+Revolute már beadta-e az értesítését a
+Magyar Nemzeti Banknak, hogy ő márpedig
+
+1014
+00:20:32,950 --> 00:20:32,960
+Magyar Nemzeti Banknak, hogy ő márpedig
+ 
+
+1015
+00:20:32,960 --> 00:20:33,990
+Magyar Nemzeti Banknak, hogy ő márpedig
+Magyarországon
+
+1016
+00:20:33,990 --> 00:20:34,000
+Magyarországon
+ 
+
+1017
+00:20:34,000 --> 00:20:35,630
+Magyarországon
+kriptoeszközszolgáltatásokat
+
+1018
+00:20:35,630 --> 00:20:35,640
+kriptoeszközszolgáltatásokat
+ 
+
+1019
+00:20:35,640 --> 00:20:38,190
+kriptoeszközszolgáltatásokat
+szeretne nyújtani. Amennyiben ezt
+
+1020
+00:20:38,190 --> 00:20:38,200
+szeretne nyújtani. Amennyiben ezt
+ 
+
+1021
+00:20:38,200 --> 00:20:40,669
+szeretne nyújtani. Amennyiben ezt
+megtette, jelen pillanatban még mivel
+
+1022
+00:20:40,669 --> 00:20:40,679
+megtette, jelen pillanatban még mivel
+ 
+
+1023
+00:20:40,679 --> 00:20:42,750
+megtette, jelen pillanatban még mivel
+nincsen validáló szolgáltató, teljesen
+
+1024
+00:20:42,750 --> 00:20:42,760
+nincsen validáló szolgáltató, teljesen
+ 
+
+1025
+00:20:42,760 --> 00:20:45,190
+nincsen validáló szolgáltató, teljesen
+jogszerűen vásárolhatunk. Oda-vissza
+
+1026
+00:20:45,190 --> 00:20:45,200
+jogszerűen vásárolhatunk. Oda-vissza
+ 
+
+1027
+00:20:45,200 --> 00:20:47,950
+jogszerűen vásárolhatunk. Oda-vissza
+csináltunk, amit szeretnénk.
+
+1028
+00:20:47,950 --> 00:20:47,960
+csináltunk, amit szeretnénk.
+ 
+
+1029
+00:20:47,960 --> 00:20:50,510
+csináltunk, amit szeretnénk.
+Viszont január 1-től ez érdekes lesz,
+
+1030
+00:20:50,510 --> 00:20:50,520
+Viszont január 1-től ez érdekes lesz,
+ 
+
+1031
+00:20:50,520 --> 00:20:52,470
+Viszont január 1-től ez érdekes lesz,
+megmondom őszintén, hogy nem tudom rá a
+
+1032
+00:20:52,470 --> 00:20:52,480
+megmondom őszintén, hogy nem tudom rá a
+ 
+
+1033
+00:20:52,480 --> 00:20:53,669
+megmondom őszintén, hogy nem tudom rá a
+választ.
+
+1034
+00:20:53,669 --> 00:20:53,679
+választ.
+ 
+
+1035
+00:20:53,679 --> 00:20:56,669
+választ.
+>> Aki tudja rá a választ, az válaszoljon.
+
+1036
+00:20:56,669 --> 00:20:56,679
+>> Aki tudja rá a választ, az válaszoljon.
+ 
+
+1037
+00:20:56,679 --> 00:20:58,830
+>> Aki tudja rá a választ, az válaszoljon.
+Én nem tudom rá a választ, mivel ez úgy
+
+1038
+00:20:58,830 --> 00:20:58,840
+Én nem tudom rá a választ, mivel ez úgy
+ 
+
+1039
+00:20:58,840 --> 00:21:01,830
+Én nem tudom rá a választ, mivel ez úgy
+gondolom a jövőben fog eldőlni, hogy
+
+1040
+00:21:01,830 --> 00:21:01,840
+gondolom a jövőben fog eldőlni, hogy
+ 
+
+1041
+00:21:01,840 --> 00:21:04,750
+gondolom a jövőben fog eldőlni, hogy
+mertogy ez egy ez egy extra teher lenne,
+
+1042
+00:21:04,750 --> 00:21:04,760
+mertogy ez egy ez egy extra teher lenne,
+ 
+
+1043
+00:21:04,760 --> 00:21:07,310
+mertogy ez egy ez egy extra teher lenne,
+ugye, és egy kicsit ellentétes is az EU
+
+1044
+00:21:07,310 --> 00:21:07,320
+ugye, és egy kicsit ellentétes is az EU
+ 
+
+1045
+00:21:07,320 --> 00:21:09,710
+ugye, és egy kicsit ellentétes is az EU
+szabállyal, hogy egy magyar hatóság
+
+1046
+00:21:09,710 --> 00:21:09,720
+szabállyal, hogy egy magyar hatóság
+ 
+
+1047
+00:21:09,720 --> 00:21:12,310
+szabállyal, hogy egy magyar hatóság
+miért tesz egy extra megfelelési réteget
+
+1048
+00:21:12,310 --> 00:21:12,320
+miért tesz egy extra megfelelési réteget
+ 
+
+1049
+00:21:12,320 --> 00:21:15,269
+miért tesz egy extra megfelelési réteget
+még a meglévő szabályokra, amelyek már
+
+1050
+00:21:15,269 --> 00:21:15,279
+még a meglévő szabályokra, amelyek már
+ 
+
+1051
+00:21:15,279 --> 00:21:17,789
+még a meglévő szabályokra, amelyek már
+alapból garantálnak mindent.
+
+1052
+00:21:17,789 --> 00:21:17,799
+alapból garantálnak mindent.
+ 
+
+1053
+00:21:17,799 --> 00:21:21,630
+alapból garantálnak mindent.
+És itt látnunk kell majd ugye azt, hogy
+
+1054
+00:21:21,630 --> 00:21:21,640
+És itt látnunk kell majd ugye azt, hogy
+ 
+
+1055
+00:21:21,640 --> 00:21:24,310
+És itt látnunk kell majd ugye azt, hogy
+mennyire hajlandóak ezek a külföldi
+
+1056
+00:21:24,310 --> 00:21:24,320
+mennyire hajlandóak ezek a külföldi
+ 
+
+1057
+00:21:24,320 --> 00:21:26,110
+mennyire hajlandóak ezek a külföldi
+szolgáltatók mondjuk a magyar piacra
+
+1058
+00:21:26,110 --> 00:21:26,120
+szolgáltatók mondjuk a magyar piacra
+ 
+
+1059
+00:21:26,120 --> 00:21:27,750
+szolgáltatók mondjuk a magyar piacra
+szolgáltatni,
+
+1060
+00:21:27,750 --> 00:21:27,760
+szolgáltatni,
+ 
+
+1061
+00:21:27,760 --> 00:21:30,149
+szolgáltatni,
+mert ugye az ő versenyképességüket ez
+
+1062
+00:21:30,149 --> 00:21:30,159
+mert ugye az ő versenyképességüket ez
+ 
+
+1063
+00:21:30,159 --> 00:21:33,070
+mert ugye az ő versenyképességüket ez
+erősen háttérbe szorítja azáltal,
+
+1064
+00:21:33,070 --> 00:21:33,080
+erősen háttérbe szorítja azáltal,
+ 
+
+1065
+00:21:33,080 --> 00:21:34,630
+erősen háttérbe szorítja azáltal,
+illetve nem csak az övéket, hanem egy
+
+1066
+00:21:34,630 --> 00:21:34,640
+illetve nem csak az övéket, hanem egy
+ 
+
+1067
+00:21:34,640 --> 00:21:38,430
+illetve nem csak az övéket, hanem egy
+ilyen ö a többi országgal szemben. Tehát
+
+1068
+00:21:38,430 --> 00:21:38,440
+ilyen ö a többi országgal szemben. Tehát
+ 
+
+1069
+00:21:38,440 --> 00:21:41,430
+ilyen ö a többi országgal szemben. Tehát
+amikor egy extra költsége van annak,
+
+1070
+00:21:41,430 --> 00:21:41,440
+amikor egy extra költsége van annak,
+ 
+
+1071
+00:21:41,440 --> 00:21:43,269
+amikor egy extra költsége van annak,
+hogy hogy ugye a váltásnak is van egy
+
+1072
+00:21:43,269 --> 00:21:43,279
+hogy hogy ugye a váltásnak is van egy
+ 
+
+1073
+00:21:43,279 --> 00:21:45,909
+hogy hogy ugye a váltásnak is van egy
+költsége, amit a user megfizet, de az,
+
+1074
+00:21:45,909 --> 00:21:45,919
+költsége, amit a user megfizet, de az,
+ 
+
+1075
+00:21:45,919 --> 00:21:48,110
+költsége, amit a user megfizet, de az,
+hogy még egy validáló szolgáltatónak is
+
+1076
+00:21:48,110 --> 00:21:48,120
+hogy még egy validáló szolgáltatónak is
+ 
+
+1077
+00:21:48,120 --> 00:21:50,430
+hogy még egy validáló szolgáltatónak is
+ugye megfizesse az ő díját, az a
+
+1078
+00:21:50,430 --> 00:21:50,440
+ugye megfizesse az ő díját, az a
+ 
+
+1079
+00:21:50,440 --> 00:21:51,909
+ugye megfizesse az ő díját, az a
+felhasználóm,
+
+1080
+00:21:51,909 --> 00:21:51,919
+felhasználóm,
+ 
+
+1081
+00:21:51,919 --> 00:21:54,310
+felhasználóm,
+>> az nem tudom, hogy mennyiben fogja őt
+
+1082
+00:21:54,310 --> 00:21:54,320
+>> az nem tudom, hogy mennyiben fogja őt
+ 
+
+1083
+00:21:54,320 --> 00:21:55,789
+>> az nem tudom, hogy mennyiben fogja őt
+arra
+
+1084
+00:21:55,789 --> 00:21:55,799
+arra
+ 
+
+1085
+00:21:55,799 --> 00:21:56,230
+arra
+>> motiválni,
+
+1086
+00:21:56,230 --> 00:21:56,240
+>> motiválni,
+ 
+
+1087
+00:21:56,240 --> 00:21:58,990
+>> motiválni,
+>> irányítani, vagy motiválni. Köszönöm,
+
+1088
+00:21:58,990 --> 00:21:59,000
+>> irányítani, vagy motiválni. Köszönöm,
+ 
+
+1089
+00:21:59,000 --> 00:22:01,630
+>> irányítani, vagy motiválni. Köszönöm,
+hogy hát ő itt bármit is váltogasson
+
+1090
+00:22:01,630 --> 00:22:01,640
+hogy hát ő itt bármit is váltogasson
+ 
+
+1091
+00:22:01,640 --> 00:22:04,070
+hogy hát ő itt bármit is váltogasson
+ide-oda és mennyi pénzért. Tehát, hogy
+
+1092
+00:22:04,070 --> 00:22:04,080
+ide-oda és mennyi pénzért. Tehát, hogy
+ 
+
+1093
+00:22:04,080 --> 00:22:06,909
+ide-oda és mennyi pénzért. Tehát, hogy
+nyilván ez is egyfajta
+
+1094
+00:22:06,909 --> 00:22:06,919
+nyilván ez is egyfajta
+ 
+
+1095
+00:22:06,919 --> 00:22:07,549
+nyilván ez is egyfajta
+korlátozás,
+
+1096
+00:22:07,549 --> 00:22:07,559
+korlátozás,
+ 
+
+1097
+00:22:07,559 --> 00:22:08,909
+korlátozás,
+>> piacvédelmi elem
+
+1098
+00:22:08,909 --> 00:22:08,919
+>> piacvédelmi elem
+ 
+
+1099
+00:22:08,919 --> 00:22:11,070
+>> piacvédelmi elem
+>> elrettentés. Hát ne igen. Na ez is egy
+
+1100
+00:22:11,070 --> 00:22:11,080
+>> elrettentés. Hát ne igen. Na ez is egy
+ 
+
+1101
+00:22:11,080 --> 00:22:13,350
+>> elrettentés. Hát ne igen. Na ez is egy
+nagyon szép megfogalmazás a részedről.
+
+1102
+00:22:13,350 --> 00:22:13,360
+nagyon szép megfogalmazás a részedről.
+ 
+
+1103
+00:22:13,360 --> 00:22:15,830
+nagyon szép megfogalmazás a részedről.
+Egy nemzeti piacvédelmi elem.
+
+1104
+00:22:15,830 --> 00:22:15,840
+Egy nemzeti piacvédelmi elem.
+ 
+
+1105
+00:22:15,840 --> 00:22:16,110
+Egy nemzeti piacvédelmi elem.
+>> Ühüm.
+
+1106
+00:22:16,110 --> 00:22:16,120
+>> Ühüm.
+ 
+
+1107
+00:22:16,120 --> 00:22:17,830
+>> Ühüm.
+>> Egy olyan globális szolgáltatás
+
+1108
+00:22:17,830 --> 00:22:17,840
+>> Egy olyan globális szolgáltatás
+ 
+
+1109
+00:22:17,840 --> 00:22:20,070
+>> Egy olyan globális szolgáltatás
+tekintetében, amely keretében ez
+
+1110
+00:22:20,070 --> 00:22:20,080
+tekintetében, amely keretében ez
+ 
+
+1111
+00:22:20,080 --> 00:22:23,710
+tekintetében, amely keretében ez
+értelmezhetetlen szerintem. De mondjuk
+
+1112
+00:22:23,710 --> 00:22:23,720
+értelmezhetetlen szerintem. De mondjuk
+ 
+
+1113
+00:22:23,720 --> 00:22:24,029
+értelmezhetetlen szerintem. De mondjuk
+így
+
+1114
+00:22:24,029 --> 00:22:24,039
+így
+ 
+
+1115
+00:22:24,039 --> 00:22:27,390
+így
+>> most azért tudjuk mi ezt értelmezni.
+
+1116
+00:22:27,390 --> 00:22:27,400
+>> most azért tudjuk mi ezt értelmezni.
+ 
+
+1117
+00:22:27,400 --> 00:22:29,029
+>> most azért tudjuk mi ezt értelmezni.
+Tudjuk persze, hát hajjaj, hogyne
+
+1118
+00:22:29,029 --> 00:22:29,039
+Tudjuk persze, hát hajjaj, hogyne
+ 
+
+1119
+00:22:29,039 --> 00:22:31,350
+Tudjuk persze, hát hajjaj, hogyne
+tudnánk. És akkor ugye mindezeket a
+
+1120
+00:22:31,350 --> 00:22:31,360
+tudnánk. És akkor ugye mindezeket a
+ 
+
+1121
+00:22:31,360 --> 00:22:34,549
+tudnánk. És akkor ugye mindezeket a
+szabályokat egészíti ki a pénzmosási
+
+1122
+00:22:34,549 --> 00:22:34,559
+szabályokat egészíti ki a pénzmosási
+ 
+
+1123
+00:22:34,559 --> 00:22:37,310
+szabályokat egészíti ki a pénzmosási
+rezsim, ugye az rezsim, a ami a
+
+1124
+00:22:37,310 --> 00:22:37,320
+rezsim, ugye az rezsim, a ami a
+ 
+
+1125
+00:22:37,320 --> 00:22:40,029
+rezsim, ugye az rezsim, a ami a
+pénzmosás és terrorizmus finanszírozás
+
+1126
+00:22:40,029 --> 00:22:40,039
+pénzmosás és terrorizmus finanszírozás
+ 
+
+1127
+00:22:40,039 --> 00:22:43,110
+pénzmosás és terrorizmus finanszírozás
+ellenes szabályokat foglalja magába. És
+
+1128
+00:22:43,110 --> 00:22:43,120
+ellenes szabályokat foglalja magába. És
+ 
+
+1129
+00:22:43,120 --> 00:22:46,510
+ellenes szabályokat foglalja magába. És
+ugye ide tartozik a már említett Travel
+
+1130
+00:22:46,510 --> 00:22:46,520
+ugye ide tartozik a már említett Travel
+ 
+
+1131
+00:22:46,520 --> 00:22:48,470
+ugye ide tartozik a már említett Travel
+Rul, magyarul utazási szabály, ami már
+
+1132
+00:22:48,470 --> 00:22:48,480
+Rul, magyarul utazási szabály, ami már
+ 
+
+1133
+00:22:48,480 --> 00:22:52,149
+Rul, magyarul utazási szabály, ami már
+szintén hatályban van, és a határokon
+
+1134
+00:22:52,149 --> 00:22:52,159
+szintén hatályban van, és a határokon
+ 
+
+1135
+00:22:52,159 --> 00:22:55,029
+szintén hatályban van, és a határokon
+átívelő tranzakciókat szabályozó Európai
+
+1136
+00:22:55,029 --> 00:22:55,039
+átívelő tranzakciókat szabályozó Európai
+ 
+
+1137
+00:22:55,039 --> 00:22:57,350
+átívelő tranzakciókat szabályozó Európai
+Uniós rendelt, ez a Transfer of Funds,
+
+1138
+00:22:57,350 --> 00:22:57,360
+Uniós rendelt, ez a Transfer of Funds,
+ 
+
+1139
+00:22:57,360 --> 00:22:59,669
+Uniós rendelt, ez a Transfer of Funds,
+ami ugye szintén már életben van. És
+
+1140
+00:22:59,669 --> 00:22:59,679
+ami ugye szintén már életben van. És
+ 
+
+1141
+00:22:59,679 --> 00:23:02,669
+ami ugye szintén már életben van. És
+ugye ennek az értelme az ugye az, hogy
+
+1142
+00:23:02,669 --> 00:23:02,679
+ugye ennek az értelme az ugye az, hogy
+ 
+
+1143
+00:23:02,679 --> 00:23:04,269
+ugye ennek az értelme az ugye az, hogy
+2030-ra
+
+1144
+00:23:04,269 --> 00:23:04,279
+2030-ra
+ 
+
+1145
+00:23:04,279 --> 00:23:06,549
+2030-ra
+tett a az Unió és az FTF egy ilyen
+
+1146
+00:23:06,549 --> 00:23:06,559
+tett a az Unió és az FTF egy ilyen
+ 
+
+1147
+00:23:06,559 --> 00:23:09,230
+tett a az Unió és az FTF egy ilyen
+teljesen vállalhatatlan tervet, hogy itt
+
+1148
+00:23:09,230 --> 00:23:09,240
+teljesen vállalhatatlan tervet, hogy itt
+ 
+
+1149
+00:23:09,240 --> 00:23:11,310
+teljesen vállalhatatlan tervet, hogy itt
+minden tranzakció átlátható legyen.
+
+1150
+00:23:11,310 --> 00:23:11,320
+minden tranzakció átlátható legyen.
+ 
+
+1151
+00:23:11,320 --> 00:23:13,789
+minden tranzakció átlátható legyen.
+Tehát ezt nem is értem, hogy ez hogyan
+
+1152
+00:23:13,789 --> 00:23:13,799
+Tehát ezt nem is értem, hogy ez hogyan
+ 
+
+1153
+00:23:13,799 --> 00:23:15,350
+Tehát ezt nem is értem, hogy ez hogyan
+tervezik, de mindegy, ezt hagyjuk
+
+1154
+00:23:15,350 --> 00:23:15,360
+tervezik, de mindegy, ezt hagyjuk
+ 
+
+1155
+00:23:15,360 --> 00:23:17,830
+tervezik, de mindegy, ezt hagyjuk
+őrájuk. Amit még nagyon fontosnak tartok
+
+1156
+00:23:17,830 --> 00:23:17,840
+őrájuk. Amit még nagyon fontosnak tartok
+ 
+
+1157
+00:23:17,840 --> 00:23:20,750
+őrájuk. Amit még nagyon fontosnak tartok
+elmondani, ugye itt ez az AM rezsim, ez
+
+1158
+00:23:20,750 --> 00:23:20,760
+elmondani, ugye itt ez az AM rezsim, ez
+ 
+
+1159
+00:23:20,760 --> 00:23:24,830
+elmondani, ugye itt ez az AM rezsim, ez
+most már jó pár éve épül, és
+
+1160
+00:23:24,830 --> 00:23:24,840
+most már jó pár éve épül, és
+ 
+
+1161
+00:23:24,840 --> 00:23:26,710
+most már jó pár éve épül, és
+hát én nagyon kíváncsi voltam, hogy
+
+1162
+00:23:26,710 --> 00:23:26,720
+hát én nagyon kíváncsi voltam, hogy
+ 
+
+1163
+00:23:26,720 --> 00:23:29,029
+hát én nagyon kíváncsi voltam, hogy
+mégis milyen hatásfokkal működik ez a
+
+1164
+00:23:29,029 --> 00:23:29,039
+mégis milyen hatásfokkal működik ez a
+ 
+
+1165
+00:23:29,039 --> 00:23:31,230
+mégis milyen hatásfokkal működik ez a
+nem csak én, többen is a szakmában
+
+1166
+00:23:31,230 --> 00:23:31,240
+nem csak én, többen is a szakmában
+ 
+
+1167
+00:23:31,240 --> 00:23:33,710
+nem csak én, többen is a szakmában
+nagyon sokan feszegetik ezt a témát,
+
+1168
+00:23:33,710 --> 00:23:33,720
+nagyon sokan feszegetik ezt a témát,
+ 
+
+1169
+00:23:33,720 --> 00:23:35,789
+nagyon sokan feszegetik ezt a témát,
+hogy milyen hatásfokkal működik ez az
+
+1170
+00:23:35,789 --> 00:23:35,799
+hogy milyen hatásfokkal működik ez az
+ 
+
+1171
+00:23:35,799 --> 00:23:38,789
+hogy milyen hatásfokkal működik ez az
+egész óriás robosztus rendszer, ami ugye
+
+1172
+00:23:38,789 --> 00:23:38,799
+egész óriás robosztus rendszer, ami ugye
+ 
+
+1173
+00:23:38,799 --> 00:23:41,190
+egész óriás robosztus rendszer, ami ugye
+az FATF-től indul ki. Ez a Financial
+
+1174
+00:23:41,190 --> 00:23:41,200
+az FATF-től indul ki. Ez a Financial
+ 
+
+1175
+00:23:41,200 --> 00:23:43,630
+az FATF-től indul ki. Ez a Financial
+Action Task Force, ez a pénzügyi
+
+1176
+00:23:43,630 --> 00:23:43,640
+Action Task Force, ez a pénzügyi
+ 
+
+1177
+00:23:43,640 --> 00:23:46,830
+Action Task Force, ez a pénzügyi
+akciócsoport, aki ugye általános
+
+1178
+00:23:46,830 --> 00:23:46,840
+akciócsoport, aki ugye általános
+ 
+
+1179
+00:23:46,840 --> 00:23:49,830
+akciócsoport, aki ugye általános
+ajánlásokat tesz, nem kötelező érvényű
+
+1180
+00:23:49,830 --> 00:23:49,840
+ajánlásokat tesz, nem kötelező érvényű
+ 
+
+1181
+00:23:49,840 --> 00:23:52,230
+ajánlásokat tesz, nem kötelező érvényű
+ajánlásokat. Ugye tudjuk, mit jelent ez
+
+1182
+00:23:52,230 --> 00:23:52,240
+ajánlásokat. Ugye tudjuk, mit jelent ez
+ 
+
+1183
+00:23:52,240 --> 00:23:54,190
+ajánlásokat. Ugye tudjuk, mit jelent ez
+a nem kötelező érvényű. Jó, hát akkor
+
+1184
+00:23:54,190 --> 00:23:54,200
+a nem kötelező érvényű. Jó, hát akkor
+ 
+
+1185
+00:23:54,200 --> 00:23:55,710
+a nem kötelező érvényű. Jó, hát akkor
+hogyha nem tartott be, akkor majd fekete
+
+1186
+00:23:55,710 --> 00:23:55,720
+hogyha nem tartott be, akkor majd fekete
+ 
+
+1187
+00:23:55,720 --> 00:23:57,430
+hogyha nem tartott be, akkor majd fekete
+listára teszünk. Azt nem megy hozzád
+
+1188
+00:23:57,430 --> 00:23:57,440
+listára teszünk. Azt nem megy hozzád
+ 
+
+1189
+00:23:57,440 --> 00:23:59,390
+listára teszünk. Azt nem megy hozzád
+senki befektetni. Tehát ilyen jelleggel
+
+1190
+00:23:59,390 --> 00:23:59,400
+senki befektetni. Tehát ilyen jelleggel
+ 
+
+1191
+00:23:59,400 --> 00:24:01,870
+senki befektetni. Tehát ilyen jelleggel
+értendő a nem kötelező. Pénzügyi kis
+
+1192
+00:24:01,870 --> 00:24:01,880
+értendő a nem kötelező. Pénzügyi kis
+ 
+
+1193
+00:24:01,880 --> 00:24:03,990
+értendő a nem kötelező. Pénzügyi kis
+pályára tesznek, és abszolút kizárnak a
+
+1194
+00:24:03,990 --> 00:24:04,000
+pályára tesznek, és abszolút kizárnak a
+ 
+
+1195
+00:24:04,000 --> 00:24:05,990
+pályára tesznek, és abszolút kizárnak a
+a pénzpiacokból. gyakorlatilag ezt
+
+1196
+00:24:05,990 --> 00:24:06,000
+a pénzpiacokból. gyakorlatilag ezt
+ 
+
+1197
+00:24:06,000 --> 00:24:08,710
+a pénzpiacokból. gyakorlatilag ezt
+jelenti, nem kötelező érvény. És ugye ők
+
+1198
+00:24:08,710 --> 00:24:08,720
+jelenti, nem kötelező érvény. És ugye ők
+ 
+
+1199
+00:24:08,720 --> 00:24:12,230
+jelenti, nem kötelező érvény. És ugye ők
+hozzák ezeket az elveket, amelyeket
+
+1200
+00:24:12,230 --> 00:24:12,240
+hozzák ezeket az elveket, amelyeket
+ 
+
+1201
+00:24:12,240 --> 00:24:14,110
+hozzák ezeket az elveket, amelyeket
+implementálni kell aztán a nemzeti
+
+1202
+00:24:14,110 --> 00:24:14,120
+implementálni kell aztán a nemzeti
+ 
+
+1203
+00:24:14,120 --> 00:24:15,909
+implementálni kell aztán a nemzeti
+szabályrendszerbe.
+
+1204
+00:24:15,909 --> 00:24:15,919
+szabályrendszerbe.
+ 
+
+1205
+00:24:15,919 --> 00:24:16,950
+szabályrendszerbe.
+És
+
+1206
+00:24:16,950 --> 00:24:16,960
+És
+ 
+
+1207
+00:24:16,960 --> 00:24:19,470
+És
+hát bizony, hogyha megnézzük azt, hogy
+
+1208
+00:24:19,470 --> 00:24:19,480
+hát bizony, hogyha megnézzük azt, hogy
+ 
+
+1209
+00:24:19,480 --> 00:24:21,750
+hát bizony, hogyha megnézzük azt, hogy
+éves szinten ezeknek a csúnya pénzügyi
+
+1210
+00:24:21,750 --> 00:24:21,760
+éves szinten ezeknek a csúnya pénzügyi
+ 
+
+1211
+00:24:21,760 --> 00:24:24,669
+éves szinten ezeknek a csúnya pénzügyi
+bűncselekményeknek mégis hány százalékát
+
+1212
+00:24:24,669 --> 00:24:24,679
+bűncselekményeknek mégis hány százalékát
+ 
+
+1213
+00:24:24,679 --> 00:24:27,389
+bűncselekményeknek mégis hány százalékát
+tudják így felderíteni, adott esetben
+
+1214
+00:24:27,389 --> 00:24:27,399
+tudják így felderíteni, adott esetben
+ 
+
+1215
+00:24:27,399 --> 00:24:29,269
+tudják így felderíteni, adott esetben
+megakadályozni,
+
+1216
+00:24:29,269 --> 00:24:29,279
+megakadályozni,
+ 
+
+1217
+00:24:29,279 --> 00:24:31,230
+megakadályozni,
+és akkor azt látjuk, hogy kevesebb mint
+
+1218
+00:24:31,230 --> 00:24:31,240
+és akkor azt látjuk, hogy kevesebb mint
+ 
+
+1219
+00:24:31,240 --> 00:24:34,669
+és akkor azt látjuk, hogy kevesebb mint
+1% minden évben az a megfékezett bűn,
+
+1220
+00:24:34,669 --> 00:24:34,679
+1% minden évben az a megfékezett bűn,
+ 
+
+1221
+00:24:34,679 --> 00:24:37,149
+1% minden évben az a megfékezett bűn,
+amelyekre ezek a robosztus szabályok
+
+1222
+00:24:37,149 --> 00:24:37,159
+amelyekre ezek a robosztus szabályok
+ 
+
+1223
+00:24:37,159 --> 00:24:40,190
+amelyekre ezek a robosztus szabályok
+képesek. teszi ezt úgy, hogyha ezt ugye
+
+1224
+00:24:40,190 --> 00:24:40,200
+képesek. teszi ezt úgy, hogyha ezt ugye
+ 
+
+1225
+00:24:40,200 --> 00:24:42,389
+képesek. teszi ezt úgy, hogyha ezt ugye
+szembeállítom azzal a rettenetes
+
+1226
+00:24:42,389 --> 00:24:42,399
+szembeállítom azzal a rettenetes
+ 
+
+1227
+00:24:42,399 --> 00:24:44,190
+szembeállítom azzal a rettenetes
+erőfeszítéssel,
+
+1228
+00:24:44,190 --> 00:24:44,200
+erőfeszítéssel,
+ 
+
+1229
+00:24:44,200 --> 00:24:46,590
+erőfeszítéssel,
+amire ugye országokat és hát nyilván az
+
+1230
+00:24:46,590 --> 00:24:46,600
+amire ugye országokat és hát nyilván az
+ 
+
+1231
+00:24:46,600 --> 00:24:49,310
+amire ugye országokat és hát nyilván az
+országok ráterhelik ezeket a dolgokat a
+
+1232
+00:24:49,310 --> 00:24:49,320
+országok ráterhelik ezeket a dolgokat a
+ 
+
+1233
+00:24:49,320 --> 00:24:51,470
+országok ráterhelik ezeket a dolgokat a
+piaci szereplőkre végeznek. Tehát
+
+1234
+00:24:51,470 --> 00:24:51,480
+piaci szereplőkre végeznek. Tehát
+ 
+
+1235
+00:24:51,480 --> 00:24:53,350
+piaci szereplőkre végeznek. Tehát
+micsoda pénzek. Tehát vegyük csak
+
+1236
+00:24:53,350 --> 00:24:53,360
+micsoda pénzek. Tehát vegyük csak
+ 
+
+1237
+00:24:53,360 --> 00:24:55,110
+micsoda pénzek. Tehát vegyük csak
+például a Compliance Departmentet, hogy
+
+1238
+00:24:55,110 --> 00:24:55,120
+például a Compliance Departmentet, hogy
+ 
+
+1239
+00:24:55,120 --> 00:24:57,269
+például a Compliance Departmentet, hogy
+ez a jogi megfelelősségi osztály, ami
+
+1240
+00:24:57,269 --> 00:24:57,279
+ez a jogi megfelelősségi osztály, ami
+ 
+
+1241
+00:24:57,279 --> 00:24:59,510
+ez a jogi megfelelősségi osztály, ami
+most már minden szereplőnél kötes, és
+
+1242
+00:24:59,510 --> 00:24:59,520
+most már minden szereplőnél kötes, és
+ 
+
+1243
+00:24:59,520 --> 00:25:01,510
+most már minden szereplőnél kötes, és
+ugye ez nem csak a pénzpiacra vagy a
+
+1244
+00:25:01,510 --> 00:25:01,520
+ugye ez nem csak a pénzpiacra vagy a
+ 
+
+1245
+00:25:01,520 --> 00:25:03,990
+ugye ez nem csak a pénzpiacra vagy a
+pénzügyi szereplőkre vonatkozik. Tehát a
+
+1246
+00:25:03,990 --> 00:25:04,000
+pénzügyi szereplőkre vonatkozik. Tehát a
+ 
+
+1247
+00:25:04,000 --> 00:25:06,870
+pénzügyi szereplőkre vonatkozik. Tehát a
+kötelezett személyek sora azért itt elég
+
+1248
+00:25:06,870 --> 00:25:06,880
+kötelezett személyek sora azért itt elég
+ 
+
+1249
+00:25:06,880 --> 00:25:09,190
+kötelezett személyek sora azért itt elég
+elég hosszú. Ugye itt a nem tudom én a
+
+1250
+00:25:09,190 --> 00:25:09,200
+elég hosszú. Ugye itt a nem tudom én a
+ 
+
+1251
+00:25:09,200 --> 00:25:11,190
+elég hosszú. Ugye itt a nem tudom én a
+az antikváriusoktól
+
+1252
+00:25:11,190 --> 00:25:11,200
+az antikváriusoktól
+ 
+
+1253
+00:25:11,200 --> 00:25:14,549
+az antikváriusoktól
+a az autókereskedőkön át, az ingatlan
+
+1254
+00:25:14,549 --> 00:25:14,559
+a az autókereskedőkön át, az ingatlan
+ 
+
+1255
+00:25:14,559 --> 00:25:17,310
+a az autókereskedőkön át, az ingatlan
+kereskedők, az ügyvédek, könyvelők.
+
+1256
+00:25:17,310 --> 00:25:17,320
+kereskedők, az ügyvédek, könyvelők.
+ 
+
+1257
+00:25:17,320 --> 00:25:19,870
+kereskedők, az ügyvédek, könyvelők.
+Tehát egy sor kötelezett személy van,
+
+1258
+00:25:19,870 --> 00:25:19,880
+Tehát egy sor kötelezett személy van,
+ 
+
+1259
+00:25:19,880 --> 00:25:21,830
+Tehát egy sor kötelezett személy van,
+akik ugye mind meg kell, hogy feleljenek
+
+1260
+00:25:21,830 --> 00:25:21,840
+akik ugye mind meg kell, hogy feleljenek
+ 
+
+1261
+00:25:21,840 --> 00:25:24,750
+akik ugye mind meg kell, hogy feleljenek
+ezeknek a típusú előírásoknak. Viszont
+
+1262
+00:25:24,750 --> 00:25:24,760
+ezeknek a típusú előírásoknak. Viszont
+ 
+
+1263
+00:25:24,760 --> 00:25:26,710
+ezeknek a típusú előírásoknak. Viszont
+ezek olyan típusú előírások és mára
+
+1264
+00:25:26,710 --> 00:25:26,720
+ezek olyan típusú előírások és mára
+ 
+
+1265
+00:25:26,720 --> 00:25:28,430
+ezek olyan típusú előírások és mára
+olyan terhet rónnak az entitások
+
+1266
+00:25:28,430 --> 00:25:28,440
+olyan terhet rónnak az entitások
+ 
+
+1267
+00:25:28,440 --> 00:25:30,230
+olyan terhet rónnak az entitások
+nyakában, hogy itt ugye szabályzatokkal
+
+1268
+00:25:30,230 --> 00:25:30,240
+nyakában, hogy itt ugye szabályzatokkal
+ 
+
+1269
+00:25:30,240 --> 00:25:32,830
+nyakában, hogy itt ugye szabályzatokkal
+kell rendelkezni többel is. Belső
+
+1270
+00:25:32,830 --> 00:25:32,840
+kell rendelkezni többel is. Belső
+ 
+
+1271
+00:25:32,840 --> 00:25:36,549
+kell rendelkezni többel is. Belső
+szabályzatokra gondolok dedikált
+
+1272
+00:25:36,549 --> 00:25:36,559
+szabályzatokra gondolok dedikált
+ 
+
+1273
+00:25:36,559 --> 00:25:38,510
+szabályzatokra gondolok dedikált
+személyzettel kell rendelkezni, akiknek
+
+1274
+00:25:38,510 --> 00:25:38,520
+személyzettel kell rendelkezni, akiknek
+ 
+
+1275
+00:25:38,520 --> 00:25:41,389
+személyzettel kell rendelkezni, akiknek
+ugye borsosfizetésük van, tehát ezek
+
+1276
+00:25:41,389 --> 00:25:41,399
+ugye borsosfizetésük van, tehát ezek
+ 
+
+1277
+00:25:41,399 --> 00:25:43,590
+ugye borsosfizetésük van, tehát ezek
+jellemzően jogi végzettségű emberek,
+
+1278
+00:25:43,590 --> 00:25:43,600
+jellemzően jogi végzettségű emberek,
+ 
+
+1279
+00:25:43,600 --> 00:25:45,830
+jellemzően jogi végzettségű emberek,
+vagy jogi megfelelősségű végzettséggel
+
+1280
+00:25:45,830 --> 00:25:45,840
+vagy jogi megfelelősségű végzettséggel
+ 
+
+1281
+00:25:45,840 --> 00:25:47,750
+vagy jogi megfelelősségű végzettséggel
+rendelkező emberek. Ezeket folyamatosan
+
+1282
+00:25:47,750 --> 00:25:47,760
+rendelkező emberek. Ezeket folyamatosan
+ 
+
+1283
+00:25:47,760 --> 00:25:49,789
+rendelkező emberek. Ezeket folyamatosan
+tréningelni kell. A saját
+
+1284
+00:25:49,789 --> 00:25:49,799
+tréningelni kell. A saját
+ 
+
+1285
+00:25:49,799 --> 00:25:51,310
+tréningelni kell. A saját
+munkavállalóidat, akik ezekkel
+
+1286
+00:25:51,310 --> 00:25:51,320
+munkavállalóidat, akik ezekkel
+ 
+
+1287
+00:25:51,320 --> 00:25:53,389
+munkavállalóidat, akik ezekkel
+foglalkoznak, folyamatosan tréningelni
+
+1288
+00:25:53,389 --> 00:25:53,399
+foglalkoznak, folyamatosan tréningelni
+ 
+
+1289
+00:25:53,399 --> 00:25:55,630
+foglalkoznak, folyamatosan tréningelni
+kell. Most már szoftvereket kell
+
+1290
+00:25:55,630 --> 00:25:55,640
+kell. Most már szoftvereket kell
+ 
+
+1291
+00:25:55,640 --> 00:25:57,990
+kell. Most már szoftvereket kell
+használnod ahhoz, hogy mondjuk
+
+1292
+00:25:57,990 --> 00:25:58,000
+használnod ahhoz, hogy mondjuk
+ 
+
+1293
+00:25:58,000 --> 00:26:00,950
+használnod ahhoz, hogy mondjuk
+tranzakciókat követni tudjál, azokból ki
+
+1294
+00:26:00,950 --> 00:26:00,960
+tranzakciókat követni tudjál, azokból ki
+ 
+
+1295
+00:26:00,960 --> 00:26:03,630
+tranzakciókat követni tudjál, azokból ki
+tud nyerni a megfelelő adatokat. Ezeknek
+
+1296
+00:26:03,630 --> 00:26:03,640
+tud nyerni a megfelelő adatokat. Ezeknek
+ 
+
+1297
+00:26:03,640 --> 00:26:06,029
+tud nyerni a megfelelő adatokat. Ezeknek
+a szoftvereknek megint csak nagyon
+
+1298
+00:26:06,029 --> 00:26:06,039
+a szoftvereknek megint csak nagyon
+ 
+
+1299
+00:26:06,039 --> 00:26:08,789
+a szoftvereknek megint csak nagyon
+borsosára van. Ugye azért beszéljünk itt
+
+1300
+00:26:08,789 --> 00:26:08,799
+borsosára van. Ugye azért beszéljünk itt
+ 
+
+1301
+00:26:08,799 --> 00:26:10,789
+borsosára van. Ugye azért beszéljünk itt
+a a szankciókról is, mert mindezek
+
+1302
+00:26:10,789 --> 00:26:10,799
+a a szankciókról is, mert mindezek
+ 
+
+1303
+00:26:10,799 --> 00:26:12,630
+a a szankciókról is, mert mindezek
+ellenére még azért nagyon sok
+
+1304
+00:26:12,630 --> 00:26:12,640
+ellenére még azért nagyon sok
+ 
+
+1305
+00:26:12,640 --> 00:26:14,990
+ellenére még azért nagyon sok
+pénzbírságot is kiszabnak ugye ugye itt
+
+1306
+00:26:14,990 --> 00:26:15,000
+pénzbírságot is kiszabnak ugye ugye itt
+ 
+
+1307
+00:26:15,000 --> 00:26:16,510
+pénzbírságot is kiszabnak ugye ugye itt
+a felügyelő hatóságok nagy
+
+1308
+00:26:16,510 --> 00:26:16,520
+a felügyelő hatóságok nagy
+ 
+
+1309
+00:26:16,520 --> 00:26:20,230
+a felügyelő hatóságok nagy
+előszeretettel. Tehát hogy ez az a
+
+1310
+00:26:20,230 --> 00:26:20,240
+előszeretettel. Tehát hogy ez az a
+ 
+
+1311
+00:26:20,240 --> 00:26:23,909
+előszeretettel. Tehát hogy ez az a
+terület, ami pénzt nem hoz, csak visz.
+
+1312
+00:26:23,909 --> 00:26:23,919
+terület, ami pénzt nem hoz, csak visz.
+ 
+
+1313
+00:26:23,919 --> 00:26:24,710
+terület, ami pénzt nem hoz, csak visz.
+És ugye ez
+
+1314
+00:26:24,710 --> 00:26:24,720
+És ugye ez
+ 
+
+1315
+00:26:24,720 --> 00:26:26,630
+És ugye ez
+>> hozz csak nem neked.
+
+1316
+00:26:26,630 --> 00:26:26,640
+>> hozz csak nem neked.
+ 
+
+1317
+00:26:26,640 --> 00:26:28,590
+>> hozz csak nem neked.
+>> Hát hoz csak nem neked pontosan. De
+
+1318
+00:26:28,590 --> 00:26:28,600
+>> Hát hoz csak nem neked pontosan. De
+ 
+
+1319
+00:26:28,600 --> 00:26:30,750
+>> Hát hoz csak nem neked pontosan. De
+hogyha itt ugye a szabadpiacot nézzük és
+
+1320
+00:26:30,750 --> 00:26:30,760
+hogyha itt ugye a szabadpiacot nézzük és
+ 
+
+1321
+00:26:30,760 --> 00:26:33,710
+hogyha itt ugye a szabadpiacot nézzük és
+a gazdasági működést nézzük, akkor ez a
+
+1322
+00:26:33,710 --> 00:26:33,720
+a gazdasági működést nézzük, akkor ez a
+ 
+
+1323
+00:26:33,720 --> 00:26:36,630
+a gazdasági működést nézzük, akkor ez a
+terület egy olyan súlyos teher a cégek
+
+1324
+00:26:36,630 --> 00:26:36,640
+terület egy olyan súlyos teher a cégek
+ 
+
+1325
+00:26:36,640 --> 00:26:39,190
+terület egy olyan súlyos teher a cégek
+számára, amely adott esetben és sok
+
+1326
+00:26:39,190 --> 00:26:39,200
+számára, amely adott esetben és sok
+ 
+
+1327
+00:26:39,200 --> 00:26:42,190
+számára, amely adott esetben és sok
+esetben dönti el magát azt, hogy az
+
+1328
+00:26:42,190 --> 00:26:42,200
+esetben dönti el magát azt, hogy az
+ 
+
+1329
+00:26:42,200 --> 00:26:43,750
+esetben dönti el magát azt, hogy az
+operatív tevékenység egyáltalán
+
+1330
+00:26:43,750 --> 00:26:43,760
+operatív tevékenység egyáltalán
+ 
+
+1331
+00:26:43,760 --> 00:26:45,190
+operatív tevékenység egyáltalán
+fenntartható-e.
+
+1332
+00:26:45,190 --> 00:26:45,200
+fenntartható-e.
+ 
+
+1333
+00:26:45,200 --> 00:26:48,029
+fenntartható-e.
+>> Igen. A mi mi olvasatunkban
+
+1334
+00:26:48,029 --> 00:26:48,039
+>> Igen. A mi mi olvasatunkban
+ 
+
+1335
+00:26:48,039 --> 00:26:49,830
+>> Igen. A mi mi olvasatunkban
+>> pontosan én is hajlamos vagyok az
+
+1336
+00:26:49,830 --> 00:26:49,840
+>> pontosan én is hajlamos vagyok az
+ 
+
+1337
+00:26:49,840 --> 00:26:53,269
+>> pontosan én is hajlamos vagyok az
+összeesküvés elméletek inkorporálására.
+
+1338
+00:26:53,269 --> 00:26:53,279
+összeesküvés elméletek inkorporálására.
+ 
+
+1339
+00:26:53,279 --> 00:26:56,070
+összeesküvés elméletek inkorporálására.
+És ö ez alapján azt tudom mondani, hogy
+
+1340
+00:26:56,070 --> 00:26:56,080
+És ö ez alapján azt tudom mondani, hogy
+ 
+
+1341
+00:26:56,080 --> 00:26:58,350
+És ö ez alapján azt tudom mondani, hogy
+hogy nekem is gyanús, különösen az,
+
+1342
+00:26:58,350 --> 00:26:58,360
+hogy nekem is gyanús, különösen az,
+ 
+
+1343
+00:26:58,360 --> 00:27:00,230
+hogy nekem is gyanús, különösen az,
+hogyha egy jogterület ilyen hatásokkal
+
+1344
+00:27:00,230 --> 00:27:00,240
+hogyha egy jogterület ilyen hatásokkal
+ 
+
+1345
+00:27:00,240 --> 00:27:03,310
+hogyha egy jogterület ilyen hatásokkal
+dolgozik hosszúhosszú évek óta, akkor
+
+1346
+00:27:03,310 --> 00:27:03,320
+dolgozik hosszúhosszú évek óta, akkor
+ 
+
+1347
+00:27:03,320 --> 00:27:05,669
+dolgozik hosszúhosszú évek óta, akkor
+nem lenne érdemes elgondolkodni esetleg
+
+1348
+00:27:05,669 --> 00:27:05,679
+nem lenne érdemes elgondolkodni esetleg
+ 
+
+1349
+00:27:05,679 --> 00:27:09,669
+nem lenne érdemes elgondolkodni esetleg
+azon, hogy más módszereket alkalmazzunk.
+
+1350
+00:27:09,669 --> 00:27:09,679
+azon, hogy más módszereket alkalmazzunk.
+ 
+
+1351
+00:27:09,679 --> 00:27:12,149
+azon, hogy más módszereket alkalmazzunk.
+Tehát félreértés ne essék. Minden
+
+1352
+00:27:12,149 --> 00:27:12,159
+Tehát félreértés ne essék. Minden
+ 
+
+1353
+00:27:12,159 --> 00:27:15,029
+Tehát félreértés ne essék. Minden
+bizonnyal szükség van egy olyanfajta
+
+1354
+00:27:15,029 --> 00:27:15,039
+bizonnyal szükség van egy olyanfajta
+ 
+
+1355
+00:27:15,039 --> 00:27:18,149
+bizonnyal szükség van egy olyanfajta
+védelmi mechanizmusra, ahol a valós
+
+1356
+00:27:18,149 --> 00:27:18,159
+védelmi mechanizmusra, ahol a valós
+ 
+
+1357
+00:27:18,159 --> 00:27:20,990
+védelmi mechanizmusra, ahol a valós
+bűncselekményeket meg lehet állítani. De
+
+1358
+00:27:20,990 --> 00:27:21,000
+bűncselekményeket meg lehet állítani. De
+ 
+
+1359
+00:27:21,000 --> 00:27:22,750
+bűncselekményeket meg lehet állítani. De
+kérdezem én is, ez egy nagyon plátói
+
+1360
+00:27:22,750 --> 00:27:22,760
+kérdezem én is, ez egy nagyon plátói
+ 
+
+1361
+00:27:22,760 --> 00:27:25,549
+kérdezem én is, ez egy nagyon plátói
+kérdés. Meg lehet állítani?
+
+1362
+00:27:25,549 --> 00:27:25,559
+kérdés. Meg lehet állítani?
+ 
+
+1363
+00:27:25,559 --> 00:27:27,470
+kérdés. Meg lehet állítani?
+>> Meg, hogy ez a jó módszer?
+
+1364
+00:27:27,470 --> 00:27:27,480
+>> Meg, hogy ez a jó módszer?
+ 
+
+1365
+00:27:27,480 --> 00:27:29,190
+>> Meg, hogy ez a jó módszer?
+>> Hát az már a másik kérdés. Igen, de
+
+1366
+00:27:29,190 --> 00:27:29,200
+>> Hát az már a másik kérdés. Igen, de
+ 
+
+1367
+00:27:29,200 --> 00:27:31,029
+>> Hát az már a másik kérdés. Igen, de
+hogyha hogyha tényleg, hogyha józan
+
+1368
+00:27:31,029 --> 00:27:31,039
+hogyha hogyha tényleg, hogyha józan
+ 
+
+1369
+00:27:31,039 --> 00:27:32,870
+hogyha hogyha tényleg, hogyha józan
+parasztésszel gondolkodunk,
+
+1370
+00:27:32,870 --> 00:27:32,880
+parasztésszel gondolkodunk,
+ 
+
+1371
+00:27:32,880 --> 00:27:34,630
+parasztésszel gondolkodunk,
+>> és vegyük azt, hogy anti te vagy a
+
+1372
+00:27:34,630 --> 00:27:34,640
+>> és vegyük azt, hogy anti te vagy a
+ 
+
+1373
+00:27:34,640 --> 00:27:36,750
+>> és vegyük azt, hogy anti te vagy a
+terrorista, most csak a sztereotípiák
+
+1374
+00:27:36,750 --> 00:27:36,760
+terrorista, most csak a sztereotípiák
+ 
+
+1375
+00:27:36,760 --> 00:27:38,870
+terrorista, most csak a sztereotípiák
+miatt, mert szakálas vagy, te legyél a
+
+1376
+00:27:38,870 --> 00:27:38,880
+miatt, mert szakálas vagy, te legyél a
+ 
+
+1377
+00:27:38,880 --> 00:27:42,070
+miatt, mert szakálas vagy, te legyél a
+terrorista, és én legyek a a a
+
+1378
+00:27:42,070 --> 00:27:42,080
+terrorista, és én legyek a a a
+ 
+
+1379
+00:27:42,080 --> 00:27:44,669
+terrorista, és én legyek a a a
+végrehajtó. Tehát most most őszintén, ki
+
+1380
+00:27:44,669 --> 00:27:44,679
+végrehajtó. Tehát most most őszintén, ki
+ 
+
+1381
+00:27:44,679 --> 00:27:46,710
+végrehajtó. Tehát most most őszintén, ki
+az az őrült, aki befizeti, mondjuk az
+
+1382
+00:27:46,710 --> 00:27:46,720
+az az őrült, aki befizeti, mondjuk az
+ 
+
+1383
+00:27:46,720 --> 00:27:48,750
+az az őrült, aki befizeti, mondjuk az
+OTP számájára azt a pénzt, hogy
+
+1384
+00:27:48,750 --> 00:27:48,760
+OTP számájára azt a pénzt, hogy
+ 
+
+1385
+00:27:48,760 --> 00:27:52,470
+OTP számájára azt a pénzt, hogy
+eljuttassa ezt a ahhoz a bűnelkövetőhöz,
+
+1386
+00:27:52,470 --> 00:27:52,480
+eljuttassa ezt a ahhoz a bűnelkövetőhöz,
+ 
+
+1387
+00:27:52,480 --> 00:27:55,190
+eljuttassa ezt a ahhoz a bűnelkövetőhöz,
+akinek kifizeti a szolgáltatásait. Tehát
+
+1388
+00:27:55,190 --> 00:27:55,200
+akinek kifizeti a szolgáltatásait. Tehát
+ 
+
+1389
+00:27:55,200 --> 00:27:58,389
+akinek kifizeti a szolgáltatásait. Tehát
+a cash is king, a cash a készpénz, ami
+
+1390
+00:27:58,389 --> 00:27:58,399
+a cash is king, a cash a készpénz, ami
+ 
+
+1391
+00:27:58,399 --> 00:28:00,029
+a cash is king, a cash a készpénz, ami
+nyomon követhetetlen.
+
+1392
+00:28:00,029 --> 00:28:00,039
+nyomon követhetetlen.
+ 
+
+1393
+00:28:00,039 --> 00:28:02,470
+nyomon követhetetlen.
+>> Hát ezért is van ellene háború.
+
+1394
+00:28:02,470 --> 00:28:02,480
+>> Hát ezért is van ellene háború.
+ 
+
+1395
+00:28:02,480 --> 00:28:04,350
+>> Hát ezért is van ellene háború.
+>> Persze. De hát ezért is dolgozik ez a
+
+1396
+00:28:04,350 --> 00:28:04,360
+>> Persze. De hát ezért is dolgozik ez a
+ 
+
+1397
+00:28:04,360 --> 00:28:06,430
+>> Persze. De hát ezért is dolgozik ez a
+robosztus rendszer ilyen kicsi
+
+1398
+00:28:06,430 --> 00:28:06,440
+robosztus rendszer ilyen kicsi
+ 
+
+1399
+00:28:06,440 --> 00:28:09,590
+robosztus rendszer ilyen kicsi
+atásfokkal, meg ki az, aki képes ezeket
+
+1400
+00:28:09,590 --> 00:28:09,600
+atásfokkal, meg ki az, aki képes ezeket
+ 
+
+1401
+00:28:09,600 --> 00:28:11,990
+atásfokkal, meg ki az, aki képes ezeket
+a készpénzes tranzakciókat kiszűrni.
+
+1402
+00:28:11,990 --> 00:28:12,000
+a készpénzes tranzakciókat kiszűrni.
+ 
+
+1403
+00:28:12,000 --> 00:28:15,310
+a készpénzes tranzakciókat kiszűrni.
+Egy, kettő, nagyon sokan látjuk, és
+
+1404
+00:28:15,310 --> 00:28:15,320
+Egy, kettő, nagyon sokan látjuk, és
+ 
+
+1405
+00:28:15,320 --> 00:28:16,870
+Egy, kettő, nagyon sokan látjuk, és
+nagyon sok, bocsánat, szavadat ne
+
+1406
+00:28:16,870 --> 00:28:16,880
+nagyon sok, bocsánat, szavadat ne
+ 
+
+1407
+00:28:16,880 --> 00:28:20,389
+nagyon sok, bocsánat, szavadat ne
+feledd, nagyon sok precedens volt arra,
+
+1408
+00:28:20,389 --> 00:28:20,399
+feledd, nagyon sok precedens volt arra,
+ 
+
+1409
+00:28:20,399 --> 00:28:24,509
+feledd, nagyon sok precedens volt arra,
+hogy igenis a Darkneten meg a különböző
+
+1410
+00:28:24,509 --> 00:28:24,519
+hogy igenis a Darkneten meg a különböző
+ 
+
+1411
+00:28:24,519 --> 00:28:27,509
+hogy igenis a Darkneten meg a különböző
+platformokon, kriptovalutában, különböző
+
+1412
+00:28:27,509 --> 00:28:27,519
+platformokon, kriptovalutában, különböző
+ 
+
+1413
+00:28:27,519 --> 00:28:29,909
+platformokon, kriptovalutában, különböző
+kriptovalutában, nem csak Bitcoinban,
+
+1414
+00:28:29,909 --> 00:28:29,919
+kriptovalutában, nem csak Bitcoinban,
+ 
+
+1415
+00:28:29,919 --> 00:28:31,750
+kriptovalutában, nem csak Bitcoinban,
+jellemzően régebben, amikor még csak a
+
+1416
+00:28:31,750 --> 00:28:31,760
+jellemzően régebben, amikor még csak a
+ 
+
+1417
+00:28:31,760 --> 00:28:34,350
+jellemzően régebben, amikor még csak a
+Bitcoin volt, nyilván Bitcoin hajtották
+
+1418
+00:28:34,350 --> 00:28:34,360
+Bitcoin volt, nyilván Bitcoin hajtották
+ 
+
+1419
+00:28:34,360 --> 00:28:36,350
+Bitcoin volt, nyilván Bitcoin hajtották
+végre ezeket a tranzakciókat, de ugye
+
+1420
+00:28:36,350 --> 00:28:36,360
+végre ezeket a tranzakciókat, de ugye
+ 
+
+1421
+00:28:36,360 --> 00:28:37,669
+végre ezeket a tranzakciókat, de ugye
+itt is ugye tudjuk, hogy ezek a
+
+1422
+00:28:37,669 --> 00:28:37,679
+itt is ugye tudjuk, hogy ezek a
+ 
+
+1423
+00:28:37,679 --> 00:28:40,190
+itt is ugye tudjuk, hogy ezek a
+tranzakciók transzparensek, tehát hogy
+
+1424
+00:28:40,190 --> 00:28:40,200
+tranzakciók transzparensek, tehát hogy
+ 
+
+1425
+00:28:40,200 --> 00:28:42,630
+tranzakciók transzparensek, tehát hogy
+nem indokolná, mert Ugye ott ott azért
+
+1426
+00:28:42,630 --> 00:28:42,640
+nem indokolná, mert Ugye ott ott azért
+ 
+
+1427
+00:28:42,640 --> 00:28:44,590
+nem indokolná, mert Ugye ott ott azért
+utána lehet járni dolgoknak, le lehet
+
+1428
+00:28:44,590 --> 00:28:44,600
+utána lehet járni dolgoknak, le lehet
+ 
+
+1429
+00:28:44,600 --> 00:28:46,470
+utána lehet járni dolgoknak, le lehet
+követni, hiszen ezt annyiszor láttuk már
+
+1430
+00:28:46,470 --> 00:28:46,480
+követni, hiszen ezt annyiszor láttuk már
+ 
+
+1431
+00:28:46,480 --> 00:28:49,830
+követni, hiszen ezt annyiszor láttuk már
+nem. Hány olyan híradás van, amikor és
+
+1432
+00:28:49,830 --> 00:28:49,840
+nem. Hány olyan híradás van, amikor és
+ 
+
+1433
+00:28:49,840 --> 00:28:51,870
+nem. Hány olyan híradás van, amikor és
+jellemzem fel is, göngyölítették ezeket
+
+1434
+00:28:51,870 --> 00:28:51,880
+jellemzem fel is, göngyölítették ezeket
+ 
+
+1435
+00:28:51,880 --> 00:28:53,389
+jellemzem fel is, göngyölítették ezeket
+az ügyeket, mert lehet, hogy öt évig ül
+
+1436
+00:28:53,389 --> 00:28:53,399
+az ügyeket, mert lehet, hogy öt évig ül
+ 
+
+1437
+00:28:53,399 --> 00:28:56,430
+az ügyeket, mert lehet, hogy öt évig ül
+rajta az a bűnöző. De aztán amikor azok
+
+1438
+00:28:56,430 --> 00:28:56,440
+rajta az a bűnöző. De aztán amikor azok
+ 
+
+1439
+00:28:56,440 --> 00:28:59,029
+rajta az a bűnöző. De aztán amikor azok
+a valetek akcióba lendülnek, amikor
+
+1440
+00:28:59,029 --> 00:28:59,039
+a valetek akcióba lendülnek, amikor
+ 
+
+1441
+00:28:59,039 --> 00:29:01,630
+a valetek akcióba lendülnek, amikor
+azokat a az eszközöket ki akarják
+
+1442
+00:29:01,630 --> 00:29:01,640
+azokat a az eszközöket ki akarják
+ 
+
+1443
+00:29:01,640 --> 00:29:04,509
+azokat a az eszközöket ki akarják
+utalni, át akarják váltani, azért ott az
+
+1444
+00:29:04,509 --> 00:29:04,519
+utalni, át akarják váltani, azért ott az
+ 
+
+1445
+00:29:04,519 --> 00:29:06,789
+utalni, át akarják váltani, azért ott az
+esetek nagy részében
+
+1446
+00:29:06,789 --> 00:29:06,799
+esetek nagy részében
+ 
+
+1447
+00:29:06,799 --> 00:29:09,590
+esetek nagy részében
+ha nem ha nem is minden esetben, de hát
+
+1448
+00:29:09,590 --> 00:29:09,600
+ha nem ha nem is minden esetben, de hát
+ 
+
+1449
+00:29:09,600 --> 00:29:12,470
+ha nem ha nem is minden esetben, de hát
+nagyon nagy számmal ugye ugye ott ott
+
+1450
+00:29:12,470 --> 00:29:12,480
+nagyon nagy számmal ugye ugye ott ott
+ 
+
+1451
+00:29:12,480 --> 00:29:14,149
+nagyon nagy számmal ugye ugye ott ott
+ott fülön lehet csípni ezeket az
+
+1452
+00:29:14,149 --> 00:29:14,159
+ott fülön lehet csípni ezeket az
+ 
+
+1453
+00:29:14,159 --> 00:29:16,509
+ott fülön lehet csípni ezeket az
+arcokat, könyörgöm,
+
+1454
+00:29:16,509 --> 00:29:16,519
+arcokat, könyörgöm,
+ 
+
+1455
+00:29:16,519 --> 00:29:18,470
+arcokat, könyörgöm,
+míg a bankban
+
+1456
+00:29:18,470 --> 00:29:18,480
+míg a bankban
+ 
+
+1457
+00:29:18,480 --> 00:29:20,750
+míg a bankban
+>> hát nagyon-nagyon nem sikerülnek ezek a
+
+1458
+00:29:20,750 --> 00:29:20,760
+>> hát nagyon-nagyon nem sikerülnek ezek a
+ 
+
+1459
+00:29:20,760 --> 00:29:23,310
+>> hát nagyon-nagyon nem sikerülnek ezek a
+dolgok. azért azt látjuk, hogy hogy itt
+
+1460
+00:29:23,310 --> 00:29:23,320
+dolgok. azért azt látjuk, hogy hogy itt
+ 
+
+1461
+00:29:23,320 --> 00:29:24,870
+dolgok. azért azt látjuk, hogy hogy itt
+azért mennyi botrány volt az utóbbi
+
+1462
+00:29:24,870 --> 00:29:24,880
+azért mennyi botrány volt az utóbbi
+ 
+
+1463
+00:29:24,880 --> 00:29:26,950
+azért mennyi botrány volt az utóbbi
+időben, hogy a bank a saját ügyfelét nem
+
+1464
+00:29:26,950 --> 00:29:26,960
+időben, hogy a bank a saját ügyfelét nem
+ 
+
+1465
+00:29:26,960 --> 00:29:28,950
+időben, hogy a bank a saját ügyfelét nem
+tudja megvédeni, könyörgöm.
+
+1466
+00:29:28,950 --> 00:29:28,960
+tudja megvédeni, könyörgöm.
+ 
+
+1467
+00:29:28,960 --> 00:29:29,509
+tudja megvédeni, könyörgöm.
+>> Ühüm.
+
+1468
+00:29:29,509 --> 00:29:29,519
+>> Ühüm.
+ 
+
+1469
+00:29:29,519 --> 00:29:31,310
+>> Ühüm.
+>> Mert nem is tudod, tehát addig el sem
+
+1470
+00:29:31,310 --> 00:29:31,320
+>> Mert nem is tudod, tehát addig el sem
+ 
+
+1471
+00:29:31,320 --> 00:29:33,029
+>> Mert nem is tudod, tehát addig el sem
+jut a dolog, mert fél órán keresztül
+
+1472
+00:29:33,029 --> 00:29:33,039
+jut a dolog, mert fél órán keresztül
+ 
+
+1473
+00:29:33,039 --> 00:29:35,149
+jut a dolog, mert fél órán keresztül
+kell önmagadat azonosítanod a
+
+1474
+00:29:35,149 --> 00:29:35,159
+kell önmagadat azonosítanod a
+ 
+
+1475
+00:29:35,159 --> 00:29:38,870
+kell önmagadat azonosítanod a
+bankiintézőnél, ami nem mindig sikerül.
+
+1476
+00:29:38,870 --> 00:29:38,880
+bankiintézőnél, ami nem mindig sikerül.
+ 
+
+1477
+00:29:38,880 --> 00:29:40,549
+bankiintézőnél, ami nem mindig sikerül.
+Tehát, hogy azért itt itt itt itt sokkal
+
+1478
+00:29:40,549 --> 00:29:40,559
+Tehát, hogy azért itt itt itt itt sokkal
+ 
+
+1479
+00:29:40,559 --> 00:29:42,870
+Tehát, hogy azért itt itt itt itt sokkal
+nagyobb problémák vannak annál, ugye itt
+
+1480
+00:29:42,870 --> 00:29:42,880
+nagyobb problémák vannak annál, ugye itt
+ 
+
+1481
+00:29:42,880 --> 00:29:45,509
+nagyobb problémák vannak annál, ugye itt
+a belső rendszerekben, mints sem hogy ez
+
+1482
+00:29:45,509 --> 00:29:45,519
+a belső rendszerekben, mints sem hogy ez
+ 
+
+1483
+00:29:45,519 --> 00:29:47,310
+a belső rendszerekben, mints sem hogy ez
+képes lenne itt ilyen nagy nemzetközi
+
+1484
+00:29:47,310 --> 00:29:47,320
+képes lenne itt ilyen nagy nemzetközi
+ 
+
+1485
+00:29:47,320 --> 00:29:49,230
+képes lenne itt ilyen nagy nemzetközi
+problémákat megoldani, mint terrorizmus
+
+1486
+00:29:49,230 --> 00:29:49,240
+problémákat megoldani, mint terrorizmus
+ 
+
+1487
+00:29:49,240 --> 00:29:51,509
+problémákat megoldani, mint terrorizmus
+finanszírozás. Tehát azért azért kicsit
+
+1488
+00:29:51,509 --> 00:29:51,519
+finanszírozás. Tehát azért azért kicsit
+ 
+
+1489
+00:29:51,519 --> 00:29:53,190
+finanszírozás. Tehát azért azért kicsit
+olvassunk a sorok között, meg kicsit
+
+1490
+00:29:53,190 --> 00:29:53,200
+olvassunk a sorok között, meg kicsit
+ 
+
+1491
+00:29:53,200 --> 00:29:54,669
+olvassunk a sorok között, meg kicsit
+nézzük már meg, hogy mi történik a
+
+1492
+00:29:54,669 --> 00:29:54,679
+nézzük már meg, hogy mi történik a
+ 
+
+1493
+00:29:54,679 --> 00:29:56,549
+nézzük már meg, hogy mi történik a
+gyakorlatban.
+
+1494
+00:29:56,549 --> 00:29:56,559
+gyakorlatban.
+ 
+
+1495
+00:29:56,559 --> 00:29:57,985
+gyakorlatban.
+Ennyit szerettem volna elmondani.
+
+1496
+00:29:57,985 --> 00:29:57,995
+Ennyit szerettem volna elmondani.
+ 
+
+1497
+00:29:57,995 --> 00:29:59,909
+Ennyit szerettem volna elmondani.
+[nevetés]
+
+1498
+00:29:59,909 --> 00:29:59,919
+[nevetés]
+ 
+
+1499
+00:29:59,919 --> 00:30:01,310
+[nevetés]
+>> Hát ja, abszolút
+
+1500
+00:30:01,310 --> 00:30:01,320
+>> Hát ja, abszolút
+ 
+
+1501
+00:30:01,320 --> 00:30:03,630
+>> Hát ja, abszolút
+>> azt hiszem, hogy röviden és tömören, mer
+
+1502
+00:30:03,630 --> 00:30:03,640
+>> azt hiszem, hogy röviden és tömören, mer
+ 
+
+1503
+00:30:03,640 --> 00:30:05,750
+>> azt hiszem, hogy röviden és tömören, mer
+le is fagyott a képetek egyébként. Tehát
+
+1504
+00:30:05,750 --> 00:30:05,760
+le is fagyott a képetek egyébként. Tehát
+ 
+
+1505
+00:30:05,760 --> 00:30:06,950
+le is fagyott a képetek egyébként. Tehát
+elhiszem, hogy sokkoló
+
+1506
+00:30:06,950 --> 00:30:06,960
+elhiszem, hogy sokkoló
+ 
+
+1507
+00:30:06,960 --> 00:30:09,070
+elhiszem, hogy sokkoló
+>> a miénk, a tiéd.
+
+1508
+00:30:09,070 --> 00:30:09,080
+>> a miénk, a tiéd.
+ 
+
+1509
+00:30:09,080 --> 00:30:10,269
+>> a miénk, a tiéd.
+>> Ezt így végig.
+
+1510
+00:30:10,269 --> 00:30:10,279
+>> Ezt így végig.
+ 
+
+1511
+00:30:10,279 --> 00:30:12,310
+>> Ezt így végig.
+>> Nem, a miénk is lefagyott meg minden
+
+1512
+00:30:12,310 --> 00:30:12,320
+>> Nem, a miénk is lefagyott meg minden
+ 
+
+1513
+00:30:12,320 --> 00:30:15,029
+>> Nem, a miénk is lefagyott meg minden
+néző szerintem. De hát a Bitcoin ezért
+
+1514
+00:30:15,029 --> 00:30:15,039
+néző szerintem. De hát a Bitcoin ezért
+ 
+
+1515
+00:30:15,039 --> 00:30:17,590
+néző szerintem. De hát a Bitcoin ezért
+ideális pénz, mert ugye alapvetően
+
+1516
+00:30:17,590 --> 00:30:17,600
+ideális pénz, mert ugye alapvetően
+ 
+
+1517
+00:30:17,600 --> 00:30:19,389
+ideális pénz, mert ugye alapvetően
+megoldást nyújt ezekre az
+
+1518
+00:30:19,389 --> 00:30:19,399
+megoldást nyújt ezekre az
+ 
+
+1519
+00:30:19,399 --> 00:30:21,710
+megoldást nyújt ezekre az
+átláthatatlansági problémákra ilyen
+
+1520
+00:30:21,710 --> 00:30:21,720
+átláthatatlansági problémákra ilyen
+ 
+
+1521
+00:30:21,720 --> 00:30:23,389
+átláthatatlansági problémákra ilyen
+szinten. Tehát hogyha holnaptól minden
+
+1522
+00:30:23,389 --> 00:30:23,399
+szinten. Tehát hogyha holnaptól minden
+ 
+
+1523
+00:30:23,399 --> 00:30:25,750
+szinten. Tehát hogyha holnaptól minden
+ilyen transzparensen működne így a bank
+
+1524
+00:30:25,750 --> 00:30:25,760
+ilyen transzparensen működne így a bank
+ 
+
+1525
+00:30:25,760 --> 00:30:28,549
+ilyen transzparensen működne így a bank
+rendszerben, mint ahogy azt a Bitcoin
+
+1526
+00:30:28,549 --> 00:30:28,559
+rendszerben, mint ahogy azt a Bitcoin
+ 
+
+1527
+00:30:28,559 --> 00:30:31,630
+rendszerben, mint ahogy azt a Bitcoin
+hálózatán, a time chainen lehet
+
+1528
+00:30:31,630 --> 00:30:31,640
+hálózatán, a time chainen lehet
+ 
+
+1529
+00:30:31,640 --> 00:30:33,630
+hálózatán, a time chainen lehet
+megfigyelni, akkor akkor igencsak
+
+1530
+00:30:33,630 --> 00:30:33,640
+megfigyelni, akkor akkor igencsak
+ 
+
+1531
+00:30:33,640 --> 00:30:34,870
+megfigyelni, akkor akkor igencsak
+probléma lenne szerintem a
+
+1532
+00:30:34,870 --> 00:30:34,880
+probléma lenne szerintem a
+ 
+
+1533
+00:30:34,880 --> 00:30:37,269
+probléma lenne szerintem a
+bankrendszeren belül, mert
+
+1534
+00:30:37,269 --> 00:30:37,279
+bankrendszeren belül, mert
+ 
+
+1535
+00:30:37,279 --> 00:30:40,470
+bankrendszeren belül, mert
+visszakanyarodna ez az AML
+
+1536
+00:30:40,470 --> 00:30:40,480
+visszakanyarodna ez az AML
+ 
+
+1537
+00:30:40,480 --> 00:30:44,909
+visszakanyarodna ez az AML
+meg a terrorizmus finanszírozás probléma
+
+1538
+00:30:44,909 --> 00:30:44,919
+meg a terrorizmus finanszírozás probléma
+ 
+
+1539
+00:30:44,919 --> 00:30:47,830
+meg a terrorizmus finanszírozás probléma
+oda. Tehát azért van egy csomó hír, hogy
+
+1540
+00:30:47,830 --> 00:30:47,840
+oda. Tehát azért van egy csomó hír, hogy
+ 
+
+1541
+00:30:47,840 --> 00:30:49,710
+oda. Tehát azért van egy csomó hír, hogy
+hogy milyen bírságok jönnek ki így a
+
+1542
+00:30:49,710 --> 00:30:49,720
+hogy milyen bírságok jönnek ki így a
+ 
+
+1543
+00:30:49,720 --> 00:30:52,389
+hogy milyen bírságok jönnek ki így a
+nagy bankoknál az USAba, amikor ilyen
+
+1544
+00:30:52,389 --> 00:30:52,399
+nagy bankoknál az USAba, amikor ilyen
+ 
+
+1545
+00:30:52,399 --> 00:30:54,430
+nagy bankoknál az USAba, amikor ilyen
+bűncselekmények kerülnek elő, hogy
+
+1546
+00:30:54,430 --> 00:30:54,440
+bűncselekmények kerülnek elő, hogy
+ 
+
+1547
+00:30:54,440 --> 00:30:56,269
+bűncselekmények kerülnek elő, hogy
+felderítik.
+
+1548
+00:30:56,269 --> 00:30:56,279
+felderítik.
+ 
+
+1549
+00:30:56,279 --> 00:30:58,070
+felderítik.
+Tehát akkor egy egy-két nagy bank azért
+
+1550
+00:30:58,070 --> 00:30:58,080
+Tehát akkor egy egy-két nagy bank azért
+ 
+
+1551
+00:30:58,080 --> 00:31:00,830
+Tehát akkor egy egy-két nagy bank azért
+már eléggé nagy bírságot kapott.
+
+1552
+00:31:00,830 --> 00:31:00,840
+már eléggé nagy bírságot kapott.
+ 
+
+1553
+00:31:00,840 --> 00:31:02,590
+már eléggé nagy bírságot kapott.
+Szeretném, hogyha egy kicsit így
+
+1554
+00:31:02,590 --> 00:31:02,600
+Szeretném, hogyha egy kicsit így
+ 
+
+1555
+00:31:02,600 --> 00:31:05,029
+Szeretném, hogyha egy kicsit így
+visszakanyarodnánk ilyen gyakorlati
+
+1556
+00:31:05,029 --> 00:31:05,039
+visszakanyarodnánk ilyen gyakorlati
+ 
+
+1557
+00:31:05,039 --> 00:31:07,190
+visszakanyarodnánk ilyen gyakorlati
+részére ennek, mert ugye itt említettél
+
+1558
+00:31:07,190 --> 00:31:07,200
+részére ennek, mert ugye itt említettél
+ 
+
+1559
+00:31:07,200 --> 00:31:10,070
+részére ennek, mert ugye itt említettél
+ilyen magánszemélyes példákat, és engem
+
+1560
+00:31:10,070 --> 00:31:10,080
+ilyen magánszemélyes példákat, és engem
+ 
+
+1561
+00:31:10,080 --> 00:31:11,950
+ilyen magánszemélyes példákat, és engem
+például, vagy hát szerintem egy pár
+
+1562
+00:31:11,950 --> 00:31:11,960
+például, vagy hát szerintem egy pár
+ 
+
+1563
+00:31:11,960 --> 00:31:14,590
+például, vagy hát szerintem egy pár
+nézőt vagy hallgatót is érdekelhet az,
+
+1564
+00:31:14,590 --> 00:31:14,600
+nézőt vagy hallgatót is érdekelhet az,
+ 
+
+1565
+00:31:14,600 --> 00:31:16,389
+nézőt vagy hallgatót is érdekelhet az,
+amikor mondjuk saját cég, mondjuk
+
+1566
+00:31:16,389 --> 00:31:16,399
+amikor mondjuk saját cég, mondjuk
+ 
+
+1567
+00:31:16,399 --> 00:31:18,070
+amikor mondjuk saját cég, mondjuk
+kisvállalkozás
+
+1568
+00:31:18,070 --> 00:31:18,080
+kisvállalkozás
+ 
+
+1569
+00:31:18,080 --> 00:31:23,149
+kisvállalkozás
+fogad el áru, vagy saját pénz
+
+1570
+00:31:23,149 --> 00:31:23,159
+fogad el áru, vagy saját pénz
+ 
+
+1571
+00:31:23,159 --> 00:31:26,190
+fogad el áru, vagy saját pénz
+saját treasury céljára bitcoint például,
+
+1572
+00:31:26,190 --> 00:31:26,200
+saját treasury céljára bitcoint például,
+ 
+
+1573
+00:31:26,200 --> 00:31:29,750
+saját treasury céljára bitcoint például,
+hogy az azt érinti-e majd ez ez a
+
+1574
+00:31:29,750 --> 00:31:29,760
+hogy az azt érinti-e majd ez ez a
+ 
+
+1575
+00:31:29,760 --> 00:31:32,669
+hogy az azt érinti-e majd ez ez a
+validálás.
+
+1576
+00:31:32,669 --> 00:31:32,679
+
+ 
+
+1577
+00:31:32,679 --> 00:31:34,269
+
+Maga a validálás, ugye, tehát maga az
+
+1578
+00:31:34,269 --> 00:31:34,279
+Maga a validálás, ugye, tehát maga az
+ 
+
+1579
+00:31:34,279 --> 00:31:38,350
+Maga a validálás, ugye, tehát maga az
+elfogadás az az nem nincsen a
+
+1580
+00:31:38,350 --> 00:31:38,360
+elfogadás az az nem nincsen a
+ 
+
+1581
+00:31:38,360 --> 00:31:40,710
+elfogadás az az nem nincsen a
+törvényálya alatt ilyen értelemben.
+
+1582
+00:31:40,710 --> 00:31:40,720
+törvényálya alatt ilyen értelemben.
+ 
+
+1583
+00:31:40,720 --> 00:31:42,629
+törvényálya alatt ilyen értelemben.
+Tehát, hogy itt a validálás az az
+
+1584
+00:31:42,629 --> 00:31:42,639
+Tehát, hogy itt a validálás az az
+ 
+
+1585
+00:31:42,639 --> 00:31:45,509
+Tehát, hogy itt a validálás az az
+átváltáskor jön képbe.
+
+1586
+00:31:45,509 --> 00:31:45,519
+átváltáskor jön képbe.
+ 
+
+1587
+00:31:45,519 --> 00:31:47,789
+átváltáskor jön képbe.
+>> Tehát add mind mindaddig ugye amíg
+
+1588
+00:31:47,789 --> 00:31:47,799
+>> Tehát add mind mindaddig ugye amíg
+ 
+
+1589
+00:31:47,799 --> 00:31:50,430
+>> Tehát add mind mindaddig ugye amíg
+például egy cég treasuryt képez, tehát
+
+1590
+00:31:50,430 --> 00:31:50,440
+például egy cég treasuryt képez, tehát
+ 
+
+1591
+00:31:50,440 --> 00:31:52,830
+például egy cég treasuryt képez, tehát
+stratégiai vagy nem is stratégiai, de
+
+1592
+00:31:52,830 --> 00:31:52,840
+stratégiai vagy nem is stratégiai, de
+ 
+
+1593
+00:31:52,840 --> 00:31:54,230
+stratégiai vagy nem is stratégiai, de
+tartalék alapot képez.
+
+1594
+00:31:54,230 --> 00:31:54,240
+tartalék alapot képez.
+ 
+
+1595
+00:31:54,240 --> 00:31:56,590
+tartalék alapot képez.
+>> Stré Ühüm. tartalékot képez ugye a saját
+
+1596
+00:31:56,590 --> 00:31:56,600
+>> Stré Ühüm. tartalékot képez ugye a saját
+ 
+
+1597
+00:31:56,600 --> 00:31:58,110
+>> Stré Ühüm. tartalékot képez ugye a saját
+vállalkozásában,
+
+1598
+00:31:58,110 --> 00:31:58,120
+vállalkozásában,
+ 
+
+1599
+00:31:58,120 --> 00:32:00,590
+vállalkozásában,
+és ő ahhoz nem nyúl, hanem hanem azt ő
+
+1600
+00:32:00,590 --> 00:32:00,600
+és ő ahhoz nem nyúl, hanem hanem azt ő
+ 
+
+1601
+00:32:00,600 --> 00:32:03,110
+és ő ahhoz nem nyúl, hanem hanem azt ő
+ott hagyja pihenni. Semmi sem történik,
+
+1602
+00:32:03,110 --> 00:32:03,120
+ott hagyja pihenni. Semmi sem történik,
+ 
+
+1603
+00:32:03,120 --> 00:32:05,190
+ott hagyja pihenni. Semmi sem történik,
+tehát nincs átváltás, amit validálni
+
+1604
+00:32:05,190 --> 00:32:05,200
+tehát nincs átváltás, amit validálni
+ 
+
+1605
+00:32:05,200 --> 00:32:07,669
+tehát nincs átváltás, amit validálni
+kéne. akkor merülhet fel a kérdés,
+
+1606
+00:32:07,669 --> 00:32:07,679
+kéne. akkor merülhet fel a kérdés,
+ 
+
+1607
+00:32:07,679 --> 00:32:10,070
+kéne. akkor merülhet fel a kérdés,
+amikor az a cég szeretné átváltani ezt a
+
+1608
+00:32:10,070 --> 00:32:10,080
+amikor az a cég szeretné átváltani ezt a
+ 
+
+1609
+00:32:10,080 --> 00:32:12,950
+amikor az a cég szeretné átváltani ezt a
+dolgot, ezt a dolgot, ezt az eszközt,
+
+1610
+00:32:12,950 --> 00:32:12,960
+dolgot, ezt a dolgot, ezt az eszközt,
+ 
+
+1611
+00:32:12,960 --> 00:32:15,549
+dolgot, ezt a dolgot, ezt az eszközt,
+akkor ugye felmerülhet, és nyilván akkor
+
+1612
+00:32:15,549 --> 00:32:15,559
+akkor ugye felmerülhet, és nyilván akkor
+ 
+
+1613
+00:32:15,559 --> 00:32:18,230
+akkor ugye felmerülhet, és nyilván akkor
+már bekerülhet a validálás alá az
+
+1614
+00:32:18,230 --> 00:32:18,240
+már bekerülhet a validálás alá az
+ 
+
+1615
+00:32:18,240 --> 00:32:20,990
+már bekerülhet a validálás alá az
+összeghatár miatt, mert ugye alapból
+
+1616
+00:32:20,990 --> 00:32:21,000
+összeghatár miatt, mert ugye alapból
+ 
+
+1617
+00:32:21,000 --> 00:32:23,269
+összeghatár miatt, mert ugye alapból
+hiába a cég az még mindig egy saját
+
+1618
+00:32:23,269 --> 00:32:23,279
+hiába a cég az még mindig egy saját
+ 
+
+1619
+00:32:23,279 --> 00:32:26,350
+hiába a cég az még mindig egy saját
+magamnak történő váltást eredményez,
+
+1620
+00:32:26,350 --> 00:32:26,360
+magamnak történő váltást eredményez,
+ 
+
+1621
+00:32:26,360 --> 00:32:27,870
+magamnak történő váltást eredményez,
+hogyha már ez a cég üzletszerűen
+
+1622
+00:32:27,870 --> 00:32:27,880
+hogyha már ez a cég üzletszerűen
+ 
+
+1623
+00:32:27,880 --> 00:32:29,389
+hogyha már ez a cég üzletszerűen
+csinálja ezt, de akkor már másról
+
+1624
+00:32:29,389 --> 00:32:29,399
+csinálja ezt, de akkor már másról
+ 
+
+1625
+00:32:29,399 --> 00:32:31,110
+csinálja ezt, de akkor már másról
+beszélünk, tehát akkor már nem
+
+1626
+00:32:31,110 --> 00:32:31,120
+beszélünk, tehát akkor már nem
+ 
+
+1627
+00:32:31,120 --> 00:32:33,070
+beszélünk, tehát akkor már nem
+treasuryről beszélünk, hanem az egy más
+
+1628
+00:32:33,070 --> 00:32:33,080
+treasuryről beszélünk, hanem az egy más
+ 
+
+1629
+00:32:33,080 --> 00:32:34,830
+treasuryről beszélünk, hanem az egy más
+jellegű szolgáltatás, amit az a cég
+
+1630
+00:32:34,830 --> 00:32:34,840
+jellegű szolgáltatás, amit az a cég
+ 
+
+1631
+00:32:34,840 --> 00:32:36,789
+jellegű szolgáltatás, amit az a cég
+végez, akkor Akkor minden igaz, amit a
+
+1632
+00:32:36,789 --> 00:32:36,799
+végez, akkor Akkor minden igaz, amit a
+ 
+
+1633
+00:32:36,799 --> 00:32:39,310
+végez, akkor Akkor minden igaz, amit a
+korábbiakban elmondtam. Ez az egyik. A
+
+1634
+00:32:39,310 --> 00:32:39,320
+korábbiakban elmondtam. Ez az egyik. A
+ 
+
+1635
+00:32:39,320 --> 00:32:41,230
+korábbiakban elmondtam. Ez az egyik. A
+másik az, hogyha én cégként bitcoint
+
+1636
+00:32:41,230 --> 00:32:41,240
+másik az, hogyha én cégként bitcoint
+ 
+
+1637
+00:32:41,240 --> 00:32:44,029
+másik az, hogyha én cégként bitcoint
+elfogadok, akkor ugyanez áll. Tehát
+
+1638
+00:32:44,029 --> 00:32:44,039
+elfogadok, akkor ugyanez áll. Tehát
+ 
+
+1639
+00:32:44,039 --> 00:32:46,149
+elfogadok, akkor ugyanez áll. Tehát
+elfogadhatom én azt a bitcoint. Ha
+
+1640
+00:32:46,149 --> 00:32:46,159
+elfogadhatom én azt a bitcoint. Ha
+ 
+
+1641
+00:32:46,159 --> 00:32:48,909
+elfogadhatom én azt a bitcoint. Ha
+tartani akarom, akkor tartom. Amikor
+
+1642
+00:32:48,909 --> 00:32:48,919
+tartani akarom, akkor tartom. Amikor
+ 
+
+1643
+00:32:48,919 --> 00:32:51,149
+tartani akarom, akkor tartom. Amikor
+pedig ugye itt fennállhat az
+
+1644
+00:32:51,149 --> 00:32:51,159
+pedig ugye itt fennállhat az
+ 
+
+1645
+00:32:51,159 --> 00:32:53,590
+pedig ugye itt fennállhat az
+üzletszerűség kérdése, de az
+
+1646
+00:32:53,590 --> 00:32:53,600
+üzletszerűség kérdése, de az
+ 
+
+1647
+00:32:53,600 --> 00:32:55,909
+üzletszerűség kérdése, de az
+üzletszerűség ugye itt nem itt nem
+
+1648
+00:32:55,909 --> 00:32:55,919
+üzletszerűség ugye itt nem itt nem
+ 
+
+1649
+00:32:55,919 --> 00:32:58,430
+üzletszerűség ugye itt nem itt nem
+váltás valósul meg elsősorban, hanem itt
+
+1650
+00:32:58,430 --> 00:32:58,440
+váltás valósul meg elsősorban, hanem itt
+ 
+
+1651
+00:32:58,440 --> 00:33:01,509
+váltás valósul meg elsősorban, hanem itt
+egy árucsere valósul meg elsősorban.
+
+1652
+00:33:01,509 --> 00:33:01,519
+egy árucsere valósul meg elsősorban.
+ 
+
+1653
+00:33:01,519 --> 00:33:03,909
+egy árucsere valósul meg elsősorban.
+Tehát itt én azt a a bitcoint valamiért
+
+1654
+00:33:03,909 --> 00:33:03,919
+Tehát itt én azt a a bitcoint valamiért
+ 
+
+1655
+00:33:03,919 --> 00:33:06,710
+Tehát itt én azt a a bitcoint valamiért
+cserébe, nem pénzért cserébe kaptam,
+
+1656
+00:33:06,710 --> 00:33:06,720
+cserébe, nem pénzért cserébe kaptam,
+ 
+
+1657
+00:33:06,720 --> 00:33:09,230
+cserébe, nem pénzért cserébe kaptam,
+hanem könyvért cserébe kaptam, vagy
+
+1658
+00:33:09,230 --> 00:33:09,240
+hanem könyvért cserébe kaptam, vagy
+ 
+
+1659
+00:33:09,240 --> 00:33:13,430
+hanem könyvért cserébe kaptam, vagy
+cipőért cserébe kaptam. Tehát ezt le
+
+1660
+00:33:13,430 --> 00:33:13,440
+cipőért cserébe kaptam. Tehát ezt le
+ 
+
+1661
+00:33:13,440 --> 00:33:15,629
+cipőért cserébe kaptam. Tehát ezt le
+kell könyvelni ugyanúgy egy cégnek, mint
+
+1662
+00:33:15,629 --> 00:33:15,639
+kell könyvelni ugyanúgy egy cégnek, mint
+ 
+
+1663
+00:33:15,639 --> 00:33:19,590
+kell könyvelni ugyanúgy egy cégnek, mint
+egy mintha egy Fiat vásárlás történt
+
+1664
+00:33:19,590 --> 00:33:19,600
+egy mintha egy Fiat vásárlás történt
+ 
+
+1665
+00:33:19,600 --> 00:33:21,509
+egy mintha egy Fiat vásárlás történt
+volna. És ugye megvannak erre a
+
+1666
+00:33:21,509 --> 00:33:21,519
+volna. És ugye megvannak erre a
+ 
+
+1667
+00:33:21,519 --> 00:33:24,029
+volna. És ugye megvannak erre a
+különböző könyvelési szabályok, hogy ott
+
+1668
+00:33:24,029 --> 00:33:24,039
+különböző könyvelési szabályok, hogy ott
+ 
+
+1669
+00:33:24,039 --> 00:33:26,950
+különböző könyvelési szabályok, hogy ott
+az átváltást vagy hát az értéket hogyan
+
+1670
+00:33:26,950 --> 00:33:26,960
+az átváltást vagy hát az értéket hogyan
+ 
+
+1671
+00:33:26,960 --> 00:33:29,549
+az átváltást vagy hát az értéket hogyan
+kell és mikor kell figyelembe venni, de
+
+1672
+00:33:29,549 --> 00:33:29,559
+kell és mikor kell figyelembe venni, de
+ 
+
+1673
+00:33:29,559 --> 00:33:30,509
+kell és mikor kell figyelembe venni, de
+ez ez megint csak nem
+
+1674
+00:33:30,509 --> 00:33:30,519
+ez ez megint csak nem
+ 
+
+1675
+00:33:30,519 --> 00:33:32,310
+ez ez megint csak nem
+>> tehát ezt rögzítenie kell a cégnek,
+
+1676
+00:33:32,310 --> 00:33:32,320
+>> tehát ezt rögzítenie kell a cégnek,
+ 
+
+1677
+00:33:32,320 --> 00:33:34,590
+>> tehát ezt rögzítenie kell a cégnek,
+leülnekével
+
+1678
+00:33:34,590 --> 00:33:34,600
+leülnekével
+ 
+
+1679
+00:33:34,600 --> 00:33:35,990
+leülnekével
+megkeresni esetleg
+
+1680
+00:33:35,990 --> 00:33:36,000
+megkeresni esetleg
+ 
+
+1681
+00:33:36,000 --> 00:33:38,070
+megkeresni esetleg
+>> téged vagy minket, hogyha elakad.
+
+1682
+00:33:38,070 --> 00:33:38,080
+>> téged vagy minket, hogyha elakad.
+ 
+
+1683
+00:33:38,080 --> 00:33:41,389
+>> téged vagy minket, hogyha elakad.
+>> Pontosan pontosan. És ugye itt egy valid
+
+1684
+00:33:41,389 --> 00:33:41,399
+>> Pontosan pontosan. És ugye itt egy valid
+ 
+
+1685
+00:33:41,399 --> 00:33:43,509
+>> Pontosan pontosan. És ugye itt egy valid
+>> így van. Nem vajdálás, hanem adózási.
+
+1686
+00:33:43,509 --> 00:33:43,519
+>> így van. Nem vajdálás, hanem adózási.
+ 
+
+1687
+00:33:43,519 --> 00:33:45,509
+>> így van. Nem vajdálás, hanem adózási.
+Ugye itt az előbb az RP kérdezett a
+
+1688
+00:33:45,509 --> 00:33:45,519
+Ugye itt az előbb az RP kérdezett a
+ 
+
+1689
+00:33:45,519 --> 00:33:46,549
+Ugye itt az előbb az RP kérdezett a
+fekete doboz
+
+1690
+00:33:46,549 --> 00:33:46,559
+fekete doboz
+ 
+
+1691
+00:33:46,559 --> 00:33:46,990
+fekete doboz
+>> Ühüm.
+
+1692
+00:33:46,990 --> 00:33:47,000
+>> Ühüm.
+ 
+
+1693
+00:33:47,000 --> 00:33:50,149
+>> Ühüm.
+>> kérdéskörében, ugye ez már egy adózási
+
+1694
+00:33:50,149 --> 00:33:50,159
+>> kérdéskörében, ugye ez már egy adózási
+ 
+
+1695
+00:33:50,159 --> 00:33:52,590
+>> kérdéskörében, ugye ez már egy adózási
+esemény, és ott kell ezeket a dolgokat
+
+1696
+00:33:52,590 --> 00:33:52,600
+esemény, és ott kell ezeket a dolgokat
+ 
+
+1697
+00:33:52,600 --> 00:33:54,509
+esemény, és ott kell ezeket a dolgokat
+figyelembe venni, hogyha átváltottam,
+
+1698
+00:33:54,509 --> 00:33:54,519
+figyelembe venni, hogyha átváltottam,
+ 
+
+1699
+00:33:54,519 --> 00:33:56,629
+figyelembe venni, hogyha átváltottam,
+adóéven belül váltottam-e át, esetleg
+
+1700
+00:33:56,629 --> 00:33:56,639
+adóéven belül váltottam-e át, esetleg
+ 
+
+1701
+00:33:56,639 --> 00:34:00,269
+adóéven belül váltottam-e át, esetleg
+nem átváltottam, hanem mondjuk beraktam
+
+1702
+00:34:00,269 --> 00:34:00,279
+nem átváltottam, hanem mondjuk beraktam
+ 
+
+1703
+00:34:00,279 --> 00:34:02,590
+nem átváltottam, hanem mondjuk beraktam
+fedezettként a BTC-met, és egy hitelt
+
+1704
+00:34:02,590 --> 00:34:02,600
+fedezettként a BTC-met, és egy hitelt
+ 
+
+1705
+00:34:02,600 --> 00:34:05,269
+fedezettként a BTC-met, és egy hitelt
+vettem fel, és az bevételnek
+
+1706
+00:34:05,269 --> 00:34:05,279
+vettem fel, és az bevételnek
+ 
+
+1707
+00:34:05,279 --> 00:34:07,350
+vettem fel, és az bevételnek
+minősülhete, tehát adózási eredmény
+
+1708
+00:34:07,350 --> 00:34:07,360
+minősülhete, tehát adózási eredmény
+ 
+
+1709
+00:34:07,360 --> 00:34:10,389
+minősülhete, tehát adózási eredmény
+lesz-e, illetve adózási adóalapot
+
+1710
+00:34:10,389 --> 00:34:10,399
+lesz-e, illetve adózási adóalapot
+ 
+
+1711
+00:34:10,399 --> 00:34:13,190
+lesz-e, illetve adózási adóalapot
+képez-e majd az a az az összeg? Tehát
+
+1712
+00:34:13,190 --> 00:34:13,200
+képez-e majd az a az az összeg? Tehát
+ 
+
+1713
+00:34:13,200 --> 00:34:15,069
+képez-e majd az a az az összeg? Tehát
+itt itt vannak érdekes kérdések, el
+
+1714
+00:34:15,069 --> 00:34:15,079
+itt itt vannak érdekes kérdések, el
+ 
+
+1715
+00:34:15,079 --> 00:34:17,270
+itt itt vannak érdekes kérdések, el
+lehet ezekkel játszani, de a validálás
+
+1716
+00:34:17,270 --> 00:34:17,280
+lehet ezekkel játszani, de a validálás
+ 
+
+1717
+00:34:17,280 --> 00:34:19,550
+lehet ezekkel játszani, de a validálás
+alá és a bűncselekmény fogalma alá
+
+1718
+00:34:19,550 --> 00:34:19,560
+alá és a bűncselekmény fogalma alá
+ 
+
+1719
+00:34:19,560 --> 00:34:21,109
+alá és a bűncselekmény fogalma alá
+semmiféleképpen sem
+
+1720
+00:34:21,109 --> 00:34:21,119
+semmiféleképpen sem
+ 
+
+1721
+00:34:21,119 --> 00:34:23,470
+semmiféleképpen sem
+>> Ühüm. Kifejezetten a váltás.
+
+1722
+00:34:23,470 --> 00:34:23,480
+>> Ühüm. Kifejezetten a váltás.
+ 
+
+1723
+00:34:23,480 --> 00:34:24,589
+>> Ühüm. Kifejezetten a váltás.
+>> Tartik. Pontosan.
+
+1724
+00:34:24,589 --> 00:34:24,599
+>> Tartik. Pontosan.
+ 
+
+1725
+00:34:24,599 --> 00:34:26,430
+>> Tartik. Pontosan.
+>> Igen. Meg amúgy tényleg ilyen tökmér el
+
+1726
+00:34:26,430 --> 00:34:26,440
+>> Igen. Meg amúgy tényleg ilyen tökmér el
+ 
+
+1727
+00:34:26,440 --> 00:34:28,909
+>> Igen. Meg amúgy tényleg ilyen tökmér el
+lehet ebbe menni, hogy mi miért van, de
+
+1728
+00:34:28,909 --> 00:34:28,919
+lehet ebbe menni, hogy mi miért van, de
+ 
+
+1729
+00:34:28,919 --> 00:34:30,149
+lehet ebbe menni, hogy mi miért van, de
+most nem kívánok.
+
+1730
+00:34:30,149 --> 00:34:30,159
+most nem kívánok.
+ 
+
+1731
+00:34:30,159 --> 00:34:32,149
+most nem kívánok.
+>> Nyilván az fontos még egyébként az
+
+1732
+00:34:32,149 --> 00:34:32,159
+>> Nyilván az fontos még egyébként az
+ 
+
+1733
+00:34:32,159 --> 00:34:35,149
+>> Nyilván az fontos még egyébként az
+fontos szempont, hogy ugye itt kész by
+
+1734
+00:34:35,149 --> 00:34:35,159
+fontos szempont, hogy ugye itt kész by
+ 
+
+1735
+00:34:35,159 --> 00:34:37,349
+fontos szempont, hogy ugye itt kész by
+kész, tehát hogy itt egyén egyénileg
+
+1736
+00:34:37,349 --> 00:34:37,359
+kész, tehát hogy itt egyén egyénileg
+ 
+
+1737
+00:34:37,359 --> 00:34:40,230
+kész, tehát hogy itt egyén egyénileg
+lehet értelmezni a dolgokat. Nyilván
+
+1738
+00:34:40,230 --> 00:34:40,240
+lehet értelmezni a dolgokat. Nyilván
+ 
+
+1739
+00:34:40,240 --> 00:34:42,109
+lehet értelmezni a dolgokat. Nyilván
+pontos választ akkor lehet a legjobban
+
+1740
+00:34:42,109 --> 00:34:42,119
+pontos választ akkor lehet a legjobban
+ 
+
+1741
+00:34:42,119 --> 00:34:43,869
+pontos választ akkor lehet a legjobban
+adni, amikor ott van előtted egy
+
+1742
+00:34:43,869 --> 00:34:43,879
+adni, amikor ott van előtted egy
+ 
+
+1743
+00:34:43,879 --> 00:34:46,030
+adni, amikor ott van előtted egy
+magánszemélyesete, ott van előtted egy
+
+1744
+00:34:46,030 --> 00:34:46,040
+magánszemélyesete, ott van előtted egy
+ 
+
+1745
+00:34:46,040 --> 00:34:48,149
+magánszemélyesete, ott van előtted egy
+cégnek az esete, ott van annak a cégnek
+
+1746
+00:34:48,149 --> 00:34:48,159
+cégnek az esete, ott van annak a cégnek
+ 
+
+1747
+00:34:48,159 --> 00:34:51,389
+cégnek az esete, ott van annak a cégnek
+az üzleti modellje, mit kíván tenni, mit
+
+1748
+00:34:51,389 --> 00:34:51,399
+az üzleti modellje, mit kíván tenni, mit
+ 
+
+1749
+00:34:51,399 --> 00:34:53,990
+az üzleti modellje, mit kíván tenni, mit
+nem kíván tenni, akkor lehet teljes
+
+1750
+00:34:53,990 --> 00:34:54,000
+nem kíván tenni, akkor lehet teljes
+ 
+
+1751
+00:34:54,000 --> 00:34:56,629
+nem kíván tenni, akkor lehet teljes
+biztonsággal válaszokat adni. Ami
+
+1752
+00:34:56,629 --> 00:34:56,639
+biztonsággal válaszokat adni. Ami
+ 
+
+1753
+00:34:56,639 --> 00:34:59,390
+biztonsággal válaszokat adni. Ami
+szerintem nagyon fontos információ kell,
+
+1754
+00:34:59,390 --> 00:34:59,400
+szerintem nagyon fontos információ kell,
+ 
+
+1755
+00:34:59,400 --> 00:35:01,030
+szerintem nagyon fontos információ kell,
+hogy legyen itt ebből az egészből, amit
+
+1756
+00:35:01,030 --> 00:35:01,040
+hogy legyen itt ebből az egészből, amit
+ 
+
+1757
+00:35:01,040 --> 00:35:04,750
+hogy legyen itt ebből az egészből, amit
+mondtam, az az, hogy egyrészt 202 január
+
+1758
+00:35:04,750 --> 00:35:04,760
+mondtam, az az, hogy egyrészt 202 január
+ 
+
+1759
+00:35:04,760 --> 00:35:06,950
+mondtam, az az, hogy egyrészt 202 január
+1je után lesznek ezek a szabályok
+
+1760
+00:35:06,950 --> 00:35:06,960
+1je után lesznek ezek a szabályok
+ 
+
+1761
+00:35:06,960 --> 00:35:11,750
+1je után lesznek ezek a szabályok
+érvényben BTK-stól, STF, STFH-stól,
+
+1762
+00:35:11,750 --> 00:35:11,760
+érvényben BTK-stól, STF, STFH-stól,
+ 
+
+1763
+00:35:11,760 --> 00:35:14,190
+érvényben BTK-stól, STF, STFH-stól,
+validálásostól, megfelelősségi
+
+1764
+00:35:14,190 --> 00:35:14,200
+validálásostól, megfelelősségi
+ 
+
+1765
+00:35:14,200 --> 00:35:15,910
+validálásostól, megfelelősségi
+tanúsítványostól,
+
+1766
+00:35:15,910 --> 00:35:15,920
+tanúsítványostól,
+ 
+
+1767
+00:35:15,920 --> 00:35:19,349
+tanúsítványostól,
+de ezután a dátum után is azokat a
+
+1768
+00:35:19,349 --> 00:35:19,359
+de ezután a dátum után is azokat a
+ 
+
+1769
+00:35:19,359 --> 00:35:21,430
+de ezután a dátum után is azokat a
+magánszemélyeket, akik kedvtelésből
+
+1770
+00:35:21,430 --> 00:35:21,440
+magánszemélyeket, akik kedvtelésből
+ 
+
+1771
+00:35:21,440 --> 00:35:24,550
+magánszemélyeket, akik kedvtelésből
+vásárolnak kriptót, PTC-t, és azt
+
+1772
+00:35:24,550 --> 00:35:24,560
+vásárolnak kriptót, PTC-t, és azt
+ 
+
+1773
+00:35:24,560 --> 00:35:27,990
+vásárolnak kriptót, PTC-t, és azt
+tartják, barát barátaiktól P2P módon
+
+1774
+00:35:27,990 --> 00:35:28,000
+tartják, barát barátaiktól P2P módon
+ 
+
+1775
+00:35:28,000 --> 00:35:31,270
+tartják, barát barátaiktól P2P módon
+vásárolnak, decentralizált platformon
+
+1776
+00:35:31,270 --> 00:35:31,280
+vásárolnak, decentralizált platformon
+ 
+
+1777
+00:35:31,280 --> 00:35:32,870
+vásárolnak, decentralizált platformon
+vásárolnak,
+
+1778
+00:35:32,870 --> 00:35:32,880
+vásárolnak,
+ 
+
+1779
+00:35:32,880 --> 00:35:34,310
+vásárolnak,
+azokat ez nem érinti.
+
+1780
+00:35:34,310 --> 00:35:34,320
+azokat ez nem érinti.
+ 
+
+1781
+00:35:34,320 --> 00:35:36,069
+azokat ez nem érinti.
+>> Ezek azért jó hírek.
+
+1782
+00:35:36,069 --> 00:35:36,079
+>> Ezek azért jó hírek.
+ 
+
+1783
+00:35:36,079 --> 00:35:38,270
+>> Ezek azért jó hírek.
+>> Ezek jó hírek. Ezek a legjobb hírek.
+
+1784
+00:35:38,270 --> 00:35:38,280
+>> Ezek jó hírek. Ezek a legjobb hírek.
+ 
+
+1785
+00:35:38,280 --> 00:35:41,829
+>> Ezek jó hírek. Ezek a legjobb hírek.
+Cégeket, akik tartaléknak vásárolják a
+
+1786
+00:35:41,829 --> 00:35:41,839
+Cégeket, akik tartaléknak vásárolják a
+ 
+
+1787
+00:35:41,839 --> 00:35:45,069
+Cégeket, akik tartaléknak vásárolják a
+BTC-t, nem váltják át, tartják, alapot
+
+1788
+00:35:45,069 --> 00:35:45,079
+BTC-t, nem váltják át, tartják, alapot
+ 
+
+1789
+00:35:45,079 --> 00:35:49,030
+BTC-t, nem váltják át, tartják, alapot
+képeznek belőle, nem érinti őket sem a
+
+1790
+00:35:49,030 --> 00:35:49,040
+képeznek belőle, nem érinti őket sem a
+ 
+
+1791
+00:35:49,040 --> 00:35:52,230
+képeznek belőle, nem érinti őket sem a
+BTK, sem a kripto törvény, és annak
+
+1792
+00:35:52,230 --> 00:35:52,240
+BTK, sem a kripto törvény, és annak
+ 
+
+1793
+00:35:52,240 --> 00:35:55,829
+BTK, sem a kripto törvény, és annak
+nyomán az STFH rendelet. Hát akkor csak
+
+1794
+00:35:55,829 --> 00:35:55,839
+nyomán az STFH rendelet. Hát akkor csak
+ 
+
+1795
+00:35:55,839 --> 00:35:58,510
+nyomán az STFH rendelet. Hát akkor csak
+így tovább. Mindenki szépen vásárolgassa
+
+1796
+00:35:58,510 --> 00:35:58,520
+így tovább. Mindenki szépen vásárolgassa
+ 
+
+1797
+00:35:58,520 --> 00:36:01,430
+így tovább. Mindenki szépen vásárolgassa
+naponta
+
+1798
+00:36:01,430 --> 00:36:01,440
+naponta
+ 
+
+1799
+00:36:01,440 --> 00:36:05,190
+naponta
+>> tartalékolni kíván. [nevetés] Márpedig
+
+1800
+00:36:05,190 --> 00:36:05,200
+>> tartalékolni kíván. [nevetés] Márpedig
+ 
+
+1801
+00:36:05,200 --> 00:36:05,630
+>> tartalékolni kíván. [nevetés] Márpedig
+>> pontosan
+
+1802
+00:36:05,630 --> 00:36:05,640
+>> pontosan
+ 
+
+1803
+00:36:05,640 --> 00:36:06,870
+>> pontosan
+>> nem mondjuk, hogy ezt kell, nem
+
+1804
+00:36:06,870 --> 00:36:06,880
+>> nem mondjuk, hogy ezt kell, nem
+ 
+
+1805
+00:36:06,880 --> 00:36:08,750
+>> nem mondjuk, hogy ezt kell, nem
+ajánljuk, illetve, hogy nem az, hogy nem
+
+1806
+00:36:08,750 --> 00:36:08,760
+ajánljuk, illetve, hogy nem az, hogy nem
+ 
+
+1807
+00:36:08,760 --> 00:36:11,589
+ajánljuk, illetve, hogy nem az, hogy nem
+ajánljuk, de nem
+
+1808
+00:36:11,589 --> 00:36:11,599
+ajánljuk, de nem
+ 
+
+1809
+00:36:11,599 --> 00:36:13,790
+ajánljuk, de nem
+annak számít, de így van.
+
+1810
+00:36:13,790 --> 00:36:13,800
+annak számít, de így van.
+ 
+
+1811
+00:36:13,800 --> 00:36:14,470
+annak számít, de így van.
+>> Érdemes.
+
+1812
+00:36:14,470 --> 00:36:14,480
+>> Érdemes.
+ 
+
+1813
+00:36:14,480 --> 00:36:15,750
+>> Érdemes.
+>> Így van.
+
+1814
+00:36:15,750 --> 00:36:15,760
+>> Így van.
+ 
+
+1815
+00:36:15,760 --> 00:36:18,230
+>> Így van.
+>> Jól van, Kata, hát
+
+1816
+00:36:18,230 --> 00:36:18,240
+>> Jól van, Kata, hát
+ 
+
+1817
+00:36:18,240 --> 00:36:19,470
+>> Jól van, Kata, hát
+köszönjük szépen, hogy így
+
+1818
+00:36:19,470 --> 00:36:19,480
+köszönjük szépen, hogy így
+ 
+
+1819
+00:36:19,480 --> 00:36:21,950
+köszönjük szépen, hogy így
+összefoglaltad. Nagyon szívesen.
+
+1820
+00:36:21,950 --> 00:36:21,960
+összefoglaltad. Nagyon szívesen.
+ 
+
+1821
+00:36:21,960 --> 00:36:23,510
+összefoglaltad. Nagyon szívesen.
+>> Nem gondolom, hogy tovább kellene
+
+1822
+00:36:23,510 --> 00:36:23,520
+>> Nem gondolom, hogy tovább kellene
+ 
+
+1823
+00:36:23,520 --> 00:36:28,430
+>> Nem gondolom, hogy tovább kellene
+nyújtani. Szerintem az üzenet átjött és
+
+1824
+00:36:28,430 --> 00:36:28,440
+nyújtani. Szerintem az üzenet átjött és
+ 
+
+1825
+00:36:28,440 --> 00:36:30,950
+nyújtani. Szerintem az üzenet átjött és
+nagyszerű. Milyen jó, hogy a 21
+
+1826
+00:36:30,950 --> 00:36:30,960
+nagyszerű. Milyen jó, hogy a 21
+ 
+
+1827
+00:36:30,960 --> 00:36:33,349
+nagyszerű. Milyen jó, hogy a 21
+csoportban van egy ilyen jól felkészült
+
+1828
+00:36:33,349 --> 00:36:33,359
+csoportban van egy ilyen jól felkészült
+ 
+
+1829
+00:36:33,359 --> 00:36:35,390
+csoportban van egy ilyen jól felkészült
+jogász.
+
+1830
+00:36:35,390 --> 00:36:35,400
+jogász.
+ 
+
+1831
+00:36:35,400 --> 00:36:35,670
+jogász.
+>> Yes.
+
+1832
+00:36:35,670 --> 00:36:35,680
+>> Yes.
+ 
+
+1833
+00:36:35,680 --> 00:36:37,630
+>> Yes.
+>> Meg reméljük azért egyre többen leszünk.
+
+1834
+00:36:37,630 --> 00:36:37,640
+>> Meg reméljük azért egyre többen leszünk.
+ 
+
+1835
+00:36:37,640 --> 00:36:39,750
+>> Meg reméljük azért egyre többen leszünk.
+>> Muszáj, muszáj, muszáj. A jogalkotó nem
+
+1836
+00:36:39,750 --> 00:36:39,760
+>> Muszáj, muszáj, muszáj. A jogalkotó nem
+ 
+
+1837
+00:36:39,760 --> 00:36:42,430
+>> Muszáj, muszáj, muszáj. A jogalkotó nem
+hagy pihenni, hogy így fogalmazzak.
+
+1838
+00:36:42,430 --> 00:36:42,440
+hagy pihenni, hogy így fogalmazzak.
+ 
+
+1839
+00:36:42,440 --> 00:36:46,630
+hagy pihenni, hogy így fogalmazzak.
+>> Ilyen ez. [nevetés]
+
+1840
+00:36:46,630 --> 00:36:46,640
+
+ 
+
+1841
+00:36:46,640 --> 00:36:48,430
+
+>> Köszönöm szépen a lehetőséget. Bármi
+
+1842
+00:36:48,430 --> 00:36:48,440
+>> Köszönöm szépen a lehetőséget. Bármi
+ 
+
+1843
+00:36:48,440 --> 00:36:49,670
+>> Köszönöm szépen a lehetőséget. Bármi
+kérdés van,
+
+1844
+00:36:49,670 --> 00:36:49,680
+kérdés van,
+ 
+
+1845
+00:36:49,680 --> 00:36:52,870
+kérdés van,
+>> tudjátok? találtok, de csak csínyán legy
+
+1846
+00:36:52,870 --> 00:36:52,880
+>> tudjátok? találtok, de csak csínyán legy
+ 
+
+1847
+00:36:52,880 --> 00:36:54,950
+>> tudjátok? találtok, de csak csínyán legy
+legyetek legyetek [nevetés]
+
+1848
+00:36:54,950 --> 00:36:54,960
+legyetek legyetek [nevetés]
+ 
+
+1849
+00:36:54,960 --> 00:36:59,750
+legyetek legyetek [nevetés]
+>> legy legyetek figyelemmel rámisz.
+
+1850
+00:36:59,750 --> 00:36:59,760
+>> legy legyetek figyelemmel rámisz.
+ 
+
+1851
+00:36:59,760 --> 00:37:00,670
+>> legy legyetek figyelemmel rámisz.
+>> Ja,
+
+1852
+00:37:00,670 --> 00:37:00,680
+>> Ja,
+ 
+
+1853
+00:37:00,680 --> 00:37:01,510
+>> Ja,
+>> ez csak mit
+
+1854
+00:37:01,510 --> 00:37:01,520
+>> ez csak mit
+ 
+
+1855
+00:37:01,520 --> 00:37:03,550
+>> ez csak mit
+>> ember vagy. Jó, hát nem tudom, hogy
+
+1856
+00:37:03,550 --> 00:37:03,560
+>> ember vagy. Jó, hát nem tudom, hogy
+ 
+
+1857
+00:37:03,560 --> 00:37:05,790
+>> ember vagy. Jó, hát nem tudom, hogy
+kiben milyen kérdés fogalmazódott meg.
+
+1858
+00:37:05,790 --> 00:37:05,800
+kiben milyen kérdés fogalmazódott meg.
+ 
+
+1859
+00:37:05,800 --> 00:37:08,790
+kiben milyen kérdés fogalmazódott meg.
+Szerintem rengetegre kapott választ, aki
+
+1860
+00:37:08,790 --> 00:37:08,800
+Szerintem rengetegre kapott választ, aki
+ 
+
+1861
+00:37:08,800 --> 00:37:10,589
+Szerintem rengetegre kapott választ, aki
+így odafigyelt, meg aki nem, az
+
+1862
+00:37:10,589 --> 00:37:10,599
+így odafigyelt, meg aki nem, az
+ 
+
+1863
+00:37:10,599 --> 00:37:12,589
+így odafigyelt, meg aki nem, az
+megnézheti még egyszer. ugye nyilván jót
+
+1864
+00:37:12,589 --> 00:37:12,599
+megnézheti még egyszer. ugye nyilván jót
+ 
+
+1865
+00:37:12,599 --> 00:37:14,510
+megnézheti még egyszer. ugye nyilván jót
+tesz az algónak,
+
+1866
+00:37:14,510 --> 00:37:14,520
+tesz az algónak,
+ 
+
+1867
+00:37:14,520 --> 00:37:16,470
+tesz az algónak,
+de hogyha amit te is említettél, hogyha
+
+1868
+00:37:16,470 --> 00:37:16,480
+de hogyha amit te is említettél, hogyha
+ 
+
+1869
+00:37:16,480 --> 00:37:18,630
+de hogyha amit te is említettél, hogyha
+ebből az algó világból szeretne valaki
+
+1870
+00:37:18,630 --> 00:37:18,640
+ebből az algó világból szeretne valaki
+ 
+
+1871
+00:37:18,640 --> 00:37:20,510
+ebből az algó világból szeretne valaki
+kiszakadni, akkor min akkor nagyon
+
+1872
+00:37:20,510 --> 00:37:20,520
+kiszakadni, akkor min akkor nagyon
+ 
+
+1873
+00:37:20,520 --> 00:37:23,470
+kiszakadni, akkor min akkor nagyon
+ajánlom neki a a Nostert, mert ugye a 21
+
+1874
+00:37:23,470 --> 00:37:23,480
+ajánlom neki a a Nostert, mert ugye a 21
+ 
+
+1875
+00:37:23,480 --> 00:37:25,950
+ajánlom neki a a Nostert, mert ugye a 21
+csoport egy csomó tagja már ott fönt
+
+1876
+00:37:25,950 --> 00:37:25,960
+csoport egy csomó tagja már ott fönt
+ 
+
+1877
+00:37:25,960 --> 00:37:28,309
+csoport egy csomó tagja már ott fönt
+szerepel a Nosterön. hostztolgatunk, ott
+
+1878
+00:37:28,309 --> 00:37:28,319
+szerepel a Nosterön. hostztolgatunk, ott
+ 
+
+1879
+00:37:28,319 --> 00:37:30,510
+szerepel a Nosterön. hostztolgatunk, ott
+éljük az életünket, oda csatornázzuk az
+
+1880
+00:37:30,510 --> 00:37:30,520
+éljük az életünket, oda csatornázzuk az
+ 
+
+1881
+00:37:30,520 --> 00:37:33,589
+éljük az életünket, oda csatornázzuk az
+energiánkat, ami hát így ebből az
+
+1882
+00:37:33,589 --> 00:37:33,599
+energiánkat, ami hát így ebből az
+ 
+
+1883
+00:37:33,599 --> 00:37:35,910
+energiánkat, ami hát így ebből az
+algoritmus vezérelt Twitter, X,
+
+1884
+00:37:35,910 --> 00:37:35,920
+algoritmus vezérelt Twitter, X,
+ 
+
+1885
+00:37:35,920 --> 00:37:38,790
+algoritmus vezérelt Twitter, X,
+Facebook, a tudom én milyen platform még
+
+1886
+00:37:38,790 --> 00:37:38,800
+Facebook, a tudom én milyen platform még
+ 
+
+1887
+00:37:38,800 --> 00:37:42,750
+Facebook, a tudom én milyen platform még
+világokból kijőve egy felüdülés.
+
+1888
+00:37:42,750 --> 00:37:42,760
+világokból kijőve egy felüdülés.
+ 
+
+1889
+00:37:42,760 --> 00:37:44,589
+világokból kijőve egy felüdülés.
+Úgyhogy én mindenkit bátorítok, hogy
+
+1890
+00:37:44,589 --> 00:37:44,599
+Úgyhogy én mindenkit bátorítok, hogy
+ 
+
+1891
+00:37:44,599 --> 00:37:46,950
+Úgyhogy én mindenkit bátorítok, hogy
+jelenjen ott meg a kedves kis tagjaink
+
+1892
+00:37:46,950 --> 00:37:46,960
+jelenjen ott meg a kedves kis tagjaink
+ 
+
+1893
+00:37:46,960 --> 00:37:51,109
+jelenjen ott meg a kedves kis tagjaink
+és feliratkozóink táborából, és és
+
+1894
+00:37:51,109 --> 00:37:51,119
+és feliratkozóink táborából, és és
+ 
+
+1895
+00:37:51,119 --> 00:37:53,270
+és feliratkozóink táborából, és és
+vigyük oda a diskurzust, és építsük ott
+
+1896
+00:37:53,270 --> 00:37:53,280
+vigyük oda a diskurzust, és építsük ott
+ 
+
+1897
+00:37:53,280 --> 00:37:55,470
+vigyük oda a diskurzust, és építsük ott
+ezt a párhuzamos kis világunkat, mert
+
+1898
+00:37:55,470 --> 00:37:55,480
+ezt a párhuzamos kis világunkat, mert
+ 
+
+1899
+00:37:55,480 --> 00:37:58,150
+ezt a párhuzamos kis világunkat, mert
+nagyon jó dolgok fognak ott születni.
+
+1900
+00:37:58,150 --> 00:37:58,160
+nagyon jó dolgok fognak ott születni.
+ 
+
+1901
+00:37:58,160 --> 00:38:01,670
+nagyon jó dolgok fognak ott születni.
+Ugye Katal nektek a Bitcoin Prities
+
+1902
+00:38:01,670 --> 00:38:01,680
+Ugye Katal nektek a Bitcoin Prities
+ 
+
+1903
+00:38:01,680 --> 00:38:06,349
+Ugye Katal nektek a Bitcoin Prities
+brand is megtalálható a Noströn és
+
+1904
+00:38:06,349 --> 00:38:06,359
+brand is megtalálható a Noströn és
+ 
+
+1905
+00:38:06,359 --> 00:38:09,109
+brand is megtalálható a Noströn és
+>> és ott például ilyen direkt cserékre
+
+1906
+00:38:09,109 --> 00:38:09,119
+>> és ott például ilyen direkt cserékre
+ 
+
+1907
+00:38:09,119 --> 00:38:12,950
+>> és ott például ilyen direkt cserékre
+árút áru cserére lehet ezt is használni
+
+1908
+00:38:12,950 --> 00:38:12,960
+árút áru cserére lehet ezt is használni
+ 
+
+1909
+00:38:12,960 --> 00:38:13,470
+árút áru cserére lehet ezt is használni
+>> pontosan.
+
+1910
+00:38:13,470 --> 00:38:13,480
+>> pontosan.
+ 
+
+1911
+00:38:13,480 --> 00:38:15,589
+>> pontosan.
+>> Illetve kommunikációra
+
+1912
+00:38:15,589 --> 00:38:15,599
+>> Illetve kommunikációra
+ 
+
+1913
+00:38:15,599 --> 00:38:18,270
+>> Illetve kommunikációra
+meg hát mindenre amit el lehet képzelni.
+
+1914
+00:38:18,270 --> 00:38:18,280
+meg hát mindenre amit el lehet képzelni.
+ 
+
+1915
+00:38:18,280 --> 00:38:20,309
+meg hát mindenre amit el lehet képzelni.
+Élő adások vannak ott is. Tehát lehet
+
+1916
+00:38:20,309 --> 00:38:20,319
+Élő adások vannak ott is. Tehát lehet
+ 
+
+1917
+00:38:20,319 --> 00:38:22,309
+Élő adások vannak ott is. Tehát lehet
+hallgatni beszélgetés. Most most így
+
+1918
+00:38:22,309 --> 00:38:22,319
+hallgatni beszélgetés. Most most így
+ 
+
+1919
+00:38:22,319 --> 00:38:24,630
+hallgatni beszélgetés. Most most így
+dobom föl, hogy mi lenne, hogyha esetleg
+
+1920
+00:38:24,630 --> 00:38:24,640
+dobom föl, hogy mi lenne, hogyha esetleg
+ 
+
+1921
+00:38:24,640 --> 00:38:26,790
+dobom föl, hogy mi lenne, hogyha esetleg
+egyszer nyomnánk ott egy ilyen élőt. De
+
+1922
+00:38:26,790 --> 00:38:26,800
+egyszer nyomnánk ott egy ilyen élőt. De
+ 
+
+1923
+00:38:26,800 --> 00:38:28,829
+egyszer nyomnánk ott egy ilyen élőt. De
+persze tudom, hogy lennénk ketten vagy
+
+1924
+00:38:28,829 --> 00:38:28,839
+persze tudom, hogy lennénk ketten vagy
+ 
+
+1925
+00:38:28,839 --> 00:38:30,069
+persze tudom, hogy lennénk ketten vagy
+hárman.
+
+1926
+00:38:30,069 --> 00:38:30,079
+hárman.
+ 
+
+1927
+00:38:30,079 --> 00:38:31,109
+hárman.
+>> Hát ez mindegy,
+
+1928
+00:38:31,109 --> 00:38:31,119
+>> Hát ez mindegy,
+ 
+
+1929
+00:38:31,119 --> 00:38:31,670
+>> Hát ez mindegy,
+>> de nem biztos.
+
+1930
+00:38:31,670 --> 00:38:31,680
+>> de nem biztos.
+ 
+
+1931
+00:38:31,680 --> 00:38:33,349
+>> de nem biztos.
+>> És nem biztos amúgy.
+
+1932
+00:38:33,349 --> 00:38:33,359
+>> És nem biztos amúgy.
+ 
+
+1933
+00:38:33,359 --> 00:38:36,790
+>> És nem biztos amúgy.
+>> Ja. Úgyhogy hát figyelj, tovább kell
+
+1934
+00:38:36,790 --> 00:38:36,800
+>> Ja. Úgyhogy hát figyelj, tovább kell
+ 
+
+1935
+00:38:36,800 --> 00:38:39,710
+>> Ja. Úgyhogy hát figyelj, tovább kell
+vinni a lángot, mert nem azért ragadtuk
+
+1936
+00:38:39,710 --> 00:38:39,720
+vinni a lángot, mert nem azért ragadtuk
+ 
+
+1937
+00:38:39,720 --> 00:38:41,390
+vinni a lángot, mert nem azért ragadtuk
+magunkhoz, hogy ne vigyük tovább.
+
+1938
+00:38:41,390 --> 00:38:41,400
+magunkhoz, hogy ne vigyük tovább.
+ 
+
+1939
+00:38:41,400 --> 00:38:41,990
+magunkhoz, hogy ne vigyük tovább.
+>> Lá
+
+1940
+00:38:41,990 --> 00:38:42,000
+>> Lá
+ 
+
+1941
+00:38:42,000 --> 00:38:44,950
+>> Lá
+>> szóval köszi. Ó, je,
+
+1942
+00:38:44,950 --> 00:38:44,960
+>> szóval köszi. Ó, je,
+ 
+
+1943
+00:38:44,960 --> 00:38:48,630
+>> szóval köszi. Ó, je,
+>> köszi nektek. Önt is köszönnék, illetve
+
+1944
+00:38:48,630 --> 00:38:48,640
+>> köszi nektek. Önt is köszönnék, illetve
+ 
+
+1945
+00:38:48,640 --> 00:38:51,910
+>> köszi nektek. Önt is köszönnék, illetve
+még annyit, hogy majd te elmondod úgy
+
+1946
+00:38:51,910 --> 00:38:51,920
+még annyit, hogy majd te elmondod úgy
+ 
+
+1947
+00:38:51,920 --> 00:38:53,910
+még annyit, hogy majd te elmondod úgy
+is, hogy kik a támogatóink, nem?
+
+1948
+00:38:53,910 --> 00:38:53,920
+is, hogy kik a támogatóink, nem?
+ 
+
+1949
+00:38:53,920 --> 00:38:56,589
+is, hogy kik a támogatóink, nem?
+>> Ja. Ja. Támogatóink a négy csillagos
+
+1950
+00:38:56,589 --> 00:38:56,599
+>> Ja. Ja. Támogatóink a négy csillagos
+ 
+
+1951
+00:38:56,599 --> 00:38:59,550
+>> Ja. Ja. Támogatóink a négy csillagos
+Hotel Auróra Miskolc Tapolcán, mely
+
+1952
+00:38:59,550 --> 00:38:59,560
+Hotel Auróra Miskolc Tapolcán, mely
+ 
+
+1953
+00:38:59,560 --> 00:39:02,870
+Hotel Auróra Miskolc Tapolcán, mely
+Bitcoin elfogadó és tartalékó szálloda,
+
+1954
+00:39:02,870 --> 00:39:02,880
+Bitcoin elfogadó és tartalékó szálloda,
+ 
+
+1955
+00:39:02,880 --> 00:39:05,510
+Bitcoin elfogadó és tartalékó szálloda,
+és a Hotellantis, mely szintén négy
+
+1956
+00:39:05,510 --> 00:39:05,520
+és a Hotellantis, mely szintén négy
+ 
+
+1957
+00:39:05,520 --> 00:39:08,630
+és a Hotellantis, mely szintén négy
+csillagos Bitcoin elfogadó szálloda,
+
+1958
+00:39:08,630 --> 00:39:08,640
+csillagos Bitcoin elfogadó szálloda,
+ 
+
+1959
+00:39:08,640 --> 00:39:10,829
+csillagos Bitcoin elfogadó szálloda,
+Hajdú Szoboszlón. Ahogy Anti is
+
+1960
+00:39:10,829 --> 00:39:10,839
+Hajdú Szoboszlón. Ahogy Anti is
+ 
+
+1961
+00:39:10,839 --> 00:39:13,150
+Hajdú Szoboszlón. Ahogy Anti is
+említette, egyre intenzívebben jelen
+
+1962
+00:39:13,150 --> 00:39:13,160
+említette, egyre intenzívebben jelen
+ 
+
+1963
+00:39:13,160 --> 00:39:15,510
+említette, egyre intenzívebben jelen
+vagyunk a Noston. kövessetek itt be
+
+1964
+00:39:15,510 --> 00:39:15,520
+vagyunk a Noston. kövessetek itt be
+ 
+
+1965
+00:39:15,520 --> 00:39:19,790
+vagyunk a Noston. kövessetek itt be
+minket, és a 21 feedje alatt számos
+
+1966
+00:39:19,790 --> 00:39:19,800
+minket, és a 21 feedje alatt számos
+ 
+
+1967
+00:39:19,800 --> 00:39:23,030
+minket, és a 21 feedje alatt számos
+magyar bitcoin posztjait találhatjátok
+
+1968
+00:39:23,030 --> 00:39:23,040
+magyar bitcoin posztjait találhatjátok
+ 
+
+1969
+00:39:23,040 --> 00:39:25,829
+magyar bitcoin posztjait találhatjátok
+újra posztolva. Iratkozzatok fel egy
+
+1970
+00:39:25,829 --> 00:39:25,839
+újra posztolva. Iratkozzatok fel egy
+ 
+
+1971
+00:39:25,839 --> 00:39:28,670
+újra posztolva. Iratkozzatok fel egy
+YouTube csatornánkra, kövessétek be a
+
+1972
+00:39:28,670 --> 00:39:28,680
+YouTube csatornánkra, kövessétek be a
+ 
+
+1973
+00:39:28,680 --> 00:39:31,390
+YouTube csatornánkra, kövessétek be a
+vadi új Rumble csatornánkat, ahova most
+
+1974
+00:39:31,390 --> 00:39:31,400
+vadi új Rumble csatornánkat, ahova most
+ 
+
+1975
+00:39:31,400 --> 00:39:34,309
+vadi új Rumble csatornánkat, ahova most
+már szintén kiposztoljuk az összes új
+
+1976
+00:39:34,309 --> 00:39:34,319
+már szintén kiposztoljuk az összes új
+ 
+
+1977
+00:39:34,319 --> 00:39:37,630
+már szintén kiposztoljuk az összes új
+podcast epizódot. Aki mászkál a Facebook
+
+1978
+00:39:37,630 --> 00:39:37,640
+podcast epizódot. Aki mászkál a Facebook
+ 
+
+1979
+00:39:37,640 --> 00:39:41,030
+podcast epizódot. Aki mászkál a Facebook
+felé, ott is kövessen be minket, és ne
+
+1980
+00:39:41,030 --> 00:39:41,040
+felé, ott is kövessen be minket, és ne
+ 
+
+1981
+00:39:41,040 --> 00:39:44,150
+felé, ott is kövessen be minket, és ne
+adjátok el a bitcoinotokat. Köszönjük a
+
+1982
+00:39:44,150 --> 00:39:44,160
+adjátok el a bitcoinotokat. Köszönjük a
+ 
+
+1983
+00:39:44,160 --> 00:39:46,109
+adjátok el a bitcoinotokat. Köszönjük a
+figyelmet
+
+1984
+00:39:46,109 --> 00:39:46,119
+figyelmet
+ 
+
+1985
+00:39:46,119 --> 00:39:47,910
+figyelmet
+és csak egy hét múlva találkozunk.
+
+1986
+00:39:47,910 --> 00:39:47,920
+és csak egy hét múlva találkozunk.
+ 
+
+1987
+00:39:47,920 --> 00:39:48,829
+és csak egy hét múlva találkozunk.
+>> Sziasztok. Sziasztok.
+
+1988
+00:39:48,829 --> 00:39:48,839
+>> Sziasztok. Sziasztok.
+ 
+
+1989
+00:39:48,839 --> 00:39:52,077
+>> Sziasztok. Sziasztok.
+>> Sziasztok. Na, szóval igen.
+
+1990
+00:39:52,077 --> 00:39:52,087
+>> Sziasztok. Na, szóval igen.
+ 
+
+1991
+00:39:52,087 --> 00:39:54,107
+>> Sziasztok. Na, szóval igen.
+>> [nevetés]
+

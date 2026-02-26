@@ -1,0 +1,10305 @@
+1
+00:00:00,720 --> 00:00:03,149
+
+[Zene]
+
+2
+00:00:03,149 --> 00:00:03,159
+[Zene]
+ 
+
+3
+00:00:03,159 --> 00:00:06,430
+[Zene]
+sziasztok üdvözlünk titeket tamással ez
+
+4
+00:00:06,430 --> 00:00:06,440
+sziasztok üdvözlünk titeket tamással ez
+ 
+
+5
+00:00:06,440 --> 00:00:09,790
+sziasztok üdvözlünk titeket tamással ez
+itt a 21 bitcoin podcastja beszélgettünk
+
+6
+00:00:09,790 --> 00:00:09,800
+itt a 21 bitcoin podcastja beszélgettünk
+ 
+
+7
+00:00:09,800 --> 00:00:12,709
+itt a 21 bitcoin podcastja beszélgettünk
+már egy csomó dologról főleg a bitcoin
+
+8
+00:00:12,709 --> 00:00:12,719
+már egy csomó dologról főleg a bitcoin
+ 
+
+9
+00:00:12,719 --> 00:00:15,549
+már egy csomó dologról főleg a bitcoin
+témakörében kettőn közül tamás készült
+
+10
+00:00:15,549 --> 00:00:15,559
+témakörében kettőn közül tamás készült
+ 
+
+11
+00:00:15,559 --> 00:00:17,950
+témakörében kettőn közül tamás készült
+többet szerintem a maira de ez így
+
+12
+00:00:17,950 --> 00:00:17,960
+többet szerintem a maira de ez így
+ 
+
+13
+00:00:17,960 --> 00:00:20,349
+többet szerintem a maira de ez így
+szokott lenni igen sziasztok üdv itt
+
+14
+00:00:20,349 --> 00:00:20,359
+szokott lenni igen sziasztok üdv itt
+ 
+
+15
+00:00:20,359 --> 00:00:22,630
+szokott lenni igen sziasztok üdv itt
+állunk újos jó reggelt kívánok
+
+16
+00:00:22,630 --> 00:00:22,640
+állunk újos jó reggelt kívánok
+ 
+
+17
+00:00:22,640 --> 00:00:25,150
+állunk újos jó reggelt kívánok
+mindenkinek egy egy most egy pár
+
+18
+00:00:25,150 --> 00:00:25,160
+mindenkinek egy egy most egy pár
+ 
+
+19
+00:00:25,160 --> 00:00:28,269
+mindenkinek egy egy most egy pár
+alkalommal nem voltál de örülünk hogy
+
+20
+00:00:28,269 --> 00:00:28,279
+alkalommal nem voltál de örülünk hogy
+ 
+
+21
+00:00:28,279 --> 00:00:30,830
+alkalommal nem voltál de örülünk hogy
+újra itt vagy vagyis hogy örülök és
+
+22
+00:00:30,830 --> 00:00:30,840
+újra itt vagy vagyis hogy örülök és
+ 
+
+23
+00:00:30,840 --> 00:00:32,950
+újra itt vagy vagyis hogy örülök és
+ha itt vagy az egyet jelent a
+
+24
+00:00:32,950 --> 00:00:32,960
+ha itt vagy az egyet jelent a
+ 
+
+25
+00:00:32,960 --> 00:00:36,150
+ha itt vagy az egyet jelent a
+grafikonozással szerintem azzal is de
+
+26
+00:00:36,150 --> 00:00:36,160
+grafikonozással szerintem azzal is de
+ 
+
+27
+00:00:36,160 --> 00:00:38,670
+grafikonozással szerintem azzal is de
+nem azzal akartam kezdeni ja jó bocsánat
+
+28
+00:00:38,670 --> 00:00:38,680
+nem azzal akartam kezdeni ja jó bocsánat
+ 
+
+29
+00:00:38,680 --> 00:00:40,869
+nem azzal akartam kezdeni ja jó bocsánat
+nem min hát mert nem nem hát mert mi a
+
+30
+00:00:40,869 --> 00:00:40,879
+nem min hát mert nem nem hát mert mi a
+ 
+
+31
+00:00:40,879 --> 00:00:43,270
+nem min hát mert nem nem hát mert mi a
+technológiáért vagyunk itt igen igen meg
+
+32
+00:00:43,270 --> 00:00:43,280
+technológiáért vagyunk itt igen igen meg
+ 
+
+33
+00:00:43,280 --> 00:00:45,470
+technológiáért vagyunk itt igen igen meg
+a politikáért szerintem kezdjük azzal
+
+34
+00:00:45,470 --> 00:00:45,480
+a politikáért szerintem kezdjük azzal
+ 
+
+35
+00:00:45,480 --> 00:00:47,709
+a politikáért szerintem kezdjük azzal
+amit a múlt múlt héten nem tudtatok jól
+
+36
+00:00:47,709 --> 00:00:47,719
+amit a múlt múlt héten nem tudtatok jól
+ 
+
+37
+00:00:47,719 --> 00:00:50,110
+amit a múlt múlt héten nem tudtatok jól
+bemondani mert éppen lekéstetek róla
+
+38
+00:00:50,110 --> 00:00:50,120
+bemondani mert éppen lekéstetek róla
+ 
+
+39
+00:00:50,120 --> 00:00:53,670
+bemondani mert éppen lekéstetek róla
+vagy éppen utána jelentették be
+
+40
+00:00:53,670 --> 00:00:53,680
+vagy éppen utána jelentették be
+ 
+
+41
+00:00:53,680 --> 00:00:57,510
+vagy éppen utána jelentették be
+jal trumpnak a a digitál illetve
+
+42
+00:00:57,510 --> 00:00:57,520
+jal trumpnak a a digitál illetve
+ 
+
+43
+00:00:57,520 --> 00:01:01,389
+jal trumpnak a a digitál illetve
+stratégiai bitcoin reserve ö rendetét
+
+44
+00:01:01,389 --> 00:01:01,399
+stratégiai bitcoin reserve ö rendetét
+ 
+
+45
+00:01:01,399 --> 00:01:04,509
+stratégiai bitcoin reserve ö rendetét
+stratég bitin tartalék mondott ez már
+
+46
+00:01:04,509 --> 00:01:04,519
+stratég bitin tartalék mondott ez már
+ 
+
+47
+00:01:04,519 --> 00:01:06,550
+stratég bitin tartalék mondott ez már
+sok mindent én már nem is követem
+
+48
+00:01:06,550 --> 00:01:06,560
+sok mindent én már nem is követem
+ 
+
+49
+00:01:06,560 --> 00:01:09,590
+sok mindent én már nem is követem
+annyira de a legutóbbi a white house-os
+
+50
+00:01:09,590 --> 00:01:09,600
+annyira de a legutóbbi a white house-os
+ 
+
+51
+00:01:09,600 --> 00:01:12,070
+annyira de a legutóbbi a white house-os
+a fehérházos bejelentést azt esetleg zd
+
+52
+00:01:12,070 --> 00:01:12,080
+a fehérházos bejelentést azt esetleg zd
+ 
+
+53
+00:01:12,080 --> 00:01:14,870
+a fehérházos bejelentést azt esetleg zd
+meg itt a képen tehát meg megosztottam a
+
+54
+00:01:14,870 --> 00:01:14,880
+meg itt a képen tehát meg megosztottam a
+ 
+
+55
+00:01:14,880 --> 00:01:16,870
+meg itt a képen tehát meg megosztottam a
+képernyőn akkor
+
+56
+00:01:16,870 --> 00:01:16,880
+képernyőn akkor
+ 
+
+57
+00:01:16,880 --> 00:01:21,749
+képernyőn akkor
+a a stratégiai bitcoin tartalékról
+
+58
+00:01:21,749 --> 00:01:21,759
+a a stratégiai bitcoin tartalékról
+ 
+
+59
+00:01:21,759 --> 00:01:25,749
+a a stratégiai bitcoin tartalékról
+szóló elnöki rendeletet amit én sokakkal
+
+60
+00:01:25,749 --> 00:01:25,759
+szóló elnöki rendeletet amit én sokakkal
+ 
+
+61
+00:01:25,759 --> 00:01:27,830
+szóló elnöki rendeletet amit én sokakkal
+ellentétben még el is
+
+62
+00:01:27,830 --> 00:01:27,840
+ellentétben még el is
+ 
+
+63
+00:01:27,840 --> 00:01:30,550
+ellentétben még el is
+olvastamí igen így így próbál róla
+
+64
+00:01:30,550 --> 00:01:30,560
+olvastamí igen így így próbál róla
+ 
+
+65
+00:01:30,560 --> 00:01:32,190
+olvastamí igen így így próbál róla
+véleményt mondani és egyébként nem olyan
+
+66
+00:01:32,190 --> 00:01:32,200
+véleményt mondani és egyébként nem olyan
+ 
+
+67
+00:01:32,200 --> 00:01:34,230
+véleményt mondani és egyébként nem olyan
+rossz nekem a véleményem róla mint a
+
+68
+00:01:34,230 --> 00:01:34,240
+rossz nekem a véleményem róla mint a
+ 
+
+69
+00:01:34,240 --> 00:01:35,469
+rossz nekem a véleményem róla mint a
+hogy hogy az
+
+70
+00:01:35,469 --> 00:01:35,479
+hogy hogy az
+ 
+
+71
+00:01:35,479 --> 00:01:38,230
+hogy hogy az
+általános hangulat mostanában ja igen
+
+72
+00:01:38,230 --> 00:01:38,240
+általános hangulat mostanában ja igen
+ 
+
+73
+00:01:38,240 --> 00:01:40,950
+általános hangulat mostanában ja igen
+még azt is akartam mondani hogyha többet
+
+74
+00:01:40,950 --> 00:01:40,960
+még azt is akartam mondani hogyha többet
+ 
+
+75
+00:01:40,960 --> 00:01:43,270
+még azt is akartam mondani hogyha többet
+hallgatnék magamra mert előrébb lennénk
+
+76
+00:01:43,270 --> 00:01:43,280
+hallgatnék magamra mert előrébb lennénk
+ 
+
+77
+00:01:43,280 --> 00:01:45,990
+hallgatnék magamra mert előrébb lennénk
+ugye akor legutóbb itt jártam akkor
+
+78
+00:01:45,990 --> 00:01:46,000
+ugye akor legutóbb itt jártam akkor
+ 
+
+79
+00:01:46,000 --> 00:01:49,350
+ugye akor legutóbb itt jártam akkor
+mondtam hogy a silernek a a szilveszteri
+
+80
+00:01:49,350 --> 00:01:49,360
+mondtam hogy a silernek a a szilveszteri
+ 
+
+81
+00:01:49,360 --> 00:01:52,550
+mondtam hogy a silernek a a szilveszteri
+partija az milyen jó topszignál topá
+
+82
+00:01:52,550 --> 00:01:52,560
+partija az milyen jó topszignál topá
+ 
+
+83
+00:01:52,560 --> 00:01:53,870
+partija az milyen jó topszignál topá
+aztélt
+
+84
+00:01:53,870 --> 00:01:53,880
+aztélt
+ 
+
+85
+00:01:53,880 --> 00:01:56,670
+aztélt
+és hát ez ez ez bejött eléggé úgyhogy
+
+86
+00:01:56,670 --> 00:01:56,680
+és hát ez ez ez bejött eléggé úgyhogy
+ 
+
+87
+00:01:56,680 --> 00:01:57,830
+és hát ez ez ez bejött eléggé úgyhogy
+még még egy
+
+88
+00:01:57,830 --> 00:01:57,840
+még még egy
+ 
+
+89
+00:01:57,840 --> 00:02:00,429
+még még egy
+ilyen elnöki rendelet
+
+90
+00:02:00,429 --> 00:02:00,439
+ilyen elnöki rendelet
+ 
+
+91
+00:02:00,439 --> 00:02:02,870
+ilyen elnöki rendelet
+tudott tenni hogy valami 30%-ot zuhant
+
+92
+00:02:02,870 --> 00:02:02,880
+tudott tenni hogy valami 30%-ot zuhant
+ 
+
+93
+00:02:02,880 --> 00:02:04,630
+tudott tenni hogy valami 30%-ot zuhant
+azóta az árfolyam
+
+94
+00:02:04,630 --> 00:02:04,640
+azóta az árfolyam
+ 
+
+95
+00:02:04,640 --> 00:02:07,029
+azóta az árfolyam
+igen ennek ellenére ez az elnöki
+
+96
+00:02:07,029 --> 00:02:07,039
+igen ennek ellenére ez az elnöki
+ 
+
+97
+00:02:07,039 --> 00:02:09,469
+igen ennek ellenére ez az elnöki
+rendelet szerintem nagyon jól kezdődik
+
+98
+00:02:09,469 --> 00:02:09,479
+rendelet szerintem nagyon jól kezdődik
+ 
+
+99
+00:02:09,479 --> 00:02:12,750
+rendelet szerintem nagyon jól kezdődik
+ugye ezt itt szépen az első bekezdésben
+
+100
+00:02:12,750 --> 00:02:12,760
+ugye ezt itt szépen az első bekezdésben
+ 
+
+101
+00:02:12,760 --> 00:02:15,150
+ugye ezt itt szépen az első bekezdésben
+elmondja hogy hogy teljesen korrekten
+
+102
+00:02:15,150 --> 00:02:15,160
+elmondja hogy hogy teljesen korrekten
+ 
+
+103
+00:02:15,160 --> 00:02:17,750
+elmondja hogy hogy teljesen korrekten
+hogy mi az a bitcoin tehát ez látszik
+
+104
+00:02:17,750 --> 00:02:17,760
+hogy mi az a bitcoin tehát ez látszik
+ 
+
+105
+00:02:17,760 --> 00:02:20,990
+hogy mi az a bitcoin tehát ez látszik
+hogy olyan írta aki trumppal ellentétben
+
+106
+00:02:20,990 --> 00:02:21,000
+hogy olyan írta aki trumppal ellentétben
+ 
+
+107
+00:02:21,000 --> 00:02:23,070
+hogy olyan írta aki trumppal ellentétben
+íye érti is valamennyire vagy hát elég
+
+108
+00:02:23,070 --> 00:02:23,080
+íye érti is valamennyire vagy hát elég
+ 
+
+109
+00:02:23,080 --> 00:02:26,270
+íye érti is valamennyire vagy hát elég
+jól érti igen tehát h tonképpen elmondja
+
+110
+00:02:26,270 --> 00:02:26,280
+jól érti igen tehát h tonképpen elmondja
+ 
+
+111
+00:02:26,280 --> 00:02:29,270
+jól érti igen tehát h tonképpen elmondja
+hogy hogy a bitcoinnak az algoritmusa az
+
+112
+00:02:29,270 --> 00:02:29,280
+hogy hogy a bitcoinnak az algoritmusa az
+ 
+
+113
+00:02:29,280 --> 00:02:32,670
+hogy hogy a bitcoinnak az algoritmusa az
+21 óba korlátozza a mennyiséget ezért
+
+114
+00:02:32,670 --> 00:02:32,680
+21 óba korlátozza a mennyiséget ezért
+ 
+
+115
+00:02:32,680 --> 00:02:34,830
+21 óba korlátozza a mennyiséget ezért
+hívhatjuk digitális
+
+116
+00:02:34,830 --> 00:02:34,840
+hívhatjuk digitális
+ 
+
+117
+00:02:34,840 --> 00:02:38,110
+hívhatjuk digitális
+aranynak ezért érdemes belőre
+
+118
+00:02:38,110 --> 00:02:38,120
+aranynak ezért érdemes belőre
+ 
+
+119
+00:02:38,120 --> 00:02:40,869
+aranynak ezért érdemes belőre
+stratégiai tartalékot képezni és az és
+
+120
+00:02:40,869 --> 00:02:40,879
+stratégiai tartalékot képezni és az és
+ 
+
+121
+00:02:40,879 --> 00:02:42,990
+stratégiai tartalékot képezni és az és
+és a legfontosabb mondat szerintem
+
+122
+00:02:42,990 --> 00:02:43,000
+és a legfontosabb mondat szerintem
+ 
+
+123
+00:02:43,000 --> 00:02:46,790
+és a legfontosabb mondat szerintem
+itt nem nem karikáztam be de az hogy a
+
+124
+00:02:46,790 --> 00:02:46,800
+itt nem nem karikáztam be de az hogy a
+ 
+
+125
+00:02:46,800 --> 00:02:49,790
+itt nem nem karikáztam be de az hogy a
+azok az országok akik először kezdenek
+
+126
+00:02:49,790 --> 00:02:49,800
+azok az országok akik először kezdenek
+ 
+
+127
+00:02:49,800 --> 00:02:52,270
+azok az országok akik először kezdenek
+stratégiai tartalékot felépíteni
+
+128
+00:02:52,270 --> 00:02:52,280
+stratégiai tartalékot felépíteni
+ 
+
+129
+00:02:52,280 --> 00:02:55,070
+stratégiai tartalékot felépíteni
+bitcoinban azok óriási előnyt fognak
+
+130
+00:02:55,070 --> 00:02:55,080
+bitcoinban azok óriási előnyt fognak
+ 
+
+131
+00:02:55,080 --> 00:02:57,670
+bitcoinban azok óriási előnyt fognak
+élvezni a többiekkel szemben akik csak
+
+132
+00:02:57,670 --> 00:02:57,680
+élvezni a többiekkel szemben akik csak
+ 
+
+133
+00:02:57,680 --> 00:03:00,470
+élvezni a többiekkel szemben akik csak
+később tehát szerintem ez ez ez pont az
+
+134
+00:03:00,470 --> 00:03:00,480
+később tehát szerintem ez ez ez pont az
+ 
+
+135
+00:03:00,480 --> 00:03:02,910
+később tehát szerintem ez ez ez pont az
+az üzenet amit mi is itt itt sugárzunk
+
+136
+00:03:02,910 --> 00:03:02,920
+az üzenet amit mi is itt itt sugárzunk
+ 
+
+137
+00:03:02,920 --> 00:03:06,470
+az üzenet amit mi is itt itt sugárzunk
+egy éve vagy meg hát ki ki mióta
+
+138
+00:03:06,470 --> 00:03:06,480
+egy éve vagy meg hát ki ki mióta
+ 
+
+139
+00:03:06,480 --> 00:03:09,630
+egy éve vagy meg hát ki ki mióta
+sugárzás az egy éve történik igen és
+
+140
+00:03:09,630 --> 00:03:09,640
+sugárzás az egy éve történik igen és
+ 
+
+141
+00:03:09,640 --> 00:03:11,309
+sugárzás az egy éve történik igen és
+és hát ez most a világ legnagyobb
+
+142
+00:03:11,309 --> 00:03:11,319
+és hát ez most a világ legnagyobb
+ 
+
+143
+00:03:11,319 --> 00:03:12,309
+és hát ez most a világ legnagyobb
+hatalmú
+
+144
+00:03:12,309 --> 00:03:12,319
+hatalmú
+ 
+
+145
+00:03:12,319 --> 00:03:15,670
+hatalmú
+elnöke mondja már tehát ennél nagyobb
+
+146
+00:03:15,670 --> 00:03:15,680
+elnöke mondja már tehát ennél nagyobb
+ 
+
+147
+00:03:15,680 --> 00:03:18,270
+elnöke mondja már tehát ennél nagyobb
+ember már nem tudja azt mondani en ennél
+
+148
+00:03:18,270 --> 00:03:18,280
+ember már nem tudja azt mondani en ennél
+ 
+
+149
+00:03:18,280 --> 00:03:20,430
+ember már nem tudja azt mondani en ennél
+jobban nem lehet kihangosítani ezt az
+
+150
+00:03:20,430 --> 00:03:20,440
+jobban nem lehet kihangosítani ezt az
+ 
+
+151
+00:03:20,440 --> 00:03:23,470
+jobban nem lehet kihangosítani ezt az
+üzenetet tehát most már aki nem hall
+
+152
+00:03:23,470 --> 00:03:23,480
+üzenetet tehát most már aki nem hall
+ 
+
+153
+00:03:23,480 --> 00:03:26,550
+üzenetet tehát most már aki nem hall
+hallja meg vagy nem érti meg az az ennek
+
+154
+00:03:26,550 --> 00:03:26,560
+hallja meg vagy nem érti meg az az ennek
+ 
+
+155
+00:03:26,560 --> 00:03:28,470
+hallja meg vagy nem érti meg az az ennek
+ellenére bocs hogy itígy szavadba vágok
+
+156
+00:03:28,470 --> 00:03:28,480
+ellenére bocs hogy itígy szavadba vágok
+ 
+
+157
+00:03:28,480 --> 00:03:32,390
+ellenére bocs hogy itígy szavadba vágok
+de tele van ugye minden hog y bezuhant a
+
+158
+00:03:32,390 --> 00:03:32,400
+de tele van ugye minden hog y bezuhant a
+ 
+
+159
+00:03:32,400 --> 00:03:34,869
+de tele van ugye minden hog y bezuhant a
+bitcoin ezek a nagyon rövidtávú
+
+160
+00:03:34,869 --> 00:03:34,879
+bitcoin ezek a nagyon rövidtávú
+ 
+
+161
+00:03:34,879 --> 00:03:36,789
+bitcoin ezek a nagyon rövidtávú
+gondolkodók ezek mindig ezt látják hogy
+
+162
+00:03:36,789 --> 00:03:36,799
+gondolkodók ezek mindig ezt látják hogy
+ 
+
+163
+00:03:36,799 --> 00:03:42,149
+gondolkodók ezek mindig ezt látják hogy
+most éppen p most 70 75 80 de amúgy
+
+164
+00:03:42,149 --> 00:03:42,159
+most éppen p most 70 75 80 de amúgy
+ 
+
+165
+00:03:42,159 --> 00:03:44,070
+most éppen p most 70 75 80 de amúgy
+tényleg igazad van hogy ez a ez a
+
+166
+00:03:44,070 --> 00:03:44,080
+tényleg igazad van hogy ez a ez a
+ 
+
+167
+00:03:44,080 --> 00:03:48,670
+tényleg igazad van hogy ez a ez a
+rendelet ez ez elég elég bullis tehát ez
+
+168
+00:03:48,670 --> 00:03:48,680
+rendelet ez ez elég elég bullis tehát ez
+ 
+
+169
+00:03:48,680 --> 00:03:50,830
+rendelet ez ez elég elég bullis tehát ez
+bizalomra ad okot nagyon most
+
+170
+00:03:50,830 --> 00:03:50,840
+bizalomra ad okot nagyon most
+ 
+
+171
+00:03:50,840 --> 00:03:52,670
+bizalomra ad okot nagyon most
+gondolhatjuk azt hogy ez már novemberben
+
+172
+00:03:52,670 --> 00:03:52,680
+gondolhatjuk azt hogy ez már novemberben
+ 
+
+173
+00:03:52,680 --> 00:03:55,190
+gondolhatjuk azt hogy ez már novemberben
+vagy tavaly ősszel beárasztuk ugye mert
+
+174
+00:03:55,190 --> 00:03:55,200
+vagy tavaly ősszel beárasztuk ugye mert
+ 
+
+175
+00:03:55,200 --> 00:03:56,910
+vagy tavaly ősszel beárasztuk ugye mert
+hát tulajdonképpen ezt erről beszélt a
+
+176
+00:03:56,910 --> 00:03:56,920
+hát tulajdonképpen ezt erről beszélt a
+ 
+
+177
+00:03:56,920 --> 00:03:58,789
+hát tulajdonképpen ezt erről beszélt a
+trump is már erről mi is csináltunk
+
+178
+00:03:58,789 --> 00:03:58,799
+trump is már erről mi is csináltunk
+ 
+
+179
+00:03:58,799 --> 00:04:00,750
+trump is már erről mi is csináltunk
+videót még tavaly áron hogy a a
+
+180
+00:04:00,750 --> 00:04:00,760
+videót még tavaly áron hogy a a
+ 
+
+181
+00:04:00,760 --> 00:04:02,550
+videót még tavaly áron hogy a a
+választási kampányban is ilyen dolgokról
+
+182
+00:04:02,550 --> 00:04:02,560
+választási kampányban is ilyen dolgokról
+ 
+
+183
+00:04:02,560 --> 00:04:04,750
+választási kampányban is ilyen dolgokról
+beszélt most ez csak megvalósult tehát
+
+184
+00:04:04,750 --> 00:04:04,760
+beszélt most ez csak megvalósult tehát
+ 
+
+185
+00:04:04,760 --> 00:04:07,949
+beszélt most ez csak megvalósult tehát
+ez egy ilyen by the rumor sell the news
+
+186
+00:04:07,949 --> 00:04:07,959
+ez egy ilyen by the rumor sell the news
+ 
+
+187
+00:04:07,959 --> 00:04:11,589
+ez egy ilyen by the rumor sell the news
+esemény nagyon szépen kivitelezve az
+
+188
+00:04:11,589 --> 00:04:11,599
+esemény nagyon szépen kivitelezve az
+ 
+
+189
+00:04:11,599 --> 00:04:14,429
+esemény nagyon szépen kivitelezve az
+utóbbi fél évben ami nem azt jelenti
+
+190
+00:04:14,429 --> 00:04:14,439
+utóbbi fél évben ami nem azt jelenti
+ 
+
+191
+00:04:14,439 --> 00:04:15,990
+utóbbi fél évben ami nem azt jelenti
+hogy most akkor vége a bitcoinnak tehát
+
+192
+00:04:15,990 --> 00:04:16,000
+hogy most akkor vége a bitcoinnak tehát
+ 
+
+193
+00:04:16,000 --> 00:04:20,670
+hogy most akkor vége a bitcoinnak tehát
+ez ez szerintem ez egy ez egy optimista
+
+194
+00:04:20,670 --> 00:04:20,680
+ez ez szerintem ez egy ez egy optimista
+ 
+
+195
+00:04:20,680 --> 00:04:23,390
+ez ez szerintem ez egy ez egy optimista
+vélemény utána persze már nem olyan jól
+
+196
+00:04:23,390 --> 00:04:23,400
+vélemény utána persze már nem olyan jól
+ 
+
+197
+00:04:23,400 --> 00:04:26,550
+vélemény utána persze már nem olyan jól
+folytatódik mert a stratégiai bitcoin
+
+198
+00:04:26,550 --> 00:04:26,560
+folytatódik mert a stratégiai bitcoin
+ 
+
+199
+00:04:26,560 --> 00:04:29,749
+folytatódik mert a stratégiai bitcoin
+tartalék mellett még létrehoz egy ilyen
+
+200
+00:04:29,749 --> 00:04:29,759
+tartalék mellett még létrehoz egy ilyen
+ 
+
+201
+00:04:29,759 --> 00:04:32,710
+tartalék mellett még létrehoz egy ilyen
+digitális eszköz tokpilnak hívott
+
+202
+00:04:32,710 --> 00:04:32,720
+digitális eszköz tokpilnak hívott
+ 
+
+203
+00:04:32,720 --> 00:04:35,150
+digitális eszköz tokpilnak hívott
+valamit amit megkérdeztem a a chat
+
+204
+00:04:35,150 --> 00:04:35,160
+valamit amit megkérdeztem a a chat
+ 
+
+205
+00:04:35,160 --> 00:04:36,710
+valamit amit megkérdeztem a a chat
+gpt-től hogy mi már annyira nem tudok
+
+206
+00:04:36,710 --> 00:04:36,720
+gpt-től hogy mi már annyira nem tudok
+ 
+
+207
+00:04:36,720 --> 00:04:37,909
+gpt-től hogy mi már annyira nem tudok
+angolul hogy mi a különbsége a
+
+208
+00:04:37,909 --> 00:04:37,919
+angolul hogy mi a különbsége a
+ 
+
+209
+00:04:37,919 --> 00:04:41,629
+angolul hogy mi a különbsége a
+stratégiai reserve és a stockp között és
+
+210
+00:04:41,629 --> 00:04:41,639
+stratégiai reserve és a stockp között és
+ 
+
+211
+00:04:41,639 --> 00:04:43,550
+stratégiai reserve és a stockp között és
+akkor azt mondta hogy hát a stratégiai
+
+212
+00:04:43,550 --> 00:04:43,560
+akkor azt mondta hogy hát a stratégiai
+ 
+
+213
+00:04:43,560 --> 00:04:45,350
+akkor azt mondta hogy hát a stratégiai
+reservet azt mindig az államok ilyen
+
+214
+00:04:45,350 --> 00:04:45,360
+reservet azt mindig az államok ilyen
+ 
+
+215
+00:04:45,360 --> 00:04:48,469
+reservet azt mindig az államok ilyen
+ilyen nagyon fontos dolgok céljára
+
+216
+00:04:48,469 --> 00:04:48,479
+ilyen nagyon fontos dolgok céljára
+ 
+
+217
+00:04:48,479 --> 00:04:50,990
+ilyen nagyon fontos dolgok céljára
+használják mint arany meg
+
+218
+00:04:50,990 --> 00:04:51,000
+használják mint arany meg
+ 
+
+219
+00:04:51,000 --> 00:04:52,469
+használják mint arany meg
+élelmiszertartalék amit csak
+
+220
+00:04:52,469 --> 00:04:52,479
+élelmiszertartalék amit csak
+ 
+
+221
+00:04:52,479 --> 00:04:55,469
+élelmiszertartalék amit csak
+válsághelyzetben lehet fölhasználni az
+
+222
+00:04:55,469 --> 00:04:55,479
+válsághelyzetben lehet fölhasználni az
+ 
+
+223
+00:04:55,479 --> 00:04:57,430
+válsághelyzetben lehet fölhasználni az
+ilyen digital asset stockpile az meg
+
+224
+00:04:57,430 --> 00:04:57,440
+ilyen digital asset stockpile az meg
+ 
+
+225
+00:04:57,440 --> 00:05:00,469
+ilyen digital asset stockpile az meg
+olyan hogy egy ilyen abból is
+
+226
+00:05:00,469 --> 00:05:00,479
+olyan hogy egy ilyen abból is
+ 
+
+227
+00:05:00,479 --> 00:05:03,310
+olyan hogy egy ilyen abból is
+tartalékolunk valamit valamilyen célból
+
+228
+00:05:03,310 --> 00:05:03,320
+tartalékolunk valamit valamilyen célból
+ 
+
+229
+00:05:03,320 --> 00:05:05,870
+tartalékolunk valamit valamilyen célból
+amit majd föl tudunk használni tehát azt
+
+230
+00:05:05,870 --> 00:05:05,880
+amit majd föl tudunk használni tehát azt
+ 
+
+231
+00:05:05,880 --> 00:05:09,150
+amit majd föl tudunk használni tehát azt
+abból adhatunk is el j tehát ez egy
+
+232
+00:05:09,150 --> 00:05:09,160
+abból adhatunk is el j tehát ez egy
+ 
+
+233
+00:05:09,160 --> 00:05:11,670
+abból adhatunk is el j tehát ez egy
+ilyen gyengébb dolog tehát
+
+234
+00:05:11,670 --> 00:05:11,680
+ilyen gyengébb dolog tehát
+ 
+
+235
+00:05:11,680 --> 00:05:14,430
+ilyen gyengébb dolog tehát
+tulajdonképpen teljesen
+
+236
+00:05:14,430 --> 00:05:14,440
+tulajdonképpen teljesen
+ 
+
+237
+00:05:14,440 --> 00:05:18,189
+tulajdonképpen teljesen
+jó jól hozza azt hogy a bitcoin az más
+
+238
+00:05:18,189 --> 00:05:18,199
+jó jól hozza azt hogy a bitcoin az más
+ 
+
+239
+00:05:18,199 --> 00:05:21,430
+jó jól hozza azt hogy a bitcoin az más
+mint a többi ilyen digitális eszköz amit
+
+240
+00:05:21,430 --> 00:05:21,440
+mint a többi ilyen digitális eszköz amit
+ 
+
+241
+00:05:21,440 --> 00:05:24,150
+mint a többi ilyen digitális eszköz amit
+itt mi shitcoinnak is szoktunk hívni
+
+242
+00:05:24,150 --> 00:05:24,160
+itt mi shitcoinnak is szoktunk hívni
+ 
+
+243
+00:05:24,160 --> 00:05:26,990
+itt mi shitcoinnak is szoktunk hívni
+vannak hívják ők ők digitális eszköznek
+
+244
+00:05:26,990 --> 00:05:27,000
+vannak hívják ők ők digitális eszköznek
+ 
+
+245
+00:05:27,000 --> 00:05:28,870
+vannak hívják ők ők digitális eszköznek
+hívják hát legyen digitális eszköz
+
+246
+00:05:28,870 --> 00:05:28,880
+hívják hát legyen digitális eszköz
+ 
+
+247
+00:05:28,880 --> 00:05:30,150
+hívják hát legyen digitális eszköz
+hogyha az í
+
+248
+00:05:30,150 --> 00:05:30,160
+hogyha az í
+ 
+
+249
+00:05:30,160 --> 00:05:33,629
+hogyha az í
+szebb de hogy a teljesen jól megmutatja
+
+250
+00:05:33,629 --> 00:05:33,639
+szebb de hogy a teljesen jól megmutatja
+ 
+
+251
+00:05:33,639 --> 00:05:36,469
+szebb de hogy a teljesen jól megmutatja
+hogy ezek között van különbség bizony é
+
+252
+00:05:36,469 --> 00:05:36,479
+hogy ezek között van különbség bizony é
+ 
+
+253
+00:05:36,479 --> 00:05:38,230
+hogy ezek között van különbség bizony é
+nem nem véletlenül foglalkozunk mi csak
+
+254
+00:05:38,230 --> 00:05:38,240
+nem nem véletlenül foglalkozunk mi csak
+ 
+
+255
+00:05:38,240 --> 00:05:41,390
+nem nem véletlenül foglalkozunk mi csak
+a bitcoinnal hát igen ugye ezekből a
+
+256
+00:05:41,390 --> 00:05:41,400
+a bitcoinnal hát igen ugye ezekből a
+ 
+
+257
+00:05:41,400 --> 00:05:43,469
+a bitcoinnal hát igen ugye ezekből a
+digitális eszközökből ebből azért létre
+
+258
+00:05:43,469 --> 00:05:43,479
+digitális eszközökből ebből azért létre
+ 
+
+259
+00:05:43,479 --> 00:05:46,469
+digitális eszközökből ebből azért létre
+lehet hozni sokfélét meg sok sok sokat
+
+260
+00:05:46,469 --> 00:05:46,479
+lehet hozni sokfélét meg sok sok sokat
+ 
+
+261
+00:05:46,479 --> 00:05:49,029
+lehet hozni sokfélét meg sok sok sokat
+is darabra igen
+
+262
+00:05:49,029 --> 00:05:49,039
+is darabra igen
+ 
+
+263
+00:05:49,039 --> 00:05:51,629
+is darabra igen
+hát tetszik egyébként nekem ez a
+
+264
+00:05:51,629 --> 00:05:51,639
+hát tetszik egyébként nekem ez a
+ 
+
+265
+00:05:51,639 --> 00:05:54,510
+hát tetszik egyébként nekem ez a
+hozzáállás
+
+266
+00:05:54,510 --> 00:05:54,520
+
+ 
+
+267
+00:05:54,520 --> 00:05:56,390
+
+volt egy ilyen országnan aki korábban
+
+268
+00:05:56,390 --> 00:05:56,400
+volt egy ilyen országnan aki korábban
+ 
+
+269
+00:05:56,400 --> 00:05:59,710
+volt egy ilyen országnan aki korábban
+ehhez hozzáállt egész pozitívan az pedig
+
+270
+00:05:59,710 --> 00:05:59,720
+ehhez hozzáállt egész pozitívan az pedig
+ 
+
+271
+00:05:59,720 --> 00:06:01,629
+ehhez hozzáállt egész pozitívan az pedig
+salvador volt és szerintem őt is azért
+
+272
+00:06:01,629 --> 00:06:01,639
+salvador volt és szerintem őt is azért
+ 
+
+273
+00:06:01,639 --> 00:06:03,430
+salvador volt és szerintem őt is azért
+megemlíthetjük mert mostanában volt
+
+274
+00:06:03,430 --> 00:06:03,440
+megemlíthetjük mert mostanában volt
+ 
+
+275
+00:06:03,440 --> 00:06:08,070
+megemlíthetjük mert mostanában volt
+egy-két ilyen hír hogy igen ott hogy
+
+276
+00:06:08,070 --> 00:06:08,080
+egy-két ilyen hír hogy igen ott hogy
+ 
+
+277
+00:06:08,080 --> 00:06:11,029
+egy-két ilyen hír hogy igen ott hogy
+kicsit elengedték ezt a a a bitcoin
+
+278
+00:06:11,029 --> 00:06:11,039
+kicsit elengedték ezt a a a bitcoin
+ 
+
+279
+00:06:11,039 --> 00:06:13,550
+kicsit elengedték ezt a a a bitcoin
+tartalék elhalmozást tehát hogy y hogy
+
+280
+00:06:13,550 --> 00:06:13,560
+tartalék elhalmozást tehát hogy y hogy
+ 
+
+281
+00:06:13,560 --> 00:06:15,589
+tartalék elhalmozást tehát hogy y hogy
+nem annyit vásárolnak és ugye ezt
+
+282
+00:06:15,589 --> 00:06:15,599
+nem annyit vásárolnak és ugye ezt
+ 
+
+283
+00:06:15,599 --> 00:06:19,510
+nem annyit vásárolnak és ugye ezt
+megcáfolta bukele több posztjában mert
+
+284
+00:06:19,510 --> 00:06:19,520
+megcáfolta bukele több posztjában mert
+ 
+
+285
+00:06:19,520 --> 00:06:22,309
+megcáfolta bukele több posztjában mert
+hát egyrészt publikus ez a cím el
+
+286
+00:06:22,309 --> 00:06:22,319
+hát egyrészt publikus ez a cím el
+ 
+
+287
+00:06:22,319 --> 00:06:25,110
+hát egyrészt publikus ez a cím el
+salvadornak amit amit az állam így
+
+288
+00:06:25,110 --> 00:06:25,120
+salvadornak amit amit az állam így
+ 
+
+289
+00:06:25,120 --> 00:06:27,469
+salvadornak amit amit az állam így
+vásárolgat bitcoin tehát ott mindenki
+
+290
+00:06:27,469 --> 00:06:27,479
+vásárolgat bitcoin tehát ott mindenki
+ 
+
+291
+00:06:27,479 --> 00:06:30,270
+vásárolgat bitcoin tehát ott mindenki
+megnézheti hogy így lépép özetesen megy
+
+292
+00:06:30,270 --> 00:06:30,280
+megnézheti hogy így lépép özetesen megy
+ 
+
+293
+00:06:30,280 --> 00:06:32,670
+megnézheti hogy így lépép özetesen megy
+fölfelé szóval ezzel így sikerült
+
+294
+00:06:32,670 --> 00:06:32,680
+fölfelé szóval ezzel így sikerült
+ 
+
+295
+00:06:32,680 --> 00:06:34,870
+fölfelé szóval ezzel így sikerült
+szétoszlatni a kedélyeket vagyis a
+
+296
+00:06:34,870 --> 00:06:34,880
+szétoszlatni a kedélyeket vagyis a
+ 
+
+297
+00:06:34,880 --> 00:06:36,790
+szétoszlatni a kedélyeket vagyis a
+kéttelyeket bocs hát nem hiszem hogy
+
+298
+00:06:36,790 --> 00:06:36,800
+kéttelyeket bocs hát nem hiszem hogy
+ 
+
+299
+00:06:36,800 --> 00:06:38,990
+kéttelyeket bocs hát nem hiszem hogy
+sikerült mer ez politika és aki aki
+
+300
+00:06:38,990 --> 00:06:39,000
+sikerült mer ez politika és aki aki
+ 
+
+301
+00:06:39,000 --> 00:06:40,430
+sikerült mer ez politika és aki aki
+valamit akar gondolni az nem fog
+
+302
+00:06:40,430 --> 00:06:40,440
+valamit akar gondolni az nem fog
+ 
+
+303
+00:06:40,440 --> 00:06:43,150
+valamit akar gondolni az nem fog
+megváltozni mondjuk igen egyébként
+
+304
+00:06:43,150 --> 00:06:43,160
+megváltozni mondjuk igen egyébként
+ 
+
+305
+00:06:43,160 --> 00:06:45,589
+megváltozni mondjuk igen egyébként
+persze az a cím se a kezdetektől fogva
+
+306
+00:06:45,589 --> 00:06:45,599
+persze az a cím se a kezdetektől fogva
+ 
+
+307
+00:06:45,599 --> 00:06:48,070
+persze az a cím se a kezdetektől fogva
+publikus csak az utóbbi időben tehát
+
+308
+00:06:48,070 --> 00:06:48,080
+publikus csak az utóbbi időben tehát
+ 
+
+309
+00:06:48,080 --> 00:06:49,830
+publikus csak az utóbbi időben tehát
+hogy lehet hogy van nekik valahol máshol
+
+310
+00:06:49,830 --> 00:06:49,840
+hogy lehet hogy van nekik valahol máshol
+ 
+
+311
+00:06:49,840 --> 00:06:51,629
+hogy lehet hogy van nekik valahol máshol
+is és csak onnan tologatják át mert van
+
+312
+00:06:51,629 --> 00:06:51,639
+is és csak onnan tologatják át mert van
+ 
+
+313
+00:06:51,639 --> 00:06:54,909
+is és csak onnan tologatják át mert van
+ilyen vélemény is de de hogy mi van
+
+314
+00:06:54,909 --> 00:06:54,919
+ilyen vélemény is de de hogy mi van
+ 
+
+315
+00:06:54,919 --> 00:06:56,990
+ilyen vélemény is de de hogy mi van
+emögött az hogy az imf-el megegyeztek
+
+316
+00:06:56,990 --> 00:06:57,000
+emögött az hogy az imf-el megegyeztek
+ 
+
+317
+00:06:57,000 --> 00:06:59,110
+emögött az hogy az imf-el megegyeztek
+valami nagy hitelben dollárhitelben
+
+318
+00:06:59,110 --> 00:06:59,120
+valami nagy hitelben dollárhitelben
+ 
+
+319
+00:06:59,120 --> 00:07:01,230
+valami nagy hitelben dollárhitelben
+nyilván
+
+320
+00:07:01,230 --> 00:07:01,240
+nyilván
+ 
+
+321
+00:07:01,240 --> 00:07:03,790
+nyilván
+ja ki tudja ezt hogy igazából most mi
+
+322
+00:07:03,790 --> 00:07:03,800
+ja ki tudja ezt hogy igazából most mi
+ 
+
+323
+00:07:03,800 --> 00:07:05,869
+ja ki tudja ezt hogy igazából most mi
+van igen a politika az elégg elég sok
+
+324
+00:07:05,869 --> 00:07:05,879
+van igen a politika az elégg elég sok
+ 
+
+325
+00:07:05,879 --> 00:07:09,670
+van igen a politika az elégg elég sok
+kamura épül tehát ez egy undorító iparág
+
+326
+00:07:09,670 --> 00:07:09,680
+kamura épül tehát ez egy undorító iparág
+ 
+
+327
+00:07:09,680 --> 00:07:11,670
+kamura épül tehát ez egy undorító iparág
+de szerintem nem a politikusokban kéne
+
+328
+00:07:11,670 --> 00:07:11,680
+de szerintem nem a politikusokban kéne
+ 
+
+329
+00:07:11,680 --> 00:07:13,309
+de szerintem nem a politikusokban kéne
+bízni tehát továbbra is igaz az hogy nem
+
+330
+00:07:13,309 --> 00:07:13,319
+bízni tehát továbbra is igaz az hogy nem
+ 
+
+331
+00:07:13,319 --> 00:07:15,309
+bízni tehát továbbra is igaz az hogy nem
+a bitcoinnak van szüksége a
+
+332
+00:07:15,309 --> 00:07:15,319
+a bitcoinnak van szüksége a
+ 
+
+333
+00:07:15,319 --> 00:07:18,070
+a bitcoinnak van szüksége a
+politikusokra hanem fordítva tehát
+
+334
+00:07:18,070 --> 00:07:18,080
+politikusokra hanem fordítva tehát
+ 
+
+335
+00:07:18,080 --> 00:07:20,710
+politikusokra hanem fordítva tehát
+hogyha valaki hiányolja azt hogy a saját
+
+336
+00:07:20,710 --> 00:07:20,720
+hogyha valaki hiányolja azt hogy a saját
+ 
+
+337
+00:07:20,720 --> 00:07:23,029
+hogyha valaki hiányolja azt hogy a saját
+országának mondjuk nincsen bitcoin
+
+338
+00:07:23,029 --> 00:07:23,039
+országának mondjuk nincsen bitcoin
+ 
+
+339
+00:07:23,039 --> 00:07:25,029
+országának mondjuk nincsen bitcoin
+tartalék akkor csináljon magának bitcoin
+
+340
+00:07:25,029 --> 00:07:25,039
+tartalék akkor csináljon magának bitcoin
+ 
+
+341
+00:07:25,039 --> 00:07:26,830
+tartalék akkor csináljon magának bitcoin
+tartalékot hiszen ez egy igen ezt
+
+342
+00:07:26,830 --> 00:07:26,840
+tartalékot hiszen ez egy igen ezt
+ 
+
+343
+00:07:26,840 --> 00:07:28,629
+tartalékot hiszen ez egy igen ezt
+ferivel is tárgyaltuk hogy el ez egy
+
+344
+00:07:28,629 --> 00:07:28,639
+ferivel is tárgyaltuk hogy el ez egy
+ 
+
+345
+00:07:28,639 --> 00:07:30,270
+ferivel is tárgyaltuk hogy el ez egy
+saját
+
+346
+00:07:30,270 --> 00:07:30,280
+saját
+ 
+
+347
+00:07:30,280 --> 00:07:32,189
+saját
+személyek szintjén ez
+
+348
+00:07:32,189 --> 00:07:32,199
+személyek szintjén ez
+ 
+
+349
+00:07:32,199 --> 00:07:34,790
+személyek szintjén ez
+kivitelezhető sokkal egyszerűbben ugye
+
+350
+00:07:34,790 --> 00:07:34,800
+kivitelezhető sokkal egyszerűbben ugye
+ 
+
+351
+00:07:34,800 --> 00:07:37,029
+kivitelezhető sokkal egyszerűbben ugye
+csak annyiban nehezebb hogy egy államnak
+
+352
+00:07:37,029 --> 00:07:37,039
+csak annyiban nehezebb hogy egy államnak
+ 
+
+353
+00:07:37,039 --> 00:07:38,390
+csak annyiban nehezebb hogy egy államnak
+azért
+
+354
+00:07:38,390 --> 00:07:38,400
+azért
+ 
+
+355
+00:07:38,400 --> 00:07:41,749
+azért
+más más pénzmennyiség há rendelkezésre
+
+356
+00:07:41,749 --> 00:07:41,759
+más más pénzmennyiség há rendelkezésre
+ 
+
+357
+00:07:41,759 --> 00:07:44,189
+más más pénzmennyiség há rendelkezésre
+vásárlásra illetve hát a központi bankok
+
+358
+00:07:44,189 --> 00:07:44,199
+vásárlásra illetve hát a központi bankok
+ 
+
+359
+00:07:44,199 --> 00:07:47,070
+vásárlásra illetve hát a központi bankok
+korában ugye ők bármikor létrehozhatnak
+
+360
+00:07:47,070 --> 00:07:47,080
+korában ugye ők bármikor létrehozhatnak
+ 
+
+361
+00:07:47,080 --> 00:07:49,510
+korában ugye ők bármikor létrehozhatnak
+olyan pénzt amivel még bitcoint tudnak
+
+362
+00:07:49,510 --> 00:07:49,520
+olyan pénzt amivel még bitcoint tudnak
+ 
+
+363
+00:07:49,520 --> 00:07:53,629
+olyan pénzt amivel még bitcoint tudnak
+vásárolni és ezért nagyszerű ez a fehér
+
+364
+00:07:53,629 --> 00:07:53,639
+vásárolni és ezért nagyszerű ez a fehér
+ 
+
+365
+00:07:53,639 --> 00:07:56,270
+vásárolni és ezért nagyszerű ez a fehér
+házi irat
+
+366
+00:07:56,270 --> 00:07:56,280
+házi irat
+ 
+
+367
+00:07:56,280 --> 00:07:59,149
+házi irat
+mert szerintem ezzel fejest ugrunk egy
+
+368
+00:07:59,149 --> 00:07:59,159
+mert szerintem ezzel fejest ugrunk egy
+ 
+
+369
+00:07:59,159 --> 00:08:01,469
+mert szerintem ezzel fejest ugrunk egy
+olyan időszakba amikor ez el is fog
+
+370
+00:08:01,469 --> 00:08:01,479
+olyan időszakba amikor ez el is fog
+ 
+
+371
+00:08:01,479 --> 00:08:05,749
+olyan időszakba amikor ez el is fog
+jönni tehát hogy ja igen hogy egy véges
+
+372
+00:08:05,749 --> 00:08:05,759
+jönni tehát hogy ja igen hogy egy véges
+ 
+
+373
+00:08:05,759 --> 00:08:08,670
+jönni tehát hogy ja igen hogy egy véges
+darabszámú dolgot tudnak vásárolni egy
+
+374
+00:08:08,670 --> 00:08:08,680
+darabszámú dolgot tudnak vásárolni egy
+ 
+
+375
+00:08:08,680 --> 00:08:12,749
+darabszámú dolgot tudnak vásárolni egy
+végtelen számban előállítható
+
+376
+00:08:12,749 --> 00:08:12,759
+végtelen számban előállítható
+ 
+
+377
+00:08:12,759 --> 00:08:16,230
+végtelen számban előállítható
+játékpénzért tehát igazából ez is ilyen
+
+378
+00:08:16,230 --> 00:08:16,240
+játékpénzért tehát igazából ez is ilyen
+ 
+
+379
+00:08:16,240 --> 00:08:18,909
+játékpénzért tehát igazából ez is ilyen
+hatalmi dinamikát majd kirajzol hogy ki
+
+380
+00:08:18,909 --> 00:08:18,919
+hatalmi dinamikát majd kirajzol hogy ki
+ 
+
+381
+00:08:18,919 --> 00:08:21,110
+hatalmi dinamikát majd kirajzol hogy ki
+az aki először megteheti azt hogy
+
+382
+00:08:21,110 --> 00:08:21,120
+az aki először megteheti azt hogy
+ 
+
+383
+00:08:21,120 --> 00:08:23,710
+az aki először megteheti azt hogy
+szétimálja a pénzét és szépen
+
+384
+00:08:23,710 --> 00:08:23,720
+szétimálja a pénzét és szépen
+ 
+
+385
+00:08:23,720 --> 00:08:26,110
+szétimálja a pénzét és szépen
+bevásárolgat t szétiflálni a pénzüket
+
+386
+00:08:26,110 --> 00:08:26,120
+bevásárolgat t szétiflálni a pénzüket
+ 
+
+387
+00:08:26,120 --> 00:08:28,309
+bevásárolgat t szétiflálni a pénzüket
+nem biztos hogy akarják ebben a
+
+388
+00:08:28,309 --> 00:08:28,319
+nem biztos hogy akarják ebben a
+ 
+
+389
+00:08:28,319 --> 00:08:30,749
+nem biztos hogy akarják ebben a
+rendeletbe bele van írva hogy hogy
+
+390
+00:08:30,749 --> 00:08:30,759
+rendeletbe bele van írva hogy hogy
+ 
+
+391
+00:08:30,759 --> 00:08:33,469
+rendeletbe bele van írva hogy hogy
+feladatul kapják az illetékes elvtársak
+
+392
+00:08:33,469 --> 00:08:33,479
+feladatul kapják az illetékes elvtársak
+ 
+
+393
+00:08:33,479 --> 00:08:36,909
+feladatul kapják az illetékes elvtársak
+hogy dolgozzanak ki költségvetés
+
+394
+00:08:36,909 --> 00:08:36,919
+hogy dolgozzanak ki költségvetés
+ 
+
+395
+00:08:36,919 --> 00:08:40,269
+hogy dolgozzanak ki költségvetés
+semleges módszereket további bitcoin
+
+396
+00:08:40,269 --> 00:08:40,279
+semleges módszereket további bitcoin
+ 
+
+397
+00:08:40,279 --> 00:08:42,070
+semleges módszereket további bitcoin
+szerzésére ugye mert most jelenleg csak
+
+398
+00:08:42,070 --> 00:08:42,080
+szerzésére ugye mert most jelenleg csak
+ 
+
+399
+00:08:42,080 --> 00:08:45,110
+szerzésére ugye mert most jelenleg csak
+a azok a bitcoinok vannak a a a
+
+400
+00:08:45,110 --> 00:08:45,120
+a azok a bitcoinok vannak a a a
+ 
+
+401
+00:08:45,120 --> 00:08:48,070
+a azok a bitcoinok vannak a a a
+reservveben a amik eddig is megvoltak a
+
+402
+00:08:48,070 --> 00:08:48,080
+reservveben a amik eddig is megvoltak a
+ 
+
+403
+00:08:48,080 --> 00:08:50,630
+reservveben a amik eddig is megvoltak a
+ilyen lefoglalásokból hüüm és amitnek
+
+404
+00:08:50,630 --> 00:08:50,640
+ilyen lefoglalásokból hüüm és amitnek
+ 
+
+405
+00:08:50,640 --> 00:08:53,590
+ilyen lefoglalásokból hüüm és amitnek
+egy részét majd vissza kell adni elvileg
+
+406
+00:08:53,590 --> 00:08:53,600
+egy részét majd vissza kell adni elvileg
+ 
+
+407
+00:08:53,600 --> 00:08:56,350
+egy részét majd vissza kell adni elvileg
+tehát ez még egy kicsit kérdéses ja hogy
+
+408
+00:08:56,350 --> 00:08:56,360
+tehát ez még egy kicsit kérdéses ja hogy
+ 
+
+409
+00:08:56,360 --> 00:08:58,350
+tehát ez még egy kicsit kérdéses ja hogy
+pontosan mennyi bitcoin van benne
+
+410
+00:08:58,350 --> 00:08:58,360
+pontosan mennyi bitcoin van benne
+ 
+
+411
+00:08:58,360 --> 00:09:00,310
+pontosan mennyi bitcoin van benne
+könyvelé technikai filag egyébként
+
+412
+00:09:00,310 --> 00:09:00,320
+könyvelé technikai filag egyébként
+ 
+
+413
+00:09:00,320 --> 00:09:02,910
+könyvelé technikai filag egyébként
+minden bitcoin vásárlás költségvetés
+
+414
+00:09:02,910 --> 00:09:02,920
+minden bitcoin vásárlás költségvetés
+ 
+
+415
+00:09:02,920 --> 00:09:05,230
+minden bitcoin vásárlás költségvetés
+semleges szerintem bár te ehhez jobban
+
+416
+00:09:05,230 --> 00:09:05,240
+semleges szerintem bár te ehhez jobban
+ 
+
+417
+00:09:05,240 --> 00:09:07,230
+semleges szerintem bár te ehhez jobban
+értesz hogyha én veszek dollárér
+
+418
+00:09:07,230 --> 00:09:07,240
+értesz hogyha én veszek dollárér
+ 
+
+419
+00:09:07,240 --> 00:09:10,590
+értesz hogyha én veszek dollárér
+bitcoint akkor nem változik a mérleged
+
+420
+00:09:10,590 --> 00:09:10,600
+bitcoint akkor nem változik a mérleged
+ 
+
+421
+00:09:10,600 --> 00:09:12,949
+bitcoint akkor nem változik a mérleged
+oldal az egyenlegem ugyanannyi marad a
+
+422
+00:09:12,949 --> 00:09:12,959
+oldal az egyenlegem ugyanannyi marad a
+ 
+
+423
+00:09:12,959 --> 00:09:15,389
+oldal az egyenlegem ugyanannyi marad a
+vagyonom a már másnap meg már több lesz
+
+424
+00:09:15,389 --> 00:09:15,399
+vagyonom a már másnap meg már több lesz
+ 
+
+425
+00:09:15,399 --> 00:09:17,389
+vagyonom a már másnap meg már több lesz
+vagy kevesebb tehát ez is ilyen jó
+
+426
+00:09:17,389 --> 00:09:17,399
+vagy kevesebb tehát ez is ilyen jó
+ 
+
+427
+00:09:17,399 --> 00:09:19,310
+vagy kevesebb tehát ez is ilyen jó
+politikusi megfogalmazás amit lehet
+
+428
+00:09:19,310 --> 00:09:19,320
+politikusi megfogalmazás amit lehet
+ 
+
+429
+00:09:19,320 --> 00:09:21,470
+politikusi megfogalmazás amit lehet
+érteni akárhogy akár úgy is hogy
+
+430
+00:09:21,470 --> 00:09:21,480
+érteni akárhogy akár úgy is hogy
+ 
+
+431
+00:09:21,480 --> 00:09:23,470
+érteni akárhogy akár úgy is hogy
+holnaptól elkezdik vásárolni nyomtatott
+
+432
+00:09:23,470 --> 00:09:23,480
+holnaptól elkezdik vásárolni nyomtatott
+ 
+
+433
+00:09:23,480 --> 00:09:25,990
+holnaptól elkezdik vásárolni nyomtatott
+dollárból üüm akár úgy is hogy soha nem
+
+434
+00:09:25,990 --> 00:09:26,000
+dollárból üüm akár úgy is hogy soha nem
+ 
+
+435
+00:09:26,000 --> 00:09:27,870
+dollárból üüm akár úgy is hogy soha nem
+akarnak dollárért vásárolni hanem csak
+
+436
+00:09:27,870 --> 00:09:27,880
+akarnak dollárért vásárolni hanem csak
+ 
+
+437
+00:09:27,880 --> 00:09:30,509
+akarnak dollárért vásárolni hanem csak
+lefoglalni vagy ellopni vagy nem tudom
+
+438
+00:09:30,509 --> 00:09:30,519
+lefoglalni vagy ellopni vagy nem tudom
+ 
+
+439
+00:09:30,519 --> 00:09:33,509
+lefoglalni vagy ellopni vagy nem tudom
+hát igen am mind a kettő benne van ahhoz
+
+440
+00:09:33,509 --> 00:09:33,519
+hát igen am mind a kettő benne van ahhoz
+ 
+
+441
+00:09:33,519 --> 00:09:35,030
+hát igen am mind a kettő benne van ahhoz
+értenek bennem még az is
+
+442
+00:09:35,030 --> 00:09:35,040
+értenek bennem még az is
+ 
+
+443
+00:09:35,040 --> 00:09:36,590
+értenek bennem még az is
+megfogalmazódott ugye hogy egyéb
+
+444
+00:09:36,590 --> 00:09:36,600
+megfogalmazódott ugye hogy egyéb
+ 
+
+445
+00:09:36,600 --> 00:09:40,389
+megfogalmazódott ugye hogy egyéb
+entitásokon vásárolnak akár etf-ek akár
+
+446
+00:09:40,389 --> 00:09:40,399
+entitásokon vásárolnak akár etf-ek akár
+ 
+
+447
+00:09:40,399 --> 00:09:44,230
+entitásokon vásárolnak akár etf-ek akár
+silerök hada és akkor idővel az majd egy
+
+448
+00:09:44,230 --> 00:09:44,240
+silerök hada és akkor idővel az majd egy
+ 
+
+449
+00:09:44,240 --> 00:09:47,350
+silerök hada és akkor idővel az majd egy
+egy ilyen aranyhoz korábban hasonlatos
+
+450
+00:09:47,350 --> 00:09:47,360
+egy ilyen aranyhoz korábban hasonlatos
+ 
+
+451
+00:09:47,360 --> 00:09:52,190
+egy ilyen aranyhoz korábban hasonlatos
+6102 aiszem vagy 6105 tehát ez a amikor
+
+452
+00:09:52,190 --> 00:09:52,200
+6102 aiszem vagy 6105 tehát ez a amikor
+ 
+
+453
+00:09:52,200 --> 00:09:54,430
+6102 aiszem vagy 6105 tehát ez a amikor
+lefoglalták az aranyat ugye az us-ában
+
+454
+00:09:54,430 --> 00:09:54,440
+lefoglalták az aranyat ugye az us-ában
+ 
+
+455
+00:09:54,440 --> 00:09:55,829
+lefoglalták az aranyat ugye az us-ában
+így a 30-as
+
+456
+00:09:55,829 --> 00:09:55,839
+így a 30-as
+ 
+
+457
+00:09:55,839 --> 00:09:58,790
+így a 30-as
+években tehát hogy egy hasonlót tesznek
+
+458
+00:09:58,790 --> 00:09:58,800
+években tehát hogy egy hasonlót tesznek
+ 
+
+459
+00:09:58,800 --> 00:10:02,190
+években tehát hogy egy hasonlót tesznek
+majd az a céges bitcoin készletekkel
+
+460
+00:10:02,190 --> 00:10:02,200
+majd az a céges bitcoin készletekkel
+ 
+
+461
+00:10:02,200 --> 00:10:04,230
+majd az a céges bitcoin készletekkel
+hogy akkor azt mondják hogy jó oké lehet
+
+462
+00:10:04,230 --> 00:10:04,240
+hogy akkor azt mondják hogy jó oké lehet
+ 
+
+463
+00:10:04,240 --> 00:10:07,190
+hogy akkor azt mondják hogy jó oké lehet
+az amerikai cég cégeknek bitcoinja de
+
+464
+00:10:07,190 --> 00:10:07,200
+az amerikai cég cégeknek bitcoinja de
+ 
+
+465
+00:10:07,200 --> 00:10:09,389
+az amerikai cég cégeknek bitcoinja de
+lehet hogy akkor azt az igény esetén az
+
+466
+00:10:09,389 --> 00:10:09,399
+lehet hogy akkor azt az igény esetén az
+ 
+
+467
+00:10:09,399 --> 00:10:11,550
+lehet hogy akkor azt az igény esetén az
+állam ráteheti a
+
+468
+00:10:11,550 --> 00:10:11,560
+állam ráteheti a
+ 
+
+469
+00:10:11,560 --> 00:10:16,389
+állam ráteheti a
+kezét nem tudom ez már gondolkodás na jó
+
+470
+00:10:16,389 --> 00:10:16,399
+kezét nem tudom ez már gondolkodás na jó
+ 
+
+471
+00:10:16,399 --> 00:10:18,230
+kezét nem tudom ez már gondolkodás na jó
+szóval ezt is megérttük hogy van egy
+
+472
+00:10:18,230 --> 00:10:18,240
+szóval ezt is megérttük hogy van egy
+ 
+
+473
+00:10:18,240 --> 00:10:21,190
+szóval ezt is megérttük hogy van egy
+ilyenünk illetve hát nem nekünk hanem az
+
+474
+00:10:21,190 --> 00:10:21,200
+ilyenünk illetve hát nem nekünk hanem az
+ 
+
+475
+00:10:21,200 --> 00:10:23,630
+ilyenünk illetve hát nem nekünk hanem az
+amerikaiaknak nem tudom hogy kis hazák
+
+476
+00:10:23,630 --> 00:10:23,640
+amerikaiaknak nem tudom hogy kis hazák
+ 
+
+477
+00:10:23,640 --> 00:10:26,550
+amerikaiaknak nem tudom hogy kis hazák
+mikor jut el erre a szintre hogy nem
+
+478
+00:10:26,550 --> 00:10:26,560
+mikor jut el erre a szintre hogy nem
+ 
+
+479
+00:10:26,560 --> 00:10:28,670
+mikor jut el erre a szintre hogy nem
+mindenki csak a saját zsebére fog
+
+480
+00:10:28,670 --> 00:10:28,680
+mindenki csak a saját zsebére fog
+ 
+
+481
+00:10:28,680 --> 00:10:30,190
+mindenki csak a saját zsebére fog
+gondolni
+
+482
+00:10:30,190 --> 00:10:30,200
+gondolni
+ 
+
+483
+00:10:30,200 --> 00:10:31,910
+gondolni
+bár gondolom ők is a saját zsebükre
+
+484
+00:10:31,910 --> 00:10:31,920
+bár gondolom ők is a saját zsebükre
+ 
+
+485
+00:10:31,920 --> 00:10:35,350
+bár gondolom ők is a saját zsebükre
+gondol ők is a saját zsebükre gondolnak
+
+486
+00:10:35,350 --> 00:10:35,360
+gondol ők is a saját zsebükre gondolnak
+ 
+
+487
+00:10:35,360 --> 00:10:38,470
+gondol ők is a saját zsebükre gondolnak
+mert jó szándékot emögött se kell sokat
+
+488
+00:10:38,470 --> 00:10:38,480
+mert jó szándékot emögött se kell sokat
+ 
+
+489
+00:10:38,480 --> 00:10:41,310
+mert jó szándékot emögött se kell sokat
+látni meg keresni szerint szóval
+
+490
+00:10:41,310 --> 00:10:41,320
+látni meg keresni szerint szóval
+ 
+
+491
+00:10:41,320 --> 00:10:43,030
+látni meg keresni szerint szóval
+továbbra is az a legjobb ha mindenki
+
+492
+00:10:43,030 --> 00:10:43,040
+továbbra is az a legjobb ha mindenki
+ 
+
+493
+00:10:43,040 --> 00:10:45,190
+továbbra is az a legjobb ha mindenki
+magának gondoskodik a jövőjéről meg a
+
+494
+00:10:45,190 --> 00:10:45,200
+magának gondoskodik a jövőjéről meg a
+ 
+
+495
+00:10:45,200 --> 00:10:47,509
+magának gondoskodik a jövőjéről meg a
+magának gondoskodik a kis elelhasznált
+
+496
+00:10:47,509 --> 00:10:47,519
+magának gondoskodik a kis elelhasznált
+ 
+
+497
+00:10:47,519 --> 00:10:49,030
+magának gondoskodik a kis elelhasznált
+bitcoinjairól
+
+498
+00:10:49,030 --> 00:10:49,040
+bitcoinjairól
+ 
+
+499
+00:10:49,040 --> 00:10:51,110
+bitcoinjairól
+és erre egy kitűnő alkalom a mostani
+
+500
+00:10:51,110 --> 00:10:51,120
+és erre egy kitűnő alkalom a mostani
+ 
+
+501
+00:10:51,120 --> 00:10:54,750
+és erre egy kitűnő alkalom a mostani
+időszak bár ugye ez is pszichológia piac
+
+502
+00:10:54,750 --> 00:10:54,760
+időszak bár ugye ez is pszichológia piac
+ 
+
+503
+00:10:54,760 --> 00:10:57,389
+időszak bár ugye ez is pszichológia piac
+pszichológia tehát amikor egy kicsit
+
+504
+00:10:57,389 --> 00:10:57,399
+pszichológia tehát amikor egy kicsit
+ 
+
+505
+00:10:57,399 --> 00:10:59,430
+pszichológia tehát amikor egy kicsit
+lejjebb van az ár akkor az emberek nem
+
+506
+00:10:59,430 --> 00:10:59,440
+lejjebb van az ár akkor az emberek nem
+ 
+
+507
+00:10:59,440 --> 00:11:01,829
+lejjebb van az ár akkor az emberek nem
+szeretnek ebből bevásárolni utána mikor
+
+508
+00:11:01,829 --> 00:11:01,839
+szeretnek ebből bevásárolni utána mikor
+ 
+
+509
+00:11:01,839 --> 00:11:03,949
+szeretnek ebből bevásárolni utána mikor
+meg feljebb megy akkor mindenki azt
+
+510
+00:11:03,949 --> 00:11:03,959
+meg feljebb megy akkor mindenki azt
+ 
+
+511
+00:11:03,959 --> 00:11:05,389
+meg feljebb megy akkor mindenki azt
+mondja hogy mekkora mázlisták a
+
+512
+00:11:05,389 --> 00:11:05,399
+mondja hogy mekkora mázlisták a
+ 
+
+513
+00:11:05,399 --> 00:11:07,949
+mondja hogy mekkora mázlisták a
+bitcoinerek mertogy felment az ára hát
+
+514
+00:11:07,949 --> 00:11:07,959
+bitcoinerek mertogy felment az ára hát
+ 
+
+515
+00:11:07,959 --> 00:11:10,670
+bitcoinerek mertogy felment az ára hát
+igen ilyenkor lehet odaállni és azt
+
+516
+00:11:10,670 --> 00:11:10,680
+igen ilyenkor lehet odaállni és azt
+ 
+
+517
+00:11:10,680 --> 00:11:13,949
+igen ilyenkor lehet odaállni és azt
+mondani hogy megbízok abba a tudásba
+
+518
+00:11:13,949 --> 00:11:13,959
+mondani hogy megbízok abba a tudásba
+ 
+
+519
+00:11:13,959 --> 00:11:15,910
+mondani hogy megbízok abba a tudásba
+amit megszereztem a bitcoin
+
+520
+00:11:15,910 --> 00:11:15,920
+amit megszereztem a bitcoin
+ 
+
+521
+00:11:15,920 --> 00:11:18,829
+amit megszereztem a bitcoin
+tanulmányozásával és odateszem a hogy
+
+522
+00:11:18,829 --> 00:11:18,839
+tanulmányozásával és odateszem a hogy
+ 
+
+523
+00:11:18,839 --> 00:11:20,790
+tanulmányozásával és odateszem a hogy
+mondják ezt szépen magyarul odateszem a
+
+524
+00:11:20,790 --> 00:11:20,800
+mondják ezt szépen magyarul odateszem a
+ 
+
+525
+00:11:20,800 --> 00:11:24,190
+mondják ezt szépen magyarul odateszem a
+számot vagy a tetteimet ahol a na
+
+526
+00:11:24,190 --> 00:11:24,200
+számot vagy a tetteimet ahol a na
+ 
+
+527
+00:11:24,200 --> 00:11:26,389
+számot vagy a tetteimet ahol a na
+mindegy azt ebből már nem jövök ki jó
+
+528
+00:11:26,389 --> 00:11:26,399
+mindegy azt ebből már nem jövök ki jó
+ 
+
+529
+00:11:26,399 --> 00:11:28,150
+mindegy azt ebből már nem jövök ki jó
+hát én a magam részéről növeltem a napi
+
+530
+00:11:28,150 --> 00:11:28,160
+hát én a magam részéről növeltem a napi
+ 
+
+531
+00:11:28,160 --> 00:11:30,790
+hát én a magam részéről növeltem a napi
+dc mennyiség eg- két euróval ennyit
+
+532
+00:11:30,790 --> 00:11:30,800
+dc mennyiség eg- két euróval ennyit
+ 
+
+533
+00:11:30,800 --> 00:11:32,590
+dc mennyiség eg- két euróval ennyit
+ennyit ilyigen is így is kell csinálni
+
+534
+00:11:32,590 --> 00:11:32,600
+ennyit ilyigen is így is kell csinálni
+ 
+
+535
+00:11:32,600 --> 00:11:34,829
+ennyit ilyigen is így is kell csinálni
+jó is csinál turbó dcát folytatok
+
+536
+00:11:34,829 --> 00:11:34,839
+jó is csinál turbó dcát folytatok
+ 
+
+537
+00:11:34,839 --> 00:11:37,389
+jó is csinál turbó dcát folytatok
+nézzünk egy pár chartot ha már időszerű
+
+538
+00:11:37,389 --> 00:11:37,399
+nézzünk egy pár chartot ha már időszerű
+ 
+
+539
+00:11:37,399 --> 00:11:39,230
+nézzünk egy pár chartot ha már időszerű
+legalábbis olyanokat amik nem
+
+540
+00:11:39,230 --> 00:11:39,240
+legalábbis olyanokat amik nem
+ 
+
+541
+00:11:39,240 --> 00:11:40,949
+legalábbis olyanokat amik nem
+feltétlenül az árral
+
+542
+00:11:40,949 --> 00:11:40,959
+feltétlenül az árral
+ 
+
+543
+00:11:40,959 --> 00:11:43,350
+feltétlenül az árral
+foglalkoznak szoktál te nekünk hozni
+
+544
+00:11:43,350 --> 00:11:43,360
+foglalkoznak szoktál te nekünk hozni
+ 
+
+545
+00:11:43,360 --> 00:11:45,870
+foglalkoznak szoktál te nekünk hozni
+ilyen coin metrikát itt van ez a szép
+
+546
+00:11:45,870 --> 00:11:45,880
+ilyen coin metrikát itt van ez a szép
+ 
+
+547
+00:11:45,880 --> 00:11:48,190
+ilyen coin metrikát itt van ez a szép
+chart ami ez a
+
+548
+00:11:48,190 --> 00:11:48,200
+chart ami ez a
+ 
+
+549
+00:11:48,200 --> 00:11:52,509
+chart ami ez a
+vicces saját farkában nem harapó kígyó m
+
+550
+00:11:52,509 --> 00:11:52,519
+vicces saját farkában nem harapó kígyó m
+ 
+
+551
+00:11:52,519 --> 00:11:54,629
+vicces saját farkában nem harapó kígyó m
+még nem harapott a saját farkában még
+
+552
+00:11:54,629 --> 00:11:54,639
+még nem harapott a saját farkában még
+ 
+
+553
+00:11:54,639 --> 00:11:58,190
+még nem harapott a saját farkában még
+nem de közeledik hozzá hát reméljük
+
+554
+00:11:58,190 --> 00:11:58,200
+nem de közeledik hozzá hát reméljük
+ 
+
+555
+00:11:58,200 --> 00:12:01,350
+nem de közeledik hozzá hát reméljük
+azért nem fog ugye most akinek kicsi a
+
+556
+00:12:01,350 --> 00:12:01,360
+azért nem fog ugye most akinek kicsi a
+ 
+
+557
+00:12:01,360 --> 00:12:06,430
+azért nem fog ugye most akinek kicsi a
+képernyője itt vagyunk most itt tartunk
+
+558
+00:12:06,430 --> 00:12:06,440
+képernyője itt vagyunk most itt tartunk
+ 
+
+559
+00:12:06,440 --> 00:12:08,790
+képernyője itt vagyunk most itt tartunk
+márciusban azt fogjuk várni hogy majd
+
+560
+00:12:08,790 --> 00:12:08,800
+márciusban azt fogjuk várni hogy majd
+ 
+
+561
+00:12:08,800 --> 00:12:11,230
+márciusban azt fogjuk várni hogy majd
+itt év vége felé lesz majd egy
+
+562
+00:12:11,230 --> 00:12:11,240
+itt év vége felé lesz majd egy
+ 
+
+563
+00:12:11,240 --> 00:12:14,829
+itt év vége felé lesz majd egy
+cikluscsúcs ahogy az utóbbi háromszor
+
+564
+00:12:14,829 --> 00:12:14,839
+cikluscsúcs ahogy az utóbbi háromszor
+ 
+
+565
+00:12:14,839 --> 00:12:16,750
+cikluscsúcs ahogy az utóbbi háromszor
+négy évben mindig megtörtént hát
+
+566
+00:12:16,750 --> 00:12:16,760
+négy évben mindig megtörtént hát
+ 
+
+567
+00:12:16,760 --> 00:12:19,629
+négy évben mindig megtörtént hát
+izgalmas lesz hogy ez meg most is így
+
+568
+00:12:19,629 --> 00:12:19,639
+izgalmas lesz hogy ez meg most is így
+ 
+
+569
+00:12:19,639 --> 00:12:24,150
+izgalmas lesz hogy ez meg most is így
+így lesz-e az ahhoz hogy kicsit közelebb
+
+570
+00:12:24,150 --> 00:12:24,160
+így lesz-e az ahhoz hogy kicsit közelebb
+ 
+
+571
+00:12:24,160 --> 00:12:27,550
+így lesz-e az ahhoz hogy kicsit közelebb
+kerüljünk a jóslásokhoz az azért
+
+572
+00:12:27,550 --> 00:12:27,560
+kerüljünk a jóslásokhoz az azért
+ 
+
+573
+00:12:27,560 --> 00:12:29,670
+kerüljünk a jóslásokhoz az azért
+nézhetünk még további grafikonok at is
+
+574
+00:12:29,670 --> 00:12:29,680
+nézhetünk még további grafikonok at is
+ 
+
+575
+00:12:29,680 --> 00:12:31,910
+nézhetünk még további grafikonok at is
+hm figyelj én mindig az ilyen grafikon
+
+576
+00:12:31,910 --> 00:12:31,920
+hm figyelj én mindig az ilyen grafikon
+ 
+
+577
+00:12:31,920 --> 00:12:34,350
+hm figyelj én mindig az ilyen grafikon
+nézésben azt veszem alapul és általában
+
+578
+00:12:34,350 --> 00:12:34,360
+nézésben azt veszem alapul és általában
+ 
+
+579
+00:12:34,360 --> 00:12:36,069
+nézésben azt veszem alapul és általában
+szerintem ez a bitcoinra jobban igaz
+
+580
+00:12:36,069 --> 00:12:36,079
+szerintem ez a bitcoinra jobban igaz
+ 
+
+581
+00:12:36,079 --> 00:12:39,949
+szerintem ez a bitcoinra jobban igaz
+mint az egyéb ilyen törzsdei cuccokra
+
+582
+00:12:39,949 --> 00:12:39,959
+mint az egyéb ilyen törzsdei cuccokra
+ 
+
+583
+00:12:39,959 --> 00:12:43,389
+mint az egyéb ilyen törzsdei cuccokra
+hogy itt az fundamentumok nem nagyon
+
+584
+00:12:43,389 --> 00:12:43,399
+hogy itt az fundamentumok nem nagyon
+ 
+
+585
+00:12:43,399 --> 00:12:45,710
+hogy itt az fundamentumok nem nagyon
+változnak bár most azért így makróba
+
+586
+00:12:45,710 --> 00:12:45,720
+változnak bár most azért így makróba
+ 
+
+587
+00:12:45,720 --> 00:12:48,750
+változnak bár most azért így makróba
+bejöttek ugye ezek a
+
+588
+00:12:48,750 --> 00:12:48,760
+bejöttek ugye ezek a
+ 
+
+589
+00:12:48,760 --> 00:12:52,550
+bejöttek ugye ezek a
+tarifák amik hát olvastam egy-két olyan
+
+590
+00:12:52,550 --> 00:12:52,560
+tarifák amik hát olvastam egy-két olyan
+ 
+
+591
+00:12:52,560 --> 00:12:56,150
+tarifák amik hát olvastam egy-két olyan
+elemzést vagy cikkket hogy ezek arra is
+
+592
+00:12:56,150 --> 00:12:56,160
+elemzést vagy cikkket hogy ezek arra is
+ 
+
+593
+00:12:56,160 --> 00:12:58,310
+elemzést vagy cikkket hogy ezek arra is
+jók hogy most ugy a piacon minden
+
+594
+00:12:58,310 --> 00:12:58,320
+jók hogy most ugy a piacon minden
+ 
+
+595
+00:12:58,320 --> 00:13:01,430
+jók hogy most ugy a piacon minden
+leessen és ezt látjuk hogy azért ez a
+
+596
+00:13:01,430 --> 00:13:01,440
+leessen és ezt látjuk hogy azért ez a
+ 
+
+597
+00:13:01,440 --> 00:13:03,590
+leessen és ezt látjuk hogy azért ez a
+nyerőszéria amit így sokszor előhoz a
+
+598
+00:13:03,590 --> 00:13:03,600
+nyerőszéria amit így sokszor előhoz a
+ 
+
+599
+00:13:03,600 --> 00:13:06,430
+nyerőszéria amit így sokszor előhoz a
+trump hogy annyira melegük lesz az
+
+600
+00:13:06,430 --> 00:13:06,440
+trump hogy annyira melegük lesz az
+ 
+
+601
+00:13:06,440 --> 00:13:08,829
+trump hogy annyira melegük lesz az
+emberek a nyerésből ht hogy már unni
+
+602
+00:13:08,829 --> 00:13:08,839
+emberek a nyerésből ht hogy már unni
+ 
+
+603
+00:13:08,839 --> 00:13:10,990
+emberek a nyerésből ht hogy már unni
+fogják hogy ez most annyira nincs meg
+
+604
+00:13:10,990 --> 00:13:11,000
+fogják hogy ez most annyira nincs meg
+ 
+
+605
+00:13:11,000 --> 00:13:13,230
+fogják hogy ez most annyira nincs meg
+tehát most így a tőzsdék eléggé pirosban
+
+606
+00:13:13,230 --> 00:13:13,240
+tehát most így a tőzsdék eléggé pirosban
+ 
+
+607
+00:13:13,240 --> 00:13:16,269
+tehát most így a tőzsdék eléggé pirosban
+vannak de ez leg lehet egyébként egy
+
+608
+00:13:16,269 --> 00:13:16,279
+vannak de ez leg lehet egyébként egy
+ 
+
+609
+00:13:16,279 --> 00:13:20,230
+vannak de ez leg lehet egyébként egy
+nyerő széria azzal hogy ha minden
+
+610
+00:13:20,230 --> 00:13:20,240
+nyerő széria azzal hogy ha minden
+ 
+
+611
+00:13:20,240 --> 00:13:22,829
+nyerő széria azzal hogy ha minden
+letankol akkor olcsóbban meg lehet venni
+
+612
+00:13:22,829 --> 00:13:22,839
+letankol akkor olcsóbban meg lehet venni
+ 
+
+613
+00:13:22,839 --> 00:13:25,829
+letankol akkor olcsóbban meg lehet venni
+majd ugyanazt tehát igen illetve egy
+
+614
+00:13:25,829 --> 00:13:25,839
+majd ugyanazt tehát igen illetve egy
+ 
+
+615
+00:13:25,839 --> 00:13:29,110
+majd ugyanazt tehát igen illetve egy
+kicsit a jobb indulatúban hozzáállva
+
+616
+00:13:29,110 --> 00:13:29,120
+kicsit a jobb indulatúban hozzáállva
+ 
+
+617
+00:13:29,120 --> 00:13:31,750
+kicsit a jobb indulatúban hozzáállva
+akkor esetleg csökkenhetnek a kamatok
+
+618
+00:13:31,750 --> 00:13:31,760
+akkor esetleg csökkenhetnek a kamatok
+ 
+
+619
+00:13:31,760 --> 00:13:34,350
+akkor esetleg csökkenhetnek a kamatok
+ühüm ami viszont jót tesz a gazdasági
+
+620
+00:13:34,350 --> 00:13:34,360
+ühüm ami viszont jót tesz a gazdasági
+ 
+
+621
+00:13:34,360 --> 00:13:36,590
+ühüm ami viszont jót tesz a gazdasági
+növekedésnek vagy akárkinek aki mondjuk
+
+622
+00:13:36,590 --> 00:13:36,600
+növekedésnek vagy akárkinek aki mondjuk
+ 
+
+623
+00:13:36,600 --> 00:13:39,550
+növekedésnek vagy akárkinek aki mondjuk
+lakásitert akarna fölvenni tehát a fiatt
+
+624
+00:13:39,550 --> 00:13:39,560
+lakásitert akarna fölvenni tehát a fiatt
+ 
+
+625
+00:13:39,560 --> 00:13:41,590
+lakásitert akarna fölvenni tehát a fiatt
+pénzrendszerben kicsit talán jobb ha
+
+626
+00:13:41,590 --> 00:13:41,600
+pénzrendszerben kicsit talán jobb ha
+ 
+
+627
+00:13:41,600 --> 00:13:45,470
+pénzrendszerben kicsit talán jobb ha
+kisebb a kamat persze vagy ki tudja na
+
+628
+00:13:45,470 --> 00:13:45,480
+kisebb a kamat persze vagy ki tudja na
+ 
+
+629
+00:13:45,480 --> 00:13:48,189
+kisebb a kamat persze vagy ki tudja na
+most megosztottam itt ezt a globális
+
+630
+00:13:48,189 --> 00:13:48,199
+most megosztottam itt ezt a globális
+ 
+
+631
+00:13:48,199 --> 00:13:50,189
+most megosztottam itt ezt a globális
+likviditás
+
+632
+00:13:50,189 --> 00:13:50,199
+likviditás
+ 
+
+633
+00:13:50,199 --> 00:13:52,710
+likviditás
+grafikont elsőnek
+
+634
+00:13:52,710 --> 00:13:52,720
+grafikont elsőnek
+ 
+
+635
+00:13:52,720 --> 00:13:54,990
+grafikont elsőnek
+ühü ahol látszik hogy az
+
+636
+00:13:54,990 --> 00:13:55,000
+ühü ahol látszik hogy az
+ 
+
+637
+00:13:55,000 --> 00:13:57,829
+ühü ahol látszik hogy az
+utóbbi mondjuk fél évben kicsit
+
+638
+00:13:57,829 --> 00:13:57,839
+utóbbi mondjuk fél évben kicsit
+ 
+
+639
+00:13:57,839 --> 00:13:59,670
+utóbbi mondjuk fél évben kicsit
+lecsökkent a kicsit vissza visszafogták
+
+640
+00:13:59,670 --> 00:13:59,680
+lecsökkent a kicsit vissza visszafogták
+ 
+
+641
+00:13:59,680 --> 00:14:02,990
+lecsökkent a kicsit vissza visszafogták
+a pénznyomtatást az országok és azóta
+
+642
+00:14:02,990 --> 00:14:03,000
+a pénznyomtatást az országok és azóta
+ 
+
+643
+00:14:03,000 --> 00:14:05,629
+a pénznyomtatást az országok és azóta
+nem nagyon emelkedünk akkor nagyjából
+
+644
+00:14:05,629 --> 00:14:05,639
+nem nagyon emelkedünk akkor nagyjából
+ 
+
+645
+00:14:05,639 --> 00:14:07,509
+nem nagyon emelkedünk akkor nagyjából
+azt lehet mondani hogy a bitcoin
+
+646
+00:14:07,509 --> 00:14:07,519
+azt lehet mondani hogy a bitcoin
+ 
+
+647
+00:14:07,519 --> 00:14:09,310
+azt lehet mondani hogy a bitcoin
+grafikonja az olyan egy-két hónappal
+
+648
+00:14:09,310 --> 00:14:09,320
+grafikonja az olyan egy-két hónappal
+ 
+
+649
+00:14:09,320 --> 00:14:12,030
+grafikonja az olyan egy-két hónappal
+követi a ennek a likviditás grafikonnak
+
+650
+00:14:12,030 --> 00:14:12,040
+követi a ennek a likviditás grafikonnak
+ 
+
+651
+00:14:12,040 --> 00:14:12,910
+követi a ennek a likviditás grafikonnak
+a
+
+652
+00:14:12,910 --> 00:14:12,920
+a
+ 
+
+653
+00:14:12,920 --> 00:14:15,550
+a
+hullámzását viszont most már egy ideje
+
+654
+00:14:15,550 --> 00:14:15,560
+hullámzását viszont most már egy ideje
+ 
+
+655
+00:14:15,560 --> 00:14:18,590
+hullámzását viszont most már egy ideje
+elindult fölfelé újra újra bekapcsolták
+
+656
+00:14:18,590 --> 00:14:18,600
+elindult fölfelé újra újra bekapcsolták
+ 
+
+657
+00:14:18,600 --> 00:14:19,790
+elindult fölfelé újra újra bekapcsolták
+a
+
+658
+00:14:19,790 --> 00:14:19,800
+a
+ 
+
+659
+00:14:19,800 --> 00:14:22,350
+a
+nyomdagépeket sok országban
+
+660
+00:14:22,350 --> 00:14:22,360
+nyomdagépeket sok országban
+ 
+
+661
+00:14:22,360 --> 00:14:25,710
+nyomdagépeket sok országban
+üüm úgyhogy valószínűleg várható hogy
+
+662
+00:14:25,710 --> 00:14:25,720
+üüm úgyhogy valószínűleg várható hogy
+ 
+
+663
+00:14:25,720 --> 00:14:27,790
+üüm úgyhogy valószínűleg várható hogy
+ennek hatása lesz hamarosan jó hát
+
+664
+00:14:27,790 --> 00:14:27,800
+ennek hatása lesz hamarosan jó hát
+ 
+
+665
+00:14:27,800 --> 00:14:29,910
+ennek hatása lesz hamarosan jó hát
+ráérünk megvárjuk
+
+666
+00:14:29,910 --> 00:14:29,920
+ráérünk megvárjuk
+ 
+
+667
+00:14:29,920 --> 00:14:33,790
+ráérünk megvárjuk
+úgyhogy egy kis türelem
+
+668
+00:14:33,790 --> 00:14:33,800
+úgyhogy egy kis türelem
+ 
+
+669
+00:14:33,800 --> 00:14:36,230
+úgyhogy egy kis türelem
+aztán mutatnék egy ilyen jó bonyolult
+
+670
+00:14:36,230 --> 00:14:36,240
+aztán mutatnék egy ilyen jó bonyolult
+ 
+
+671
+00:14:36,240 --> 00:14:38,189
+aztán mutatnék egy ilyen jó bonyolult
+grafikont amit kicsit nehezebb megérteni
+
+672
+00:14:38,189 --> 00:14:38,199
+grafikont amit kicsit nehezebb megérteni
+ 
+
+673
+00:14:38,199 --> 00:14:40,470
+grafikont amit kicsit nehezebb megérteni
+de de ha az ember megérti akkor abbó
+
+674
+00:14:40,470 --> 00:14:40,480
+de de ha az ember megérti akkor abbó
+ 
+
+675
+00:14:40,480 --> 00:14:43,749
+de de ha az ember megérti akkor abbó
+abból nagyon komolyabb következtetéseket
+
+676
+00:14:43,749 --> 00:14:43,759
+abból nagyon komolyabb következtetéseket
+ 
+
+677
+00:14:43,759 --> 00:14:46,990
+abból nagyon komolyabb következtetéseket
+lehet levonni ez az várjál be tudod
+
+678
+00:14:46,990 --> 00:14:47,000
+lehet levonni ez az várjál be tudod
+ 
+
+679
+00:14:47,000 --> 00:14:49,629
+lehet levonni ez az várjál be tudod
+zoomolni hogy lássam jobban mert ilyen
+
+680
+00:14:49,629 --> 00:14:49,639
+zoomolni hogy lássam jobban mert ilyen
+ 
+
+681
+00:14:49,639 --> 00:14:54,069
+zoomolni hogy lássam jobban mert ilyen
+egy egy egyes a képarány h nem mindegy
+
+682
+00:14:54,069 --> 00:14:54,079
+egy egy egyes a képarány h nem mindegy
+ 
+
+683
+00:14:54,079 --> 00:14:56,350
+egy egy egyes a képarány h nem mindegy
+akkor jó lesz úgy ahogy
+
+684
+00:14:56,350 --> 00:14:56,360
+akkor jó lesz úgy ahogy
+ 
+
+685
+00:14:56,360 --> 00:14:59,230
+akkor jó lesz úgy ahogy
+volt nem látszódnak az értékek de de ha
+
+686
+00:14:59,230 --> 00:14:59,240
+volt nem látszódnak az értékek de de ha
+ 
+
+687
+00:14:59,240 --> 00:15:02,310
+volt nem látszódnak az értékek de de ha
+elmondod akkor az is jó ezt ennek a
+
+688
+00:15:02,310 --> 00:15:02,320
+elmondod akkor az is jó ezt ennek a
+ 
+
+689
+00:15:02,320 --> 00:15:05,470
+elmondod akkor az is jó ezt ennek a
+grafikonnak az a címe hogy shortm hodler
+
+690
+00:15:05,470 --> 00:15:05,480
+grafikonnak az a címe hogy shortm hodler
+ 
+
+691
+00:15:05,480 --> 00:15:09,350
+grafikonnak az a címe hogy shortm hodler
+cost basis magyarul ez a
+
+692
+00:15:09,350 --> 00:15:09,360
+cost basis magyarul ez a
+ 
+
+693
+00:15:09,360 --> 00:15:13,110
+cost basis magyarul ez a
+rövidtávú bitcoint tartóknak a az
+
+694
+00:15:13,110 --> 00:15:13,120
+rövidtávú bitcoint tartóknak a az
+ 
+
+695
+00:15:13,120 --> 00:15:17,710
+rövidtávú bitcoint tartóknak a az
+ár alapja átlagára magyarul tehát a
+
+696
+00:15:17,710 --> 00:15:17,720
+ár alapja átlagára magyarul tehát a
+ 
+
+697
+00:15:17,720 --> 00:15:20,350
+ár alapja átlagára magyarul tehát a
+rövid távon bitcoint tart ez a rövid táv
+
+698
+00:15:20,350 --> 00:15:20,360
+rövid távon bitcoint tart ez a rövid táv
+ 
+
+699
+00:15:20,360 --> 00:15:23,550
+rövid távon bitcoint tart ez a rövid táv
+e az úgy néz ki hogy maximum 155 nap
+
+700
+00:15:23,550 --> 00:15:23,560
+e az úgy néz ki hogy maximum 155 nap
+ 
+
+701
+00:15:23,560 --> 00:15:25,590
+e az úgy néz ki hogy maximum 155 nap
+tehát tehát ez azt nézi hogy az egész
+
+702
+00:15:25,590 --> 00:15:25,600
+tehát tehát ez azt nézi hogy az egész
+ 
+
+703
+00:15:25,600 --> 00:15:27,629
+tehát tehát ez azt nézi hogy az egész
+blocklácban az összes transzakció közül
+
+704
+00:15:27,629 --> 00:15:27,639
+blocklácban az összes transzakció közül
+ 
+
+705
+00:15:27,639 --> 00:15:30,550
+blocklácban az összes transzakció közül
+az elköltetlen tranzak ó közül ahol a
+
+706
+00:15:30,550 --> 00:15:30,560
+az elköltetlen tranzak ó közül ahol a
+ 
+
+707
+00:15:30,560 --> 00:15:33,430
+az elköltetlen tranzak ó közül ahol a
+legutóbbi 155 napba került bitcoin
+
+708
+00:15:33,430 --> 00:15:33,440
+legutóbbi 155 napba került bitcoin
+ 
+
+709
+00:15:33,440 --> 00:15:36,590
+legutóbbi 155 napba került bitcoin
+azokat veszi ilyen rövidtávú bitcoin
+
+710
+00:15:36,590 --> 00:15:36,600
+azokat veszi ilyen rövidtávú bitcoin
+ 
+
+711
+00:15:36,600 --> 00:15:39,870
+azokat veszi ilyen rövidtávú bitcoin
+hlereknek és ezeknek a amikor amikor
+
+712
+00:15:39,870 --> 00:15:39,880
+hlereknek és ezeknek a amikor amikor
+ 
+
+713
+00:15:39,880 --> 00:15:41,829
+hlereknek és ezeknek a amikor amikor
+odakerült ez a bitcoin abban a
+
+714
+00:15:41,829 --> 00:15:41,839
+odakerült ez a bitcoin abban a
+ 
+
+715
+00:15:41,839 --> 00:15:45,269
+odakerült ez a bitcoin abban a
+pillanatban levő árnak az átlagai és ez
+
+716
+00:15:45,269 --> 00:15:45,279
+pillanatban levő árnak az átlagai és ez
+ 
+
+717
+00:15:45,279 --> 00:15:48,350
+pillanatban levő árnak az átlagai és ez
+a zöld csík ami nyilván emelkedik a
+
+718
+00:15:48,350 --> 00:15:48,360
+a zöld csík ami nyilván emelkedik a
+ 
+
+719
+00:15:48,360 --> 00:15:50,829
+a zöld csík ami nyilván emelkedik a
+bitcoin árfolyamával idővel de ott pedig
+
+720
+00:15:50,829 --> 00:15:50,839
+bitcoin árfolyamával idővel de ott pedig
+ 
+
+721
+00:15:50,839 --> 00:15:52,990
+bitcoin árfolyamával idővel de ott pedig
+a narancssárga fölül aláment az azt
+
+722
+00:15:52,990 --> 00:15:53,000
+a narancssárga fölül aláment az azt
+ 
+
+723
+00:15:53,000 --> 00:15:55,670
+a narancssárga fölül aláment az azt
+jelenti hogy a frissen eladók azok
+
+724
+00:15:55,670 --> 00:15:55,680
+jelenti hogy a frissen eladók azok
+ 
+
+725
+00:15:55,680 --> 00:15:59,990
+jelenti hogy a frissen eladók azok
+nyilván ésg ugye néha igen tehát amikor
+
+726
+00:15:59,990 --> 00:16:00,000
+nyilván ésg ugye néha igen tehát amikor
+ 
+
+727
+00:16:00,000 --> 00:16:03,350
+nyilván ésg ugye néha igen tehát amikor
+a bitcoin árfolyama alatta van a ezeknek
+
+728
+00:16:03,350 --> 00:16:03,360
+a bitcoin árfolyama alatta van a ezeknek
+ 
+
+729
+00:16:03,360 --> 00:16:05,189
+a bitcoin árfolyama alatta van a ezeknek
+a rövid távú tehát tulajdonképpen ezek a
+
+730
+00:16:05,189 --> 00:16:05,199
+a rövid távú tehát tulajdonképpen ezek a
+ 
+
+731
+00:16:05,199 --> 00:16:07,350
+a rövid távú tehát tulajdonképpen ezek a
+spekulánsok akik a tőzsdén adnak vesznek
+
+732
+00:16:07,350 --> 00:16:07,360
+spekulánsok akik a tőzsdén adnak vesznek
+ 
+
+733
+00:16:07,360 --> 00:16:10,150
+spekulánsok akik a tőzsdén adnak vesznek
+és próbálnak ezzen pénzt keresni hogyha
+
+734
+00:16:10,150 --> 00:16:10,160
+és próbálnak ezzen pénzt keresni hogyha
+ 
+
+735
+00:16:10,160 --> 00:16:13,069
+és próbálnak ezzen pénzt keresni hogyha
+az ő átlagáruk az fölötte van a bitcoin
+
+736
+00:16:13,069 --> 00:16:13,079
+az ő átlagáruk az fölötte van a bitcoin
+ 
+
+737
+00:16:13,079 --> 00:16:14,670
+az ő átlagáruk az fölötte van a bitcoin
+árának akkor ők pánikban vannak és
+
+738
+00:16:14,670 --> 00:16:14,680
+árának akkor ők pánikban vannak és
+ 
+
+739
+00:16:14,680 --> 00:16:17,749
+árának akkor ők pánikban vannak és
+elkezdenek el eladni tehát az a az a
+
+740
+00:16:17,749 --> 00:16:17,759
+elkezdenek el eladni tehát az a az a
+ 
+
+741
+00:16:17,759 --> 00:16:20,550
+elkezdenek el eladni tehát az a az a
+bermarket általában itt mondjuk a 2022
+
+742
+00:16:20,550 --> 00:16:20,560
+bermarket általában itt mondjuk a 2022
+ 
+
+743
+00:16:20,560 --> 00:16:22,110
+bermarket általában itt mondjuk a 2022
+látszik itt a grafikonon hogy akkor
+
+744
+00:16:22,110 --> 00:16:22,120
+látszik itt a grafikonon hogy akkor
+ 
+
+745
+00:16:22,120 --> 00:16:25,230
+látszik itt a grafikonon hogy akkor
+végig alatta volt igen ők folyamatosan
+
+746
+00:16:25,230 --> 00:16:25,240
+végig alatta volt igen ők folyamatosan
+ 
+
+747
+00:16:25,240 --> 00:16:27,030
+végig alatta volt igen ők folyamatosan
+adták el a bitcoin nukat és azér
+
+748
+00:16:27,030 --> 00:16:27,040
+adták el a bitcoin nukat és azér
+ 
+
+749
+00:16:27,040 --> 00:16:29,430
+adták el a bitcoin nukat és azér
+folyamatosan ment lefelé és a a szerzési
+
+750
+00:16:29,430 --> 00:16:29,440
+folyamatosan ment lefelé és a a szerzési
+ 
+
+751
+00:16:29,440 --> 00:16:31,870
+folyamatosan ment lefelé és a a szerzési
+áruk aztán amikor sikerült fölé kerülni
+
+752
+00:16:31,870 --> 00:16:31,880
+áruk aztán amikor sikerült fölé kerülni
+ 
+
+753
+00:16:31,880 --> 00:16:34,269
+áruk aztán amikor sikerült fölé kerülni
+tehát sikerült végre átlagosan már
+
+754
+00:16:34,269 --> 00:16:34,279
+tehát sikerült végre átlagosan már
+ 
+
+755
+00:16:34,279 --> 00:16:37,309
+tehát sikerült végre átlagosan már
+nyereségbe kerülniük akkor utána indult
+
+756
+00:16:37,309 --> 00:16:37,319
+nyereségbe kerülniük akkor utána indult
+ 
+
+757
+00:16:37,319 --> 00:16:40,150
+nyereségbe kerülniük akkor utána indult
+a bullmarket hogy most mi az okok hozat
+
+758
+00:16:40,150 --> 00:16:40,160
+a bullmarket hogy most mi az okok hozat
+ 
+
+759
+00:16:40,160 --> 00:16:42,749
+a bullmarket hogy most mi az okok hozat
+erről ebbe ne menjünk bele de körülbelül
+
+760
+00:16:42,749 --> 00:16:42,759
+erről ebbe ne menjünk bele de körülbelül
+ 
+
+761
+00:16:42,759 --> 00:16:45,150
+erről ebbe ne menjünk bele de körülbelül
+ez ezt jelenti na most itt látszik hogy
+
+762
+00:16:45,150 --> 00:16:45,160
+ez ezt jelenti na most itt látszik hogy
+ 
+
+763
+00:16:45,160 --> 00:16:46,870
+ez ezt jelenti na most itt látszik hogy
+tavaly nyáron is volt egy olyan időszak
+
+764
+00:16:46,870 --> 00:16:46,880
+tavaly nyáron is volt egy olyan időszak
+ 
+
+765
+00:16:46,880 --> 00:16:49,710
+tavaly nyáron is volt egy olyan időszak
+amikor alatta volt és akkor
+
+766
+00:16:49,710 --> 00:16:49,720
+amikor alatta volt és akkor
+ 
+
+767
+00:16:49,720 --> 00:16:53,430
+amikor alatta volt és akkor
+akkor ment is lefelé az árfolyam igen
+
+768
+00:16:53,430 --> 00:16:53,440
+akkor ment is lefelé az árfolyam igen
+ 
+
+769
+00:16:53,440 --> 00:16:56,350
+akkor ment is lefelé az árfolyam igen
+kicsit aztán utána megint fölé kerültünk
+
+770
+00:16:56,350 --> 00:16:56,360
+kicsit aztán utána megint fölé kerültünk
+ 
+
+771
+00:16:56,360 --> 00:16:59,110
+kicsit aztán utána megint fölé kerültünk
+akkor jöttek a a az old hok meg
+
+772
+00:16:59,110 --> 00:16:59,120
+akkor jöttek a a az old hok meg
+ 
+
+773
+00:16:59,120 --> 00:17:02,150
+akkor jöttek a a az old hok meg
+elnökválasztás meg széő buuli meg
+
+774
+00:17:02,150 --> 00:17:02,160
+elnökválasztás meg széő buuli meg
+ 
+
+775
+00:17:02,160 --> 00:17:05,350
+elnökválasztás meg széő buuli meg
+satöbbi és az azóta elkezdtünk csökkenni
+
+776
+00:17:05,350 --> 00:17:05,360
+satöbbi és az azóta elkezdtünk csökkenni
+ 
+
+777
+00:17:05,360 --> 00:17:06,590
+satöbbi és az azóta elkezdtünk csökkenni
+és most az utóbbi hetekben megint
+
+778
+00:17:06,590 --> 00:17:06,600
+és most az utóbbi hetekben megint
+ 
+
+779
+00:17:06,600 --> 00:17:09,150
+és most az utóbbi hetekben megint
+alákerültünk igen most vannak a
+
+780
+00:17:09,150 --> 00:17:09,160
+alákerültünk igen most vannak a
+ 
+
+781
+00:17:09,160 --> 00:17:13,110
+alákerültünk igen most vannak a
+tarifaháborúk meg a amerika nagy lesz
+
+782
+00:17:13,110 --> 00:17:13,120
+tarifaháborúk meg a amerika nagy lesz
+ 
+
+783
+00:17:13,120 --> 00:17:16,669
+tarifaháborúk meg a amerika nagy lesz
+előjátéka igen és hát figyelj trumpnak
+
+784
+00:17:16,669 --> 00:17:16,679
+előjátéka igen és hát figyelj trumpnak
+ 
+
+785
+00:17:16,679 --> 00:17:18,590
+előjátéka igen és hát figyelj trumpnak
+ugye négy év alatt kell ezt úgy gatyába
+
+786
+00:17:18,590 --> 00:17:18,600
+ugye négy év alatt kell ezt úgy gatyába
+ 
+
+787
+00:17:18,600 --> 00:17:21,710
+ugye négy év alatt kell ezt úgy gatyába
+hozni hogy hogy újra újra játszhasson
+
+788
+00:17:21,710 --> 00:17:21,720
+hozni hogy hogy újra újra játszhasson
+ 
+
+789
+00:17:21,720 --> 00:17:23,990
+hozni hogy hogy újra újra játszhasson
+bár asszem kétszer már most vagy
+
+790
+00:17:23,990 --> 00:17:24,000
+bár asszem kétszer már most vagy
+ 
+
+791
+00:17:24,000 --> 00:17:25,549
+bár asszem kétszer már most vagy
+háromszor nem lehetn most azt akarom
+
+792
+00:17:25,549 --> 00:17:25,559
+háromszor nem lehetn most azt akarom
+ 
+
+793
+00:17:25,559 --> 00:17:26,590
+háromszor nem lehetn most azt akarom
+mondani hogy itt most nem a
+
+794
+00:17:26,590 --> 00:17:26,600
+mondani hogy itt most nem a
+ 
+
+795
+00:17:26,600 --> 00:17:28,390
+mondani hogy itt most nem a
+fundamentumok számítanak ez tiszta a
+
+796
+00:17:28,390 --> 00:17:28,400
+fundamentumok számítanak ez tiszta a
+ 
+
+797
+00:17:28,400 --> 00:17:30,950
+fundamentumok számítanak ez tiszta a
+tőzsd pszichológia tehát ez ez ez a ez a
+
+798
+00:17:30,950 --> 00:17:30,960
+tőzsd pszichológia tehát ez ez ez a ez a
+ 
+
+799
+00:17:30,960 --> 00:17:32,710
+tőzsd pszichológia tehát ez ez ez a ez a
+tipikus röidt távú spekulációs
+
+800
+00:17:32,710 --> 00:17:32,720
+tipikus röidt távú spekulációs
+ 
+
+801
+00:17:32,720 --> 00:17:34,789
+tipikus röidt távú spekulációs
+tőzsdepszichológia
+
+802
+00:17:34,789 --> 00:17:34,799
+tőzsdepszichológia
+ 
+
+803
+00:17:34,799 --> 00:17:36,230
+tőzsdepszichológia
+amikor
+
+804
+00:17:36,230 --> 00:17:36,240
+amikor
+ 
+
+805
+00:17:36,240 --> 00:17:38,830
+amikor
+többségbe kerülnek azok a spekulánsok
+
+806
+00:17:38,830 --> 00:17:38,840
+többségbe kerülnek azok a spekulánsok
+ 
+
+807
+00:17:38,840 --> 00:17:40,870
+többségbe kerülnek azok a spekulánsok
+akik veszteségben vannak akkor kitör a
+
+808
+00:17:40,870 --> 00:17:40,880
+akik veszteségben vannak akkor kitör a
+ 
+
+809
+00:17:40,880 --> 00:17:43,789
+akik veszteségben vannak akkor kitör a
+pánik és mindenki elad igen ilyenkor és
+
+810
+00:17:43,789 --> 00:17:43,799
+pánik és mindenki elad igen ilyenkor és
+ 
+
+811
+00:17:43,799 --> 00:17:45,470
+pánik és mindenki elad igen ilyenkor és
+ez addig fog folytatódni amíg nem
+
+812
+00:17:45,470 --> 00:17:45,480
+ez addig fog folytatódni amíg nem
+ 
+
+813
+00:17:45,480 --> 00:17:48,350
+ez addig fog folytatódni amíg nem
+sikerül ennek a dolognak megfordulnia
+
+814
+00:17:48,350 --> 00:17:48,360
+sikerül ennek a dolognak megfordulnia
+ 
+
+815
+00:17:48,360 --> 00:17:50,310
+sikerül ennek a dolognak megfordulnia
+tehát ezért érdemes nézegetni ezt a
+
+816
+00:17:50,310 --> 00:17:50,320
+tehát ezért érdemes nézegetni ezt a
+ 
+
+817
+00:17:50,320 --> 00:17:52,070
+tehát ezért érdemes nézegetni ezt a
+grafikont én ezért szoktam nézegetni de
+
+818
+00:17:52,070 --> 00:17:52,080
+grafikont én ezért szoktam nézegetni de
+ 
+
+819
+00:17:52,080 --> 00:17:54,830
+grafikont én ezért szoktam nézegetni de
+hát látszik hogy ez ez egy fölle fölle
+
+820
+00:17:54,830 --> 00:17:54,840
+hát látszik hogy ez ez egy fölle fölle
+ 
+
+821
+00:17:54,840 --> 00:17:56,950
+hát látszik hogy ez ez egy fölle fölle
+itt itt a az alatta levő részen ez ki
+
+822
+00:17:56,950 --> 00:17:56,960
+itt itt a az alatta levő részen ez ki
+ 
+
+823
+00:17:56,960 --> 00:17:57,830
+itt itt a az alatta levő részen ez ki
+van
+
+824
+00:17:57,830 --> 00:17:57,840
+van
+ 
+
+825
+00:17:57,840 --> 00:17:59,870
+van
+egyenesítve tehát tképpen csak a
+
+826
+00:17:59,870 --> 00:17:59,880
+egyenesítve tehát tképpen csak a
+ 
+
+827
+00:17:59,880 --> 00:18:01,669
+egyenesítve tehát tképpen csak a
+kettőnek az aránya látszik aki nem
+
+828
+00:18:01,669 --> 00:18:01,679
+kettőnek az aránya látszik aki nem
+ 
+
+829
+00:18:01,679 --> 00:18:03,590
+kettőnek az aránya látszik aki nem
+szereti nézegetni a grafikont azért
+
+830
+00:18:03,590 --> 00:18:03,600
+szereti nézegetni a grafikont azért
+ 
+
+831
+00:18:03,600 --> 00:18:05,990
+szereti nézegetni a grafikont azért
+annak is azt el lehet árulni hogy van
+
+832
+00:18:05,990 --> 00:18:06,000
+annak is azt el lehet árulni hogy van
+ 
+
+833
+00:18:06,000 --> 00:18:08,149
+annak is azt el lehet árulni hogy van
+például egy olyan módszer hogyha pénzhez
+
+834
+00:18:08,149 --> 00:18:08,159
+például egy olyan módszer hogyha pénzhez
+ 
+
+835
+00:18:08,159 --> 00:18:11,630
+például egy olyan módszer hogyha pénzhez
+jutsz akkor bitcoint veszel belő
+
+836
+00:18:11,630 --> 00:18:11,640
+jutsz akkor bitcoint veszel belő
+ 
+
+837
+00:18:11,640 --> 00:18:14,789
+jutsz akkor bitcoint veszel belő
+igen smash buy-al tehát ami van az
+
+838
+00:18:14,789 --> 00:18:14,799
+igen smash buy-al tehát ami van az
+ 
+
+839
+00:18:14,799 --> 00:18:17,110
+igen smash buy-al tehát ami van az
+beküldöd nyilván ilyenkor aztán jobban
+
+840
+00:18:17,110 --> 00:18:17,120
+beküldöd nyilván ilyenkor aztán jobban
+ 
+
+841
+00:18:17,120 --> 00:18:20,190
+beküldöd nyilván ilyenkor aztán jobban
+meg kell húzni a nadrágszíat de utána
+
+842
+00:18:20,190 --> 00:18:20,200
+meg kell húzni a nadrágszíat de utána
+ 
+
+843
+00:18:20,200 --> 00:18:22,430
+meg kell húzni a nadrágszíat de utána
+majd jóváteszi én ezt igen nem is azért
+
+844
+00:18:22,430 --> 00:18:22,440
+majd jóváteszi én ezt igen nem is azért
+ 
+
+845
+00:18:22,440 --> 00:18:24,390
+majd jóváteszi én ezt igen nem is azért
+mondom hogy valaki ez alapján kezdjen
+
+846
+00:18:24,390 --> 00:18:24,400
+mondom hogy valaki ez alapján kezdjen
+ 
+
+847
+00:18:24,400 --> 00:18:26,110
+mondom hogy valaki ez alapján kezdjen
+spekulálni hanem inkább azért hogy ne ne
+
+848
+00:18:26,110 --> 00:18:26,120
+spekulálni hanem inkább azért hogy ne ne
+ 
+
+849
+00:18:26,120 --> 00:18:29,190
+spekulálni hanem inkább azért hogy ne ne
+essen pá ne essen pánikba természetes
+
+850
+00:18:29,190 --> 00:18:29,200
+essen pá ne essen pánikba természetes
+ 
+
+851
+00:18:29,200 --> 00:18:30,630
+essen pá ne essen pánikba természetes
+dolog az hogy a tőzsdén vannak
+
+852
+00:18:30,630 --> 00:18:30,640
+dolog az hogy a tőzsdén vannak
+ 
+
+853
+00:18:30,640 --> 00:18:33,470
+dolog az hogy a tőzsdén vannak
+korrekciók igen kell
+
+854
+00:18:33,470 --> 00:18:33,480
+korrekciók igen kell
+ 
+
+855
+00:18:33,480 --> 00:18:36,830
+korrekciók igen kell
+aztán n nem lehet mindig örülni nézzünk
+
+856
+00:18:36,830 --> 00:18:36,840
+aztán n nem lehet mindig örülni nézzünk
+ 
+
+857
+00:18:36,840 --> 00:18:38,909
+aztán n nem lehet mindig örülni nézzünk
+egy kis
+
+858
+00:18:38,909 --> 00:18:38,919
+egy kis
+ 
+
+859
+00:18:38,919 --> 00:18:41,789
+egy kis
+makrogazdaságot nézzük a dollár index
+
+860
+00:18:41,789 --> 00:18:41,799
+makrogazdaságot nézzük a dollár index
+ 
+
+861
+00:18:41,799 --> 00:18:44,909
+makrogazdaságot nézzük a dollár index
+chart az a dollárnak egy valuta kosárhoz
+
+862
+00:18:44,909 --> 00:18:44,919
+chart az a dollárnak egy valuta kosárhoz
+ 
+
+863
+00:18:44,919 --> 00:18:49,390
+chart az a dollárnak egy valuta kosárhoz
+miért erősségét mutatja ez a kék csík és
+
+864
+00:18:49,390 --> 00:18:49,400
+miért erősségét mutatja ez a kék csík és
+ 
+
+865
+00:18:49,400 --> 00:18:52,549
+miért erősségét mutatja ez a kék csík és
+a itt itt ilyen pirosas rózsaszínes csík
+
+866
+00:18:52,549 --> 00:18:52,559
+a itt itt ilyen pirosas rózsaszínes csík
+ 
+
+867
+00:18:52,559 --> 00:18:55,310
+a itt itt ilyen pirosas rózsaszínes csík
+a bitcoin árfolyama most itt azt érdemes
+
+868
+00:18:55,310 --> 00:18:55,320
+a bitcoin árfolyama most itt azt érdemes
+ 
+
+869
+00:18:55,320 --> 00:18:58,950
+a bitcoin árfolyama most itt azt érdemes
+észrevenni hogy a a múltban amikor a
+
+870
+00:18:58,950 --> 00:18:58,960
+észrevenni hogy a a múltban amikor a
+ 
+
+871
+00:18:58,960 --> 00:19:00,909
+észrevenni hogy a a múltban amikor a
+komoly bullmarketek voltak tehát
+
+872
+00:19:00,909 --> 00:19:00,919
+komoly bullmarketek voltak tehát
+ 
+
+873
+00:19:00,919 --> 00:19:03,950
+komoly bullmarketek voltak tehát
+2017-ben meg 2021-ben is akkor a dollár
+
+874
+00:19:03,950 --> 00:19:03,960
+2017-ben meg 2021-ben is akkor a dollár
+ 
+
+875
+00:19:03,960 --> 00:19:05,750
+2017-ben meg 2021-ben is akkor a dollár
+az azt csinálta hogy a többi valutához
+
+876
+00:19:05,750 --> 00:19:05,760
+az azt csinálta hogy a többi valutához
+ 
+
+877
+00:19:05,760 --> 00:19:08,270
+az azt csinálta hogy a többi valutához
+képest gyengült elég sokat ühüm amikor
+
+878
+00:19:08,270 --> 00:19:08,280
+képest gyengült elég sokat ühüm amikor
+ 
+
+879
+00:19:08,280 --> 00:19:11,149
+képest gyengült elég sokat ühüm amikor
+meg a komolyabb bermarketek voltak hát
+
+880
+00:19:11,149 --> 00:19:11,159
+meg a komolyabb bermarketek voltak hát
+ 
+
+881
+00:19:11,159 --> 00:19:14,590
+meg a komolyabb bermarketek voltak hát
+azok alig látszanak így annyira nem
+
+882
+00:19:14,590 --> 00:19:14,600
+azok alig látszanak így annyira nem
+ 
+
+883
+00:19:14,600 --> 00:19:17,149
+azok alig látszanak így annyira nem
+komolyak de akkor meg a fordítottja
+
+884
+00:19:17,149 --> 00:19:17,159
+komolyak de akkor meg a fordítottja
+ 
+
+885
+00:19:17,159 --> 00:19:18,789
+komolyak de akkor meg a fordítottja
+szokott lenni tehát hogy emelkedik a
+
+886
+00:19:18,789 --> 00:19:18,799
+szokott lenni tehát hogy emelkedik a
+ 
+
+887
+00:19:18,799 --> 00:19:21,149
+szokott lenni tehát hogy emelkedik a
+erősödik a dollár akkor meg mondjuk itt
+
+888
+00:19:21,149 --> 00:19:21,159
+erősödik a dollár akkor meg mondjuk itt
+ 
+
+889
+00:19:21,159 --> 00:19:21,909
+erősödik a dollár akkor meg mondjuk itt
+a
+
+890
+00:19:21,909 --> 00:19:21,919
+a
+ 
+
+891
+00:19:21,919 --> 00:19:24,789
+a
+2022-es időszakban ez elég jól látszik
+
+892
+00:19:24,789 --> 00:19:24,799
+2022-es időszakban ez elég jól látszik
+ 
+
+893
+00:19:24,799 --> 00:19:26,830
+2022-es időszakban ez elég jól látszik
+és hát az is látszik hogy azóta a dollár
+
+894
+00:19:26,830 --> 00:19:26,840
+és hát az is látszik hogy azóta a dollár
+ 
+
+895
+00:19:26,840 --> 00:19:28,710
+és hát az is látszik hogy azóta a dollár
+az van viszonylag erős tehát nem igen
+
+896
+00:19:28,710 --> 00:19:28,720
+az van viszonylag erős tehát nem igen
+ 
+
+897
+00:19:28,720 --> 00:19:31,190
+az van viszonylag erős tehát nem igen
+mostanában nem nagyon csökkent sőt itt
+
+898
+00:19:31,190 --> 00:19:31,200
+mostanában nem nagyon csökkent sőt itt
+ 
+
+899
+00:19:31,200 --> 00:19:34,390
+mostanában nem nagyon csökkent sőt itt
+itt még ezt meg is cáfolhatjuk tehát a a
+
+900
+00:19:34,390 --> 00:19:34,400
+itt még ezt meg is cáfolhatjuk tehát a a
+ 
+
+901
+00:19:34,400 --> 00:19:37,070
+itt még ezt meg is cáfolhatjuk tehát a a
+legutóbbi tavaly-őszi bullmket az olyan
+
+902
+00:19:37,070 --> 00:19:37,080
+legutóbbi tavaly-őszi bullmket az olyan
+ 
+
+903
+00:19:37,080 --> 00:19:38,549
+legutóbbi tavaly-őszi bullmket az olyan
+különleges hogy közben a dollár is
+
+904
+00:19:38,549 --> 00:19:38,559
+különleges hogy közben a dollár is
+ 
+
+905
+00:19:38,559 --> 00:19:41,750
+különleges hogy közben a dollár is
+erősödött meg a bitcoin is ment fölát ez
+
+906
+00:19:41,750 --> 00:19:41,760
+erősödött meg a bitcoin is ment fölát ez
+ 
+
+907
+00:19:41,760 --> 00:19:43,710
+erősödött meg a bitcoin is ment fölát ez
+egy olyan erős momentum volt a
+
+908
+00:19:43,710 --> 00:19:43,720
+egy olyan erős momentum volt a
+ 
+
+909
+00:19:43,720 --> 00:19:46,350
+egy olyan erős momentum volt a
+valószínűleg ez a trumpféle történet
+
+910
+00:19:46,350 --> 00:19:46,360
+valószínűleg ez a trumpféle történet
+ 
+
+911
+00:19:46,360 --> 00:19:48,149
+valószínűleg ez a trumpféle történet
+viszont az a jó hír hogy egy ideje a
+
+912
+00:19:48,149 --> 00:19:48,159
+viszont az a jó hír hogy egy ideje a
+ 
+
+913
+00:19:48,159 --> 00:19:51,110
+viszont az a jó hír hogy egy ideje a
+dollár az gyengül sőt ez most az utóbbi
+
+914
+00:19:51,110 --> 00:19:51,120
+dollár az gyengül sőt ez most az utóbbi
+ 
+
+915
+00:19:51,120 --> 00:19:53,070
+dollár az gyengül sőt ez most az utóbbi
+amióta trump uralkodik és megpróbálja
+
+916
+00:19:53,070 --> 00:19:53,080
+amióta trump uralkodik és megpróbálja
+ 
+
+917
+00:19:53,080 --> 00:19:54,950
+amióta trump uralkodik és megpróbálja
+naggyel tenni amerikát azóta
+
+918
+00:19:54,950 --> 00:19:54,960
+naggyel tenni amerikát azóta
+ 
+
+919
+00:19:54,960 --> 00:19:57,630
+naggyel tenni amerikát azóta
+szabadesésbe került a do nyerésbe vol
+
+920
+00:19:57,630 --> 00:19:57,640
+szabadesésbe került a do nyerésbe vol
+ 
+
+921
+00:19:57,640 --> 00:20:00,750
+szabadesésbe került a do nyerésbe vol
+dollár kettő ugyanaz tehát
+
+922
+00:20:00,750 --> 00:20:00,760
+dollár kettő ugyanaz tehát
+ 
+
+923
+00:20:00,760 --> 00:20:03,390
+dollár kettő ugyanaz tehát
+hogy tulajdonképpen lehet hogy még jó is
+
+924
+00:20:03,390 --> 00:20:03,400
+hogy tulajdonképpen lehet hogy még jó is
+ 
+
+925
+00:20:03,400 --> 00:20:06,230
+hogy tulajdonképpen lehet hogy még jó is
+az bizonyos szempontból valakinek de
+
+926
+00:20:06,230 --> 00:20:06,240
+az bizonyos szempontból valakinek de
+ 
+
+927
+00:20:06,240 --> 00:20:08,110
+az bizonyos szempontból valakinek de
+ennek én én azt gondolom az folytatódik
+
+928
+00:20:08,110 --> 00:20:08,120
+ennek én én azt gondolom az folytatódik
+ 
+
+929
+00:20:08,120 --> 00:20:11,710
+ennek én én azt gondolom az folytatódik
+meg lesz a hatása a bitcoinra is tehát
+
+930
+00:20:11,710 --> 00:20:11,720
+meg lesz a hatása a bitcoinra is tehát
+ 
+
+931
+00:20:11,720 --> 00:20:13,310
+meg lesz a hatása a bitcoinra is tehát
+egy kis k kis
+
+932
+00:20:13,310 --> 00:20:13,320
+egy kis k kis
+ 
+
+933
+00:20:13,320 --> 00:20:16,149
+egy kis k kis
+optimizmustum vi vigyünk bele kis
+
+934
+00:20:16,149 --> 00:20:16,159
+optimizmustum vi vigyünk bele kis
+ 
+
+935
+00:20:16,159 --> 00:20:19,310
+optimizmustum vi vigyünk bele kis
+hópiumot azt hát én úgy gondolom
+
+936
+00:20:19,310 --> 00:20:19,320
+hópiumot azt hát én úgy gondolom
+ 
+
+937
+00:20:19,320 --> 00:20:21,390
+hópiumot azt hát én úgy gondolom
+egyébként hogy nem csinál ezekkel rossz
+
+938
+00:20:21,390 --> 00:20:21,400
+egyébként hogy nem csinál ezekkel rossz
+ 
+
+939
+00:20:21,400 --> 00:20:23,590
+egyébként hogy nem csinál ezekkel rossz
+lépést nyilván a
+
+940
+00:20:23,590 --> 00:20:23,600
+lépést nyilván a
+ 
+
+941
+00:20:23,600 --> 00:20:27,630
+lépést nyilván a
+mögöttes dolgokat azt nem tudjuk
+
+942
+00:20:27,630 --> 00:20:27,640
+mögöttes dolgokat azt nem tudjuk
+ 
+
+943
+00:20:27,640 --> 00:20:29,870
+mögöttes dolgokat azt nem tudjuk
+szerintem de akkor most mondok olyat ami
+
+944
+00:20:29,870 --> 00:20:29,880
+szerintem de akkor most mondok olyat ami
+ 
+
+945
+00:20:29,880 --> 00:20:32,669
+szerintem de akkor most mondok olyat ami
+nem ennyire hópium lesz v vagy mutatok
+
+946
+00:20:32,669 --> 00:20:32,679
+nem ennyire hópium lesz v vagy mutatok
+ 
+
+947
+00:20:32,679 --> 00:20:36,470
+nem ennyire hópium lesz v vagy mutatok
+olyat ezek ilyen további makro mutatók
+
+948
+00:20:36,470 --> 00:20:36,480
+olyat ezek ilyen további makro mutatók
+ 
+
+949
+00:20:36,480 --> 00:20:39,870
+olyat ezek ilyen további makro mutatók
+az amerikai gazdaságból a legfölső ez az
+
+950
+00:20:39,870 --> 00:20:39,880
+az amerikai gazdaságból a legfölső ez az
+ 
+
+951
+00:20:39,880 --> 00:20:41,870
+az amerikai gazdaságból a legfölső ez az
+amerikai kamatszint dollár kamatszintet
+
+952
+00:20:41,870 --> 00:20:41,880
+amerikai kamatszint dollár kamatszintet
+ 
+
+953
+00:20:41,880 --> 00:20:43,510
+amerikai kamatszint dollár kamatszintet
+mutatja
+
+954
+00:20:43,510 --> 00:20:43,520
+mutatja
+ 
+
+955
+00:20:43,520 --> 00:20:46,950
+mutatja
+ezek kezdőidőpont 1978 óta tehát ez
+
+956
+00:20:46,950 --> 00:20:46,960
+ezek kezdőidőpont 1978 óta tehát ez
+ 
+
+957
+00:20:46,960 --> 00:20:50,270
+ezek kezdőidőpont 1978 óta tehát ez
+nagyon régóta és itt ezek a világos
+
+958
+00:20:50,270 --> 00:20:50,280
+nagyon régóta és itt ezek a világos
+ 
+
+959
+00:20:50,280 --> 00:20:52,909
+nagyon régóta és itt ezek a világos
+szürke oszlopok ezek azt az időszakot
+
+960
+00:20:52,909 --> 00:20:52,919
+szürke oszlopok ezek azt az időszakot
+ 
+
+961
+00:20:52,919 --> 00:20:54,789
+szürke oszlopok ezek azt az időszakot
+jelölik ki amikor recesszióban volt az
+
+962
+00:20:54,789 --> 00:20:54,799
+jelölik ki amikor recesszióban volt az
+ 
+
+963
+00:20:54,799 --> 00:20:58,270
+jelölik ki amikor recesszióban volt az
+amerikai gazdaság ez a legutóbbi széles
+
+964
+00:20:58,270 --> 00:20:58,280
+amerikai gazdaság ez a legutóbbi széles
+ 
+
+965
+00:20:58,280 --> 00:21:01,669
+amerikai gazdaság ez a legutóbbi széles
+ez it a 2008 arra talán mindenki
+
+966
+00:21:01,669 --> 00:21:01,679
+ez it a 2008 arra talán mindenki
+ 
+
+967
+00:21:01,679 --> 00:21:03,190
+ez it a 2008 arra talán mindenki
+emlékszik
+
+968
+00:21:03,190 --> 00:21:03,200
+emlékszik
+ 
+
+969
+00:21:03,200 --> 00:21:06,549
+emlékszik
+előtte volt a 200 2000-ben a 2001-ben a
+
+970
+00:21:06,549 --> 00:21:06,559
+előtte volt a 200 2000-ben a 2001-ben a
+ 
+
+971
+00:21:06,559 --> 00:21:10,149
+előtte volt a 200 2000-ben a 2001-ben a
+docom lufi a előtte levőkre már én nem
+
+972
+00:21:10,149 --> 00:21:10,159
+docom lufi a előtte levőkre már én nem
+ 
+
+973
+00:21:10,159 --> 00:21:11,789
+docom lufi a előtte levőkre már én nem
+emlékszem mert annyira nem vagyok r
+
+974
+00:21:11,789 --> 00:21:11,799
+emlékszem mert annyira nem vagyok r
+ 
+
+975
+00:21:11,799 --> 00:21:15,310
+emlékszem mert annyira nem vagyok r
+kicsik voltunk igen akkor még nem érnek
+
+976
+00:21:15,310 --> 00:21:15,320
+kicsik voltunk igen akkor még nem érnek
+ 
+
+977
+00:21:15,320 --> 00:21:16,950
+kicsik voltunk igen akkor még nem érnek
+illetve volt volt volt egy kicsike
+
+978
+00:21:16,950 --> 00:21:16,960
+illetve volt volt volt egy kicsike
+ 
+
+979
+00:21:16,960 --> 00:21:19,230
+illetve volt volt volt egy kicsike
+recesszió a covid-kor de azt ne nagyon
+
+980
+00:21:19,230 --> 00:21:19,240
+recesszió a covid-kor de azt ne nagyon
+ 
+
+981
+00:21:19,240 --> 00:21:20,789
+recesszió a covid-kor de azt ne nagyon
+számítsuk mert mer az ilyen
+
+982
+00:21:20,789 --> 00:21:20,799
+számítsuk mert mer az ilyen
+ 
+
+983
+00:21:20,799 --> 00:21:22,590
+számítsuk mert mer az ilyen
+mesterségesen csinált valami és nem is
+
+984
+00:21:22,590 --> 00:21:22,600
+mesterségesen csinált valami és nem is
+ 
+
+985
+00:21:22,600 --> 00:21:24,870
+mesterségesen csinált valami és nem is
+tartott sokáig na most az az érdekesség
+
+986
+00:21:24,870 --> 00:21:24,880
+tartott sokáig na most az az érdekesség
+ 
+
+987
+00:21:24,880 --> 00:21:26,669
+tartott sokáig na most az az érdekesség
+hogy ugye látszik hogy így az a sok
+
+988
+00:21:26,669 --> 00:21:26,679
+hogy ugye látszik hogy így az a sok
+ 
+
+989
+00:21:26,679 --> 00:21:28,590
+hogy ugye látszik hogy így az a sok
+évtizedes távlatból az amerikai
+
+990
+00:21:28,590 --> 00:21:28,600
+évtizedes távlatból az amerikai
+ 
+
+991
+00:21:28,600 --> 00:21:30,390
+évtizedes távlatból az amerikai
+kamatszint a vagy a dollár kamatszintje
+
+992
+00:21:30,390 --> 00:21:30,400
+kamatszint a vagy a dollár kamatszintje
+ 
+
+993
+00:21:30,400 --> 00:21:32,230
+kamatszint a vagy a dollár kamatszintje
+az folyamatosan csökkent csökkenő
+
+994
+00:21:32,230 --> 00:21:32,240
+az folyamatosan csökkent csökkenő
+ 
+
+995
+00:21:32,240 --> 00:21:33,669
+az folyamatosan csökkent csökkenő
+tendenciát
+
+996
+00:21:33,669 --> 00:21:33,679
+tendenciát
+ 
+
+997
+00:21:33,679 --> 00:21:37,430
+tendenciát
+mutatott és a hát a 2008-as válság után
+
+998
+00:21:37,430 --> 00:21:37,440
+mutatott és a hát a 2008-as válság után
+ 
+
+999
+00:21:37,440 --> 00:21:39,269
+mutatott és a hát a 2008-as válság után
+lement nullára gyakorlatilag nullára be
+
+1000
+00:21:39,269 --> 00:21:39,279
+lement nullára gyakorlatilag nullára be
+ 
+
+1001
+00:21:39,279 --> 00:21:41,390
+lement nullára gyakorlatilag nullára be
+kellett indítani mindent aha és ugye
+
+1002
+00:21:41,390 --> 00:21:41,400
+kellett indítani mindent aha és ugye
+ 
+
+1003
+00:21:41,400 --> 00:21:42,870
+kellett indítani mindent aha és ugye
+akkor indult a bitcoin is tehát a
+
+1004
+00:21:42,870 --> 00:21:42,880
+akkor indult a bitcoin is tehát a
+ 
+
+1005
+00:21:42,880 --> 00:21:45,750
+akkor indult a bitcoin is tehát a
+bitcoin életében nagyon sokáig ilen
+
+1006
+00:21:45,750 --> 00:21:45,760
+bitcoin életében nagyon sokáig ilen
+ 
+
+1007
+00:21:45,760 --> 00:21:48,870
+bitcoin életében nagyon sokáig ilen
+2018-ig gyakortilag nulla volt a kamat
+
+1008
+00:21:48,870 --> 00:21:48,880
+2018-ig gyakortilag nulla volt a kamat
+ 
+
+1009
+00:21:48,880 --> 00:21:51,710
+2018-ig gyakortilag nulla volt a kamat
+azóta próbál emelkedgetni ahogy elkezdik
+
+1010
+00:21:51,710 --> 00:21:51,720
+azóta próbál emelkedgetni ahogy elkezdik
+ 
+
+1011
+00:21:51,720 --> 00:21:54,590
+azóta próbál emelkedgetni ahogy elkezdik
+emelni a kamatot azonnal beütt valami
+
+1012
+00:21:54,590 --> 00:21:54,600
+emelni a kamatot azonnal beütt valami
+ 
+
+1013
+00:21:54,600 --> 00:21:57,789
+emelni a kamatot azonnal beütt valami
+válság meg meg bitcoin market meg minden
+
+1014
+00:21:57,789 --> 00:21:57,799
+válság meg meg bitcoin market meg minden
+ 
+
+1015
+00:21:57,799 --> 00:22:00,230
+válság meg meg bitcoin market meg minden
+még azt érdemes
+
+1016
+00:22:00,230 --> 00:22:00,240
+még azt érdemes
+ 
+
+1017
+00:22:00,240 --> 00:22:02,669
+még azt érdemes
+megfigyelni hogy mindig amikor amikor
+
+1018
+00:22:02,669 --> 00:22:02,679
+megfigyelni hogy mindig amikor amikor
+ 
+
+1019
+00:22:02,679 --> 00:22:05,430
+megfigyelni hogy mindig amikor amikor
+elkezdték csökkenteni a kamatokat
+
+1020
+00:22:05,430 --> 00:22:05,440
+elkezdték csökkenteni a kamatokat
+ 
+
+1021
+00:22:05,440 --> 00:22:06,990
+elkezdték csökkenteni a kamatokat
+illetve amikor válság volt akkor
+
+1022
+00:22:06,990 --> 00:22:07,000
+illetve amikor válság volt akkor
+ 
+
+1023
+00:22:07,000 --> 00:22:08,830
+illetve amikor válság volt akkor
+hirtelen lecsökkentették a kamatokat
+
+1024
+00:22:08,830 --> 00:22:08,840
+hirtelen lecsökkentették a kamatokat
+ 
+
+1025
+00:22:08,840 --> 00:22:12,430
+hirtelen lecsökkentették a kamatokat
+mondjuk így előtte meg fölemelték
+
+1026
+00:22:12,430 --> 00:22:12,440
+mondjuk így előtte meg fölemelték
+ 
+
+1027
+00:22:12,440 --> 00:22:13,909
+mondjuk így előtte meg fölemelték
+ugye ez még itt itt a covidnál is
+
+1028
+00:22:13,909 --> 00:22:13,919
+ugye ez még itt itt a covidnál is
+ 
+
+1029
+00:22:13,919 --> 00:22:15,430
+ugye ez még itt itt a covidnál is
+látszik hogy előtte kicsit emeltek a
+
+1030
+00:22:15,430 --> 00:22:15,440
+látszik hogy előtte kicsit emeltek a
+ 
+
+1031
+00:22:15,440 --> 00:22:16,870
+látszik hogy előtte kicsit emeltek a
+kamatokon ott azonnal
+
+1032
+00:22:16,870 --> 00:22:16,880
+kamatokon ott azonnal
+ 
+
+1033
+00:22:16,880 --> 00:22:18,909
+kamatokon ott azonnal
+visszacsökkentették és hát az utóbbi
+
+1034
+00:22:18,909 --> 00:22:18,919
+visszacsökkentették és hát az utóbbi
+ 
+
+1035
+00:22:18,919 --> 00:22:21,549
+visszacsökkentették és hát az utóbbi
+időben 2021-22 óta is emelték a
+
+1036
+00:22:21,549 --> 00:22:21,559
+időben 2021-22 óta is emelték a
+ 
+
+1037
+00:22:21,559 --> 00:22:24,390
+időben 2021-22 óta is emelték a
+kamatokat és most elkezdték csökkenteni
+
+1038
+00:22:24,390 --> 00:22:24,400
+kamatokat és most elkezdték csökkenteni
+ 
+
+1039
+00:22:24,400 --> 00:22:26,110
+kamatokat és most elkezdték csökkenteni
+és hogyha azt most valaki ilyen
+
+1040
+00:22:26,110 --> 00:22:26,120
+és hogyha azt most valaki ilyen
+ 
+
+1041
+00:22:26,120 --> 00:22:27,870
+és hogyha azt most valaki ilyen
+sormintának veszi akkor ide nagyon
+
+1042
+00:22:27,870 --> 00:22:27,880
+sormintának veszi akkor ide nagyon
+ 
+
+1043
+00:22:27,880 --> 00:22:30,310
+sormintának veszi akkor ide nagyon
+hiányzik egy egy ilyen reessziós igen
+
+1044
+00:22:30,310 --> 00:22:30,320
+hiányzik egy egy ilyen reessziós igen
+ 
+
+1045
+00:22:30,320 --> 00:22:32,029
+hiányzik egy egy ilyen reessziós igen
+pont akartam mondani hogy milyen jól
+
+1046
+00:22:32,029 --> 00:22:32,039
+pont akartam mondani hogy milyen jól
+ 
+
+1047
+00:22:32,039 --> 00:22:34,470
+pont akartam mondani hogy milyen jól
+ráigazodik j a közeli jövőben ide
+
+1048
+00:22:34,470 --> 00:22:34,480
+ráigazodik j a közeli jövőben ide
+ 
+
+1049
+00:22:34,480 --> 00:22:37,870
+ráigazodik j a közeli jövőben ide
+hiányzik egy ilyen világos szürke mint a
+
+1050
+00:22:37,870 --> 00:22:37,880
+hiányzik egy ilyen világos szürke mint a
+ 
+
+1051
+00:22:37,880 --> 00:22:41,230
+hiányzik egy ilyen világos szürke mint a
+az egy négy éves szakasz nem látom
+
+1052
+00:22:41,230 --> 00:22:41,240
+az egy négy éves szakasz nem látom
+ 
+
+1053
+00:22:41,240 --> 00:22:42,510
+az egy négy éves szakasz nem látom
+nagyon
+
+1054
+00:22:42,510 --> 00:22:42,520
+nagyon
+ 
+
+1055
+00:22:42,520 --> 00:22:47,149
+nagyon
+mármint melyik várjál nytól 20-ig azt ez
+
+1056
+00:22:47,149 --> 00:22:47,159
+mármint melyik várjál nytól 20-ig azt ez
+ 
+
+1057
+00:22:47,159 --> 00:22:50,110
+mármint melyik várjál nytól 20-ig azt ez
+ezek a 12 a vékony vonalkár ez ez ezek a
+
+1058
+00:22:50,110 --> 00:22:50,120
+ezek a 12 a vékony vonalkár ez ez ezek a
+ 
+
+1059
+00:22:50,120 --> 00:22:53,190
+ezek a 12 a vékony vonalkár ez ez ezek a
+bitcoin felezések igen azérok tehát
+
+1060
+00:22:53,190 --> 00:22:53,200
+bitcoin felezések igen azérok tehát
+ 
+
+1061
+00:22:53,200 --> 00:22:55,310
+bitcoin felezések igen azérok tehát
+azért van belőle négy te azok nem
+
+1062
+00:22:55,310 --> 00:22:55,320
+azért van belőle négy te azok nem
+ 
+
+1063
+00:22:55,320 --> 00:22:57,510
+azért van belőle négy te azok nem
+recessziók azok a bitcoin halving tehát
+
+1064
+00:22:57,510 --> 00:22:57,520
+recessziók azok a bitcoin halving tehát
+ 
+
+1065
+00:22:57,520 --> 00:23:00,230
+recessziók azok a bitcoin halving tehát
+a bitcoin ezen szakaszon létezett
+
+1066
+00:23:00,230 --> 00:23:00,240
+a bitcoin ezen szakaszon létezett
+ 
+
+1067
+00:23:00,240 --> 00:23:01,830
+a bitcoin ezen szakaszon létezett
+mondhatjuk azt is el amt a bitcoin
+
+1068
+00:23:01,830 --> 00:23:01,840
+mondhatjuk azt is el amt a bitcoin
+ 
+
+1069
+00:23:01,840 --> 00:23:03,510
+mondhatjuk azt is el amt a bitcoin
+létezik nem nagyon tudnak kamatot emelni
+
+1070
+00:23:03,510 --> 00:23:03,520
+létezik nem nagyon tudnak kamatot emelni
+ 
+
+1071
+00:23:03,520 --> 00:23:06,870
+létezik nem nagyon tudnak kamatot emelni
+vagy vagy ez lehet hegy hülyeség na
+
+1072
+00:23:06,870 --> 00:23:06,880
+vagy vagy ez lehet hegy hülyeség na
+ 
+
+1073
+00:23:06,880 --> 00:23:09,710
+vagy vagy ez lehet hegy hülyeség na
+nézzük a következő grafikont ez a yield
+
+1074
+00:23:09,710 --> 00:23:09,720
+nézzük a következő grafikont ez a yield
+ 
+
+1075
+00:23:09,720 --> 00:23:13,630
+nézzük a következő grafikont ez a yield
+curve nevű ez a a hozamgörbe hozamgörbe
+
+1076
+00:23:13,630 --> 00:23:13,640
+curve nevű ez a a hozamgörbe hozamgörbe
+ 
+
+1077
+00:23:13,640 --> 00:23:15,909
+curve nevű ez a a hozamgörbe hozamgörbe
+inverziót mutatja ami ugye azt az
+
+1078
+00:23:15,909 --> 00:23:15,919
+inverziót mutatja ami ugye azt az
+ 
+
+1079
+00:23:15,919 --> 00:23:19,789
+inverziót mutatja ami ugye azt az
+anomáliát jelenti hogy a a 10 éves és a
+
+1080
+00:23:19,789 --> 00:23:19,799
+anomáliát jelenti hogy a a 10 éves és a
+ 
+
+1081
+00:23:19,799 --> 00:23:22,470
+anomáliát jelenti hogy a a 10 éves és a
+két éves amerikai államkötvények kamata
+
+1082
+00:23:22,470 --> 00:23:22,480
+két éves amerikai államkötvények kamata
+ 
+
+1083
+00:23:22,480 --> 00:23:24,870
+két éves amerikai államkötvények kamata
+közti különbséget mutatja ami ugye
+
+1084
+00:23:24,870 --> 00:23:24,880
+közti különbséget mutatja ami ugye
+ 
+
+1085
+00:23:24,880 --> 00:23:26,430
+közti különbséget mutatja ami ugye
+normál esetben úgy néz ki hogy a 10
+
+1086
+00:23:26,430 --> 00:23:26,440
+normál esetben úgy néz ki hogy a 10
+ 
+
+1087
+00:23:26,440 --> 00:23:30,230
+normál esetben úgy néz ki hogy a 10
+évesé magasabb mint a a két éves éz 10
+
+1088
+00:23:30,230 --> 00:23:30,240
+évesé magasabb mint a a két éves éz 10
+ 
+
+1089
+00:23:30,240 --> 00:23:32,269
+évesé magasabb mint a a két éves éz 10
+évre magasabb kamattal adok kölcsön
+
+1090
+00:23:32,269 --> 00:23:32,279
+évre magasabb kamattal adok kölcsön
+ 
+
+1091
+00:23:32,279 --> 00:23:35,110
+évre magasabb kamattal adok kölcsön
+valakinek még akkor is ha az az amerikai
+
+1092
+00:23:35,110 --> 00:23:35,120
+valakinek még akkor is ha az az amerikai
+ 
+
+1093
+00:23:35,120 --> 00:23:37,990
+valakinek még akkor is ha az az amerikai
+állam vagy akkor pláne
+
+1094
+00:23:37,990 --> 00:23:38,000
+állam vagy akkor pláne
+ 
+
+1095
+00:23:38,000 --> 00:23:39,750
+állam vagy akkor pláne
+ugy akkor nagyobb a kockázat tehát
+
+1096
+00:23:39,750 --> 00:23:39,760
+ugy akkor nagyobb a kockázat tehát
+ 
+
+1097
+00:23:39,760 --> 00:23:41,909
+ugy akkor nagyobb a kockázat tehát
+amikor a zö zöldben vagyunk a zöld
+
+1098
+00:23:41,909 --> 00:23:41,919
+amikor a zö zöldben vagyunk a zöld
+ 
+
+1099
+00:23:41,919 --> 00:23:43,990
+amikor a zö zöldben vagyunk a zöld
+időszakokban akkor ez ez ez a normális
+
+1100
+00:23:43,990 --> 00:23:44,000
+időszakokban akkor ez ez ez a normális
+ 
+
+1101
+00:23:44,000 --> 00:23:47,549
+időszakokban akkor ez ez ez a normális
+eset volt akkor az igaz igaz és de néha
+
+1102
+00:23:47,549 --> 00:23:47,559
+eset volt akkor az igaz igaz és de néha
+ 
+
+1103
+00:23:47,559 --> 00:23:50,230
+eset volt akkor az igaz igaz és de néha
+előfordul az hogy megfordul tehát a a
+
+1104
+00:23:50,230 --> 00:23:50,240
+előfordul az hogy megfordul tehát a a
+ 
+
+1105
+00:23:50,240 --> 00:23:54,430
+előfordul az hogy megfordul tehát a a
+két éves kamata a nagyobb mert mert
+
+1106
+00:23:54,430 --> 00:23:54,440
+két éves kamata a nagyobb mert mert
+ 
+
+1107
+00:23:54,440 --> 00:23:57,470
+két éves kamata a nagyobb mert mert
+akkor rövidtvon valami nagy problémát
+
+1108
+00:23:57,470 --> 00:23:57,480
+akkor rövidtvon valami nagy problémát
+ 
+
+1109
+00:23:57,480 --> 00:24:00,390
+akkor rövidtvon valami nagy problémát
+érzékelnek a köt énybefektetők és hát
+
+1110
+00:24:00,390 --> 00:24:00,400
+érzékelnek a köt énybefektetők és hát
+ 
+
+1111
+00:24:00,400 --> 00:24:02,029
+érzékelnek a köt énybefektetők és hát
+csodák csodája amikor ilyen történt
+
+1112
+00:24:02,029 --> 00:24:02,039
+csodák csodája amikor ilyen történt
+ 
+
+1113
+00:24:02,039 --> 00:24:04,470
+csodák csodája amikor ilyen történt
+akkor utána mindig jött egy recesszió de
+
+1114
+00:24:04,470 --> 00:24:04,480
+akkor utána mindig jött egy recesszió de
+ 
+
+1115
+00:24:04,480 --> 00:24:05,950
+akkor utána mindig jött egy recesszió de
+de már akkor jött a reesszió amikor
+
+1116
+00:24:05,950 --> 00:24:05,960
+de már akkor jött a reesszió amikor
+ 
+
+1117
+00:24:05,960 --> 00:24:08,390
+de már akkor jött a reesszió amikor
+visszamentünk a zöldbe ez azért látszik
+
+1118
+00:24:08,390 --> 00:24:08,400
+visszamentünk a zöldbe ez azért látszik
+ 
+
+1119
+00:24:08,400 --> 00:24:10,110
+visszamentünk a zöldbe ez azért látszik
+a múltban nagyon szépen kirajzolódik
+
+1120
+00:24:10,110 --> 00:24:10,120
+a múltban nagyon szépen kirajzolódik
+ 
+
+1121
+00:24:10,120 --> 00:24:12,789
+a múltban nagyon szépen kirajzolódik
+ezen az ábrán is tehát itt megint az az
+
+1122
+00:24:12,789 --> 00:24:12,799
+ezen az ábrán is tehát itt megint az az
+ 
+
+1123
+00:24:12,799 --> 00:24:14,630
+ezen az ábrán is tehát itt megint az az
+látszik hogy itt itt egy itt egy nagy
+
+1124
+00:24:14,630 --> 00:24:14,640
+látszik hogy itt itt egy itt egy nagy
+ 
+
+1125
+00:24:14,640 --> 00:24:16,710
+látszik hogy itt itt egy itt egy nagy
+recessziónak kéne következnie ezen az
+
+1126
+00:24:16,710 --> 00:24:16,720
+recessziónak kéne következnie ezen az
+ 
+
+1127
+00:24:16,720 --> 00:24:19,510
+recessziónak kéne következnie ezen az
+ábrán a közeli jövőben a következő
+
+1128
+00:24:19,510 --> 00:24:19,520
+ábrán a közeli jövőben a következő
+ 
+
+1129
+00:24:19,520 --> 00:24:21,710
+ábrán a közeli jövőben a következő
+valószínű meg is fogják csinálni
+
+1130
+00:24:21,710 --> 00:24:21,720
+valószínű meg is fogják csinálni
+ 
+
+1131
+00:24:21,720 --> 00:24:24,190
+valószínű meg is fogják csinálni
+nem hát
+
+1132
+00:24:24,190 --> 00:24:24,200
+nem hát
+ 
+
+1133
+00:24:24,200 --> 00:24:26,630
+nem hát
+ó trump erősen dolgozik rajta az utóbbi
+
+1134
+00:24:26,630 --> 00:24:26,640
+ó trump erősen dolgozik rajta az utóbbi
+ 
+
+1135
+00:24:26,640 --> 00:24:29,750
+ó trump erősen dolgozik rajta az utóbbi
+hetekben amióta elnök de hát ez se egy
+
+1136
+00:24:29,750 --> 00:24:29,760
+hetekben amióta elnök de hát ez se egy
+ 
+
+1137
+00:24:29,760 --> 00:24:31,549
+hetekben amióta elnök de hát ez se egy
+tudományos dolog ez ilyen egy ilyen
+
+1138
+00:24:31,549 --> 00:24:31,559
+tudományos dolog ez ilyen egy ilyen
+ 
+
+1139
+00:24:31,559 --> 00:24:33,190
+tudományos dolog ez ilyen egy ilyen
+megfigyeléses
+
+1140
+00:24:33,190 --> 00:24:33,200
+megfigyeléses
+ 
+
+1141
+00:24:33,200 --> 00:24:35,310
+megfigyeléses
+korreláció annyira tudományos alapja
+
+1142
+00:24:35,310 --> 00:24:35,320
+korreláció annyira tudományos alapja
+ 
+
+1143
+00:24:35,320 --> 00:24:37,190
+korreláció annyira tudományos alapja
+nincs hogy most miért de vagy lehet hogy
+
+1144
+00:24:37,190 --> 00:24:37,200
+nincs hogy most miért de vagy lehet hogy
+ 
+
+1145
+00:24:37,200 --> 00:24:40,510
+nincs hogy most miért de vagy lehet hogy
+van de akkor én azt nem tudom de nagyon
+
+1146
+00:24:40,510 --> 00:24:40,520
+van de akkor én azt nem tudom de nagyon
+ 
+
+1147
+00:24:40,520 --> 00:24:44,990
+van de akkor én azt nem tudom de nagyon
+így történt ez az utóbbi 50 évben mindig
+
+1148
+00:24:44,990 --> 00:24:45,000
+így történt ez az utóbbi 50 évben mindig
+ 
+
+1149
+00:24:45,000 --> 00:24:47,430
+így történt ez az utóbbi 50 évben mindig
+és a legalsó ábra az pedig az amerikai
+
+1150
+00:24:47,430 --> 00:24:47,440
+és a legalsó ábra az pedig az amerikai
+ 
+
+1151
+00:24:47,440 --> 00:24:50,430
+és a legalsó ábra az pedig az amerikai
+munkanélküliséget mutatja ami szintén
+
+1152
+00:24:50,430 --> 00:24:50,440
+munkanélküliséget mutatja ami szintén
+ 
+
+1153
+00:24:50,440 --> 00:24:51,950
+munkanélküliséget mutatja ami szintén
+elég jól
+
+1154
+00:24:51,950 --> 00:24:51,960
+elég jól
+ 
+
+1155
+00:24:51,960 --> 00:24:54,029
+elég jól
+összefügg a ugye nyilván a recessziókkal
+
+1156
+00:24:54,029 --> 00:24:54,039
+összefügg a ugye nyilván a recessziókkal
+ 
+
+1157
+00:24:54,039 --> 00:24:56,669
+összefügg a ugye nyilván a recessziókkal
+mindig amikor reesszió volt akkor előtte
+
+1158
+00:24:56,669 --> 00:24:56,679
+mindig amikor reesszió volt akkor előtte
+ 
+
+1159
+00:24:56,679 --> 00:24:59,230
+mindig amikor reesszió volt akkor előtte
+jól lement a munkanélküliség és amikor
+
+1160
+00:24:59,230 --> 00:24:59,240
+jól lement a munkanélküliség és amikor
+ 
+
+1161
+00:24:59,240 --> 00:25:01,909
+jól lement a munkanélküliség és amikor
+rec jó volt akkor hirtelen fölugrott hát
+
+1162
+00:25:01,909 --> 00:25:01,919
+rec jó volt akkor hirtelen fölugrott hát
+ 
+
+1163
+00:25:01,919 --> 00:25:03,750
+rec jó volt akkor hirtelen fölugrott hát
+a covidkor látszott a legjobban amikor
+
+1164
+00:25:03,750 --> 00:25:03,760
+a covidkor látszott a legjobban amikor
+ 
+
+1165
+00:25:03,760 --> 00:25:06,870
+a covidkor látszott a legjobban amikor
+minden munkahelyet bezártak hatalmas
+
+1166
+00:25:06,870 --> 00:25:06,880
+minden munkahelyet bezártak hatalmas
+ 
+
+1167
+00:25:06,880 --> 00:25:08,950
+minden munkahelyet bezártak hatalmas
+munkanélküliség lett aztán lement most
+
+1168
+00:25:08,950 --> 00:25:08,960
+munkanélküliség lett aztán lement most
+ 
+
+1169
+00:25:08,960 --> 00:25:11,669
+munkanélküliség lett aztán lement most
+az utóbbi időben lement és elkezdett egy
+
+1170
+00:25:11,669 --> 00:25:11,679
+az utóbbi időben lement és elkezdett egy
+ 
+
+1171
+00:25:11,679 --> 00:25:14,029
+az utóbbi időben lement és elkezdett egy
+kicsit növekedni elpróbálták milyen lesz
+
+1172
+00:25:14,029 --> 00:25:14,039
+kicsit növekedni elpróbálták milyen lesz
+ 
+
+1173
+00:25:14,039 --> 00:25:18,350
+kicsit növekedni elpróbálták milyen lesz
+a következő nem igen úgyhogy ez ez az
+
+1174
+00:25:18,350 --> 00:25:18,360
+a következő nem igen úgyhogy ez ez az
+ 
+
+1175
+00:25:18,360 --> 00:25:20,590
+a következő nem igen úgyhogy ez ez az
+ábra é mind mind a három ábra itt egy
+
+1176
+00:25:20,590 --> 00:25:20,600
+ábra é mind mind a három ábra itt egy
+ 
+
+1177
+00:25:20,600 --> 00:25:24,990
+ábra é mind mind a három ábra itt egy
+recesszióért kiállt üü na most azt a a a
+
+1178
+00:25:24,990 --> 00:25:25,000
+recesszióért kiállt üü na most azt a a a
+ 
+
+1179
+00:25:25,000 --> 00:25:27,990
+recesszióért kiállt üü na most azt a a a
+bitcoin egy ilyen recessziót élt át
+
+1180
+00:25:27,990 --> 00:25:28,000
+bitcoin egy ilyen recessziót élt át
+ 
+
+1181
+00:25:28,000 --> 00:25:30,590
+bitcoin egy ilyen recessziót élt át
+eddig igaz a covid válság volt 2020-ban
+
+1182
+00:25:30,590 --> 00:25:30,600
+eddig igaz a covid válság volt 2020-ban
+ 
+
+1183
+00:25:30,600 --> 00:25:34,389
+eddig igaz a covid válság volt 2020-ban
+amikor lezuhantunk 3000 500 doárra 3 aha
+
+1184
+00:25:34,389 --> 00:25:34,399
+amikor lezuhantunk 3000 500 doárra 3 aha
+ 
+
+1185
+00:25:34,399 --> 00:25:36,950
+amikor lezuhantunk 3000 500 doárra 3 aha
+ja hirtelen egy éjszaka alatt nem tudom
+
+1186
+00:25:36,950 --> 00:25:36,960
+ja hirtelen egy éjszaka alatt nem tudom
+ 
+
+1187
+00:25:36,960 --> 00:25:39,510
+ja hirtelen egy éjszaka alatt nem tudom
+honnan 6000-ről vagy valami ilyesmi
+
+1188
+00:25:39,510 --> 00:25:39,520
+honnan 6000-ről vagy valami ilyesmi
+ 
+
+1189
+00:25:39,520 --> 00:25:43,950
+honnan 6000-ről vagy valami ilyesmi
+persze a bitcoin az hát s van aki
+
+1190
+00:25:43,950 --> 00:25:43,960
+persze a bitcoin az hát s van aki
+ 
+
+1191
+00:25:43,960 --> 00:25:45,909
+persze a bitcoin az hát s van aki
+szerint menekülőeszköz van aki szerint
+
+1192
+00:25:45,909 --> 00:25:45,919
+szerint menekülőeszköz van aki szerint
+ 
+
+1193
+00:25:45,919 --> 00:25:48,630
+szerint menekülőeszköz van aki szerint
+nem van aki szerint ez ez a
+
+1194
+00:25:48,630 --> 00:25:48,640
+nem van aki szerint ez ez a
+ 
+
+1195
+00:25:48,640 --> 00:25:50,909
+nem van aki szerint ez ez a
+legkockázatosabb eszköz ugye ezek a
+
+1196
+00:25:50,909 --> 00:25:50,919
+legkockázatosabb eszköz ugye ezek a
+ 
+
+1197
+00:25:50,919 --> 00:25:52,909
+legkockázatosabb eszköz ugye ezek a
+shorttime hlerek akikről az előbb
+
+1198
+00:25:52,909 --> 00:25:52,919
+shorttime hlerek akikről az előbb
+ 
+
+1199
+00:25:52,919 --> 00:25:55,870
+shorttime hlerek akikről az előbb
+beszéltünk ha ők pánikszerűen eladnak
+
+1200
+00:25:55,870 --> 00:25:55,880
+beszéltünk ha ők pánikszerűen eladnak
+ 
+
+1201
+00:25:55,880 --> 00:25:59,149
+beszéltünk ha ők pánikszerűen eladnak
+akkor hiába 21 millió meg hiába igen
+
+1202
+00:25:59,149 --> 00:25:59,159
+akkor hiába 21 millió meg hiába igen
+ 
+
+1203
+00:25:59,159 --> 00:26:01,950
+akkor hiába 21 millió meg hiába igen
+csak ugye az ő kezükben egyre kevesebb
+
+1204
+00:26:01,950 --> 00:26:01,960
+csak ugye az ő kezükben egyre kevesebb
+ 
+
+1205
+00:26:01,960 --> 00:26:05,870
+csak ugye az ő kezükben egyre kevesebb
+van mert mivel eladogatják folyamatosan
+
+1206
+00:26:05,870 --> 00:26:05,880
+van mert mivel eladogatják folyamatosan
+ 
+
+1207
+00:26:05,880 --> 00:26:08,510
+van mert mivel eladogatják folyamatosan
+hát de veszik is hát jó de mindig
+
+1208
+00:26:08,510 --> 00:26:08,520
+hát de veszik is hát jó de mindig
+ 
+
+1209
+00:26:08,520 --> 00:26:09,510
+hát de veszik is hát jó de mindig
+szerintem
+
+1210
+00:26:09,510 --> 00:26:09,520
+szerintem
+ 
+
+1211
+00:26:09,520 --> 00:26:13,029
+szerintem
+kisebb arányba kerül hozzájuk az lehet
+
+1212
+00:26:13,029 --> 00:26:13,039
+kisebb arányba kerül hozzájuk az lehet
+ 
+
+1213
+00:26:13,039 --> 00:26:14,549
+kisebb arányba kerül hozzájuk az lehet
+egy egyébként van vannak erről is
+
+1214
+00:26:14,549 --> 00:26:14,559
+egy egyébként van vannak erről is
+ 
+
+1215
+00:26:14,559 --> 00:26:16,110
+egy egyébként van vannak erről is
+grafikonok akkor ha már ha már így
+
+1216
+00:26:16,110 --> 00:26:16,120
+grafikonok akkor ha már ha már így
+ 
+
+1217
+00:26:16,120 --> 00:26:18,190
+grafikonok akkor ha már ha már így
+említetted adt é nézhetünk hogy nézzünk
+
+1218
+00:26:18,190 --> 00:26:18,200
+említetted adt é nézhetünk hogy nézzünk
+ 
+
+1219
+00:26:18,200 --> 00:26:21,110
+említetted adt é nézhetünk hogy nézzünk
+egy olyat mennyi mekkora része van a
+
+1220
+00:26:21,110 --> 00:26:21,120
+egy olyat mennyi mekkora része van a
+ 
+
+1221
+00:26:21,120 --> 00:26:24,549
+egy olyat mennyi mekkora része van a
+bitcoinnak ezeknél a rövidtávú
+
+1222
+00:26:24,549 --> 00:26:24,559
+bitcoinnak ezeknél a rövidtávú
+ 
+
+1223
+00:26:24,559 --> 00:26:27,269
+bitcoinnak ezeknél a rövidtávú
+spekulánsoknál csak ezen az ábrán ezt is
+
+1224
+00:26:27,269 --> 00:26:27,279
+spekulánsoknál csak ezen az ábrán ezt is
+ 
+
+1225
+00:26:27,279 --> 00:26:29,110
+spekulánsoknál csak ezen az ábrán ezt is
+szoktam nézegetni csak
+
+1226
+00:26:29,110 --> 00:26:29,120
+szoktam nézegetni csak
+ 
+
+1227
+00:26:29,120 --> 00:26:30,669
+szoktam nézegetni csak
+ebből sok következtetést nem lehet
+
+1228
+00:26:30,669 --> 00:26:30,679
+ebből sok következtetést nem lehet
+ 
+
+1229
+00:26:30,679 --> 00:26:32,350
+ebből sok következtetést nem lehet
+levonni mert az ilyen elég össze-evissza
+
+1230
+00:26:32,350 --> 00:26:32,360
+levonni mert az ilyen elég össze-evissza
+ 
+
+1231
+00:26:32,360 --> 00:26:34,389
+levonni mert az ilyen elég össze-evissza
+megy de az látszik hogy a a
+
+1232
+00:26:34,389 --> 00:26:34,399
+megy de az látszik hogy a a
+ 
+
+1233
+00:26:34,399 --> 00:26:37,350
+megy de az látszik hogy a a
+bullmarketekben az múltban
+
+1234
+00:26:37,350 --> 00:26:37,360
+bullmarketekben az múltban
+ 
+
+1235
+00:26:37,360 --> 00:26:40,470
+bullmarketekben az múltban
+általában nagyon sok bitcoin volt
+
+1236
+00:26:40,470 --> 00:26:40,480
+általában nagyon sok bitcoin volt
+ 
+
+1237
+00:26:40,480 --> 00:26:44,750
+általában nagyon sok bitcoin volt
+ezeknél a a a spekulánsoknál és utána
+
+1238
+00:26:44,750 --> 00:26:44,760
+ezeknél a a a spekulánsoknál és utána
+ 
+
+1239
+00:26:44,760 --> 00:26:47,990
+ezeknél a a a spekulánsoknál és utána
+amikor vége amikor elmúlt a a csúcs akor
+
+1240
+00:26:47,990 --> 00:26:48,000
+amikor vége amikor elmúlt a a csúcs akor
+ 
+
+1241
+00:26:48,000 --> 00:26:50,389
+amikor vége amikor elmúlt a a csúcs akor
+jött a bermarket akkor hirtelen lezuhant
+
+1242
+00:26:50,389 --> 00:26:50,399
+jött a bermarket akkor hirtelen lezuhant
+ 
+
+1243
+00:26:50,399 --> 00:26:54,710
+jött a bermarket akkor hirtelen lezuhant
+ühü na most itt éppen éppen elkezdett
+
+1244
+00:26:54,710 --> 00:26:54,720
+ühü na most itt éppen éppen elkezdett
+ 
+
+1245
+00:26:54,720 --> 00:26:57,470
+ühü na most itt éppen éppen elkezdett
+zuhanni most de nem túl magasról tehát
+
+1246
+00:26:57,470 --> 00:26:57,480
+zuhanni most de nem túl magasról tehát
+ 
+
+1247
+00:26:57,480 --> 00:27:00,510
+zuhanni most de nem túl magasról tehát
+hogy ez most mit jelent ez ebből én nem
+
+1248
+00:27:00,510 --> 00:27:00,520
+hogy ez most mit jelent ez ebből én nem
+ 
+
+1249
+00:27:00,520 --> 00:27:02,710
+hogy ez most mit jelent ez ebből én nem
+vonnék le következtetés igen ezek hát
+
+1250
+00:27:02,710 --> 00:27:02,720
+vonnék le következtetés igen ezek hát
+ 
+
+1251
+00:27:02,720 --> 00:27:04,990
+vonnék le következtetés igen ezek hát
+utólag sokkal egyszerűbb igen utólag már
+
+1252
+00:27:04,990 --> 00:27:05,000
+utólag sokkal egyszerűbb igen utólag már
+ 
+
+1253
+00:27:05,000 --> 00:27:08,070
+utólag sokkal egyszerűbb igen utólag már
+már könnyű de de sajnos ez az elő ez a
+
+1254
+00:27:08,070 --> 00:27:08,080
+már könnyű de de sajnos ez az elő ez a
+ 
+
+1255
+00:27:08,080 --> 00:27:09,830
+már könnyű de de sajnos ez az elő ez a
+jövőre vonatkozó jóslásra nem igazán
+
+1256
+00:27:09,830 --> 00:27:09,840
+jövőre vonatkozó jóslásra nem igazán
+ 
+
+1257
+00:27:09,840 --> 00:27:12,830
+jövőre vonatkozó jóslásra nem igazán
+alkal nem akarunk jósolni ja de de ha
+
+1258
+00:27:12,830 --> 00:27:12,840
+alkal nem akarunk jósolni ja de de ha
+ 
+
+1259
+00:27:12,840 --> 00:27:14,470
+alkal nem akarunk jósolni ja de de ha
+már itt vagyunk akkor van még egy még
+
+1260
+00:27:14,470 --> 00:27:14,480
+már itt vagyunk akkor van még egy még
+ 
+
+1261
+00:27:14,480 --> 00:27:16,310
+már itt vagyunk akkor van még egy még
+egy kedvenc grafikonom ezt ebből talán
+
+1262
+00:27:16,310 --> 00:27:16,320
+egy kedvenc grafikonom ezt ebből talán
+ 
+
+1263
+00:27:16,320 --> 00:27:19,750
+egy kedvenc grafikonom ezt ebből talán
+kicsit többet lehet látni ez pedig a
+
+1264
+00:27:19,750 --> 00:27:19,760
+kicsit többet lehet látni ez pedig a
+ 
+
+1265
+00:27:19,760 --> 00:27:23,230
+kicsit többet lehet látni ez pedig a
+az available supply ez az elérhető
+
+1266
+00:27:23,230 --> 00:27:23,240
+az available supply ez az elérhető
+ 
+
+1267
+00:27:23,240 --> 00:27:27,310
+az available supply ez az elérhető
+kínálat a piacon ez ebből le ez
+
+1268
+00:27:27,310 --> 00:27:27,320
+kínálat a piacon ez ebből le ez
+ 
+
+1269
+00:27:27,320 --> 00:27:29,909
+kínálat a piacon ez ebből le ez
+körülbelül most 5 millió bitcoin körül
+
+1270
+00:27:29,909 --> 00:27:29,919
+körülbelül most 5 millió bitcoin körül
+ 
+
+1271
+00:27:29,919 --> 00:27:31,510
+körülbelül most 5 millió bitcoin körül
+van tehát ez az amit úgy meg lehet venni
+
+1272
+00:27:31,510 --> 00:27:31,520
+van tehát ez az amit úgy meg lehet venni
+ 
+
+1273
+00:27:31,520 --> 00:27:35,230
+van tehát ez az amit úgy meg lehet venni
+a tőzsdékel vagy ami ezeknél a rövidtávú
+
+1274
+00:27:35,230 --> 00:27:35,240
+a tőzsdékel vagy ami ezeknél a rövidtávú
+ 
+
+1275
+00:27:35,240 --> 00:27:38,909
+a tőzsdékel vagy ami ezeknél a rövidtávú
+hvk sokat hoz ezzen inkább azt kell
+
+1276
+00:27:38,909 --> 00:27:38,919
+hvk sokat hoz ezzen inkább azt kell
+ 
+
+1277
+00:27:38,919 --> 00:27:42,029
+hvk sokat hoz ezzen inkább azt kell
+látni hogy ez nagyon sokáig tehát
+
+1278
+00:27:42,029 --> 00:27:42,039
+látni hogy ez nagyon sokáig tehát
+ 
+
+1279
+00:27:42,039 --> 00:27:45,470
+látni hogy ez nagyon sokáig tehát
+2000 21-22ig ugye folyamatosan nőtt a
+
+1280
+00:27:45,470 --> 00:27:45,480
+2000 21-22ig ugye folyamatosan nőtt a
+ 
+
+1281
+00:27:45,480 --> 00:27:49,509
+2000 21-22ig ugye folyamatosan nőtt a
+bányászat miatt de miután azóta miután
+
+1282
+00:27:49,509 --> 00:27:49,519
+bányászat miatt de miután azóta miután
+ 
+
+1283
+00:27:49,519 --> 00:27:51,909
+bányászat miatt de miután azóta miután
+közben volt három vagy négy felezés most
+
+1284
+00:27:51,909 --> 00:27:51,919
+közben volt három vagy négy felezés most
+ 
+
+1285
+00:27:51,919 --> 00:27:54,110
+közben volt három vagy négy felezés most
+már nagyon keveset bányásznak a
+
+1286
+00:27:54,110 --> 00:27:54,120
+már nagyon keveset bányásznak a
+ 
+
+1287
+00:27:54,120 --> 00:27:56,149
+már nagyon keveset bányásznak a
+nagyrésze a bitcoinoknak már ki van
+
+1288
+00:27:56,149 --> 00:27:56,159
+nagyrésze a bitcoinoknak már ki van
+ 
+
+1289
+00:27:56,159 --> 00:27:58,630
+nagyrésze a bitcoinoknak már ki van
+bányászva és elég sok a leraki
+
+1290
+00:27:58,630 --> 00:27:58,640
+bányászva és elég sok a leraki
+ 
+
+1291
+00:27:58,640 --> 00:28:01,149
+bányászva és elég sok a leraki
+gyűjtögeti és nem akarja eladni ezért az
+
+1292
+00:28:01,149 --> 00:28:01,159
+gyűjtögeti és nem akarja eladni ezért az
+ 
+
+1293
+00:28:01,159 --> 00:28:04,149
+gyűjtögeti és nem akarja eladni ezért az
+utóbbi felezés óta ez mintha ilyen
+
+1294
+00:28:04,149 --> 00:28:04,159
+utóbbi felezés óta ez mintha ilyen
+ 
+
+1295
+00:28:04,159 --> 00:28:07,630
+utóbbi felezés óta ez mintha ilyen
+csökkenő trendbe került volna ühüm az
+
+1296
+00:28:07,630 --> 00:28:07,640
+csökkenő trendbe került volna ühüm az
+ 
+
+1297
+00:28:07,640 --> 00:28:09,509
+csökkenő trendbe került volna ühüm az
+előző két felezés között olyan olyan
+
+1298
+00:28:09,509 --> 00:28:09,519
+előző két felezés között olyan olyan
+ 
+
+1299
+00:28:09,519 --> 00:28:12,110
+előző két felezés között olyan olyan
+stagnált most meg már mintha csökkenne
+
+1300
+00:28:12,110 --> 00:28:12,120
+stagnált most meg már mintha csökkenne
+ 
+
+1301
+00:28:12,120 --> 00:28:14,909
+stagnált most meg már mintha csökkenne
+és hát ez ez viszont egy pozitív dolog
+
+1302
+00:28:14,909 --> 00:28:14,919
+és hát ez ez viszont egy pozitív dolog
+ 
+
+1303
+00:28:14,919 --> 00:28:16,630
+és hát ez ez viszont egy pozitív dolog
+hogyha csökken a kínálat egy piacon
+
+1304
+00:28:16,630 --> 00:28:16,640
+hogyha csökken a kínálat egy piacon
+ 
+
+1305
+00:28:16,640 --> 00:28:18,950
+hogyha csökken a kínálat egy piacon
+akkor előbb-utóbb az ár növekedni fog
+
+1306
+00:28:18,950 --> 00:28:18,960
+akkor előbb-utóbb az ár növekedni fog
+ 
+
+1307
+00:28:18,960 --> 00:28:21,190
+akkor előbb-utóbb az ár növekedni fog
+merthogy egyébként meg a dollár kínálata
+
+1308
+00:28:21,190 --> 00:28:21,200
+merthogy egyébként meg a dollár kínálata
+ 
+
+1309
+00:28:21,200 --> 00:28:23,710
+merthogy egyébként meg a dollár kínálata
+nem fog csökkenni abban biztosak
+
+1310
+00:28:23,710 --> 00:28:23,720
+nem fog csökkenni abban biztosak
+ 
+
+1311
+00:28:23,720 --> 00:28:26,509
+nem fog csökkenni abban biztosak
+lehetünk igen valószínűleg most
+
+1312
+00:28:26,509 --> 00:28:26,519
+lehetünk igen valószínűleg most
+ 
+
+1313
+00:28:26,519 --> 00:28:28,909
+lehetünk igen valószínűleg most
+szerintem fejezzük be ező a kis hói
+
+1314
+00:28:28,909 --> 00:28:28,919
+szerintem fejezzük be ező a kis hói
+ 
+
+1315
+00:28:28,919 --> 00:28:32,110
+szerintem fejezzük be ező a kis hói
+jó ezeket a grafikunokat pont most nézem
+
+1316
+00:28:32,110 --> 00:28:32,120
+jó ezeket a grafikunokat pont most nézem
+ 
+
+1317
+00:28:32,120 --> 00:28:34,430
+jó ezeket a grafikunokat pont most nézem
+a bitcoin dashboardot esetleg most akkor
+
+1318
+00:28:34,430 --> 00:28:34,440
+a bitcoin dashboardot esetleg most akkor
+ 
+
+1319
+00:28:34,440 --> 00:28:36,830
+a bitcoin dashboardot esetleg most akkor
+ezt én osztom
+
+1320
+00:28:36,830 --> 00:28:36,840
+ezt én osztom
+ 
+
+1321
+00:28:36,840 --> 00:28:39,909
+ezt én osztom
+meg még erről egy pár adatot bemondhat
+
+1322
+00:28:39,909 --> 00:28:39,919
+meg még erről egy pár adatot bemondhat
+ 
+
+1323
+00:28:39,919 --> 00:28:41,590
+meg még erről egy pár adatot bemondhat
+ja de akkor állítsd le megosztást hogy
+
+1324
+00:28:41,590 --> 00:28:41,600
+ja de akkor állítsd le megosztást hogy
+ 
+
+1325
+00:28:41,600 --> 00:28:44,149
+ja de akkor állítsd le megosztást hogy
+én is meg tudjak osztani ja na clark
+
+1326
+00:28:44,149 --> 00:28:44,159
+én is meg tudjak osztani ja na clark
+ 
+
+1327
+00:28:44,159 --> 00:28:47,110
+én is meg tudjak osztani ja na clark
+moody dashboard ha már így a számoknál
+
+1328
+00:28:47,110 --> 00:28:47,120
+moody dashboard ha már így a számoknál
+ 
+
+1329
+00:28:47,120 --> 00:28:49,350
+moody dashboard ha már így a számoknál
+vagyunk és mondtad itt ezt a
+
+1330
+00:28:49,350 --> 00:28:49,360
+vagyunk és mondtad itt ezt a
+ 
+
+1331
+00:28:49,360 --> 00:28:51,950
+vagyunk és mondtad itt ezt a
+kibányászott mennyiséget ezt néha én
+
+1332
+00:28:51,950 --> 00:28:51,960
+kibányászott mennyiséget ezt néha én
+ 
+
+1333
+00:28:51,960 --> 00:28:54,710
+kibányászott mennyiséget ezt néha én
+javaslom megnézni mert ez egy nagyon jó
+
+1334
+00:28:54,710 --> 00:28:54,720
+javaslom megnézni mert ez egy nagyon jó
+ 
+
+1335
+00:28:54,720 --> 00:28:59,750
+javaslom megnézni mert ez egy nagyon jó
+ilyen összesítő adattábla ez a bitcoin
+
+1336
+00:28:59,750 --> 00:28:59,760
+ilyen összesítő adattábla ez a bitcoin
+ 
+
+1337
+00:28:59,760 --> 00:29:02,310
+ilyen összesítő adattábla ez a bitcoin
+clerkmoodi.com majd így a showesba
+
+1338
+00:29:02,310 --> 00:29:02,320
+clerkmoodi.com majd így a showesba
+ 
+
+1339
+00:29:02,320 --> 00:29:04,470
+clerkmoodi.com majd így a showesba
+alulra belinkeljük szerintem volt már
+
+1340
+00:29:04,470 --> 00:29:04,480
+alulra belinkeljük szerintem volt már
+ 
+
+1341
+00:29:04,480 --> 00:29:06,070
+alulra belinkeljük szerintem volt már
+itt
+
+1342
+00:29:06,070 --> 00:29:06,080
+itt
+ 
+
+1343
+00:29:06,080 --> 00:29:10,269
+itt
+nálunk ez az amiről beszéltél ez a az
+
+1344
+00:29:10,269 --> 00:29:10,279
+nálunk ez az amiről beszéltél ez a az
+ 
+
+1345
+00:29:10,279 --> 00:29:12,310
+nálunk ez az amiről beszéltél ez a az
+eddig kibocsátott bitcoinok mennyisége
+
+1346
+00:29:12,310 --> 00:29:12,320
+eddig kibocsátott bitcoinok mennyisége
+ 
+
+1347
+00:29:12,320 --> 00:29:13,470
+eddig kibocsátott bitcoinok mennyisége
+ez
+
+1348
+00:29:13,470 --> 00:29:13,480
+ez
+ 
+
+1349
+00:29:13,480 --> 00:29:17,430
+ez
+94,45%-on állunk ugye nemsokára elérjü a
+
+1350
+00:29:17,430 --> 00:29:17,440
+94,45%-on állunk ugye nemsokára elérjü a
+ 
+
+1351
+00:29:17,440 --> 00:29:22,830
+94,45%-on állunk ugye nemsokára elérjü a
+95%-ot és onnantól a maradék hát 2140-ig
+
+1352
+00:29:22,830 --> 00:29:22,840
+95%-ot és onnantól a maradék hát 2140-ig
+ 
+
+1353
+00:29:22,840 --> 00:29:25,750
+95%-ot és onnantól a maradék hát 2140-ig
+ugye bocsátjuk ki majd ezt az
+
+1354
+00:29:25,750 --> 00:29:25,760
+ugye bocsátjuk ki majd ezt az
+ 
+
+1355
+00:29:25,760 --> 00:29:28,509
+ugye bocsátjuk ki majd ezt az
+5%nyit ez már nagyon kevés ez azért is
+
+1356
+00:29:28,509 --> 00:29:28,519
+5%nyit ez már nagyon kevés ez azért is
+ 
+
+1357
+00:29:28,519 --> 00:29:31,549
+5%nyit ez már nagyon kevés ez azért is
+mondják hogy sokszor vagyis hogy eddig a
+
+1358
+00:29:31,549 --> 00:29:31,559
+mondják hogy sokszor vagyis hogy eddig a
+ 
+
+1359
+00:29:31,559 --> 00:29:35,070
+mondják hogy sokszor vagyis hogy eddig a
+a felezéseknek nagyobb hatása volt a a
+
+1360
+00:29:35,070 --> 00:29:35,080
+a felezéseknek nagyobb hatása volt a a
+ 
+
+1361
+00:29:35,080 --> 00:29:38,029
+a felezéseknek nagyobb hatása volt a a
+készletre mint az ezen túli felezéseknek
+
+1362
+00:29:38,029 --> 00:29:38,039
+készletre mint az ezen túli felezéseknek
+ 
+
+1363
+00:29:38,039 --> 00:29:41,070
+készletre mint az ezen túli felezéseknek
+tehát itt most már a a napi kereskedelmi
+
+1364
+00:29:41,070 --> 00:29:41,080
+tehát itt most már a a napi kereskedelmi
+ 
+
+1365
+00:29:41,080 --> 00:29:43,549
+tehát itt most már a a napi kereskedelmi
+volumen mellett szinte eltörpül a
+
+1366
+00:29:43,549 --> 00:29:43,559
+volumen mellett szinte eltörpül a
+ 
+
+1367
+00:29:43,559 --> 00:29:45,909
+volumen mellett szinte eltörpül a
+felezés ezért mondják hogy ezt a
+
+1368
+00:29:45,909 --> 00:29:45,919
+felezés ezért mondják hogy ezt a
+ 
+
+1369
+00:29:45,919 --> 00:29:48,470
+felezés ezért mondják hogy ezt a
+ciklikusságot kifejezetten a felezésre
+
+1370
+00:29:48,470 --> 00:29:48,480
+ciklikusságot kifejezetten a felezésre
+ 
+
+1371
+00:29:48,480 --> 00:29:50,950
+ciklikusságot kifejezetten a felezésre
+majd nem lehet fogni lehet majd biztos
+
+1372
+00:29:50,950 --> 00:29:50,960
+majd nem lehet fogni lehet majd biztos
+ 
+
+1373
+00:29:50,960 --> 00:29:53,830
+majd nem lehet fogni lehet majd biztos
+fogni másra ha lesz azt is lehet majd
+
+1374
+00:29:53,830 --> 00:29:53,840
+fogni másra ha lesz azt is lehet majd
+ 
+
+1375
+00:29:53,840 --> 00:29:57,509
+fogni másra ha lesz azt is lehet majd
+hallani hogy szuperciklus van és akkor
+
+1376
+00:29:57,509 --> 00:29:57,519
+hallani hogy szuperciklus van és akkor
+ 
+
+1377
+00:29:57,519 --> 00:30:00,509
+hallani hogy szuperciklus van és akkor
+annak minden belejárójával nézhetjük
+
+1378
+00:30:00,509 --> 00:30:00,519
+annak minden belejárójával nézhetjük
+ 
+
+1379
+00:30:00,519 --> 00:30:02,350
+annak minden belejárójával nézhetjük
+majd jó innen csak ezt szerettem volna
+
+1380
+00:30:02,350 --> 00:30:02,360
+majd jó innen csak ezt szerettem volna
+ 
+
+1381
+00:30:02,360 --> 00:30:05,590
+majd jó innen csak ezt szerettem volna
+mondani majd ak akkor lesz hatalmas
+
+1382
+00:30:05,590 --> 00:30:05,600
+mondani majd ak akkor lesz hatalmas
+ 
+
+1383
+00:30:05,600 --> 00:30:09,149
+mondani majd ak akkor lesz hatalmas
+kínálat amikor az ilyen serféle cégeknek
+
+1384
+00:30:09,149 --> 00:30:09,159
+kínálat amikor az ilyen serféle cégeknek
+ 
+
+1385
+00:30:09,159 --> 00:30:11,950
+kínálat amikor az ilyen serféle cégeknek
+el kell adniuk igen meg amikor majd a
+
+1386
+00:30:11,950 --> 00:30:11,960
+el kell adniuk igen meg amikor majd a
+ 
+
+1387
+00:30:11,960 --> 00:30:15,549
+el kell adniuk igen meg amikor majd a
+coinbase- feltörik ismeretlen
+
+1388
+00:30:15,549 --> 00:30:15,559
+coinbase- feltörik ismeretlen
+ 
+
+1389
+00:30:15,559 --> 00:30:18,310
+coinbase- feltörik ismeretlen
+hackerek ha valami nagy buli kell akkor
+
+1390
+00:30:18,310 --> 00:30:18,320
+hackerek ha valami nagy buli kell akkor
+ 
+
+1391
+00:30:18,320 --> 00:30:20,430
+hackerek ha valami nagy buli kell akkor
+majd gondolom piacra dobnak 1 milliót
+
+1392
+00:30:20,430 --> 00:30:20,440
+majd gondolom piacra dobnak 1 milliót
+ 
+
+1393
+00:30:20,440 --> 00:30:22,389
+majd gondolom piacra dobnak 1 milliót
+hát figyelj a bitcoin az ilyen rins and
+
+1394
+00:30:22,389 --> 00:30:22,399
+hát figyelj a bitcoin az ilyen rins and
+ 
+
+1395
+00:30:22,399 --> 00:30:25,590
+hát figyelj a bitcoin az ilyen rins and
+repeat tehát hogy hogy ki kell rázni a
+
+1396
+00:30:25,590 --> 00:30:25,600
+repeat tehát hogy hogy ki kell rázni a
+ 
+
+1397
+00:30:25,600 --> 00:30:26,950
+repeat tehát hogy hogy ki kell rázni a
+gyengekezű
+
+1398
+00:30:26,950 --> 00:30:26,960
+gyengekezű
+ 
+
+1399
+00:30:26,960 --> 00:30:30,549
+gyengekezű
+holdereket ki is fogja rázni ugye a
+
+1400
+00:30:30,549 --> 00:30:30,559
+holdereket ki is fogja rázni ugye a
+ 
+
+1401
+00:30:30,559 --> 00:30:32,350
+holdereket ki is fogja rázni ugye a
+hogyha azt nézed hogy a bitcoin már
+
+1402
+00:30:32,350 --> 00:30:32,360
+hogyha azt nézed hogy a bitcoin már
+ 
+
+1403
+00:30:32,360 --> 00:30:34,350
+hogyha azt nézed hogy a bitcoin már
+nyert és én ezt nagyon sokszor mondom
+
+1404
+00:30:34,350 --> 00:30:34,360
+nyert és én ezt nagyon sokszor mondom
+ 
+
+1405
+00:30:34,360 --> 00:30:36,549
+nyert és én ezt nagyon sokszor mondom
+megzer így is gondolom hogy a bitcoin
+
+1406
+00:30:36,549 --> 00:30:36,559
+megzer így is gondolom hogy a bitcoin
+ 
+
+1407
+00:30:36,559 --> 00:30:38,230
+megzer így is gondolom hogy a bitcoin
+már megnyerte most már csak az az egy
+
+1408
+00:30:38,230 --> 00:30:38,240
+már megnyerte most már csak az az egy
+ 
+
+1409
+00:30:38,240 --> 00:30:40,269
+már megnyerte most már csak az az egy
+dolgunk van hogy szolvensek maradjunk a
+
+1410
+00:30:40,269 --> 00:30:40,279
+dolgunk van hogy szolvensek maradjunk a
+ 
+
+1411
+00:30:40,279 --> 00:30:42,830
+dolgunk van hogy szolvensek maradjunk a
+játék végéig és hogyha ezt figyelembe
+
+1412
+00:30:42,830 --> 00:30:42,840
+játék végéig és hogyha ezt figyelembe
+ 
+
+1413
+00:30:42,840 --> 00:30:44,870
+játék végéig és hogyha ezt figyelembe
+vesszük és ezt tudják az államov kis már
+
+1414
+00:30:44,870 --> 00:30:44,880
+vesszük és ezt tudják az államov kis már
+ 
+
+1415
+00:30:44,880 --> 00:30:46,950
+vesszük és ezt tudják az államov kis már
+pedig azok tudják akkor nekik egyetlen
+
+1416
+00:30:46,950 --> 00:30:46,960
+pedig azok tudják akkor nekik egyetlen
+ 
+
+1417
+00:30:46,960 --> 00:30:49,750
+pedig azok tudják akkor nekik egyetlen
+eszközük marad a piacmanipuláció és a
+
+1418
+00:30:49,750 --> 00:30:49,760
+eszközük marad a piacmanipuláció és a
+ 
+
+1419
+00:30:49,760 --> 00:30:51,149
+eszközük marad a piacmanipuláció és a
+piaci
+
+1420
+00:30:51,149 --> 00:30:51,159
+piaci
+ 
+
+1421
+00:30:51,159 --> 00:30:54,070
+piaci
+pszichológia mint ahogy látjuk arra
+
+1422
+00:30:54,070 --> 00:30:54,080
+pszichológia mint ahogy látjuk arra
+ 
+
+1423
+00:30:54,080 --> 00:30:56,070
+pszichológia mint ahogy látjuk arra
+pedig nagyon jók lesznek majd ezek a
+
+1424
+00:30:56,070 --> 00:30:56,080
+pedig nagyon jók lesznek majd ezek a
+ 
+
+1425
+00:30:56,080 --> 00:30:58,669
+pedig nagyon jók lesznek majd ezek a
+nagy kontingenseknek az el ásai vagy
+
+1426
+00:30:58,669 --> 00:30:58,679
+nagy kontingenseknek az el ásai vagy
+ 
+
+1427
+00:30:58,679 --> 00:31:01,389
+nagy kontingenseknek az el ásai vagy
+piacraadobásai vagy mozgatásai meg
+
+1428
+00:31:01,389 --> 00:31:01,399
+piacraadobásai vagy mozgatásai meg
+ 
+
+1429
+00:31:01,399 --> 00:31:03,710
+piacraadobásai vagy mozgatásai meg
+tiltás satöbbi biztos nagyon sok
+
+1430
+00:31:03,710 --> 00:31:03,720
+tiltás satöbbi biztos nagyon sok
+ 
+
+1431
+00:31:03,720 --> 00:31:05,269
+tiltás satöbbi biztos nagyon sok
+érdekeset fogunk még látni a
+
+1432
+00:31:05,269 --> 00:31:05,279
+érdekeset fogunk még látni a
+ 
+
+1433
+00:31:05,279 --> 00:31:07,990
+érdekeset fogunk még látni a
+közeljövőben is mert nem adják csak úgy
+
+1434
+00:31:07,990 --> 00:31:08,000
+közeljövőben is mert nem adják csak úgy
+ 
+
+1435
+00:31:08,000 --> 00:31:12,230
+közeljövőben is mert nem adják csak úgy
+oda ezt ezt a ezt a dolgot nekünk na de
+
+1436
+00:31:12,230 --> 00:31:12,240
+oda ezt ezt a ezt a dolgot nekünk na de
+ 
+
+1437
+00:31:12,240 --> 00:31:14,750
+oda ezt ezt a ezt a dolgot nekünk na de
+hát ettől van értéke igen
+
+1438
+00:31:14,750 --> 00:31:14,760
+hát ettől van értéke igen
+ 
+
+1439
+00:31:14,760 --> 00:31:19,110
+hát ettől van értéke igen
+igen ja na evezzünk más bízekre köszönöm
+
+1440
+00:31:19,110 --> 00:31:19,120
+igen ja na evezzünk más bízekre köszönöm
+ 
+
+1441
+00:31:19,120 --> 00:31:21,750
+igen ja na evezzünk más bízekre köszönöm
+a grafikonos magyarázatokat meg tudom
+
+1442
+00:31:21,750 --> 00:31:21,760
+a grafikonos magyarázatokat meg tudom
+ 
+
+1443
+00:31:21,760 --> 00:31:25,389
+a grafikonos magyarázatokat meg tudom
+hogy nál végre végre a technológiához is
+
+1444
+00:31:25,389 --> 00:31:25,399
+hogy nál végre végre a technológiához is
+ 
+
+1445
+00:31:25,399 --> 00:31:27,269
+hogy nál végre végre a technológiához is
+igen elérkeztünk a technológiához azér
+
+1446
+00:31:27,269 --> 00:31:27,279
+igen elérkeztünk a technológiához azér
+ 
+
+1447
+00:31:27,279 --> 00:31:30,830
+igen elérkeztünk a technológiához azér
+vagyunk itt négy év után négy év üzem
+
+1448
+00:31:30,830 --> 00:31:30,840
+vagyunk itt négy év után négy év üzem
+ 
+
+1449
+00:31:30,840 --> 00:31:35,509
+vagyunk itt négy év után négy év üzem
+után a kis áberellemet itthon már
+
+1450
+00:31:35,509 --> 00:31:35,519
+után a kis áberellemet itthon már
+ 
+
+1451
+00:31:35,519 --> 00:31:37,430
+után a kis áberellemet itthon már
+mutogattam a legelső egy évvel ezelőtt a
+
+1452
+00:31:37,430 --> 00:31:37,440
+mutogattam a legelső egy évvel ezelőtt a
+ 
+
+1453
+00:31:37,440 --> 00:31:39,350
+mutogattam a legelső egy évvel ezelőtt a
+legelső adásban mutogattam akkor még
+
+1454
+00:31:39,350 --> 00:31:39,360
+legelső adásban mutogattam akkor még
+ 
+
+1455
+00:31:39,360 --> 00:31:42,350
+legelső adásban mutogattam akkor még
+működött ezt le lecseréltem egy újra
+
+1456
+00:31:42,350 --> 00:31:42,360
+működött ezt le lecseréltem egy újra
+ 
+
+1457
+00:31:42,360 --> 00:31:45,269
+működött ezt le lecseréltem egy újra
+leginkább azért mert a benne levő 1
+
+1458
+00:31:45,269 --> 00:31:45,279
+leginkább azért mert a benne levő 1
+ 
+
+1459
+00:31:45,279 --> 00:31:49,110
+leginkább azért mert a benne levő 1
+tb-os ssd már betelt ug a majd mindjárt
+
+1460
+00:31:49,110 --> 00:31:49,120
+tb-os ssd már betelt ug a majd mindjárt
+ 
+
+1461
+00:31:49,120 --> 00:31:50,990
+tb-os ssd már betelt ug a majd mindjárt
+nézzünk pontosabb számokat is hogy most
+
+1462
+00:31:50,990 --> 00:31:51,000
+nézzünk pontosabb számokat is hogy most
+ 
+
+1463
+00:31:51,000 --> 00:31:53,430
+nézzünk pontosabb számokat is hogy most
+már mekkora a bitcoin blok lánc tát az 1
+
+1464
+00:31:53,430 --> 00:31:53,440
+már mekkora a bitcoin blok lánc tát az 1
+ 
+
+1465
+00:31:53,440 --> 00:31:57,310
+már mekkora a bitcoin blok lánc tát az 1
+tb nem volt elég és itt van az uj ühüm
+
+1466
+00:31:57,310 --> 00:31:57,320
+tb nem volt elég és itt van az uj ühüm
+ 
+
+1467
+00:31:57,320 --> 00:31:58,389
+tb nem volt elég és itt van az uj ühüm
+be van
+
+1468
+00:31:58,389 --> 00:31:58,399
+be van
+ 
+
+1469
+00:31:58,399 --> 00:31:59,909
+be van
+kábelenó hát persze mert ez működik
+
+1470
+00:31:59,909 --> 00:31:59,919
+kábelenó hát persze mert ez működik
+ 
+
+1471
+00:31:59,919 --> 00:32:02,549
+kábelenó hát persze mert ez működik
+tehát nekem nem tudnám mutogatni viszont
+
+1472
+00:32:02,549 --> 00:32:02,559
+tehát nekem nem tudnám mutogatni viszont
+ 
+
+1473
+00:32:02,559 --> 00:32:04,110
+tehát nekem nem tudnám mutogatni viszont
+ennek már csak egy kábele van mert ebben
+
+1474
+00:32:04,110 --> 00:32:04,120
+ennek már csak egy kábele van mert ebben
+ 
+
+1475
+00:32:04,120 --> 00:32:06,389
+ennek már csak egy kábele van mert ebben
+van wifi is hogy ennek ezzel csak egy
+
+1476
+00:32:06,389 --> 00:32:06,399
+van wifi is hogy ennek ezzel csak egy
+ 
+
+1477
+00:32:06,399 --> 00:32:08,710
+van wifi is hogy ennek ezzel csak egy
+tápkábel és wifén
+
+1478
+00:32:08,710 --> 00:32:08,720
+tápkábel és wifén
+ 
+
+1479
+00:32:08,720 --> 00:32:13,310
+tápkábel és wifén
+kommunikál megmutatom a na másik oldalát
+
+1480
+00:32:13,310 --> 00:32:13,320
+kommunikál megmutatom a na másik oldalát
+ 
+
+1481
+00:32:13,320 --> 00:32:15,789
+kommunikál megmutatom a na másik oldalát
+is íy beszélsz a hardverről is hogy hogy
+
+1482
+00:32:15,789 --> 00:32:15,799
+is íy beszélsz a hardverről is hogy hogy
+ 
+
+1483
+00:32:15,799 --> 00:32:19,149
+is íy beszélsz a hardverről is hogy hogy
+mi na most a hardw ez annyiban fejlődött
+
+1484
+00:32:19,149 --> 00:32:19,159
+mi na most a hardw ez annyiban fejlődött
+ 
+
+1485
+00:32:19,159 --> 00:32:21,750
+mi na most a hardw ez annyiban fejlődött
+hogy ugye a réginek itt látszik hogy a
+
+1486
+00:32:21,750 --> 00:32:21,760
+hogy ugye a réginek itt látszik hogy a
+ 
+
+1487
+00:32:21,760 --> 00:32:23,470
+hogy ugye a réginek itt látszik hogy a
+hátulján van egy ilyen usb összekötő
+
+1488
+00:32:23,470 --> 00:32:23,480
+hátulján van egy ilyen usb összekötő
+ 
+
+1489
+00:32:23,480 --> 00:32:25,470
+hátulján van egy ilyen usb összekötő
+ezzel van összekötve usb drive-ként az
+
+1490
+00:32:25,470 --> 00:32:25,480
+ezzel van összekötve usb drive-ként az
+ 
+
+1491
+00:32:25,480 --> 00:32:29,950
+ezzel van összekötve usb drive-ként az
+ssd ami az aljában van üüm elegá
+
+1492
+00:32:29,950 --> 00:32:29,960
+ssd ami az aljában van üüm elegá
+ 
+
+1493
+00:32:29,960 --> 00:32:32,710
+ssd ami az aljában van üüm elegá
+ennek ennek már nincs ilyen mert ennek
+
+1494
+00:32:32,710 --> 00:32:32,720
+ennek ennek már nincs ilyen mert ennek
+ 
+
+1495
+00:32:32,720 --> 00:32:35,909
+ennek ennek már nincs ilyen mert ennek
+itt van az alján egy itt még hűtőbordája
+
+1496
+00:32:35,909 --> 00:32:35,919
+itt van az alján egy itt még hűtőbordája
+ 
+
+1497
+00:32:35,919 --> 00:32:37,909
+itt van az alján egy itt még hűtőbordája
+is van ez alatt van az ssd ez ebben már
+
+1498
+00:32:37,909 --> 00:32:37,919
+is van ez alatt van az ssd ez ebben már
+ 
+
+1499
+00:32:37,919 --> 00:32:41,230
+is van ez alatt van az ssd ez ebben már
+ké tb-os ssd-t tettem most már azok se
+
+1500
+00:32:41,230 --> 00:32:41,240
+ké tb-os ssd-t tettem most már azok se
+ 
+
+1501
+00:32:41,240 --> 00:32:45,310
+ké tb-os ssd-t tettem most már azok se
+olyan drágák meg hát kellett minimum és
+
+1502
+00:32:45,310 --> 00:32:45,320
+olyan drágák meg hát kellett minimum és
+ 
+
+1503
+00:32:45,320 --> 00:32:47,190
+olyan drágák meg hát kellett minimum és
+ebben egy ilyen belső
+
+1504
+00:32:47,190 --> 00:32:47,200
+ebben egy ilyen belső
+ 
+
+1505
+00:32:47,200 --> 00:32:49,389
+ebben egy ilyen belső
+pci-os szalak kábellel van már
+
+1506
+00:32:49,389 --> 00:32:49,399
+pci-os szalak kábellel van már
+ 
+
+1507
+00:32:49,399 --> 00:32:52,990
+pci-os szalak kábellel van már
+összekötve az ssd a az alaplappal
+
+1508
+00:32:52,990 --> 00:32:53,000
+összekötve az ssd a az alaplappal
+ 
+
+1509
+00:32:53,000 --> 00:32:56,269
+összekötve az ssd a az alaplappal
+egyébként a régi az rapsbury piie 4-es
+
+1510
+00:32:56,269 --> 00:32:56,279
+egyébként a régi az rapsbury piie 4-es
+ 
+
+1511
+00:32:56,279 --> 00:32:59,230
+egyébként a régi az rapsbury piie 4-es
+volt ez már az ötös verzió tehát
+
+1512
+00:32:59,230 --> 00:32:59,240
+volt ez már az ötös verzió tehát
+ 
+
+1513
+00:32:59,240 --> 00:33:01,430
+volt ez már az ötös verzió tehát
+annyiból is újabb meg hát nyilván a ház
+
+1514
+00:33:01,430 --> 00:33:01,440
+annyiból is újabb meg hát nyilván a ház
+ 
+
+1515
+00:33:01,440 --> 00:33:03,870
+annyiból is újabb meg hát nyilván a ház
+is egy kicsit más meg van benne ez a
+
+1516
+00:33:03,870 --> 00:33:03,880
+is egy kicsit más meg van benne ez a
+ 
+
+1517
+00:33:03,880 --> 00:33:05,990
+is egy kicsit más meg van benne ez a
+pci-os
+
+1518
+00:33:05,990 --> 00:33:06,000
+pci-os
+ 
+
+1519
+00:33:06,000 --> 00:33:10,149
+pci-os
+összekötés gyorsabb a processzora
+
+1520
+00:33:10,149 --> 00:33:10,159
+összekötés gyorsabb a processzora
+ 
+
+1521
+00:33:10,159 --> 00:33:13,789
+összekötés gyorsabb a processzora
+úgyhogy ennyit a hardverről azt hiszem
+
+1522
+00:33:13,789 --> 00:33:13,799
+úgyhogy ennyit a hardverről azt hiszem
+ 
+
+1523
+00:33:13,799 --> 00:33:16,230
+úgyhogy ennyit a hardverről azt hiszem
+memóriája az ugyanannyi az 8 gb mind
+
+1524
+00:33:16,230 --> 00:33:16,240
+memóriája az ugyanannyi az 8 gb mind
+ 
+
+1525
+00:33:16,240 --> 00:33:18,909
+memóriája az ugyanannyi az 8 gb mind
+kettőnek összesen ezt még még tavaly
+
+1526
+00:33:18,909 --> 00:33:18,919
+kettőnek összesen ezt még még tavaly
+ 
+
+1527
+00:33:18,919 --> 00:33:23,149
+kettőnek összesen ezt még még tavaly
+összevettem ilyen 120 130000 ft volt az
+
+1528
+00:33:23,149 --> 00:33:23,159
+összevettem ilyen 120 130000 ft volt az
+ 
+
+1529
+00:33:23,159 --> 00:33:24,430
+összevettem ilyen 120 130000 ft volt az
+összes
+
+1530
+00:33:24,430 --> 00:33:24,440
+összes
+ 
+
+1531
+00:33:24,440 --> 00:33:28,110
+összes
+alkatrésze körülbelül legnagobb tét g az
+
+1532
+00:33:28,110 --> 00:33:28,120
+alkatrésze körülbelül legnagobb tét g az
+ 
+
+1533
+00:33:28,120 --> 00:33:31,470
+alkatrésze körülbelül legnagobb tét g az
+ssd volt vagy hát egy jelentéss jó mit
+
+1534
+00:33:31,470 --> 00:33:31,480
+ssd volt vagy hát egy jelentéss jó mit
+ 
+
+1535
+00:33:31,480 --> 00:33:33,710
+ssd volt vagy hát egy jelentéss jó mit
+futtatsz rajta mert ugye ez egy bitcoin
+
+1536
+00:33:33,710 --> 00:33:33,720
+futtatsz rajta mert ugye ez egy bitcoin
+ 
+
+1537
+00:33:33,720 --> 00:33:35,789
+futtatsz rajta mert ugye ez egy bitcoin
+nóde de nem csak bitcoin nóde hanem
+
+1538
+00:33:35,789 --> 00:33:35,799
+nóde de nem csak bitcoin nóde hanem
+ 
+
+1539
+00:33:35,799 --> 00:33:40,990
+nóde de nem csak bitcoin nóde hanem
+umbrel brel fut rajta
+
+1540
+00:33:40,990 --> 00:33:41,000
+
+ 
+
+1541
+00:33:41,000 --> 00:33:44,350
+
+azért maradtam az brelnél hogy itt az
+
+1542
+00:33:44,350 --> 00:33:44,360
+azért maradtam az brelnél hogy itt az
+ 
+
+1543
+00:33:44,360 --> 00:33:46,470
+azért maradtam az brelnél hogy itt az
+azt azt látványos dolog mutogatni és
+
+1544
+00:33:46,470 --> 00:33:46,480
+azt azt látványos dolog mutogatni és
+ 
+
+1545
+00:33:46,480 --> 00:33:48,509
+azt azt látványos dolog mutogatni és
+talán hogyha valaki belevágna egy ilyen
+
+1546
+00:33:48,509 --> 00:33:48,519
+talán hogyha valaki belevágna egy ilyen
+ 
+
+1547
+00:33:48,519 --> 00:33:49,990
+talán hogyha valaki belevágna egy ilyen
+note futtatásba akkor még mindig az
+
+1548
+00:33:49,990 --> 00:33:50,000
+note futtatásba akkor még mindig az
+ 
+
+1549
+00:33:50,000 --> 00:33:51,830
+note futtatásba akkor még mindig az
+umbrella a legegyszerűbb bár sokféle
+
+1550
+00:33:51,830 --> 00:33:51,840
+umbrella a legegyszerűbb bár sokféle
+ 
+
+1551
+00:33:51,840 --> 00:33:54,950
+umbrella a legegyszerűbb bár sokféle
+ilyen distztribúció van ühüm ja nem
+
+1552
+00:33:54,950 --> 00:33:54,960
+ilyen distztribúció van ühüm ja nem
+ 
+
+1553
+00:33:54,960 --> 00:33:58,430
+ilyen distztribúció van ühüm ja nem
+osztottam meg nos meg
+
+1554
+00:33:58,430 --> 00:33:58,440
+osztottam meg nos meg
+ 
+
+1555
+00:33:58,440 --> 00:34:02,669
+osztottam meg nos meg
+látszik igen jó reggelt jó
+
+1556
+00:34:02,669 --> 00:34:02,679
+látszik igen jó reggelt jó
+ 
+
+1557
+00:34:02,679 --> 00:34:06,230
+látszik igen jó reggelt jó
+reggelt hát ez a felület ez ugye a régi
+
+1558
+00:34:06,230 --> 00:34:06,240
+reggelt hát ez a felület ez ugye a régi
+ 
+
+1559
+00:34:06,240 --> 00:34:07,950
+reggelt hát ez a felület ez ugye a régi
+még 0.5-ös
+
+1560
+00:34:07,950 --> 00:34:07,960
+még 0.5-ös
+ 
+
+1561
+00:34:07,960 --> 00:34:09,310
+még 0.5-ös
+ra elfutott amit nem is lehetett
+
+1562
+00:34:09,310 --> 00:34:09,320
+ra elfutott amit nem is lehetett
+ 
+
+1563
+00:34:09,320 --> 00:34:11,349
+ra elfutott amit nem is lehetett
+frissíteni hanem csak újratelepítéssel
+
+1564
+00:34:11,349 --> 00:34:11,359
+frissíteni hanem csak újratelepítéssel
+ 
+
+1565
+00:34:11,359 --> 00:34:12,750
+frissíteni hanem csak újratelepítéssel
+ezért is gondoltam hogy akkor most
+
+1566
+00:34:12,750 --> 00:34:12,760
+ezért is gondoltam hogy akkor most
+ 
+
+1567
+00:34:12,760 --> 00:34:14,829
+ezért is gondoltam hogy akkor most
+teljesen újraépítem az egészet hát négy
+
+1568
+00:34:14,829 --> 00:34:14,839
+teljesen újraépítem az egészet hát négy
+ 
+
+1569
+00:34:14,839 --> 00:34:20,030
+teljesen újraépítem az egészet hát négy
+évente hillik igen ez ez már 1.4-es é
+
+1570
+00:34:20,030 --> 00:34:20,040
+évente hillik igen ez ez már 1.4-es é
+ 
+
+1571
+00:34:20,040 --> 00:34:21,829
+évente hillik igen ez ez már 1.4-es é
+még még jobban próbál hajazni egy ilyen
+
+1572
+00:34:21,829 --> 00:34:21,839
+még még jobban próbál hajazni egy ilyen
+ 
+
+1573
+00:34:21,839 --> 00:34:24,470
+még még jobban próbál hajazni egy ilyen
+maces oprendszerre itt ennek már it
+
+1574
+00:34:24,470 --> 00:34:24,480
+maces oprendszerre itt ennek már it
+ 
+
+1575
+00:34:24,480 --> 00:34:28,349
+maces oprendszerre itt ennek már it
+fölülre ki lehet tenni három bidgetet
+
+1576
+00:34:28,349 --> 00:34:28,359
+fölülre ki lehet tenni három bidgetet
+ 
+
+1577
+00:34:28,359 --> 00:34:32,909
+fölülre ki lehet tenni három bidgetet
+ugye itt látszik a bitcoin nodenak a a a
+
+1578
+00:34:32,909 --> 00:34:32,919
+ugye itt látszik a bitcoin nodenak a a a
+ 
+
+1579
+00:34:32,919 --> 00:34:37,270
+ugye itt látszik a bitcoin nodenak a a a
+szinkronizálási állapota itt van egy kis
+
+1580
+00:34:37,270 --> 00:34:37,280
+szinkronizálási állapota itt van egy kis
+ 
+
+1581
+00:34:37,280 --> 00:34:39,190
+szinkronizálási állapota itt van egy kis
+erőforráshasználati
+
+1582
+00:34:39,190 --> 00:34:39,200
+erőforráshasználati
+ 
+
+1583
+00:34:39,200 --> 00:34:44,310
+erőforráshasználati
+widget 3% cpu az elég cpu majd mindjárt
+
+1584
+00:34:44,310 --> 00:34:44,320
+widget 3% cpu az elég cpu majd mindjárt
+ 
+
+1585
+00:34:44,320 --> 00:34:48,190
+widget 3% cpu az elég cpu majd mindjárt
+erről beszélek egy kicsit memóriából a 8
+
+1586
+00:34:48,190 --> 00:34:48,200
+erről beszélek egy kicsit memóriából a 8
+ 
+
+1587
+00:34:48,200 --> 00:34:51,389
+erről beszélek egy kicsit memóriából a 8
+gb-ból használ 4,8-at az egészséges és a
+
+1588
+00:34:51,389 --> 00:34:51,399
+gb-ból használ 4,8-at az egészséges és a
+ 
+
+1589
+00:34:51,399 --> 00:34:54,030
+gb-ból használ 4,8-at az egészséges és a
+két tab storageból 880-at használunk
+
+1590
+00:34:54,030 --> 00:34:54,040
+két tab storageból 880-at használunk
+ 
+
+1591
+00:34:54,040 --> 00:34:55,950
+két tab storageból 880-at használunk
+majd ezt is megnézzük közelebbről
+
+1592
+00:34:55,950 --> 00:34:55,960
+majd ezt is megnézzük közelebbről
+ 
+
+1593
+00:34:55,960 --> 00:34:57,710
+majd ezt is megnézzük közelebbről
+illetve itt van a lightning walletnek a
+
+1594
+00:34:57,710 --> 00:34:57,720
+illetve itt van a lightning walletnek a
+ 
+
+1595
+00:34:57,720 --> 00:35:00,190
+illetve itt van a lightning walletnek a
+a az egyenlegel meg meg ilyen küldő meg
+
+1596
+00:35:00,190 --> 00:35:00,200
+a az egyenlegel meg meg ilyen küldő meg
+ 
+
+1597
+00:35:00,200 --> 00:35:03,790
+a az egyenlegel meg meg ilyen küldő meg
+fogadó gomb gyorsan lehessen
+
+1598
+00:35:03,790 --> 00:35:03,800
+fogadó gomb gyorsan lehessen
+ 
+
+1599
+00:35:03,800 --> 00:35:06,790
+fogadó gomb gyorsan lehessen
+használni és akkor nézzük egy kicsit a
+
+1600
+00:35:06,790 --> 00:35:06,800
+használni és akkor nézzük egy kicsit a
+ 
+
+1601
+00:35:06,800 --> 00:35:09,510
+használni és akkor nézzük egy kicsit a
+beállításait itt mindenféle dolgokat
+
+1602
+00:35:09,510 --> 00:35:09,520
+beállításait itt mindenféle dolgokat
+ 
+
+1603
+00:35:09,520 --> 00:35:11,670
+beállításait itt mindenféle dolgokat
+lehet benne állítani a
+
+1604
+00:35:11,670 --> 00:35:11,680
+lehet benne állítani a
+ 
+
+1605
+00:35:11,680 --> 00:35:14,069
+lehet benne állítani a
+ringlgh-tól most már látom tehát itt
+
+1606
+00:35:14,069 --> 00:35:14,079
+ringlgh-tól most már látom tehát itt
+ 
+
+1607
+00:35:14,079 --> 00:35:16,870
+ringlgh-tól most már látom tehát itt
+mutatja hogy a tárhely ez 2 tb-ból
+
+1608
+00:35:16,870 --> 00:35:16,880
+mutatja hogy a tárhely ez 2 tb-ból
+ 
+
+1609
+00:35:16,880 --> 00:35:20,630
+mutatja hogy a tárhely ez 2 tb-ból
+880-at foglalunk memória 8cból néy-et
+
+1610
+00:35:20,630 --> 00:35:20,640
+880-at foglalunk memória 8cból néy-et
+ 
+
+1611
+00:35:20,640 --> 00:35:22,829
+880-at foglalunk memória 8cból néy-et
+cpu most ép 33 és itt itt mutatja a
+
+1612
+00:35:22,829 --> 00:35:22,839
+cpu most ép 33 és itt itt mutatja a
+ 
+
+1613
+00:35:22,839 --> 00:35:25,910
+cpu most ép 33 és itt itt mutatja a
+hőmérsékletet is 45 fok na most amikor
+
+1614
+00:35:25,910 --> 00:35:25,920
+hőmérsékletet is 45 fok na most amikor
+ 
+
+1615
+00:35:25,920 --> 00:35:28,190
+hőmérsékletet is 45 fok na most amikor
+összeraktam a a
+
+1616
+00:35:28,190 --> 00:35:28,200
+összeraktam a a
+ 
+
+1617
+00:35:28,200 --> 00:35:30,069
+összeraktam a a
+gépet is elindítottam először akkor
+
+1618
+00:35:30,069 --> 00:35:30,079
+gépet is elindítottam először akkor
+ 
+
+1619
+00:35:30,079 --> 00:35:32,030
+gépet is elindítottam először akkor
+körülbelül két napig tartott mire a
+
+1620
+00:35:32,030 --> 00:35:32,040
+körülbelül két napig tartott mire a
+ 
+
+1621
+00:35:32,040 --> 00:35:34,710
+körülbelül két napig tartott mire a
+bitcoin brockláncot leszinkronizálta a
+
+1622
+00:35:34,710 --> 00:35:34,720
+bitcoin brockláncot leszinkronizálta a
+ 
+
+1623
+00:35:34,720 --> 00:35:36,270
+bitcoin brockláncot leszinkronizálta a
+bitcoin nóód amit majd mindjárt
+
+1624
+00:35:36,270 --> 00:35:36,280
+bitcoin nóód amit majd mindjárt
+ 
+
+1625
+00:35:36,280 --> 00:35:38,390
+bitcoin nóód amit majd mindjárt
+megnézünk na azalatt az idő alatt ilyen
+
+1626
+00:35:38,390 --> 00:35:38,400
+megnézünk na azalatt az idő alatt ilyen
+ 
+
+1627
+00:35:38,400 --> 00:35:41,510
+megnézünk na azalatt az idő alatt ilyen
+69-70 fokig is fölment a hőmérség és az
+
+1628
+00:35:41,510 --> 00:35:41,520
+69-70 fokig is fölment a hőmérség és az
+ 
+
+1629
+00:35:41,520 --> 00:35:44,390
+69-70 fokig is fölment a hőmérség és az
+alján így égetett nem lehetett megfogni
+
+1630
+00:35:44,390 --> 00:35:44,400
+alján így égetett nem lehetett megfogni
+ 
+
+1631
+00:35:44,400 --> 00:35:46,750
+alján így égetett nem lehetett megfogni
+annak ká nem örültem annyira de
+
+1632
+00:35:46,750 --> 00:35:46,760
+annak ká nem örültem annyira de
+ 
+
+1633
+00:35:46,760 --> 00:35:49,710
+annak ká nem örültem annyira de
+szerencsére ez csak két napig tartott de
+
+1634
+00:35:49,710 --> 00:35:49,720
+szerencsére ez csak két napig tartott de
+ 
+
+1635
+00:35:49,720 --> 00:35:52,950
+szerencsére ez csak két napig tartott de
+utána aztán visszament ilyen norm így
+
+1636
+00:35:52,950 --> 00:35:52,960
+utána aztán visszament ilyen norm így
+ 
+
+1637
+00:35:52,960 --> 00:35:55,190
+utána aztán visszament ilyen norm így
+most már meg lehet fogni és valószínűleg
+
+1638
+00:35:55,190 --> 00:35:55,200
+most már meg lehet fogni és valószínűleg
+ 
+
+1639
+00:35:55,200 --> 00:35:57,230
+most már meg lehet fogni és valószínűleg
+nem is lesz baja mert azért 70 fokon
+
+1640
+00:35:57,230 --> 00:35:57,240
+nem is lesz baja mert azért 70 fokon
+ 
+
+1641
+00:35:57,240 --> 00:35:59,550
+nem is lesz baja mert azért 70 fokon
+soká ig lehet hogy nem működött volna és
+
+1642
+00:35:59,550 --> 00:35:59,560
+soká ig lehet hogy nem működött volna és
+ 
+
+1643
+00:35:59,560 --> 00:36:02,309
+soká ig lehet hogy nem működött volna és
+akkor nézzük van neki
+
+1644
+00:36:02,309 --> 00:36:02,319
+akkor nézzük van neki
+ 
+
+1645
+00:36:02,319 --> 00:36:05,670
+akkor nézzük van neki
+alkalmazásboltja ennek is van
+
+1646
+00:36:05,670 --> 00:36:05,680
+alkalmazásboltja ennek is van
+ 
+
+1647
+00:36:05,680 --> 00:36:08,710
+alkalmazásboltja ennek is van
+nagyon-nagyon sok alkalmazás hát most
+
+1648
+00:36:08,710 --> 00:36:08,720
+nagyon-nagyon sok alkalmazás hát most
+ 
+
+1649
+00:36:08,720 --> 00:36:11,270
+nagyon-nagyon sok alkalmazás hát most
+ezeketen nem fogok végigmenni akit
+
+1650
+00:36:11,270 --> 00:36:11,280
+ezeketen nem fogok végigmenni akit
+ 
+
+1651
+00:36:11,280 --> 00:36:14,190
+ezeketen nem fogok végigmenni akit
+érdekel végigmegy rajta ez nem is az
+
+1652
+00:36:14,190 --> 00:36:14,200
+érdekel végigmegy rajta ez nem is az
+ 
+
+1653
+00:36:14,200 --> 00:36:15,950
+érdekel végigmegy rajta ez nem is az
+összes ez meg csak ilyen te miket
+
+1654
+00:36:15,950 --> 00:36:15,960
+összes ez meg csak ilyen te miket
+ 
+
+1655
+00:36:15,960 --> 00:36:18,870
+összes ez meg csak ilyen te miket
+használsz ezekből inkáb az az a
+
+1656
+00:36:18,870 --> 00:36:18,880
+használsz ezekből inkáb az az a
+ 
+
+1657
+00:36:18,880 --> 00:36:20,750
+használsz ezekből inkáb az az a
+féloldalon látszik ami föl van telepítve
+
+1658
+00:36:20,750 --> 00:36:20,760
+féloldalon látszik ami föl van telepítve
+ 
+
+1659
+00:36:20,760 --> 00:36:22,710
+féloldalon látszik ami föl van telepítve
+ez ezek vannak nekem telepítve még nem
+
+1660
+00:36:22,710 --> 00:36:22,720
+ez ezek vannak nekem telepítve még nem
+ 
+
+1661
+00:36:22,720 --> 00:36:25,790
+ez ezek vannak nekem telepítve még nem
+mindet használom de a
+
+1662
+00:36:25,790 --> 00:36:25,800
+mindet használom de a
+ 
+
+1663
+00:36:25,800 --> 00:36:28,109
+mindet használom de a
+legfontosabbakról de de illetve van van
+
+1664
+00:36:28,109 --> 00:36:28,119
+legfontosabbakról de de illetve van van
+ 
+
+1665
+00:36:28,119 --> 00:36:30,030
+legfontosabbakról de de illetve van van
+még egy új funkció ami az 1.4-esben
+
+1666
+00:36:30,030 --> 00:36:30,040
+még egy új funkció ami az 1.4-esben
+ 
+
+1667
+00:36:30,040 --> 00:36:33,390
+még egy új funkció ami az 1.4-esben
+jelent meg és még az 1.3-asban se volt
+
+1668
+00:36:33,390 --> 00:36:33,400
+jelent meg és még az 1.3-asban se volt
+ 
+
+1669
+00:36:33,400 --> 00:36:35,470
+jelent meg és még az 1.3-asban se volt
+benne ez a files nevű ez egy ilyen fil
+
+1670
+00:36:35,470 --> 00:36:35,480
+benne ez a files nevű ez egy ilyen fil
+ 
+
+1671
+00:36:35,480 --> 00:36:37,950
+benne ez a files nevű ez egy ilyen fil
+szerver üüm tehát otthoni szerverként is
+
+1672
+00:36:37,950 --> 00:36:37,960
+szerver üüm tehát otthoni szerverként is
+ 
+
+1673
+00:36:37,960 --> 00:36:40,150
+szerver üüm tehát otthoni szerverként is
+le tehát otthoni nasként fileszerverként
+
+1674
+00:36:40,150 --> 00:36:40,160
+le tehát otthoni nasként fileszerverként
+ 
+
+1675
+00:36:40,160 --> 00:36:42,190
+le tehát otthoni nasként fileszerverként
+lehet használni és
+
+1676
+00:36:42,190 --> 00:36:42,200
+lehet használni és
+ 
+
+1677
+00:36:42,200 --> 00:36:43,990
+lehet használni és
+meg lehet osztani ezt a mappá ezen
+
+1678
+00:36:43,990 --> 00:36:44,000
+meg lehet osztani ezt a mappá ezen
+ 
+
+1679
+00:36:44,000 --> 00:36:45,589
+meg lehet osztani ezt a mappá ezen
+próbáltam ki hogy meg lehet osztani a
+
+1680
+00:36:45,589 --> 00:36:45,599
+próbáltam ki hogy meg lehet osztani a
+ 
+
+1681
+00:36:45,599 --> 00:36:47,710
+próbáltam ki hogy meg lehet osztani a
+helyi hálózaton a mappákat és akkor a
+
+1682
+00:36:47,710 --> 00:36:47,720
+helyi hálózaton a mappákat és akkor a
+ 
+
+1683
+00:36:47,720 --> 00:36:50,069
+helyi hálózaton a mappákat és akkor a
+többi gépre a laptopra akármire föl
+
+1684
+00:36:50,069 --> 00:36:50,079
+többi gépre a laptopra akármire föl
+ 
+
+1685
+00:36:50,079 --> 00:36:52,109
+többi gépre a laptopra akármire föl
+lehet csatolni és akkor ilyen közös
+
+1686
+00:36:52,109 --> 00:36:52,119
+lehet csatolni és akkor ilyen közös
+ 
+
+1687
+00:36:52,119 --> 00:36:54,390
+lehet csatolni és akkor ilyen közös
+tárhelynek is lehet használni üüm
+
+1688
+00:36:54,390 --> 00:36:54,400
+tárhelynek is lehet használni üüm
+ 
+
+1689
+00:36:54,400 --> 00:36:56,510
+tárhelynek is lehet használni üüm
+úgyhogy ez ezt is meg meg lehetett vele
+
+1690
+00:36:56,510 --> 00:36:56,520
+úgyhogy ez ezt is meg meg lehetett vele
+ 
+
+1691
+00:36:56,520 --> 00:36:58,270
+úgyhogy ez ezt is meg meg lehetett vele
+csinálni külön appal mondjuk next
+
+1692
+00:36:58,270 --> 00:36:58,280
+csinálni külön appal mondjuk next
+ 
+
+1693
+00:36:58,280 --> 00:37:00,670
+csinálni külön appal mondjuk next
+clouddal eddig is de azért nagyon
+
+1694
+00:37:00,670 --> 00:37:00,680
+clouddal eddig is de azért nagyon
+ 
+
+1695
+00:37:00,680 --> 00:37:03,030
+clouddal eddig is de azért nagyon
+nehézkes cucc ez meg az most már az alap
+
+1696
+00:37:03,030 --> 00:37:03,040
+nehézkes cucc ez meg az most már az alap
+ 
+
+1697
+00:37:03,040 --> 00:37:05,030
+nehézkes cucc ez meg az most már az alap
+rendszer része és ilyen tö tök könnyen
+
+1698
+00:37:05,030 --> 00:37:05,040
+rendszer része és ilyen tö tök könnyen
+ 
+
+1699
+00:37:05,040 --> 00:37:07,150
+rendszer része és ilyen tö tök könnyen
+használható szóval erre is jó akkor ugye
+
+1700
+00:37:07,150 --> 00:37:07,160
+használható szóval erre is jó akkor ugye
+ 
+
+1701
+00:37:07,160 --> 00:37:09,750
+használható szóval erre is jó akkor ugye
+a legfontosabb appunk a bitcoin node
+
+1702
+00:37:09,750 --> 00:37:09,760
+a legfontosabb appunk a bitcoin node
+ 
+
+1703
+00:37:09,760 --> 00:37:12,550
+a legfontosabb appunk a bitcoin node
+most az látszik vagy nem az látszik igen
+
+1704
+00:37:12,550 --> 00:37:12,560
+most az látszik vagy nem az látszik igen
+ 
+
+1705
+00:37:12,560 --> 00:37:15,829
+most az látszik vagy nem az látszik igen
+ja jó jó ez nem változott régihez képest
+
+1706
+00:37:15,829 --> 00:37:15,839
+ja jó jó ez nem változott régihez képest
+ 
+
+1707
+00:37:15,839 --> 00:37:17,510
+ja jó jó ez nem változott régihez képest
+az pont ugyanúgy néz ki itt vannak a
+
+1708
+00:37:17,510 --> 00:37:17,520
+az pont ugyanúgy néz ki itt vannak a
+ 
+
+1709
+00:37:17,520 --> 00:37:19,510
+az pont ugyanúgy néz ki itt vannak a
+blokkok mutatja hogy mennyire van
+
+1710
+00:37:19,510 --> 00:37:19,520
+blokkok mutatja hogy mennyire van
+ 
+
+1711
+00:37:19,520 --> 00:37:21,550
+blokkok mutatja hogy mennyire van
+szinkronizálva hány prel vagyunk
+
+1712
+00:37:21,550 --> 00:37:21,560
+szinkronizálva hány prel vagyunk
+ 
+
+1713
+00:37:21,560 --> 00:37:24,750
+szinkronizálva hány prel vagyunk
+kapcsolatban egyébként 63 prel ami egész
+
+1714
+00:37:24,750 --> 00:37:24,760
+kapcsolatban egyébként 63 prel ami egész
+ 
+
+1715
+00:37:24,760 --> 00:37:27,630
+kapcsolatban egyébként 63 prel ami egész
+sok az nagyon sok mondjuk nekem y meg
+
+1716
+00:37:27,630 --> 00:37:27,640
+sok az nagyon sok mondjuk nekem y meg
+ 
+
+1717
+00:37:27,640 --> 00:37:29,309
+sok az nagyon sok mondjuk nekem y meg
+van csinálva rendesen a routeren port
+
+1718
+00:37:29,309 --> 00:37:29,319
+van csinálva rendesen a routeren port
+ 
+
+1719
+00:37:29,319 --> 00:37:31,390
+van csinálva rendesen a routeren port
+forwarddal meg van oldva hogy hogy
+
+1720
+00:37:31,390 --> 00:37:31,400
+forwarddal meg van oldva hogy hogy
+ 
+
+1721
+00:37:31,400 --> 00:37:33,390
+forwarddal meg van oldva hogy hogy
+kívülről is tudnak hozzá csatlakozni
+
+1722
+00:37:33,390 --> 00:37:33,400
+kívülről is tudnak hozzá csatlakozni
+ 
+
+1723
+00:37:33,400 --> 00:37:35,230
+kívülről is tudnak hozzá csatlakozni
+tehát ez egy teljesen publikus bitcoin
+
+1724
+00:37:35,230 --> 00:37:35,240
+tehát ez egy teljesen publikus bitcoin
+ 
+
+1725
+00:37:35,240 --> 00:37:38,910
+tehát ez egy teljesen publikus bitcoin
+node lehet hogy azért is ilyen sok nem
+
+1726
+00:37:38,910 --> 00:37:38,920
+node lehet hogy azért is ilyen sok nem
+ 
+
+1727
+00:37:38,920 --> 00:37:41,910
+node lehet hogy azért is ilyen sok nem
+baj apírje úgyhogy ez ez szerintem így
+
+1728
+00:37:41,910 --> 00:37:41,920
+baj apírje úgyhogy ez ez szerintem így
+ 
+
+1729
+00:37:41,920 --> 00:37:43,430
+baj apírje úgyhogy ez ez szerintem így
+teljes
+
+1730
+00:37:43,430 --> 00:37:43,440
+teljes
+ 
+
+1731
+00:37:43,440 --> 00:37:47,150
+teljes
+aztán itt a lightning node igen erről
+
+1732
+00:37:47,150 --> 00:37:47,160
+aztán itt a lightning node igen erről
+ 
+
+1733
+00:37:47,160 --> 00:37:49,750
+aztán itt a lightning node igen erről
+már volt demónk ez ez se változott azóta
+
+1734
+00:37:49,750 --> 00:37:49,760
+már volt demónk ez ez se változott azóta
+ 
+
+1735
+00:37:49,760 --> 00:37:53,069
+már volt demónk ez ez se változott azóta
+gyakorlatilag ugyanaz kevesebb a szat be
+
+1736
+00:37:53,069 --> 00:37:53,079
+gyakorlatilag ugyanaz kevesebb a szat be
+ 
+
+1737
+00:37:53,079 --> 00:37:55,470
+gyakorlatilag ugyanaz kevesebb a szat be
+hát most kevesebb mert az a régiben volt
+
+1738
+00:37:55,470 --> 00:37:55,480
+hát most kevesebb mert az a régiben volt
+ 
+
+1739
+00:37:55,480 --> 00:37:57,470
+hát most kevesebb mert az a régiben volt
+ebbe csak ennyit töltöttem van ugyan
+
+1740
+00:37:57,470 --> 00:37:57,480
+ebbe csak ennyit töltöttem van ugyan
+ 
+
+1741
+00:37:57,480 --> 00:38:00,270
+ebbe csak ennyit töltöttem van ugyan
+hogy egy csatornánk van ezt pár nappal
+
+1742
+00:38:00,270 --> 00:38:00,280
+hogy egy csatornánk van ezt pár nappal
+ 
+
+1743
+00:38:00,280 --> 00:38:02,510
+hogy egy csatornánk van ezt pár nappal
+ezelőtt kezdtem használni direkt erre a
+
+1744
+00:38:02,510 --> 00:38:02,520
+ezelőtt kezdtem használni direkt erre a
+ 
+
+1745
+00:38:02,520 --> 00:38:04,630
+ezelőtt kezdtem használni direkt erre a
+demóra készülve itt itt it van három
+
+1746
+00:38:04,630 --> 00:38:04,640
+demóra készülve itt itt it van három
+ 
+
+1747
+00:38:04,640 --> 00:38:07,150
+demóra készülve itt itt it van három
+napja töltöttem bele 100000 satzot és
+
+1748
+00:38:07,150 --> 00:38:07,160
+napja töltöttem bele 100000 satzot és
+ 
+
+1749
+00:38:07,160 --> 00:38:09,150
+napja töltöttem bele 100000 satzot és
+akkor nyitottam egy csatornát 80000
+
+1750
+00:38:09,150 --> 00:38:09,160
+akkor nyitottam egy csatornát 80000
+ 
+
+1751
+00:38:09,160 --> 00:38:11,670
+akkor nyitottam egy csatornát 80000
+sattal úgyhogy maradt
+
+1752
+00:38:11,670 --> 00:38:11,680
+sattal úgyhogy maradt
+ 
+
+1753
+00:38:11,680 --> 00:38:14,750
+sattal úgyhogy maradt
+19600 a bitcoin
+
+1754
+00:38:14,750 --> 00:38:14,760
+19600 a bitcoin
+ 
+
+1755
+00:38:14,760 --> 00:38:17,270
+19600 a bitcoin
+tárcában és utána csináltam néhány
+
+1756
+00:38:17,270 --> 00:38:17,280
+tárcában és utána csináltam néhány
+ 
+
+1757
+00:38:17,280 --> 00:38:19,910
+tárcában és utána csináltam néhány
+tranzakciót a másik nódomban amihez meg
+
+1758
+00:38:19,910 --> 00:38:19,920
+tranzakciót a másik nódomban amihez meg
+ 
+
+1759
+00:38:19,920 --> 00:38:21,670
+tranzakciót a másik nódomban amihez meg
+van nyitva a csatorna ugye az az is az
+
+1760
+00:38:21,670 --> 00:38:21,680
+van nyitva a csatorna ugye az az is az
+ 
+
+1761
+00:38:21,680 --> 00:38:23,870
+van nyitva a csatorna ugye az az is az
+enyém vagy illetve ez az oldal illetve
+
+1762
+00:38:23,870 --> 00:38:23,880
+enyém vagy illetve ez az oldal illetve
+ 
+
+1763
+00:38:23,880 --> 00:38:26,829
+enyém vagy illetve ez az oldal illetve
+itt tegnap fejlesztgettem egy ilyen
+
+1764
+00:38:26,829 --> 00:38:26,839
+itt tegnap fejlesztgettem egy ilyen
+ 
+
+1765
+00:38:26,839 --> 00:38:29,390
+itt tegnap fejlesztgettem egy ilyen
+bitcoin fizetőrendszert éppen amin
+
+1766
+00:38:29,390 --> 00:38:29,400
+bitcoin fizetőrendszert éppen amin
+ 
+
+1767
+00:38:29,400 --> 00:38:31,430
+bitcoin fizetőrendszert éppen amin
+dolgozom és a azt azt azt ezzel
+
+1768
+00:38:31,430 --> 00:38:31,440
+dolgozom és a azt azt azt ezzel
+ 
+
+1769
+00:38:31,440 --> 00:38:33,349
+dolgozom és a azt azt azt ezzel
+tesztelem most hogy a két nódom között
+
+1770
+00:38:33,349 --> 00:38:33,359
+tesztelem most hogy a két nódom között
+ 
+
+1771
+00:38:33,359 --> 00:38:35,630
+tesztelem most hogy a két nódom között
+fizetgetek hogy ühüm ne legyen
+
+1772
+00:38:35,630 --> 00:38:35,640
+fizetgetek hogy ühüm ne legyen
+ 
+
+1773
+00:38:35,640 --> 00:38:37,870
+fizetgetek hogy ühüm ne legyen
+tranzakciós díj tulajdonképpen most erre
+
+1774
+00:38:37,870 --> 00:38:37,880
+tranzakciós díj tulajdonképpen most erre
+ 
+
+1775
+00:38:37,880 --> 00:38:40,190
+tranzakciós díj tulajdonképpen most erre
+így konkrétan használom is munkához majd
+
+1776
+00:38:40,190 --> 00:38:40,200
+így konkrétan használom is munkához majd
+ 
+
+1777
+00:38:40,200 --> 00:38:41,630
+így konkrétan használom is munkához majd
+ha elkészül majd arról is csinálunk
+
+1778
+00:38:41,630 --> 00:38:41,640
+ha elkészül majd arról is csinálunk
+ 
+
+1779
+00:38:41,640 --> 00:38:44,870
+ha elkészül majd arról is csinálunk
+videót jó és hát itt látszik hogy a ugye
+
+1780
+00:38:44,870 --> 00:38:44,880
+videót jó és hát itt látszik hogy a ugye
+ 
+
+1781
+00:38:44,880 --> 00:38:46,710
+videót jó és hát itt látszik hogy a ugye
+ugye ennek a két egyenlegnek az összege
+
+1782
+00:38:46,710 --> 00:38:46,720
+ugye ennek a két egyenlegnek az összege
+ 
+
+1783
+00:38:46,720 --> 00:38:50,510
+ugye ennek a két egyenlegnek az összege
+a ez a 60000 satosi ami most benne van
+
+1784
+00:38:50,510 --> 00:38:50,520
+a ez a 60000 satosi ami most benne van
+ 
+
+1785
+00:38:50,520 --> 00:38:52,550
+a ez a 60000 satosi ami most benne van
+mert ugye ami a túloldalon van az nem az
+
+1786
+00:38:52,550 --> 00:38:52,560
+mert ugye ami a túloldalon van az nem az
+ 
+
+1787
+00:38:52,560 --> 00:38:55,030
+mert ugye ami a túloldalon van az nem az
+enyém az is az enyém csak nem ebben a
+
+1788
+00:38:55,030 --> 00:38:55,040
+enyém az is az enyém csak nem ebben a
+ 
+
+1789
+00:38:55,040 --> 00:38:58,390
+enyém az is az enyém csak nem ebben a
+nótban az enyém egy másik zsebed igen
+
+1790
+00:38:58,390 --> 00:38:58,400
+nótban az enyém egy másik zsebed igen
+ 
+
+1791
+00:38:58,400 --> 00:39:01,510
+nótban az enyém egy másik zsebed igen
+itt minden az enyém aztán jaj most nem
+
+1792
+00:39:01,510 --> 00:39:01,520
+itt minden az enyém aztán jaj most nem
+ 
+
+1793
+00:39:01,520 --> 00:39:03,589
+itt minden az enyém aztán jaj most nem
+látom ugye a kedvencünk a mempool
+
+1794
+00:39:03,589 --> 00:39:03,599
+látom ugye a kedvencünk a mempool
+ 
+
+1795
+00:39:03,599 --> 00:39:04,950
+látom ugye a kedvencünk a mempool
+mempool
+
+1796
+00:39:04,950 --> 00:39:04,960
+mempool
+ 
+
+1797
+00:39:04,960 --> 00:39:10,349
+mempool
+ez is fut rajta a superül és tök üres a
+
+1798
+00:39:10,349 --> 00:39:10,359
+ez is fut rajta a superül és tök üres a
+ 
+
+1799
+00:39:10,359 --> 00:39:14,430
+ez is fut rajta a superül és tök üres a
+izé hát leh en egész kén bl erről is
+
+1800
+00:39:14,430 --> 00:39:14,440
+izé hát leh en egész kén bl erről is
+ 
+
+1801
+00:39:14,440 --> 00:39:16,550
+izé hát leh en egész kén bl erről is
+lehetne egy kicsit spekulálni hogy miért
+
+1802
+00:39:16,550 --> 00:39:16,560
+lehetne egy kicsit spekulálni hogy miért
+ 
+
+1803
+00:39:16,560 --> 00:39:18,670
+lehetne egy kicsit spekulálni hogy miért
+van ez az utóbbi időben mert azért ez
+
+1804
+00:39:18,670 --> 00:39:18,680
+van ez az utóbbi időben mert azért ez
+ 
+
+1805
+00:39:18,680 --> 00:39:23,430
+van ez az utóbbi időben mert azért ez
+egos pár hónapja itt ilyen 100000 több
+
+1806
+00:39:23,430 --> 00:39:23,440
+egos pár hónapja itt ilyen 100000 több
+ 
+
+1807
+00:39:23,440 --> 00:39:26,109
+egos pár hónapja itt ilyen 100000 több
+mint 100000 tranzakció várakozott most
+
+1808
+00:39:26,109 --> 00:39:26,119
+mint 100000 tranzakció várakozott most
+ 
+
+1809
+00:39:26,119 --> 00:39:27,670
+mint 100000 tranzakció várakozott most
+meg
+
+1810
+00:39:27,670 --> 00:39:27,680
+meg
+ 
+
+1811
+00:39:27,680 --> 00:39:30,870
+meg
+másfél blokknyi se vélhetően akkoriban
+
+1812
+00:39:30,870 --> 00:39:30,880
+másfél blokknyi se vélhetően akkoriban
+ 
+
+1813
+00:39:30,880 --> 00:39:33,790
+másfél blokknyi se vélhetően akkoriban
+ez nem volt igazi bitcoin forgalom most
+
+1814
+00:39:33,790 --> 00:39:33,800
+ez nem volt igazi bitcoin forgalom most
+ 
+
+1815
+00:39:33,800 --> 00:39:37,630
+ez nem volt igazi bitcoin forgalom most
+meg lehet hogy egy kicsit nagy a csend a
+
+1816
+00:39:37,630 --> 00:39:37,640
+meg lehet hogy egy kicsit nagy a csend a
+ 
+
+1817
+00:39:37,640 --> 00:39:40,069
+meg lehet hogy egy kicsit nagy a csend a
+rövid bemket miatt de hát jó mert íy
+
+1818
+00:39:40,069 --> 00:39:40,079
+rövid bemket miatt de hát jó mert íy
+ 
+
+1819
+00:39:40,079 --> 00:39:41,790
+rövid bemket miatt de hát jó mert íy
+olcson lehet transzaktálni nem is nagyon
+
+1820
+00:39:41,790 --> 00:39:41,800
+olcson lehet transzaktálni nem is nagyon
+ 
+
+1821
+00:39:41,800 --> 00:39:43,790
+olcson lehet transzaktálni nem is nagyon
+kell lightning networkö használni igen
+
+1822
+00:39:43,790 --> 00:39:43,800
+kell lightning networkö használni igen
+ 
+
+1823
+00:39:43,800 --> 00:39:45,550
+kell lightning networkö használni igen
+most lehet a lightningot próbálgatni
+
+1824
+00:39:45,550 --> 00:39:45,560
+most lehet a lightningot próbálgatni
+ 
+
+1825
+00:39:45,560 --> 00:39:48,950
+most lehet a lightningot próbálgatni
+tehát mindenki aki érez magában annyit
+
+1826
+00:39:48,950 --> 00:39:48,960
+tehát mindenki aki érez magában annyit
+ 
+
+1827
+00:39:48,960 --> 00:39:51,630
+tehát mindenki aki érez magában annyit
+hogy most erről szívesen tanulna a jövő
+
+1828
+00:39:51,630 --> 00:39:51,640
+hogy most erről szívesen tanulna a jövő
+ 
+
+1829
+00:39:51,640 --> 00:39:53,710
+hogy most erről szívesen tanulna a jövő
+technológiáiról akkor szerintem most
+
+1830
+00:39:53,710 --> 00:39:53,720
+technológiáiról akkor szerintem most
+ 
+
+1831
+00:39:53,720 --> 00:39:56,430
+technológiáiról akkor szerintem most
+igazán időszerű igen mert olcsó
+
+1832
+00:39:56,430 --> 00:39:56,440
+igazán időszerű igen mert olcsó
+ 
+
+1833
+00:39:56,440 --> 00:39:58,349
+igazán időszerű igen mert olcsó
+csatornát nyitni nagyon egyszerű és
+
+1834
+00:39:58,349 --> 00:39:58,359
+csatornát nyitni nagyon egyszerű és
+ 
+
+1835
+00:39:58,359 --> 00:40:00,750
+csatornát nyitni nagyon egyszerű és
+olcsó a csatornanyitás egy szat úristen
+
+1836
+00:40:00,750 --> 00:40:00,760
+olcsó a csatornanyitás egy szat úristen
+ 
+
+1837
+00:40:00,760 --> 00:40:02,790
+olcsó a csatornanyitás egy szat úristen
+há az tényleg nagyon nem hát azért a egy
+
+1838
+00:40:02,790 --> 00:40:02,800
+há az tényleg nagyon nem hát azért a egy
+ 
+
+1839
+00:40:02,800 --> 00:40:04,670
+há az tényleg nagyon nem hát azért a egy
+csatornanyitás szem nekem ennek a
+
+1840
+00:40:04,670 --> 00:40:04,680
+csatornanyitás szem nekem ennek a
+ 
+
+1841
+00:40:04,680 --> 00:40:07,309
+csatornanyitás szem nekem ennek a
+csatornának megítás valami 300 sz volt
+
+1842
+00:40:07,309 --> 00:40:07,319
+csatornának megítás valami 300 sz volt
+ 
+
+1843
+00:40:07,319 --> 00:40:08,670
+csatornának megítás valami 300 sz volt
+ugye mert az egy nagy az egy nagy
+
+1844
+00:40:08,670 --> 00:40:08,680
+ugye mert az egy nagy az egy nagy
+ 
+
+1845
+00:40:08,680 --> 00:40:10,910
+ugye mert az egy nagy az egy nagy
+transzakció hogy nem mindegy hogy 300
+
+1846
+00:40:10,910 --> 00:40:10,920
+transzakció hogy nem mindegy hogy 300
+ 
+
+1847
+00:40:10,920 --> 00:40:14,390
+transzakció hogy nem mindegy hogy 300
+vagy ha mondjuk 10s vagy 20 vagy 40 igen
+
+1848
+00:40:14,390 --> 00:40:14,400
+vagy ha mondjuk 10s vagy 20 vagy 40 igen
+ 
+
+1849
+00:40:14,400 --> 00:40:17,109
+vagy ha mondjuk 10s vagy 20 vagy 40 igen
+igen nem mindegy ugye ponként most
+
+1850
+00:40:17,109 --> 00:40:17,119
+igen nem mindegy ugye ponként most
+ 
+
+1851
+00:40:17,119 --> 00:40:20,870
+igen nem mindegy ugye ponként most
+jelenleg 1 ft az ilyen 4szat és 3 és
+
+1852
+00:40:20,870 --> 00:40:20,880
+jelenleg 1 ft az ilyen 4szat és 3 és
+ 
+
+1853
+00:40:20,880 --> 00:40:24,670
+jelenleg 1 ft az ilyen 4szat és 3 és
+fél így lehet összehasonlítani aztán mi
+
+1854
+00:40:24,670 --> 00:40:24,680
+fél így lehet összehasonlítani aztán mi
+ 
+
+1855
+00:40:24,680 --> 00:40:27,710
+fél így lehet összehasonlítani aztán mi
+van itt még home assistant ezt nem
+
+1856
+00:40:27,710 --> 00:40:27,720
+van itt még home assistant ezt nem
+ 
+
+1857
+00:40:27,720 --> 00:40:28,710
+van itt még home assistant ezt nem
+nagyon
+
+1858
+00:40:28,710 --> 00:40:28,720
+nagyon
+ 
+
+1859
+00:40:28,720 --> 00:40:31,710
+nagyon
+használom ez ilyen smart home dolgokat
+
+1860
+00:40:31,710 --> 00:40:31,720
+használom ez ilyen smart home dolgokat
+ 
+
+1861
+00:40:31,720 --> 00:40:34,349
+használom ez ilyen smart home dolgokat
+tudz kezelni na most nem tudom igen most
+
+1862
+00:40:34,349 --> 00:40:34,359
+tudz kezelni na most nem tudom igen most
+ 
+
+1863
+00:40:34,359 --> 00:40:35,270
+tudz kezelni na most nem tudom igen most
+nem tudok
+
+1864
+00:40:35,270 --> 00:40:35,280
+nem tudok
+ 
+
+1865
+00:40:35,280 --> 00:40:37,790
+nem tudok
+bejelentkez ügyesen kijelentkezett de az
+
+1866
+00:40:37,790 --> 00:40:37,800
+bejelentkez ügyesen kijelentkezett de az
+ 
+
+1867
+00:40:37,800 --> 00:40:39,150
+bejelentkez ügyesen kijelentkezett de az
+ilyen smart home nem nagyon használom
+
+1868
+00:40:39,150 --> 00:40:39,160
+ilyen smart home nem nagyon használom
+ 
+
+1869
+00:40:39,160 --> 00:40:40,630
+ilyen smart home nem nagyon használom
+mert nincsenek ilyen smart cuccaim de
+
+1870
+00:40:40,630 --> 00:40:40,640
+mert nincsenek ilyen smart cuccaim de
+ 
+
+1871
+00:40:40,640 --> 00:40:42,390
+mert nincsenek ilyen smart cuccaim de
+majd de ettől kedvet kaptam úgyhogy
+
+1872
+00:40:42,390 --> 00:40:42,400
+majd de ettől kedvet kaptam úgyhogy
+ 
+
+1873
+00:40:42,400 --> 00:40:43,870
+majd de ettől kedvet kaptam úgyhogy
+lehet hogy majd szerzek és akkor majd
+
+1874
+00:40:43,870 --> 00:40:43,880
+lehet hogy majd szerzek és akkor majd
+ 
+
+1875
+00:40:43,880 --> 00:40:45,710
+lehet hogy majd szerzek és akkor majd
+innen tudom nem tudom fö fölemelni a
+
+1876
+00:40:45,710 --> 00:40:45,720
+innen tudom nem tudom fö fölemelni a
+ 
+
+1877
+00:40:45,720 --> 00:40:46,829
+innen tudom nem tudom fö fölemelni a
+redőnyt
+
+1878
+00:40:46,829 --> 00:40:46,839
+redőnyt
+ 
+
+1879
+00:40:46,839 --> 00:40:49,550
+redőnyt
+vagy bekapcsolni a fűtést vagy ilyeneket
+
+1880
+00:40:49,550 --> 00:40:49,560
+vagy bekapcsolni a fűtést vagy ilyeneket
+ 
+
+1881
+00:40:49,560 --> 00:40:52,990
+vagy bekapcsolni a fűtést vagy ilyeneket
+tud ez a home assistant ez azt hiszem az
+
+1882
+00:40:52,990 --> 00:40:53,000
+tud ez a home assistant ez azt hiszem az
+ 
+
+1883
+00:40:53,000 --> 00:40:55,550
+tud ez a home assistant ez azt hiszem az
+egyen legelterjedtebb erre való szoftver
+
+1884
+00:40:55,550 --> 00:40:55,560
+egyen legelterjedtebb erre való szoftver
+ 
+
+1885
+00:40:55,560 --> 00:40:58,069
+egyen legelterjedtebb erre való szoftver
+és hát it itt is az a lényeg hogy
+
+1886
+00:40:58,069 --> 00:40:58,079
+és hát it itt is az a lényeg hogy
+ 
+
+1887
+00:40:58,079 --> 00:41:01,150
+és hát it itt is az a lényeg hogy
+ne valami kínai cloud szerver vezérelje
+
+1888
+00:41:01,150 --> 00:41:01,160
+ne valami kínai cloud szerver vezérelje
+ 
+
+1889
+00:41:01,160 --> 00:41:03,510
+ne valami kínai cloud szerver vezérelje
+már a lakásomban a az okos cuccokat
+
+1890
+00:41:03,510 --> 00:41:03,520
+már a lakásomban a az okos cuccokat
+ 
+
+1891
+00:41:03,520 --> 00:41:08,150
+már a lakásomban a az okos cuccokat
+hanem én itt helyben nem ez a az azért
+
+1892
+00:41:08,150 --> 00:41:08,160
+hanem én itt helyben nem ez a az azért
+ 
+
+1893
+00:41:08,160 --> 00:41:11,430
+hanem én itt helyben nem ez a az azért
+nagyon jó akkor van ez a rotki amit még
+
+1894
+00:41:11,430 --> 00:41:11,440
+nagyon jó akkor van ez a rotki amit még
+ 
+
+1895
+00:41:11,440 --> 00:41:12,950
+nagyon jó akkor van ez a rotki amit még
+szintén nem tudok megmutatni működés
+
+1896
+00:41:12,950 --> 00:41:12,960
+szintén nem tudok megmutatni működés
+ 
+
+1897
+00:41:12,960 --> 00:41:15,550
+szintén nem tudok megmutatni működés
+közben ez egy ilyen portfólió számolgató
+
+1898
+00:41:15,550 --> 00:41:15,560
+közben ez egy ilyen portfólió számolgató
+ 
+
+1899
+00:41:15,560 --> 00:41:18,670
+közben ez egy ilyen portfólió számolgató
+cucc amibe be lehet rakni az embernek a
+
+1900
+00:41:18,670 --> 00:41:18,680
+cucc amibe be lehet rakni az embernek a
+ 
+
+1901
+00:41:18,680 --> 00:41:21,750
+cucc amibe be lehet rakni az embernek a
+bitcoin címeit master publikus kulcsait
+
+1902
+00:41:21,750 --> 00:41:21,760
+bitcoin címeit master publikus kulcsait
+ 
+
+1903
+00:41:21,760 --> 00:41:23,670
+bitcoin címeit master publikus kulcsait
+meg tőzsdeapikat is akár onnan is
+
+1904
+00:41:23,670 --> 00:41:23,680
+meg tőzsdeapikat is akár onnan is
+ 
+
+1905
+00:41:23,680 --> 00:41:25,309
+meg tőzsdeapikat is akár onnan is
+összeszedja hogy az embernek mi van a
+
+1906
+00:41:25,309 --> 00:41:25,319
+összeszedja hogy az embernek mi van a
+ 
+
+1907
+00:41:25,319 --> 00:41:27,270
+összeszedja hogy az embernek mi van a
+portfóliójában és akkor mi lehet kezel
+
+1908
+00:41:27,270 --> 00:41:27,280
+portfóliójában és akkor mi lehet kezel
+ 
+
+1909
+00:41:27,280 --> 00:41:29,670
+portfóliójában és akkor mi lehet kezel
+és én én én ezt sem szeretném egy cloud
+
+1910
+00:41:29,670 --> 00:41:29,680
+és én én én ezt sem szeretném egy cloud
+ 
+
+1911
+00:41:29,680 --> 00:41:31,670
+és én én én ezt sem szeretném egy cloud
+szerveren nem szerintem igen ezek
+
+1912
+00:41:31,670 --> 00:41:31,680
+szerveren nem szerintem igen ezek
+ 
+
+1913
+00:41:31,680 --> 00:41:34,710
+szerveren nem szerintem igen ezek
+olyanok amik nem feltétlenül odavalók de
+
+1914
+00:41:34,710 --> 00:41:34,720
+olyanok amik nem feltétlenül odavalók de
+ 
+
+1915
+00:41:34,720 --> 00:41:36,750
+olyanok amik nem feltétlenül odavalók de
+itt itt helyben ez hát legalábbis
+
+1916
+00:41:36,750 --> 00:41:36,760
+itt itt helyben ez hát legalábbis
+ 
+
+1917
+00:41:36,760 --> 00:41:38,630
+itt itt helyben ez hát legalábbis
+bízhatunk benne hogy nagyon nem küldi ki
+
+1918
+00:41:38,630 --> 00:41:38,640
+bízhatunk benne hogy nagyon nem küldi ki
+ 
+
+1919
+00:41:38,640 --> 00:41:41,430
+bízhatunk benne hogy nagyon nem küldi ki
+sehova ez az app se de ez egy
+
+1920
+00:41:41,430 --> 00:41:41,440
+sehova ez az app se de ez egy
+ 
+
+1921
+00:41:41,440 --> 00:41:44,550
+sehova ez az app se de ez egy
+nyíltforráskodó app egyébként az a rotki
+
+1922
+00:41:44,550 --> 00:41:44,560
+nyíltforráskodó app egyébként az a rotki
+ 
+
+1923
+00:41:44,560 --> 00:41:47,309
+nyíltforráskodó app egyébként az a rotki
+és ez ilyenreá használható az elektrum
+
+1924
+00:41:47,309 --> 00:41:47,319
+és ez ilyenreá használható az elektrum
+ 
+
+1925
+00:41:47,319 --> 00:41:49,710
+és ez ilyenreá használható az elektrum
+szerver az az csak itt fut az szükséges
+
+1926
+00:41:49,710 --> 00:41:49,720
+szerver az az csak itt fut az szükséges
+ 
+
+1927
+00:41:49,720 --> 00:41:52,790
+szerver az az csak itt fut az szükséges
+a mempolhoz mennyi ideig gondolod hogy
+
+1928
+00:41:52,790 --> 00:41:52,800
+a mempolhoz mennyi ideig gondolod hogy
+ 
+
+1929
+00:41:52,800 --> 00:41:54,870
+a mempolhoz mennyi ideig gondolod hogy
+ez életben fog maradni egy négy évet
+
+1930
+00:41:54,870 --> 00:41:54,880
+ez életben fog maradni egy négy évet
+ 
+
+1931
+00:41:54,880 --> 00:41:57,230
+ez életben fog maradni egy négy évet
+satcolsz neki te is simán biztos
+
+1932
+00:41:57,230 --> 00:41:57,240
+satcolsz neki te is simán biztos
+ 
+
+1933
+00:41:57,240 --> 00:41:58,750
+satcolsz neki te is simán biztos
+szerintem egy négy évet ez is ki fog
+
+1934
+00:41:58,750 --> 00:41:58,760
+szerintem egy négy évet ez is ki fog
+ 
+
+1935
+00:41:58,760 --> 00:42:00,950
+szerintem egy négy évet ez is ki fog
+bírni ja illetve hát a régi is működne
+
+1936
+00:42:00,950 --> 00:42:00,960
+bírni ja illetve hát a régi is működne
+ 
+
+1937
+00:42:00,960 --> 00:42:02,750
+bírni ja illetve hát a régi is működne
+még hogyha kicserélném benne az ssd-t
+
+1938
+00:42:02,750 --> 00:42:02,760
+még hogyha kicserélném benne az ssd-t
+ 
+
+1939
+00:42:02,760 --> 00:42:04,670
+még hogyha kicserélném benne az ssd-t
+nagyobbra szerintem az is használható
+
+1940
+00:42:04,670 --> 00:42:04,680
+nagyobbra szerintem az is használható
+ 
+
+1941
+00:42:04,680 --> 00:42:07,390
+nagyobbra szerintem az is használható
+még üm ha ha nem is umrelnek de sima
+
+1942
+00:42:07,390 --> 00:42:07,400
+még üm ha ha nem is umrelnek de sima
+ 
+
+1943
+00:42:07,400 --> 00:42:09,470
+még üm ha ha nem is umrelnek de sima
+bitcoin nódnak tehát amit az tehát egy
+
+1944
+00:42:09,470 --> 00:42:09,480
+bitcoin nódnak tehát amit az tehát egy
+ 
+
+1945
+00:42:09,480 --> 00:42:12,069
+bitcoin nódnak tehát amit az tehát egy
+sima rberry linuxszal rátelepíteni
+
+1946
+00:42:12,069 --> 00:42:12,079
+sima rberry linuxszal rátelepíteni
+ 
+
+1947
+00:42:12,079 --> 00:42:13,829
+sima rberry linuxszal rátelepíteni
+bitcoin nódot biztos jó mert olyanom is
+
+1948
+00:42:13,829 --> 00:42:13,839
+bitcoin nódot biztos jó mert olyanom is
+ 
+
+1949
+00:42:13,839 --> 00:42:15,550
+bitcoin nódot biztos jó mert olyanom is
+van van még egy csak bent van a
+
+1950
+00:42:15,550 --> 00:42:15,560
+van van még egy csak bent van a
+ 
+
+1951
+00:42:15,560 --> 00:42:18,230
+van van még egy csak bent van a
+gépteremben nekem még három pluszon is
+
+1952
+00:42:18,230 --> 00:42:18,240
+gépteremben nekem még három pluszon is
+ 
+
+1953
+00:42:18,240 --> 00:42:21,390
+gépteremben nekem még három pluszon is
+futnak én azt hiszem ennyit gondoltam
+
+1954
+00:42:21,390 --> 00:42:21,400
+futnak én azt hiszem ennyit gondoltam
+ 
+
+1955
+00:42:21,400 --> 00:42:24,829
+futnak én azt hiszem ennyit gondoltam
+mára köszi hogy ezeket így bemutattad
+
+1956
+00:42:24,829 --> 00:42:24,839
+mára köszi hogy ezeket így bemutattad
+ 
+
+1957
+00:42:24,839 --> 00:42:27,589
+mára köszi hogy ezeket így bemutattad
+majd ha megvagy azzal a fejlesztésel de
+
+1958
+00:42:27,589 --> 00:42:27,599
+majd ha megvagy azzal a fejlesztésel de
+ 
+
+1959
+00:42:27,599 --> 00:42:29,910
+majd ha megvagy azzal a fejlesztésel de
+gondolom nem titok hogy hogy ez is egy
+
+1960
+00:42:29,910 --> 00:42:29,920
+gondolom nem titok hogy hogy ez is egy
+ 
+
+1961
+00:42:29,920 --> 00:42:32,790
+gondolom nem titok hogy hogy ez is egy
+ilyen fizetőrendszer illetve íy a valós
+
+1962
+00:42:32,790 --> 00:42:32,800
+ilyen fizetőrendszer illetve íy a valós
+ 
+
+1963
+00:42:32,800 --> 00:42:35,790
+ilyen fizetőrendszer illetve íy a valós
+életben használható dolog lesz épp egy
+
+1964
+00:42:35,790 --> 00:42:35,800
+életben használható dolog lesz épp egy
+ 
+
+1965
+00:42:35,800 --> 00:42:38,349
+életben használható dolog lesz épp egy
+egy hete voltam miskolcon a az hotel
+
+1966
+00:42:38,349 --> 00:42:38,359
+egy hete voltam miskolcon a az hotel
+ 
+
+1967
+00:42:38,359 --> 00:42:41,870
+egy hete voltam miskolcon a az hotel
+aurórában egyébként ott is b bitcoinnal
+
+1968
+00:42:41,870 --> 00:42:41,880
+aurórában egyébként ott is b bitcoinnal
+ 
+
+1969
+00:42:41,880 --> 00:42:44,470
+aurórában egyébként ott is b bitcoinnal
+fizettem a szobáért üüm ebédet azt
+
+1970
+00:42:44,470 --> 00:42:44,480
+fizettem a szobáért üüm ebédet azt
+ 
+
+1971
+00:42:44,480 --> 00:42:47,829
+fizettem a szobáért üüm ebédet azt
+kaptam a feritől az azért enká hát majon
+
+1972
+00:42:47,829 --> 00:42:47,839
+kaptam a feritől az azért enká hát majon
+ 
+
+1973
+00:42:47,839 --> 00:42:49,670
+kaptam a feritől az azért enká hát majon
+mind
+
+1974
+00:42:49,670 --> 00:42:49,680
+mind
+ 
+
+1975
+00:42:49,680 --> 00:42:51,990
+mind
+dolgozhat és és vol volt ott néhány
+
+1976
+00:42:51,990 --> 00:42:52,000
+dolgozhat és és vol volt ott néhány
+ 
+
+1977
+00:42:52,000 --> 00:42:53,950
+dolgozhat és és vol volt ott néhány
+tárgyalás ilyen témákban ennyit
+
+1978
+00:42:53,950 --> 00:42:53,960
+tárgyalás ilyen témákban ennyit
+ 
+
+1979
+00:42:53,960 --> 00:42:56,349
+tárgyalás ilyen témákban ennyit
+elárulhatok azért voltam a ha már
+
+1980
+00:42:56,349 --> 00:42:56,359
+elárulhatok azért voltam a ha már
+ 
+
+1981
+00:42:56,359 --> 00:42:59,589
+elárulhatok azért voltam a ha már
+feljött akkor mondjuk el bár szerintem
+
+1982
+00:42:59,589 --> 00:42:59,599
+feljött akkor mondjuk el bár szerintem
+ 
+
+1983
+00:42:59,599 --> 00:43:03,430
+feljött akkor mondjuk el bár szerintem
+sokan tudják március 21-től 23-ig
+
+1984
+00:43:03,430 --> 00:43:03,440
+sokan tudják március 21-től 23-ig
+ 
+
+1985
+00:43:03,440 --> 00:43:06,309
+sokan tudják március 21-től 23-ig
+bitcoin miskolc szervezésében hajdú
+
+1986
+00:43:06,309 --> 00:43:06,319
+bitcoin miskolc szervezésében hajdú
+ 
+
+1987
+00:43:06,319 --> 00:43:08,870
+bitcoin miskolc szervezésében hajdú
+szoboszlón a hotel
+
+1988
+00:43:08,870 --> 00:43:08,880
+szoboszlón a hotel
+ 
+
+1989
+00:43:08,880 --> 00:43:11,750
+szoboszlón a hotel
+atlantisban bitcoin konferencia lescia
+
+1990
+00:43:11,750 --> 00:43:11,760
+atlantisban bitcoin konferencia lescia
+ 
+
+1991
+00:43:11,760 --> 00:43:14,190
+atlantisban bitcoin konferencia lescia
+bitcoin miskolc hajdú
+
+1992
+00:43:14,190 --> 00:43:14,200
+bitcoin miskolc hajdú
+ 
+
+1993
+00:43:14,200 --> 00:43:16,790
+bitcoin miskolc hajdú
+szoboszlónzt ezt jól föl kell
+
+1994
+00:43:16,790 --> 00:43:16,800
+szoboszlónzt ezt jól föl kell
+ 
+
+1995
+00:43:16,800 --> 00:43:19,470
+szoboszlónzt ezt jól föl kell
+fogni mi már ott leszünk csütörtö
+
+1996
+00:43:19,470 --> 00:43:19,480
+fogni mi már ott leszünk csütörtö
+ 
+
+1997
+00:43:19,480 --> 00:43:21,430
+fogni mi már ott leszünk csütörtö
+csütörtökön már
+
+1998
+00:43:21,430 --> 00:43:21,440
+csütörtökön már
+ 
+
+1999
+00:43:21,440 --> 00:43:25,589
+csütörtökön már
+megérkezünk te is ott leszel igen azért
+
+2000
+00:43:25,589 --> 00:43:25,599
+megérkezünk te is ott leszel igen azért
+ 
+
+2001
+00:43:25,599 --> 00:43:27,630
+megérkezünk te is ott leszel igen azért
+mondtam hogy mi igen
+
+2002
+00:43:27,630 --> 00:43:27,640
+mondtam hogy mi igen
+ 
+
+2003
+00:43:27,640 --> 00:43:30,470
+mondtam hogy mi igen
+úgyhogy nagyon jó előadások lesznek
+
+2004
+00:43:30,470 --> 00:43:30,480
+úgyhogy nagyon jó előadások lesznek
+ 
+
+2005
+00:43:30,480 --> 00:43:33,309
+úgyhogy nagyon jó előadások lesznek
+szerintem ezekben a
+
+2006
+00:43:33,309 --> 00:43:33,319
+szerintem ezekben a
+ 
+
+2007
+00:43:33,319 --> 00:43:36,829
+szerintem ezekben a
+témákban meg vasárnap lesznek workshopok
+
+2008
+00:43:36,829 --> 00:43:36,839
+témákban meg vasárnap lesznek workshopok
+ 
+
+2009
+00:43:36,839 --> 00:43:39,829
+témákban meg vasárnap lesznek workshopok
+ott ott ott ilyen sokkal interaktívabb
+
+2010
+00:43:39,829 --> 00:43:39,839
+ott ott ott ilyen sokkal interaktívabb
+ 
+
+2011
+00:43:39,839 --> 00:43:42,230
+ott ott ott ilyen sokkal interaktívabb
+lesz most mint a múltkor
+
+2012
+00:43:42,230 --> 00:43:42,240
+lesz most mint a múltkor
+ 
+
+2013
+00:43:42,240 --> 00:43:44,630
+lesz most mint a múltkor
+íy hallottam feritől éjszaka megg bulik
+
+2014
+00:43:44,630 --> 00:43:44,640
+íy hallottam feritől éjszaka megg bulik
+ 
+
+2015
+00:43:44,640 --> 00:43:46,670
+íy hallottam feritől éjszaka megg bulik
+lesznek tehát most szervezett buli lesz
+
+2016
+00:43:46,670 --> 00:43:46,680
+lesznek tehát most szervezett buli lesz
+ 
+
+2017
+00:43:46,680 --> 00:43:49,069
+lesznek tehát most szervezett buli lesz
+nem ilyen spontán mint igen mint a
+
+2018
+00:43:49,069 --> 00:43:49,079
+nem ilyen spontán mint igen mint a
+ 
+
+2019
+00:43:49,079 --> 00:43:52,670
+nem ilyen spontán mint igen mint a
+múltkori a spontán volt ja de hát lehet
+
+2020
+00:43:52,670 --> 00:43:52,680
+múltkori a spontán volt ja de hát lehet
+ 
+
+2021
+00:43:52,680 --> 00:43:55,430
+múltkori a spontán volt ja de hát lehet
+hogy az jobb de most most igazi buli
+
+2022
+00:43:55,430 --> 00:43:55,440
+hogy az jobb de most most igazi buli
+ 
+
+2023
+00:43:55,440 --> 00:43:58,349
+hogy az jobb de most most igazi buli
+lesz az is ig aazi buli
+
+2024
+00:43:58,349 --> 00:43:58,359
+lesz az is ig aazi buli
+ 
+
+2025
+00:43:58,359 --> 00:44:01,470
+lesz az is ig aazi buli
+volt és ezek a szárodák ezek támogatják
+
+2026
+00:44:01,470 --> 00:44:01,480
+volt és ezek a szárodák ezek támogatják
+ 
+
+2027
+00:44:01,480 --> 00:44:04,030
+volt és ezek a szárodák ezek támogatják
+a podcastunkat is ugye igen igen hát ez
+
+2028
+00:44:04,030 --> 00:44:04,040
+a podcastunkat is ugye igen igen hát ez
+ 
+
+2029
+00:44:04,040 --> 00:44:06,750
+a podcastunkat is ugye igen igen hát ez
+gondolom ez azért így nyilvánvaló én már
+
+2030
+00:44:06,750 --> 00:44:06,760
+gondolom ez azért így nyilvánvaló én már
+ 
+
+2031
+00:44:06,760 --> 00:44:08,790
+gondolom ez azért így nyilvánvaló én már
+hírekbe nem mennék bele így a legvégén
+
+2032
+00:44:08,790 --> 00:44:08,800
+hírekbe nem mennék bele így a legvégén
+ 
+
+2033
+00:44:08,800 --> 00:44:09,990
+hírekbe nem mennék bele így a legvégén
+úgyhogy
+
+2034
+00:44:09,990 --> 00:44:10,000
+úgyhogy
+ 
+
+2035
+00:44:10,000 --> 00:44:13,470
+úgyhogy
+szerintem most akkor mára ennyi volt az
+
+2036
+00:44:13,470 --> 00:44:13,480
+szerintem most akkor mára ennyi volt az
+ 
+
+2037
+00:44:13,480 --> 00:44:16,829
+szerintem most akkor mára ennyi volt az
+adásunk iratkozzatok fel ha m í mindenki
+
+2038
+00:44:16,829 --> 00:44:16,839
+adásunk iratkozzatok fel ha m í mindenki
+ 
+
+2039
+00:44:16,839 --> 00:44:18,950
+adásunk iratkozzatok fel ha m í mindenki
+iratkozzon föl aztán hogy a jövő héten
+
+2040
+00:44:18,950 --> 00:44:18,960
+iratkozzon föl aztán hogy a jövő héten
+ 
+
+2041
+00:44:18,960 --> 00:44:21,430
+iratkozzon föl aztán hogy a jövő héten
+mi lesz meg hogy addig mi lesz majd
+
+2042
+00:44:21,430 --> 00:44:21,440
+mi lesz meg hogy addig mi lesz majd
+ 
+
+2043
+00:44:21,440 --> 00:44:24,030
+mi lesz meg hogy addig mi lesz majd
+kiderül de addig nagyon jó alkalom van
+
+2044
+00:44:24,030 --> 00:44:24,040
+kiderül de addig nagyon jó alkalom van
+ 
+
+2045
+00:44:24,040 --> 00:44:26,549
+kiderül de addig nagyon jó alkalom van
+hogy hogy hogy vásárolgassuk a kis
+
+2046
+00:44:26,549 --> 00:44:26,559
+hogy hogy hogy vásárolgassuk a kis
+ 
+
+2047
+00:44:26,559 --> 00:44:28,109
+hogy hogy hogy vásárolgassuk a kis
+bitcoint
+
+2048
+00:44:28,109 --> 00:44:28,119
+bitcoint
+ 
+
+2049
+00:44:28,119 --> 00:44:30,670
+bitcoint
+növeljük a bitcoinjain számát igen most
+
+2050
+00:44:30,670 --> 00:44:30,680
+növeljük a bitcoinjain számát igen most
+ 
+
+2051
+00:44:30,680 --> 00:44:36,430
+növeljük a bitcoinjain számát igen most
+le van árazva télvégi kiárusítás
+
+2052
+00:44:36,430 --> 00:44:36,440
+
+ 
+
+2053
+00:44:36,440 --> 00:44:41,349
+
+úgyhogy ilyenkor lehet többet vásárolni
+
+2054
+00:44:41,349 --> 00:44:41,359
+úgyhogy ilyenkor lehet többet vásárolni
+ 
+
+2055
+00:44:41,359 --> 00:44:43,390
+úgyhogy ilyenkor lehet többet vásárolni
+ugyanannyiért köszönöm a figyelmeet
+
+2056
+00:44:43,390 --> 00:44:43,400
+ugyanannyiért köszönöm a figyelmeet
+ 
+
+2057
+00:44:43,400 --> 00:44:45,220
+ugyanannyiért köszönöm a figyelmeet
+mindenkinek
+
+2058
+00:44:45,220 --> 00:44:45,230
+mindenkinek
+ 
+
+2059
+00:44:45,230 --> 00:44:51,170
+mindenkinek
+[Zene]
+
+2060
+00:44:51,170 --> 00:44:51,180
+
+ 
+
+2061
+00:44:51,180 --> 00:44:57,940
+
+[Zene]
+

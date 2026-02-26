@@ -1,0 +1,11055 @@
+1
+00:00:00,040 --> 00:00:02,550
+
+Ugye azért akarják egymástól elvenni az
+
+2
+00:00:02,550 --> 00:00:02,560
+Ugye azért akarják egymástól elvenni az
+ 
+
+3
+00:00:02,560 --> 00:00:04,390
+Ugye azért akarják egymástól elvenni az
+emberek az aranyat meg a meg a
+
+4
+00:00:04,390 --> 00:00:04,400
+emberek az aranyat meg a meg a
+ 
+
+5
+00:00:04,400 --> 00:00:07,150
+emberek az aranyat meg a meg a
+termőföldet, mertogy mert hogy ezeket
+
+6
+00:00:07,150 --> 00:00:07,160
+termőföldet, mertogy mert hogy ezeket
+ 
+
+7
+00:00:07,160 --> 00:00:09,950
+termőföldet, mertogy mert hogy ezeket
+nem lehet csak úgy előállítani, tehát
+
+8
+00:00:09,950 --> 00:00:09,960
+nem lehet csak úgy előállítani, tehát
+ 
+
+9
+00:00:09,960 --> 00:00:13,950
+nem lehet csak úgy előállítani, tehát
+hogy ezek ez ezek szűkösek vagy ritkák,
+
+10
+00:00:13,950 --> 00:00:13,960
+hogy ezek ez ezek szűkösek vagy ritkák,
+ 
+
+11
+00:00:13,960 --> 00:00:15,990
+hogy ezek ez ezek szűkösek vagy ritkák,
+és hogy a Bitcoin is alapvetően egy
+
+12
+00:00:15,990 --> 00:00:16,000
+és hogy a Bitcoin is alapvetően egy
+ 
+
+13
+00:00:16,000 --> 00:00:18,990
+és hogy a Bitcoin is alapvetően egy
+ilyen pénzügyi eszköz, hogyha azt jól
+
+14
+00:00:18,990 --> 00:00:19,000
+ilyen pénzügyi eszköz, hogyha azt jól
+ 
+
+15
+00:00:19,000 --> 00:00:21,750
+ilyen pénzügyi eszköz, hogyha azt jól
+jól tároljuk, akkor akkor ezt nem lehet
+
+16
+00:00:21,750 --> 00:00:21,760
+jól tároljuk, akkor akkor ezt nem lehet
+ 
+
+17
+00:00:21,760 --> 00:00:24,109
+jól tároljuk, akkor akkor ezt nem lehet
+csak úgy elvenni az embertől. És azért
+
+18
+00:00:24,109 --> 00:00:24,119
+csak úgy elvenni az embertől. És azért
+ 
+
+19
+00:00:24,119 --> 00:00:26,070
+csak úgy elvenni az embertől. És azért
+is gondoltam erről picit beszélni, mert
+
+20
+00:00:26,070 --> 00:00:26,080
+is gondoltam erről picit beszélni, mert
+ 
+
+21
+00:00:26,080 --> 00:00:28,390
+is gondoltam erről picit beszélni, mert
+ez mocorgott most így bennem aktuálisan,
+
+22
+00:00:28,390 --> 00:00:28,400
+ez mocorgott most így bennem aktuálisan,
+ 
+
+23
+00:00:28,400 --> 00:00:31,070
+ez mocorgott most így bennem aktuálisan,
+hogy néztem ezt a podcastot és
+
+24
+00:00:31,070 --> 00:00:31,080
+hogy néztem ezt a podcastot és
+ 
+
+25
+00:00:31,080 --> 00:00:34,190
+hogy néztem ezt a podcastot és
+és ugye a mi mi mai adásunknak is a a
+
+26
+00:00:34,190 --> 00:00:34,200
+és ugye a mi mi mai adásunknak is a a
+ 
+
+27
+00:00:34,200 --> 00:00:37,630
+és ugye a mi mi mai adásunknak is a a
+lényegi témája ez, hogy hogyan hogyan
+
+28
+00:00:37,630 --> 00:00:37,640
+lényegi témája ez, hogy hogyan hogyan
+ 
+
+29
+00:00:37,640 --> 00:00:40,430
+lényegi témája ez, hogy hogyan hogyan
+tároljuk úgy a bitcoint, hogy hogy
+
+30
+00:00:40,430 --> 00:00:40,440
+tároljuk úgy a bitcoint, hogy hogy
+ 
+
+31
+00:00:40,440 --> 00:00:42,750
+tároljuk úgy a bitcoint, hogy hogy
+teljes kontrollunk van fölötte, hogy ezt
+
+32
+00:00:42,750 --> 00:00:42,760
+teljes kontrollunk van fölötte, hogy ezt
+ 
+
+33
+00:00:42,760 --> 00:00:46,389
+teljes kontrollunk van fölötte, hogy ezt
+a angolban a self custody szóval
+
+34
+00:00:46,389 --> 00:00:46,399
+a angolban a self custody szóval
+ 
+
+35
+00:00:46,399 --> 00:00:49,029
+a angolban a self custody szóval
+illetik, tehát hogy ilyen önmagunk
+
+36
+00:00:49,029 --> 00:00:49,039
+illetik, tehát hogy ilyen önmagunk
+ 
+
+37
+00:00:49,039 --> 00:00:53,750
+illetik, tehát hogy ilyen önmagunk
+rendelkezünk a a tárcánk tart tartalma
+
+38
+00:00:53,750 --> 00:00:53,760
+rendelkezünk a a tárcánk tart tartalma
+ 
+
+39
+00:00:53,760 --> 00:00:56,590
+rendelkezünk a a tárcánk tart tartalma
+felett. De szerintem itt át is adom
+
+40
+00:00:56,590 --> 00:00:56,600
+felett. De szerintem itt át is adom
+ 
+
+41
+00:00:56,600 --> 00:01:00,270
+felett. De szerintem itt át is adom
+neked a szót, Tamás, hogy hogy te te
+
+42
+00:01:00,270 --> 00:01:00,280
+neked a szót, Tamás, hogy hogy te te
+ 
+
+43
+00:01:00,280 --> 00:01:03,670
+neked a szót, Tamás, hogy hogy te te
+hogy építenéd fel ezt, hogy hogy mi is
+
+44
+00:01:03,670 --> 00:01:03,680
+hogy építenéd fel ezt, hogy hogy mi is
+ 
+
+45
+00:01:03,680 --> 00:01:05,229
+hogy építenéd fel ezt, hogy hogy mi is
+mi is ez a self custody vagy
+
+46
+00:01:05,229 --> 00:01:05,239
+mi is ez a self custody vagy
+ 
+
+47
+00:01:05,239 --> 00:01:07,149
+mi is ez a self custody vagy
+önrendelkezés, vagy vagy nem tudom te
+
+48
+00:01:07,149 --> 00:01:07,159
+önrendelkezés, vagy vagy nem tudom te
+ 
+
+49
+00:01:07,159 --> 00:01:09,550
+önrendelkezés, vagy vagy nem tudom te
+hogy fordítanád ezt? Hát az
+
+50
+00:01:09,550 --> 00:01:09,560
+hogy fordítanád ezt? Hát az
+ 
+
+51
+00:01:09,560 --> 00:01:12,270
+hogy fordítanád ezt? Hát az
+önrendelkezés az egy
+
+52
+00:01:12,270 --> 00:01:12,280
+önrendelkezés az egy
+ 
+
+53
+00:01:12,280 --> 00:01:16,109
+önrendelkezés az egy
+az egy jó szó, és nem megszokott, tehát
+
+54
+00:01:16,109 --> 00:01:16,119
+az egy jó szó, és nem megszokott, tehát
+ 
+
+55
+00:01:16,119 --> 00:01:18,630
+az egy jó szó, és nem megszokott, tehát
+nagyon
+
+56
+00:01:18,630 --> 00:01:18,640
+nagyon
+ 
+
+57
+00:01:18,640 --> 00:01:21,390
+nagyon
+nincs az emberek gondolkodásában,
+
+58
+00:01:21,390 --> 00:01:21,400
+nincs az emberek gondolkodásában,
+ 
+
+59
+00:01:21,400 --> 00:01:23,350
+nincs az emberek gondolkodásában,
+illetve maximum ott merül föl, amikor
+
+60
+00:01:23,350 --> 00:01:23,360
+illetve maximum ott merül föl, amikor
+ 
+
+61
+00:01:23,360 --> 00:01:25,390
+illetve maximum ott merül föl, amikor
+erről is volt szó már az előbb, vagy az
+
+62
+00:01:25,390 --> 00:01:25,400
+erről is volt szó már az előbb, vagy az
+ 
+
+63
+00:01:25,400 --> 00:01:27,789
+erről is volt szó már az előbb, vagy az
+előző adásban, hogy készpénz vagy
+
+64
+00:01:27,789 --> 00:01:27,799
+előző adásban, hogy készpénz vagy
+ 
+
+65
+00:01:27,799 --> 00:01:29,469
+előző adásban, hogy készpénz vagy
+kártyás fizetés, vita.
+
+66
+00:01:29,469 --> 00:01:29,479
+kártyás fizetés, vita.
+ 
+
+67
+00:01:29,479 --> 00:01:30,190
+kártyás fizetés, vita.
+>> Ühüm.
+
+68
+00:01:30,190 --> 00:01:30,200
+>> Ühüm.
+ 
+
+69
+00:01:30,200 --> 00:01:35,030
+>> Ühüm.
+>> Ez k ez valami hasonlóról szól igazából.
+
+70
+00:01:35,030 --> 00:01:35,040
+>> Ez k ez valami hasonlóról szól igazából.
+ 
+
+71
+00:01:35,040 --> 00:01:37,550
+>> Ez k ez valami hasonlóról szól igazából.
+Csak a határvonal az nem ott kéne, hogy
+
+72
+00:01:37,550 --> 00:01:37,560
+Csak a határvonal az nem ott kéne, hogy
+ 
+
+73
+00:01:37,560 --> 00:01:39,789
+Csak a határvonal az nem ott kéne, hogy
+legyen, hogy kézpénz vagy kártyás
+
+74
+00:01:39,789 --> 00:01:39,799
+legyen, hogy kézpénz vagy kártyás
+ 
+
+75
+00:01:39,799 --> 00:01:41,630
+legyen, hogy kézpénz vagy kártyás
+fizetés, hanem ott kéne, hogy legyen,
+
+76
+00:01:41,630 --> 00:01:41,640
+fizetés, hanem ott kéne, hogy legyen,
+ 
+
+77
+00:01:41,640 --> 00:01:45,670
+fizetés, hanem ott kéne, hogy legyen,
+hogy fiat pénz vagy bitcoin,
+
+78
+00:01:45,670 --> 00:01:45,680
+hogy fiat pénz vagy bitcoin,
+ 
+
+79
+00:01:45,680 --> 00:01:47,069
+hogy fiat pénz vagy bitcoin,
+mert nem az számít, hogy digitális,
+
+80
+00:01:47,069 --> 00:01:47,079
+mert nem az számít, hogy digitális,
+ 
+
+81
+00:01:47,079 --> 00:01:49,789
+mert nem az számít, hogy digitális,
+hanem az számít, hogy hogy ki van
+
+82
+00:01:49,789 --> 00:01:49,799
+hanem az számít, hogy hogy ki van
+ 
+
+83
+00:01:49,799 --> 00:01:51,709
+hanem az számít, hogy hogy ki van
+kontrollban
+
+84
+00:01:51,709 --> 00:01:51,719
+kontrollban
+ 
+
+85
+00:01:51,719 --> 00:01:53,069
+kontrollban
+a pénz fölött.
+
+86
+00:01:53,069 --> 00:01:53,079
+a pénz fölött.
+ 
+
+87
+00:01:53,079 --> 00:01:55,749
+a pénz fölött.
+>> A self custody teszi ezt lehetővé,
+
+88
+00:01:55,749 --> 00:01:55,759
+>> A self custody teszi ezt lehetővé,
+ 
+
+89
+00:01:55,759 --> 00:01:57,709
+>> A self custody teszi ezt lehetővé,
+vagyis az önrendelkezés teszi ezt
+
+90
+00:01:57,709 --> 00:01:57,719
+vagyis az önrendelkezés teszi ezt
+ 
+
+91
+00:01:57,719 --> 00:02:00,270
+vagyis az önrendelkezés teszi ezt
+lehetővé. Tehát
+
+92
+00:02:00,270 --> 00:02:00,280
+lehetővé. Tehát
+ 
+
+93
+00:02:00,280 --> 00:02:02,389
+lehetővé. Tehát
+>> ez egy nagyon-nagyon fontos ismérve a
+
+94
+00:02:02,389 --> 00:02:02,399
+>> ez egy nagyon-nagyon fontos ismérve a
+ 
+
+95
+00:02:02,399 --> 00:02:04,990
+>> ez egy nagyon-nagyon fontos ismérve a
+Bitcoinnak.
+
+96
+00:02:04,990 --> 00:02:05,000
+Bitcoinnak.
+ 
+
+97
+00:02:05,000 --> 00:02:07,510
+Bitcoinnak.
+Ez azt jelenti, hogy mindenki a saját
+
+98
+00:02:07,510 --> 00:02:07,520
+Ez azt jelenti, hogy mindenki a saját
+ 
+
+99
+00:02:07,520 --> 00:02:10,070
+Ez azt jelenti, hogy mindenki a saját
+bitcoinjáért felel. Tehát ha te veszel
+
+100
+00:02:10,070 --> 00:02:10,080
+bitcoinjáért felel. Tehát ha te veszel
+ 
+
+101
+00:02:10,080 --> 00:02:12,270
+bitcoinjáért felel. Tehát ha te veszel
+egy egy bitcoint, vagy egy felet, vagy
+
+102
+00:02:12,270 --> 00:02:12,280
+egy egy bitcoint, vagy egy felet, vagy
+ 
+
+103
+00:02:12,280 --> 00:02:14,550
+egy egy bitcoint, vagy egy felet, vagy
+egy negyedet, vagy egy századot, vagy
+
+104
+00:02:14,550 --> 00:02:14,560
+egy negyedet, vagy egy századot, vagy
+ 
+
+105
+00:02:14,560 --> 00:02:17,790
+egy negyedet, vagy egy századot, vagy
+100-at, mindegy mennyit, ki amennyit tud
+
+106
+00:02:17,790 --> 00:02:17,800
+100-at, mindegy mennyit, ki amennyit tud
+ 
+
+107
+00:02:17,800 --> 00:02:20,990
+100-at, mindegy mennyit, ki amennyit tud
+vagy akar, az saját magának fogja
+
+108
+00:02:20,990 --> 00:02:21,000
+vagy akar, az saját magának fogja
+ 
+
+109
+00:02:21,000 --> 00:02:22,710
+vagy akar, az saját magának fogja
+tárolni. Tehát itt bejön egy olyan
+
+110
+00:02:22,710 --> 00:02:22,720
+tárolni. Tehát itt bejön egy olyan
+ 
+
+111
+00:02:22,720 --> 00:02:25,070
+tárolni. Tehát itt bejön egy olyan
+felelősség a képbe, ami eddig nem volt
+
+112
+00:02:25,070 --> 00:02:25,080
+felelősség a képbe, ami eddig nem volt
+ 
+
+113
+00:02:25,080 --> 00:02:27,830
+felelősség a képbe, ami eddig nem volt
+ismert. Tehát azt mondtuk, hogy oké,
+
+114
+00:02:27,830 --> 00:02:27,840
+ismert. Tehát azt mondtuk, hogy oké,
+ 
+
+115
+00:02:27,840 --> 00:02:29,710
+ismert. Tehát azt mondtuk, hogy oké,
+részeg voltam, jó volt a buli, viszont
+
+116
+00:02:29,710 --> 00:02:29,720
+részeg voltam, jó volt a buli, viszont
+ 
+
+117
+00:02:29,720 --> 00:02:30,869
+részeg voltam, jó volt a buli, viszont
+elhagytam a személyimet, a
+
+118
+00:02:30,869 --> 00:02:30,879
+elhagytam a személyimet, a
+ 
+
+119
+00:02:30,879 --> 00:02:33,790
+elhagytam a személyimet, a
+bankkártyáimat satöbbi. Semmi gond.
+
+120
+00:02:33,790 --> 00:02:33,800
+bankkártyáimat satöbbi. Semmi gond.
+ 
+
+121
+00:02:33,800 --> 00:02:36,070
+bankkártyáimat satöbbi. Semmi gond.
+Bementél eddig egy bankba, és adtak egy
+
+122
+00:02:36,070 --> 00:02:36,080
+Bementél eddig egy bankba, és adtak egy
+ 
+
+123
+00:02:36,080 --> 00:02:37,910
+Bementél eddig egy bankba, és adtak egy
+másik kártyát, mondjuk 10 nap múlva
+
+124
+00:02:37,910 --> 00:02:37,920
+másik kártyát, mondjuk 10 nap múlva
+ 
+
+125
+00:02:37,920 --> 00:02:40,670
+másik kártyát, mondjuk 10 nap múlva
+kiküldték. Tehát a bank őrizte a a
+
+126
+00:02:40,670 --> 00:02:40,680
+kiküldték. Tehát a bank őrizte a a
+ 
+
+127
+00:02:40,680 --> 00:02:42,190
+kiküldték. Tehát a bank őrizte a a
+személyzonosságodhoz
+
+128
+00:02:42,190 --> 00:02:42,200
+személyzonosságodhoz
+ 
+
+129
+00:02:42,200 --> 00:02:44,790
+személyzonosságodhoz
+köthető jogaidat, ugye, tehát a
+
+130
+00:02:44,790 --> 00:02:44,800
+köthető jogaidat, ugye, tehát a
+ 
+
+131
+00:02:44,800 --> 00:02:47,509
+köthető jogaidat, ugye, tehát a
+bankszámla fölötti rendelkezést úgy
+
+132
+00:02:47,509 --> 00:02:47,519
+bankszámla fölötti rendelkezést úgy
+ 
+
+133
+00:02:47,519 --> 00:02:49,990
+bankszámla fölötti rendelkezést úgy
+tudtad megadni, hogy ott voltál, de ha
+
+134
+00:02:49,990 --> 00:02:50,000
+tudtad megadni, hogy ott voltál, de ha
+ 
+
+135
+00:02:50,000 --> 00:02:51,630
+tudtad megadni, hogy ott voltál, de ha
+elveszett a kártyád, akkor nem a
+
+136
+00:02:51,630 --> 00:02:51,640
+elveszett a kártyád, akkor nem a
+ 
+
+137
+00:02:51,640 --> 00:02:53,630
+elveszett a kártyád, akkor nem a
+kártyához tartozott a számla, hanem
+
+138
+00:02:53,630 --> 00:02:53,640
+kártyához tartozott a számla, hanem
+ 
+
+139
+00:02:53,640 --> 00:02:56,470
+kártyához tartozott a számla, hanem
+hozzád tartozik. Most a Bitcoinnál ugye
+
+140
+00:02:56,470 --> 00:02:56,480
+hozzád tartozik. Most a Bitcoinnál ugye
+ 
+
+141
+00:02:56,480 --> 00:02:58,470
+hozzád tartozik. Most a Bitcoinnál ugye
+nem így van. Tehát a Bitcoin az egy
+
+142
+00:02:58,470 --> 00:02:58,480
+nem így van. Tehát a Bitcoin az egy
+ 
+
+143
+00:02:58,480 --> 00:03:00,710
+nem így van. Tehát a Bitcoin az egy
+teljesen úgy fogalom, tehát itt nem
+
+144
+00:03:00,710 --> 00:03:00,720
+teljesen úgy fogalom, tehát itt nem
+ 
+
+145
+00:03:00,720 --> 00:03:02,830
+teljesen úgy fogalom, tehát itt nem
+számlavezetők vannak, meg számlák
+
+146
+00:03:02,830 --> 00:03:02,840
+számlavezetők vannak, meg számlák
+ 
+
+147
+00:03:02,840 --> 00:03:05,990
+számlavezetők vannak, meg számlák
+vannak, mindenki kulcsokon keresztül
+
+148
+00:03:05,990 --> 00:03:06,000
+vannak, mindenki kulcsokon keresztül
+ 
+
+149
+00:03:06,000 --> 00:03:07,509
+vannak, mindenki kulcsokon keresztül
+uralja. Tehát úgy van, hogyha van
+
+150
+00:03:07,509 --> 00:03:07,519
+uralja. Tehát úgy van, hogyha van
+ 
+
+151
+00:03:07,519 --> 00:03:09,589
+uralja. Tehát úgy van, hogyha van
+bitcoinod, akkor gyakorlatilag te neked
+
+152
+00:03:09,589 --> 00:03:09,599
+bitcoinod, akkor gyakorlatilag te neked
+ 
+
+153
+00:03:09,599 --> 00:03:12,630
+bitcoinod, akkor gyakorlatilag te neked
+van egy privát kulcsod, amivel azt a
+
+154
+00:03:12,630 --> 00:03:12,640
+van egy privát kulcsod, amivel azt a
+ 
+
+155
+00:03:12,640 --> 00:03:15,190
+van egy privát kulcsod, amivel azt a
+bitcoint fel tudod szabadítani, tehát el
+
+156
+00:03:15,190 --> 00:03:15,200
+bitcoint fel tudod szabadítani, tehát el
+ 
+
+157
+00:03:15,200 --> 00:03:17,910
+bitcoint fel tudod szabadítani, tehát el
+tudod költeni, vagy át tudod küldeni egy
+
+158
+00:03:17,910 --> 00:03:17,920
+tudod költeni, vagy át tudod küldeni egy
+ 
+
+159
+00:03:17,920 --> 00:03:20,550
+tudod költeni, vagy át tudod küldeni egy
+másik valetbe,
+
+160
+00:03:20,550 --> 00:03:20,560
+másik valetbe,
+ 
+
+161
+00:03:20,560 --> 00:03:23,229
+másik valetbe,
+egy másik szót tudsz vele csinálni.
+
+162
+00:03:23,229 --> 00:03:23,239
+egy másik szót tudsz vele csinálni.
+ 
+
+163
+00:03:23,239 --> 00:03:25,350
+egy másik szót tudsz vele csinálni.
+Tehát a privát kulcsodat az az viszont
+
+164
+00:03:25,350 --> 00:03:25,360
+Tehát a privát kulcsodat az az viszont
+ 
+
+165
+00:03:25,360 --> 00:03:27,589
+Tehát a privát kulcsodat az az viszont
+rád van bízva. És itt jön ez a az
+
+166
+00:03:27,589 --> 00:03:27,599
+rád van bízva. És itt jön ez a az
+ 
+
+167
+00:03:27,599 --> 00:03:30,070
+rád van bízva. És itt jön ez a az
+önrendelkezés a legfontosabb dolog
+
+168
+00:03:30,070 --> 00:03:30,080
+önrendelkezés a legfontosabb dolog
+ 
+
+169
+00:03:30,080 --> 00:03:32,470
+önrendelkezés a legfontosabb dolog
+ebben, tehát hogy a a privát kulcsoddal
+
+170
+00:03:32,470 --> 00:03:32,480
+ebben, tehát hogy a a privát kulcsoddal
+ 
+
+171
+00:03:32,480 --> 00:03:34,710
+ebben, tehát hogy a a privát kulcsoddal
+te rendelkezel saját magad. Hogyha azt
+
+172
+00:03:34,710 --> 00:03:34,720
+te rendelkezel saját magad. Hogyha azt
+ 
+
+173
+00:03:34,720 --> 00:03:37,869
+te rendelkezel saját magad. Hogyha azt
+el elárulod másnak, akkor az
+
+174
+00:03:37,869 --> 00:03:37,879
+el elárulod másnak, akkor az
+ 
+
+175
+00:03:37,879 --> 00:03:40,429
+el elárulod másnak, akkor az
+információval már ő is rendelkezik.
+
+176
+00:03:40,429 --> 00:03:40,439
+információval már ő is rendelkezik.
+ 
+
+177
+00:03:40,439 --> 00:03:44,429
+információval már ő is rendelkezik.
+Tehát az információ megduplázódik ilyen
+
+178
+00:03:44,429 --> 00:03:44,439
+Tehát az információ megduplázódik ilyen
+ 
+
+179
+00:03:44,439 --> 00:03:46,630
+Tehát az információ megduplázódik ilyen
+esetben. Tehát az a személy is a privát
+
+180
+00:03:46,630 --> 00:03:46,640
+esetben. Tehát az a személy is a privát
+ 
+
+181
+00:03:46,640 --> 00:03:49,550
+esetben. Tehát az a személy is a privát
+kulcsoddal annak ismeretében rendelkezik
+
+182
+00:03:49,550 --> 00:03:49,560
+kulcsoddal annak ismeretében rendelkezik
+ 
+
+183
+00:03:49,560 --> 00:03:51,589
+kulcsoddal annak ismeretében rendelkezik
+a bitcoinod fölött. Ugye ezt senki nem
+
+184
+00:03:51,589 --> 00:03:51,599
+a bitcoinod fölött. Ugye ezt senki nem
+ 
+
+185
+00:03:51,599 --> 00:03:53,869
+a bitcoinod fölött. Ugye ezt senki nem
+akarja, ezért
+
+186
+00:03:53,869 --> 00:03:53,879
+akarja, ezért
+ 
+
+187
+00:03:53,879 --> 00:03:56,710
+akarja, ezért
+mindenkinek saját felelősségű a a privát
+
+188
+00:03:56,710 --> 00:03:56,720
+mindenkinek saját felelősségű a a privát
+ 
+
+189
+00:03:56,720 --> 00:03:59,630
+mindenkinek saját felelősségű a a privát
+kulcsait olyan titokban tartani és
+
+190
+00:03:59,630 --> 00:03:59,640
+kulcsait olyan titokban tartani és
+ 
+
+191
+00:03:59,640 --> 00:04:02,229
+kulcsait olyan titokban tartani és
+kezelni, amilyen csak tudja. Erre
+
+192
+00:04:02,229 --> 00:04:02,239
+kezelni, amilyen csak tudja. Erre
+ 
+
+193
+00:04:02,239 --> 00:04:04,429
+kezelni, amilyen csak tudja. Erre
+többféle módszer van. Vannak hardware
+
+194
+00:04:04,429 --> 00:04:04,439
+többféle módszer van. Vannak hardware
+ 
+
+195
+00:04:04,439 --> 00:04:07,429
+többféle módszer van. Vannak hardware
+valletek, ezek olyan kis kulcstároló
+
+196
+00:04:07,429 --> 00:04:07,439
+valletek, ezek olyan kis kulcstároló
+ 
+
+197
+00:04:07,439 --> 00:04:10,789
+valletek, ezek olyan kis kulcstároló
+eszközök, amik egy bejutó kódért
+
+198
+00:04:10,789 --> 00:04:10,799
+eszközök, amik egy bejutó kódért
+ 
+
+199
+00:04:10,799 --> 00:04:12,949
+eszközök, amik egy bejutó kódért
+tárolják neked a privát kulcsodat. Nem
+
+200
+00:04:12,949 --> 00:04:12,959
+tárolják neked a privát kulcsodat. Nem
+ 
+
+201
+00:04:12,959 --> 00:04:14,670
+tárolják neked a privát kulcsodat. Nem
+kell megjegyezni ezt a kilométeres
+
+202
+00:04:14,670 --> 00:04:14,680
+kell megjegyezni ezt a kilométeres
+ 
+
+203
+00:04:14,680 --> 00:04:17,830
+kell megjegyezni ezt a kilométeres
+stringet, ezt a betűbinációt.
+
+204
+00:04:17,830 --> 00:04:17,840
+stringet, ezt a betűbinációt.
+ 
+
+205
+00:04:17,840 --> 00:04:19,749
+stringet, ezt a betűbinációt.
+Nyilván ezt nem is lehet egy emberi
+
+206
+00:04:19,749 --> 00:04:19,759
+Nyilván ezt nem is lehet egy emberi
+ 
+
+207
+00:04:19,759 --> 00:04:21,189
+Nyilván ezt nem is lehet egy emberi
+fejjel, vagy nem kell mindig papíról
+
+208
+00:04:21,189 --> 00:04:21,199
+fejjel, vagy nem kell mindig papíról
+ 
+
+209
+00:04:21,199 --> 00:04:22,749
+fejjel, vagy nem kell mindig papíról
+beírogatni, hanem azt mondod, hogy a
+
+210
+00:04:22,749 --> 00:04:22,759
+beírogatni, hanem azt mondod, hogy a
+ 
+
+211
+00:04:22,759 --> 00:04:27,870
+beírogatni, hanem azt mondod, hogy a
+hardware lettedbe bejutva egy pin kóddal
+
+212
+00:04:27,870 --> 00:04:27,880
+hardware lettedbe bejutva egy pin kóddal
+ 
+
+213
+00:04:27,880 --> 00:04:31,350
+hardware lettedbe bejutva egy pin kóddal
+eléred a kulcsaidat.
+
+214
+00:04:31,350 --> 00:04:31,360
+eléred a kulcsaidat.
+ 
+
+215
+00:04:31,360 --> 00:04:32,830
+eléred a kulcsaidat.
+Na igen, itt bejön majd a hardware
+
+216
+00:04:32,830 --> 00:04:32,840
+Na igen, itt bejön majd a hardware
+ 
+
+217
+00:04:32,840 --> 00:04:34,990
+Na igen, itt bejön majd a hardware
+valetek biztonsága, meg egyéb valet
+
+218
+00:04:34,990 --> 00:04:35,000
+valetek biztonsága, meg egyéb valet
+ 
+
+219
+00:04:35,000 --> 00:04:36,670
+valetek biztonsága, meg egyéb valet
+biztonság, de azt szerintem azt majd
+
+220
+00:04:36,670 --> 00:04:36,680
+biztonság, de azt szerintem azt majd
+ 
+
+221
+00:04:36,680 --> 00:04:39,590
+biztonság, de azt szerintem azt majd
+kimerítjük egy másik adásba. Röviden a
+
+222
+00:04:39,590 --> 00:04:39,600
+kimerítjük egy másik adásba. Röviden a
+ 
+
+223
+00:04:39,600 --> 00:04:41,310
+kimerítjük egy másik adásba. Röviden a
+önrendelkezésről csak annyit szeretnék
+
+224
+00:04:41,310 --> 00:04:41,320
+önrendelkezésről csak annyit szeretnék
+ 
+
+225
+00:04:41,320 --> 00:04:43,670
+önrendelkezésről csak annyit szeretnék
+mondani, hogy ez egy újfajta
+
+226
+00:04:43,670 --> 00:04:43,680
+mondani, hogy ez egy újfajta
+ 
+
+227
+00:04:43,680 --> 00:04:45,790
+mondani, hogy ez egy újfajta
+felelősséget
+
+228
+00:04:45,790 --> 00:04:45,800
+felelősséget
+ 
+
+229
+00:04:45,800 --> 00:04:48,870
+felelősséget
+kíván meg. Tehát bejön a felelősség az
+
+230
+00:04:48,870 --> 00:04:48,880
+kíván meg. Tehát bejön a felelősség az
+ 
+
+231
+00:04:48,880 --> 00:04:51,870
+kíván meg. Tehát bejön a felelősség az
+emberek életébe. És ez mostanában
+
+232
+00:04:51,870 --> 00:04:51,880
+emberek életébe. És ez mostanában
+ 
+
+233
+00:04:51,880 --> 00:04:54,629
+emberek életébe. És ez mostanában
+kiment, hiszen
+
+234
+00:04:54,629 --> 00:04:54,639
+kiment, hiszen
+ 
+
+235
+00:04:54,639 --> 00:04:57,350
+kiment, hiszen
+nem vagyunk nagyon felelősek semmiért,
+
+236
+00:04:57,350 --> 00:04:57,360
+nem vagyunk nagyon felelősek semmiért,
+ 
+
+237
+00:04:57,360 --> 00:04:59,550
+nem vagyunk nagyon felelősek semmiért,
+főleg a politikusoknál. Tehát ők simán
+
+238
+00:04:59,550 --> 00:04:59,560
+főleg a politikusoknál. Tehát ők simán
+ 
+
+239
+00:04:59,560 --> 00:05:01,430
+főleg a politikusoknál. Tehát ők simán
+hoznak olyan döntéseket, amiért nem kell
+
+240
+00:05:01,430 --> 00:05:01,440
+hoznak olyan döntéseket, amiért nem kell
+ 
+
+241
+00:05:01,440 --> 00:05:04,469
+hoznak olyan döntéseket, amiért nem kell
+felelniük. majd felelérte a több 10
+
+242
+00:05:04,469 --> 00:05:04,479
+felelniük. majd felelérte a több 10
+ 
+
+243
+00:05:04,479 --> 00:05:07,230
+felelniük. majd felelérte a több 10
+millió ember a munkájával, meg az
+
+244
+00:05:07,230 --> 00:05:07,240
+millió ember a munkájával, meg az
+ 
+
+245
+00:05:07,240 --> 00:05:11,270
+millió ember a munkájával, meg az
+életével, vagy az idejével.
+
+246
+00:05:11,270 --> 00:05:11,280
+életével, vagy az idejével.
+ 
+
+247
+00:05:11,280 --> 00:05:13,950
+életével, vagy az idejével.
+A bitcoinba az önrendelkezéssel
+
+248
+00:05:13,950 --> 00:05:13,960
+A bitcoinba az önrendelkezéssel
+ 
+
+249
+00:05:13,960 --> 00:05:15,550
+A bitcoinba az önrendelkezéssel
+saját magad vagy felelős a
+
+250
+00:05:15,550 --> 00:05:15,560
+saját magad vagy felelős a
+ 
+
+251
+00:05:15,560 --> 00:05:18,070
+saját magad vagy felelős a
+bitcoinjaidért. Tehát azt el kell raknod
+
+252
+00:05:18,070 --> 00:05:18,080
+bitcoinjaidért. Tehát azt el kell raknod
+ 
+
+253
+00:05:18,080 --> 00:05:20,830
+bitcoinjaidért. Tehát azt el kell raknod
+és őrizned és tudni, hogy hol vannak és
+
+254
+00:05:20,830 --> 00:05:20,840
+és őrizned és tudni, hogy hol vannak és
+ 
+
+255
+00:05:20,840 --> 00:05:23,070
+és őrizned és tudni, hogy hol vannak és
+mi a kódja. Ketté három felé tudod
+
+256
+00:05:23,070 --> 00:05:23,080
+mi a kódja. Ketté három felé tudod
+ 
+
+257
+00:05:23,080 --> 00:05:24,950
+mi a kódja. Ketté három felé tudod
+szedni őket.
+
+258
+00:05:24,950 --> 00:05:24,960
+szedni őket.
+ 
+
+259
+00:05:24,960 --> 00:05:27,270
+szedni őket.
+viszont ez a nagy felelősség és ez az
+
+260
+00:05:27,270 --> 00:05:27,280
+viszont ez a nagy felelősség és ez az
+ 
+
+261
+00:05:27,280 --> 00:05:29,749
+viszont ez a nagy felelősség és ez az
+óriási feladat behoz egy egy nagyon nagy
+
+262
+00:05:29,749 --> 00:05:29,759
+óriási feladat behoz egy egy nagyon nagy
+ 
+
+263
+00:05:29,759 --> 00:05:32,550
+óriási feladat behoz egy egy nagyon nagy
+jutalmat, mégpedig az, hogy senki más
+
+264
+00:05:32,550 --> 00:05:32,560
+jutalmat, mégpedig az, hogy senki más
+ 
+
+265
+00:05:32,560 --> 00:05:35,110
+jutalmat, mégpedig az, hogy senki más
+nem tudja elvenni. Tehát hogyha te azt
+
+266
+00:05:35,110 --> 00:05:35,120
+nem tudja elvenni. Tehát hogyha te azt
+ 
+
+267
+00:05:35,120 --> 00:05:38,430
+nem tudja elvenni. Tehát hogyha te azt
+megfelelően őrzöd, senki nem fogja tudni
+
+268
+00:05:38,430 --> 00:05:38,440
+megfelelően őrzöd, senki nem fogja tudni
+ 
+
+269
+00:05:38,440 --> 00:05:42,390
+megfelelően őrzöd, senki nem fogja tudni
+elvenni tőled erőszakkal sem.
+
+270
+00:05:42,390 --> 00:05:42,400
+elvenni tőled erőszakkal sem.
+ 
+
+271
+00:05:42,400 --> 00:05:44,830
+elvenni tőled erőszakkal sem.
+Ez viszont ismét behoz egy csomó dolgot.
+
+272
+00:05:44,830 --> 00:05:44,840
+Ez viszont ismét behoz egy csomó dolgot.
+ 
+
+273
+00:05:44,840 --> 00:05:47,510
+Ez viszont ismét behoz egy csomó dolgot.
+Például itt van a az adózás a jövőben.
+
+274
+00:05:47,510 --> 00:05:47,520
+Például itt van a az adózás a jövőben.
+ 
+
+275
+00:05:47,520 --> 00:05:50,309
+Például itt van a az adózás a jövőben.
+Ugye eddig az államok ugye úgy szedték a
+
+276
+00:05:50,309 --> 00:05:50,319
+Ugye eddig az államok ugye úgy szedték a
+ 
+
+277
+00:05:50,319 --> 00:05:52,909
+Ugye eddig az államok ugye úgy szedték a
+a bevételeiket a kormányok, hogy
+
+278
+00:05:52,909 --> 00:05:52,919
+a bevételeiket a kormányok, hogy
+ 
+
+279
+00:05:52,919 --> 00:05:55,629
+a bevételeiket a kormányok, hogy
+>> egyrészt az adózásból jött be, de
+
+280
+00:05:55,629 --> 00:05:55,639
+>> egyrészt az adózásból jött be, de
+ 
+
+281
+00:05:55,639 --> 00:06:00,070
+>> egyrészt az adózásból jött be, de
+például ö nagy része
+
+282
+00:06:00,070 --> 00:06:00,080
+például ö nagy része
+ 
+
+283
+00:06:00,080 --> 00:06:04,469
+például ö nagy része
+nem csak az adózásból, hanem a a
+
+284
+00:06:04,469 --> 00:06:04,479
+nem csak az adózásból, hanem a a
+ 
+
+285
+00:06:04,479 --> 00:06:06,670
+nem csak az adózásból, hanem a a
+pénzkészlet bővítéséből is, tehát a
+
+286
+00:06:06,670 --> 00:06:06,680
+pénzkészlet bővítéséből is, tehát a
+ 
+
+287
+00:06:06,680 --> 00:06:08,830
+pénzkészlet bővítéséből is, tehát a
+pénznyomtatásból is bejött. Tehát
+
+288
+00:06:08,830 --> 00:06:08,840
+pénznyomtatásból is bejött. Tehát
+ 
+
+289
+00:06:08,840 --> 00:06:13,029
+pénznyomtatásból is bejött. Tehát
+mondjuk manapság az Egyesült Államoknak
+
+290
+00:06:13,029 --> 00:06:13,039
+mondjuk manapság az Egyesült Államoknak
+ 
+
+291
+00:06:13,039 --> 00:06:17,469
+mondjuk manapság az Egyesült Államoknak
+az árbevétele, tehát a belső bevétele a
+
+292
+00:06:17,469 --> 00:06:17,479
+az árbevétele, tehát a belső bevétele a
+ 
+
+293
+00:06:17,479 --> 00:06:21,510
+az árbevétele, tehát a belső bevétele a
+az kevesebb, mint a ami amit elkölt, és
+
+294
+00:06:21,510 --> 00:06:21,520
+az kevesebb, mint a ami amit elkölt, és
+ 
+
+295
+00:06:21,520 --> 00:06:23,830
+az kevesebb, mint a ami amit elkölt, és
+így kötelezően neki pénzt kell nyomtatni
+
+296
+00:06:23,830 --> 00:06:23,840
+így kötelezően neki pénzt kell nyomtatni
+ 
+
+297
+00:06:23,840 --> 00:06:26,430
+így kötelezően neki pénzt kell nyomtatni
+minden évre egyre többet. Tehát magyarul
+
+298
+00:06:26,430 --> 00:06:26,440
+minden évre egyre többet. Tehát magyarul
+ 
+
+299
+00:06:26,440 --> 00:06:29,230
+minden évre egyre többet. Tehát magyarul
+az USA adósság spirálba keveredett,
+
+300
+00:06:29,230 --> 00:06:29,240
+az USA adósság spirálba keveredett,
+ 
+
+301
+00:06:29,240 --> 00:06:31,710
+az USA adósság spirálba keveredett,
+tehát az amerikai dollár is
+
+302
+00:06:31,710 --> 00:06:31,720
+tehát az amerikai dollár is
+ 
+
+303
+00:06:31,720 --> 00:06:34,629
+tehát az amerikai dollár is
+adósságspirálban van. olyan, mint egy
+
+304
+00:06:34,629 --> 00:06:34,639
+adósságspirálban van. olyan, mint egy
+ 
+
+305
+00:06:34,639 --> 00:06:36,790
+adósságspirálban van. olyan, mint egy
+hát most rossz a hasonlat, de kábé mint
+
+306
+00:06:36,790 --> 00:06:36,800
+hát most rossz a hasonlat, de kábé mint
+ 
+
+307
+00:06:36,800 --> 00:06:38,230
+hát most rossz a hasonlat, de kábé mint
+egy rossz drogos, akinek van egy
+
+308
+00:06:38,230 --> 00:06:38,240
+egy rossz drogos, akinek van egy
+ 
+
+309
+00:06:38,240 --> 00:06:40,909
+egy rossz drogos, akinek van egy
+hitelkártyája, és eddig tudta fizetni,
+
+310
+00:06:40,909 --> 00:06:40,919
+hitelkártyája, és eddig tudta fizetni,
+ 
+
+311
+00:06:40,919 --> 00:06:42,909
+hitelkártyája, és eddig tudta fizetni,
+de ezután nem tudja, úgyhogy majd újabb
+
+312
+00:06:42,909 --> 00:06:42,919
+de ezután nem tudja, úgyhogy majd újabb
+ 
+
+313
+00:06:42,919 --> 00:06:44,469
+de ezután nem tudja, úgyhogy majd újabb
+hitelkártyákat kell nyisson, hogy
+
+314
+00:06:44,469 --> 00:06:44,479
+hitelkártyákat kell nyisson, hogy
+ 
+
+315
+00:06:44,479 --> 00:06:46,309
+hitelkártyákat kell nyisson, hogy
+azoknak az előző hitelkártyáknak a
+
+316
+00:06:46,309 --> 00:06:46,319
+azoknak az előző hitelkártyáknak a
+ 
+
+317
+00:06:46,319 --> 00:06:48,990
+azoknak az előző hitelkártyáknak a
+hiteleit kifizesse.
+
+318
+00:06:48,990 --> 00:06:49,000
+hiteleit kifizesse.
+ 
+
+319
+00:06:49,000 --> 00:06:52,309
+hiteleit kifizesse.
+Tehát ez teljesen fenntarthatatlan.
+
+320
+00:06:52,309 --> 00:06:52,319
+Tehát ez teljesen fenntarthatatlan.
+ 
+
+321
+00:06:52,319 --> 00:06:55,390
+Tehát ez teljesen fenntarthatatlan.
+egyébként ezt érezni is, hogy a a dollár
+
+322
+00:06:55,390 --> 00:06:55,400
+egyébként ezt érezni is, hogy a a dollár
+ 
+
+323
+00:06:55,400 --> 00:06:58,830
+egyébként ezt érezni is, hogy a a dollár
+kezdi elveszíteni így a a szerepét, mint
+
+324
+00:06:58,830 --> 00:06:58,840
+kezdi elveszíteni így a a szerepét, mint
+ 
+
+325
+00:06:58,840 --> 00:07:03,189
+kezdi elveszíteni így a a szerepét, mint
+a reserve currency, az talán a mi is az
+
+326
+00:07:03,189 --> 00:07:03,199
+a reserve currency, az talán a mi is az
+ 
+
+327
+00:07:03,199 --> 00:07:05,150
+a reserve currency, az talán a mi is az
+magyarul, tehát a reserve
+
+328
+00:07:05,150 --> 00:07:05,160
+magyarul, tehát a reserve
+ 
+
+329
+00:07:05,160 --> 00:07:09,390
+magyarul, tehát a reserve
+>> világvalóta és mit szoktak mondani
+
+330
+00:07:09,390 --> 00:07:09,400
+>> világvalóta és mit szoktak mondani
+ 
+
+331
+00:07:09,400 --> 00:07:10,909
+>> világvalóta és mit szoktak mondani
+>> mindenki dobálja el. Ugye a brick
+
+332
+00:07:10,909 --> 00:07:10,919
+>> mindenki dobálja el. Ugye a brick
+ 
+
+333
+00:07:10,919 --> 00:07:13,670
+>> mindenki dobálja el. Ugye a brick
+országok is egymás között már a saját
+
+334
+00:07:13,670 --> 00:07:13,680
+országok is egymás között már a saját
+ 
+
+335
+00:07:13,680 --> 00:07:18,230
+országok is egymás között már a saját
+valutáikat használják vilászámolásra.
+
+336
+00:07:18,230 --> 00:07:18,240
+valutáikat használják vilászámolásra.
+ 
+
+337
+00:07:18,240 --> 00:07:20,070
+valutáikat használják vilászámolásra.
+>> Hm. Na mindegy. Szóval visszatérve az
+
+338
+00:07:20,070 --> 00:07:20,080
+>> Hm. Na mindegy. Szóval visszatérve az
+ 
+
+339
+00:07:20,080 --> 00:07:21,749
+>> Hm. Na mindegy. Szóval visszatérve az
+öndrendelkezésre még annyit szeretnék
+
+340
+00:07:21,749 --> 00:07:21,759
+öndrendelkezésre még annyit szeretnék
+ 
+
+341
+00:07:21,759 --> 00:07:24,510
+öndrendelkezésre még annyit szeretnék
+hozzátenni, hogy így viszont, hogy nem
+
+342
+00:07:24,510 --> 00:07:24,520
+hozzátenni, hogy így viszont, hogy nem
+ 
+
+343
+00:07:24,520 --> 00:07:26,670
+hozzátenni, hogy így viszont, hogy nem
+rendelkezik fölötte például egy állami
+
+344
+00:07:26,670 --> 00:07:26,680
+rendelkezik fölötte például egy állami
+ 
+
+345
+00:07:26,680 --> 00:07:29,629
+rendelkezik fölötte például egy állami
+szerv, akár egy adóhivatal, akár egy
+
+346
+00:07:29,629 --> 00:07:29,639
+szerv, akár egy adóhivatal, akár egy
+ 
+
+347
+00:07:29,639 --> 00:07:34,110
+szerv, akár egy adóhivatal, akár egy
+bank, ez rendkívül veszélyes.
+
+348
+00:07:34,110 --> 00:07:34,120
+bank, ez rendkívül veszélyes.
+ 
+
+349
+00:07:34,120 --> 00:07:37,230
+bank, ez rendkívül veszélyes.
+Ugye kinek? Hát az államnak, hiszen a
+
+350
+00:07:37,230 --> 00:07:37,240
+Ugye kinek? Hát az államnak, hiszen a
+ 
+
+351
+00:07:37,240 --> 00:07:38,790
+Ugye kinek? Hát az államnak, hiszen a
+bitcoinerektől így nem fogja tudni
+
+352
+00:07:38,790 --> 00:07:38,800
+bitcoinerektől így nem fogja tudni
+ 
+
+353
+00:07:38,800 --> 00:07:40,510
+bitcoinerektől így nem fogja tudni
+beszedni az adót. És ha a jövőben
+
+354
+00:07:40,510 --> 00:07:40,520
+beszedni az adót. És ha a jövőben
+ 
+
+355
+00:07:40,520 --> 00:07:43,350
+beszedni az adót. És ha a jövőben
+mindenki bitcoinré válik, akkor mi lesz
+
+356
+00:07:43,350 --> 00:07:43,360
+mindenki bitcoinré válik, akkor mi lesz
+ 
+
+357
+00:07:43,360 --> 00:07:45,790
+mindenki bitcoinré válik, akkor mi lesz
+az államokkal? Mi lesz a kormányokkal?
+
+358
+00:07:45,790 --> 00:07:45,800
+az államokkal? Mi lesz a kormányokkal?
+ 
+
+359
+00:07:45,800 --> 00:07:47,670
+az államokkal? Mi lesz a kormányokkal?
+Mit fognak csinálni? Hogy lesz az adó
+
+360
+00:07:47,670 --> 00:07:47,680
+Mit fognak csinálni? Hogy lesz az adó
+ 
+
+361
+00:07:47,680 --> 00:07:50,189
+Mit fognak csinálni? Hogy lesz az adó
+adófizetés, az adószedés,
+
+362
+00:07:50,189 --> 00:07:50,199
+adófizetés, az adószedés,
+ 
+
+363
+00:07:50,199 --> 00:07:51,309
+adófizetés, az adószedés,
+>> hogy nyúlják le a
+
+364
+00:07:51,309 --> 00:07:51,319
+>> hogy nyúlják le a
+ 
+
+365
+00:07:51,319 --> 00:07:52,869
+>> hogy nyúlják le a
+>> hogy nyúlják le. Magyarul a
+
+366
+00:07:52,869 --> 00:07:52,879
+>> hogy nyúlják le. Magyarul a
+ 
+
+367
+00:07:52,879 --> 00:07:55,550
+>> hogy nyúlják le. Magyarul a
+felelősségedet jutalmazza. Tehát tehát
+
+368
+00:07:55,550 --> 00:07:55,560
+felelősségedet jutalmazza. Tehát tehát
+ 
+
+369
+00:07:55,560 --> 00:07:58,230
+felelősségedet jutalmazza. Tehát tehát
+te a saját magad pénzét tartod, nem
+
+370
+00:07:58,230 --> 00:07:58,240
+te a saját magad pénzét tartod, nem
+ 
+
+371
+00:07:58,240 --> 00:08:02,230
+te a saját magad pénzét tartod, nem
+tudják lenyúlni cserébe pedig
+
+372
+00:08:02,230 --> 00:08:02,240
+tudják lenyúlni cserébe pedig
+ 
+
+373
+00:08:02,240 --> 00:08:04,629
+tudják lenyúlni cserébe pedig
+akkor tehát csak úgy tudják elvenni
+
+374
+00:08:04,629 --> 00:08:04,639
+akkor tehát csak úgy tudják elvenni
+ 
+
+375
+00:08:04,639 --> 00:08:07,950
+akkor tehát csak úgy tudják elvenni
+tőled, hogyha te azt önként adod.
+
+376
+00:08:07,950 --> 00:08:07,960
+tőled, hogyha te azt önként adod.
+ 
+
+377
+00:08:07,960 --> 00:08:10,550
+tőled, hogyha te azt önként adod.
+Figyelj, az önrendelkezés az a azt
+
+378
+00:08:10,550 --> 00:08:10,560
+Figyelj, az önrendelkezés az a azt
+ 
+
+379
+00:08:10,560 --> 00:08:12,670
+Figyelj, az önrendelkezés az a azt
+mondják sokan ugye ilyen angol nyelvű
+
+380
+00:08:12,670 --> 00:08:12,680
+mondják sokan ugye ilyen angol nyelvű
+ 
+
+381
+00:08:12,680 --> 00:08:15,110
+mondják sokan ugye ilyen angol nyelvű
+podcastokban, hogy a maga a forradalom,
+
+382
+00:08:15,110 --> 00:08:15,120
+podcastokban, hogy a maga a forradalom,
+ 
+
+383
+00:08:15,120 --> 00:08:16,790
+podcastokban, hogy a maga a forradalom,
+tehát a Bitcoin forradalom, ami egy
+
+384
+00:08:16,790 --> 00:08:16,800
+tehát a Bitcoin forradalom, ami egy
+ 
+
+385
+00:08:16,800 --> 00:08:18,749
+tehát a Bitcoin forradalom, ami egy
+csendes forradalom, egy csendes pénzügyi
+
+386
+00:08:18,749 --> 00:08:18,759
+csendes forradalom, egy csendes pénzügyi
+ 
+
+387
+00:08:18,759 --> 00:08:20,830
+csendes forradalom, egy csendes pénzügyi
+forradalom, az nem más, mint az
+
+388
+00:08:20,830 --> 00:08:20,840
+forradalom, az nem más, mint az
+ 
+
+389
+00:08:20,840 --> 00:08:23,430
+forradalom, az nem más, mint az
+önrendelkezési forradalom. Tehát eddig
+
+390
+00:08:23,430 --> 00:08:23,440
+önrendelkezési forradalom. Tehát eddig
+ 
+
+391
+00:08:23,440 --> 00:08:24,070
+önrendelkezési forradalom. Tehát eddig
+>> Ühüm.
+
+392
+00:08:24,070 --> 00:08:24,080
+>> Ühüm.
+ 
+
+393
+00:08:24,080 --> 00:08:25,510
+>> Ühüm.
+>> Hiába mondtad azt, hogy oké, én
+
+394
+00:08:25,510 --> 00:08:25,520
+>> Hiába mondtad azt, hogy oké, én
+ 
+
+395
+00:08:25,520 --> 00:08:27,230
+>> Hiába mondtad azt, hogy oké, én
+önrendelkezek, mert belevartam a
+
+396
+00:08:27,230 --> 00:08:27,240
+önrendelkezek, mert belevartam a
+ 
+
+397
+00:08:27,240 --> 00:08:30,510
+önrendelkezek, mert belevartam a
+kispárnába a pénzt készpénz formájába.
+
+398
+00:08:30,510 --> 00:08:30,520
+kispárnába a pénzt készpénz formájába.
+ 
+
+399
+00:08:30,520 --> 00:08:32,670
+kispárnába a pénzt készpénz formájába.
+Tök jó volt. Igen, nagyon király. Csak,
+
+400
+00:08:32,670 --> 00:08:32,680
+Tök jó volt. Igen, nagyon király. Csak,
+ 
+
+401
+00:08:32,680 --> 00:08:35,070
+Tök jó volt. Igen, nagyon király. Csak,
+hogy ott felejtették el ezt az emberek,
+
+402
+00:08:35,070 --> 00:08:35,080
+hogy ott felejtették el ezt az emberek,
+ 
+
+403
+00:08:35,080 --> 00:08:37,750
+hogy ott felejtették el ezt az emberek,
+hogy nagyon jó a készpénz. Addig, amíg
+
+404
+00:08:37,750 --> 00:08:37,760
+hogy nagyon jó a készpénz. Addig, amíg
+ 
+
+405
+00:08:37,760 --> 00:08:39,829
+hogy nagyon jó a készpénz. Addig, amíg
+azzem mondja, hogy hogy kihozok egy
+
+406
+00:08:39,829 --> 00:08:39,839
+azzem mondja, hogy hogy kihozok egy
+ 
+
+407
+00:08:39,839 --> 00:08:42,190
+azzem mondja, hogy hogy kihozok egy
+határozatot vagy egy egy jogszabályt,
+
+408
+00:08:42,190 --> 00:08:42,200
+határozatot vagy egy egy jogszabályt,
+ 
+
+409
+00:08:42,200 --> 00:08:45,070
+határozatot vagy egy egy jogszabályt,
+miszerint a 20000 Ft-os,
+
+410
+00:08:45,070 --> 00:08:45,080
+miszerint a 20000 Ft-os,
+ 
+
+411
+00:08:45,080 --> 00:08:47,430
+miszerint a 20000 Ft-os,
+mondok valamit, május 1jétől nem ér
+
+412
+00:08:47,430 --> 00:08:47,440
+mondok valamit, május 1jétől nem ér
+ 
+
+413
+00:08:47,440 --> 00:08:49,350
+mondok valamit, május 1jétől nem ér
+semmit, merthogy annyi a hamis belőle,
+
+414
+00:08:49,350 --> 00:08:49,360
+semmit, merthogy annyi a hamis belőle,
+ 
+
+415
+00:08:49,360 --> 00:08:51,070
+semmit, merthogy annyi a hamis belőle,
+hogy nem fogadjuk el még a Nemzeti
+
+416
+00:08:51,070 --> 00:08:51,080
+hogy nem fogadjuk el még a Nemzeti
+ 
+
+417
+00:08:51,080 --> 00:08:53,470
+hogy nem fogadjuk el még a Nemzeti
+Bankba sem. volt már ilyen példa ugye
+
+418
+00:08:53,470 --> 00:08:53,480
+Bankba sem. volt már ilyen példa ugye
+ 
+
+419
+00:08:53,480 --> 00:08:57,030
+Bankba sem. volt már ilyen példa ugye
+Indiában nemrég, de ha jól tudom, nem
+
+420
+00:08:57,030 --> 00:08:57,040
+Indiában nemrég, de ha jól tudom, nem
+ 
+
+421
+00:08:57,040 --> 00:08:59,470
+Indiában nemrég, de ha jól tudom, nem
+véletlenül vezetik ki például időnként a
+
+422
+00:08:59,470 --> 00:08:59,480
+véletlenül vezetik ki például időnként a
+ 
+
+423
+00:08:59,480 --> 00:09:01,670
+véletlenül vezetik ki például időnként a
+papírpénzeket, illetve most amit
+
+424
+00:09:01,670 --> 00:09:01,680
+papírpénzeket, illetve most amit
+ 
+
+425
+00:09:01,680 --> 00:09:04,310
+papírpénzeket, illetve most amit
+elkezdtek a coviddal is, és az államok
+
+426
+00:09:04,310 --> 00:09:04,320
+elkezdtek a coviddal is, és az államok
+ 
+
+427
+00:09:04,320 --> 00:09:07,829
+elkezdtek a coviddal is, és az államok
+nem fogják abbahagyni, az a készpénz
+
+428
+00:09:07,829 --> 00:09:07,839
+nem fogják abbahagyni, az a készpénz
+ 
+
+429
+00:09:07,839 --> 00:09:10,590
+nem fogják abbahagyni, az a készpénz
+fölötti harc. Tehát
+
+430
+00:09:10,590 --> 00:09:10,600
+fölötti harc. Tehát
+ 
+
+431
+00:09:10,600 --> 00:09:13,910
+fölötti harc. Tehát
+nagyon sok politikus felé felismerte ezt
+
+432
+00:09:13,910 --> 00:09:13,920
+nagyon sok politikus felé felismerte ezt
+ 
+
+433
+00:09:13,920 --> 00:09:17,069
+nagyon sok politikus felé felismerte ezt
+a ezt a dolgot, hogy ugye a a készpénz
+
+434
+00:09:17,069 --> 00:09:17,079
+a ezt a dolgot, hogy ugye a a készpénz
+ 
+
+435
+00:09:17,079 --> 00:09:20,190
+a ezt a dolgot, hogy ugye a a készpénz
+milyen jó eszköz, és hogy anonim meg
+
+436
+00:09:20,190 --> 00:09:20,200
+milyen jó eszköz, és hogy anonim meg
+ 
+
+437
+00:09:20,200 --> 00:09:22,310
+milyen jó eszköz, és hogy anonim meg
+minden, és úgy állítja be a
+
+438
+00:09:22,310 --> 00:09:22,320
+minden, és úgy állítja be a
+ 
+
+439
+00:09:22,320 --> 00:09:24,310
+minden, és úgy állítja be a
+pártpolitikáját, hogy ú nem hagyhatjuk a
+
+440
+00:09:24,310 --> 00:09:24,320
+pártpolitikáját, hogy ú nem hagyhatjuk a
+ 
+
+441
+00:09:24,320 --> 00:09:26,790
+pártpolitikáját, hogy ú nem hagyhatjuk a
+készpénzt. Van benne igazság, hiszen a
+
+442
+00:09:26,790 --> 00:09:26,800
+készpénzt. Van benne igazság, hiszen a
+ 
+
+443
+00:09:26,800 --> 00:09:29,870
+készpénzt. Van benne igazság, hiszen a
+hiszen ez egy anonimitást adó
+
+444
+00:09:29,870 --> 00:09:29,880
+hiszen ez egy anonimitást adó
+ 
+
+445
+00:09:29,880 --> 00:09:32,949
+hiszen ez egy anonimitást adó
+szint, de
+
+446
+00:09:32,949 --> 00:09:32,959
+szint, de
+ 
+
+447
+00:09:32,959 --> 00:09:34,790
+szint, de
+a lényege
+
+448
+00:09:34,790 --> 00:09:34,800
+a lényege
+ 
+
+449
+00:09:34,800 --> 00:09:37,110
+a lényege
+nem ez. Tehát, hogy a készpénz az akkor
+
+450
+00:09:37,110 --> 00:09:37,120
+nem ez. Tehát, hogy a készpénz az akkor
+ 
+
+451
+00:09:37,120 --> 00:09:39,389
+nem ez. Tehát, hogy a készpénz az akkor
+is fiat pénz, tehát a készpénzt azt el
+
+452
+00:09:39,389 --> 00:09:39,399
+is fiat pénz, tehát a készpénzt azt el
+ 
+
+453
+00:09:39,399 --> 00:09:41,670
+is fiat pénz, tehát a készpénzt azt el
+tudják inflálni, nem vagy vele előrébb,
+
+454
+00:09:41,670 --> 00:09:41,680
+tudják inflálni, nem vagy vele előrébb,
+ 
+
+455
+00:09:41,680 --> 00:09:44,829
+tudják inflálni, nem vagy vele előrébb,
+maximum nem adsz ki magadról annyi
+
+456
+00:09:44,829 --> 00:09:44,839
+maximum nem adsz ki magadról annyi
+ 
+
+457
+00:09:44,839 --> 00:09:46,389
+maximum nem adsz ki magadról annyi
+adatot.
+
+458
+00:09:46,389 --> 00:09:46,399
+adatot.
+ 
+
+459
+00:09:46,399 --> 00:09:48,350
+adatot.
+Próbálunk majd bemutatni pár hardware
+
+460
+00:09:48,350 --> 00:09:48,360
+Próbálunk majd bemutatni pár hardware
+ 
+
+461
+00:09:48,360 --> 00:09:50,870
+Próbálunk majd bemutatni pár hardware
+wallet nektek, hogy ez az önrendelkezés,
+
+462
+00:09:50,870 --> 00:09:50,880
+wallet nektek, hogy ez az önrendelkezés,
+ 
+
+463
+00:09:50,880 --> 00:09:52,150
+wallet nektek, hogy ez az önrendelkezés,
+amit a múltkori témában itt
+
+464
+00:09:52,150 --> 00:09:52,160
+amit a múltkori témában itt
+ 
+
+465
+00:09:52,160 --> 00:09:54,069
+amit a múltkori témában itt
+feszegettünk, egy kicsit több értelmet
+
+466
+00:09:54,069 --> 00:09:54,079
+feszegettünk, egy kicsit több értelmet
+ 
+
+467
+00:09:54,079 --> 00:09:57,949
+feszegettünk, egy kicsit több értelmet
+nyerjen számotokra. hoztunk Trezort, egy
+
+468
+00:09:57,949 --> 00:09:57,959
+nyerjen számotokra. hoztunk Trezort, egy
+ 
+
+469
+00:09:57,959 --> 00:10:01,310
+nyerjen számotokra. hoztunk Trezort, egy
+Treor Tmodellt, egy beatboxot, illetve
+
+470
+00:10:01,310 --> 00:10:01,320
+Treor Tmodellt, egy beatboxot, illetve
+ 
+
+471
+00:10:01,320 --> 00:10:03,230
+Treor Tmodellt, egy beatboxot, illetve
+egy Cold Cardot,
+
+472
+00:10:03,230 --> 00:10:03,240
+egy Cold Cardot,
+ 
+
+473
+00:10:03,240 --> 00:10:05,150
+egy Cold Cardot,
+>> meg egy trezor szépet is.
+
+474
+00:10:05,150 --> 00:10:05,160
+>> meg egy trezor szépet is.
+ 
+
+475
+00:10:05,160 --> 00:10:07,910
+>> meg egy trezor szépet is.
+>> Ja, igen, még azt is.
+
+476
+00:10:07,910 --> 00:10:07,920
+>> Ja, igen, még azt is.
+ 
+
+477
+00:10:07,920 --> 00:10:10,949
+>> Ja, igen, még azt is.
+Majd megpróbáljuk ezeket így bemutatni.
+
+478
+00:10:10,949 --> 00:10:10,959
+Majd megpróbáljuk ezeket így bemutatni.
+ 
+
+479
+00:10:10,959 --> 00:10:12,110
+Majd megpróbáljuk ezeket így bemutatni.
+>> Meg hoztunk mobilt is.
+
+480
+00:10:12,110 --> 00:10:12,120
+>> Meg hoztunk mobilt is.
+ 
+
+481
+00:10:12,120 --> 00:10:14,230
+>> Meg hoztunk mobilt is.
+>> Meg hoztunk mobiltárcákat,
+
+482
+00:10:14,230 --> 00:10:14,240
+>> Meg hoztunk mobiltárcákat,
+ 
+
+483
+00:10:14,240 --> 00:10:16,550
+>> Meg hoztunk mobiltárcákat,
+goldt.
+
+484
+00:10:16,550 --> 00:10:16,560
+goldt.
+ 
+
+485
+00:10:16,560 --> 00:10:20,590
+goldt.
+>> Úgyhogy v kezdjünk vele. Itt a képernyőn
+
+486
+00:10:20,590 --> 00:10:20,600
+>> Úgyhogy v kezdjünk vele. Itt a képernyőn
+ 
+
+487
+00:10:20,600 --> 00:10:23,030
+>> Úgyhogy v kezdjünk vele. Itt a képernyőn
+láthattok egy érdekességet. Silly,
+
+488
+00:10:23,030 --> 00:10:23,040
+láthattok egy érdekességet. Silly,
+ 
+
+489
+00:10:23,040 --> 00:10:25,949
+láthattok egy érdekességet. Silly,
+silver field, rural, sphere, whip,
+
+490
+00:10:25,949 --> 00:10:25,959
+silver field, rural, sphere, whip,
+ 
+
+491
+00:10:25,959 --> 00:10:28,269
+silver field, rural, sphere, whip,
+avocado, bean, budget, flash, row,
+
+492
+00:10:28,269 --> 00:10:28,279
+avocado, bean, budget, flash, row,
+ 
+
+493
+00:10:28,279 --> 00:10:31,710
+avocado, bean, budget, flash, row,
+combine. Ez 12 szó volt. Most már ezt ti
+
+494
+00:10:31,710 --> 00:10:31,720
+combine. Ez 12 szó volt. Most már ezt ti
+ 
+
+495
+00:10:31,720 --> 00:10:33,590
+combine. Ez 12 szó volt. Most már ezt ti
+is tudjátok. Remélem, nem volt rajta
+
+496
+00:10:33,590 --> 00:10:33,600
+is tudjátok. Remélem, nem volt rajta
+ 
+
+497
+00:10:33,600 --> 00:10:34,550
+is tudjátok. Remélem, nem volt rajta
+semmi.
+
+498
+00:10:34,550 --> 00:10:34,560
+semmi.
+ 
+
+499
+00:10:34,560 --> 00:10:37,949
+semmi.
+>> Nem, ez vadó.
+
+500
+00:10:37,949 --> 00:10:37,959
+>> Nem, ez vadó.
+ 
+
+501
+00:10:37,959 --> 00:10:42,389
+>> Nem, ez vadó.
+>> Szóval ennyi. 12 szó. Most angolul ennyi
+
+502
+00:10:42,389 --> 00:10:42,399
+>> Szóval ennyi. 12 szó. Most angolul ennyi
+ 
+
+503
+00:10:42,399 --> 00:10:44,269
+>> Szóval ennyi. 12 szó. Most angolul ennyi
+kell hozzá, hogy elérje egy mobil
+
+504
+00:10:44,269 --> 00:10:44,279
+kell hozzá, hogy elérje egy mobil
+ 
+
+505
+00:10:44,279 --> 00:10:46,069
+kell hozzá, hogy elérje egy mobil
+wallettet, vagy egy bármilyen wallettet,
+
+506
+00:10:46,069 --> 00:10:46,079
+wallettet, vagy egy bármilyen wallettet,
+ 
+
+507
+00:10:46,079 --> 00:10:48,629
+wallettet, vagy egy bármilyen wallettet,
+egy Bitcoin wallet. Tehát gyakorlatilag
+
+508
+00:10:48,629 --> 00:10:48,639
+egy Bitcoin wallet. Tehát gyakorlatilag
+ 
+
+509
+00:10:48,639 --> 00:10:51,350
+egy Bitcoin wallet. Tehát gyakorlatilag
+12 szót kell megtanulnod,
+
+510
+00:10:51,350 --> 00:10:51,360
+12 szót kell megtanulnod,
+ 
+
+511
+00:10:51,360 --> 00:10:53,790
+12 szót kell megtanulnod,
+és onnantól
+
+512
+00:10:53,790 --> 00:10:53,800
+és onnantól
+ 
+
+513
+00:10:53,800 --> 00:10:57,310
+és onnantól
+akárhova átviheted a pénzedet,
+
+514
+00:10:57,310 --> 00:10:57,320
+akárhova átviheted a pénzedet,
+ 
+
+515
+00:10:57,320 --> 00:11:00,389
+akárhova átviheted a pénzedet,
+úszva, futva,
+
+516
+00:11:00,389 --> 00:11:00,399
+úszva, futva,
+ 
+
+517
+00:11:00,399 --> 00:11:02,590
+úszva, futva,
+meztelenül egy határon nem kell
+
+518
+00:11:02,590 --> 00:11:02,600
+meztelenül egy határon nem kell
+ 
+
+519
+00:11:02,600 --> 00:11:05,389
+meztelenül egy határon nem kell
+eldugdosnod sehova kódokat, csak
+
+520
+00:11:05,389 --> 00:11:05,399
+eldugdosnod sehova kódokat, csak
+ 
+
+521
+00:11:05,399 --> 00:11:08,069
+eldugdosnod sehova kódokat, csak
+megjegyzel 12 szót. Ennek van egy
+
+522
+00:11:08,069 --> 00:11:08,079
+megjegyzel 12 szót. Ennek van egy
+ 
+
+523
+00:11:08,079 --> 00:11:11,190
+megjegyzel 12 szót. Ennek van egy
+komolyabb változata, ami 24 szóval
+
+524
+00:11:11,190 --> 00:11:11,200
+komolyabb változata, ami 24 szóval
+ 
+
+525
+00:11:11,200 --> 00:11:13,310
+komolyabb változata, ami 24 szóval
+működik.
+
+526
+00:11:13,310 --> 00:11:13,320
+működik.
+ 
+
+527
+00:11:13,320 --> 00:11:15,670
+működik.
+Aki tanult már verseket, az szerintem
+
+528
+00:11:15,670 --> 00:11:15,680
+Aki tanult már verseket, az szerintem
+ 
+
+529
+00:11:15,680 --> 00:11:18,150
+Aki tanult már verseket, az szerintem
+azt is könnyedén megtanulja.
+
+530
+00:11:18,150 --> 00:11:18,160
+azt is könnyedén megtanulja.
+ 
+
+531
+00:11:18,160 --> 00:11:20,350
+azt is könnyedén megtanulja.
+Hol kezdjük?
+
+532
+00:11:20,350 --> 00:11:20,360
+Hol kezdjük?
+ 
+
+533
+00:11:20,360 --> 00:11:22,389
+Hol kezdjük?
+>> Hát az elején visszajött az elejére.
+
+534
+00:11:22,389 --> 00:11:22,399
+>> Hát az elején visszajött az elejére.
+ 
+
+535
+00:11:22,399 --> 00:11:26,230
+>> Hát az elején visszajött az elejére.
+>> Jó. Tárca létrehozása.
+
+536
+00:11:26,230 --> 00:11:26,240
+>> Jó. Tárca létrehozása.
+ 
+
+537
+00:11:26,240 --> 00:11:27,269
+>> Jó. Tárca létrehozása.
+Melyikkel kezdjük? A
+
+538
+00:11:27,269 --> 00:11:27,279
+Melyikkel kezdjük? A
+ 
+
+539
+00:11:27,279 --> 00:11:29,470
+Melyikkel kezdjük? A
+>> trezordralás? Nem, ez egy elektromtárca.
+
+540
+00:11:29,470 --> 00:11:29,480
+>> trezordralás? Nem, ez egy elektromtárca.
+ 
+
+541
+00:11:29,480 --> 00:11:30,870
+>> trezordralás? Nem, ez egy elektromtárca.
+>> Ja, egy elektrom.
+
+542
+00:11:30,870 --> 00:11:30,880
+>> Ja, egy elektrom.
+ 
+
+543
+00:11:30,880 --> 00:11:33,269
+>> Ja, egy elektrom.
+>> Hát az elektrom. Ez egy AP, ami
+
+544
+00:11:33,269 --> 00:11:33,279
+>> Hát az elektrom. Ez egy AP, ami
+ 
+
+545
+00:11:33,279 --> 00:11:37,030
+>> Hát az elektrom. Ez egy AP, ami
+egyébként fut bármilyen számítógépen.
+
+546
+00:11:37,030 --> 00:11:37,040
+egyébként fut bármilyen számítógépen.
+ 
+
+547
+00:11:37,040 --> 00:11:39,509
+egyébként fut bármilyen számítógépen.
+Nem kell hozzá semmi, csak föl kell
+
+548
+00:11:39,509 --> 00:11:39,519
+Nem kell hozzá semmi, csak föl kell
+ 
+
+549
+00:11:39,519 --> 00:11:41,069
+Nem kell hozzá semmi, csak föl kell
+telepíteni.
+
+550
+00:11:41,069 --> 00:11:41,079
+telepíteni.
+ 
+
+551
+00:11:41,079 --> 00:11:42,710
+telepíteni.
+Van benne egy ilyen menüpont, hogy tárca
+
+552
+00:11:42,710 --> 00:11:42,720
+Van benne egy ilyen menüpont, hogy tárca
+ 
+
+553
+00:11:42,720 --> 00:11:45,949
+Van benne egy ilyen menüpont, hogy tárca
+létrehozása. Abban vagyunk.
+
+554
+00:11:45,949 --> 00:11:45,959
+létrehozása. Abban vagyunk.
+ 
+
+555
+00:11:45,959 --> 00:11:49,389
+létrehozása. Abban vagyunk.
+Az lesz a neve, hogy
+
+556
+00:11:49,389 --> 00:11:49,399
+Az lesz a neve, hogy
+ 
+
+557
+00:11:49,399 --> 00:11:53,509
+Az lesz a neve, hogy
+Vallet 21.
+
+558
+00:11:53,509 --> 00:11:53,519
+Vallet 21.
+ 
+
+559
+00:11:53,519 --> 00:11:55,910
+Vallet 21.
+Megjük a következőt. Általános
+
+560
+00:11:55,910 --> 00:11:55,920
+Megjük a következőt. Általános
+ 
+
+561
+00:11:55,920 --> 00:11:57,870
+Megjük a következőt. Általános
+pénztárcát hozunk létre. Lehetne itten
+
+562
+00:11:57,870 --> 00:11:57,880
+pénztárcát hozunk létre. Lehetne itten
+ 
+
+563
+00:11:57,880 --> 00:12:03,949
+pénztárcát hozunk létre. Lehetne itten
+ilyen bonyolultabb dolgokat is csinálni.
+
+564
+00:12:03,949 --> 00:12:03,959
+
+ 
+
+565
+00:12:03,959 --> 00:12:05,430
+
+Nincs még tárcánk, tehát csinálunk egy
+
+566
+00:12:05,430 --> 00:12:05,440
+Nincs még tárcánk, tehát csinálunk egy
+ 
+
+567
+00:12:05,440 --> 00:12:09,150
+Nincs még tárcánk, tehát csinálunk egy
+újat.
+
+568
+00:12:09,150 --> 00:12:09,160
+
+ 
+
+569
+00:12:09,160 --> 00:12:11,670
+
+Generálódott 12 szó.
+
+570
+00:12:11,670 --> 00:12:11,680
+Generálódott 12 szó.
+ 
+
+571
+00:12:11,680 --> 00:12:13,710
+Generálódott 12 szó.
+Ez a legbonyolottabb dolog a Bitcoinban,
+
+572
+00:12:13,710 --> 00:12:13,720
+Ez a legbonyolottabb dolog a Bitcoinban,
+ 
+
+573
+00:12:13,720 --> 00:12:16,870
+Ez a legbonyolottabb dolog a Bitcoinban,
+hogy ezt a 12 szót le kell írni, el kell
+
+574
+00:12:16,870 --> 00:12:16,880
+hogy ezt a 12 szót le kell írni, el kell
+ 
+
+575
+00:12:16,880 --> 00:12:19,670
+hogy ezt a 12 szót le kell írni, el kell
+rakni, nem kell elveszíteni,
+
+576
+00:12:19,670 --> 00:12:19,680
+rakni, nem kell elveszíteni,
+ 
+
+577
+00:12:19,680 --> 00:12:23,110
+rakni, nem kell elveszíteni,
+és lehetőleg más se találja meg. Úgy
+
+578
+00:12:23,110 --> 00:12:23,120
+és lehetőleg más se találja meg. Úgy
+ 
+
+579
+00:12:23,120 --> 00:12:26,550
+és lehetőleg más se találja meg. Úgy
+kell elrakni.
+
+580
+00:12:26,550 --> 00:12:26,560
+
+ 
+
+581
+00:12:26,560 --> 00:12:27,310
+
+>> Ja,
+
+582
+00:12:27,310 --> 00:12:27,320
+>> Ja,
+ 
+
+583
+00:12:27,320 --> 00:12:28,910
+>> Ja,
+>> az a baj, hogyha tovább akarunk menni,
+
+584
+00:12:28,910 --> 00:12:28,920
+>> az a baj, hogyha tovább akarunk menni,
+ 
+
+585
+00:12:28,920 --> 00:12:32,470
+>> az a baj, hogyha tovább akarunk menni,
+akkor akkor föl kell írnunk.
+
+586
+00:12:32,470 --> 00:12:32,480
+akkor akkor föl kell írnunk.
+ 
+
+587
+00:12:32,480 --> 00:12:35,030
+akkor akkor föl kell írnunk.
+Nem készültünk.
+
+588
+00:12:35,030 --> 00:12:35,040
+Nem készültünk.
+ 
+
+589
+00:12:35,040 --> 00:12:37,750
+Nem készültünk.
+>> Ott van a nyomtatóban papír.
+
+590
+00:12:37,750 --> 00:12:37,760
+>> Ott van a nyomtatóban papír.
+ 
+
+591
+00:12:37,760 --> 00:12:41,269
+>> Ott van a nyomtatóban papír.
+>> Nyomjá.
+
+592
+00:12:41,269 --> 00:12:41,279
+
+ 
+
+593
+00:12:41,279 --> 00:12:42,949
+
+Gyorsan felírom ezeket.
+
+594
+00:12:42,949 --> 00:12:42,959
+Gyorsan felírom ezeket.
+ 
+
+595
+00:12:42,959 --> 00:12:44,550
+Gyorsan felírom ezeket.
+>> Írd föl.
+
+596
+00:12:44,550 --> 00:12:44,560
+>> Írd föl.
+ 
+
+597
+00:12:44,560 --> 00:12:46,509
+>> Írd föl.
+>> Ozone
+
+598
+00:12:46,509 --> 00:12:46,519
+>> Ozone
+ 
+
+599
+00:12:46,519 --> 00:12:49,590
+>> Ozone
+text
+
+600
+00:12:49,590 --> 00:12:49,600
+
+ 
+
+601
+00:12:49,600 --> 00:12:50,550
+
+dust.
+
+602
+00:12:50,550 --> 00:12:50,560
+dust.
+ 
+
+603
+00:12:50,560 --> 00:12:52,430
+dust.
+>> Azért kell fölírni, mert ellenőrzik,
+
+604
+00:12:52,430 --> 00:12:52,440
+>> Azért kell fölírni, mert ellenőrzik,
+ 
+
+605
+00:12:52,440 --> 00:12:52,990
+>> Azért kell fölírni, mert ellenőrzik,
+>> mert
+
+606
+00:12:52,990 --> 00:12:53,000
+>> mert
+ 
+
+607
+00:12:53,000 --> 00:12:57,509
+>> mert
+>> hogy fölírtuk-e
+
+608
+00:12:57,509 --> 00:12:57,519
+
+ 
+
+609
+00:12:57,519 --> 00:12:58,590
+
+>> nem
+
+610
+00:12:58,590 --> 00:12:58,600
+>> nem
+ 
+
+611
+00:12:58,600 --> 00:13:01,110
+>> nem
+>> term.
+
+612
+00:13:01,110 --> 00:13:01,120
+>> term.
+ 
+
+613
+00:13:01,120 --> 00:13:04,350
+>> term.
+>> Ez volt így. És akkor
+
+614
+00:13:04,350 --> 00:13:04,360
+>> Ez volt így. És akkor
+ 
+
+615
+00:13:04,360 --> 00:13:05,230
+>> Ez volt így. És akkor
+>> f
+
+616
+00:13:05,230 --> 00:13:05,240
+>> f
+ 
+
+617
+00:13:05,240 --> 00:13:06,790
+>> f
+>> file
+
+618
+00:13:06,790 --> 00:13:06,800
+>> file
+ 
+
+619
+00:13:06,800 --> 00:13:07,430
+>> file
+>> dwarf
+
+620
+00:13:07,430 --> 00:13:07,440
+>> dwarf
+ 
+
+621
+00:13:07,440 --> 00:13:09,189
+>> dwarf
+>> dwarf.
+
+622
+00:13:09,189 --> 00:13:09,199
+>> dwarf.
+ 
+
+623
+00:13:09,199 --> 00:13:09,710
+>> dwarf.
+GL
+
+624
+00:13:09,710 --> 00:13:09,720
+GL
+ 
+
+625
+00:13:09,720 --> 00:13:11,670
+GL
+>> GL
+
+626
+00:13:11,670 --> 00:13:11,680
+>> GL
+ 
+
+627
+00:13:11,680 --> 00:13:12,389
+>> GL
+Wink
+
+628
+00:13:12,389 --> 00:13:12,399
+Wink
+ 
+
+629
+00:13:12,399 --> 00:13:15,110
+Wink
+>> W
+
+630
+00:13:15,110 --> 00:13:15,120
+>> W
+ 
+
+631
+00:13:15,120 --> 00:13:18,990
+>> W
+>> egyébként elég van az első három
+
+632
+00:13:18,990 --> 00:13:19,000
+>> egyébként elég van az első három
+ 
+
+633
+00:13:19,000 --> 00:13:21,550
+>> egyébként elég van az első három
+>> igen merthogy ezek a szavak ugye ezek
+
+634
+00:13:21,550 --> 00:13:21,560
+>> igen merthogy ezek a szavak ugye ezek
+ 
+
+635
+00:13:21,560 --> 00:13:26,430
+>> igen merthogy ezek a szavak ugye ezek
+megfelelnek bizonyos bináris értékeknek
+
+636
+00:13:26,430 --> 00:13:26,440
+megfelelnek bizonyos bináris értékeknek
+ 
+
+637
+00:13:26,440 --> 00:13:27,870
+megfelelnek bizonyos bináris értékeknek
+vissza kell gépelni
+
+638
+00:13:27,870 --> 00:13:27,880
+vissza kell gépelni
+ 
+
+639
+00:13:27,880 --> 00:13:28,829
+vissza kell gépelni
+>> vissza gépelet
+
+640
+00:13:28,829 --> 00:13:28,839
+>> vissza gépelet
+ 
+
+641
+00:13:28,839 --> 00:13:31,310
+>> vissza gépelet
+>> akkor majd én gépelem
+
+642
+00:13:31,310 --> 00:13:31,320
+>> akkor majd én gépelem
+ 
+
+643
+00:13:31,320 --> 00:13:32,509
+>> akkor majd én gépelem
+>> ozon
+
+644
+00:13:32,509 --> 00:13:32,519
+>> ozon
+ 
+
+645
+00:13:32,519 --> 00:13:34,829
+>> ozon
+>> text
+
+646
+00:13:34,829 --> 00:13:34,839
+>> text
+ 
+
+647
+00:13:34,839 --> 00:13:39,550
+>> text
+Dust dust
+
+648
+00:13:39,550 --> 00:13:39,560
+
+ 
+
+649
+00:13:39,560 --> 00:13:41,910
+
+isol
+
+650
+00:13:41,910 --> 00:13:41,920
+isol
+ 
+
+651
+00:13:41,920 --> 00:13:43,730
+isol
+term
+
+652
+00:13:43,730 --> 00:13:43,740
+term
+ 
+
+653
+00:13:43,740 --> 00:13:44,870
+term
+[Zene]
+
+654
+00:13:44,870 --> 00:13:44,880
+[Zene]
+ 
+
+655
+00:13:44,880 --> 00:13:45,670
+[Zene]
+five
+
+656
+00:13:45,670 --> 00:13:45,680
+five
+ 
+
+657
+00:13:45,680 --> 00:13:46,430
+five
+>> csúnyán írsz?
+
+658
+00:13:46,430 --> 00:13:46,440
+>> csúnyán írsz?
+ 
+
+659
+00:13:46,440 --> 00:13:47,590
+>> csúnyán írsz?
+>> Csúnyán írok
+
+660
+00:13:47,590 --> 00:13:47,600
+>> Csúnyán írok
+ 
+
+661
+00:13:47,600 --> 00:13:48,590
+>> Csúnyán írok
+>> five
+
+662
+00:13:48,590 --> 00:13:48,600
+>> five
+ 
+
+663
+00:13:48,600 --> 00:13:49,670
+>> five
+>> dwarf
+
+664
+00:13:49,670 --> 00:13:49,680
+>> dwarf
+ 
+
+665
+00:13:49,680 --> 00:13:50,829
+>> dwarf
+>> dwarf
+
+666
+00:13:50,829 --> 00:13:50,839
+>> dwarf
+ 
+
+667
+00:13:50,839 --> 00:13:52,829
+>> dwarf
+>> glare.
+
+668
+00:13:52,829 --> 00:13:52,839
+>> glare.
+ 
+
+669
+00:13:52,839 --> 00:13:54,189
+>> glare.
+>> Glare.
+
+670
+00:13:54,189 --> 00:13:54,199
+>> Glare.
+ 
+
+671
+00:13:54,199 --> 00:13:56,310
+>> Glare.
+>> Wink
+
+672
+00:13:56,310 --> 00:13:56,320
+>> Wink
+ 
+
+673
+00:13:56,320 --> 00:13:58,069
+>> Wink
+>> Hát azt Visnek olvastam volna.
+
+674
+00:13:58,069 --> 00:13:58,079
+>> Hát azt Visnek olvastam volna.
+ 
+
+675
+00:13:58,079 --> 00:14:00,150
+>> Hát azt Visnek olvastam volna.
+>> Wink amount.
+
+676
+00:14:00,150 --> 00:14:00,160
+>> Wink amount.
+ 
+
+677
+00:14:00,160 --> 00:14:00,670
+>> Wink amount.
+>> Amount
+
+678
+00:14:00,670 --> 00:14:00,680
+>> Amount
+ 
+
+679
+00:14:00,680 --> 00:14:02,629
+>> Amount
+>> és winner.
+
+680
+00:14:02,629 --> 00:14:02,639
+>> és winner.
+ 
+
+681
+00:14:02,639 --> 00:14:03,389
+>> és winner.
+>> Winner.
+
+682
+00:14:03,389 --> 00:14:03,399
+>> Winner.
+ 
+
+683
+00:14:03,399 --> 00:14:10,870
+>> Winner.
+>> Emlékszel ezekre?
+
+684
+00:14:10,870 --> 00:14:10,880
+
+ 
+
+685
+00:14:10,880 --> 00:14:12,670
+
+jelszót lehet rátenni jelszót is, de
+
+686
+00:14:12,670 --> 00:14:12,680
+jelszót lehet rátenni jelszót is, de
+ 
+
+687
+00:14:12,680 --> 00:14:16,509
+jelszót lehet rátenni jelszót is, de
+most nem teszünk, hogy mert elfelejtjük.
+
+688
+00:14:16,509 --> 00:14:16,519
+most nem teszünk, hogy mert elfelejtjük.
+ 
+
+689
+00:14:16,519 --> 00:14:18,110
+most nem teszünk, hogy mert elfelejtjük.
+>> És készen is vagyunk.
+
+690
+00:14:18,110 --> 00:14:18,120
+>> És készen is vagyunk.
+ 
+
+691
+00:14:18,120 --> 00:14:20,230
+>> És készen is vagyunk.
+>> Kész van. Ennyi volt.
+
+692
+00:14:20,230 --> 00:14:20,240
+>> Kész van. Ennyi volt.
+ 
+
+693
+00:14:20,240 --> 00:14:23,069
+>> Kész van. Ennyi volt.
+>> Csak most nem ez látszik a képernyőn
+
+694
+00:14:23,069 --> 00:14:23,079
+>> Csak most nem ez látszik a képernyőn
+ 
+
+695
+00:14:23,079 --> 00:14:25,870
+>> Csak most nem ez látszik a képernyőn
+át kell váltani.
+
+696
+00:14:25,870 --> 00:14:25,880
+át kell váltani.
+ 
+
+697
+00:14:25,880 --> 00:14:28,030
+át kell váltani.
+>> Ez lett belőle
+
+698
+00:14:28,030 --> 00:14:28,040
+>> Ez lett belőle
+ 
+
+699
+00:14:28,040 --> 00:14:29,629
+>> Ez lett belőle
+>> egy üres tárca.
+
+700
+00:14:29,629 --> 00:14:29,639
+>> egy üres tárca.
+ 
+
+701
+00:14:29,639 --> 00:14:32,150
+>> egy üres tárca.
+>> Jó. És akkor küldjünk bele valamennyit.
+
+702
+00:14:32,150 --> 00:14:32,160
+>> Jó. És akkor küldjünk bele valamennyit.
+ 
+
+703
+00:14:32,160 --> 00:14:34,590
+>> Jó. És akkor küldjünk bele valamennyit.
+Nem.
+
+704
+00:14:34,590 --> 00:14:34,600
+Nem.
+ 
+
+705
+00:14:34,600 --> 00:14:36,790
+Nem.
+Mondjuk
+
+706
+00:14:36,790 --> 00:14:36,800
+Mondjuk
+ 
+
+707
+00:14:36,800 --> 00:14:39,310
+Mondjuk
+>> azt nézem, hogy
+
+708
+00:14:39,310 --> 00:14:39,320
+>> azt nézem, hogy
+ 
+
+709
+00:14:39,320 --> 00:14:42,590
+>> azt nézem, hogy
+>> hát de látta mindenki a szavakat,
+
+710
+00:14:42,590 --> 00:14:42,600
+>> hát de látta mindenki a szavakat,
+ 
+
+711
+00:14:42,600 --> 00:14:44,350
+>> hát de látta mindenki a szavakat,
+de most mondjuk el azt, hogy
+
+712
+00:14:44,350 --> 00:14:44,360
+de most mondjuk el azt, hogy
+ 
+
+713
+00:14:44,360 --> 00:14:46,829
+de most mondjuk el azt, hogy
+>> hát nem sokat. Így most van egy működő
+
+714
+00:14:46,829 --> 00:14:46,839
+>> hát nem sokat. Így most van egy működő
+ 
+
+715
+00:14:46,839 --> 00:14:50,350
+>> hát nem sokat. Így most van egy működő
+Bitcoin tárcánk, és mindenki döntse el,
+
+716
+00:14:50,350 --> 00:14:50,360
+Bitcoin tárcánk, és mindenki döntse el,
+ 
+
+717
+00:14:50,360 --> 00:14:52,710
+Bitcoin tárcánk, és mindenki döntse el,
+hogy ez volt egyszerűbb, vagy bemenni
+
+718
+00:14:52,710 --> 00:14:52,720
+hogy ez volt egyszerűbb, vagy bemenni
+ 
+
+719
+00:14:52,720 --> 00:14:55,949
+hogy ez volt egyszerűbb, vagy bemenni
+egy bankba, és nyitni egy bankszámlát,
+
+720
+00:14:55,949 --> 00:14:55,959
+egy bankba, és nyitni egy bankszámlát,
+ 
+
+721
+00:14:55,959 --> 00:14:59,790
+egy bankba, és nyitni egy bankszámlát,
+bevinni 100 millió papírt, megmondani a
+
+722
+00:14:59,790 --> 00:14:59,800
+bevinni 100 millió papírt, megmondani a
+ 
+
+723
+00:14:59,800 --> 00:15:01,870
+bevinni 100 millió papírt, megmondani a
+cipőméretünket,
+
+724
+00:15:01,870 --> 00:15:01,880
+cipőméretünket,
+ 
+
+725
+00:15:01,880 --> 00:15:04,829
+cipőméretünket,
+vagy ez melyik az egyszerűbb?
+
+726
+00:15:04,829 --> 00:15:04,839
+vagy ez melyik az egyszerűbb?
+ 
+
+727
+00:15:04,839 --> 00:15:07,230
+vagy ez melyik az egyszerűbb?
+>> Ja, kicsit egyszerűbb ez.
+
+728
+00:15:07,230 --> 00:15:07,240
+>> Ja, kicsit egyszerűbb ez.
+ 
+
+729
+00:15:07,240 --> 00:15:10,189
+>> Ja, kicsit egyszerűbb ez.
+Hát lejárokkal is megcsinál sok ember
+
+730
+00:15:10,189 --> 00:15:10,199
+Hát lejárokkal is megcsinál sok ember
+ 
+
+731
+00:15:10,199 --> 00:15:12,910
+Hát lejárokkal is megcsinál sok ember
+szerint nem ez a bonyolultabb.
+
+732
+00:15:12,910 --> 00:15:12,920
+szerint nem ez a bonyolultabb.
+ 
+
+733
+00:15:12,920 --> 00:15:15,829
+szerint nem ez a bonyolultabb.
+Pedig tényleg ennyi.
+
+734
+00:15:15,829 --> 00:15:15,839
+Pedig tényleg ennyi.
+ 
+
+735
+00:15:15,839 --> 00:15:22,910
+Pedig tényleg ennyi.
+És mi van, ha fogadni akarunk bitcoint?
+
+736
+00:15:22,910 --> 00:15:22,920
+
+ 
+
+737
+00:15:22,920 --> 00:15:24,189
+
+És akkor ez itt a
+
+738
+00:15:24,189 --> 00:15:24,199
+És akkor ez itt a
+ 
+
+739
+00:15:24,199 --> 00:15:25,749
+És akkor ez itt a
+>> ez elég csúnyán néz ki, de ez egy
+
+740
+00:15:25,749 --> 00:15:25,759
+>> ez elég csúnyán néz ki, de ez egy
+ 
+
+741
+00:15:25,759 --> 00:15:28,949
+>> ez elég csúnyán néz ki, de ez egy
+Bitcoin cím.
+
+742
+00:15:28,949 --> 00:15:28,959
+Bitcoin cím.
+ 
+
+743
+00:15:28,959 --> 00:15:29,990
+Bitcoin cím.
+>> Esetleg nem tudom átmér.
+
+744
+00:15:29,990 --> 00:15:30,000
+>> Esetleg nem tudom átmér.
+ 
+
+745
+00:15:30,000 --> 00:15:33,430
+>> Esetleg nem tudom átmér.
+>> Ez nem csak egy bitcoin cím, hanem
+
+746
+00:15:33,430 --> 00:15:33,440
+>> Ez nem csak egy bitcoin cím, hanem
+ 
+
+747
+00:15:33,440 --> 00:15:35,069
+>> Ez nem csak egy bitcoin cím, hanem
+átméretezni.
+
+748
+00:15:35,069 --> 00:15:35,079
+átméretezni.
+ 
+
+749
+00:15:35,079 --> 00:15:37,910
+átméretezni.
+>> Hát, hogy látsz. Ja. Igazából mindegy.
+
+750
+00:15:37,910 --> 00:15:37,920
+>> Hát, hogy látsz. Ja. Igazából mindegy.
+ 
+
+751
+00:15:37,920 --> 00:15:42,350
+>> Hát, hogy látsz. Ja. Igazából mindegy.
+Így. Jó.
+
+752
+00:15:42,350 --> 00:15:42,360
+
+ 
+
+753
+00:15:42,360 --> 00:15:42,590
+
+És
+
+754
+00:15:42,590 --> 00:15:42,600
+És
+ 
+
+755
+00:15:42,600 --> 00:15:44,470
+És
+>> ezek a tárcának a címei. Ezt már mondtuk
+
+756
+00:15:44,470 --> 00:15:44,480
+>> ezek a tárcának a címei. Ezt már mondtuk
+ 
+
+757
+00:15:44,480 --> 00:15:45,949
+>> ezek a tárcának a címei. Ezt már mondtuk
+szerintem régebben, hogy egy tárcának
+
+758
+00:15:45,949 --> 00:15:45,959
+szerintem régebben, hogy egy tárcának
+ 
+
+759
+00:15:45,959 --> 00:15:48,030
+szerintem régebben, hogy egy tárcának
+sok címe van. Ez itt látszik, hogy
+
+760
+00:15:48,030 --> 00:15:48,040
+sok címe van. Ez itt látszik, hogy
+ 
+
+761
+00:15:48,040 --> 00:15:48,870
+sok címe van. Ez itt látszik, hogy
+tényleg.
+
+762
+00:15:48,870 --> 00:15:48,880
+tényleg.
+ 
+
+763
+00:15:48,880 --> 00:15:50,389
+tényleg.
+>> Ühüm. Jó. Milyen sok.
+
+764
+00:15:50,389 --> 00:15:50,399
+>> Ühüm. Jó. Milyen sok.
+ 
+
+765
+00:15:50,399 --> 00:15:56,030
+>> Ühüm. Jó. Milyen sok.
+>> Bármelyikre lehet bármikor küldeni,
+
+766
+00:15:56,030 --> 00:15:56,040
+
+ 
+
+767
+00:15:56,040 --> 00:15:58,150
+
+tehát ha több embertől fogadunk, akkor
+
+768
+00:15:58,150 --> 00:15:58,160
+tehát ha több embertől fogadunk, akkor
+ 
+
+769
+00:15:58,160 --> 00:15:59,829
+tehát ha több embertől fogadunk, akkor
+nyilván azoknak különböző címeket kell
+
+770
+00:15:59,829 --> 00:15:59,839
+nyilván azoknak különböző címeket kell
+ 
+
+771
+00:15:59,839 --> 00:16:01,309
+nyilván azoknak különböző címeket kell
+megadni, és még lehet többet is
+
+772
+00:16:01,309 --> 00:16:01,319
+megadni, és még lehet többet is
+ 
+
+773
+00:16:01,319 --> 00:16:03,230
+megadni, és még lehet többet is
+generálni, nem kell ennyit.
+
+774
+00:16:03,230 --> 00:16:03,240
+generálni, nem kell ennyit.
+ 
+
+775
+00:16:03,240 --> 00:16:03,670
+generálni, nem kell ennyit.
+>> Ühüm.
+
+776
+00:16:03,670 --> 00:16:03,680
+>> Ühüm.
+ 
+
+777
+00:16:03,680 --> 00:16:08,949
+>> Ühüm.
+>> Egy tárcából 4 milliárd cím lehet.
+
+778
+00:16:08,949 --> 00:16:08,959
+
+ 
+
+779
+00:16:08,959 --> 00:16:09,910
+
+mindig tanulok.
+
+780
+00:16:09,910 --> 00:16:09,920
+mindig tanulok.
+ 
+
+781
+00:16:09,920 --> 00:16:12,990
+mindig tanulok.
+>> Az a szabály, hogy
+
+782
+00:16:12,990 --> 00:16:13,000
+>> Az a szabály, hogy
+ 
+
+783
+00:16:13,000 --> 00:16:15,030
+>> Az a szabály, hogy
+ha egyszer egy címről elküldtünk,
+
+784
+00:16:15,030 --> 00:16:15,040
+ha egyszer egy címről elküldtünk,
+ 
+
+785
+00:16:15,040 --> 00:16:16,509
+ha egyszer egy címről elküldtünk,
+elküldtük az ott levő bitcoint, akkor
+
+786
+00:16:16,509 --> 00:16:16,519
+elküldtük az ott levő bitcoint, akkor
+ 
+
+787
+00:16:16,519 --> 00:16:19,350
+elküldtük az ott levő bitcoint, akkor
+már ne használjuk újrafogadásra
+
+788
+00:16:19,350 --> 00:16:19,360
+már ne használjuk újrafogadásra
+ 
+
+789
+00:16:19,360 --> 00:16:22,150
+már ne használjuk újrafogadásra
+ezt a kvantumcuterek miatt.
+
+790
+00:16:22,150 --> 00:16:22,160
+ezt a kvantumcuterek miatt.
+ 
+
+791
+00:16:22,160 --> 00:16:24,069
+ezt a kvantumcuterek miatt.
+>> Ühüm.
+
+792
+00:16:24,069 --> 00:16:24,079
+>> Ühüm.
+ 
+
+793
+00:16:24,079 --> 00:16:26,710
+>> Ühüm.
+illetve a különböző chain analízisek
+
+794
+00:16:26,710 --> 00:16:26,720
+illetve a különböző chain analízisek
+ 
+
+795
+00:16:26,720 --> 00:16:28,829
+illetve a különböző chain analízisek
+miatt sem érdemes, mert akkor
+
+796
+00:16:28,829 --> 00:16:28,839
+miatt sem érdemes, mert akkor
+ 
+
+797
+00:16:28,839 --> 00:16:31,430
+miatt sem érdemes, mert akkor
+összeköthető
+
+798
+00:16:31,430 --> 00:16:31,440
+összeköthető
+ 
+
+799
+00:16:31,440 --> 00:16:33,590
+összeköthető
+és felderíthető,
+
+800
+00:16:33,590 --> 00:16:33,600
+és felderíthető,
+ 
+
+801
+00:16:33,600 --> 00:16:35,790
+és felderíthető,
+mert ugye az egész
+
+802
+00:16:35,790 --> 00:16:35,800
+mert ugye az egész
+ 
+
+803
+00:16:35,800 --> 00:16:37,990
+mert ugye az egész
+chain publikus,
+
+804
+00:16:37,990 --> 00:16:38,000
+chain publikus,
+ 
+
+805
+00:16:38,000 --> 00:16:41,269
+chain publikus,
+tehát sok híresztelése
+
+806
+00:16:41,269 --> 00:16:41,279
+tehát sok híresztelése
+ 
+
+807
+00:16:41,279 --> 00:16:43,790
+tehát sok híresztelése
+ellenében ugye a a Bitcoin mivel
+
+808
+00:16:43,790 --> 00:16:43,800
+ellenében ugye a a Bitcoin mivel
+ 
+
+809
+00:16:43,800 --> 00:16:48,829
+ellenében ugye a a Bitcoin mivel
+publikus, ezért nem igazán jó mindenféle
+
+810
+00:16:48,829 --> 00:16:48,839
+publikus, ezért nem igazán jó mindenféle
+ 
+
+811
+00:16:48,839 --> 00:16:50,269
+publikus, ezért nem igazán jó mindenféle
+illegitim, illetve illegális
+
+812
+00:16:50,269 --> 00:16:50,279
+illegitim, illetve illegális
+ 
+
+813
+00:16:50,279 --> 00:16:52,230
+illegitim, illetve illegális
+tranzakcióra, mert az ember könnyed
+
+814
+00:16:52,230 --> 00:16:52,240
+tranzakcióra, mert az ember könnyed
+ 
+
+815
+00:16:52,240 --> 00:16:55,110
+tranzakcióra, mert az ember könnyed
+könnyedén rá fázhatni. Ezzel szemben a a
+
+816
+00:16:55,110 --> 00:16:55,120
+könnyedén rá fázhatni. Ezzel szemben a a
+ 
+
+817
+00:16:55,120 --> 00:16:57,710
+könnyedén rá fázhatni. Ezzel szemben a a
+mostani bankrendszer ugye ahol a az
+
+818
+00:16:57,710 --> 00:16:57,720
+mostani bankrendszer ugye ahol a az
+ 
+
+819
+00:16:57,720 --> 00:16:59,670
+mostani bankrendszer ugye ahol a az
+ilyen illegális
+
+820
+00:16:59,670 --> 00:16:59,680
+ilyen illegális
+ 
+
+821
+00:16:59,680 --> 00:17:04,429
+ilyen illegális
+pénzmozgásoknak a gyakorlatilag 99,9%-a
+
+822
+00:17:04,429 --> 00:17:04,439
+pénzmozgásoknak a gyakorlatilag 99,9%-a
+ 
+
+823
+00:17:04,439 --> 00:17:08,150
+pénzmozgásoknak a gyakorlatilag 99,9%-a
+mozog, nem? Körülbelül ilyesmi. Az meg
+
+824
+00:17:08,150 --> 00:17:08,160
+mozog, nem? Körülbelül ilyesmi. Az meg
+ 
+
+825
+00:17:08,160 --> 00:17:10,510
+mozog, nem? Körülbelül ilyesmi. Az meg
+az meg istenítve van, hogy mennyire
+
+826
+00:17:10,510 --> 00:17:10,520
+az meg istenítve van, hogy mennyire
+ 
+
+827
+00:17:10,520 --> 00:17:14,549
+az meg istenítve van, hogy mennyire
+tiszta és biztonságos.
+
+828
+00:17:14,549 --> 00:17:14,559
+tiszta és biztonságos.
+ 
+
+829
+00:17:14,559 --> 00:17:17,390
+tiszta és biztonságos.
+Na mindegy, ez majd gondolom változik,
+
+830
+00:17:17,390 --> 00:17:17,400
+Na mindegy, ez majd gondolom változik,
+ 
+
+831
+00:17:17,400 --> 00:17:21,829
+Na mindegy, ez majd gondolom változik,
+hogyha változtatunk rajta.
+
+832
+00:17:21,829 --> 00:17:21,839
+
+ 
+
+833
+00:17:21,839 --> 00:17:23,470
+
+Jó, hát ez egyébként annyira nem
+
+834
+00:17:23,470 --> 00:17:23,480
+Jó, hát ez egyébként annyira nem
+ 
+
+835
+00:17:23,480 --> 00:17:25,829
+Jó, hát ez egyébként annyira nem
+biztonságos még,
+
+836
+00:17:25,829 --> 00:17:25,839
+biztonságos még,
+ 
+
+837
+00:17:25,839 --> 00:17:28,669
+biztonságos még,
+mert a számítógépünkön tárolja a privát
+
+838
+00:17:28,669 --> 00:17:28,679
+mert a számítógépünkön tárolja a privát
+ 
+
+839
+00:17:28,679 --> 00:17:30,510
+mert a számítógépünkön tárolja a privát
+kulcsot,
+
+840
+00:17:30,510 --> 00:17:30,520
+kulcsot,
+ 
+
+841
+00:17:30,520 --> 00:17:32,110
+kulcsot,
+tehát hogyha betör rá egy vírus, akkor
+
+842
+00:17:32,110 --> 00:17:32,120
+tehát hogyha betör rá egy vírus, akkor
+ 
+
+843
+00:17:32,120 --> 00:17:35,950
+tehát hogyha betör rá egy vírus, akkor
+az megtalálhatja.
+
+844
+00:17:35,950 --> 00:17:35,960
+
+ 
+
+845
+00:17:35,960 --> 00:17:37,590
+
+>> Nézzük, biztonságosabb.
+
+846
+00:17:37,590 --> 00:17:37,600
+>> Nézzük, biztonságosabb.
+ 
+
+847
+00:17:37,600 --> 00:17:39,590
+>> Nézzük, biztonságosabb.
+>> Hát akkor van itt nekünk pár, azt most
+
+848
+00:17:39,590 --> 00:17:39,600
+>> Hát akkor van itt nekünk pár, azt most
+ 
+
+849
+00:17:39,600 --> 00:17:42,390
+>> Hát akkor van itt nekünk pár, azt most
+odébb rakom ezt a kis papírt.
+
+850
+00:17:42,390 --> 00:17:42,400
+odébb rakom ezt a kis papírt.
+ 
+
+851
+00:17:42,400 --> 00:17:44,270
+odébb rakom ezt a kis papírt.
+Van itt nekünk
+
+852
+00:17:44,270 --> 00:17:44,280
+Van itt nekünk
+ 
+
+853
+00:17:44,280 --> 00:17:46,390
+Van itt nekünk
+el kell rakni és megőrizni. Mondjuk
+
+854
+00:17:46,390 --> 00:17:46,400
+el kell rakni és megőrizni. Mondjuk
+ 
+
+855
+00:17:46,400 --> 00:17:48,710
+el kell rakni és megőrizni. Mondjuk
+nulla az egyenleg. Van egy ilyen
+
+856
+00:17:48,710 --> 00:17:48,720
+nulla az egyenleg. Van egy ilyen
+ 
+
+857
+00:17:48,720 --> 00:17:50,110
+nulla az egyenleg. Van egy ilyen
+trezorunk.
+
+858
+00:17:50,110 --> 00:17:50,120
+trezorunk.
+ 
+
+859
+00:17:50,120 --> 00:17:53,029
+trezorunk.
+Ez egy nagyon régi palet, hardware
+
+860
+00:17:53,029 --> 00:17:53,039
+Ez egy nagyon régi palet, hardware
+ 
+
+861
+00:17:53,039 --> 00:17:55,510
+Ez egy nagyon régi palet, hardware
+valet. Talán az elsők között volt. Ez
+
+862
+00:17:55,510 --> 00:17:55,520
+valet. Talán az elsők között volt. Ez
+ 
+
+863
+00:17:55,520 --> 00:17:58,750
+valet. Talán az elsők között volt. Ez
+egy nem is tudom T1
+
+864
+00:17:58,750 --> 00:17:58,760
+egy nem is tudom T1
+ 
+
+865
+00:17:58,760 --> 00:17:59,630
+egy nem is tudom T1
+és trezor.
+
+866
+00:17:59,630 --> 00:17:59,640
+és trezor.
+ 
+
+867
+00:17:59,640 --> 00:18:01,470
+és trezor.
+>> Trezor van, azt hiszem.
+
+868
+00:18:01,470 --> 00:18:01,480
+>> Trezor van, azt hiszem.
+ 
+
+869
+00:18:01,480 --> 00:18:03,390
+>> Trezor van, azt hiszem.
+>> És ez úgy működik, hogy van benne egy
+
+870
+00:18:03,390 --> 00:18:03,400
+>> És ez úgy működik, hogy van benne egy
+ 
+
+871
+00:18:03,400 --> 00:18:06,789
+>> És ez úgy működik, hogy van benne egy
+ilyen kis micro SD csatlakozó
+
+872
+00:18:06,789 --> 00:18:06,799
+ilyen kis micro SD csatlakozó
+ 
+
+873
+00:18:06,799 --> 00:18:08,870
+ilyen kis micro SD csatlakozó
+és fogod és bedugod a gépet.
+
+874
+00:18:08,870 --> 00:18:08,880
+és fogod és bedugod a gépet.
+ 
+
+875
+00:18:08,880 --> 00:18:12,870
+és fogod és bedugod a gépet.
+>> Eláruljuk, hogy egyébként kontakt hibás.
+
+876
+00:18:12,870 --> 00:18:12,880
+>> Eláruljuk, hogy egyébként kontakt hibás.
+ 
+
+877
+00:18:12,880 --> 00:18:15,230
+>> Eláruljuk, hogy egyébként kontakt hibás.
+>> Elvileg ez egy nagyon régi trezor ilyen
+
+878
+00:18:15,230 --> 00:18:15,240
+>> Elvileg ez egy nagyon régi trezor ilyen
+ 
+
+879
+00:18:15,240 --> 00:18:17,230
+>> Elvileg ez egy nagyon régi trezor ilyen
+ősiből van.
+
+880
+00:18:17,230 --> 00:18:17,240
+ősiből van.
+ 
+
+881
+00:18:17,240 --> 00:18:20,750
+ősiből van.
+demóni, de megpróbáljuk, hátha beröffen
+
+882
+00:18:20,750 --> 00:18:20,760
+demóni, de megpróbáljuk, hátha beröffen
+ 
+
+883
+00:18:20,760 --> 00:18:23,270
+demóni, de megpróbáljuk, hátha beröffen
+már nincs használatba. Megjelent rajta a
+
+884
+00:18:23,270 --> 00:18:23,280
+már nincs használatba. Megjelent rajta a
+ 
+
+885
+00:18:23,280 --> 00:18:25,789
+már nincs használatba. Megjelent rajta a
+logó.
+
+886
+00:18:25,789 --> 00:18:25,799
+logó.
+ 
+
+887
+00:18:25,799 --> 00:18:28,590
+logó.
+Ez egy újabb trezor, amit tavaly óta
+
+888
+00:18:28,590 --> 00:18:28,600
+Ez egy újabb trezor, amit tavaly óta
+ 
+
+889
+00:18:28,600 --> 00:18:30,470
+Ez egy újabb trezor, amit tavaly óta
+lehet csak kapni. És nem látja a kamera,
+
+890
+00:18:30,470 --> 00:18:30,480
+lehet csak kapni. És nem látja a kamera,
+ 
+
+891
+00:18:30,480 --> 00:18:33,110
+lehet csak kapni. És nem látja a kamera,
+mert a fekete alapon feketét nem lát.
+
+892
+00:18:33,110 --> 00:18:33,120
+mert a fekete alapon feketét nem lát.
+ 
+
+893
+00:18:33,120 --> 00:18:35,870
+mert a fekete alapon feketét nem lát.
+Ide rakom a papírt.
+
+894
+00:18:35,870 --> 00:18:35,880
+Ide rakom a papírt.
+ 
+
+895
+00:18:35,880 --> 00:18:37,990
+Ide rakom a papírt.
+>> Na, itt talán jobb. Így, így most egy
+
+896
+00:18:37,990 --> 00:18:38,000
+>> Na, itt talán jobb. Így, így most egy
+ 
+
+897
+00:18:38,000 --> 00:18:40,230
+>> Na, itt talán jobb. Így, így most egy
+fekete folt a fehér.
+
+898
+00:18:40,230 --> 00:18:40,240
+fekete folt a fehér.
+ 
+
+899
+00:18:40,240 --> 00:18:42,549
+fekete folt a fehér.
+F egy kicsit így megbillentetjük, hogy
+
+900
+00:18:42,549 --> 00:18:42,559
+F egy kicsit így megbillentetjük, hogy
+ 
+
+901
+00:18:42,559 --> 00:18:45,870
+F egy kicsit így megbillentetjük, hogy
+>> l az van neki képernyője meg képernyé
+
+902
+00:18:45,870 --> 00:18:45,880
+>> l az van neki képernyője meg képernyé
+ 
+
+903
+00:18:45,880 --> 00:18:46,830
+>> l az van neki képernyője meg képernyé
+>> meg két gomb
+
+904
+00:18:46,830 --> 00:18:46,840
+>> meg két gomb
+ 
+
+905
+00:18:46,840 --> 00:18:48,430
+>> meg két gomb
+>> és van írva, hogy trezor
+
+906
+00:18:48,430 --> 00:18:48,440
+>> és van írva, hogy trezor
+ 
+
+907
+00:18:48,440 --> 00:18:50,029
+>> és van írva, hogy trezor
+>> és ott van rajta trezor. Ha be van
+
+908
+00:18:50,029 --> 00:18:50,039
+>> és ott van rajta trezor. Ha be van
+ 
+
+909
+00:18:50,039 --> 00:18:52,029
+>> és ott van rajta trezor. Ha be van
+kapcsolva egyébként ez mindenféle dolgot
+
+910
+00:18:52,029 --> 00:18:52,039
+kapcsolva egyébként ez mindenféle dolgot
+ 
+
+911
+00:18:52,039 --> 00:18:53,510
+kapcsolva egyébként ez mindenféle dolgot
+kiír, igaz?
+
+912
+00:18:53,510 --> 00:18:53,520
+kiír, igaz?
+ 
+
+913
+00:18:53,520 --> 00:18:54,630
+kiír, igaz?
+>> Igen.
+
+914
+00:18:54,630 --> 00:18:54,640
+>> Igen.
+ 
+
+915
+00:18:54,640 --> 00:18:55,990
+>> Igen.
+>> Na például itt van a
+
+916
+00:18:55,990 --> 00:18:56,000
+>> Na például itt van a
+ 
+
+917
+00:18:56,000 --> 00:18:56,909
+>> Na például itt van a
+>> Itt lehet pin kódot.
+
+918
+00:18:56,909 --> 00:18:56,919
+>> Itt lehet pin kódot.
+ 
+
+919
+00:18:56,919 --> 00:18:59,789
+>> Itt lehet pin kódot.
+>> A pin kódot be lehet ide írni,
+
+920
+00:18:59,789 --> 00:18:59,799
+>> A pin kódot be lehet ide írni,
+ 
+
+921
+00:18:59,799 --> 00:19:00,310
+>> A pin kódot be lehet ide írni,
+de
+
+922
+00:19:00,310 --> 00:19:00,320
+de
+ 
+
+923
+00:19:00,320 --> 00:19:03,230
+de
+>> két gombbal, de most nem fogom a kamera
+
+924
+00:19:03,230 --> 00:19:03,240
+>> két gombbal, de most nem fogom a kamera
+ 
+
+925
+00:19:03,240 --> 00:19:04,830
+>> két gombbal, de most nem fogom a kamera
+előad beírni a pláne, hogy te nem is
+
+926
+00:19:04,830 --> 00:19:04,840
+előad beírni a pláne, hogy te nem is
+ 
+
+927
+00:19:04,840 --> 00:19:05,950
+előad beírni a pláne, hogy te nem is
+tudod.
+
+928
+00:19:05,950 --> 00:19:05,960
+tudod.
+ 
+
+929
+00:19:05,960 --> 00:19:07,789
+tudod.
+Meg nem is akarom letiltani az eszköz,
+
+930
+00:19:07,789 --> 00:19:07,799
+Meg nem is akarom letiltani az eszköz,
+ 
+
+931
+00:19:07,799 --> 00:19:09,110
+Meg nem is akarom letiltani az eszköz,
+>> de megmutatjuk, hogy milyen az
+
+932
+00:19:09,110 --> 00:19:09,120
+>> de megmutatjuk, hogy milyen az
+ 
+
+933
+00:19:09,120 --> 00:19:11,909
+>> de megmutatjuk, hogy milyen az
+alkalmazás, ami van hozzá.
+
+934
+00:19:11,909 --> 00:19:11,919
+alkalmazás, ami van hozzá.
+ 
+
+935
+00:19:11,919 --> 00:19:16,070
+alkalmazás, ami van hozzá.
+Úgy hívják, hogy treorit.
+
+936
+00:19:16,070 --> 00:19:16,080
+
+ 
+
+937
+00:19:16,080 --> 00:19:17,870
+
+És most talán látszik a képernyőn.
+
+938
+00:19:17,870 --> 00:19:17,880
+És most talán látszik a képernyőn.
+ 
+
+939
+00:19:17,880 --> 00:19:24,230
+És most talán látszik a képernyőn.
+>> Üüm.
+
+940
+00:19:24,230 --> 00:19:24,240
+
+ 
+
+941
+00:19:24,240 --> 00:19:25,909
+
+>> És most nagyon biztonságosan ilyen
+
+942
+00:19:25,909 --> 00:19:25,919
+>> És most nagyon biztonságosan ilyen
+ 
+
+943
+00:19:25,919 --> 00:19:27,390
+>> És most nagyon biztonságosan ilyen
+inkognitó módban van, úgyhogy nem
+
+944
+00:19:27,390 --> 00:19:27,400
+inkognitó módban van, úgyhogy nem
+ 
+
+945
+00:19:27,400 --> 00:19:29,230
+inkognitó módban van, úgyhogy nem
+látjátok, hogy mekkora egyenlegek vannak
+
+946
+00:19:29,230 --> 00:19:29,240
+látjátok, hogy mekkora egyenlegek vannak
+ 
+
+947
+00:19:29,240 --> 00:19:32,630
+látjátok, hogy mekkora egyenlegek vannak
+rajta.
+
+948
+00:19:32,630 --> 00:19:32,640
+
+ 
+
+949
+00:19:32,640 --> 00:19:35,789
+
+Reméljük.
+
+950
+00:19:35,789 --> 00:19:35,799
+
+ 
+
+951
+00:19:35,799 --> 00:19:37,590
+
+Az lenne a lényege.
+
+952
+00:19:37,590 --> 00:19:37,600
+Az lenne a lényege.
+ 
+
+953
+00:19:37,600 --> 00:19:38,230
+Az lenne a lényege.
+>> Nem, nem.
+
+954
+00:19:38,230 --> 00:19:38,240
+>> Nem, nem.
+ 
+
+955
+00:19:38,240 --> 00:19:40,310
+>> Nem, nem.
+>> Egy árfolyamot láttok.
+
+956
+00:19:40,310 --> 00:19:40,320
+>> Egy árfolyamot láttok.
+ 
+
+957
+00:19:40,320 --> 00:19:42,510
+>> Egy árfolyamot láttok.
+>> Árfolyam az látszik, hogy most éppen
+
+958
+00:19:42,510 --> 00:19:42,520
+>> Árfolyam az látszik, hogy most éppen
+ 
+
+959
+00:19:42,520 --> 00:19:45,110
+>> Árfolyam az látszik, hogy most éppen
+22400
+
+960
+00:19:45,110 --> 00:19:45,120
+22400
+ 
+
+961
+00:19:45,120 --> 00:19:47,950
+22400
+70000 Ft egy Bitcoin, és itt van pár
+
+962
+00:19:47,950 --> 00:19:47,960
+70000 Ft egy Bitcoin, és itt van pár
+ 
+
+963
+00:19:47,960 --> 00:19:49,710
+70000 Ft egy Bitcoin, és itt van pár
+tranzakció, amit csináltam rajta a
+
+964
+00:19:49,710 --> 00:19:49,720
+tranzakció, amit csináltam rajta a
+ 
+
+965
+00:19:49,720 --> 00:19:54,430
+tranzakció, amit csináltam rajta a
+múltban,
+
+966
+00:19:54,430 --> 00:19:54,440
+
+ 
+
+967
+00:19:54,440 --> 00:19:57,630
+
+>> amiknek a részletei nem látszanak.
+
+968
+00:19:57,630 --> 00:19:57,640
+>> amiknek a részletei nem látszanak.
+ 
+
+969
+00:19:57,640 --> 00:19:59,549
+>> amiknek a részletei nem látszanak.
+>> Tehát ez is egy viszonylag szerintem
+
+970
+00:19:59,549 --> 00:19:59,559
+>> Tehát ez is egy viszonylag szerintem
+ 
+
+971
+00:19:59,559 --> 00:20:01,510
+>> Tehát ez is egy viszonylag szerintem
+ránézésre olyan könnyen kezelhetőnek
+
+972
+00:20:01,510 --> 00:20:01,520
+ránézésre olyan könnyen kezelhetőnek
+ 
+
+973
+00:20:01,520 --> 00:20:04,270
+ránézésre olyan könnyen kezelhetőnek
+tűnő program.
+
+974
+00:20:04,270 --> 00:20:04,280
+tűnő program.
+ 
+
+975
+00:20:04,280 --> 00:20:06,029
+tűnő program.
+Igen. Ugye ott a Bitcoin number one,
+
+976
+00:20:06,029 --> 00:20:06,039
+Igen. Ugye ott a Bitcoin number one,
+ 
+
+977
+00:20:06,039 --> 00:20:07,870
+Igen. Ugye ott a Bitcoin number one,
+number two, ugye azok az
+
+978
+00:20:07,870 --> 00:20:07,880
+number two, ugye azok az
+ 
+
+979
+00:20:07,880 --> 00:20:11,390
+number two, ugye azok az
+>> két altárca van egy tárcán belül. Igen.
+
+980
+00:20:11,390 --> 00:20:11,400
+>> két altárca van egy tárcán belül. Igen.
+ 
+
+981
+00:20:11,400 --> 00:20:12,630
+>> két altárca van egy tárcán belül. Igen.
+Tehát
+
+982
+00:20:12,630 --> 00:20:12,640
+Tehát
+ 
+
+983
+00:20:12,640 --> 00:20:14,950
+Tehát
+>> és akkor itt jobb fölső sarokban látszik
+
+984
+00:20:14,950 --> 00:20:14,960
+>> és akkor itt jobb fölső sarokban látszik
+ 
+
+985
+00:20:14,960 --> 00:20:16,990
+>> és akkor itt jobb fölső sarokban látszik
+a küldés fogadás gomb. Ha fogadni
+
+986
+00:20:16,990 --> 00:20:17,000
+a küldés fogadás gomb. Ha fogadni
+ 
+
+987
+00:20:17,000 --> 00:20:19,789
+a küldés fogadás gomb. Ha fogadni
+szeretnétek, akkor a fogadást akkor
+
+988
+00:20:19,789 --> 00:20:19,799
+szeretnétek, akkor a fogadást akkor
+ 
+
+989
+00:20:19,799 --> 00:20:21,710
+szeretnétek, akkor a fogadást akkor
+kiírja a Bitcoin címet, ahova lehet
+
+990
+00:20:21,710 --> 00:20:21,720
+kiírja a Bitcoin címet, ahova lehet
+ 
+
+991
+00:20:21,720 --> 00:20:25,909
+kiírja a Bitcoin címet, ahova lehet
+küldeni. A küldés az megfordítva.
+
+992
+00:20:25,909 --> 00:20:25,919
+küldeni. A küldés az megfordítva.
+ 
+
+993
+00:20:25,919 --> 00:20:27,590
+küldeni. A küldés az megfordítva.
+>> Olyan bátrak.
+
+994
+00:20:27,590 --> 00:20:27,600
+>> Olyan bátrak.
+ 
+
+995
+00:20:27,600 --> 00:20:30,110
+>> Olyan bátrak.
+>> Igen. Tök jól letakarja. Ott látszik a
+
+996
+00:20:30,110 --> 00:20:30,120
+>> Igen. Tök jól letakarja. Ott látszik a
+ 
+
+997
+00:20:30,120 --> 00:20:32,630
+>> Igen. Tök jól letakarja. Ott látszik a
+friss cím. És akkor csak akkor mutatja
+
+998
+00:20:32,630 --> 00:20:32,640
+friss cím. És akkor csak akkor mutatja
+ 
+
+999
+00:20:32,640 --> 00:20:35,029
+friss cím. És akkor csak akkor mutatja
+meg a teljes címet, hogyha jóvá hagytuk
+
+1000
+00:20:35,029 --> 00:20:35,039
+meg a teljes címet, hogyha jóvá hagytuk
+ 
+
+1001
+00:20:35,039 --> 00:20:37,029
+meg a teljes címet, hogyha jóvá hagytuk
+a itt a képernyőn.
+
+1002
+00:20:37,029 --> 00:20:37,039
+a itt a képernyőn.
+ 
+
+1003
+00:20:37,039 --> 00:20:38,190
+a itt a képernyőn.
+>> Ühüm.
+
+1004
+00:20:38,190 --> 00:20:38,200
+>> Ühüm.
+ 
+
+1005
+00:20:38,200 --> 00:20:38,870
+>> Ühüm.
+>> Egyébként
+
+1006
+00:20:38,870 --> 00:20:38,880
+>> Egyébként
+ 
+
+1007
+00:20:38,880 --> 00:20:40,669
+>> Egyébként
+>> nagyon sok biztonsági elem van
+
+1008
+00:20:40,669 --> 00:20:40,679
+>> nagyon sok biztonsági elem van
+ 
+
+1009
+00:20:40,679 --> 00:20:42,549
+>> nagyon sok biztonsági elem van
+egyébként. Ez mennyivel jobb, mint a
+
+1010
+00:20:42,549 --> 00:20:42,559
+egyébként. Ez mennyivel jobb, mint a
+ 
+
+1011
+00:20:42,559 --> 00:20:43,830
+egyébként. Ez mennyivel jobb, mint a
+régi trezor?
+
+1012
+00:20:43,830 --> 00:20:43,840
+régi trezor?
+ 
+
+1013
+00:20:43,840 --> 00:20:47,070
+régi trezor?
+>> Hát ez már USBC csatlakozó van.
+
+1014
+00:20:47,070 --> 00:20:47,080
+>> Hát ez már USBC csatlakozó van.
+ 
+
+1015
+00:20:47,080 --> 00:20:48,710
+>> Hát ez már USBC csatlakozó van.
+>> Öt évvel újabb vagy héttel?
+
+1016
+00:20:48,710 --> 00:20:48,720
+>> Öt évvel újabb vagy héttel?
+ 
+
+1017
+00:20:48,720 --> 00:20:51,390
+>> Öt évvel újabb vagy héttel?
+>> A a pin kód beírása az teljesen a saját
+
+1018
+00:20:51,390 --> 00:20:51,400
+>> A a pin kód beírása az teljesen a saját
+ 
+
+1019
+00:20:51,400 --> 00:20:53,390
+>> A a pin kód beírása az teljesen a saját
+képernyőénin történik. A régén azon még
+
+1020
+00:20:53,390 --> 00:20:53,400
+képernyőénin történik. A régén azon még
+ 
+
+1021
+00:20:53,400 --> 00:20:56,549
+képernyőénin történik. A régén azon még
+így kombinálva az app és a
+
+1022
+00:20:56,549 --> 00:20:56,559
+így kombinálva az app és a
+ 
+
+1023
+00:20:56,559 --> 00:20:57,909
+így kombinálva az app és a
+>> ühüm.
+
+1024
+00:20:57,909 --> 00:20:57,919
+>> ühüm.
+ 
+
+1025
+00:20:57,919 --> 00:21:00,230
+>> ühüm.
+a trezor között ment, tehát hogy kirakja
+
+1026
+00:21:00,230 --> 00:21:00,240
+a trezor között ment, tehát hogy kirakja
+ 
+
+1027
+00:21:00,240 --> 00:21:02,110
+a trezor között ment, tehát hogy kirakja
+a képernyőre, amit nem látunk most, mert
+
+1028
+00:21:02,110 --> 00:21:02,120
+a képernyőre, amit nem látunk most, mert
+ 
+
+1029
+00:21:02,120 --> 00:21:03,789
+a képernyőre, amit nem látunk most, mert
+kontaktibás, kirakja a képernyőre
+
+1030
+00:21:03,789 --> 00:21:03,799
+kontaktibás, kirakja a képernyőre
+ 
+
+1031
+00:21:03,799 --> 00:21:05,270
+kontaktibás, kirakja a képernyőre
+összekeverve a számokat, és akkor
+
+1032
+00:21:05,270 --> 00:21:05,280
+összekeverve a számokat, és akkor
+ 
+
+1033
+00:21:05,280 --> 00:21:07,149
+összekeverve a számokat, és akkor
+azokatnak megfelelő helyre kell
+
+1034
+00:21:07,149 --> 00:21:07,159
+azokatnak megfelelő helyre kell
+ 
+
+1035
+00:21:07,159 --> 00:21:09,830
+azokatnak megfelelő helyre kell
+kattintani az egérrel a képernyőn, de az
+
+1036
+00:21:09,830 --> 00:21:09,840
+kattintani az egérrel a képernyőn, de az
+ 
+
+1037
+00:21:09,840 --> 00:21:12,070
+kattintani az egérrel a képernyőn, de az
+újon már a saját képernyőén kell az
+
+1038
+00:21:12,070 --> 00:21:12,080
+újon már a saját képernyőén kell az
+ 
+
+1039
+00:21:12,080 --> 00:21:13,669
+újon már a saját képernyőén kell az
+egészet beírni. Ennyivel is
+
+1040
+00:21:13,669 --> 00:21:13,679
+egészet beírni. Ennyivel is
+ 
+
+1041
+00:21:13,679 --> 00:21:15,590
+egészet beírni. Ennyivel is
+biztonságosan. Ami még egy nagyon jó
+
+1042
+00:21:15,590 --> 00:21:15,600
+biztonságosan. Ami még egy nagyon jó
+ 
+
+1043
+00:21:15,600 --> 00:21:17,390
+biztonságosan. Ami még egy nagyon jó
+feature, hogy ugye ezeket a számokat
+
+1044
+00:21:17,390 --> 00:21:17,400
+feature, hogy ugye ezeket a számokat
+ 
+
+1045
+00:21:17,400 --> 00:21:19,669
+feature, hogy ugye ezeket a számokat
+mindig véletlenszerű sorrendbe rakj.
+
+1046
+00:21:19,669 --> 00:21:19,679
+mindig véletlenszerű sorrendbe rakj.
+ 
+
+1047
+00:21:19,679 --> 00:21:20,390
+mindig véletlenszerű sorrendbe rakj.
+>> Igen,
+
+1048
+00:21:20,390 --> 00:21:20,400
+>> Igen,
+ 
+
+1049
+00:21:20,400 --> 00:21:21,390
+>> Igen,
+>> ezt mondtad?
+
+1050
+00:21:21,390 --> 00:21:21,400
+>> ezt mondtad?
+ 
+
+1051
+00:21:21,400 --> 00:21:22,830
+>> ezt mondtad?
+>> Ja, bocsánat.
+
+1052
+00:21:22,830 --> 00:21:22,840
+>> Ja, bocsánat.
+ 
+
+1053
+00:21:22,840 --> 00:21:24,390
+>> Ja, bocsánat.
+[Zene]
+
+1054
+00:21:24,390 --> 00:21:24,400
+[Zene]
+ 
+
+1055
+00:21:24,400 --> 00:21:27,510
+[Zene]
+>> Jól van, figyelek.
+
+1056
+00:21:27,510 --> 00:21:27,520
+>> Jól van, figyelek.
+ 
+
+1057
+00:21:27,520 --> 00:21:28,909
+>> Jól van, figyelek.
+Jó, hát szerintem ennyi elég a
+
+1058
+00:21:28,909 --> 00:21:28,919
+Jó, hát szerintem ennyi elég a
+ 
+
+1059
+00:21:28,919 --> 00:21:31,190
+Jó, hát szerintem ennyi elég a
+trezorról. Milyen árban van ez
+
+1060
+00:21:31,190 --> 00:21:31,200
+trezorról. Milyen árban van ez
+ 
+
+1061
+00:21:31,200 --> 00:21:34,909
+trezorról. Milyen árban van ez
+mostanában? Ilyen 100€ környékkén. Nem
+
+1062
+00:21:34,909 --> 00:21:34,919
+mostanában? Ilyen 100€ környékkén. Nem
+ 
+
+1063
+00:21:34,919 --> 00:21:36,950
+mostanában? Ilyen 100€ környékkén. Nem
+40 nincs annyi.
+
+1064
+00:21:36,950 --> 00:21:36,960
+40 nincs annyi.
+ 
+
+1065
+00:21:36,960 --> 00:21:37,710
+40 nincs annyi.
+>> Nincs annyi.
+
+1066
+00:21:37,710 --> 00:21:37,720
+>> Nincs annyi.
+ 
+
+1067
+00:21:37,720 --> 00:21:39,430
+>> Nincs annyi.
+>> Nemá
+
+1068
+00:21:39,430 --> 00:21:39,440
+>> Nemá
+ 
+
+1069
+00:21:39,440 --> 00:21:41,630
+>> Nemá
+ilyen szerintem ilyen ilyen huszon
+
+1070
+00:21:41,630 --> 00:21:41,640
+ilyen szerintem ilyen ilyen huszon
+ 
+
+1071
+00:21:41,640 --> 00:21:43,190
+ilyen szerintem ilyen ilyen huszon
+valány 1000 Ft volt
+
+1072
+00:21:43,190 --> 00:21:43,200
+valány 1000 Ft volt
+ 
+
+1073
+00:21:43,200 --> 00:21:45,750
+valány 1000 Ft volt
+>> ez a kicsi az egyes
+
+1074
+00:21:45,750 --> 00:21:45,760
+>> ez a kicsi az egyes
+ 
+
+1075
+00:21:45,760 --> 00:21:50,029
+>> ez a kicsi az egyes
+>> a Bitcoin bázis webshopjában. 1999.
+
+1076
+00:21:50,029 --> 00:21:50,039
+>> a Bitcoin bázis webshopjában. 1999.
+ 
+
+1077
+00:21:50,039 --> 00:21:50,430
+>> a Bitcoin bázis webshopjában. 1999.
+Na
+
+1078
+00:21:50,430 --> 00:21:50,440
+Na
+ 
+
+1079
+00:21:50,440 --> 00:21:51,990
+Na
+>> jó.
+
+1080
+00:21:51,990 --> 00:21:52,000
+>> jó.
+ 
+
+1081
+00:21:52,000 --> 00:21:55,870
+>> jó.
+Az kábé a legolcsóbb ilyen
+
+1082
+00:21:55,870 --> 00:21:55,880
+Az kábé a legolcsóbb ilyen
+ 
+
+1083
+00:21:55,880 --> 00:21:58,190
+Az kábé a legolcsóbb ilyen
+hardwar valett.
+
+1084
+00:21:58,190 --> 00:21:58,200
+hardwar valett.
+ 
+
+1085
+00:21:58,200 --> 00:22:00,470
+hardwar valett.
+Nem biztos, hogy a legjobb, de a
+
+1086
+00:22:00,470 --> 00:22:00,480
+Nem biztos, hogy a legjobb, de a
+ 
+
+1087
+00:22:00,480 --> 00:22:01,630
+Nem biztos, hogy a legjobb, de a
+legjendő jelenleg.
+
+1088
+00:22:01,630 --> 00:22:01,640
+legjendő jelenleg.
+ 
+
+1089
+00:22:01,640 --> 00:22:02,669
+legjendő jelenleg.
+>> Mi szeretjük
+
+1090
+00:22:02,669 --> 00:22:02,679
+>> Mi szeretjük
+ 
+
+1091
+00:22:02,679 --> 00:22:05,350
+>> Mi szeretjük
+>> nagyon könnyű használni. Van még itt két
+
+1092
+00:22:05,350 --> 00:22:05,360
+>> nagyon könnyű használni. Van még itt két
+ 
+
+1093
+00:22:05,360 --> 00:22:07,510
+>> nagyon könnyű használni. Van még itt két
+egyéb valet,
+
+1094
+00:22:07,510 --> 00:22:07,520
+egyéb valet,
+ 
+
+1095
+00:22:07,520 --> 00:22:09,549
+egyéb valet,
+egy Cold Card, aminek most a pinódját
+
+1096
+00:22:09,549 --> 00:22:09,559
+egy Cold Card, aminek most a pinódját
+ 
+
+1097
+00:22:09,559 --> 00:22:11,310
+egy Cold Card, aminek most a pinódját
+elfelejtettem, úgyhogy sokat nem fogunk
+
+1098
+00:22:11,310 --> 00:22:11,320
+elfelejtettem, úgyhogy sokat nem fogunk
+ 
+
+1099
+00:22:11,320 --> 00:22:13,830
+elfelejtettem, úgyhogy sokat nem fogunk
+vele tudni csinálni,
+
+1100
+00:22:13,830 --> 00:22:13,840
+vele tudni csinálni,
+ 
+
+1101
+00:22:13,840 --> 00:22:15,390
+vele tudni csinálni,
+de így nagyjából bemutatom, hogy ez
+
+1102
+00:22:15,390 --> 00:22:15,400
+de így nagyjából bemutatom, hogy ez
+ 
+
+1103
+00:22:15,400 --> 00:22:16,510
+de így nagyjából bemutatom, hogy ez
+körülbelül így néz ki, mint egy
+
+1104
+00:22:16,510 --> 00:22:16,520
+körülbelül így néz ki, mint egy
+ 
+
+1105
+00:22:16,520 --> 00:22:18,990
+körülbelül így néz ki, mint egy
+kalkulátor. Tehát hogyha így mész a
+
+1106
+00:22:18,990 --> 00:22:19,000
+kalkulátor. Tehát hogyha így mész a
+ 
+
+1107
+00:22:19,000 --> 00:22:20,710
+kalkulátor. Tehát hogyha így mész a
+repülőtéren, és azt mondod, hogy ez egy
+
+1108
+00:22:20,710 --> 00:22:20,720
+repülőtéren, és azt mondod, hogy ez egy
+ 
+
+1109
+00:22:20,720 --> 00:22:23,310
+repülőtéren, és azt mondod, hogy ez egy
+kalkulátor, akkor ezt így jobbára
+
+1110
+00:22:23,310 --> 00:22:23,320
+kalkulátor, akkor ezt így jobbára
+ 
+
+1111
+00:22:23,320 --> 00:22:26,710
+kalkulátor, akkor ezt így jobbára
+elhiszik. Szerintem nem sokára válik
+
+1112
+00:22:26,710 --> 00:22:26,720
+elhiszik. Szerintem nem sokára válik
+ 
+
+1113
+00:22:26,720 --> 00:22:28,549
+elhiszik. Szerintem nem sokára válik
+>> amúgy meg nem kérdezik meg még, de
+
+1114
+00:22:28,549 --> 00:22:28,559
+>> amúgy meg nem kérdezik meg még, de
+ 
+
+1115
+00:22:28,559 --> 00:22:30,269
+>> amúgy meg nem kérdezik meg még, de
+gondolom Kínába bemész, akkor lehet
+
+1116
+00:22:30,269 --> 00:22:30,279
+gondolom Kínába bemész, akkor lehet
+ 
+
+1117
+00:22:30,279 --> 00:22:32,390
+gondolom Kínába bemész, akkor lehet
+megkérdezik. Mondjuk ott még nem jártam.
+
+1118
+00:22:32,390 --> 00:22:32,400
+megkérdezik. Mondjuk ott még nem jártam.
+ 
+
+1119
+00:22:32,400 --> 00:22:34,470
+megkérdezik. Mondjuk ott még nem jártam.
+van hozzá egy ilyen SD kártya, itt van
+
+1120
+00:22:34,470 --> 00:22:34,480
+van hozzá egy ilyen SD kártya, itt van
+ 
+
+1121
+00:22:34,480 --> 00:22:37,549
+van hozzá egy ilyen SD kártya, itt van
+belül. Erre ki lehet menteni mindenféle
+
+1122
+00:22:37,549 --> 00:22:37,559
+belül. Erre ki lehet menteni mindenféle
+ 
+
+1123
+00:22:37,559 --> 00:22:41,269
+belül. Erre ki lehet menteni mindenféle
+setupot, beállítást, egyéb dolgokat.
+
+1124
+00:22:41,269 --> 00:22:41,279
+setupot, beállítást, egyéb dolgokat.
+ 
+
+1125
+00:22:41,279 --> 00:22:42,750
+setupot, beállítást, egyéb dolgokat.
+És akkor ez ennyi. Ez egy nagyon
+
+1126
+00:22:42,750 --> 00:22:42,760
+És akkor ez ennyi. Ez egy nagyon
+ 
+
+1127
+00:22:42,760 --> 00:22:44,710
+És akkor ez ennyi. Ez egy nagyon
+biztonságos
+
+1128
+00:22:44,710 --> 00:22:44,720
+biztonságos
+ 
+
+1129
+00:22:44,720 --> 00:22:46,870
+biztonságos
+eszköz.
+
+1130
+00:22:46,870 --> 00:22:46,880
+eszköz.
+ 
+
+1131
+00:22:46,880 --> 00:22:48,909
+eszköz.
+>> Elmondtuk, hogy ezekhez is tartozik 12
+
+1132
+00:22:48,909 --> 00:22:48,919
+>> Elmondtuk, hogy ezekhez is tartozik 12
+ 
+
+1133
+00:22:48,919 --> 00:22:50,590
+>> Elmondtuk, hogy ezekhez is tartozik 12
+szó.
+
+1134
+00:22:50,590 --> 00:22:50,600
+szó.
+ 
+
+1135
+00:22:50,600 --> 00:22:53,789
+szó.
+>> Nem mondtuk, de igazából tartozik.
+
+1136
+00:22:53,789 --> 00:22:53,799
+>> Nem mondtuk, de igazából tartozik.
+ 
+
+1137
+00:22:53,799 --> 00:22:56,909
+>> Nem mondtuk, de igazából tartozik.
+>> Hozzájuk, főt 24 talán. Nem, vagy
+
+1138
+00:22:56,909 --> 00:22:56,919
+>> Hozzájuk, főt 24 talán. Nem, vagy
+ 
+
+1139
+00:22:56,919 --> 00:23:00,269
+>> Hozzájuk, főt 24 talán. Nem, vagy
+>> nem, ehhez 12 tartozott. A régihez 24.
+
+1140
+00:23:00,269 --> 00:23:00,279
+>> nem, ehhez 12 tartozott. A régihez 24.
+ 
+
+1141
+00:23:00,279 --> 00:23:00,750
+>> nem, ehhez 12 tartozott. A régihez 24.
+Igen.
+
+1142
+00:23:00,750 --> 00:23:00,760
+Igen.
+ 
+
+1143
+00:23:00,760 --> 00:23:02,510
+Igen.
+>> Ühüm. Hát ez az,
+
+1144
+00:23:02,510 --> 00:23:02,520
+>> Ühüm. Hát ez az,
+ 
+
+1145
+00:23:02,520 --> 00:23:03,750
+>> Ühüm. Hát ez az,
+>> de igazából mindegy.
+
+1146
+00:23:03,750 --> 00:23:03,760
+>> de igazából mindegy.
+ 
+
+1147
+00:23:03,760 --> 00:23:05,470
+>> de igazából mindegy.
+>> Más miatt biztonságosabb.
+
+1148
+00:23:05,470 --> 00:23:05,480
+>> Más miatt biztonságosabb.
+ 
+
+1149
+00:23:05,480 --> 00:23:08,310
+>> Más miatt biztonságosabb.
+>> Igen. Jó, hát akkor nézzük, hol van ezen
+
+1150
+00:23:08,310 --> 00:23:08,320
+>> Igen. Jó, hát akkor nézzük, hol van ezen
+ 
+
+1151
+00:23:08,320 --> 00:23:11,669
+>> Igen. Jó, hát akkor nézzük, hol van ezen
+az USB. Itt a kóc az így néz ki.
+
+1152
+00:23:11,669 --> 00:23:11,679
+az USB. Itt a kóc az így néz ki.
+ 
+
+1153
+00:23:11,679 --> 00:23:13,830
+az USB. Itt a kóc az így néz ki.
+Bekapcsol, elindul és ez is kér pin
+
+1154
+00:23:13,830 --> 00:23:13,840
+Bekapcsol, elindul és ez is kér pin
+ 
+
+1155
+00:23:13,840 --> 00:23:19,789
+Bekapcsol, elindul és ez is kér pin
+kódot. Most nem fogom beírni.
+
+1156
+00:23:19,789 --> 00:23:19,799
+
+ 
+
+1157
+00:23:19,799 --> 00:23:22,870
+
+Itt világít egy led, hogy genuine, tehát
+
+1158
+00:23:22,870 --> 00:23:22,880
+Itt világít egy led, hogy genuine, tehát
+ 
+
+1159
+00:23:22,880 --> 00:23:25,830
+Itt világít egy led, hogy genuine, tehát
+hogy érintetlen a chip, mert ez ezt is
+
+1160
+00:23:25,830 --> 00:23:25,840
+hogy érintetlen a chip, mert ez ezt is
+ 
+
+1161
+00:23:25,840 --> 00:23:27,269
+hogy érintetlen a chip, mert ez ezt is
+vizsgálja.
+
+1162
+00:23:27,269 --> 00:23:27,279
+vizsgálja.
+ 
+
+1163
+00:23:27,279 --> 00:23:29,230
+vizsgálja.
+>> És hogyha valaki megérinti és beköti a
+
+1164
+00:23:29,230 --> 00:23:29,240
+>> És hogyha valaki megérinti és beköti a
+ 
+
+1165
+00:23:29,240 --> 00:23:31,950
+>> És hogyha valaki megérinti és beköti a
+ledet, mondom.
+
+1166
+00:23:31,950 --> 00:23:31,960
+ledet, mondom.
+ 
+
+1167
+00:23:31,960 --> 00:23:34,630
+ledet, mondom.
+Nem tudom, hogy hogy lehet feltörni. Az
+
+1168
+00:23:34,630 --> 00:23:34,640
+Nem tudom, hogy hogy lehet feltörni. Az
+ 
+
+1169
+00:23:34,640 --> 00:23:36,950
+Nem tudom, hogy hogy lehet feltörni. Az
+lehet, hogy egy későbbi adásba feltörik,
+
+1170
+00:23:36,950 --> 00:23:36,960
+lehet, hogy egy későbbi adásba feltörik,
+ 
+
+1171
+00:23:36,960 --> 00:23:38,710
+lehet, hogy egy későbbi adásba feltörik,
+de nem nagyon lehet. Én úgy tudom, hogy
+
+1172
+00:23:38,710 --> 00:23:38,720
+de nem nagyon lehet. Én úgy tudom, hogy
+ 
+
+1173
+00:23:38,720 --> 00:23:40,789
+de nem nagyon lehet. Én úgy tudom, hogy
+ezeket nem lehet. És van itt alatt egy
+
+1174
+00:23:40,789 --> 00:23:40,799
+ezeket nem lehet. És van itt alatt egy
+ 
+
+1175
+00:23:40,799 --> 00:23:43,789
+ezeket nem lehet. És van itt alatt egy
+másik lány, az a ction. Hogyha valami
+
+1176
+00:23:43,789 --> 00:23:43,799
+másik lány, az a ction. Hogyha valami
+ 
+
+1177
+00:23:43,799 --> 00:23:45,990
+másik lány, az a ction. Hogyha valami
+próbálkozás volt vele, például valaki
+
+1178
+00:23:45,990 --> 00:23:46,000
+próbálkozás volt vele, például valaki
+ 
+
+1179
+00:23:46,000 --> 00:23:48,789
+próbálkozás volt vele, például valaki
+megkaparintotta és elgépelte a pin
+
+1180
+00:23:48,789 --> 00:23:48,799
+megkaparintotta és elgépelte a pin
+ 
+
+1181
+00:23:48,799 --> 00:23:51,909
+megkaparintotta és elgépelte a pin
+kódot, akkor utána ez világít, hogy
+
+1182
+00:23:51,909 --> 00:23:51,919
+kódot, akkor utána ez világít, hogy
+ 
+
+1183
+00:23:51,919 --> 00:23:54,549
+kódot, akkor utána ez világít, hogy
+figyeljél, mert egy kicsit érintett
+
+1184
+00:23:54,549 --> 00:23:54,559
+figyeljél, mert egy kicsit érintett
+ 
+
+1185
+00:23:54,559 --> 00:23:57,870
+figyeljél, mert egy kicsit érintett
+érintett a gép valamiben. Na, szóval így
+
+1186
+00:23:57,870 --> 00:23:57,880
+érintett a gép valamiben. Na, szóval így
+ 
+
+1187
+00:23:57,880 --> 00:24:01,149
+érintett a gép valamiben. Na, szóval így
+néz ki most. Ezt ezt most elengedjük.
+
+1188
+00:24:01,149 --> 00:24:01,159
+néz ki most. Ezt ezt most elengedjük.
+ 
+
+1189
+00:24:01,159 --> 00:24:02,510
+néz ki most. Ezt ezt most elengedjük.
+De itt itt is ugye a pin code kód
+
+1190
+00:24:02,510 --> 00:24:02,520
+De itt itt is ugye a pin code kód
+ 
+
+1191
+00:24:02,520 --> 00:24:04,669
+De itt itt is ugye a pin code kód
+megadás könnyen megy, a setup könnyen
+
+1192
+00:24:04,669 --> 00:24:04,679
+megadás könnyen megy, a setup könnyen
+ 
+
+1193
+00:24:04,679 --> 00:24:06,590
+megadás könnyen megy, a setup könnyen
+megy. Ez egyébként egy nagyon
+
+1194
+00:24:06,590 --> 00:24:06,600
+megy. Ez egyébként egy nagyon
+ 
+
+1195
+00:24:06,600 --> 00:24:11,510
+megy. Ez egyébként egy nagyon
+biztonságos valet.
+
+1196
+00:24:11,510 --> 00:24:11,520
+
+ 
+
+1197
+00:24:11,520 --> 00:24:16,870
+
+Van még nekünk itt egy
+
+1198
+00:24:16,870 --> 00:24:16,880
+
+ 
+
+1199
+00:24:16,880 --> 00:24:21,630
+
+Bitbox. Bitbox. Ez egy svájci gyártmányú
+
+1200
+00:24:21,630 --> 00:24:21,640
+Bitbox. Bitbox. Ez egy svájci gyártmányú
+ 
+
+1201
+00:24:21,640 --> 00:24:23,950
+Bitbox. Bitbox. Ez egy svájci gyártmányú
+valett. Ez is már egy kicsit viharvert.
+
+1202
+00:24:23,950 --> 00:24:23,960
+valett. Ez is már egy kicsit viharvert.
+ 
+
+1203
+00:24:23,960 --> 00:24:25,549
+valett. Ez is már egy kicsit viharvert.
+Mondjuk szerencsére a kamerán pont nem
+
+1204
+00:24:25,549 --> 00:24:25,559
+Mondjuk szerencsére a kamerán pont nem
+ 
+
+1205
+00:24:25,559 --> 00:24:28,870
+Mondjuk szerencsére a kamerán pont nem
+látszik.
+
+1206
+00:24:28,870 --> 00:24:28,880
+
+ 
+
+1207
+00:24:28,880 --> 00:24:30,830
+
+Semmi a úgy néz ki, mint egy pendrive.
+
+1208
+00:24:30,830 --> 00:24:30,840
+Semmi a úgy néz ki, mint egy pendrive.
+ 
+
+1209
+00:24:30,840 --> 00:24:35,190
+Semmi a úgy néz ki, mint egy pendrive.
+Így fityeg. Van rajta egy USBC port, és
+
+1210
+00:24:35,190 --> 00:24:35,200
+Így fityeg. Van rajta egy USBC port, és
+ 
+
+1211
+00:24:35,200 --> 00:24:37,230
+Így fityeg. Van rajta egy USBC port, és
+ezt így akármibe be lehet dugni. Most
+
+1212
+00:24:37,230 --> 00:24:37,240
+ezt így akármibe be lehet dugni. Most
+ 
+
+1213
+00:24:37,240 --> 00:24:39,029
+ezt így akármibe be lehet dugni. Most
+éppen olyan ajzatunk nincs, csak így
+
+1214
+00:24:39,029 --> 00:24:39,039
+éppen olyan ajzatunk nincs, csak így
+ 
+
+1215
+00:24:39,039 --> 00:24:42,230
+éppen olyan ajzatunk nincs, csak így
+messzebb. Úgyhogy azt találtuk ki, hogy
+
+1216
+00:24:42,230 --> 00:24:42,240
+messzebb. Úgyhogy azt találtuk ki, hogy
+ 
+
+1217
+00:24:42,240 --> 00:24:44,149
+messzebb. Úgyhogy azt találtuk ki, hogy
+bemutatjuk
+
+1218
+00:24:44,149 --> 00:24:44,159
+bemutatjuk
+ 
+
+1219
+00:24:44,159 --> 00:24:46,510
+bemutatjuk
+telefonon.
+
+1220
+00:24:46,510 --> 00:24:46,520
+telefonon.
+ 
+
+1221
+00:24:46,520 --> 00:24:49,310
+telefonon.
+Van ez a Bitbox app, amit a mindenféle
+
+1222
+00:24:49,310 --> 00:24:49,320
+Van ez a Bitbox app, amit a mindenféle
+ 
+
+1223
+00:24:49,320 --> 00:24:51,149
+Van ez a Bitbox app, amit a mindenféle
+App Store-ból le lehet tölteni. Az most
+
+1224
+00:24:51,149 --> 00:24:51,159
+App Store-ból le lehet tölteni. Az most
+ 
+
+1225
+00:24:51,159 --> 00:24:54,549
+App Store-ból le lehet tölteni. Az most
+a Google App Storejában volt. És akkor
+
+1226
+00:24:54,549 --> 00:24:54,559
+a Google App Storejában volt. És akkor
+ 
+
+1227
+00:24:54,559 --> 00:24:59,070
+a Google App Storejában volt. És akkor
+fogod, bedugod a ezt a kis mütyűrt így a
+
+1228
+00:24:59,070 --> 00:24:59,080
+fogod, bedugod a ezt a kis mütyűrt így a
+ 
+
+1229
+00:24:59,080 --> 00:25:01,310
+fogod, bedugod a ezt a kis mütyűrt így a
+telefonodba,
+
+1230
+00:25:01,310 --> 00:25:01,320
+telefonodba,
+ 
+
+1231
+00:25:01,320 --> 00:25:05,190
+telefonodba,
+és megkérdezi, hogy melyik az alja,
+
+1232
+00:25:05,190 --> 00:25:05,200
+és megkérdezi, hogy melyik az alja,
+ 
+
+1233
+00:25:05,200 --> 00:25:07,389
+és megkérdezi, hogy melyik az alja,
+mert ahhoz képest orientálja a
+
+1234
+00:25:07,389 --> 00:25:07,399
+mert ahhoz képest orientálja a
+ 
+
+1235
+00:25:07,399 --> 00:25:10,310
+mert ahhoz képest orientálja a
+képernyőt.
+
+1236
+00:25:10,310 --> 00:25:10,320
+képernyőt.
+ 
+
+1237
+00:25:10,320 --> 00:25:13,669
+képernyőt.
+Unlock. És akkor itt van egy videó, hogy
+
+1238
+00:25:13,669 --> 00:25:13,679
+Unlock. És akkor itt van egy videó, hogy
+ 
+
+1239
+00:25:13,679 --> 00:25:16,389
+Unlock. És akkor itt van egy videó, hogy
+hogyan lehetne ezt használni. Tehát itt
+
+1240
+00:25:16,389 --> 00:25:16,399
+hogyan lehetne ezt használni. Tehát itt
+ 
+
+1241
+00:25:16,399 --> 00:25:19,269
+hogyan lehetne ezt használni. Tehát itt
+így meg lehet adogatni a betűket a
+
+1242
+00:25:19,269 --> 00:25:19,279
+így meg lehet adogatni a betűket a
+ 
+
+1243
+00:25:19,279 --> 00:25:23,669
+így meg lehet adogatni a betűket a
+fölső, alsó gombok érintésével.
+
+1244
+00:25:23,669 --> 00:25:23,679
+fölső, alsó gombok érintésével.
+ 
+
+1245
+00:25:23,679 --> 00:25:24,669
+fölső, alsó gombok érintésével.
+>> Menő.
+
+1246
+00:25:24,669 --> 00:25:24,679
+>> Menő.
+ 
+
+1247
+00:25:24,679 --> 00:25:26,750
+>> Menő.
+>> Nagyon biztonságos ez is. Tök jó. Nem
+
+1248
+00:25:26,750 --> 00:25:26,760
+>> Nagyon biztonságos ez is. Tök jó. Nem
+ 
+
+1249
+00:25:26,760 --> 00:25:29,789
+>> Nagyon biztonságos ez is. Tök jó. Nem
+tárol semmit. Mindig meg kell adnod
+
+1250
+00:25:29,789 --> 00:25:29,799
+tárol semmit. Mindig meg kell adnod
+ 
+
+1251
+00:25:29,799 --> 00:25:33,630
+tárol semmit. Mindig meg kell adnod
+mindent. Most ebbe se lépek be. Egyrészt
+
+1252
+00:25:33,630 --> 00:25:33,640
+mindent. Most ebbe se lépek be. Egyrészt
+ 
+
+1253
+00:25:33,640 --> 00:25:35,310
+mindent. Most ebbe se lépek be. Egyrészt
+nem is tudom, hogy hogy volt beállítva.
+
+1254
+00:25:35,310 --> 00:25:35,320
+nem is tudom, hogy hogy volt beállítva.
+ 
+
+1255
+00:25:35,320 --> 00:25:37,470
+nem is tudom, hogy hogy volt beállítva.
+Le kéne reseteljük.
+
+1256
+00:25:37,470 --> 00:25:37,480
+Le kéne reseteljük.
+ 
+
+1257
+00:25:37,480 --> 00:25:39,909
+Le kéne reseteljük.
+>> Elfelejtetted a pinódodat? Igen, mert
+
+1258
+00:25:39,909 --> 00:25:39,919
+>> Elfelejtetted a pinódodat? Igen, mert
+ 
+
+1259
+00:25:39,919 --> 00:25:42,070
+>> Elfelejtetted a pinódodat? Igen, mert
+ezeket nem használom. Ezeket így demóra
+
+1260
+00:25:42,070 --> 00:25:42,080
+ezeket nem használom. Ezeket így demóra
+ 
+
+1261
+00:25:42,080 --> 00:25:43,710
+ezeket nem használom. Ezeket így demóra
+hoztam ide.
+
+1262
+00:25:43,710 --> 00:25:43,720
+hoztam ide.
+ 
+
+1263
+00:25:43,720 --> 00:25:45,149
+hoztam ide.
+>> De ugye az nem baj, ha elfelejti az
+
+1264
+00:25:45,149 --> 00:25:45,159
+>> De ugye az nem baj, ha elfelejti az
+ 
+
+1265
+00:25:45,159 --> 00:25:46,190
+>> De ugye az nem baj, ha elfelejti az
+ember a kink kódjába.
+
+1266
+00:25:46,190 --> 00:25:46,200
+ember a kink kódjába.
+ 
+
+1267
+00:25:46,200 --> 00:25:48,549
+ember a kink kódjába.
+>> Nem baj, mert a seedwök alapján bármikor
+
+1268
+00:25:48,549 --> 00:25:48,559
+>> Nem baj, mert a seedwök alapján bármikor
+ 
+
+1269
+00:25:48,559 --> 00:25:49,750
+>> Nem baj, mert a seedwök alapján bármikor
+visszaállít.
+
+1270
+00:25:49,750 --> 00:25:49,760
+visszaállít.
+ 
+
+1271
+00:25:49,760 --> 00:25:51,070
+visszaállít.
+>> Ja, 12 szó.
+
+1272
+00:25:51,070 --> 00:25:51,080
+>> Ja, 12 szó.
+ 
+
+1273
+00:25:51,080 --> 00:25:53,470
+>> Ja, 12 szó.
+>> A 12 szó alapján vagy mag, vagy hogy
+
+1274
+00:25:53,470 --> 00:25:53,480
+>> A 12 szó alapján vagy mag, vagy hogy
+ 
+
+1275
+00:25:53,480 --> 00:25:54,149
+>> A 12 szó alapján vagy mag, vagy hogy
+nevezik magyarul.
+
+1276
+00:25:54,149 --> 00:25:54,159
+nevezik magyarul.
+ 
+
+1277
+00:25:54,159 --> 00:25:55,830
+nevezik magyarul.
+>> És a a az egy másikba is
+
+1278
+00:25:55,830 --> 00:25:55,840
+>> És a a az egy másikba is
+ 
+
+1279
+00:25:55,840 --> 00:25:57,590
+>> És a a az egy másikba is
+visszaállítható. Ezt is mondjuk el.
+
+1280
+00:25:57,590 --> 00:25:57,600
+visszaállítható. Ezt is mondjuk el.
+ 
+
+1281
+00:25:57,600 --> 00:25:58,070
+visszaállítható. Ezt is mondjuk el.
+>> Így van.
+
+1282
+00:25:58,070 --> 00:25:58,080
+>> Így van.
+ 
+
+1283
+00:25:58,080 --> 00:25:59,630
+>> Így van.
+>> Tehát ha elvész, meg ha kontakthibás
+
+1284
+00:25:59,630 --> 00:25:59,640
+>> Tehát ha elvész, meg ha kontakthibás
+ 
+
+1285
+00:25:59,640 --> 00:26:01,549
+>> Tehát ha elvész, meg ha kontakthibás
+lesz, akkor veszünk egy újat és beírjuk
+
+1286
+00:26:01,549 --> 00:26:01,559
+lesz, akkor veszünk egy újat és beírjuk
+ 
+
+1287
+00:26:01,559 --> 00:26:04,029
+lesz, akkor veszünk egy újat és beírjuk
+a 12. Mindig a 12 szó fontos.
+
+1288
+00:26:04,029 --> 00:26:04,039
+a 12. Mindig a 12 szó fontos.
+ 
+
+1289
+00:26:04,039 --> 00:26:04,510
+a 12. Mindig a 12 szó fontos.
+>> Így van.
+
+1290
+00:26:04,510 --> 00:26:04,520
+>> Így van.
+ 
+
+1291
+00:26:04,520 --> 00:26:06,710
+>> Így van.
+>> Újra beírjuk őket és már működik is.
+
+1292
+00:26:06,710 --> 00:26:06,720
+>> Újra beírjuk őket és már működik is.
+ 
+
+1293
+00:26:06,720 --> 00:26:09,350
+>> Újra beírjuk őket és már működik is.
+>> Ez a 12 szó. Ezzel bármit helyreállítasz
+
+1294
+00:26:09,350 --> 00:26:09,360
+>> Ez a 12 szó. Ezzel bármit helyreállítasz
+ 
+
+1295
+00:26:09,360 --> 00:26:12,950
+>> Ez a 12 szó. Ezzel bármit helyreállítasz
+bármilyen walleten, mert
+
+1296
+00:26:12,950 --> 00:26:12,960
+bármilyen walleten, mert
+ 
+
+1297
+00:26:12,960 --> 00:26:16,990
+bármilyen walleten, mert
+emögött az van, hogy mi is van mögötte?
+
+1298
+00:26:16,990 --> 00:26:17,000
+emögött az van, hogy mi is van mögötte?
+ 
+
+1299
+00:26:17,000 --> 00:26:20,830
+emögött az van, hogy mi is van mögötte?
+Egy ilyen matematikai formula, egy ilyen
+
+1300
+00:26:20,830 --> 00:26:20,840
+Egy ilyen matematikai formula, egy ilyen
+ 
+
+1301
+00:26:20,840 --> 00:26:21,630
+Egy ilyen matematikai formula, egy ilyen
+>> generálódik
+
+1302
+00:26:21,630 --> 00:26:21,640
+>> generálódik
+ 
+
+1303
+00:26:21,640 --> 00:26:24,789
+>> generálódik
+>> gráfillesztés,
+
+1304
+00:26:24,789 --> 00:26:24,799
+
+ 
+
+1305
+00:26:24,799 --> 00:26:26,669
+
+egy görbére illeszt valamit, és és
+
+1306
+00:26:26,669 --> 00:26:26,679
+egy görbére illeszt valamit, és és
+ 
+
+1307
+00:26:26,679 --> 00:26:28,230
+egy görbére illeszt valamit, és és
+mindig ugyanaz jön ki mindenképpen,
+
+1308
+00:26:28,230 --> 00:26:28,240
+mindig ugyanaz jön ki mindenképpen,
+ 
+
+1309
+00:26:28,240 --> 00:26:31,110
+mindig ugyanaz jön ki mindenképpen,
+hogyha ezek ezekből indulsz ki.
+
+1310
+00:26:31,110 --> 00:26:31,120
+hogyha ezek ezekből indulsz ki.
+ 
+
+1311
+00:26:31,120 --> 00:26:34,110
+hogyha ezek ezekből indulsz ki.
+>> Aki nem tudja, mi az Umbrell, az
+
+1312
+00:26:34,110 --> 00:26:34,120
+>> Aki nem tudja, mi az Umbrell, az
+ 
+
+1313
+00:26:34,120 --> 00:26:37,630
+>> Aki nem tudja, mi az Umbrell, az
+az még nem látta az előző adásunkat. Mi
+
+1314
+00:26:37,630 --> 00:26:37,640
+az még nem látta az előző adásunkat. Mi
+ 
+
+1315
+00:26:37,640 --> 00:26:39,750
+az még nem látta az előző adásunkat. Mi
+az az Umbrel?
+
+1316
+00:26:39,750 --> 00:26:39,760
+az az Umbrel?
+ 
+
+1317
+00:26:39,760 --> 00:26:42,389
+az az Umbrel?
+>> Ja, te nem szeretél.
+
+1318
+00:26:42,389 --> 00:26:42,399
+>> Ja, te nem szeretél.
+ 
+
+1319
+00:26:42,399 --> 00:26:44,510
+>> Ja, te nem szeretél.
+De tudom mi az, csak elmutatjuk megint
+
+1320
+00:26:44,510 --> 00:26:44,520
+De tudom mi az, csak elmutatjuk megint
+ 
+
+1321
+00:26:44,520 --> 00:26:45,630
+De tudom mi az, csak elmutatjuk megint
+annak esetleg nem.
+
+1322
+00:26:45,630 --> 00:26:45,640
+annak esetleg nem.
+ 
+
+1323
+00:26:45,640 --> 00:26:49,029
+annak esetleg nem.
+>> Az el az egy az egy Bitcoin nodóde.
+
+1324
+00:26:49,029 --> 00:26:49,039
+>> Az el az egy az egy Bitcoin nodóde.
+ 
+
+1325
+00:26:49,039 --> 00:26:52,269
+>> Az el az egy az egy Bitcoin nodóde.
+Hát egy komplett
+
+1326
+00:26:52,269 --> 00:26:52,279
+Hát egy komplett
+ 
+
+1327
+00:26:52,279 --> 00:26:53,630
+Hát egy komplett
+szerver operációs rendszer
+
+1328
+00:26:53,630 --> 00:26:53,640
+szerver operációs rendszer
+ 
+
+1329
+00:26:53,640 --> 00:26:55,029
+szerver operációs rendszer
+gyakorlatilag, amiben benne van egy
+
+1330
+00:26:55,029 --> 00:26:55,039
+gyakorlatilag, amiben benne van egy
+ 
+
+1331
+00:26:55,039 --> 00:26:57,110
+gyakorlatilag, amiben benne van egy
+Bitcoin node, meg egy Lightninge, plusz
+
+1332
+00:26:57,110 --> 00:26:57,120
+Bitcoin node, meg egy Lightninge, plusz
+ 
+
+1333
+00:26:57,120 --> 00:26:58,990
+Bitcoin node, meg egy Lightninge, plusz
+egyéb dolgok.
+
+1334
+00:26:58,990 --> 00:26:59,000
+egyéb dolgok.
+ 
+
+1335
+00:26:59,000 --> 00:27:02,750
+egyéb dolgok.
+És így kompletten szolgáltató nélkül
+
+1336
+00:27:02,750 --> 00:27:02,760
+És így kompletten szolgáltató nélkül
+ 
+
+1337
+00:27:02,760 --> 00:27:04,710
+És így kompletten szolgáltató nélkül
+tudunk
+
+1338
+00:27:04,710 --> 00:27:04,720
+tudunk
+ 
+
+1339
+00:27:04,720 --> 00:27:06,630
+tudunk
+self suverén,
+
+1340
+00:27:06,630 --> 00:27:06,640
+self suverén,
+ 
+
+1341
+00:27:06,640 --> 00:27:08,750
+self suverén,
+hogy kell ezt mondani,
+
+1342
+00:27:08,750 --> 00:27:08,760
+hogy kell ezt mondani,
+ 
+
+1343
+00:27:08,760 --> 00:27:09,909
+hogy kell ezt mondani,
+>> nem tudom.
+
+1344
+00:27:09,909 --> 00:27:09,919
+>> nem tudom.
+ 
+
+1345
+00:27:09,919 --> 00:27:12,149
+>> nem tudom.
+>> Önrendelkező módon
+
+1346
+00:27:12,149 --> 00:27:12,159
+>> Önrendelkező módon
+ 
+
+1347
+00:27:12,159 --> 00:27:14,590
+>> Önrendelkező módon
+>> tudjuk kezelni a bitcoinunkat.
+
+1348
+00:27:14,590 --> 00:27:14,600
+>> tudjuk kezelni a bitcoinunkat.
+ 
+
+1349
+00:27:14,600 --> 00:27:17,149
+>> tudjuk kezelni a bitcoinunkat.
+És most azt próbálom megmutatni
+
+1350
+00:27:17,149 --> 00:27:17,159
+És most azt próbálom megmutatni
+ 
+
+1351
+00:27:17,159 --> 00:27:20,350
+És most azt próbálom megmutatni
+képernyő. Ugye azért nehéz magyarul
+
+1352
+00:27:20,350 --> 00:27:20,360
+képernyő. Ugye azért nehéz magyarul
+ 
+
+1353
+00:27:20,360 --> 00:27:22,909
+képernyő. Ugye azért nehéz magyarul
+beszélni ebbe az iparákba, mert minden
+
+1354
+00:27:22,909 --> 00:27:22,919
+beszélni ebbe az iparákba, mert minden
+ 
+
+1355
+00:27:22,919 --> 00:27:26,669
+beszélni ebbe az iparákba, mert minden
+irodalom angolul elérhető és
+
+1356
+00:27:26,669 --> 00:27:26,679
+irodalom angolul elérhető és
+ 
+
+1357
+00:27:26,679 --> 00:27:28,990
+irodalom angolul elérhető és
+>> tehát nem létezik magyar irodalma.
+
+1358
+00:27:28,990 --> 00:27:29,000
+>> tehát nem létezik magyar irodalma.
+ 
+
+1359
+00:27:29,000 --> 00:27:31,430
+>> tehát nem létezik magyar irodalma.
+Illetve hát vannak akik fordítják. Most
+
+1360
+00:27:31,430 --> 00:27:31,440
+Illetve hát vannak akik fordítják. Most
+ 
+
+1361
+00:27:31,440 --> 00:27:33,549
+Illetve hát vannak akik fordítják. Most
+így van. Csináljátok.
+
+1362
+00:27:33,549 --> 00:27:33,559
+így van. Csináljátok.
+ 
+
+1363
+00:27:33,559 --> 00:27:34,630
+így van. Csináljátok.
+>> De
+
+1364
+00:27:34,630 --> 00:27:34,640
+>> De
+ 
+
+1365
+00:27:34,640 --> 00:27:35,630
+>> De
+>> te is csinálod?
+
+1366
+00:27:35,630 --> 00:27:35,640
+>> te is csinálod?
+ 
+
+1367
+00:27:35,640 --> 00:27:38,269
+>> te is csinálod?
+>> Hát én is. De
+
+1368
+00:27:38,269 --> 00:27:38,279
+>> Hát én is. De
+ 
+
+1369
+00:27:38,279 --> 00:27:41,310
+>> Hát én is. De
+de még nem az ugrik be. Ez egy umbrel.
+
+1370
+00:27:41,310 --> 00:27:41,320
+de még nem az ugrik be. Ez egy umbrel.
+ 
+
+1371
+00:27:41,320 --> 00:27:43,750
+de még nem az ugrik be. Ez egy umbrel.
+>> Ezt már az előző rész előző epizódban,
+
+1372
+00:27:43,750 --> 00:27:43,760
+>> Ezt már az előző rész előző epizódban,
+ 
+
+1373
+00:27:43,760 --> 00:27:48,710
+>> Ezt már az előző rész előző epizódban,
+amikor én szerepeltem, mutattuk.
+
+1374
+00:27:48,710 --> 00:27:48,720
+
+ 
+
+1375
+00:27:48,720 --> 00:27:50,070
+
+Valószínűleg itt vesztettünk el sok
+
+1376
+00:27:50,070 --> 00:27:50,080
+Valószínűleg itt vesztettünk el sok
+ 
+
+1377
+00:27:50,080 --> 00:27:51,430
+Valószínűleg itt vesztettünk el sok
+nézőt, amikor ezt megpróbáltam
+
+1378
+00:27:51,430 --> 00:27:51,440
+nézőt, amikor ezt megpróbáltam
+ 
+
+1379
+00:27:51,440 --> 00:27:53,070
+nézőt, amikor ezt megpróbáltam
+elmagyarázni ezt a képernyőt. Úgyhogy
+
+1380
+00:27:53,070 --> 00:27:53,080
+elmagyarázni ezt a képernyőt. Úgyhogy
+ 
+
+1381
+00:27:53,080 --> 00:27:55,230
+elmagyarázni ezt a képernyőt. Úgyhogy
+most aki kíváncsi rá az nézze meg azt
+
+1382
+00:27:55,230 --> 00:27:55,240
+most aki kíváncsi rá az nézze meg azt
+ 
+
+1383
+00:27:55,240 --> 00:27:56,750
+most aki kíváncsi rá az nézze meg azt
+is, azt az adást is.
+
+1384
+00:27:56,750 --> 00:27:56,760
+is, azt az adást is.
+ 
+
+1385
+00:27:56,760 --> 00:27:58,070
+is, azt az adást is.
+>> Most csak így gyorsan.
+
+1386
+00:27:58,070 --> 00:27:58,080
+>> Most csak így gyorsan.
+ 
+
+1387
+00:27:58,080 --> 00:27:59,750
+>> Most csak így gyorsan.
+>> Most csak így gyorsan itt itt is tudunk
+
+1388
+00:27:59,750 --> 00:27:59,760
+>> Most csak így gyorsan itt itt is tudunk
+ 
+
+1389
+00:27:59,760 --> 00:28:01,269
+>> Most csak így gyorsan itt itt is tudunk
+csinálni tranzakciót. Itt
+
+1390
+00:28:01,269 --> 00:28:01,279
+csinálni tranzakciót. Itt
+ 
+
+1391
+00:28:01,279 --> 00:28:03,669
+csinálni tranzakciót. Itt
+>> előző adásból szó volt, akkor Tamássral
+
+1392
+00:28:03,669 --> 00:28:03,679
+>> előző adásból szó volt, akkor Tamássral
+ 
+
+1393
+00:28:03,679 --> 00:28:05,909
+>> előző adásból szó volt, akkor Tamássral
+beszéltünk egy hardware wallet setup
+
+1394
+00:28:05,909 --> 00:28:05,919
+beszéltünk egy hardware wallet setup
+ 
+
+1395
+00:28:05,919 --> 00:28:09,350
+beszéltünk egy hardware wallet setup
+keretein belül arról, hogy van 12 szó.
+
+1396
+00:28:09,350 --> 00:28:09,360
+keretein belül arról, hogy van 12 szó.
+ 
+
+1397
+00:28:09,360 --> 00:28:12,269
+keretein belül arról, hogy van 12 szó.
+Ez a nemonic birds, tehát ezek a mag
+
+1398
+00:28:12,269 --> 00:28:12,279
+Ez a nemonic birds, tehát ezek a mag
+ 
+
+1399
+00:28:12,279 --> 00:28:15,269
+Ez a nemonic birds, tehát ezek a mag
+szavak, vagy mag, de nem fejtettük ki
+
+1400
+00:28:15,269 --> 00:28:15,279
+szavak, vagy mag, de nem fejtettük ki
+ 
+
+1401
+00:28:15,279 --> 00:28:17,149
+szavak, vagy mag, de nem fejtettük ki
+pontosan, hogy ez mire jó. Úgyhogy erre
+
+1402
+00:28:17,149 --> 00:28:17,159
+pontosan, hogy ez mire jó. Úgyhogy erre
+ 
+
+1403
+00:28:17,159 --> 00:28:19,750
+pontosan, hogy ez mire jó. Úgyhogy erre
+szeretnék egy kicsit így visszautalni.
+
+1404
+00:28:19,750 --> 00:28:19,760
+szeretnék egy kicsit így visszautalni.
+ 
+
+1405
+00:28:19,760 --> 00:28:23,350
+szeretnék egy kicsit így visszautalni.
+Tehát ez a 12 szó arra van, hogyha egy
+
+1406
+00:28:23,350 --> 00:28:23,360
+Tehát ez a 12 szó arra van, hogyha egy
+ 
+
+1407
+00:28:23,360 --> 00:28:26,669
+Tehát ez a 12 szó arra van, hogyha egy
+bármilyen wallet Bitcoin létrehozol,
+
+1408
+00:28:26,669 --> 00:28:26,679
+bármilyen wallet Bitcoin létrehozol,
+ 
+
+1409
+00:28:26,679 --> 00:28:29,350
+bármilyen wallet Bitcoin létrehozol,
+hogy fogadj rajta Bitcoin, vagy azokra a
+
+1410
+00:28:29,350 --> 00:28:29,360
+hogy fogadj rajta Bitcoin, vagy azokra a
+ 
+
+1411
+00:28:29,360 --> 00:28:33,070
+hogy fogadj rajta Bitcoin, vagy azokra a
+címekre, akkor ezt 12 szóval vagy 24
+
+1412
+00:28:33,070 --> 00:28:33,080
+címekre, akkor ezt 12 szóval vagy 24
+ 
+
+1413
+00:28:33,080 --> 00:28:34,789
+címekre, akkor ezt 12 szóval vagy 24
+szóval éred el. Ugye az egyszerűs
+
+1414
+00:28:34,789 --> 00:28:34,799
+szóval éred el. Ugye az egyszerűs
+ 
+
+1415
+00:28:34,799 --> 00:28:36,909
+szóval éred el. Ugye az egyszerűs
+egyszerűbb az a 12 szavas biztonsági
+
+1416
+00:28:36,909 --> 00:28:36,919
+egyszerűbb az a 12 szavas biztonsági
+ 
+
+1417
+00:28:36,919 --> 00:28:39,909
+egyszerűbb az a 12 szavas biztonsági
+szint, de az is teljesen elegendő. Ezt
+
+1418
+00:28:39,909 --> 00:28:39,919
+szint, de az is teljesen elegendő. Ezt
+ 
+
+1419
+00:28:39,919 --> 00:28:41,710
+szint, de az is teljesen elegendő. Ezt
+azért kell felírni, és erre azért kell
+
+1420
+00:28:41,710 --> 00:28:41,720
+azért kell felírni, és erre azért kell
+ 
+
+1421
+00:28:41,720 --> 00:28:44,110
+azért kell felírni, és erre azért kell
+nagyon figyelni, hogy meglegyen, hogy
+
+1422
+00:28:44,110 --> 00:28:44,120
+nagyon figyelni, hogy meglegyen, hogy
+ 
+
+1423
+00:28:44,120 --> 00:28:46,389
+nagyon figyelni, hogy meglegyen, hogy
+amennyiben meghibásodik a hardware
+
+1424
+00:28:46,389 --> 00:28:46,399
+amennyiben meghibásodik a hardware
+ 
+
+1425
+00:28:46,399 --> 00:28:48,870
+amennyiben meghibásodik a hardware
+walletek, vagy ellopják a azt, vagy a
+
+1426
+00:28:48,870 --> 00:28:48,880
+walletek, vagy ellopják a azt, vagy a
+ 
+
+1427
+00:28:48,880 --> 00:28:50,389
+walletek, vagy ellopják a azt, vagy a
+számítógépeketeket,
+
+1428
+00:28:50,389 --> 00:28:50,399
+számítógépeketeket,
+ 
+
+1429
+00:28:50,399 --> 00:28:52,789
+számítógépeketeket,
+vagy amin éppen ezt a wallet kezelitek,
+
+1430
+00:28:52,789 --> 00:28:52,799
+vagy amin éppen ezt a wallet kezelitek,
+ 
+
+1431
+00:28:52,799 --> 00:28:54,990
+vagy amin éppen ezt a wallet kezelitek,
+akkor ezzel a 12 szóval bármilyen
+
+1432
+00:28:54,990 --> 00:28:55,000
+akkor ezzel a 12 szóval bármilyen
+ 
+
+1433
+00:28:55,000 --> 00:28:58,269
+akkor ezzel a 12 szóval bármilyen
+valetet vissza lehet állítani.
+
+1434
+00:28:58,269 --> 00:28:58,279
+valetet vissza lehet állítani.
+ 
+
+1435
+00:28:58,279 --> 00:29:00,230
+valetet vissza lehet állítani.
+Nem tudom, hogy ez szerintem így
+
+1436
+00:29:00,230 --> 00:29:00,240
+Nem tudom, hogy ez szerintem így
+ 
+
+1437
+00:29:00,240 --> 00:29:02,230
+Nem tudom, hogy ez szerintem így
+érthető. Tehát nem egy számlád van
+
+1438
+00:29:02,230 --> 00:29:02,240
+érthető. Tehát nem egy számlád van
+ 
+
+1439
+00:29:02,240 --> 00:29:04,509
+érthető. Tehát nem egy számlád van
+kódokkal, hanem az a 12 szó.
+
+1440
+00:29:04,509 --> 00:29:04,519
+kódokkal, hanem az a 12 szó.
+ 
+
+1441
+00:29:04,519 --> 00:29:06,509
+kódokkal, hanem az a 12 szó.
+>> Ezt esetleg mélyíthetem egy picit?
+
+1442
+00:29:06,509 --> 00:29:06,519
+>> Ezt esetleg mélyíthetem egy picit?
+ 
+
+1443
+00:29:06,519 --> 00:29:08,710
+>> Ezt esetleg mélyíthetem egy picit?
+>> Persze, nyugodtan mélyítsd, de azért,
+
+1444
+00:29:08,710 --> 00:29:08,720
+>> Persze, nyugodtan mélyítsd, de azért,
+ 
+
+1445
+00:29:08,720 --> 00:29:11,950
+>> Persze, nyugodtan mélyítsd, de azért,
+>> mert ugye igazából nem az történik, hogy
+
+1446
+00:29:11,950 --> 00:29:11,960
+>> mert ugye igazából nem az történik, hogy
+ 
+
+1447
+00:29:11,960 --> 00:29:14,310
+>> mert ugye igazából nem az történik, hogy
+valahol regisztrálsz egy valetet, tehát
+
+1448
+00:29:14,310 --> 00:29:14,320
+valahol regisztrálsz egy valetet, tehát
+ 
+
+1449
+00:29:14,320 --> 00:29:16,590
+valahol regisztrálsz egy valetet, tehát
+nem az történik, hogy egy szerveren
+
+1450
+00:29:16,590 --> 00:29:16,600
+nem az történik, hogy egy szerveren
+ 
+
+1451
+00:29:16,600 --> 00:29:18,190
+nem az történik, hogy egy szerveren
+ilyenkor létrejön egy bejegyzés, hogy
+
+1452
+00:29:18,190 --> 00:29:18,200
+ilyenkor létrejön egy bejegyzés, hogy
+ 
+
+1453
+00:29:18,200 --> 00:29:21,590
+ilyenkor létrejön egy bejegyzés, hogy
+akkor létrejött egy új valet,
+
+1454
+00:29:21,590 --> 00:29:21,600
+akkor létrejött egy új valet,
+ 
+
+1455
+00:29:21,600 --> 00:29:23,909
+akkor létrejött egy új valet,
+>> Ühüm. egy tárca, hanem az történik, hogy
+
+1456
+00:29:23,909 --> 00:29:23,919
+>> Ühüm. egy tárca, hanem az történik, hogy
+ 
+
+1457
+00:29:23,919 --> 00:29:27,190
+>> Ühüm. egy tárca, hanem az történik, hogy
+a milliárdszor milliárdodikon végtelen
+
+1458
+00:29:27,190 --> 00:29:27,200
+a milliárdszor milliárdodikon végtelen
+ 
+
+1459
+00:29:27,200 --> 00:29:29,149
+a milliárdszor milliárdodikon végtelen
+számú kombináció közül egyet
+
+1460
+00:29:29,149 --> 00:29:29,159
+számú kombináció közül egyet
+ 
+
+1461
+00:29:29,159 --> 00:29:31,389
+számú kombináció közül egyet
+kiválasztasz, ami már létezik. Tehát ez
+
+1462
+00:29:31,389 --> 00:29:31,399
+kiválasztasz, ami már létezik. Tehát ez
+ 
+
+1463
+00:29:31,399 --> 00:29:33,950
+kiválasztasz, ami már létezik. Tehát ez
+az összes tárc, ami ami lehetséges, az
+
+1464
+00:29:33,950 --> 00:29:33,960
+az összes tárc, ami ami lehetséges, az
+ 
+
+1465
+00:29:33,960 --> 00:29:37,669
+az összes tárc, ami ami lehetséges, az
+létezik a matematika és a számok síkján.
+
+1466
+00:29:37,669 --> 00:29:37,679
+létezik a matematika és a számok síkján.
+ 
+
+1467
+00:29:37,679 --> 00:29:40,350
+létezik a matematika és a számok síkján.
+És te igazából véletlenszerűen
+
+1468
+00:29:40,350 --> 00:29:40,360
+És te igazából véletlenszerűen
+ 
+
+1469
+00:29:40,360 --> 00:29:42,509
+És te igazából véletlenszerűen
+remény remélhetőleg véletlenszerűen ugye
+
+1470
+00:29:42,509 --> 00:29:42,519
+remény remélhetőleg véletlenszerűen ugye
+ 
+
+1471
+00:29:42,519 --> 00:29:44,389
+remény remélhetőleg véletlenszerűen ugye
+hogyha egy szoftveretet vagy valamilyen
+
+1472
+00:29:44,389 --> 00:29:44,399
+hogyha egy szoftveretet vagy valamilyen
+ 
+
+1473
+00:29:44,399 --> 00:29:46,830
+hogyha egy szoftveretet vagy valamilyen
+eszközt használsz hozz ami bitcoin tárca
+
+1474
+00:29:46,830 --> 00:29:46,840
+eszközt használsz hozz ami bitcoin tárca
+ 
+
+1475
+00:29:46,840 --> 00:29:49,509
+eszközt használsz hozz ami bitcoin tárca
+kreálására alkalmas ott általában mindig
+
+1476
+00:29:49,509 --> 00:29:49,519
+kreálására alkalmas ott általában mindig
+ 
+
+1477
+00:29:49,519 --> 00:29:52,430
+kreálására alkalmas ott általában mindig
+figyelnek arra hogy véletlenszerű tárcát
+
+1478
+00:29:52,430 --> 00:29:52,440
+figyelnek arra hogy véletlenszerű tárcát
+ 
+
+1479
+00:29:52,440 --> 00:29:54,789
+figyelnek arra hogy véletlenszerű tárcát
+tárcakódot generálj magadnak ez pont
+
+1480
+00:29:54,789 --> 00:29:54,799
+tárcakódot generálj magadnak ez pont
+ 
+
+1481
+00:29:54,799 --> 00:29:57,549
+tárcakódot generálj magadnak ez pont
+azért van mert nem bejegyzést hozol
+
+1482
+00:29:57,549 --> 00:29:57,559
+azért van mert nem bejegyzést hozol
+ 
+
+1483
+00:29:57,559 --> 00:29:59,870
+azért van mert nem bejegyzést hozol
+létre alapvetően egy szerver hanem csak
+
+1484
+00:29:59,870 --> 00:29:59,880
+létre alapvetően egy szerver hanem csak
+ 
+
+1485
+00:29:59,880 --> 00:30:02,830
+létre alapvetően egy szerver hanem csak
+kiválasztasz egyet és ez a 12 szó vagy
+
+1486
+00:30:02,830 --> 00:30:02,840
+kiválasztasz egyet és ez a 12 szó vagy
+ 
+
+1487
+00:30:02,840 --> 00:30:06,389
+kiválasztasz egyet és ez a 12 szó vagy
+24 szó ez alapvetően ez ez vissza ez egy
+
+1488
+00:30:06,389 --> 00:30:06,399
+24 szó ez alapvetően ez ez vissza ez egy
+ 
+
+1489
+00:30:06,399 --> 00:30:09,789
+24 szó ez alapvetően ez ez vissza ez egy
+ez egy olyan humán kódolású interface,
+
+1490
+00:30:09,789 --> 00:30:09,799
+ez egy olyan humán kódolású interface,
+ 
+
+1491
+00:30:09,799 --> 00:30:14,190
+ez egy olyan humán kódolású interface,
+egy megjelenítése egy kódnak, ami amit
+
+1492
+00:30:14,190 --> 00:30:14,200
+egy megjelenítése egy kódnak, ami amit
+ 
+
+1493
+00:30:14,200 --> 00:30:15,909
+egy megjelenítése egy kódnak, ami amit
+mi tudunk olvasni és tudunk könnyen
+
+1494
+00:30:15,909 --> 00:30:15,919
+mi tudunk olvasni és tudunk könnyen
+ 
+
+1495
+00:30:15,919 --> 00:30:17,230
+mi tudunk olvasni és tudunk könnyen
+kezelni, és nem pedig egy ilyen
+
+1496
+00:30:17,230 --> 00:30:17,240
+kezelni, és nem pedig egy ilyen
+ 
+
+1497
+00:30:17,240 --> 00:30:19,909
+kezelni, és nem pedig egy ilyen
+hexodecimális
+
+1498
+00:30:19,909 --> 00:30:19,919
+hexodecimális
+ 
+
+1499
+00:30:19,919 --> 00:30:22,789
+hexodecimális
+több sz több több karakterből álló kódot
+
+1500
+00:30:22,789 --> 00:30:22,799
+több sz több több karakterből álló kódot
+ 
+
+1501
+00:30:22,799 --> 00:30:24,590
+több sz több több karakterből álló kódot
+kell megéegyeznünk, hanem igazából 12
+
+1502
+00:30:24,590 --> 00:30:24,600
+kell megéegyeznünk, hanem igazából 12
+ 
+
+1503
+00:30:24,600 --> 00:30:27,269
+kell megéegyeznünk, hanem igazából 12
+szót, amit tudunk könnyen memorizálni,
+
+1504
+00:30:27,269 --> 00:30:27,279
+szót, amit tudunk könnyen memorizálni,
+ 
+
+1505
+00:30:27,279 --> 00:30:29,470
+szót, amit tudunk könnyen memorizálni,
+de hogy alapvetően ezek a tárcák, ezek
+
+1506
+00:30:29,470 --> 00:30:29,480
+de hogy alapvetően ezek a tárcák, ezek
+ 
+
+1507
+00:30:29,480 --> 00:30:32,190
+de hogy alapvetően ezek a tárcák, ezek
+léteznek, mindegyik tálca létezik
+
+1508
+00:30:32,190 --> 00:30:32,200
+léteznek, mindegyik tálca létezik
+ 
+
+1509
+00:30:32,200 --> 00:30:33,750
+léteznek, mindegyik tálca létezik
+egyszerre. Te csak kiválasztasz egyet a
+
+1510
+00:30:33,750 --> 00:30:33,760
+egyszerre. Te csak kiválasztasz egyet a
+ 
+
+1511
+00:30:33,760 --> 00:30:35,710
+egyszerre. Te csak kiválasztasz egyet a
+végtelen sok közül.
+
+1512
+00:30:35,710 --> 00:30:35,720
+végtelen sok közül.
+ 
+
+1513
+00:30:35,720 --> 00:30:38,110
+végtelen sok közül.
+Igen, körülbelül ez lenne. És hogy ez
+
+1514
+00:30:38,110 --> 00:30:38,120
+Igen, körülbelül ez lenne. És hogy ez
+ 
+
+1515
+00:30:38,120 --> 00:30:41,029
+Igen, körülbelül ez lenne. És hogy ez
+mennyire nagy szám, ezzel azt azzal
+
+1516
+00:30:41,029 --> 00:30:41,039
+mennyire nagy szám, ezzel azt azzal
+ 
+
+1517
+00:30:41,039 --> 00:30:42,630
+mennyire nagy szám, ezzel azt azzal
+lehetne elmondani legjobban, hogy
+
+1518
+00:30:42,630 --> 00:30:42,640
+lehetne elmondani legjobban, hogy
+ 
+
+1519
+00:30:42,640 --> 00:30:44,190
+lehetne elmondani legjobban, hogy
+körülbelül a világegyetemben, az átunk
+
+1520
+00:30:44,190 --> 00:30:44,200
+körülbelül a világegyetemben, az átunk
+ 
+
+1521
+00:30:44,200 --> 00:30:47,710
+körülbelül a világegyetemben, az átunk
+ismert világegyetemben,
+
+1522
+00:30:47,710 --> 00:30:47,720
+
+ 
+
+1523
+00:30:47,720 --> 00:30:50,230
+
+ez egyetlen egy elemet, vagy egyetlen
+
+1524
+00:30:50,230 --> 00:30:50,240
+ez egyetlen egy elemet, vagy egyetlen
+ 
+
+1525
+00:30:50,240 --> 00:30:50,990
+ez egyetlen egy elemet, vagy egyetlen
+egy atomot
+
+1526
+00:30:50,990 --> 00:30:51,000
+egy atomot
+ 
+
+1527
+00:30:51,000 --> 00:30:52,310
+egy atomot
+>> atomot. Így van.
+
+1528
+00:30:52,310 --> 00:30:52,320
+>> atomot. Így van.
+ 
+
+1529
+00:30:52,320 --> 00:30:54,029
+>> atomot. Így van.
+>> Tehát, hogy az a te tárcád, tehát
+
+1530
+00:30:54,029 --> 00:30:54,039
+>> Tehát, hogy az a te tárcád, tehát
+ 
+
+1531
+00:30:54,039 --> 00:30:55,789
+>> Tehát, hogy az a te tárcád, tehát
+választasz valahol a világegyetemen egy
+
+1532
+00:30:55,789 --> 00:30:55,799
+választasz valahol a világegyetemen egy
+ 
+
+1533
+00:30:55,799 --> 00:30:57,509
+választasz valahol a világegyetemen egy
+atomot, és abba raktad bele a
+
+1534
+00:30:57,509 --> 00:30:57,519
+atomot, és abba raktad bele a
+ 
+
+1535
+00:30:57,519 --> 00:30:59,909
+atomot, és abba raktad bele a
+bitcoinodat. Körülbelül matematikailag
+
+1536
+00:30:59,909 --> 00:30:59,919
+bitcoinodat. Körülbelül matematikailag
+ 
+
+1537
+00:30:59,919 --> 00:31:01,710
+bitcoinodat. Körülbelül matematikailag
+ezt így lehet leírni, vagy így
+
+1538
+00:31:01,710 --> 00:31:01,720
+ezt így lehet leírni, vagy így
+ 
+
+1539
+00:31:01,720 --> 00:31:04,590
+ezt így lehet leírni, vagy így
+képletesen, hogy ez mekkora nagy szám.
+
+1540
+00:31:04,590 --> 00:31:04,600
+képletesen, hogy ez mekkora nagy szám.
+ 
+
+1541
+00:31:04,600 --> 00:31:06,190
+képletesen, hogy ez mekkora nagy szám.
+Elképesztő helye van ennek, hogy a
+
+1542
+00:31:06,190 --> 00:31:06,200
+Elképesztő helye van ennek, hogy a
+ 
+
+1543
+00:31:06,200 --> 00:31:09,029
+Elképesztő helye van ennek, hogy a
+matematika véd, és a végtelen sok, és
+
+1544
+00:31:09,029 --> 00:31:09,039
+matematika véd, és a végtelen sok, és
+ 
+
+1545
+00:31:09,039 --> 00:31:11,470
+matematika véd, és a végtelen sok, és
+nem pedig valamilyen kőfal, vagy egy
+
+1546
+00:31:11,470 --> 00:31:11,480
+nem pedig valamilyen kőfal, vagy egy
+ 
+
+1547
+00:31:11,480 --> 00:31:13,269
+nem pedig valamilyen kőfal, vagy egy
+páncélszekrény, amit át tudsz törni,
+
+1548
+00:31:13,269 --> 00:31:13,279
+páncélszekrény, amit át tudsz törni,
+ 
+
+1549
+00:31:13,279 --> 00:31:15,430
+páncélszekrény, amit át tudsz törni,
+tehát a matematikát nem tud becsapni,
+
+1550
+00:31:15,430 --> 00:31:15,440
+tehát a matematikát nem tud becsapni,
+ 
+
+1551
+00:31:15,440 --> 00:31:18,590
+tehát a matematikát nem tud becsapni,
+>> azt nem fogod megtörni egy ideig.
+
+1552
+00:31:18,590 --> 00:31:18,600
+>> azt nem fogod megtörni egy ideig.
+ 
+
+1553
+00:31:18,600 --> 00:31:21,629
+>> azt nem fogod megtörni egy ideig.
+Értjük, hogy ez a 12-24 szó ez miért is
+
+1554
+00:31:21,629 --> 00:31:21,639
+Értjük, hogy ez a 12-24 szó ez miért is
+ 
+
+1555
+00:31:21,639 --> 00:31:23,310
+Értjük, hogy ez a 12-24 szó ez miért is
+van? Ugye, hogy itt a walleteket így
+
+1556
+00:31:23,310 --> 00:31:23,320
+van? Ugye, hogy itt a walleteket így
+ 
+
+1557
+00:31:23,320 --> 00:31:25,470
+van? Ugye, hogy itt a walleteket így
+setupold, illetve, hogy ezeket így a
+
+1558
+00:31:25,470 --> 00:31:25,480
+setupold, illetve, hogy ezeket így a
+ 
+
+1559
+00:31:25,480 --> 00:31:28,669
+setupold, illetve, hogy ezeket így a
+jövőnek így eltedd, vagy elásd a
+
+1560
+00:31:28,669 --> 00:31:28,679
+jövőnek így eltedd, vagy elásd a
+ 
+
+1561
+00:31:28,679 --> 00:31:31,350
+jövőnek így eltedd, vagy elásd a
+kertedben, vagy valahol,
+
+1562
+00:31:31,350 --> 00:31:31,360
+kertedben, vagy valahol,
+ 
+
+1563
+00:31:31,360 --> 00:31:34,629
+kertedben, vagy valahol,
+de nem mindenki tudja, hogy milyen
+
+1564
+00:31:34,629 --> 00:31:34,639
+de nem mindenki tudja, hogy milyen
+ 
+
+1565
+00:31:34,639 --> 00:31:36,070
+de nem mindenki tudja, hogy milyen
+walletek vannak. Te milyeneket
+
+1566
+00:31:36,070 --> 00:31:36,080
+walletek vannak. Te milyeneket
+ 
+
+1567
+00:31:36,080 --> 00:31:39,350
+walletek vannak. Te milyeneket
+használsz? Hardware wallet vagy
+
+1568
+00:31:39,350 --> 00:31:39,360
+használsz? Hardware wallet vagy
+ 
+
+1569
+00:31:39,360 --> 00:31:42,149
+használsz? Hardware wallet vagy
+számítógépen valamit mobilon?
+
+1570
+00:31:42,149 --> 00:31:42,159
+számítógépen valamit mobilon?
+ 
+
+1571
+00:31:42,159 --> 00:31:43,669
+számítógépen valamit mobilon?
+>> Én használok a számítógépen is
+
+1572
+00:31:43,669 --> 00:31:43,679
+>> Én használok a számítógépen is
+ 
+
+1573
+00:31:43,679 --> 00:31:46,029
+>> Én használok a számítógépen is
+egyébként. Azt a Spero Valetet ajánlom.
+
+1574
+00:31:46,029 --> 00:31:46,039
+egyébként. Azt a Spero Valetet ajánlom.
+ 
+
+1575
+00:31:46,039 --> 00:31:47,190
+egyébként. Azt a Spero Valetet ajánlom.
+Az egy
+
+1576
+00:31:47,190 --> 00:31:47,200
+Az egy
+ 
+
+1577
+00:31:47,200 --> 00:31:50,710
+Az egy
+nagyon jó ö ipari standard eszköz
+
+1578
+00:31:50,710 --> 00:31:50,720
+nagyon jó ö ipari standard eszköz
+ 
+
+1579
+00:31:50,720 --> 00:31:52,470
+nagyon jó ö ipari standard eszköz
+alapvetően.
+
+1580
+00:31:52,470 --> 00:31:52,480
+alapvetően.
+ 
+
+1581
+00:31:52,480 --> 00:31:55,230
+alapvetően.
+Ö mobilon a Blueetet ajánlom, ugye az a
+
+1582
+00:31:55,230 --> 00:31:55,240
+Ö mobilon a Blueetet ajánlom, ugye az a
+ 
+
+1583
+00:31:55,240 --> 00:31:58,110
+Ö mobilon a Blueetet ajánlom, ugye az a
+telefonodra települő alkalmazás,
+
+1584
+00:31:58,110 --> 00:31:58,120
+telefonodra települő alkalmazás,
+ 
+
+1585
+00:31:58,120 --> 00:32:01,950
+telefonodra települő alkalmazás,
+>> és hardwarattként én a Keystone pró-t
+
+1586
+00:32:01,950 --> 00:32:01,960
+>> és hardwarattként én a Keystone pró-t
+ 
+
+1587
+00:32:01,960 --> 00:32:04,389
+>> és hardwarattként én a Keystone pró-t
+ajánlom.
+
+1588
+00:32:04,389 --> 00:32:04,399
+ajánlom.
+ 
+
+1589
+00:32:04,399 --> 00:32:06,269
+ajánlom.
+Az ugyanis azért azért, mert az egy a
+
+1590
+00:32:06,269 --> 00:32:06,279
+Az ugyanis azért azért, mert az egy a
+ 
+
+1591
+00:32:06,279 --> 00:32:11,070
+Az ugyanis azért azért, mert az egy a
+RGB készülék. Ez azt jelenti, hogy az a
+
+1592
+00:32:11,070 --> 00:32:11,080
+RGB készülék. Ez azt jelenti, hogy az a
+ 
+
+1593
+00:32:11,080 --> 00:32:12,430
+RGB készülék. Ez azt jelenti, hogy az a
+készülék, ami a kezedben van, az
+
+1594
+00:32:12,430 --> 00:32:12,440
+készülék, ami a kezedben van, az
+ 
+
+1595
+00:32:12,440 --> 00:32:13,909
+készülék, ami a kezedben van, az
+semmilyen módon nem kommunikál a
+
+1596
+00:32:13,909 --> 00:32:13,919
+semmilyen módon nem kommunikál a
+ 
+
+1597
+00:32:13,919 --> 00:32:16,269
+semmilyen módon nem kommunikál a
+külvilággal és az internettel. kivéve a
+
+1598
+00:32:16,269 --> 00:32:16,279
+külvilággal és az internettel. kivéve a
+ 
+
+1599
+00:32:16,279 --> 00:32:19,710
+külvilággal és az internettel. kivéve a
+kijelzőt és a hátulján lévő kamerát.
+
+1600
+00:32:19,710 --> 00:32:19,720
+kijelzőt és a hátulján lévő kamerát.
+ 
+
+1601
+00:32:19,720 --> 00:32:22,669
+kijelzőt és a hátulján lévő kamerát.
+És én azt javaslom mindenkinek, aki
+
+1602
+00:32:22,669 --> 00:32:22,679
+És én azt javaslom mindenkinek, aki
+ 
+
+1603
+00:32:22,679 --> 00:32:25,269
+És én azt javaslom mindenkinek, aki
+komolyabb összeget tart megtakarításban,
+
+1604
+00:32:25,269 --> 00:32:25,279
+komolyabb összeget tart megtakarításban,
+ 
+
+1605
+00:32:25,279 --> 00:32:29,029
+komolyabb összeget tart megtakarításban,
+az ugye a laptopján és a telefonjánra ki
+
+1606
+00:32:29,029 --> 00:32:29,039
+az ugye a laptopján és a telefonjánra ki
+ 
+
+1607
+00:32:29,039 --> 00:32:32,029
+az ugye a laptopján és a telefonjánra ki
+tud exportálni egy olyan kódot, amivel
+
+1608
+00:32:32,029 --> 00:32:32,039
+tud exportálni egy olyan kódot, amivel
+ 
+
+1609
+00:32:32,039 --> 00:32:33,509
+tud exportálni egy olyan kódot, amivel
+igazából csak azt tudod megnézni, hogy
+
+1610
+00:32:33,509 --> 00:32:33,519
+igazából csak azt tudod megnézni, hogy
+ 
+
+1611
+00:32:33,519 --> 00:32:35,470
+igazából csak azt tudod megnézni, hogy
+mennyi bitcoinod van a címeiden, de nem
+
+1612
+00:32:35,470 --> 00:32:35,480
+mennyi bitcoinod van a címeiden, de nem
+ 
+
+1613
+00:32:35,480 --> 00:32:36,990
+mennyi bitcoinod van a címeiden, de nem
+tudod nem tudsz vele küldeni, viszont
+
+1614
+00:32:36,990 --> 00:32:37,000
+tudod nem tudsz vele küldeni, viszont
+ 
+
+1615
+00:32:37,000 --> 00:32:40,470
+tudod nem tudsz vele küldeni, viszont
+fogadni. Igen, ezért gyakorlatban
+
+1616
+00:32:40,470 --> 00:32:40,480
+fogadni. Igen, ezért gyakorlatban
+ 
+
+1617
+00:32:40,480 --> 00:32:41,909
+fogadni. Igen, ezért gyakorlatban
+ezt úgy lehet alkalmazni, hogyha
+
+1618
+00:32:41,909 --> 00:32:41,919
+ezt úgy lehet alkalmazni, hogyha
+ 
+
+1619
+00:32:41,919 --> 00:32:43,269
+ezt úgy lehet alkalmazni, hogyha
+fogadni, mert ugye általában az ember
+
+1620
+00:32:43,269 --> 00:32:43,279
+fogadni, mert ugye általában az ember
+ 
+
+1621
+00:32:43,279 --> 00:32:44,710
+fogadni, mert ugye általában az ember
+fogad, hogyha félretesz, tehát azt
+
+1622
+00:32:44,710 --> 00:32:44,720
+fogad, hogyha félretesz, tehát azt
+ 
+
+1623
+00:32:44,720 --> 00:32:47,350
+fogad, hogyha félretesz, tehát azt
+jelenti, hogy mindig magadnak üldözgetsz
+
+1624
+00:32:47,350 --> 00:32:47,360
+jelenti, hogy mindig magadnak üldözgetsz
+ 
+
+1625
+00:32:47,360 --> 00:32:49,190
+jelenti, hogy mindig magadnak üldözgetsz
+és akkor olyankor címet tudsz magadnak
+
+1626
+00:32:49,190 --> 00:32:49,200
+és akkor olyankor címet tudsz magadnak
+ 
+
+1627
+00:32:49,200 --> 00:32:51,190
+és akkor olyankor címet tudsz magadnak
+generálni a telefonodron is
+
+1628
+00:32:51,190 --> 00:32:51,200
+generálni a telefonodron is
+ 
+
+1629
+00:32:51,200 --> 00:32:53,990
+generálni a telefonodron is
+biztonságosan, de küldeni már csak a
+
+1630
+00:32:53,990 --> 00:32:54,000
+biztonságosan, de küldeni már csak a
+ 
+
+1631
+00:32:54,000 --> 00:32:56,149
+biztonságosan, de küldeni már csak a
+aláíró eszközzel tudsz, azzal a Keystone
+
+1632
+00:32:56,149 --> 00:32:56,159
+aláíró eszközzel tudsz, azzal a Keystone
+ 
+
+1633
+00:32:56,159 --> 00:32:58,269
+aláíró eszközzel tudsz, azzal a Keystone
+próval például, ami amiről az előbb
+
+1634
+00:32:58,269 --> 00:32:58,279
+próval például, ami amiről az előbb
+ 
+
+1635
+00:32:58,279 --> 00:33:01,190
+próval például, ami amiről az előbb
+beszéltünk. Nagyon fontos megemlíteni,
+
+1636
+00:33:01,190 --> 00:33:01,200
+beszéltünk. Nagyon fontos megemlíteni,
+ 
+
+1637
+00:33:01,200 --> 00:33:04,549
+beszéltünk. Nagyon fontos megemlíteni,
+ugye, hogy ez a 12 szó, amit amivel
+
+1638
+00:33:04,549 --> 00:33:04,559
+ugye, hogy ez a 12 szó, amit amivel
+ 
+
+1639
+00:33:04,559 --> 00:33:07,070
+ugye, hogy ez a 12 szó, amit amivel
+kiválasztjuk a tárcánkat a végtelen sok
+
+1640
+00:33:07,070 --> 00:33:07,080
+kiválasztjuk a tárcánkat a végtelen sok
+ 
+
+1641
+00:33:07,080 --> 00:33:09,830
+kiválasztjuk a tárcánkat a végtelen sok
+tárca közül, ezt ugye tegyük el
+
+1642
+00:33:09,830 --> 00:33:09,840
+tárca közül, ezt ugye tegyük el
+ 
+
+1643
+00:33:09,840 --> 00:33:13,710
+tárca közül, ezt ugye tegyük el
+magunknak olyan helyre és olyan módon,
+
+1644
+00:33:13,710 --> 00:33:13,720
+magunknak olyan helyre és olyan módon,
+ 
+
+1645
+00:33:13,720 --> 00:33:17,669
+magunknak olyan helyre és olyan módon,
+hogy az megmaradjon a az idők során.
+
+1646
+00:33:17,669 --> 00:33:17,679
+hogy az megmaradjon a az idők során.
+ 
+
+1647
+00:33:17,679 --> 00:33:20,310
+hogy az megmaradjon a az idők során.
+Azért, mert az egy eszköz is bármennyire
+
+1648
+00:33:20,310 --> 00:33:20,320
+Azért, mert az egy eszköz is bármennyire
+ 
+
+1649
+00:33:20,320 --> 00:33:22,549
+Azért, mert az egy eszköz is bármennyire
+is jól felépített vagy megépített, akkor
+
+1650
+00:33:22,549 --> 00:33:22,559
+is jól felépített vagy megépített, akkor
+ 
+
+1651
+00:33:22,559 --> 00:33:24,909
+is jól felépített vagy megépített, akkor
+is tönkremehet. Jöhet egy napszél,
+
+1652
+00:33:24,909 --> 00:33:24,919
+is tönkremehet. Jöhet egy napszél,
+ 
+
+1653
+00:33:24,919 --> 00:33:28,269
+is tönkremehet. Jöhet egy napszél,
+lesodorja a fél északi földtekét és
+
+1654
+00:33:28,269 --> 00:33:28,279
+lesodorja a fél északi földtekét és
+ 
+
+1655
+00:33:28,279 --> 00:33:30,269
+lesodorja a fél északi földtekét és
+gyakorlatilag mindent kisüt. De viszont,
+
+1656
+00:33:30,269 --> 00:33:30,279
+gyakorlatilag mindent kisüt. De viszont,
+ 
+
+1657
+00:33:30,279 --> 00:33:32,990
+gyakorlatilag mindent kisüt. De viszont,
+hogyha te a betűket ugye leírod azokat a
+
+1658
+00:33:32,990 --> 00:33:33,000
+hogyha te a betűket ugye leírod azokat a
+ 
+
+1659
+00:33:33,000 --> 00:33:35,149
+hogyha te a betűket ugye leírod azokat a
+szavakat,
+
+1660
+00:33:35,149 --> 00:33:35,159
+szavakat,
+ 
+
+1661
+00:33:35,159 --> 00:33:38,750
+szavakat,
+vagy vagy acéleket használsz, vagy
+
+1662
+00:33:38,750 --> 00:33:38,760
+vagy vagy acéleket használsz, vagy
+ 
+
+1663
+00:33:38,760 --> 00:33:41,549
+vagy vagy acéleket használsz, vagy
+belekarcod valamibe, vagy elrakod,
+
+1664
+00:33:41,549 --> 00:33:41,559
+belekarcod valamibe, vagy elrakod,
+ 
+
+1665
+00:33:41,559 --> 00:33:43,389
+belekarcod valamibe, vagy elrakod,
+szépen leírod és olyan helyre teszed,
+
+1666
+00:33:43,389 --> 00:33:43,399
+szépen leírod és olyan helyre teszed,
+ 
+
+1667
+00:33:43,399 --> 00:33:45,430
+szépen leírod és olyan helyre teszed,
+ahol nem ázik el, nem gyullad fel, akkor
+
+1668
+00:33:45,430 --> 00:33:45,440
+ahol nem ázik el, nem gyullad fel, akkor
+ 
+
+1669
+00:33:45,440 --> 00:33:47,110
+ahol nem ázik el, nem gyullad fel, akkor
+te vissza tudod állítani a tárcádat
+
+1670
+00:33:47,110 --> 00:33:47,120
+te vissza tudod állítani a tárcádat
+ 
+
+1671
+00:33:47,120 --> 00:33:50,990
+te vissza tudod állítani a tárcádat
+bármilyen eszközre. És a Keystone Proval
+
+1672
+00:33:50,990 --> 00:33:51,000
+bármilyen eszközre. És a Keystone Proval
+ 
+
+1673
+00:33:51,000 --> 00:33:54,549
+bármilyen eszközre. És a Keystone Proval
+én azt azért ajánlom, mert annyira
+
+1674
+00:33:54,549 --> 00:33:54,559
+én azt azért ajánlom, mert annyira
+ 
+
+1675
+00:33:54,559 --> 00:33:57,190
+én azt azért ajánlom, mert annyira
+elegánsan és egyszerűen tud kommuniká
+
+1676
+00:33:57,190 --> 00:33:57,200
+elegánsan és egyszerűen tud kommuniká
+ 
+
+1677
+00:33:57,200 --> 00:34:00,310
+elegánsan és egyszerűen tud kommuniká
+kommunikációt felépíteni így a te
+
+1678
+00:34:00,310 --> 00:34:00,320
+kommunikációt felépíteni így a te
+ 
+
+1679
+00:34:00,320 --> 00:34:02,629
+kommunikációt felépíteni így a te
+laptopoddal és a te mobiltelefonoddal,
+
+1680
+00:34:02,629 --> 00:34:02,639
+laptopoddal és a te mobiltelefonoddal,
+ 
+
+1681
+00:34:02,639 --> 00:34:04,470
+laptopoddal és a te mobiltelefonoddal,
+hogy szerintem gyorsabb, mintogyha
+
+1682
+00:34:04,470 --> 00:34:04,480
+hogy szerintem gyorsabb, mintogyha
+ 
+
+1683
+00:34:04,480 --> 00:34:07,509
+hogy szerintem gyorsabb, mintogyha
+kábelekkel vagy különböző bluetoothszal
+
+1684
+00:34:07,509 --> 00:34:07,519
+kábelekkel vagy különböző bluetoothszal
+ 
+
+1685
+00:34:07,519 --> 00:34:09,310
+kábelekkel vagy különböző bluetoothszal
+próbálna kommunikálni. Ilyen aláíró
+
+1686
+00:34:09,310 --> 00:34:09,320
+próbálna kommunikálni. Ilyen aláíró
+ 
+
+1687
+00:34:09,320 --> 00:34:11,790
+próbálna kommunikálni. Ilyen aláíró
+eszköz. Ugye az aláíró eszköz azért
+
+1688
+00:34:11,790 --> 00:34:11,800
+eszköz. Ugye az aláíró eszköz azért
+ 
+
+1689
+00:34:11,800 --> 00:34:15,109
+eszköz. Ugye az aláíró eszköz azért
+kell, mert valahogy kapcsolatban kell
+
+1690
+00:34:15,109 --> 00:34:15,119
+kell, mert valahogy kapcsolatban kell
+ 
+
+1691
+00:34:15,119 --> 00:34:17,589
+kell, mert valahogy kapcsolatban kell
+lépni a Bitcoin hálózattal ahhoz, hogy
+
+1692
+00:34:17,589 --> 00:34:17,599
+lépni a Bitcoin hálózattal ahhoz, hogy
+ 
+
+1693
+00:34:17,599 --> 00:34:19,869
+lépni a Bitcoin hálózattal ahhoz, hogy
+te ott aláír egy tranzakciót és küldeni
+
+1694
+00:34:19,869 --> 00:34:19,879
+te ott aláír egy tranzakciót és küldeni
+ 
+
+1695
+00:34:19,879 --> 00:34:22,349
+te ott aláír egy tranzakciót és küldeni
+tudjál. És az aláíróeszközben magában
+
+1696
+00:34:22,349 --> 00:34:22,359
+tudjál. És az aláíróeszközben magában
+ 
+
+1697
+00:34:22,359 --> 00:34:25,710
+tudjál. És az aláíróeszközben magában
+benne van ez a 12 szó
+
+1698
+00:34:25,710 --> 00:34:25,720
+benne van ez a 12 szó
+ 
+
+1699
+00:34:25,720 --> 00:34:29,069
+benne van ez a 12 szó
+és ő generál egy olyan QR kódot, ami
+
+1700
+00:34:29,069 --> 00:34:29,079
+és ő generál egy olyan QR kódot, ami
+ 
+
+1701
+00:34:29,079 --> 00:34:30,589
+és ő generál egy olyan QR kódot, ami
+gyakorlatilag a te aláírásod, amit be
+
+1702
+00:34:30,589 --> 00:34:30,599
+gyakorlatilag a te aláírásod, amit be
+ 
+
+1703
+00:34:30,599 --> 00:34:31,829
+gyakorlatilag a te aláírásod, amit be
+tudsz olvasni a telefonodnak a
+
+1704
+00:34:31,829 --> 00:34:31,839
+tudsz olvasni a telefonodnak a
+ 
+
+1705
+00:34:31,839 --> 00:34:33,470
+tudsz olvasni a telefonodnak a
+kamerájával vagy a laptopodnak a
+
+1706
+00:34:33,470 --> 00:34:33,480
+kamerájával vagy a laptopodnak a
+ 
+
+1707
+00:34:33,480 --> 00:34:34,990
+kamerájával vagy a laptopodnak a
+kamerájával,
+
+1708
+00:34:34,990 --> 00:34:35,000
+kamerájával,
+ 
+
+1709
+00:34:35,000 --> 00:34:36,750
+kamerájával,
+és így tudod aláírni a tranzakció. Hát
+
+1710
+00:34:36,750 --> 00:34:36,760
+és így tudod aláírni a tranzakció. Hát
+ 
+
+1711
+00:34:36,760 --> 00:34:38,750
+és így tudod aláírni a tranzakció. Hát
+azért fontos, hogy a legyen, tehát hogy
+
+1712
+00:34:38,750 --> 00:34:38,760
+azért fontos, hogy a legyen, tehát hogy
+ 
+
+1713
+00:34:38,760 --> 00:34:41,149
+azért fontos, hogy a legyen, tehát hogy
+ne legyen vezeték a hálózathoz vagy a
+
+1714
+00:34:41,149 --> 00:34:41,159
+ne legyen vezeték a hálózathoz vagy a
+ 
+
+1715
+00:34:41,159 --> 00:34:43,550
+ne legyen vezeték a hálózathoz vagy a
+számítógéphez, hogy ugye ez a kód ne
+
+1716
+00:34:43,550 --> 00:34:43,560
+számítógéphez, hogy ugye ez a kód ne
+ 
+
+1717
+00:34:43,560 --> 00:34:46,030
+számítógéphez, hogy ugye ez a kód ne
+lehessen, vagy ne legyen kinyerhető
+
+1718
+00:34:46,030 --> 00:34:46,040
+lehessen, vagy ne legyen kinyerhető
+ 
+
+1719
+00:34:46,040 --> 00:34:49,710
+lehessen, vagy ne legyen kinyerhető
+hackkerek számára sem.
+
+1720
+00:34:49,710 --> 00:34:49,720
+hackkerek számára sem.
+ 
+
+1721
+00:34:49,720 --> 00:34:52,149
+hackkerek számára sem.
+>> Gyakorlatilag az esélyét is teljesen
+
+1722
+00:34:52,149 --> 00:34:52,159
+>> Gyakorlatilag az esélyét is teljesen
+ 
+
+1723
+00:34:52,159 --> 00:34:54,669
+>> Gyakorlatilag az esélyét is teljesen
+kizárjuk. Így van, mert ugye annak is
+
+1724
+00:34:54,669 --> 00:34:54,679
+kizárjuk. Így van, mert ugye annak is
+ 
+
+1725
+00:34:54,679 --> 00:34:56,349
+kizárjuk. Így van, mert ugye annak is
+kevés esélye van, hogy egy-egy egy-egy
+
+1726
+00:34:56,349 --> 00:34:56,359
+kevés esélye van, hogy egy-egy egy-egy
+ 
+
+1727
+00:34:56,359 --> 00:34:58,510
+kevés esélye van, hogy egy-egy egy-egy
+embert meghackelnek, mert a bitcoint
+
+1728
+00:34:58,510 --> 00:34:58,520
+embert meghackelnek, mert a bitcoint
+ 
+
+1729
+00:34:58,520 --> 00:35:00,430
+embert meghackelnek, mert a bitcoint
+általában nem meghackeléssel szokták
+
+1730
+00:35:00,430 --> 00:35:00,440
+általában nem meghackeléssel szokták
+ 
+
+1731
+00:35:00,440 --> 00:35:02,430
+általában nem meghackeléssel szokták
+elhagyni az emberek, hanem a kulcsokat
+
+1732
+00:35:02,430 --> 00:35:02,440
+elhagyni az emberek, hanem a kulcsokat
+ 
+
+1733
+00:35:02,440 --> 00:35:05,150
+elhagyni az emberek, hanem a kulcsokat
+hagyják el. A 12 szót hagyják el a
+
+1734
+00:35:05,150 --> 00:35:05,160
+hagyják el. A 12 szót hagyják el a
+ 
+
+1735
+00:35:05,160 --> 00:35:08,150
+hagyják el. A 12 szót hagyják el a
+tárcájukhoz. nagyon fontos, de azért,
+
+1736
+00:35:08,150 --> 00:35:08,160
+tárcájukhoz. nagyon fontos, de azért,
+ 
+
+1737
+00:35:08,160 --> 00:35:10,310
+tárcájukhoz. nagyon fontos, de azért,
+hogy teljesen biztonságosan és nyugodtan
+
+1738
+00:35:10,310 --> 00:35:10,320
+hogy teljesen biztonságosan és nyugodtan
+ 
+
+1739
+00:35:10,320 --> 00:35:12,349
+hogy teljesen biztonságosan és nyugodtan
+újon mindenki, az esélyét is ki kell
+
+1740
+00:35:12,349 --> 00:35:12,359
+újon mindenki, az esélyét is ki kell
+ 
+
+1741
+00:35:12,359 --> 00:35:15,790
+újon mindenki, az esélyét is ki kell
+zárni annak, hogy bármilyen
+
+1742
+00:35:15,790 --> 00:35:15,800
+zárni annak, hogy bármilyen
+ 
+
+1743
+00:35:15,800 --> 00:35:18,589
+zárni annak, hogy bármilyen
+hackelés áldozatává essünk, és ezt egy
+
+1744
+00:35:18,589 --> 00:35:18,599
+hackelés áldozatává essünk, és ezt egy
+ 
+
+1745
+00:35:18,599 --> 00:35:21,430
+hackelés áldozatává essünk, és ezt egy
+hardver eszközzel, egy aláíróeszközzel
+
+1746
+00:35:21,430 --> 00:35:21,440
+hardver eszközzel, egy aláíróeszközzel
+ 
+
+1747
+00:35:21,440 --> 00:35:23,150
+hardver eszközzel, egy aláíróeszközzel
+meg lehet el lehet érni.
+
+1748
+00:35:23,150 --> 00:35:23,160
+meg lehet el lehet érni.
+ 
+
+1749
+00:35:23,160 --> 00:35:24,670
+meg lehet el lehet érni.
+>> Így van. Tehát a Bitcoin ugye nagyon
+
+1750
+00:35:24,670 --> 00:35:24,680
+>> Így van. Tehát a Bitcoin ugye nagyon
+ 
+
+1751
+00:35:24,680 --> 00:35:27,630
+>> Így van. Tehát a Bitcoin ugye nagyon
+fontos ez a privát kulcs tárolása. És
+
+1752
+00:35:27,630 --> 00:35:27,640
+fontos ez a privát kulcs tárolása. És
+ 
+
+1753
+00:35:27,640 --> 00:35:29,190
+fontos ez a privát kulcs tárolása. És
+akkor eddig még olyan rendszerekről
+
+1754
+00:35:29,190 --> 00:35:29,200
+akkor eddig még olyan rendszerekről
+ 
+
+1755
+00:35:29,200 --> 00:35:31,550
+akkor eddig még olyan rendszerekről
+beszéltünk, ahol egy kulcs volt, de
+
+1756
+00:35:31,550 --> 00:35:31,560
+beszéltünk, ahol egy kulcs volt, de
+ 
+
+1757
+00:35:31,560 --> 00:35:33,589
+beszéltünk, ahol egy kulcs volt, de
+vannak a multiszégrendszerek, ami azt
+
+1758
+00:35:33,589 --> 00:35:33,599
+vannak a multiszégrendszerek, ami azt
+ 
+
+1759
+00:35:33,599 --> 00:35:35,829
+vannak a multiszégrendszerek, ami azt
+teszi lehetővé, hogy mondjuk az egyik
+
+1760
+00:35:35,829 --> 00:35:35,839
+teszi lehetővé, hogy mondjuk az egyik
+ 
+
+1761
+00:35:35,839 --> 00:35:39,030
+teszi lehetővé, hogy mondjuk az egyik
+kulcsodat elásod oda, másikat máshova, a
+
+1762
+00:35:39,030 --> 00:35:39,040
+kulcsodat elásod oda, másikat máshova, a
+ 
+
+1763
+00:35:39,040 --> 00:35:41,150
+kulcsodat elásod oda, másikat máshova, a
+harmadikat megint máshova, egyet meg
+
+1764
+00:35:41,150 --> 00:35:41,160
+harmadikat megint máshova, egyet meg
+ 
+
+1765
+00:35:41,160 --> 00:35:42,710
+harmadikat megint máshova, egyet meg
+megtanulsz.
+
+1766
+00:35:42,710 --> 00:35:42,720
+megtanulsz.
+ 
+
+1767
+00:35:42,720 --> 00:35:44,670
+megtanulsz.
+És például ahhoz, hogy kiengedd a
+
+1768
+00:35:44,670 --> 00:35:44,680
+És például ahhoz, hogy kiengedd a
+ 
+
+1769
+00:35:44,680 --> 00:35:46,589
+És például ahhoz, hogy kiengedd a
+vagyont, ahhoz mondjuk kell mondjuk
+
+1770
+00:35:46,589 --> 00:35:46,599
+vagyont, ahhoz mondjuk kell mondjuk
+ 
+
+1771
+00:35:46,599 --> 00:35:49,349
+vagyont, ahhoz mondjuk kell mondjuk
+három kulcs, vagy három aláírás, vagy
+
+1772
+00:35:49,349 --> 00:35:49,359
+három kulcs, vagy három aláírás, vagy
+ 
+
+1773
+00:35:49,359 --> 00:35:51,910
+három kulcs, vagy három aláírás, vagy
+kettő. Ugye ezek attól függően, hogy
+
+1774
+00:35:51,910 --> 00:35:51,920
+kettő. Ugye ezek attól függően, hogy
+ 
+
+1775
+00:35:51,920 --> 00:35:55,349
+kettő. Ugye ezek attól függően, hogy
+hogy a milyen multiszig, hogy 3/2-es,
+
+1776
+00:35:55,349 --> 00:35:55,359
+hogy a milyen multiszig, hogy 3/2-es,
+ 
+
+1777
+00:35:55,359 --> 00:35:56,790
+hogy a milyen multiszig, hogy 3/2-es,
+hogy három kulcsból kettőt kell
+
+1778
+00:35:56,790 --> 00:35:56,800
+hogy három kulcsból kettőt kell
+ 
+
+1779
+00:35:56,800 --> 00:35:58,950
+hogy három kulcsból kettőt kell
+használni, vagy vagy 4/3-as, vagy
+
+1780
+00:35:58,950 --> 00:35:58,960
+használni, vagy vagy 4/3-as, vagy
+ 
+
+1781
+00:35:58,960 --> 00:36:03,630
+használni, vagy vagy 4/3-as, vagy
+4/2-es. Ennek is megvan a különböző
+
+1782
+00:36:03,630 --> 00:36:03,640
+4/2-es. Ennek is megvan a különböző
+ 
+
+1783
+00:36:03,640 --> 00:36:05,910
+4/2-es. Ennek is megvan a különböző
+erősségi szintje, hogy mennyire mennyire
+
+1784
+00:36:05,910 --> 00:36:05,920
+erősségi szintje, hogy mennyire mennyire
+ 
+
+1785
+00:36:05,920 --> 00:36:08,589
+erősségi szintje, hogy mennyire mennyire
+biztonságos, de elmondható egyébként,
+
+1786
+00:36:08,589 --> 00:36:08,599
+biztonságos, de elmondható egyébként,
+ 
+
+1787
+00:36:08,599 --> 00:36:10,230
+biztonságos, de elmondható egyébként,
+hogy a jelenlegi hardware walletek,
+
+1788
+00:36:10,230 --> 00:36:10,240
+hogy a jelenlegi hardware walletek,
+ 
+
+1789
+00:36:10,240 --> 00:36:12,270
+hogy a jelenlegi hardware walletek,
+főleg, hogyha a nyílt forráskódúak,
+
+1790
+00:36:12,270 --> 00:36:12,280
+főleg, hogyha a nyílt forráskódúak,
+ 
+
+1791
+00:36:12,280 --> 00:36:15,390
+főleg, hogyha a nyílt forráskódúak,
+ugye, akkor azok azok szerintem még egy
+
+1792
+00:36:15,390 --> 00:36:15,400
+ugye, akkor azok azok szerintem még egy
+ 
+
+1793
+00:36:15,400 --> 00:36:17,430
+ugye, akkor azok azok szerintem még egy
+ideig jók lesznek.
+
+1794
+00:36:17,430 --> 00:36:17,440
+ideig jók lesznek.
+ 
+
+1795
+00:36:17,440 --> 00:36:19,829
+ideig jók lesznek.
+Aztán majd ahogy haladunk itt a
+
+1796
+00:36:19,829 --> 00:36:19,839
+Aztán majd ahogy haladunk itt a
+ 
+
+1797
+00:36:19,839 --> 00:36:22,750
+Aztán majd ahogy haladunk itt a
+szólásszabadság korlátozásában időben
+
+1798
+00:36:22,750 --> 00:36:22,760
+szólásszabadság korlátozásában időben
+ 
+
+1799
+00:36:22,760 --> 00:36:25,790
+szólásszabadság korlátozásában időben
+előre, illetve az ilyen állami
+
+1800
+00:36:25,790 --> 00:36:25,800
+előre, illetve az ilyen állami
+ 
+
+1801
+00:36:25,800 --> 00:36:28,150
+előre, illetve az ilyen állami
+kísérletekbe a betiltásra, úgy majd mi
+
+1802
+00:36:28,150 --> 00:36:28,160
+kísérletekbe a betiltásra, úgy majd mi
+ 
+
+1803
+00:36:28,160 --> 00:36:30,150
+kísérletekbe a betiltásra, úgy majd mi
+is fejlődünk, és úgy majd szerintem a
+
+1804
+00:36:30,150 --> 00:36:30,160
+is fejlődünk, és úgy majd szerintem a
+ 
+
+1805
+00:36:30,160 --> 00:36:34,109
+is fejlődünk, és úgy majd szerintem a
+technológia ezeket majd mindig beelőzi.
+
+1806
+00:36:34,109 --> 00:36:34,119
+technológia ezeket majd mindig beelőzi.
+ 
+
+1807
+00:36:34,119 --> 00:36:36,750
+technológia ezeket majd mindig beelőzi.
+Hát köszönöm, tök jól elmondtad ezt a
+
+1808
+00:36:36,750 --> 00:36:36,760
+Hát köszönöm, tök jól elmondtad ezt a
+ 
+
+1809
+00:36:36,760 --> 00:36:38,550
+Hát köszönöm, tök jól elmondtad ezt a
+részt. Úgyhogy szerintem ha valakinek
+
+1810
+00:36:38,550 --> 00:36:38,560
+részt. Úgyhogy szerintem ha valakinek
+ 
+
+1811
+00:36:38,560 --> 00:36:41,470
+részt. Úgyhogy szerintem ha valakinek
+nem tiszta, akkor az bármit felteht ugye
+
+1812
+00:36:41,470 --> 00:36:41,480
+nem tiszta, akkor az bármit felteht ugye
+ 
+
+1813
+00:36:41,480 --> 00:36:45,069
+nem tiszta, akkor az bármit felteht ugye
+a Telegram csoportunkba is nyugodtan,
+
+1814
+00:36:45,069 --> 00:36:45,079
+a Telegram csoportunkba is nyugodtan,
+ 
+
+1815
+00:36:45,079 --> 00:36:47,230
+a Telegram csoportunkba is nyugodtan,
+inkluzívan bárkit szívesen várunk.
+
+1816
+00:36:47,230 --> 00:36:47,240
+inkluzívan bárkit szívesen várunk.
+ 
+
+1817
+00:36:47,240 --> 00:36:49,790
+inkluzívan bárkit szívesen várunk.
+Telegramot installálsz, belépsz a 21
+
+1818
+00:36:49,790 --> 00:36:49,800
+Telegramot installálsz, belépsz a 21
+ 
+
+1819
+00:36:49,800 --> 00:36:51,630
+Telegramot installálsz, belépsz a 21
+Telegram csoportjába, és felteszed a
+
+1820
+00:36:51,630 --> 00:36:51,640
+Telegram csoportjába, és felteszed a
+ 
+
+1821
+00:36:51,640 --> 00:36:55,150
+Telegram csoportjába, és felteszed a
+kérdésedet. Szerintem a bent lévő több
+
+1822
+00:36:55,150 --> 00:36:55,160
+kérdésedet. Szerintem a bent lévő több
+ 
+
+1823
+00:36:55,160 --> 00:36:57,150
+kérdésedet. Szerintem a bent lévő több
+mint 100 ember készséges lesz, és
+
+1824
+00:36:57,150 --> 00:36:57,160
+mint 100 ember készséges lesz, és
+ 
+
+1825
+00:36:57,160 --> 00:36:58,990
+mint 100 ember készséges lesz, és
+mindent megválaszol legjobb tudása
+
+1826
+00:36:58,990 --> 00:36:59,000
+mindent megválaszol legjobb tudása
+ 
+
+1827
+00:36:59,000 --> 00:37:02,349
+mindent megválaszol legjobb tudása
+szerint,
+
+1828
+00:37:02,349 --> 00:37:02,359
+
+ 
+
+1829
+00:37:02,359 --> 00:37:03,230
+
+ugye? Így van.
+
+1830
+00:37:03,230 --> 00:37:03,240
+ugye? Így van.
+ 
+
+1831
+00:37:03,240 --> 00:37:05,190
+ugye? Így van.
+>> Legalábbis nekem ez jött le.
+
+1832
+00:37:05,190 --> 00:37:05,200
+>> Legalábbis nekem ez jött le.
+ 
+
+1833
+00:37:05,200 --> 00:37:08,990
+>> Legalábbis nekem ez jött le.
+>> Így van. Nekem az a nagyszerű egyébként
+
+1834
+00:37:08,990 --> 00:37:09,000
+>> Így van. Nekem az a nagyszerű egyébként
+ 
+
+1835
+00:37:09,000 --> 00:37:11,790
+>> Így van. Nekem az a nagyszerű egyébként
+ebbe a 21-es magyar Telegram csoportban,
+
+1836
+00:37:11,790 --> 00:37:11,800
+ebbe a 21-es magyar Telegram csoportban,
+ 
+
+1837
+00:37:11,800 --> 00:37:13,790
+ebbe a 21-es magyar Telegram csoportban,
+hogy a
+
+1838
+00:37:13,790 --> 00:37:13,800
+hogy a
+ 
+
+1839
+00:37:13,800 --> 00:37:16,510
+hogy a
+a Bitcoinémának a széles spektrumát
+
+1840
+00:37:16,510 --> 00:37:16,520
+a Bitcoinémának a széles spektrumát
+ 
+
+1841
+00:37:16,520 --> 00:37:18,349
+a Bitcoinémának a széles spektrumát
+felől egyébként a szaktudást. Tehát
+
+1842
+00:37:18,349 --> 00:37:18,359
+felől egyébként a szaktudást. Tehát
+ 
+
+1843
+00:37:18,359 --> 00:37:20,829
+felől egyébként a szaktudást. Tehát
+vannak programozók.
+
+1844
+00:37:20,829 --> 00:37:20,839
+vannak programozók.
+ 
+
+1845
+00:37:20,839 --> 00:37:22,870
+vannak programozók.
+Van, aki én mondjuk az üzleti részét
+
+1846
+00:37:22,870 --> 00:37:22,880
+Van, aki én mondjuk az üzleti részét
+ 
+
+1847
+00:37:22,880 --> 00:37:25,150
+Van, aki én mondjuk az üzleti részét
+tudom, van aki például jogi részében is
+
+1848
+00:37:25,150 --> 00:37:25,160
+tudom, van aki például jogi részében is
+ 
+
+1849
+00:37:25,160 --> 00:37:27,349
+tudom, van aki például jogi részében is
+jártas, vagy könyvelési részében, van,
+
+1850
+00:37:27,349 --> 00:37:27,359
+jártas, vagy könyvelési részében, van,
+ 
+
+1851
+00:37:27,359 --> 00:37:29,510
+jártas, vagy könyvelési részében, van,
+aki hardveretekben, Lightning Node
+
+1852
+00:37:29,510 --> 00:37:29,520
+aki hardveretekben, Lightning Node
+ 
+
+1853
+00:37:29,520 --> 00:37:32,230
+aki hardveretekben, Lightning Node
+üzemeltetésben, tehát olyan széles körül
+
+1854
+00:37:32,230 --> 00:37:32,240
+üzemeltetésben, tehát olyan széles körül
+ 
+
+1855
+00:37:32,240 --> 00:37:35,150
+üzemeltetésben, tehát olyan széles körül
+tudásbázis, ami amiért
+
+1856
+00:37:35,150 --> 00:37:35,160
+tudásbázis, ami amiért
+ 
+
+1857
+00:37:35,160 --> 00:37:36,990
+tudásbázis, ami amiért
+egyéb iparágokban ezért nagyon komoly
+
+1858
+00:37:36,990 --> 00:37:37,000
+egyéb iparágokban ezért nagyon komoly
+ 
+
+1859
+00:37:37,000 --> 00:37:38,829
+egyéb iparágokban ezért nagyon komoly
+pénzeket kell fizetni, és nem is tudsz
+
+1860
+00:37:38,829 --> 00:37:38,839
+pénzeket kell fizetni, és nem is tudsz
+ 
+
+1861
+00:37:38,839 --> 00:37:41,589
+pénzeket kell fizetni, és nem is tudsz
+odaférni. Itt pedig mindenki ingyen
+
+1862
+00:37:41,589 --> 00:37:41,599
+odaférni. Itt pedig mindenki ingyen
+ 
+
+1863
+00:37:41,599 --> 00:37:43,550
+odaférni. Itt pedig mindenki ingyen
+megosztja és ingyen segít a másiknak,
+
+1864
+00:37:43,550 --> 00:37:43,560
+megosztja és ingyen segít a másiknak,
+ 
+
+1865
+00:37:43,560 --> 00:37:47,670
+megosztja és ingyen segít a másiknak,
+mert ez is a Bitcoin közösségnek a a
+
+1866
+00:37:47,670 --> 00:37:47,680
+mert ez is a Bitcoin közösségnek a a
+ 
+
+1867
+00:37:47,680 --> 00:37:48,550
+mert ez is a Bitcoin közösségnek a a
+része, hogy
+
+1868
+00:37:48,550 --> 00:37:48,560
+része, hogy
+ 
+
+1869
+00:37:48,560 --> 00:37:49,230
+része, hogy
+>> egyesí,
+
+1870
+00:37:49,230 --> 00:37:49,240
+>> egyesí,
+ 
+
+1871
+00:37:49,240 --> 00:37:50,910
+>> egyesí,
+>> hogy egy ingyenes közösségként
+
+1872
+00:37:50,910 --> 00:37:50,920
+>> hogy egy ingyenes közösségként
+ 
+
+1873
+00:37:50,920 --> 00:37:52,510
+>> hogy egy ingyenes közösségként
+>> egyesíti a megosztó és ingyenes
+
+1874
+00:37:52,510 --> 00:37:52,520
+>> egyesíti a megosztó és ingyenes
+ 
+
+1875
+00:37:52,520 --> 00:37:54,990
+>> egyesíti a megosztó és ingyenes
+közösségként.
+
+1876
+00:37:54,990 --> 00:37:55,000
+közösségként.
+ 
+
+1877
+00:37:55,000 --> 00:37:57,030
+közösségként.
+>> Így van. Így van. Pontosan ez nagyon
+
+1878
+00:37:57,030 --> 00:37:57,040
+>> Így van. Így van. Pontosan ez nagyon
+ 
+
+1879
+00:37:57,040 --> 00:37:58,790
+>> Így van. Így van. Pontosan ez nagyon
+nagyon szép és nagyon jó megtapasztalás.
+
+1880
+00:37:58,790 --> 00:37:58,800
+nagyon szép és nagyon jó megtapasztalás.
+ 
+
+1881
+00:37:58,800 --> 00:38:02,910
+nagyon szép és nagyon jó megtapasztalás.
+>> Na, arra gondoltunk, hogy felboncoljuk a
+
+1882
+00:38:02,910 --> 00:38:02,920
+>> Na, arra gondoltunk, hogy felboncoljuk a
+ 
+
+1883
+00:38:02,920 --> 00:38:05,870
+>> Na, arra gondoltunk, hogy felboncoljuk a
+csomagolást és megnézzük, mit rejt egy
+
+1884
+00:38:05,870 --> 00:38:05,880
+csomagolást és megnézzük, mit rejt egy
+ 
+
+1885
+00:38:05,880 --> 00:38:08,910
+csomagolást és megnézzük, mit rejt egy
+ilyen kis doboz. Mit gondolsz? Ez jó. Jó
+
+1886
+00:38:08,910 --> 00:38:08,920
+ilyen kis doboz. Mit gondolsz? Ez jó. Jó
+ 
+
+1887
+00:38:08,920 --> 00:38:10,309
+ilyen kis doboz. Mit gondolsz? Ez jó. Jó
+ötlet Tamás.
+
+1888
+00:38:10,309 --> 00:38:10,319
+ötlet Tamás.
+ 
+
+1889
+00:38:10,319 --> 00:38:13,069
+ötlet Tamás.
+>> Hát persze.
+
+1890
+00:38:13,069 --> 00:38:13,079
+>> Hát persze.
+ 
+
+1891
+00:38:13,079 --> 00:38:15,109
+>> Hát persze.
+Spontán így élőadásban kipróbálunk
+
+1892
+00:38:15,109 --> 00:38:15,119
+Spontán így élőadásban kipróbálunk
+ 
+
+1893
+00:38:15,119 --> 00:38:16,870
+Spontán így élőadásban kipróbálunk
+valamit, amit még sose láttunk.
+
+1894
+00:38:16,870 --> 00:38:16,880
+valamit, amit még sose láttunk.
+ 
+
+1895
+00:38:16,880 --> 00:38:19,230
+valamit, amit még sose láttunk.
+>> Nem láttunk még ilyet. Reméljük jó.
+
+1896
+00:38:19,230 --> 00:38:19,240
+>> Nem láttunk még ilyet. Reméljük jó.
+ 
+
+1897
+00:38:19,240 --> 00:38:21,710
+>> Nem láttunk még ilyet. Reméljük jó.
+Jókat hallottunk róla. Open source meg
+
+1898
+00:38:21,710 --> 00:38:21,720
+Jókat hallottunk róla. Open source meg
+ 
+
+1899
+00:38:21,720 --> 00:38:24,550
+Jókat hallottunk róla. Open source meg
+bitcoinerek építették és rá van írva,
+
+1900
+00:38:24,550 --> 00:38:24,560
+bitcoinerek építették és rá van írva,
+ 
+
+1901
+00:38:24,560 --> 00:38:26,150
+bitcoinerek építették és rá van írva,
+hogy don't trust verify. Úgyhogy
+
+1902
+00:38:26,150 --> 00:38:26,160
+hogy don't trust verify. Úgyhogy
+ 
+
+1903
+00:38:26,160 --> 00:38:28,829
+hogy don't trust verify. Úgyhogy
+szerintem ezek ezek jó pontok. Innen el
+
+1904
+00:38:28,829 --> 00:38:28,839
+szerintem ezek ezek jó pontok. Innen el
+ 
+
+1905
+00:38:28,839 --> 00:38:30,829
+szerintem ezek ezek jó pontok. Innen el
+lehet indulni.
+
+1906
+00:38:30,829 --> 00:38:30,839
+lehet indulni.
+ 
+
+1907
+00:38:30,839 --> 00:38:32,630
+lehet indulni.
+És ezt mondjuk el, hogy nagyon fontos,
+
+1908
+00:38:32,630 --> 00:38:32,640
+És ezt mondjuk el, hogy nagyon fontos,
+ 
+
+1909
+00:38:32,640 --> 00:38:34,589
+És ezt mondjuk el, hogy nagyon fontos,
+hogy egy amikor az ember rendel egy
+
+1910
+00:38:34,589 --> 00:38:34,599
+hogy egy amikor az ember rendel egy
+ 
+
+1911
+00:38:34,599 --> 00:38:36,309
+hogy egy amikor az ember rendel egy
+ilyen hardware valetet, akármilyet,
+
+1912
+00:38:36,309 --> 00:38:36,319
+ilyen hardware valetet, akármilyet,
+ 
+
+1913
+00:38:36,319 --> 00:38:37,910
+ilyen hardware valetet, akármilyet,
+akkor nagyon jól megnézze, hogy nem
+
+1914
+00:38:37,910 --> 00:38:37,920
+akkor nagyon jól megnézze, hogy nem
+ 
+
+1915
+00:38:37,920 --> 00:38:40,510
+akkor nagyon jól megnézze, hogy nem
+bontottá, hogy sértetlen-e a csomagolás,
+
+1916
+00:38:40,510 --> 00:38:40,520
+bontottá, hogy sértetlen-e a csomagolás,
+ 
+
+1917
+00:38:40,520 --> 00:38:44,230
+bontottá, hogy sértetlen-e a csomagolás,
+rajta vannak-e az ilyen
+
+1918
+00:38:44,230 --> 00:38:44,240
+rajta vannak-e az ilyen
+ 
+
+1919
+00:38:44,240 --> 00:38:47,790
+rajta vannak-e az ilyen
+hologrammos matricák meg ilyesmi, mert
+
+1920
+00:38:47,790 --> 00:38:47,800
+hologrammos matricák meg ilyesmi, mert
+ 
+
+1921
+00:38:47,800 --> 00:38:51,030
+hologrammos matricák meg ilyesmi, mert
+ugye van egy ilyen támadási
+
+1922
+00:38:51,030 --> 00:38:51,040
+ugye van egy ilyen támadási
+ 
+
+1923
+00:38:51,040 --> 00:38:53,069
+ugye van egy ilyen támadási
+lehetőség, hogy esetleg útközben valaki
+
+1924
+00:38:53,069 --> 00:38:53,079
+lehetőség, hogy esetleg útközben valaki
+ 
+
+1925
+00:38:53,079 --> 00:38:53,790
+lehetőség, hogy esetleg útközben valaki
+rá
+
+1926
+00:38:53,790 --> 00:38:53,800
+rá
+ 
+
+1927
+00:38:53,800 --> 00:38:54,069
+rá
+>> Ühüm.
+
+1928
+00:38:54,069 --> 00:38:54,079
+>> Ühüm.
+ 
+
+1929
+00:38:54,079 --> 00:38:55,870
+>> Ühüm.
+>> telepített egy olyan szoftvert, ami
+
+1930
+00:38:55,870 --> 00:38:55,880
+>> telepített egy olyan szoftvert, ami
+ 
+
+1931
+00:38:55,880 --> 00:38:59,030
+>> telepített egy olyan szoftvert, ami
+aztán ellopja a bitcoinunkat.
+
+1932
+00:38:59,030 --> 00:38:59,040
+aztán ellopja a bitcoinunkat.
+ 
+
+1933
+00:38:59,040 --> 00:39:00,630
+aztán ellopja a bitcoinunkat.
+Bizony, mert ugye egyre több hardware
+
+1934
+00:39:00,630 --> 00:39:00,640
+Bizony, mert ugye egyre több hardware
+ 
+
+1935
+00:39:00,640 --> 00:39:02,910
+Bizony, mert ugye egyre több hardware
+valet van így a piacon, és egyre több
+
+1936
+00:39:02,910 --> 00:39:02,920
+valet van így a piacon, és egyre több
+ 
+
+1937
+00:39:02,920 --> 00:39:05,950
+valet van így a piacon, és egyre több
+forrásba lehet ezeket beszerezni.
+
+1938
+00:39:05,950 --> 00:39:05,960
+forrásba lehet ezeket beszerezni.
+ 
+
+1939
+00:39:05,960 --> 00:39:07,790
+forrásba lehet ezeket beszerezni.
+És hát szerintem a csomagolóipar is
+
+1940
+00:39:07,790 --> 00:39:07,800
+És hát szerintem a csomagolóipar is
+ 
+
+1941
+00:39:07,800 --> 00:39:10,270
+És hát szerintem a csomagolóipar is
+egyre jobb, tehát nem mindenki, vagyis,
+
+1942
+00:39:10,270 --> 00:39:10,280
+egyre jobb, tehát nem mindenki, vagyis,
+ 
+
+1943
+00:39:10,280 --> 00:39:12,349
+egyre jobb, tehát nem mindenki, vagyis,
+hogy mindenki megengedhet magának lassan
+
+1944
+00:39:12,349 --> 00:39:12,359
+hogy mindenki megengedhet magának lassan
+ 
+
+1945
+00:39:12,359 --> 00:39:15,990
+hogy mindenki megengedhet magának lassan
+egy ilyen szép nylonba burkológépet,
+
+1946
+00:39:15,990 --> 00:39:16,000
+egy ilyen szép nylonba burkológépet,
+ 
+
+1947
+00:39:16,000 --> 00:39:19,190
+egy ilyen szép nylonba burkológépet,
+szóval könnyű lesz ezeket majd
+
+1948
+00:39:19,190 --> 00:39:19,200
+szóval könnyű lesz ezeket majd
+ 
+
+1949
+00:39:19,200 --> 00:39:22,589
+szóval könnyű lesz ezeket majd
+kompromizálni, vagy compromise,
+
+1950
+00:39:22,589 --> 00:39:22,599
+kompromizálni, vagy compromise,
+ 
+
+1951
+00:39:22,599 --> 00:39:25,430
+kompromizálni, vagy compromise,
+tehát hogy így megtörni, nem? Bár
+
+1952
+00:39:25,430 --> 00:39:25,440
+tehát hogy így megtörni, nem? Bár
+ 
+
+1953
+00:39:25,440 --> 00:39:27,069
+tehát hogy így megtörni, nem? Bár
+gondolom ez elég komoly tudás.
+
+1954
+00:39:27,069 --> 00:39:27,079
+gondolom ez elég komoly tudás.
+ 
+
+1955
+00:39:27,079 --> 00:39:28,710
+gondolom ez elég komoly tudás.
+>> Hát azért nem könnyű,
+
+1956
+00:39:28,710 --> 00:39:28,720
+>> Hát azért nem könnyű,
+ 
+
+1957
+00:39:28,720 --> 00:39:29,750
+>> Hát azért nem könnyű,
+>> ki csináljon egy,
+
+1958
+00:39:29,750 --> 00:39:29,760
+>> ki csináljon egy,
+ 
+
+1959
+00:39:29,760 --> 00:39:31,270
+>> ki csináljon egy,
+>> de megéri.
+
+1960
+00:39:31,270 --> 00:39:31,280
+>> de megéri.
+ 
+
+1961
+00:39:31,280 --> 00:39:31,589
+>> de megéri.
+>> Ja,
+
+1962
+00:39:31,589 --> 00:39:31,599
+>> Ja,
+ 
+
+1963
+00:39:31,599 --> 00:39:32,750
+>> Ja,
+>> nyilván.
+
+1964
+00:39:32,750 --> 00:39:32,760
+>> nyilván.
+ 
+
+1965
+00:39:32,760 --> 00:39:35,030
+>> nyilván.
+>> Szóval akkor így kibontanám. Bocs a
+
+1966
+00:39:35,030 --> 00:39:35,040
+>> Szóval akkor így kibontanám. Bocs a
+ 
+
+1967
+00:39:35,040 --> 00:39:36,710
+>> Szóval akkor így kibontanám. Bocs a
+bénázásért, de még nem volt ilyen a
+
+1968
+00:39:36,710 --> 00:39:36,720
+bénázásért, de még nem volt ilyen a
+ 
+
+1969
+00:39:36,720 --> 00:39:41,750
+bénázásért, de még nem volt ilyen a
+kezemben.
+
+1970
+00:39:41,750 --> 00:39:41,760
+
+ 
+
+1971
+00:39:41,760 --> 00:39:44,630
+
+Ezt egyszer tudjuk megmutatni,
+
+1972
+00:39:44,630 --> 00:39:44,640
+Ezt egyszer tudjuk megmutatni,
+ 
+
+1973
+00:39:44,640 --> 00:39:46,430
+Ezt egyszer tudjuk megmutatni,
+mert
+
+1974
+00:39:46,430 --> 00:39:46,440
+mert
+ 
+
+1975
+00:39:46,440 --> 00:39:49,510
+mert
+>> végesek a készleteink. Ez az a jade,
+
+1976
+00:39:49,510 --> 00:39:49,520
+>> végesek a készleteink. Ez az a jade,
+ 
+
+1977
+00:39:49,520 --> 00:39:51,270
+>> végesek a készleteink. Ez az a jade,
+amit a múlt korjában, nem is tudom,
+
+1978
+00:39:51,270 --> 00:39:51,280
+amit a múlt korjában, nem is tudom,
+ 
+
+1979
+00:39:51,280 --> 00:39:53,870
+amit a múlt korjában, nem is tudom,
+hanyadik elásban vettünk
+
+1980
+00:39:53,870 --> 00:39:53,880
+hanyadik elásban vettünk
+ 
+
+1981
+00:39:53,880 --> 00:39:57,309
+hanyadik elásban vettünk
+Bitcoinért a bitcoinbázis.hu
+
+1982
+00:39:57,309 --> 00:39:57,319
+Bitcoinért a bitcoinbázis.hu
+ 
+
+1983
+00:39:57,319 --> 00:39:59,309
+Bitcoinért a bitcoinbázis.hu
+webshopjában. Lerakom a csavarhúzót,
+
+1984
+00:39:59,309 --> 00:39:59,319
+webshopjában. Lerakom a csavarhúzót,
+ 
+
+1985
+00:39:59,319 --> 00:40:01,790
+webshopjában. Lerakom a csavarhúzót,
+mielőtt kiszúrnám a szemem. Szóval eddig
+
+1986
+00:40:01,790 --> 00:40:01,800
+mielőtt kiszúrnám a szemem. Szóval eddig
+ 
+
+1987
+00:40:01,800 --> 00:40:04,670
+mielőtt kiszúrnám a szemem. Szóval eddig
+a csomagolása érintetlen,
+
+1988
+00:40:04,670 --> 00:40:04,680
+a csomagolása érintetlen,
+ 
+
+1989
+00:40:04,680 --> 00:40:06,190
+a csomagolása érintetlen,
+ez most nem kell. És akkor egy ilyen
+
+1990
+00:40:06,190 --> 00:40:06,200
+ez most nem kell. És akkor egy ilyen
+ 
+
+1991
+00:40:06,200 --> 00:40:08,870
+ez most nem kell. És akkor egy ilyen
+nagyon klassz kis dobozban van. Van
+
+1992
+00:40:08,870 --> 00:40:08,880
+nagyon klassz kis dobozban van. Van
+ 
+
+1993
+00:40:08,880 --> 00:40:10,910
+nagyon klassz kis dobozban van. Van
+rajta egy hologram. Ez lehet, hogy így
+
+1994
+00:40:10,910 --> 00:40:10,920
+rajta egy hologram. Ez lehet, hogy így
+ 
+
+1995
+00:40:10,920 --> 00:40:14,790
+rajta egy hologram. Ez lehet, hogy így
+látszik. Majd így mutatom. Vagy így.
+
+1996
+00:40:14,790 --> 00:40:14,800
+látszik. Majd így mutatom. Vagy így.
+ 
+
+1997
+00:40:14,800 --> 00:40:15,790
+látszik. Majd így mutatom. Vagy így.
+Kettő is.
+
+1998
+00:40:15,790 --> 00:40:15,800
+Kettő is.
+ 
+
+1999
+00:40:15,800 --> 00:40:17,150
+Kettő is.
+>> Ühüm.
+
+2000
+00:40:17,150 --> 00:40:17,160
+>> Ühüm.
+ 
+
+2001
+00:40:17,160 --> 00:40:19,870
+>> Ühüm.
+Megint kell a csavarhúzó, szerencsére
+
+2002
+00:40:19,870 --> 00:40:19,880
+Megint kell a csavarhúzó, szerencsére
+ 
+
+2003
+00:40:19,880 --> 00:40:22,750
+Megint kell a csavarhúzó, szerencsére
+csillag. Úgyhogy
+
+2004
+00:40:22,750 --> 00:40:22,760
+csillag. Úgyhogy
+ 
+
+2005
+00:40:22,760 --> 00:40:24,950
+csillag. Úgyhogy
+>> a 11. adásban volt.
+
+2006
+00:40:24,950 --> 00:40:24,960
+>> a 11. adásban volt.
+ 
+
+2007
+00:40:24,960 --> 00:40:26,710
+>> a 11. adásban volt.
+>> 11.
+
+2008
+00:40:26,710 --> 00:40:26,720
+>> 11.
+ 
+
+2009
+00:40:26,720 --> 00:40:28,430
+>> 11.
+adásban volt. Közben jött egy
+
+2010
+00:40:28,430 --> 00:40:28,440
+adásban volt. Közben jött egy
+ 
+
+2011
+00:40:28,440 --> 00:40:31,069
+adásban volt. Közben jött egy
+>> aki nem látta, nézze meg feltétlenül.
+
+2012
+00:40:31,069 --> 00:40:31,079
+>> aki nem látta, nézze meg feltétlenül.
+ 
+
+2013
+00:40:31,079 --> 00:40:33,470
+>> aki nem látta, nézze meg feltétlenül.
+Már vat minden
+
+2014
+00:40:33,470 --> 00:40:33,480
+Már vat minden
+ 
+
+2015
+00:40:33,480 --> 00:40:35,990
+Már vat minden
+>> eleg húzol ezeket majd lehet, hogy egy
+
+2016
+00:40:35,990 --> 00:40:36,000
+>> eleg húzol ezeket majd lehet, hogy egy
+ 
+
+2017
+00:40:36,000 --> 00:40:37,790
+>> eleg húzol ezeket majd lehet, hogy egy
+ilyen két xel meg lehet sebesíteni. És
+
+2018
+00:40:37,790 --> 00:40:37,800
+ilyen két xel meg lehet sebesíteni. És
+ 
+
+2019
+00:40:37,800 --> 00:40:41,390
+ilyen két xel meg lehet sebesíteni. És
+akkor én kibontom itt a
+
+2020
+00:40:41,390 --> 00:40:41,400
+akkor én kibontom itt a
+ 
+
+2021
+00:40:41,400 --> 00:40:46,750
+akkor én kibontom itt a
+kibontottam a
+
+2022
+00:40:46,750 --> 00:40:46,760
+
+ 
+
+2023
+00:40:46,760 --> 00:40:49,390
+
+Ez vandásságnak számít.
+
+2024
+00:40:49,390 --> 00:40:49,400
+Ez vandásságnak számít.
+ 
+
+2025
+00:40:49,400 --> 00:40:50,270
+Ez vandásságnak számít.
+Annak, de hát nem baj,
+
+2026
+00:40:50,270 --> 00:40:50,280
+Annak, de hát nem baj,
+ 
+
+2027
+00:40:50,280 --> 00:40:51,190
+Annak, de hát nem baj,
+>> nem nagyon olyan szét, úgyhogy az
+
+2028
+00:40:51,190 --> 00:40:51,200
+>> nem nagyon olyan szét, úgyhogy az
+ 
+
+2029
+00:40:51,200 --> 00:40:54,870
+>> nem nagyon olyan szét, úgyhogy az
+biztos, hogy kéne így kezébe. Vagyis hát
+
+2030
+00:40:54,870 --> 00:40:54,880
+biztos, hogy kéne így kezébe. Vagyis hát
+ 
+
+2031
+00:40:54,880 --> 00:40:59,470
+biztos, hogy kéne így kezébe. Vagyis hát
+ha csak nem bent a dobozba,
+
+2032
+00:40:59,470 --> 00:40:59,480
+
+ 
+
+2033
+00:40:59,480 --> 00:41:01,550
+
+de azt hiszem fél. Egyik odáhúzom, másik
+
+2034
+00:41:01,550 --> 00:41:01,560
+de azt hiszem fél. Egyik odáhúzom, másik
+ 
+
+2035
+00:41:01,560 --> 00:41:03,030
+de azt hiszem fél. Egyik odáhúzom, másik
+ott már na jól van.
+
+2036
+00:41:03,030 --> 00:41:03,040
+ott már na jól van.
+ 
+
+2037
+00:41:03,040 --> 00:41:05,390
+ott már na jól van.
+>> Nézzük. Ú nagyon szép. Narancssárga. Jól
+
+2038
+00:41:05,390 --> 00:41:05,400
+>> Nézzük. Ú nagyon szép. Narancssárga. Jól
+ 
+
+2039
+00:41:05,400 --> 00:41:07,349
+>> Nézzük. Ú nagyon szép. Narancssárga. Jól
+tettük, hogy ilyet választottunk. Nagyon
+
+2040
+00:41:07,349 --> 00:41:07,359
+tettük, hogy ilyet választottunk. Nagyon
+ 
+
+2041
+00:41:07,359 --> 00:41:08,790
+tettük, hogy ilyet választottunk. Nagyon
+jó színe van.
+
+2042
+00:41:08,790 --> 00:41:08,800
+jó színe van.
+ 
+
+2043
+00:41:08,800 --> 00:41:10,230
+jó színe van.
+>> Pont megy a Bitcoin Stenderd
+
+2044
+00:41:10,230 --> 00:41:10,240
+>> Pont megy a Bitcoin Stenderd
+ 
+
+2045
+00:41:10,240 --> 00:41:11,990
+>> Pont megy a Bitcoin Stenderd
+narancssárgájához
+
+2046
+00:41:11,990 --> 00:41:12,000
+narancssárgájához
+ 
+
+2047
+00:41:12,000 --> 00:41:13,990
+narancssárgájához
+>> meg a logóhoz. És van benne egy ilyen
+
+2048
+00:41:13,990 --> 00:41:14,000
+>> meg a logóhoz. És van benne egy ilyen
+ 
+
+2049
+00:41:14,000 --> 00:41:15,910
+>> meg a logóhoz. És van benne egy ilyen
+kis kütyű.
+
+2050
+00:41:15,910 --> 00:41:15,920
+kis kütyű.
+ 
+
+2051
+00:41:15,920 --> 00:41:20,190
+kis kütyű.
+Az történt, hogy beállítottuk a Jen,
+
+2052
+00:41:20,190 --> 00:41:20,200
+Az történt, hogy beállítottuk a Jen,
+ 
+
+2053
+00:41:20,200 --> 00:41:22,990
+Az történt, hogy beállítottuk a Jen,
+elindítottam a setupot és felkínált
+
+2054
+00:41:22,990 --> 00:41:23,000
+elindítottam a setupot és felkínált
+ 
+
+2055
+00:41:23,000 --> 00:41:26,190
+elindítottam a setupot és felkínált
+véletlen szerintzerűen 12 szót, amit
+
+2056
+00:41:26,190 --> 00:41:26,200
+véletlen szerintzerűen 12 szót, amit
+ 
+
+2057
+00:41:26,200 --> 00:41:27,910
+véletlen szerintzerűen 12 szót, amit
+leírtam,
+
+2058
+00:41:27,910 --> 00:41:27,920
+leírtam,
+ 
+
+2059
+00:41:27,920 --> 00:41:32,349
+leírtam,
+és most hozzákapcsolom a telefonhoz
+
+2060
+00:41:32,349 --> 00:41:32,359
+és most hozzákapcsolom a telefonhoz
+ 
+
+2061
+00:41:32,359 --> 00:41:33,870
+és most hozzákapcsolom a telefonhoz
+Bluetoothszal. Bluetooth be van
+
+2062
+00:41:33,870 --> 00:41:33,880
+Bluetoothszal. Bluetooth be van
+ 
+
+2063
+00:41:33,880 --> 00:41:36,430
+Bluetoothszal. Bluetooth be van
+kapcsolva,
+
+2064
+00:41:36,430 --> 00:41:36,440
+kapcsolva,
+ 
+
+2065
+00:41:36,440 --> 00:41:40,790
+kapcsolva,
+és megindítatjuk a green wallet.
+
+2066
+00:41:40,790 --> 00:41:40,800
+és megindítatjuk a green wallet.
+ 
+
+2067
+00:41:40,800 --> 00:41:43,710
+és megindítatjuk a green wallet.
+Welcome to blockstam Jade
+
+2068
+00:41:43,710 --> 00:41:43,720
+Welcome to blockstam Jade
+ 
+
+2069
+00:41:43,720 --> 00:41:47,550
+Welcome to blockstam Jade
+>> csak így tudta, hogy ott van.
+
+2070
+00:41:47,550 --> 00:41:47,560
+>> csak így tudta, hogy ott van.
+ 
+
+2071
+00:41:47,560 --> 00:41:49,109
+>> csak így tudta, hogy ott van.
+>> Tessék?
+
+2072
+00:41:49,109 --> 00:41:49,119
+>> Tessék?
+ 
+
+2073
+00:41:49,119 --> 00:41:50,510
+>> Tessék?
+>> Tudta magától, hogy ott van, vagy
+
+2074
+00:41:50,510 --> 00:41:50,520
+>> Tudta magától, hogy ott van, vagy
+ 
+
+2075
+00:41:50,520 --> 00:41:51,829
+>> Tudta magától, hogy ott van, vagy
+valahol meg kellett keresni?
+
+2076
+00:41:51,829 --> 00:41:51,839
+valahol meg kellett keresni?
+ 
+
+2077
+00:41:51,839 --> 00:41:54,069
+valahol meg kellett keresni?
+>> Már ezt lefuttattam. Tehát itt van egy
+
+2078
+00:41:54,069 --> 00:41:54,079
+>> Már ezt lefuttattam. Tehát itt van egy
+ 
+
+2079
+00:41:54,079 --> 00:41:56,349
+>> Már ezt lefuttattam. Tehát itt van egy
+annyi hozzá kellett adni egy új wallet.
+
+2080
+00:41:56,349 --> 00:41:56,359
+annyi hozzá kellett adni egy új wallet.
+ 
+
+2081
+00:41:56,359 --> 00:41:58,430
+annyi hozzá kellett adni egy új wallet.
+Itt a setup new wallet. Ja,
+
+2082
+00:41:58,430 --> 00:41:58,440
+Itt a setup new wallet. Ja,
+ 
+
+2083
+00:41:58,440 --> 00:42:01,750
+Itt a setup new wallet. Ja,
+>> és akkor felkínálja ezt a két opciót,
+
+2084
+00:42:01,750 --> 00:42:01,760
+>> és akkor felkínálja ezt a két opciót,
+ 
+
+2085
+00:42:01,760 --> 00:42:04,270
+>> és akkor felkínálja ezt a két opciót,
+hogy ezen az eszközön vagy egy hardware
+
+2086
+00:42:04,270 --> 00:42:04,280
+hogy ezen az eszközön vagy egy hardware
+ 
+
+2087
+00:42:04,280 --> 00:42:06,150
+hogy ezen az eszközön vagy egy hardware
+walleten, akkor megnyomod, hogy hardware
+
+2088
+00:42:06,150 --> 00:42:06,160
+walleten, akkor megnyomod, hogy hardware
+ 
+
+2089
+00:42:06,160 --> 00:42:08,910
+walleten, akkor megnyomod, hogy hardware
+wallet, és akkor
+
+2090
+00:42:08,910 --> 00:42:08,920
+wallet, és akkor
+ 
+
+2091
+00:42:08,920 --> 00:42:11,670
+wallet, és akkor
+beköszön egy
+
+2092
+00:42:11,670 --> 00:42:11,680
+beköszön egy
+ 
+
+2093
+00:42:11,680 --> 00:42:14,630
+beköszön egy
+screen. Welcome to blockstam jade. És
+
+2094
+00:42:14,630 --> 00:42:14,640
+screen. Welcome to blockstam jade. És
+ 
+
+2095
+00:42:14,640 --> 00:42:19,309
+screen. Welcome to blockstam jade. És
+akkor itt van, hogy connect jade.
+
+2096
+00:42:19,309 --> 00:42:19,319
+
+ 
+
+2097
+00:42:19,319 --> 00:42:20,950
+
+És csak rá kell klikkelni, mert egyből
+
+2098
+00:42:20,950 --> 00:42:20,960
+És csak rá kell klikkelni, mert egyből
+ 
+
+2099
+00:42:20,960 --> 00:42:24,549
+És csak rá kell klikkelni, mert egyből
+látta a Bluetooth-on, tehát teljesen
+
+2100
+00:42:24,549 --> 00:42:24,559
+látta a Bluetooth-on, tehát teljesen
+ 
+
+2101
+00:42:24,559 --> 00:42:27,710
+látta a Bluetooth-on, tehát teljesen
+>> nyilván saját termékük össze van
+
+2102
+00:42:27,710 --> 00:42:27,720
+>> nyilván saját termékük össze van
+ 
+
+2103
+00:42:27,720 --> 00:42:31,829
+>> nyilván saját termékük össze van
+magukkal lőve. Lefrissült a furnware,
+
+2104
+00:42:31,829 --> 00:42:31,839
+magukkal lőve. Lefrissült a furnware,
+ 
+
+2105
+00:42:31,839 --> 00:42:33,549
+magukkal lőve. Lefrissült a furnware,
+most pedig megnézzük, hogy mit mutat a
+
+2106
+00:42:33,549 --> 00:42:33,559
+most pedig megnézzük, hogy mit mutat a
+ 
+
+2107
+00:42:33,559 --> 00:42:36,630
+most pedig megnézzük, hogy mit mutat a
+képernyőn. Mobilon
+
+2108
+00:42:36,630 --> 00:42:36,640
+képernyőn. Mobilon
+ 
+
+2109
+00:42:36,640 --> 00:42:40,069
+képernyőn. Mobilon
+megnyitom a green a blockstam green
+
+2110
+00:42:40,069 --> 00:42:40,079
+megnyitom a green a blockstam green
+ 
+
+2111
+00:42:40,079 --> 00:42:42,349
+megnyitom a green a blockstam green
+wallet. Ez a blockstamnak a saját
+
+2112
+00:42:42,349 --> 00:42:42,359
+wallet. Ez a blockstamnak a saját
+ 
+
+2113
+00:42:42,359 --> 00:42:44,910
+wallet. Ez a blockstamnak a saját
+wallettje,
+
+2114
+00:42:44,910 --> 00:42:44,920
+wallettje,
+ 
+
+2115
+00:42:44,920 --> 00:42:48,430
+wallettje,
+>> ami egyébként működne jade nélkül is.
+
+2116
+00:42:48,430 --> 00:42:48,440
+>> ami egyébként működne jade nélkül is.
+ 
+
+2117
+00:42:48,440 --> 00:42:50,710
+>> ami egyébként működne jade nélkül is.
+>> Jade nélkül is működik. Én ide föltettem
+
+2118
+00:42:50,710 --> 00:42:50,720
+>> Jade nélkül is működik. Én ide föltettem
+ 
+
+2119
+00:42:50,720 --> 00:42:54,470
+>> Jade nélkül is működik. Én ide föltettem
+ide a jadeet az előbbi update-tel, és
+
+2120
+00:42:54,470 --> 00:42:54,480
+ide a jadeet az előbbi update-tel, és
+ 
+
+2121
+00:42:54,480 --> 00:42:59,349
+ide a jadeet az előbbi update-tel, és
+most már eléri.
+
+2122
+00:42:59,349 --> 00:42:59,359
+
+ 
+
+2123
+00:42:59,359 --> 00:43:01,990
+
+Oké,
+
+2124
+00:43:01,990 --> 00:43:02,000
+Oké,
+ 
+
+2125
+00:43:02,000 --> 00:43:03,710
+Oké,
+most Bluetooth-on fog kapcsolódni,
+
+2126
+00:43:03,710 --> 00:43:03,720
+most Bluetooth-on fog kapcsolódni,
+ 
+
+2127
+00:43:03,720 --> 00:43:07,630
+most Bluetooth-on fog kapcsolódni,
+reméljük megtalálja.
+
+2128
+00:43:07,630 --> 00:43:07,640
+
+ 
+
+2129
+00:43:07,640 --> 00:43:10,430
+
+Tehát csatlakozott a jade,
+
+2130
+00:43:10,430 --> 00:43:10,440
+Tehát csatlakozott a jade,
+ 
+
+2131
+00:43:10,440 --> 00:43:13,470
+Tehát csatlakozott a jade,
+látja a Bluetoothon.
+
+2132
+00:43:13,470 --> 00:43:13,480
+látja a Bluetoothon.
+ 
+
+2133
+00:43:13,480 --> 00:43:16,430
+látja a Bluetoothon.
+És akkor most beírom azt az 1 2 3 4 5
+
+2134
+00:43:16,430 --> 00:43:16,440
+És akkor most beírom azt az 1 2 3 4 5
+ 
+
+2135
+00:43:16,440 --> 00:43:19,309
+És akkor most beírom azt az 1 2 3 4 5
+6-ot, amit beállítottam. Egy, mert egy
+
+2136
+00:43:19,309 --> 00:43:19,319
+6-ot, amit beállítottam. Egy, mert egy
+ 
+
+2137
+00:43:19,319 --> 00:43:21,270
+6-ot, amit beállítottam. Egy, mert egy
+pin kóddal enged be.
+
+2138
+00:43:21,270 --> 00:43:21,280
+pin kóddal enged be.
+ 
+
+2139
+00:43:21,280 --> 00:43:22,790
+pin kóddal enged be.
+>> De azt hova írod be?
+
+2140
+00:43:22,790 --> 00:43:22,800
+>> De azt hova írod be?
+ 
+
+2141
+00:43:22,800 --> 00:43:24,589
+>> De azt hova írod be?
+>> Itt a Jaden kell klikkelgetni. Majd
+
+2142
+00:43:24,589 --> 00:43:24,599
+>> Itt a Jaden kell klikkelgetni. Majd
+ 
+
+2143
+00:43:24,599 --> 00:43:26,470
+>> Itt a Jaden kell klikkelgetni. Majd
+megmutatom a kamerába később.
+
+2144
+00:43:26,470 --> 00:43:26,480
+megmutatom a kamerába később.
+ 
+
+2145
+00:43:26,480 --> 00:43:27,309
+megmutatom a kamerába később.
+>> Aha.
+
+2146
+00:43:27,309 --> 00:43:27,319
+>> Aha.
+ 
+
+2147
+00:43:27,319 --> 00:43:29,470
+>> Aha.
+>> Ezzel a diallel a tetején meg a nagy
+
+2148
+00:43:29,470 --> 00:43:29,480
+>> Ezzel a diallel a tetején meg a nagy
+ 
+
+2149
+00:43:29,480 --> 00:43:32,510
+>> Ezzel a diallel a tetején meg a nagy
+gombbal le kell okézni. Egyesével be
+
+2150
+00:43:32,510 --> 00:43:32,520
+gombbal le kell okézni. Egyesével be
+ 
+
+2151
+00:43:32,520 --> 00:43:35,109
+gombbal le kell okézni. Egyesével be
+kell állítgatni a pin kódot.
+
+2152
+00:43:35,109 --> 00:43:35,119
+kell állítgatni a pin kódot.
+ 
+
+2153
+00:43:35,119 --> 00:43:39,430
+kell állítgatni a pin kódot.
+leellenőrizte, és akkor a mobilon éppen
+
+2154
+00:43:39,430 --> 00:43:39,440
+leellenőrizte, és akkor a mobilon éppen
+ 
+
+2155
+00:43:39,440 --> 00:43:45,750
+leellenőrizte, és akkor a mobilon éppen
+a belépésnek a az animációját látjuk,
+
+2156
+00:43:45,750 --> 00:43:45,760
+a belépésnek a az animációját látjuk,
+ 
+
+2157
+00:43:45,760 --> 00:43:48,630
+a belépésnek a az animációját látjuk,
+>> de sose állítsatok be kódnak 1 2 3 4 5
+
+2158
+00:43:48,630 --> 00:43:48,640
+>> de sose állítsatok be kódnak 1 2 3 4 5
+ 
+
+2159
+00:43:48,640 --> 00:43:49,190
+>> de sose állítsatok be kódnak 1 2 3 4 5
+6-ot.
+
+2160
+00:43:49,190 --> 00:43:49,200
+6-ot.
+ 
+
+2161
+00:43:49,200 --> 00:43:50,430
+6-ot.
+>> Ja, semmiképp.
+
+2162
+00:43:50,430 --> 00:43:50,440
+>> Ja, semmiképp.
+ 
+
+2163
+00:43:50,440 --> 00:43:52,950
+>> Ja, semmiképp.
+>> Ne csináljatok ilyet otthon. Nagyon
+
+2164
+00:43:52,950 --> 00:43:52,960
+>> Ne csináljatok ilyet otthon. Nagyon
+ 
+
+2165
+00:43:52,960 --> 00:43:55,349
+>> Ne csináljatok ilyet otthon. Nagyon
+veszélyes.
+
+2166
+00:43:55,349 --> 00:43:55,359
+veszélyes.
+ 
+
+2167
+00:43:55,359 --> 00:43:58,510
+veszélyes.
+>> Ú, és akkor látjuk a tárcát. Ezen éppen
+
+2168
+00:43:58,510 --> 00:43:58,520
+>> Ú, és akkor látjuk a tárcát. Ezen éppen
+ 
+
+2169
+00:43:58,520 --> 00:44:00,630
+>> Ú, és akkor látjuk a tárcát. Ezen éppen
+nulla bitcoin van. Ú,
+
+2170
+00:44:00,630 --> 00:44:00,640
+nulla bitcoin van. Ú,
+ 
+
+2171
+00:44:00,640 --> 00:44:03,109
+nulla bitcoin van. Ú,
+>> akkor nem találtunk el senki, nem
+
+2172
+00:44:03,109 --> 00:44:03,119
+>> akkor nem találtunk el senki, nem
+ 
+
+2173
+00:44:03,119 --> 00:44:05,190
+>> akkor nem találtunk el senki, nem
+találtunk bele senkinek sem a tárcájábó
+
+2174
+00:44:05,190 --> 00:44:05,200
+találtunk bele senkinek sem a tárcájábó
+ 
+
+2175
+00:44:05,200 --> 00:44:07,750
+találtunk bele senkinek sem a tárcájábó
+ezzel a 12 véletlenszerű szóval.
+
+2176
+00:44:07,750 --> 00:44:07,760
+ezzel a 12 véletlenszerű szóval.
+ 
+
+2177
+00:44:07,760 --> 00:44:09,630
+ezzel a 12 véletlenszerű szóval.
+>> És miért nem találtuk el?
+
+2178
+00:44:09,630 --> 00:44:09,640
+>> És miért nem találtuk el?
+ 
+
+2179
+00:44:09,640 --> 00:44:11,510
+>> És miért nem találtuk el?
+>> Mert kicsi a valószínűsége, hogy a világ
+
+2180
+00:44:11,510 --> 00:44:11,520
+>> Mert kicsi a valószínűsége, hogy a világ
+ 
+
+2181
+00:44:11,520 --> 00:44:14,470
+>> Mert kicsi a valószínűsége, hogy a világ
+>> Mert olyan sok tárca lehet kábé ahány
+
+2182
+00:44:14,470 --> 00:44:14,480
+>> Mert olyan sok tárca lehet kábé ahány
+ 
+
+2183
+00:44:14,480 --> 00:44:16,790
+>> Mert olyan sok tárca lehet kábé ahány
+atom van a világegyetemben.
+
+2184
+00:44:16,790 --> 00:44:16,800
+atom van a világegyetemben.
+ 
+
+2185
+00:44:16,800 --> 00:44:18,549
+atom van a világegyetemben.
+>> Így van.
+
+2186
+00:44:18,549 --> 00:44:18,559
+>> Így van.
+ 
+
+2187
+00:44:18,559 --> 00:44:20,510
+>> Így van.
+>> De eltalálhatnánk éppen egyet.
+
+2188
+00:44:20,510 --> 00:44:20,520
+>> De eltalálhatnánk éppen egyet.
+ 
+
+2189
+00:44:20,520 --> 00:44:31,850
+>> De eltalálhatnánk éppen egyet.
+>> Éppen el.
+
+2190
+00:44:31,850 --> 00:44:31,860
+
+ 
+
+2191
+00:44:31,860 --> 00:44:54,910
+
+[Zene]
+
+2192
+00:44:54,910 --> 00:44:54,920
+
+ 
+
+2193
+00:44:54,920 --> 00:44:57,010
+
+เฮ
+
+2194
+00:44:57,010 --> 00:44:57,020
+เฮ
+ 
+
+2195
+00:44:57,020 --> 00:45:21,960
+เฮ
+[Zene]
+
+2196
+00:45:21,960 --> 00:45:21,970
+
+ 
+
+2197
+00:45:21,970 --> 00:46:00,560
+
+[Zene]
+
+2198
+00:46:00,560 --> 00:46:00,570
+
+ 
+
+2199
+00:46:00,570 --> 00:46:15,710
+
+[Zene]
+
+2200
+00:46:15,710 --> 00:46:15,720
+
+ 
+
+2201
+00:46:15,720 --> 00:46:17,710
+
+Köszönjük a figyelmet és jövő héten
+
+2202
+00:46:17,710 --> 00:46:17,720
+Köszönjük a figyelmet és jövő héten
+ 
+
+2203
+00:46:17,720 --> 00:46:19,510
+Köszönjük a figyelmet és jövő héten
+találkozunk. Sziasztok!
+
+2204
+00:46:19,510 --> 00:46:19,520
+találkozunk. Sziasztok!
+ 
+
+2205
+00:46:19,520 --> 00:46:21,530
+találkozunk. Sziasztok!
+>> Sziasztok!
+
+2206
+00:46:21,530 --> 00:46:21,540
+>> Sziasztok!
+ 
+
+2207
+00:46:21,540 --> 00:46:31,150
+>> Sziasztok!
+[Zene]
+
+2208
+00:46:31,150 --> 00:46:31,160
+[Zene]
+ 
+
+2209
+00:46:31,160 --> 00:46:32,710
+[Zene]
+Tehát akkor itt a kis Jade, és akkor így
+
+2210
+00:46:32,710 --> 00:46:32,720
+Tehát akkor itt a kis Jade, és akkor így
+ 
+
+2211
+00:46:32,720 --> 00:46:35,599
+Tehát akkor itt a kis Jade, és akkor így
+mutogatom a kamerába. Ah.
+
