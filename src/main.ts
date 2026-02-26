@@ -11,9 +11,7 @@ export const createApp = ViteSSG(
     routes,
     base: import.meta.env.BASE_URL,
   },
-  ({ app, router }) => {
-    const head = createHead()
-    app.use(head)
+  ({ app, router, head }) => {
     if (!import.meta.env.SSR) {
       // Dynamically import Bootstrap JS after hydration
       import('bootstrap').then((bootstrap) => {

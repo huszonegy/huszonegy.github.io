@@ -26,6 +26,7 @@ export default defineConfig({
     },
   },
   ssgOptions: {
+    dirStyle: 'nested',
     includedRoutes(paths: any, _routes: any) {
       const staticPaths = paths;
       const podcastPaths = podcasts.map(p => `/podcast/${slugify(p.name)}`); //
