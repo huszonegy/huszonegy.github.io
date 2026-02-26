@@ -1,9 +1,7 @@
 import { ViteSSG } from 'vite-ssg'
 import App from './App.vue'
 import { routes } from './router'
-
-// Bootstrap stuff:
-// Import our custom CSS
+import 'bootstrap-icons/font/bootstrap-icons.css'
 import './scss/styles.scss'
 
 export const createApp = ViteSSG(

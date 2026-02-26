@@ -1,9 +1,8 @@
 <script setup lang="ts">
-import { get_pods } from '../data/podcasts'
+import { get_pods, slugify } from '../data/podcasts'
 
-// show the last N elements, 0 means all
 defineProps<{
-    max_count: number
+  max_count: number
 }>()
 </script>
 
@@ -13,12 +12,14 @@ defineProps<{
             <div v-for="pod in get_pods(max_count)" class="card mx-2 my-2" style="width: 20rem;">
                 <div class="card-body">
                     <h4 class="my-3">
-                        <a :href="pod.yt" target="_blank" class="link">
+                        <router-link :to="'/podcast/' + slugify(pod.name)" class="link">
                             <img :src="pod.img" :alt="pod.name" :title="pod.name" />
-                        </a>
+                        </router-link>
                     </h4>
                     <h5 class="top">
-                        {{ pod.name }}
+                        <router-link :to="'/podcast/' + slugify(pod.name)">
+                            {{ pod.name }}
+                        </router-link>
                     </h5>
                     <p class="small my-3 grey">
                         {{ pod.date }}&nbsp;<span class="dark">|</span>&nbsp;{{ pod.id }}<span v-for="member in pod.members">&nbsp;<span class="dark">|</span>&nbsp;{{ member }}</span>

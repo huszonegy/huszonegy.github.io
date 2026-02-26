@@ -1,9 +1,9 @@
 import { fileURLToPath, URL } from 'node:url'
-
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
+// JAVÍTÁS 1: Vedd le a .ts kiterjesztést az import végéről!
+import { podcasts, slugify } from './src/data/podcasts'
 
-// https://vitejs.dev/config/
 export default defineConfig({
   base: '/',
   plugins: [
@@ -15,17 +15,22 @@ export default defineConfig({
     }
   },
   ssr: {
-    // Externalize bootstrap for SSG build (it uses browser APIs)
     noExternal: ['bootstrap'],
   },
   css: {
     preprocessorOptions: {
       scss: {
-        // Elnémítja a külső könyvtárakból (Bootstrap) érkező figyelmeztetéseket
         quietDeps: true,
-        // Kifejezetten letiltja az új Sass verzió "nyűgjeit" a build során
         silenceDeprecations: ['import', 'global-builtin', 'color-functions', 'mixed-decls'],
       },
     },
   },
-})
+  // JAVÍTÁS 2: Típusok (any) hozzáadása és az el nem használt 'routes' elé alulvonás (_)
+  ssgOptions: {
+    includedRoutes(paths: any, _routes: any) {
+      const staticPaths = paths;
+      const podcastPaths = podcasts.map(p => `/podcast/${slugify(p.name)}`);
+      return [...staticPaths, ...podcastPaths];
+    }
+  }
+} as any) // JAVÍTÁS 3: Az 'as any' megoldja az ssgOptions ismeretlen tulajdonság hibáját

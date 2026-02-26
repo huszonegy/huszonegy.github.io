@@ -68,6 +68,12 @@ export const routes: RouteRecordRaw[] = [
     }
   },
   {
+    path: '/podcast/:slug',
+    name: 'podcast-detail',
+    component: () => import('../views/PodDetailView.vue'),
+    props: true
+  },
+  {
     path: '/konyv',
     name: 'books',
     component: () => import('../views/BooksView.vue'),

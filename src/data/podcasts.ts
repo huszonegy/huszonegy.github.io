@@ -1013,23 +1013,39 @@ export const podcasts = [
     }
 ]
 
-// Get the podcast items, sorted by date with latest first, optionally only the latest N
+// Segédfüggvény az URL-barát név (slug) generálásához
+export const slugify = (text: string) => {
+    return text
+        .toString()
+        .toLowerCase()
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '') // Ékezetek eltávolítása
+        .replace(/%/g, ' szazalek')    // Speciális karakterek kezelése
+        .trim()
+        .replace(/\s+/g, '-')          // Szóközök -> kötőjel
+        .replace(/[^\w-]+/g, '')       // Egyéb jelek törlése
+        .replace(/--+/g, '-');         // Dupla kötőjelek javítása
+}
+
+// Egy konkrét epizód lekérése slug alapján
+export function get_pod_by_slug(slug: string) {
+    return podcasts.find(p => slugify(p.name) === slug);
+}
+
+// Frissített get_pods, ami már tartalmazza a slugokat
 export function get_pods(max_count: number) {
-    // 1. Másolat készítése és rendezés az eredeti tömb megőrzésével
-    const sorted = [...podcasts].sort((n1, n2) => {
+    const enriched = podcasts.map(p => ({
+        ...p,
+        slug: slugify(p.name)
+    }));
+
+    const sorted = enriched.sort((n1, n2) => {
         const d1 = Date.parse(n1.date);
         const d2 = Date.parse(n2.date);
-        // Csökkenő sorrend (legfrissebb elöl)
         return (d2 || 0) - (d1 || 0);
     });
 
     const n = sorted.length;
-    
-    // 2. Ha 0 vagy negatív, adjuk vissza a teljes listát
-    if (max_count <= 0 || max_count >= n) {
-        return sorted;
-    }
-
-    // 3. .slice() használata a .splice() helyett, hogy ne töröljünk adatot
+    if (max_count <= 0 || max_count >= n) return sorted;
     return sorted.slice(0, max_count);
 }
