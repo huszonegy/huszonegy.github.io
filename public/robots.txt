@@ -1,16 +1,15 @@
-# robots.txt a huszonegy.world számára
+# "If you don't believe me or don't get it, I don't have time to try to convince you, sorry." - Satoshi Nakamoto
+# Vires in Numeris. 
+# -------------------------------------------------------------------------
+# robots.txt for huszonegy.world
 
-# Minden keresőmotor indexelje az oldalt
 User-agent: *
 Allow: /
 
-# Sitemap helye (fontos a SEO-hoz!)
+# Az automatikusan generált térkép, 110+ bejárattal a nyúl üregébe
 Sitemap: https://huszonegy.world/sitemap.xml
 
-# Opcionális: Ha vannak olyan mappák/fájlok, amiket NEM akarsz indexelni:
-# Disallow: /admin/
-# Disallow: /temp/
+# Adatfájlok kizárása az indexelésből
 Disallow: /*.json$
 
-# Gyakoriság beállítása (opcionális)
-# Crawl-delay: 10
+# Don't trust, verify.

@@ -1,8 +1,8 @@
 import { fileURLToPath, URL } from 'node:url'
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
-// JAVÍTÁS 1: Vedd le a .ts kiterjesztést az import végéről!
 import { podcasts, slugify } from './src/data/podcasts'
+import generateSitemap from 'vite-ssg-sitemap'
 
 export default defineConfig({
   base: '/',
@@ -25,12 +25,19 @@ export default defineConfig({
       },
     },
   },
-  // JAVÍTÁS 2: Típusok (any) hozzáadása és az el nem használt 'routes' elé alulvonás (_)
   ssgOptions: {
     includedRoutes(paths: any, _routes: any) {
       const staticPaths = paths;
-      const podcastPaths = podcasts.map(p => `/podcast/${slugify(p.name)}`);
+      const podcastPaths = podcasts.map(p => `/podcast/${slugify(p.name)}`); //
       return [...staticPaths, ...podcastPaths];
+    },
+    // Ez a rész fogja automatikusan elkészíteni a sitemap.xml-t
+    onFinished() {
+      generateSitemap({
+        hostname: 'https://huszonegy.world',
+        // Opcionális: kizárhatsz oldalakat, ha szükséges
+        exclude: ['/404'] 
+      })
     }
   }
-} as any) // JAVÍTÁS 3: Az 'as any' megoldja az ssgOptions ismeretlen tulajdonság hibáját
+} as any)
