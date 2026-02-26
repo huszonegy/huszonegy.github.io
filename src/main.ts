@@ -1,4 +1,5 @@
 import { ViteSSG } from 'vite-ssg'
+import { createHead } from '@vueuse/head'
 import App from './App.vue'
 import { routes } from './router'
 import 'bootstrap-icons/font/bootstrap-icons.css'
@@ -10,8 +11,10 @@ export const createApp = ViteSSG(
     routes,
     base: import.meta.env.BASE_URL,
   },
-  ({ app, router, isClient }) => {
-    if (isClient) {
+  ({ app, router }) => {
+    const head = createHead()
+    app.use(head)
+    if (!import.meta.env.SSR) {
       // Dynamically import Bootstrap JS after hydration
       import('bootstrap').then((bootstrap) => {
         const { Collapse } = bootstrap

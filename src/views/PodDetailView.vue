@@ -1,32 +1,46 @@
 <script setup lang="ts">
 import { useRoute } from 'vue-router';
-import { get_pod_by_slug } from '../data/podcasts'; //
-import { watchEffect, computed } from 'vue';
+import { get_pod_by_slug } from '../data/podcasts';
+import { useHead } from '@vueuse/head';
+import { computed } from 'vue';
 
 const route = useRoute();
-const pod = get_pod_by_slug(route.params.slug as string); //
+const pod = get_pod_by_slug(route.params.slug as string);
 
-// A témák szövegének szétdarabolása listává
 const topicList = computed(() => {
-  return pod?.topic ? pod.topic.split(' - ') : []; //
+  return pod?.topic ? pod.topic.split(' - ') : [];
 });
 
-watchEffect(() => {
-  if (pod && typeof document !== 'undefined') {
-    // 1. Böngésző fül címe
-    document.title = `${pod.id}: ${pod.name} | HUSZONEGY Bitcoin podcast`; //
-    
-    // 2. Meta description frissítése
-    const metaDescription = document.querySelector('meta[name="description"]');
-    if (metaDescription) {
-      // Vegyük a téma elejét, és vágjuk le 160 karakternél
-      const descriptionText = pod.topic.length > 160 
-        ? pod.topic.substring(0, 157) + '...' 
-        : pod.topic; //
-      
-      metaDescription.setAttribute('content', descriptionText); //
+// Kiszámoljuk a leírást (SEO barát hosszúság)
+const seoDescription = computed(() => {
+  if (!pod) return '';
+  return pod.topic.length > 160 
+    ? pod.topic.substring(0, 157) + '...' 
+    : pod.topic;
+});
+
+// Ez a függvény mondja meg az SSG-nek, hogy mi kerüljön a HTML-be
+useHead({
+  title: computed(() => pod ? `${pod.id}: ${pod.name} | HUSZONEGY Bitcoin podcast` : 'HUSZONEGY Podcast'),
+  meta: [
+    {
+      name: 'description',
+      content: seoDescription
+    },
+    // Opcionális: Közösségi média (Open Graph) cím és leírás
+    {
+      property: 'og:title',
+      content: computed(() => pod ? pod.name : '')
+    },
+    {
+      property: 'og:description',
+      content: seoDescription
+    },
+    {
+      property: 'og:image',
+      content: computed(() => pod ? `https://huszonegy.world${pod.img}` : '')
     }
-  }
+  ]
 });
 </script>
 
