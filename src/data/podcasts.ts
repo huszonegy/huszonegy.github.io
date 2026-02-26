@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "Bitcoin drámák 2026-ban: mi az a BIP-110 és BIP-360?",
+        id: "E95",
+        img: "/pics/e95.jpg",
+        date: "2026.02.26.",
+        members: ["Anti", "Tamás", "Árpi"],
+        topic: "Medvepiaci túlélőkalauz - TBSZ stratégia - Likvidációs veszélyek és a letét növelése - Mi vár ránk 2026-ban? - BIP-110 dráma: spam-szűrés, hálózati cenzúra - BIP-360: kvantum-számítástechnikára készülés - Reformtörekvések a német politikában - Validátor mizéria follow up",
+        yt: "https://youtu.be/FttsWvmTlDY",
+        fountain: "https://fountain.fm/episode/ZEqvw7X4C7sqTBWAdIBP"
+    },
+    {
         name: "Hollandiában megszavazták: 36% adó a bitcoinra, eladás nélkül",
         id: "E94",
         img: "/pics/e94.jpg",
