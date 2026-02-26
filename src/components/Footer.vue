@@ -1,3 +1,7 @@
+<script setup lang="ts">
+  const currentYear = new Date().getFullYear();
+</script>
+
 <template>
     <div name="footer" class="footer container-flex justify-content-center" style="background-color: var(--bs-body-bg);">
         <div class="row px-1 py-2 justify-content-center center">
@@ -7,7 +11,7 @@
             </div>
             <div class="col col-auto py-3">
                 <div class="small text-end text-secondary" style="padding-top: 3px;">
-                    ©️ 2024-2025 HUSZONEGY Minden jog fenntartva
+                    ©️ 2024–{{ currentYear }} HUSZONEGY. Minden jog fenntartva.
                 </div>
             </div>
             <div class="col col-auto py-3">
@@ -19,3 +23,4 @@
         </div>
     </div>
 </template>
+
