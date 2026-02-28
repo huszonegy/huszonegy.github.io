@@ -5,6 +5,13 @@
 
 export const news = [
     {
+        summary: "Podcast aloldalak átiratokkal",
+        date: "2026.02.28.",
+        html: "Legfrissebb adásunkban a medvepiaci túlélés praktikáiról, a BIP-110 körüli spam-szűrési és cenzúra vitáról, a kvantum-számítástechnikára felkészülő BIP-360 javaslatról, német politikai reformtörekvésekről és a validátor mizéria folytatásáról beszélgettünk.<br/><br/>Egyúttal megújult a <a href='/podcast'>podcast</a> oldalunk: mostantól minden epizód saját aloldallal rendelkezik, ahol a beszélgetés átirata is olvasható. Ez lehetővé teszi a tartalomban való könnyebb keresést. Az átiratok egyelőre többnyire nyers formátumban érhetők el, a finomítás tervben van.",
+        img: "/pics/e95.jpg",
+        link: "https://youtu.be/FttsWvmTlDY"
+    },
+    {
         summary: "Bitcoin meetup - február 26. - Perspective Bar",
         date: "2026.01.28.",
         html: "Újabb bitcoin meetup bp belvárosában februárban. Ezúttal egy előadás lesz műsoron.<br/><br/>Időpont: <strong>2026. február 26. </strong> (csütörtök), 18:00 <br/>Helyszín: <strong><a href='https://perspective-bar.hu/' target='_blank'>Perspective Bar</a> 1072 Bp. Klauzál u. 26-28.</strong> <br/><br/>Tervezett Program: <br/>18:00 Érkezés<br/>18:15 Köszöntő, a HUSZONEGY csoport rövid bemutatása - Árpi<br/>18:30 Bemutatkozó kör – akinek van kedve<br/>19:00 <strong>Ginger tárca és coinjoin bemutató</strong> – Molnár Dávid (Ginger Wallet)<br/>20:00 Kötetlen beszélgetés<br/><br/>Regisztráció:<br/>A szervezés megkönnyítése érdekében kérünk, regisztrálj az űrlap kitöltésével: <a href='https://bitcoinmentor.hu/meetup/'>bitcoinmentor.hu/meetup</a> <br/><br/>A program változhat! Bővebb információ a Telegram csoportban. A bitcoinra koncentrálunk, egyéb kriptókat ignoráljuk.<br/><br/>A részvétel ingyenes, a helyszínt a fogyasztásunkkal támogatjuk.",
