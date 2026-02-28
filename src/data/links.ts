@@ -9,15 +9,22 @@ export const links = [
         category: "Partnereink",
         items: [
             {
+                name: "Bitcoin Mentor",
+                text: "Személyre szabott, etikus Bitcoin tanácsadás és mentoring magyarul – a HUSZONEGY podcast csapatától. Konzultáció, havi mentoring, workshopok és műszaki támogatás kezdőknek és haladóknak.<br />A <a href='https://bitcoinmentor.hu/bitcoin-blog/' target='_blank'>Bitcoin blog</a> rovatban rendszeresen megjelenő fordítások, esszék és saját írások segítenek elmélyíteni a Bitcoin megértését.",
+                afftype: "",
+                affdetail: "",
+                url: "https://bitcoinmentor.hu"
+            },
+            {
                 name: "Hotel AURORA****",
-                text: "Bitcoint elfogadó és tartalékoló, wellness szálloda Miskolctapolcán.<br /><a href='https://bitcoinmiskolc.hu' target='_blank'>Bitcoin Miskolc konferencia</a> 2025. október 17-19.",
+                text: "Bitcoint elfogadó és tartalékoló, wellness szálloda Miskolctapolcán.",
                 afftype: "",
                 affdetail: "",
                 url: "https://hotelaurora.hu"
             },
             {
                 name: "Hotel ATLANTIS****",
-                text: "Bitcoint elfogadó és tartalékoló, családi wellness szálloda Hajdúszoboszlón.",
+                text: "Bitcoint elfogadó és tartalékoló, családi wellness szálloda Hajdúszoboszlón.<br /><a href='https://bitcoinmiskolc.hu' target='_blank'>Bitcoin Miskolc konferencia</a> 2026. április 17-19.",
                 afftype: "",
                 affdetail: "",
                 url: "https://hotelatlantis.hu"
