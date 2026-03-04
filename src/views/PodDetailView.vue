@@ -3,11 +3,21 @@ import { useRoute } from 'vue-router';
 import { get_pod_by_slug } from '../data/podcasts';
 import { useHead } from '@vueuse/head';
 import { ref, onMounted, computed } from 'vue';
+import { marked } from 'marked';
+
+marked.use({
+  renderer: {
+    link({ href, text }) {
+      return `<a href="${href}" target="_blank" rel="noopener noreferrer">${text}</a>`;
+    }
+  }
+});
 
 const route = useRoute();
 const pod = get_pod_by_slug(route.params.slug as string);
 const transcriptText = ref('');
 const isLoading = ref(true);
+const isMarkdown = ref(false);
 
 const topicList = computed(() => {
   if (!pod || !pod.topic) return [];
@@ -17,14 +27,23 @@ const topicList = computed(() => {
 const fetchTranscript = async () => {
   if (pod) {
     try {
-      // YouTube ID kinyerése és a fájl betöltése
       const videoId = pod.yt.split('v=')[1] || pod.yt.split('/').pop();
-      const response = await fetch(`/transcripts_clean/ep${pod.id}_${videoId}.txt`);
+      const basePath = `/transcripts_clean/ep${pod.id}_${videoId}`;
       
+      // Try .md first, fallback to .txt
+      let response = await fetch(`${basePath}.md`);
       if (response.ok) {
-        transcriptText.value = await response.text();
+        const mdText = await response.text();
+        transcriptText.value = await marked(mdText);
+        isMarkdown.value = true;
       } else {
-        transcriptText.value = "Az adás átirata hamarosan elérhető lesz.";
+        response = await fetch(`${basePath}.txt`);
+        if (response.ok) {
+          transcriptText.value = await response.text();
+          isMarkdown.value = false;
+        } else {
+          transcriptText.value = "Az adás átirata hamarosan elérhető lesz.";
+        }
       }
     } catch (e) {
       transcriptText.value = "Hiba történt a tartalom betöltésekor.";
@@ -131,6 +150,8 @@ useHead({
               <div class="spinner-border text-warning" role="status"></div>
               <p class="mt-2 text-muted">Szöveg betöltése...</p>
             </div>
+
+            <div v-else-if="isMarkdown" class="transcript-content transcript-markdown" v-html="transcriptText"></div>
 
             <div v-else class="transcript-content">
               {{ transcriptText }}
@@ -295,6 +316,27 @@ useHead({
   color: #f0f0f0;
   text-align: justify;
   /* Nincs max-height, így hosszan fut lefelé az oldalon */
+}
+
+.transcript-markdown {
+  white-space: normal;
+}
+
+.transcript-markdown p {
+  margin-bottom: 1em;
+}
+
+.transcript-markdown a {
+  color: #f7931a;
+  text-decoration: underline;
+}
+
+.transcript-markdown a:hover {
+  color: #ffc107;
+}
+
+.transcript-markdown strong {
+  color: #ffffff;
 }
 
 /* Finom hangsúly a bekezdéseknek, ha az AI már végzett */
