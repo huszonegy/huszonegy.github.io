@@ -6,9 +6,8 @@ import { podcasts, slugify } from './src/data/podcasts'
 import generateSitemap from 'vite-ssg-sitemap'
 
 /**
- * Returns the date of the most recent git commit that touched any of the given
- * file paths.  Falls back to the current date if git is unavailable or the
- * files have never been committed.
+ * Visszaadja a megadott fájlok legutolsó git commit dátumát.
+ * Ha a git nem elérhető vagy a fájl nincs commitolva, a mai dátumot adja vissza.
  */
 function gitLastmod(...files: string[]): Date {
   let latest = new Date(0)
@@ -20,15 +19,15 @@ function gitLastmod(...files: string[]): Date {
         if (!isNaN(d.getTime()) && d > latest) latest = d
       }
     } catch {
-      // git not available or file not tracked – skip
+      // git nem elérhető vagy a fájl nincs követve – kihagyjuk
     }
   }
   return latest > new Date(0) ? latest : new Date()
 }
 
-// Route → source file(s) that determine freshness
-// For data-driven pages we include both the view component and the data file
-// so that adding new content updates the sitemap date even if the view hasn't changed.
+// Útvonal → forrásfájl(ok), amik meghatározzák a frissességet.
+// Adatvezérelt oldalaknál a nézet és az adatfájl is szerepel,
+// így új tartalom hozzáadása is frissíti a sitemap dátumot.
 const routeSourceFiles: Record<string, string[]> = {
   '/':            ['src/views/HomeView.vue'],
   '/cikk':        ['src/views/ArticlesView.vue',  'src/data/articles.ts'],
@@ -45,7 +44,7 @@ const routeSourceFiles: Record<string, string[]> = {
   '/pizzaday':    ['src/views/PizzaView.vue'],
 }
 
-// Compute lastmod dates once at build time
+// Lastmod dátumok kiszámítása egyszer, build időben
 function buildLastmodMap(podcastPaths: string[]): Record<string, Date> {
   const map: Record<string, Date> = {}
 
@@ -53,7 +52,7 @@ function buildLastmodMap(podcastPaths: string[]): Record<string, Date> {
     map[route] = gitLastmod(...files)
   }
 
-  // All individual podcast pages share the same source: PodDetailView + podcasts data
+  // Az egyedi podcast oldalak közös forrása: PodDetailView + podcasts adatfájl
   const podLastmod = gitLastmod('src/views/PodDetailView.vue', 'src/data/podcasts.ts')
   for (const slug of podcastPaths) {
     map[slug] = podLastmod
@@ -98,8 +97,8 @@ export default defineConfig({
       generateSitemap({
         hostname: 'https://huszonegy.world',
         exclude: ['/404'],
-        // Use git-based per-route lastmod dates so Google sees accurate freshness signals.
-        // '*' is the fallback for any route not explicitly listed above.
+        // Git-alapú lastmod dátumok útvonalonként, hogy a Google pontos frissességi jelzést kapjon.
+        // A '*' az alapértelmezett a fent nem szereplő útvonalakhoz.
         lastmod: { ...lastmodMap, '*': new Date() },
       })
     }
