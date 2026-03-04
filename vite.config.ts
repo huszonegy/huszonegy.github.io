@@ -137,7 +137,7 @@ export default defineConfig({
 
       generateSitemap({
         hostname: 'https://huszonegy.world',
-        exclude: ['/404'],
+        exclude: ['/404', '/books/sziller.eu/_BitcoinrolAlaposan'],
         // Útvonal-szintű lastmod dátumok — csak a ténylegesen módosított oldalak
         // kapnak friss dátumot. Nem leképezett útvonalak lastmod nélkül maradnak.
         lastmod: lastmodMap,
