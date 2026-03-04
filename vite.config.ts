@@ -1,15 +1,16 @@
 import { fileURLToPath, URL } from 'node:url'
 import { execSync } from 'node:child_process'
+import { existsSync } from 'node:fs'
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import { podcasts, slugify } from './src/data/podcasts'
 import generateSitemap from 'vite-ssg-sitemap'
 
 /**
- * Visszaadja a megadott fájlok legutolsó git commit dátumát.
- * Ha a git nem elérhető vagy a fájl nincs commitolva, a mai dátumot adja vissza.
+ * A megadott fájlok közül a legfrissebb git commit dátumát adja vissza.
+ * Ha a git nem elérhető vagy a fájlok nincsenek verziókezelve, null-t ad.
  */
-function gitLastmod(...files: string[]): Date {
+function gitLastmod(...files: string[]): Date | null {
   let latest = new Date(0)
   for (const file of files) {
     try {
@@ -19,14 +20,31 @@ function gitLastmod(...files: string[]): Date {
         if (!isNaN(d.getTime()) && d > latest) latest = d
       }
     } catch {
-      // git nem elérhető vagy a fájl nincs követve – kihagyjuk
+      // git nem elérhető vagy a fájl nincs verziókezelve
     }
   }
-  return latest > new Date(0) ? latest : new Date()
+  return latest > new Date(0) ? latest : null
 }
 
-// Útvonal → forrásfájl(ok), amik meghatározzák a frissességet.
-// Adatvezérelt oldalaknál a nézet és az adatfájl is szerepel,
+/**
+ * Magyar dátum formátumot ("2026.02.26.") Date objektummá alakít.
+ */
+function parseHungarianDate(dateStr: string): Date {
+  const cleaned = dateStr.replace(/\.$/, '').replace(/\./g, '-')
+  const d = new Date(cleaned)
+  return isNaN(d.getTime()) ? new Date(0) : d
+}
+
+/**
+ * YouTube URL-ből kinyeri a videó azonosítóját.
+ */
+function extractYoutubeId(url: string): string | null {
+  const match = url.match(/youtu\.be\/([^?]+)/) || url.match(/[?&]v=([^&]+)/)
+  return match ? match[1] : null
+}
+
+// Útvonal → forrásfájl(ok) amik meghatározzák a frissességet.
+// Adatvezérelt oldalaknál a nézet komponens és az adatfájl is szerepel,
 // így új tartalom hozzáadása is frissíti a sitemap dátumot.
 const routeSourceFiles: Record<string, string[]> = {
   '/':            ['src/views/HomeView.vue'],
@@ -44,18 +62,37 @@ const routeSourceFiles: Record<string, string[]> = {
   '/pizzaday':    ['src/views/PizzaView.vue'],
 }
 
-// Lastmod dátumok kiszámítása egyszer, build időben
-function buildLastmodMap(podcastPaths: string[]): Record<string, Date> {
+// Sitemap dátumok kiszámítása build időben
+function buildLastmodMap(): Record<string, Date> {
   const map: Record<string, Date> = {}
 
+  // Statikus útvonalak
   for (const [route, files] of Object.entries(routeSourceFiles)) {
-    map[route] = gitLastmod(...files)
+    const d = gitLastmod(...files)
+    if (d) map[route] = d
   }
 
-  // Az egyedi podcast oldalak közös forrása: PodDetailView + podcasts adatfájl
-  const podLastmod = gitLastmod('src/views/PodDetailView.vue', 'src/data/podcasts.ts')
-  for (const slug of podcastPaths) {
-    map[slug] = podLastmod
+  // Egyedi podcast oldalak — minden epizódnak saját dátuma van
+  for (const p of podcasts) {
+    const slug = `/podcast/${slugify(p.name)}`
+
+    // Alap: a podcast megjelenési dátuma
+    const publishDate = parseHungarianDate(p.date)
+
+    // Ha van átirat fájl és azt módosították a megjelenés óta, azt vesszük
+    let bestDate = publishDate
+    const ytId = p.yt ? extractYoutubeId(p.yt) : null
+    if (ytId) {
+      const mdPath = `public/transcripts_clean/ep${p.id}_${ytId}.md`
+      const txtPath = `public/transcripts_clean/ep${p.id}_${ytId}.txt`
+      const transcriptPath = existsSync(mdPath) ? mdPath : existsSync(txtPath) ? txtPath : null
+      if (transcriptPath) {
+        const tDate = gitLastmod(transcriptPath)
+        if (tDate && tDate > bestDate) bestDate = tDate
+      }
+    }
+
+    map[slug] = bestDate
   }
 
   return map
@@ -89,17 +126,16 @@ export default defineConfig({
       const podcastPaths = podcasts.map(p => `/podcast/${slugify(p.name)}`);
       return [...staticPaths, ...podcastPaths];
     },
-    // Ez a rész fogja automatikusan elkészíteni a sitemap.xml-t
+    // Sitemap generálás build végén
     onFinished() {
-      const podcastPaths = podcasts.map(p => `/podcast/${slugify(p.name)}`)
-      const lastmodMap = buildLastmodMap(podcastPaths)
+      const lastmodMap = buildLastmodMap()
 
       generateSitemap({
         hostname: 'https://huszonegy.world',
         exclude: ['/404'],
-        // Git-alapú lastmod dátumok útvonalonként, hogy a Google pontos frissességi jelzést kapjon.
-        // A '*' az alapértelmezett a fent nem szereplő útvonalakhoz.
-        lastmod: { ...lastmodMap, '*': new Date() },
+        // Útvonal-szintű lastmod dátumok — csak a ténylegesen módosított oldalak
+        // kapnak friss dátumot. Nem leképezett útvonalak lastmod nélkül maradnak.
+        lastmod: lastmodMap,
       })
     }
   }
