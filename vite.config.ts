@@ -122,7 +122,12 @@ export default defineConfig({
   ssgOptions: {
     dirStyle: 'nested',
     includedRoutes(paths: any, _routes: any) {
-      const staticPaths = paths;
+      // Kiszűrjük a paraméterezett útvonalakat (pl. :slug, :pathMatch),
+      // a redirecteket (pl. /support), és a statikus fájl útvonalakat (pl. /books/)
+      const kizart = ['/support', '/books']
+      const staticPaths = (paths as string[]).filter(p =>
+        !p.includes(':') && !kizart.some(k => p === k || p.startsWith(k + '/'))
+      )
       const podcastPaths = podcasts.map(p => `/podcast/${slugify(p.name)}`);
       return [...staticPaths, ...podcastPaths];
     },
