@@ -242,7 +242,7 @@ De ezért is nagyon jók szerintem a magyar nyelvű tartalmak, cikkek, könyvek 
 Minden érvényes blokkért járt 50 bitcoin.
 És pont pont ez a felezési idő garantálja a 21 milliós számot is, ami 20999.
 Tehát, hogy addig feleződik a Bitcoin, amíg a legkisebb egység már nem tovább felezhető.
-Ez 214050 körül fog bekövetkezni, merthogy aztán az 50 Bitcoin után jött a 25, a 12 és fél, és most tartunk 3,125-nél, ha jól tudomig és ezáltal természetes.
+Ez 2140-50 körül fog bekövetkezni, merthogy aztán az 50 Bitcoin után jött a 25, a 12 és fél, és most tartunk 3,125-nél, ha jól tudomig és ezáltal természetes.
 Ezért van az is, hogy a Bitcoin több mint 19 millió, talán már a 20 milliót is elértük, nem vagyok benne biztos.
 Ha jól tudom, most hónapon belül leszünk meg a a körülbelül egy hónapon belül, de de lehet, hogy nem.
 Majd ezt vissza keresem.
@@ -258,7 +258,7 @@ Ha megengeded, én benyomom most ezt a Clark Moody Bitcoin dashboardot.
 Én ezt nagyon szeretem.
 És akkor egy pár metrikáról beszélhetünk, hogyha van kedved, mert ugye itt konkrétan látszanak ezek a dolgok.
 Hú, nekem ez nagyon kicsi, úgyhogy olvass kérlek a pontokat, amiről amiről fönt van az ára.
-Ez a bitcoin.clarkmoody.com dashboard.
+Ez a [bitcoin.clarkmoody.com dashboard](https://bitcoin.clarkmoody.com/dashboard/).
 Ez gyakorlati ilyen alapmetrikái, ilyen közgazdasági mérőszámai meg egyéb indikátorai a Bitcoinnak.
 Itt a supply, ugye a teljes készlet az a kibányászott pénzügyi készlet, money supply az 19004,28 bitcoin.
 Ebben a pillanatban nyilván amire adásban leszünk, ez majd több lesz, mindenki nézegesse.
@@ -488,11 +488,11 @@ Hát igen.
 És hát én nem tudom, én nem vagyok annyira feledékeny, de elefánt se.
 Nyilván mindenkiben benne van az, hogy elfelejt egy covidot, egy 2008-as válságot, egy.com-ot, egy akármit. De azért ha megnézzük, mindig egy jó válság, az sosem egy kárba, és és abból az állam mindig győztesen jön ki valamiféle regulációval, vagy vagy törvény csomaggal. millió egy példa volt erre, úgyhogy én úgy gondolom, hogy ezeket azért alkotják meg, hogy hogy ilyenek megszülethessenek.
 Közeleg a február 26-i budapesti Perspective Baros Meetup, ahol a személyes ismerkedés mellett egy gyakorlatias előadással készülünk a Ginger Walletről és a CoinJoin-ról.
-Kérjük, hogy a részvételi szándékot jelezzétek a bitcoinmentor.hu/meetup oldalon.
+Kérjük, hogy a részvételi szándékot jelezzétek a [bitcoinmentor.hu/meetup](https://bitcoinmentor.hu/meetup) oldalon.
 A Telegram csoportunkban éppen szerveződik a következő győri meetup.
-Böngészétek a HUSZONEGY honlapját a huszonegy.world címen, ahol rengeteg ingyenes oktatóanyag elérhető.
+Böngészétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető.
 Azok számára pedig, akik a Bitcoin tanulási útjukon személyes támogatást igényelnek, szeretettel ajánljuk a Bitcoin mentor szolgáltatásait is.
-A bitcoinmentor.hu honlapon részletesen olvashatsz a Bitcoin tanácsadásunkról.
+A [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon részletesen olvashatsz a Bitcoin tanácsadásunkról.
 A Bitcoin blogban pedig egyre több értékes bejegyzést találsz.
 Iratkozz fel a HUSZONEGY podcast YouTube csatornájára, valamint a Rumble csatornánkra is.
 Kövesd a HUSZONEGY-et a Facebookon és a Nosteren.
