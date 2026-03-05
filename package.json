@@ -19,7 +19,7 @@
     "@vueuse/head": "^2.0.0",
     "bootstrap": "^5.3.2",
     "bootstrap-icons": "^1.13.1",
-    "marked": "^17.0.3",
+    "marked": "^17.0.4",
     "vite-ssg": "^28.3.0",
     "vue": "^3.3.11",
     "vue-router": "^4.2.5"
@@ -27,6 +27,7 @@
   "devDependencies": {
     "@tsconfig/node20": "^20.1.4",
     "@types/bootstrap": "^5.2.10",
+    "@types/marked": "^5.0.2",
     "@types/node": "^20.17.6",
     "@vitejs/plugin-vue": "^6.0.4",
     "@vue/tsconfig": "^0.5.0",

@@ -2,6 +2,16 @@
 
 export const podcasts = [
     {
+        name: "Így veszünk bitcoint személyes adatok nélkül: RoboSats",
+        id: "E96",
+        img: "/pics/e96.jpg",
+        date: "2026.03.05.",
+        members: ["Anti", "Openoms", "Árpi"],
+        topic: "Bankárok nélkül is megy - Tor, Lightning tárca és kész - Miért drágább itt a bitcoin? - Két robot kereskedik egymással élőben - Így nem ver át senki: biztonsági letét - 5000 forintos trade 1 perc alatt - Miért a Lightning a tökéletes erre? - OpenClaw: AI ügynök a közösségünkben - Elveszik-e a botok a munkánkat?",
+        yt: "https://www.youtube.com/watch?v=mwwyU0wjHeY",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
         name: "Bitcoin drámák 2026-ban: mi az a BIP-110 és BIP-360?",
         id: "E95",
         img: "/pics/e95.jpg",
