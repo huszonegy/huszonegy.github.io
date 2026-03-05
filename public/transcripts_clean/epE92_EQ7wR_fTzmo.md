@@ -72,7 +72,9 @@ Akkor olvasol a tárcákról, akkor meglátod, hogy a Blink tárcával hány mil
 
 – Ühüm. Még az eleje.
 
-– És így van, még az elején vagyunk. És akkor elkezdtem összehasonlítani őket, de nagyon. És akkor elkezdtem írogatni. Meg tátszott az is, hogy mivel ez nyílt forráskódú, ez azt jelenti, hogy így igazából hozzá lehet szólni, meg tényleg ezek a fejlesztő kíváncsiak is arra, hogy te mit gondolsz az ő munkájukról. Nem csak az, hogy csinálják és így szarnak bele, és bármilyen visszajelzésed van, bármilyen closed kód, abba legtöbbször nem is tudsz igazából hozzászólni, hogy ez miben legyen más. Tehát ez is nagyon szimpatikus. És akkor elkezdtem neki kirolgatni, de tényleg a az öt öt-h legfontosabb platformnak írtam, de nem nagyon reagáltak.
+– És így van, még az elején vagyunk. És akkor elkezdtem összehasonlítani őket, de nagyon. Meg tetszett az is, hogy mivel ez nyílt forráskódú, hozzá lehet szólni, és tényleg ezek a fejlesztők kíváncsiak is arra, hogy te mit gondolsz az ő munkájukról. Nem csak az, hogy csinálják és szarnak bele. Bármilyen closed kódnál legtöbbször nem is tudsz hozzászólni, hogy ez miben legyen más. Tehát ez is nagyon szimpatikus.
+
+És akkor elkezdtem írogatni, de tényleg az öt legfontosabb platformnak írtam, de nem nagyon reagáltak.
 
 – Nem lepődtél meg?
 
@@ -84,7 +86,11 @@ Akkor olvasol a tárcákról, akkor meglátod, hogy a Blink tárcával hány mil
 
 – nem tudom, de az már pejoratív, nem?
 
-– Én sz én én nyugodt a a azt szoktam mondani a a ugye van a kockafejű, az egy kicsit pejoratív. A tesóm szokta rám mindig mondani, hogy oké, hogy zenész vagyok, de hogy ilyen ilyen küti mókus vagyok, hogy így tényleg könnyen és szeretem a techet meg így. Tehát ezek így így otthonosan mozgók, de aki nem ilyen, akkor nem tudom, aki nem ért annyira a kütyükhöz, hogy azoknak is érdekes legyen és használható legyen a Nostr, és persze nyilván a Bitcoin is. Úgyhogy most egy nagyon izgalmas időszak, amikor most konkrétan a a feleségem, hogy így tényleg szerintem egy-két hét, és már tényleg ő is elkezdi használni, mert nem annyira bonyolult, meg nem kell annyira vigyázni a a privát kulcsra, mert egyre ügyesebben meg láthatatlanabbul van megoldva. Szóval, hogy nagyon izgalmas, hogy most így lépnek be. Meg várom, amikor így tényleg most a például Wim Hof-os hidegmerüléseket csinál egy ismerősöm, és most zárták ki a Facebookból, de olyan szinten, hogy így semmit nem tud csinálni, és most jövő héten fel fogom hívni, de inkább telefonon, hogy így most a akárikinek is hívják. Szevasz Feri, figyelj. És akkor most mi van a Facebookkal? Még mindig nem megy. Akkor figyelj, van egy ajánlatom. Igen,
+– Én azt szoktam mondani, ugye van a kockafejű, az egy kicsit pejoratív. A tesóm szokta rám mindig mondani, hogy oké, hogy zenész vagyok, de ilyen kütyümókus vagyok, szeretem a techet. Tehát aki nem ért annyira a kütyükhöz, azoknak is érdekes legyen és használható legyen a Nostr, és persze a Bitcoin is.
+
+Úgyhogy most egy nagyon izgalmas időszak. A feleségem szerintem egy-két hét, és már ő is elkezdi használni, mert nem annyira bonyolult, meg nem kell annyira vigyázni a privát kulcsra, mert egyre ügyesebben van megoldva.
+
+Meg várom, amikor például Wim Hof-os hidegmerüléseket csinál egy ismerősöm, és most zárták ki a Facebookból, olyan szinten, hogy semmit nem tud csinálni. Jövő héten fel fogom hívni telefonon: Szevasz, figyelj. Mi van a Facebookkal? Még mindig nem megy. Akkor figyelj, van egy ajánlatom. Igen,
 
 – hogy így tényleg próbálják ki. Teljesen átlagos felhasználók, akkor hívjuk így.
 
@@ -94,7 +100,9 @@ Akkor olvasol a tárcákról, akkor meglátod, hogy a Blink tárcával hány mil
 
 – digitális rehabil
 
-– elmenni és visszajönni, hogy Ja, hát egy ilyen digit detoxból, csak ez így állandó, ez így konstans, de tényleg nagyon különleges érzés. És érzed ezt a tehát ez a ez a ez a ez a ez a ez ez ez így nincs ott, hogy így belépsz és akkor meg ez a olyan, mint a Super Marióba, hogy így kerülgetni kell a kerülgetni kell ezeket a szörnyeket, miközben keresed, hogy akkor egyébként fontos, hogy így ki hol van, ki milyen eseményre készül, hova mehetnék el kapcsolódni élő emberekkel, de ezt így ki kell így izélni a hirdetéseken keresztül. És ahogy most Anti te is mondtad, hogy még az elején van, tehát nyilván nyilván nagyon sok minden nincs még ott, események, naptár, de lesz. És akkor majd, hogyha egyre inkább ott lesz, az egyre inkább az emberek meglátják, hogy hogy milyen ez, hogy hogy ez a ez a teljesen más felfogás az egész mindenről, ugyanúgy, ahogy a Bitcoin ugye a pénzről, gazdaságról, pénzügyekről adja. A Nostr az pedig a a az online közösségi kapcsolódásról egyesen.
+– elmenni és visszajönni, mint egy digitális detoxból, csak ez állandó, konstans, és tényleg nagyon különleges érzés. Nincs ott az, hogy belépsz és olyan, mint a Super Marióban, hogy kerülgetni kell a szörnyeket, miközben keresed, hogy ki hol van, ki milyen eseményre készül, hova mehetnék el kapcsolódni élő emberekkel — de ezt ki kell szűrni a hirdetéseken keresztül.
+
+És ahogy Anti te is mondtad, hogy még az elején van — nyilván nagyon sok minden nincs még ott, események, naptár, de lesz. És hogyha egyre inkább ott lesz, az emberek meglátják, hogy ez egy teljesen más felfogás az egész mindenről, ugyanúgy, ahogy a Bitcoin a pénzről. A Nostr az pedig az online közösségi kapcsolódásról szól.
 
 – Gondolom neked is egész más érzés ilyenbe csatornázni az energiát, amikor látod, hogy van fogonatja és nem kell egy olyan polip ellen küzdeni, ami aki bármikor megsemmisít egy gombnyomással.
 
