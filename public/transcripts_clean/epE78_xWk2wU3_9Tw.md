@@ -332,9 +332,9 @@ Az tök jó lenne.
 
 – Igen, az mindig jó egy ilyen.
 
-– A [Bitcoin Miskolc](https://bitcoinmiskolc.hu) konferencia programja egyre kiforrottabb, megtekinthető mind a pénteki, szombati és vasárnapi részletes programja a [bitcoinmiskolc.hu](https://bitcoinmiskolc.hu)-n, és ugyan lehet ingyenes jegyeket regisztrálni, akár külön napokra, akár csomagban, akár fizetős jegyeket vásárolni, amiben különböző ellátások is elérhetőek. De ez egy lényeges információ, hogy a konferencián a részvétel alapvetően ingyenes. A konferencia Miskolctapolcán lesz a négycsillagos Hotel & More Aurorában.
+– A [Bitcoin Miskolc](https://bitcoinmiskolc.hu) konferencia programja egyre kiforrottabb, megtekinthető mind a pénteki, szombati és vasárnapi részletes programja a [bitcoinmiskolc.hu](https://bitcoinmiskolc.hu)-n, és ugyan lehet ingyenes jegyeket regisztrálni, akár külön napokra, akár csomagban, akár fizetős jegyeket vásárolni, amiben különböző ellátások is elérhetőek. De ez egy lényeges információ, hogy a konferencián a részvétel alapvetően ingyenes. A konferencia Miskolctapolcán lesz a négycsillagos Hotel Aurorában.
 
-Aki fizetős jegyet vesz szállással együtt, az ebben a szállodában kaphat szobát, és itt tud wellnessezni is, illetve az étkezéseket is itt kapja. A tavaszi konferencia a Hotel & More Atlantisban volt és lesz. Ez Hajdúszoboszlón van, szintén egy négycsillagos wellness szálloda. Mindkét szálloda előszeretettel támogatja hónapok óta a podcastunkat, amit nagyon köszönünk nekik. Még azt érdemes tudni róluk, hogy Bitcoin elfogadó és bitcoint tartalékoló szállodák.
+Aki fizetős jegyet vesz szállással együtt, az ebben a szállodában kaphat szobát, és itt tud wellnessezni is, illetve az étkezéseket is itt kapja. A tavaszi konferencia a Hotel Atlantisban volt és lesz. Ez Hajdúszoboszlón van, szintén egy négycsillagos wellness szálloda. Mindkét szálloda előszeretettel támogatja hónapok óta a podcastunkat, amit nagyon köszönünk nekik. Még azt érdemes tudni róluk, hogy Bitcoin elfogadó és bitcoint tartalékoló szállodák.
 
 Kövessetek minket a Nostr-on, iratkozzatok fel a YouTube csatornánkra, és ne adjátok el a bitcoinotokat! Akkor szerintem megköszönhetjük a figyelmet a nézőknek és egy hét múlva találkozunk. Köszi Dani, hogy itt voltál.
 
