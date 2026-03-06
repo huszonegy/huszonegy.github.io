@@ -14,7 +14,7 @@ Az a terápiás módszer, amivel dolgozom, ezt úgy hívják, hogy Voice Dialogu
 
 Csak, hogy akkor hogyan tanítjuk magunkat meg meg embertársainkat arra, hogy akkor ez ne az egók harcává váljon és összecsapjanak ezek a haragó istenek bennünk, hanem hogyan tudunk együttműködni, úgyhogy valamit létrehozunk a közjóért, a közjó által. És hogy nekem ez is, ezt ezt is jelenti a Bitcoin, egy technológia, ami erre lehetőséget adhat, hogy így a kintben teremtsünk.
 
-– Sziasztok, ez a 21 podcast 90. adása. A mai vendégünk Hajnal. Szervusz Hajnal.
+– Sziasztok, ez a HUSZONEGY Podcast 90. adása. A mai vendégünk Hajnal. Szervusz Hajnal.
 
 – Sziasztok. Szia Árpi.
 
@@ -186,9 +186,9 @@ pontokat akár már meglévő ismerősökkel, akár meg új ismeretségek alapj�
 
 – Ühüm. Ja, értem. Szerintem, mert valamit valami tudat alatt én is próbálok valami ilyesmit csinálni, csak ugye nincs hozzá egy olyan ex eszköztáram, ami ami valószínű, hogy sokkal hatékonyabbá tudja tenni, meg kifinomultabbá a dolgokat, de igen, szerintem mindannyian valamilyen szinten így kifejlesztünk egy valamilyen valamilyen emberi ismeretet, és akkor ugye így a a sok sokféle megnyilvánulása alapján egy beszéd élőnek így megpróbáljuk leszűrni. Igen. Hogy hogy a hogy a szavak mögött aztán azok a gesztusok meg a a akár a mimikája vagy a az mit tudom én milyen restztül is még milyen többlet információkat hordoznak. 10 ezzel még még nagyobb eszköztárral csekkolni ezeket a dolgokat.
 
-– Gigatonnányi magyar nyelvű Bitcoin oktatóanyagot osztunk meg a 21 honlapján. Ezek a huszonegy.world címen található anyagok bárki számára ingyenesen hozzáférhetők. Azok számára pedig, akik személyes támogatást igényelnek, szeretettel ajánljuk a Bitcoin mentor szolgáltatásait. A bitcoinmentor.hu honlapon részletesen olvashatsz a Bitcoin tanácsadásról, a Bitcoin blogban pedig egyre több értékes bejegyzést találsz.
+– Gigatonnányi magyar nyelvű Bitcoin oktatóanyagot osztunk meg a HUSZONEGY honlapján. Ezek a [huszonegy.world](https://huszonegy.world) címen található anyagok bárki számára ingyenesen hozzáférhetők. Azok számára pedig, akik személyes támogatást igényelnek, szeretettel ajánljuk a Bitcoin Mentor szolgáltatásait. A [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon részletesen olvashatsz a Bitcoin tanácsadásról, a Bitcoin blogban pedig egyre több értékes bejegyzést találsz.
 
-Iratkozz fel a 21 podcast YouTube csatornájára, valamint a Rumble csatornánkra is. Kövesd a 21-et a Facebookon és a Nostr-on. Támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és Bitcoin tartalékoló négycsillagos wellness szállodái Hotel Aurora és a Hotellantis. És a Firefish üzeni, hogy ne adjátok el a bitcoinotokat. Nagyon örülök, hogy jöttél. Köszönöm szépen. És hogyha van kedved, akkor meg valamikor folytassuk akár innen vagy kicsit máshonnan, de szerintem érdemes lesz még a jövőbben így beszélgetnünk további ilyesmi dolgokról.
+Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára, valamint a Rumble csatornánkra is. Kövesd a HUSZONEGY-et a Facebookon és a Nostr-on. Támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái, a Hotel Aurora és a Hotel Atlantis. És a Firefish üzeni, hogy ne adjátok el a bitcoinotokat. Nagyon örülök, hogy jöttél. Köszönöm szépen. És hogyha van kedved, akkor meg valamikor folytassuk akár innen vagy kicsit máshonnan, de szerintem érdemes lesz még a jövőbben így beszélgetnünk további ilyesmi dolgokról.
 
 Jó, most ugye mondtad, hogy Toninak valami közbe jött, de hogy nagyon szívesen beszélgetek így akár legközelebb hármasban, hogy akkor behozni azt a nézőpontot, amit ő képvisel, meg azokat a kérdéseket, amiket ő tud, csak ő tud megfogalmazni úgy, ahogyan megfogalmaz.
 
