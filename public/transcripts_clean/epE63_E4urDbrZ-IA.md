@@ -138,7 +138,7 @@ Hogyha az ember akar mondjuk műhold letölteni blokkláncot, akkor például a 
 
 Majd megpróbálom megkeresni. Igen. Akkor ez esetben szerintem gyorsan csináljunk egy másik adást erről a témáról.
 
-Szerintem is kellene, mert hát ismerhet mindenki. Szeretek sok mindent belelátni, sok mindenbe, de nem baj, ha nincs igazam. Az ember, főleg, hogyha, hogyha mondjuk látning csatornái is vannak, és potenciálisan pénzt vesztet azzal, hogyha mondjuk két hétnél tovább offline van, az azért ritkán történik meg, vagy nagyobb problémá is adódnak akkor, de inkább az adatvesztésű kérdés.
+Szerintem is kellene, mert hát ismerhet mindenki. Szeretek sok mindent belelátni, sok mindenbe, de nem baj, ha nincs igazam. Az ember, főleg, hogyha mondjuk Lightning csatornái is vannak, és potenciálisan pénzt vesztet azzal, hogyha mondjuk két hétnél tovább offline van, az azért ritkán történik meg, vagy nagyobb problémá is adódnak akkor, de inkább az adatvesztésű kérdés.
 
 Tehát egy szünetmentes táp az mindenképpen ajánlott egy bármilyen szerverhez, de főleg akkor, hogyha pénzt tart rajta az ember, vagy azt fogad és küld. Például bitcoint. Például bitcoint.
 
@@ -174,7 +174,7 @@ Nem baja ennek az SD kártya, mert sokszor régen lehetett hallani, hogy az SD-k
 
 Tehát akár úgy is, hogy volt egy SD kártyám, amin az Umbrel-nek a szoftverre futott és plusz ugye az adat, a blokklánc, illetve a lightning loadoknak a az adatai az a azok a lemezen voltak. Le lehet tölteni a R blitznek a az imageét, a ezt a fát, ami az operációs rendszert tartalmazza. És ha ugyanabba a kis gépbe beledugom, amin az Umbrel futott, akkor ez fel tudja húzni a Ritnek a infrastruktúráját, ami ugye szabad kezet ad, elég jó sokkal jobban, illetve közelebb van az ember a forrásáhozó dolgoknak, kevesebb a hát sokszor a könnyű használhatóság megcélzó, de ugyanakkor meg a kezedet megkötő ilyen absztrakciók.
 
-Tehát egy RaspiBlitz-cel mindent tudsz csinálni, amit a szoftver megenged. Egy Umbrel-en viszont csak azt, amit a fejlesztői implementáltak és adtak rá neked eszközt, hogy beállíthasd. Szóval ez egy ilyen kicsit félelmetesebb elsőre talán, de ugyanakkor meg a szabadság nakob vagy hát szóval leginkább szabadabb ühüm módja ezeteknek a szoftverek használta.
+Tehát egy RaspiBlitz-cel mindent tudsz csinálni, amit a szoftver megenged. Egy Umbrel-en viszont csak azt, amit a fejlesztői implementáltak és adtak rá neked eszközt, hogy beállíthasd. Szóval ez egy ilyen kicsit félelmetesebb elsőre talán, de ugyanakkor meg a szabadság nakob vagy hát szóval leginkább szabadabb módja ezeknek a szoftverek használatának.
 
 És hát mi kell még hozzá? Igen. Tehát, hogy ahhoz, hogy amikor már összeraktad ezt a tehát SD kártya lemezt, magát a ugye csatlakozót, amivel hozzárakja a Raspberry Pi-hoz ez esetben, vagy akár a mini péch-hez, akkor itt vannak ezek a operációs rendszert tartalmazó image fálok, ami egy kép fál, lemezkép fál, amit le lehet tölteni torrenten, vagy csak erről a szerverről.
 
@@ -212,7 +212,7 @@ Illetve lehet validálni, illetve validálni is fogja a módon. Szóval ennek í
 
 És ha valaki azért akar fizetni, hogy egy képet rakjon bele, akkor bizony annak kell az árat megfizetni. Tehát ezek általában, ahogy láttuk ugye az utóbbi két vagy másfél két évben azért ezek a projektek kifutnak a pénzből és a közvet anyagi érdek a pénz mozgatása, a Bitcoin tranzakciók fogják dominálni ezt a ezt a blokkláncot, ezt a hálózatot, mert hát arra a leghosszúsok. Köszönjük openoms, hogy így összefoglaltad.
 
-Nyilván erről lehetne még beszélni egy csomót meg retanciáról, meg mindenféle dologról. Lehet, hogy majd olyannak is neki lehet menni így az adáskeretein belül, hogy lesz ez így jó. Sikerült megtalálnom, amire hivatkozott az openoms közben, hogy ugye a grafikai felülete is használható bizonyos célokra a RaspiBlitz-nek, és akkor azt beraktam ide a képernyő megosztásba, amiből látszik egy kis kóstoló, meg ugye ott látszik az a kijelző, amiről beszélt közben, hogy az opcionálisan hozzácsatlakoztatható a Raspberryhez.
+Nyilván erről lehetne még beszélni egy csomót meg redundanciáról, meg mindenféle dologról. Lehet, hogy majd olyannak is neki lehet menni így az adáskeretein belül, hogy lesz ez így jó. Sikerült megtalálnom, amire hivatkozott az openoms közben, hogy ugye a grafikai felülete is használható bizonyos célokra a RaspiBlitz-nek, és akkor azt beraktam ide a képernyő megosztásba, amiből látszik egy kis kóstoló, meg ugye ott látszik az a kijelző, amiről beszélt közben, hogy az opcionálisan hozzácsatlakoztatható a Raspberryhez.
 
 Nekem például olyanom nincsen, hanem így a számítógépemen szoktam behívni az IPCM-t a Raspberrynek, és akkor azon nézem a státuszt, de már többször elgondolkodtam, hogy hozzácsatlakoztathatnék egy ilyet, mert tényleg jó pofa lenne, meg tényleg bármikor ránézek, akkor látom, hogy na most minden oké vele, de baromi megmható. Nekem előtte egy Umbrel node-om volt, amit így havonta újra kellett indítanom, hogy mert lefagyott. De itt amióta beüzemeltem ezt a átálltam a RaspiBlitz-re, ami nagyon flottul ment, tehát szerintem baromi jó és sokkal stabilab.
 
@@ -244,6 +244,6 @@ Magán az előadásokon én nem annyira szoktam részt venni, de azokat meg lehe
 
 te látod, meg a körbenézed, azok között vagy meg akkor tényleg minden tartalmat meg tudsz nézni, ami érdekel. Ó, ye. Hát akkor szerintem köszönjük szépen a figyelmet nektek és egy hét múlva újra jövünk valami érdekes témával.
 
-Köszi openoms, hogy jöttél hozzánk. Kösz szépen, hogy beszélgetem ezt a nagy témát. Sziasztok.
+Köszi openoms, hogy jöttél hozzánk. Kösz szépen, hogy beszélgettünk erről a nagy témáról. Sziasztok.
 
 Helló!
