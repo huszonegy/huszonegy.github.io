@@ -510,7 +510,7 @@ Azt kell tudni az ilyen Nostr-ös adásokról, hogy ez talán nem érdekel annyi
 
 – Igen, akkor aloha. Igen.
 
-– Jól van. Mi ez a nostr.hu? Itt
+– Jól van. Mi ez a [nostr.hu](https://nostr.hu)? Itt
 
 – meg akartam mutatni, hogyha valaki kezdőként bele akar olvasni, hogy mi ez, mi ez a Nostr, akkor csinált összeraktam egy néhány cikkből álló ilyen le leírást a technológiájáról, mit hogyan kell csinálni, milyen klienstet érdemes használni. Bár itt ezt még fejleszteni fogom. Végül is egy magyar nyelvű leírás. Nostr.hu. Könnyű megjegyezni a az oldalt.
 
