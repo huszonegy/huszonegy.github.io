@@ -754,7 +754,7 @@ Engem eléggé sokkolt egyébként ez a decemberi történet, pláne úgy, hogy 
 
 – Jók ezek a játékok.
 
-– Ye. És ha már játék, a jövő heti adásban is készülünk egy játékkal. Nevezetesen lesz fog egy NOS alapú játékot meghirdetni a következő adásban, és az egész adás a Nostről fog szólni. azt kérte, hogy harangozzam be így előre, hogy izzítsátok a a Nost proféljaitokat, és a jövő heti adást először a a Nosterön fogjuk publikálni. Valószínű egy nappal korábban ott fog megjelenni, és akkor a többi platformon meg egy nappal később. És ezzel kapcsolatban lesz egy játék, amit ugye a a Nossurön jövő héten meg lehet tudni majd abból az adásból. Meg hát gondolom majd azért a Telegram csopira beírjuk ennek a a lényegét, meg azt a Nos linket, ahol már akkor elérhető lesz.
+– Ye. És ha már játék, a jövő heti adásban is készülünk egy játékkal. Nevezetesen lesz fog egy Nostr alapú játékot meghirdetni a következő adásban, és az egész adás a Nostr-ról fog szólni. Azt kérte, hogy harangozzam be így előre, hogy izzítsátok a Nostr profiljaitokat, és a jövő heti adást először a Nostr-on fogjuk publikálni. Valószínű egy nappal korábban ott fog megjelenni, és akkor a többi platformon meg egy nappal később. És ezzel kapcsolatban lesz egy játék, amit ugye a Nostr-on jövő héten meg lehet tudni majd abból az adásból. Meg hát gondolom majd azért a Telegram csopira beírjuk ennek a lényegét, meg azt a Nostr linket, ahol már akkor elérhető lesz.
 
 – Na az nagyon tetszik,
 
@@ -890,7 +890,7 @@ Engem eléggé sokkolt egyébként ez a decemberi történet, pláne úgy, hogy 
 
 – ok
 
-– gigatonnányi magyar nyelvű bitcoin oktatóanyagot osztunk meg a 21 honlapján ezek a 21.w World címen található anyagok bárki számára ingyenesen hozzáférhetők. Azok számára pedig, akik személyes támogatást igényelnek, szeretettel ajánljuk a Bitcoin mentor szolgáltatásait. A [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon részletesen olvashatsz a Bitcoin tanácsadásról, a Bitcoin blogban pedig egyre több értékes bejegyzést találsz. Iratkozz fel a 21 podcast YouTube csatornájára, valamint a Rumble csatornánkra is. Kövesd a 21-et a Facebookon és a Nostr támogatóink Miskoltapolca és Hajdúszoboszló bitcoint elfogadó és Bitcoin tartalékoló négycsillagos wellness szállodái Hotel Aurora és a Hotel Atlantis. És a Firefish üzeni, hogy ne adjátok el a Bitcoinotokat. Mindenkit üdvözlünk és vásárolgassátok bitcoint. Ez most tanácsadás volt?
+– Gigatonnányi magyar nyelvű Bitcoin oktatóanyagot osztunk meg a HUSZONEGY honlapján. Ezek a [huszonegy.world](https://huszonegy.world) címen található anyagok bárki számára ingyenesen hozzáférhetők. Azok számára pedig, akik személyes támogatást igényelnek, szeretettel ajánljuk a Bitcoin Mentor szolgáltatásait. A [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon részletesen olvashatsz a Bitcoin tanácsadásról, a [Bitcoin blogban](https://bitcoinmentor.hu/blog) pedig egyre több értékes bejegyzést találsz. Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára, valamint a Rumble csatornánkra is. Kövesd a HUSZONEGY-et a Facebookon és a Nostr-on. Támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái, a Hotel Aurora és a Hotel Atlantis. És a Firefish üzeni, hogy ne adjátok el a bitcoinotokat! Mindenkit üdvözlünk és vásárolgassátok bitcoint. Ez most tanácsadás volt?
 
 – Nem csak egy tipp, ötlet,
 
