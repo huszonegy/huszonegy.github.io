@@ -114,7 +114,7 @@ Hát ez nekem most már ilyen kvázi magunkal jel neki evidens dolog volt.
 
 A megoldandó probléma ugye az, hogy egy egy üzleti, tehát egy cég működésében egy egy pénzügyi tranzakció, hogy a vásárló kifizet valamit a cégnek, az az nem úgy önmagában áll, mint amikor két magánszemély között megy egy ilyen fizetés, hanem ez általában egy ilyen komolyabb folyamatnak a része, ami lehet, hogy egy ilyen étterem esetén nem is annyira izgalmas, de mondjuk ha veszünk egy webshopot, amit erre a képre is rá rárajzoltam ott a bal fölső sarokban, de a webshop oknál az van, hogy a vevő az kiválogatja a webshopról, hogy mit akar venni, az bekerül a kosárba, akkor ott megadja a különböző adatait satöbbi, satöbbi.
 
-Kifizeti általában bankkártyával, hogyha fizetsz, akkor az úgy szokott működni, hogy átirányítanak valamilyen banki fizetőalra, mindenki ismeri ilyeneket, mondok egy-két példát OTP szimpion, vagy PayPal, vagy ilyesmi.
+Kifizeti általában bankkártyával, hogyha fizetsz, akkor az úgy szokott működni, hogy átirányítanak valamilyen banki fizetőalra, mindenki ismeri ilyeneket, mondok egy-két példát OTP SimplePay, vagy PayPal, vagy ilyesmi.
 
 Ott megtörténik a bankkártyás fizetés, és akkor utána visszakerül az ember a webshopba, és megy tovább a folyamat.
 
@@ -128,7 +128,7 @@ Erre egy külön ilyen úgy úgynevezett fizetési processzor szoftver kell.
 
 És hát van egy ilyenünk.
 
-Ez a ábrán középen is látható ilyen szögletes, ilyen háromszöges BTűs logós cucc.
+Ez a ábrán középen is látható ilyen szögletes, ilyen háromszöges BTC-s logós cucc.
 
 Ez a BTCPayay szerver nevű szoftver, amiről fontos dolog, hogy ez nem egy szolgáltatás, ez egy szoftver.
 
@@ -398,7 +398,7 @@ Azt úgy kell elképzelni, csak annyiból, hogy majd mindjárt majd a végén me
 
 Meg hát a ennek a gyakorlati jelentősége az, hogy ha egy ilyen ki van téve mondjuk a kávéházba, akkor na vissza.
 
-Így ez a És látszik ez a pos terminátor.
+Így ez a És látszik ez a POS terminált.
 
 Én csak a megosztásodat látom.
 
@@ -854,7 +854,7 @@ Beem az áfát utána örök mindjárt 25% megfa mit?
 
 Hát hogy befizeted az áfa. hogy azt is lightningon fizeted a nem az az ennek a rendszernek nem része.
 
-Egyébként már ha fölmerült ez például a Feri hoteljeiben úgy működik, hogy hogy emellé az egész mellé egész történet mellé még a számlázórendszerükkel csinálnak egy álfás számlát, tehát hogy üüm teljesen rendben legyen navilag is.
+Egyébként már ha fölmerült ez például a Feri hoteljeiben úgy működik, hogy hogy emellé az egész mellé egész történet mellé még a számlázórendszerükkel csinálnak egy áfás számlát, tehát hogy üüm teljesen rendben legyen navilag is.
 
 Az se baj.
 
@@ -1042,7 +1042,7 @@ Azt így ki lehet tippelni, nem?
 
 Meg, hogy ott tartja.
 
-Hát nem, de már talán nem az összes van, ugye a strategynek a Coinbase-nél, nem?
+Hát nem, de már talán nem az összes van, ugye a Strategy-nek a Coinbase-nél, nem?
 
 Aiszem a Fidelitynél is van nekik valamennyi, nem?
 
@@ -1412,7 +1412,7 @@ Hát nem tudom, hogy hányan hallottak róla, de volt egy vagy folyik egy hatalm
 
 Az NFT nevű innovációra gondolsz?
 
-Igen, amikor NFT-ket kezdtek csinálni Bitcoinon is, és hát ez mostanra egyébként elmúlt, lecsengett, mert most hogyha megnézzük a manpultt, akkor kábé üres üres a általában a pláne a hétvégén vannak olyan blokkok, hogy nincsenek tele tranzakciókkal. félig üres blokkokat bányásznak a bányászók, de a Bitcoin D fejlesztői kitaláltak egy olyan fejlesztést, hogy hogy kivesznek egy olyan limitet, amivel ilyen nagyobb adatcsomagokat, tartalmazó tranzakciókat ki lehet ki tudták szűrni a Bitcoin a manolból.
+Igen, amikor NFT-ket kezdtek csinálni Bitcoinon is, és hát ez mostanra egyébként elmúlt, lecsengett, mert most hogyha megnézzük a mempoolt, akkor kábé üres üres a általában a pláne a hétvégén vannak olyan blokkok, hogy nincsenek tele tranzakciókkal. félig üres blokkokat bányásznak a bányászók, de a Bitcoin Core fejlesztői kitaláltak egy olyan fejlesztést, hogy hogy kivesznek egy olyan limitet, amivel ilyen nagyobb adatcsomagokat, tartalmazó tranzakciókat ki lehet ki tudták szűrni a Bitcoin a mempoolból.
 
 Bár és itt a lényege, hogy ez miért szerintem miért vihar egy pohár vízben, hogy egyébként ha egy bányász ennek ellenére kibányászott egy ilyen nagyobb tranzakciót, azt elfogadta az összes nóde.
 
@@ -1446,7 +1446,7 @@ Meg nem volt kedvem utána olvasgatni részletesen, hogy mi van.
 
 És nekem még így most áll össze a kép, hogy mi ez az up return háború, vagy van még egy olyan kiabálás ö indok is, hogy hogy egyébként a Bitcoin protokol az alacsony szinten úgy működik, hogy amikor egy blokkot egy bányász, kibányászik és örül neki, hogy megvan, akkor nem küldi szét az egész blokkot a hálózaton, ami ilyen több megb.
 
-Ühüm. gyakorlatilag csak a fejlécét meg a benne levő tranzakcióknak a a azonosítóit, ami sokkal kevesebb adat, és abból minden nód össze tudja rakni a saját mempujából már onnan benne vannak tranzakciók, össze tudja rakni ugyanazt a blokkot, és aztán ellenőrzi a heshével, hogy tényleg sikerült neki.
+Ühüm. gyakorlatilag csak a fejlécét meg a benne levő tranzakcióknak a a azonosítóit, ami sokkal kevesebb adat, és abból minden nód össze tudja rakni a saját mempooljából már onnan benne vannak tranzakciók, össze tudja rakni ugyanazt a blokkot, és aztán ellenőrzi a heshével, hogy tényleg sikerült neki.
 
 Legfeljebb, hogyha valami tranzakció hiányzik, akkor azt az egy pár tranzakciót kell csak letölteni.
 
