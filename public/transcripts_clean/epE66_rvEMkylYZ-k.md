@@ -54,7 +54,7 @@ Akkor már látja, hogy egyébként nem ördöngősség. És ugye csak még anny
 
 Tehát szerintem, hogyha a jövőben lenne ilyen, akkor a HUSZONEGY biztos mögé állna. Igen, igen. Abban is tudunk ötleteket adni.
 
-A lesz például tartott egy kis kerekasztalbeszélgetést a a pizzázás végén, tehát hogy nem csak arról szólt, hogy egyesélyel mindenki fizethet ezzel, hanem egy picit körbe is ültünk és beszélgettünk azokról a témákról, mik közösek voltak. Ühüm. Értedett már olyan feedback, hogy még még több több ilyet is vártak volna, tehát még több tartalmat, több infót a Bitcoinról.
+A Lez például tartott egy kis kerekasztalbeszélgetést a a pizzázás végén, tehát hogy nem csak arról szólt, hogy egyesélyel mindenki fizethet ezzel, hanem egy picit körbe is ültünk és beszélgettünk azokról a témákról, mik közösek voltak. Ühüm. Értedett már olyan feedback, hogy még még több több ilyet is vártak volna, tehát még több tartalmat, több infót a Bitcoinról.
 
 Hát igen, nyitottak rá az emberek, úgy tűnik. Főleg most megint, hogy megy föl az ára, ilyen bullmarketek alkalmával mindig nagyobb az érdeklődés. Én azt vettem észre.
 
@@ -134,7 +134,7 @@ Ebben egyébként Magyarország nem annyira jól áll, mert mindig így nézeget
 
 Igen, mert közös a cél, és és akkor nyomni kell, tehát támogatni kell egymást ebbe a harcban. És sajnos az emberek még nem nagyon ébredtek föl ebből a Fiat álomból, Rémálomból, ugye. De hát előbb-utóbb felfognak, ugye októberben jön majd itt a az Európai Unión belül, az eurozónán belül a CBDC, a digitális euro, és utána majd lesz nagy fájdalma itt az eurozónának.
 
-Úgyhogy szerintem érdemes már most neki kezdeni ezeknek az ilyen kis építőkockáknak az összepakolásának, hogy hogyan is fog ez kinézni utána, amikor itt már az euróval mindenféle dolgot fognak művelni az akaratunkon kívül, és érdemes felkészülni és gyakorolni arra az időszakra, amikor a a bitcoint majd tudjuk használni. A lesz ötletére ötletére pont ekkora szeretnénk mi is üdvözíteni a következő programot. Ebből az apropóból.
+Úgyhogy szerintem érdemes már most neki kezdeni ezeknek az ilyen kis építőkockáknak az összepakolásának, hogy hogyan is fog ez kinézni utána, amikor itt már az euróval mindenféle dolgot fognak művelni az akaratunkon kívül, és érdemes felkészülni és gyakorolni arra az időszakra, amikor a a bitcoint majd tudjuk használni. A Lez ötletére pont ekkora szeretnénk mi is üdvözíteni a következő programot. Ebből az apropóból.
 
 Tehát egy ilyen őszre zsengélőben nagyon-nagyon lelkesek voltak a az elfogadással kapcsolatban. Kérdezték, mikor lesz a következő? Mikor lesz a következő?
 
