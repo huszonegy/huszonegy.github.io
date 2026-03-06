@@ -102,13 +102,13 @@ Ugye szakmámból kifolyólag is nagyon sok tréninget tartottam, mindenféle he
 
 – Ühüm.
 
-– És ugye ők hát a Giacomo Zuccót nem kell bemutatni. Van két gyermekük, és hasonló korúak, mint az én két gyermekem. Tehát ilyen ilyen 810 meg 35 közötti korosztály. És hát nyilván tök mások a gyerekek, de hát ők meg kő kőitinerek, amióta csak lehet. És hát egy borzasztóan érdekes beszélgetés volt számomra, hogy ők ezt így tényleg hogyan csinálják a saját gyerekeikkel. Úgyhogy majd a linket el fogom küldeni, és hogyha ez érdekel bárkit is, akkor tényleg nagyon ajánlom, mert egy tök jó beszélgetés volt.
+– És ugye ők — hát Giacomo Zuccót nem kell bemutatni. Van két gyermekük, hasonló korúak, mint az én két gyermekem, ilyen 8-10 meg 3-5 közötti korosztály. Nyilván tök mások a gyerekek, de ők meg kőkemény bitcoinerek, amióta csak lehet. Egy borzasztóan érdekes beszélgetés volt számomra, hogy ők ezt hogyan csinálják a saját gyerekeikkel. A linket el fogom küldeni — nagyon ajánlom, tök jó beszélgetés volt.
 
 – Szuper. Köszi.
 
 – És ez is látjátok, hogy mennyire durva, hogy hogy erősödnek föl a nők. Tegnap hajnal, hát majdnem sírtam, annyira jó volt. Komolyan elindult, e el e bekapcsoltam, és egyszerűen nem tudtam kikapcsolni annyira annyira vitt magával.
 
-– Hhüm. Akkor a a a Mir Mirnek hívják a Jacomonak a nejét, meg ugye a Med Bitcoinról is beszéltünk, tehát hogy annyira erősödnek a nők föl, hogy hogy hihetetlen. És
+– Ühüm. Akkor a Mirnek hívják a Giacomónak a nejét, meg ugye a MedBTC-ről is beszéltünk, tehát annyira erősödnek föl a nők, hogy hihetetlen. És
 
 – kell is.
 
@@ -150,7 +150,7 @@ Ez tökéletes megvalósulása mindennek — azért rinyálunk, hogy a CEX-en ne
 
 – közbe szortírozom, hogy az a az érdekesebbeket mondjam. Azért, ha elfelejtetted a jelszót, minden minden elveszik. Igen. A szabadságnak ára van, és ez a felelősség.
 
-– Felősség. Igen.
+– Felelősség. Igen.
 
 – És a bankban sem a te pénzed van, csak kölcsön adtad nekik, és reméled, bízol benne, hogy visszakapod. Melyik a nagyobb kockázat? Amikor tudod, hogy csak magadra számíthatsz, a te felelősséged, jól megőriztem a jelszavamat, és tudom, hogy bármikor hozzáférhetek — vagy pedig egy szolgáltatási szerződés?
 
@@ -172,7 +172,7 @@ Magyarországon úgysem lehet Bitcoinnal fizetni — ugye ezt is többször hall
 
 Adózni kell utána, és ez bonyolult. Hát aki szeretne adózni, annak azt tudom mondani, hogy 15% a személyi jövedelemadó a nyereség után.
 
-– Advosson rám.
+– Adózzanak rám.
 
 – De azt mondom erre, hogy ehhez képest mondjuk az ingatlanon van vagyonadó illeték, fenntartás, felújítás, problémás bérlők akár. Melyik a bonyolultabb? A magyar kormány majd betiltja. Ezt is hallottam. Ugye ezt már megválaszoltuk tulajdonképpen, hogy hogy matek és internet tulajdonképpen a Bitcoin, de talán már nemsokára már internet se fog kelleni.
 
@@ -216,7 +216,7 @@ Térjünk át a nőkre. Bocsánat, még csak egy gyorsat ide: amikor már ennyi 
 
 Ezzel szemben a Bitcoin tanulása nem órákat emészt fel naponta. Egy délután elég az alapokhoz, de napi 10 perc is elég ahhoz, hogy 30 napon belül valaki akár szakértővé váljon a témában. Napi 10 perc, emberek, napi 10 perc!
 
-– Következetesség. Az olaszomban 123. napon vagyok. Mi a neve? Streak. Úgyhogy igen, követem. Tehát
+– Következetesség. Az olasztanulásomban a 123. napon vagyok. Mi a neve? Streak. Úgyhogy igen, követem. Tehát
 
 – a férjem vietnámiul tanul két hetet mondom. [nevetés]
 
