@@ -196,9 +196,9 @@ Itt általában már a az, hogy konkrétan mit vesz az ember, meg mi az ember ne
 
 És akkor a BTCPay szerver egyébként a gyakorlat, majd ezt meg fogom mutatni mindjárt, létrehoz egy ilyen számla nevű dolgot, ami nem pont olyan hát kicsit hasonlít egy klasszikus számlához. adóhivatal is ismer, de nem nem magyar adóhivatali jellegű számla, hanem csak a BTCPay szervernek a saját ilyen számlaformátuma.
 
-Minden ilyen beállításhoz kell, hogy tartozzon itt a jobb fölső sarokban látható tárca, ami a webshopnak a a Bitcoin tárcája.
+Minden ilyen beállításhoz kell, hogy tartozzon itt a jobb fölső sarokban látható tárca, ami a webshopnak a Bitcoin tárcája.
 
-Ez lehet beépítve akár a BTCPay szerverbe is, de nem ezt szoktuk használni általában egyszerűségi okokból. legtöbben a strike-ot vagy a blinket használják, illetve nekem van egy olyan tesztrendszerem is, amit majd nemsokára megmutatok, am ahol egy sima LND, egy Lightning Node a tárca a a shop mögött.
+Ez lehet beépítve akár a BTCPay szerverbe is, de nem ezt szoktuk használni általában egyszerűségi okokból. legtöbben a strike-ot vagy a blinket használják, illetve nekem van egy olyan tesztrendszerem is, amit majd nemsokára megmutatok, am ahol egy sima LND, egy Lightning Node a tárca a shop mögött.
 
 Ugye ez azért kell, mert ide fog érkezni a pénz.
 
@@ -214,7 +214,7 @@ Ez visszajut.
 
 Hát itt a nyil nyilan nem látszik, de visszajult ugye a BTCPay szerverbe ez a úgymond QR kód, és az itt mindjárt a négyes pontban el is jut a vásárló web böngészőjébe.
 
-Ugye ez az a pont, amikor a vásárló átirányítódik a mondjuk a BTCPay szerver oldalára, illetve úgy is meg lehet csinálni, hogy nem irányítódik át teljesen, csak egy külön ablakban a a webshopon belül megjelenik iframe-ben ez ahogy a fejlesztő megálmodja.
+Ugye ez az a pont, amikor a vásárló átirányítódik a mondjuk a BTCPay szerver oldalára, illetve úgy is meg lehet csinálni, hogy nem irányítódik át teljesen, csak egy külön ablakban a webshopon belül megjelenik iframe-ben ez ahogy a fejlesztő megálmodja.
 
 A lényeg az, hogy a vásárló webzéiben ilyenkor megjelenik egy QR kód. ilyet már mondjuk mondom, ezt most ebben a pillanatban nem mutatok, mert ilyet már sokan láttatok, de majd mindjárt megmutatom élőben is.
 
@@ -376,7 +376,7 @@ Nem, nem webshoppal, mert most webshopom így hirtelen nincs, hanem egy ugye eze
 
 Most már három hotelről beszélhetünk.
 
-Ilyen van a a Feri hoteljeiben is, meg a meg Újvárosban is van egy ilyen.
+Ilyen van a Feri hoteljeiben is, meg a meg Újvárosban is van egy ilyen.
 
 Ez egy sima androidos készülék egyébként.
 
@@ -430,7 +430,7 @@ Jobb, hogyha van egy dedikált eszköz, mert amikor elég ritkán beesik egy emb
 
 Ezt csak erre használják, akkor akkor nagyobb valószínűséggel fog működni.
 
-És ha rábökök a képernyő jöjjére, mondjuk standbya, akkor alapból gondolom ez a felület jön föl, hogy beüthessem a a az összeget.
+És ha rábökök a képernyő jöjjére, mondjuk standbya, akkor alapból gondolom ez a felület jön föl, hogy beüthessem az összeget.
 
 Hát ha nem is, akkor ide ki van rakva egy ikonba, és akkor oda így csak a képernyőn látom, de sikerül, nem sikerül rá.
 
