@@ -2,7 +2,7 @@
 
 Sziasztok!
 
-Üdvözlünk titeket Tamással és Árpival a 64. Bitcoin podcastba.
+Üdvözlünk titeket Tamással és Árpival a 64. Bitcoin podcastban.
 
 Ez itt a HUSZONEGY Bitcoin podcast.
 
@@ -130,11 +130,11 @@ Erre egy külön ilyen úgy úgynevezett fizetési processzor szoftver kell.
 
 Ez a ábrán középen is látható ilyen szögletes, ilyen háromszöges BTűs logós cucc.
 
-Ez a BTCP szerver nevű szoftver, amiről fontos dolog, hogy ez nem egy szolgáltatás, ez egy szoftver.
+Ez a BTCPayay szerver nevű szoftver, amiről fontos dolog, hogy ez nem egy szolgáltatás, ez egy szoftver.
 
 Ez egy nyílt forráskódú szoftver, amit bárki tud üzemeltetni akár a saját a saját szerverén, de hát ezt szerveren kell üzemeltetni egyébként.
 
-Umbrellen is lehet, mert Umbrellre is föl lehet telepíteni akár bár ott ott Árpi tudja tud mesélni arról, hogy az mennyire ne nem jól működik.
+Umbrelen is lehet, mert Umbrelre is föl lehet telepíteni akár bár ott ott Árpi tudja tud mesélni arról, hogy az mennyire ne nem jól működik.
 
 Ühüm.
 
@@ -146,17 +146,17 @@ Szóval, hogy voltak vele problémák, illetve általában azel az mint nekem is
 
 Úgyhogy én is így csináltam meg.
 
-Nekem van egy BTCP szerverem, sőt most már kettő is van, ami így működik, amik normál szervergépek, ugye?
+Nekem van egy BTCPayay szerverem, sőt most már kettő is van, ami így működik, amik normál szervergépek, ugye?
 
 Hát ilyen virtuális virtuális szerverek, de rendes szerverteremben vannak.
 
 Ühüm.
 
-És egy ilyen BTCP szerver az sok webshopot el tud látni, vagy hotelt, vagy értemet, vagy bármit párhuzamosan.
+És egy ilyen BTCPayay szerver az sok webshopot el tud látni, vagy hotelt, vagy értemet, vagy bármit párhuzamosan.
 
 Nem kell annyi, ahány ilyen elfogadóhely van.
 
-És ezzel működnek egyébként jelen pillanatban a Ferry hoteljei is, hogyha elárulhatok ilyet, meg a Bitcoin bázis is azt használja.
+És ezzel működnek egyébként jelen pillanatban a Feri hoteljei is, hogyha elárulhatok ilyet, meg a Bitcoin bázis is azt használja.
 
 Úgyhogy én itt itten kiépítettem egy kis birodalmat.
 
@@ -176,7 +176,7 @@ Tehát ott megnyomja, hogy fizetés.
 
 Ez az egyes nyíl, az eljut ez az információ a webshophoz.
 
-És akkor a webshop össze van kapcsolva a háttérben a BTCP szerverrel.
+És akkor a webshop össze van kapcsolva a háttérben a BTCPayay szerverrel.
 
 Erről annyit kell tudni, hogy az ilyen népszerűbb webshop motorokra, webshop motorokhoz létezik bővítmény, ami egyszerűen összekapcsolható.
 
@@ -188,21 +188,21 @@ Hogyha valakinek valami nagyon egyedi fejlesztése van, akkor ahhoz kicsit progr
 
 Ühüm, majd a jövőben valamikor, ha elkészült.
 
-Tehát ezen a kapcsolaton keresztül a eljutáció a BTCP szerverhez, hogy itt valaki ki akar fizetni valamit.
+Tehát ezen a kapcsolaton keresztül a eljutáció a BTCPayay szerverhez, hogy itt valaki ki akar fizetni valamit.
 
 Itt általában csak a annyi információ megy át, hogy mekkora az összeg, különösebben más nem kell hozzá, illetve valami azonosító, mondjuk egy megrendelés szám vagy ügyfélszám.
 
 Itt általában már a az, hogy konkrétan mit vesz az ember, meg mi az ember neve, meg ilyesmi, az nem szokott átjutni, mert arra nincs szükség a fizetéshez.
 
-És akkor a BTCP szerver egyébként a gyakorlat, majd ezt meg fogom mutatni mindjárt, létrehoz egy ilyen számla nevű dolgot, ami nem pont olyan hát kicsit hasonlít egy klasszikus számlához. adóhivatal is ismer, de nem nem magyar adóhivatali jellegű számla, hanem csak a BTCP szervernek a saját ilyen számlaformátuma.
+És akkor a BTCPayay szerver egyébként a gyakorlat, majd ezt meg fogom mutatni mindjárt, létrehoz egy ilyen számla nevű dolgot, ami nem pont olyan hát kicsit hasonlít egy klasszikus számlához. adóhivatal is ismer, de nem nem magyar adóhivatali jellegű számla, hanem csak a BTCPayay szervernek a saját ilyen számlaformátuma.
 
 Minden ilyen beállításhoz kell, hogy tartozzon itt a jobb fölső sarokban látható tárca, ami a webshopnak a a Bitcoin tárcája.
 
-Ez lehet beépítve akár a BTCP szerverbe is, de nem ezt szoktuk használni általában egyszerűségi okokból. legtöbben a strike-ot vagy a blinket használják, illetve nekem van egy olyan tesztrendszerem is, amit majd nemsokára megmutatok, am ahol egy sima LND, egy Lightning Node a tárca a a shop mögött.
+Ez lehet beépítve akár a BTCPayay szerverbe is, de nem ezt szoktuk használni általában egyszerűségi okokból. legtöbben a strike-ot vagy a blinket használják, illetve nekem van egy olyan tesztrendszerem is, amit majd nemsokára megmutatok, am ahol egy sima LND, egy Lightning Node a tárca a a shop mögött.
 
 Ugye ez azért kell, mert ide fog érkezni a pénz.
 
-És a BTCP szerver annyit csinál, hogy utasítja ezt a tárcát, hogy akkor kérek szépen egy payment requestet.
+És a BTCPayay szerver annyit csinál, hogy utasítja ezt a tárcát, hogy akkor kérek szépen egy payment requestet.
 
 Ugye a Lightning fizetés az úgy működik, hogy fogadótárca kiállít egy egy ilyen fizetési kérelmet angolul payment request.
 
@@ -212,17 +212,17 @@ Tehát azért írtam ide, hogy QR kódkérés a hármas pontba.
 
 Ez visszajut.
 
-Hát itt a nyil nyilan nem látszik, de visszajult ugye a BTCP szerverbe ez a úgymond QR kód, és az itt mindjárt a négyes pontban el is jut a vásárló web böngészőjébe.
+Hát itt a nyil nyilan nem látszik, de visszajult ugye a BTCPayay szerverbe ez a úgymond QR kód, és az itt mindjárt a négyes pontban el is jut a vásárló web böngészőjébe.
 
-Ugye ez az a pont, amikor a vásárló átirányítódik a mondjuk a BTCP szerver oldalára, illetve úgy is meg lehet csinálni, hogy nem irányítódik át teljesen, csak egy külön ablakban a a webshopon belül megjelenik iframe-ben ez ahogy a fejlesztő megálmodja.
+Ugye ez az a pont, amikor a vásárló átirányítódik a mondjuk a BTCPayay szerver oldalára, illetve úgy is meg lehet csinálni, hogy nem irányítódik át teljesen, csak egy külön ablakban a a webshopon belül megjelenik iframe-ben ez ahogy a fejlesztő megálmodja.
 
 A lényeg az, hogy a vásárló webzéiben ilyenkor megjelenik egy QR kód. ilyet már mondjuk mondom, ezt most ebben a pillanatban nem mutatok, mert ilyet már sokan láttatok, de majd mindjárt megmutatom élőben is.
 
 És akkor ezt a QR kódot kell leolvasni a negyedik pont szereplővel itt a vagy ötödik szereplővel, ami a vásárló tárcája.
 
-Tehát ez mondjuk lehet egy blink wallet, vagy egy strike, vagy egy umbrell, vagy egy főniix wallet, vagy egy akármi.
+Tehát ez mondjuk lehet egy blink wallet, vagy egy strike, vagy egy Umbrel, vagy egy Phoenix wallet, vagy egy akármi.
 
-Ezt én úgy szoktam csinálni, ugye, hogy az ámrelemet távvezérlem a mobilommal.
+Ezt én úgy szoktam csinálni, ugye, hogy az Umbrelemet távvezérlem a mobilommal.
 
 Majd ez lesz a De ilyet már mutattam itt, majd mutattunk.
 
@@ -238,7 +238,7 @@ Tehát itt semmilyen kvázi banki szolgáltatás nem vevődik igénybe, vagy cs�
 
 Tehát ott a ugye a bankkártya az egy az egy bank, az bankokon megy keresztül, ki tudja hány bankon, meg a zsiró meg mindenem megy keresztül.
 
-Itt közvetlenül a Lightning Networkön vásárlótárcájából eljut a bit a Bitcoin a webshop tárcájába, és akkor a webshop tárca ugye össze van kapcsolva a BTCP szerverrel, szintén a ilyen apikon keresztül.
+Itt közvetlenül a Lightning Networkön vásárlótárcájából eljut a bit a Bitcoin a webshop tárcájába, és akkor a webshop tárca ugye össze van kapcsolva a BTCPayay szerverrel, szintén a ilyen apikon keresztül.
 
 Ott szól, hogy jött egy fizetés DCP szerver, akkor látja, hogy az mi lett kifizetve.
 
@@ -260,7 +260,7 @@ Tehát ez így a teljes kör.
 
 Ühüm.
 
-Tehát látszik, hogy itt azért a maga a BTCP szerver elég sok mindent csinált oda-vissza, ráadásul ilyen aszinkron módon.
+Tehát látszik, hogy itt azért a maga a BTCPayay szerver elég sok mindent csinált oda-vissza, ráadásul ilyen aszinkron módon.
 
 E ezért fontos, hogy legyen egy ilyen.
 
@@ -470,7 +470,7 @@ Katának van bonyolultabb.
 
 Hát igen, csak messzem.
 
-Open OMS-nek is vannak ilyen kártyái.
+openoms-nek is vannak ilyen kártyái.
 
 Valahogy összehozzuk.
 
@@ -478,7 +478,7 @@ Na, megint eltűnt képernyő.
 
 Na, tehát akkor ez a terminál rész.
 
-És akkor most megmutatom előbb a BTCP szerver felületét is.
+És akkor most megmutatom előbb a BTCPayay szerver felületét is.
 
 Jó, így látszik valami?
 
@@ -510,7 +510,7 @@ Na most akkor mindjárt csinálunk egy újat hozzá.
 
 A akkor vissza térünk a visszatérünk ide.
 
-Ja, és megosztanám az Umbrellt.
+Ja, és megosztanám az Umbrelt.
 
 Nem, azt.
 
@@ -518,7 +518,7 @@ Fú, csak egyszerre csak egyet lehet megosztani.
 
 Hm.
 
-Akkor nem az Umbrelt osztam meg.
+Akkor nem az Umbrelt osztom meg.
 
 Megosztam a mobilomat, amin egyből látszik a beérkezés, amivel fizetni fogok.
 
@@ -568,7 +568,7 @@ Amerikába azért inéznének, nem engednének vissza.
 
 És akkor megnyomom a chargeot, és máris kaptam egy QR kódot.
 
-Ekkor már megtörtént a bitco a BTCP szerverrel ez a üzenetváltás.
+Ekkor már megtörtént a bitco a BTCPayay szerverrel ez a üzenetváltás.
 
 Ezt és ezek ugye eljutott a Strikeig.
 
@@ -652,7 +652,7 @@ Oké, jó, sikerült.
 
 Akkor bejön itt egy ilyen elektronikus nyugta.
 
-Gyakorlatilag a ez a BTCP szerverről jön le.
+Gyakorlatilag a ez a BTCPayay szerverről jön le.
 
 Tárolja a nyuktát örökre, ami ki nem töröljük belőle.
 
@@ -724,7 +724,7 @@ Hát persze, tudom.
 
 Ez nem teljesen jogos kérdés.
 
-És akkor most még megnézhetjük a ezt a fizetést az Umbrellben is, hogy tényleg az Umbrellel fizettem ki.
+És akkor most még megnézhetjük a ezt a fizetést az Umbrelben is, hogy tényleg az Umbrellel fizettem ki.
 
 Csak csak frissítem.
 
@@ -736,7 +736,7 @@ Király.
 
 Tök jó.
 
-Úgyhogy hát és a beérkező oldalt még megmutatod, azt gondolom most a BTCP szerveren lehetne látni, hogy azon is át sohan.
+Úgyhogy hát és a beérkező oldalt még megmutatod, azt gondolom most a BTCPayay szerveren lehetne látni, hogy azon is át sohan.
 
 Ah, tényleg igazad van.
 
@@ -812,7 +812,7 @@ Na itt itt van ez a Webhooks rész.
 
 Ez a programozóknak lehet érdekes.
 
-Ez ez az, ahol visszajelez a BTCP szerver a webshopnak, hogy megtörtént a fizetés.
+Ez ez az, ahol visszajelez a BTCPayay szerver a webshopnak, hogy megtörtént a fizetés.
 
 Ezek azok az üzenetek.
 
@@ -836,7 +836,7 @@ Nagyobb összegeknél ott lehet választani egy ilyen füles megoldással.
 
 Oké. 100 bitcoin fölö.
 
-Hát nem, hát ezt ha jól emlékszem lehet konfigurálni is itt a BTCP beállításainál.
+Hát nem, hát ezt ha jól emlékszem lehet konfigurálni is itt a BTCPay beállításainál.
 
 Igen.
 
@@ -854,7 +854,7 @@ Beem az áfát utána örök mindjárt 25% megfa mit?
 
 Hát hogy befizeted az áfa. hogy azt is lightningon fizeted a nem az az ennek a rendszernek nem része.
 
-Egyébként már ha fölmerült ez például a Ferry hoteljeiben úgy működik, hogy hogy emellé az egész mellé egész történet mellé még a számlázórendszerükkel csinálnak egy álfás számlát, tehát hogy üüm teljesen rendben legyen navilag is.
+Egyébként már ha fölmerült ez például a Feri hoteljeiben úgy működik, hogy hogy emellé az egész mellé egész történet mellé még a számlázórendszerükkel csinálnak egy álfás számlát, tehát hogy üüm teljesen rendben legyen navilag is.
 
 Az se baj.
 
@@ -902,7 +902,7 @@ Igen.
 
 Ja.
 
-Iz kinek de a te de azt gondolom, hogy ez a ez a BTCP szerver azért ez nem nem áll távol a hagyományos ilyen pénzügyi rendszerektől.
+Iz kinek de a te de azt gondolom, hogy ez a ez a BTCPayay szerver azért ez nem nem áll távol a hagyományos ilyen pénzügyi rendszerektől.
 
 Úgyhogy szerintem aki csinált már bankkártya elfoglalást, az az nyugodtan beveheti a tarsola, mert probléma.
 
@@ -910,7 +910,7 @@ Nem sokkal messzebb van.
 
 Meg hát ez a jövő ugye inkább mindenhol csak azt hallani, hogy ilyen cégek kerülnek föl a BTCre, tehát a Bitcoin térképre, hogy fogadják el a bitcoint.
 
-És ugye ott jobbára azért valamilyen pos rendszer van mögötte, tehát többnyire az a BTCP szerver, vagy vannak ilyen androidos fejlesztések is, ami csak így telefonon volt ugye ilyen egyszerűbb usereknek, mint fodrász mit tudom énom valamit, de nyilván cégeknek jobb ez.
+És ugye ott jobbára azért valamilyen pos rendszer van mögötte, tehát többnyire az a BTCPayay szerver, vagy vannak ilyen androidos fejlesztések is, ami csak így telefonon volt ugye ilyen egyszerűbb usereknek, mint fodrász mit tudom énom valamit, de nyilván cégeknek jobb ez.
 
 Hát egy egy fodrásznak tipikusan egy blinket.
 
@@ -922,7 +922,7 @@ Igen.
 
 Olyan, ahol nem is kell egyesével könyvelni.
 
-Ja, tehát az ez a a egy fodrásznál kicsit szofisztikáltabb üzletek van szüksége már a BTCP szerverre.
+Ja, tehát az ez a a egy fodrásznál kicsit szofisztikáltabb üzletek van szüksége már a BTCPayay szerverre.
 
 Múltkor én állatorvosnál fizettem Bitcoinnal.
 
@@ -1060,7 +1060,7 @@ Biztos azért, mert gondolta, hogy addigra neki is beérnek ezek a hiteles vonal
 
 Igen.
 
-Tehát, hogy a Jack Mers is arra tippelt, hogy akkoriban lesz nagyobb igény.
+Tehát, hogy a Jack Mallers is arra tippelt, hogy akkoriban lesz nagyobb igény.
 
 Meglátjuk ezeket a dolgokat. kell veszegetni szépen.
 
@@ -1194,7 +1194,7 @@ Még ha megoldja valaki ezeknek a a custodyját, tehát azt, hogy hova tárolja,
 
 De de jelenleg ugye van hát nem tudom, ugye egyre több ilyen piaci szereplő lépve, egyre több ilyen cég.
 
-Most nagy reményekkel tekintünk az üstökös eljövetelé irányába, hogy majd a Jack Mallsék lesznek azok, akik nem papírbit fognak vásárolni, meg ezek a picik kvázi ezek a kicsi ilyen ilyen japán cégolója német biztosító.
+Most nagy reményekkel tekintünk az üstökös eljövetelé irányába, hogy majd a Jack Mallersék lesznek azok, akik nem papírbit fognak vásárolni, meg ezek a picik kvázi ezek a kicsi ilyen ilyen japán cégolója német biztosító.
 
 Ezt se tudjuk, hogy ők hol tárolják.
 
