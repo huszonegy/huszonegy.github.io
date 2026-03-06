@@ -526,7 +526,7 @@ Azt kell tudni az ilyen Nostr-ös adásokról, hogy ez talán nem érdekel annyi
 
 – Ühüm.
 
-– Ez az egyik. Meg van egy magyar kliens is. Magyarított magyarra fordított kliens. a amit Köztérnek neveztem el, de egyébként az egy jumble Jumble Socialnak egy magyar fordítása. És az az egyik jó tulajdonsága ennek a kliensnek, hogy azon kívül, hogy magyar, hogy lehet böngészni vele relayeket, hogyha bejön, akkor és megáll töltés, akkor meg tudom mutatni, hogy Ja, itt nem tudom. Aha. Szóval ez a van egy magyar Nostr relay, a relay.nostr.hu, ahova az előbb említett usereknek joguk van írni, tehát ezt tudják használni, és itt tudjuk böngészni a magyar usereknek a posztjait. Ki mit ki mit ír.
+– Ez az egyik. Meg van egy magyar kliens is. Magyarított magyarra fordított kliens. a amit [Köztér](https://kozter.nostr.hu/?r=relay.nostr.hu)nek neveztem el, de egyébként az egy Jumble Socialnak egy magyar fordítása. És az az egyik jó tulajdonsága ennek a kliensnek, hogy azon kívül, hogy magyar, hogy lehet böngészni vele relayeket, hogyha bejön, akkor és megáll töltés, akkor meg tudom mutatni, hogy Ja, itt nem tudom. Aha. Szóval ez a van egy magyar Nostr relay, a relay.nostr.hu, ahova az előbb említett usereknek joguk van írni, tehát ezt tudják használni, és itt tudjuk böngészni a magyar usereknek a posztjait. Ki mit ki mit ír.
 
 – Ühüm. És ki min ír.
 
