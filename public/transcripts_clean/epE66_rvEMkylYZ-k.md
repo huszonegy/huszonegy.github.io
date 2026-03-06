@@ -1,6 +1,6 @@
 Sziasztok! Üdvözlünk mindenkit itt a HUSZONEGY Bitcoin podcastban. Ez a 66. epizódunk.
 
-Mai vendégeink pedig Dani és Lesz. Leszvel már találkozhattatok a Nostr-on a podcast révén.
+Mai vendégeink pedig Dani és Lez. Lezzel már találkozhattatok a Nostr-on a podcast révén.
 
 Ja, igen, tényleg volt egy ilyen most találkoztattak előtte. Ja, igen. Úgyhogy most így személyesen is itt van arccal. illetve Dani is, akivel most elmélyülünk majd a Bitcoin elfogadás témakörébe, hogy hogyan lehet ennek jól neki kezdeni meg ilyesmik, illetve még ugye most volt a Bitcoin Pizza Day, erről is szerintem egy kisebb beszámolót majd így ejthetünk, úgyhogy át is adnám a szót.
 
@@ -20,7 +20,7 @@ Ez ugye kettő darab pizza volt, amiért a Laszlo Hanyecz nevű úriember 10000 
 
 Annyi, hogy szerintem sokan losernek nézik ezt az arcot, mert ma már rengeteg pénzt ér 10000 bitcoin, de ha úgy nézzük, több hatása lett a világra, mint szerintem bármelyikünknek itt a podcast készítője és hallgatói között. Igen. Ja.
 
-Megfelítés kérdés, hogy hogy állunk hozzá. mindenképpen egy ilyen selfless act volt, tehát egy ilyen önzetlen tett. És én is ugyanarra a törzselyére járok, mint lesz. És a fiam körülbelül akkor született, mint amikor ez az esemény történt.
+Megfelítés kérdés, hogy hogy állunk hozzá. mindenképpen egy ilyen selfless act volt, tehát egy ilyen önzetlen tett. És én is ugyanarra a törzselyére járok, mint Lez. És a fiam körülbelül akkor született, mint amikor ez az esemény történt.
 
 Most 17 éves, és egy éve, másfél éve azt találta ki, hogy ő mindenképp pizzát fog sütni, ebben akar elmélyülni. a szabadoktatással tanárként foglalkozom, és abban tudtam támogatni, hogy itt a Dunakanyarban egy keramikus barátomnál csinált egy olyan kemencét, ami hordozható, 20 kgs, és 450 fokot tud benne csinálni 20 perc alatt. Egy nagyon takarékos pizzakészítő. És akkor ezt nem első alkalommal már kétszer voltunk ezen ebben a kávézóban, és már van híre a Marci fiamnak a pizzájának, úgyhogy tudtuk, hogy fognak jönni erre az emberek.
 
@@ -188,7 +188,7 @@ Nem szükséges a tudás, talán túlélik még anélkül is, de amikor már ott
 
 Ők mondjuk kriptónok nevezik, de hát majd kinövik, is használják. Vicces egyébként, hogy pont ma kezdődik a Los Angelesi Bitcoin konferencia. Nem tudom, hogy figyelitek-e így a az X-en vagy a [Nostr](https://nostr.hu)-on a híreket.
 
-Gondolom igen, azt tudom lesz, hogy te nagy Nostr-os vagy. Kérdés az, hogy nézzétek-e mostanában, hogy milyen hírek zengik körül így az amerikai gazdaságot, illetve hogy nem csak az amerikait, hanem így a világgazdaságun belül is mindenféle országból jönnek hírek, hogy hogy ilyen cég, olyan cég vásárolt bitcoint a treasuryébe, tehát hogy mérlegébe kimutassa, de gyakorlatilag ilyen pénzkészletként betáraznak belőle. Tehát vannak japán cégek, kínai cégek, amerikai cégek, német cégek, francia cégek.
+Gondolom igen, azt tudom Lez, hogy te nagy Nostr-os vagy. Kérdés az, hogy nézzétek-e mostanában, hogy milyen hírek zengik körül így az amerikai gazdaságot, illetve hogy nem csak az amerikait, hanem így a világgazdaságun belül is mindenféle országból jönnek hírek, hogy hogy ilyen cég, olyan cég vásárolt bitcoint a treasuryébe, tehát hogy mérlegébe kimutassa, de gyakorlatilag ilyen pénzkészletként betáraznak belőle. Tehát vannak japán cégek, kínai cégek, amerikai cégek, német cégek, francia cégek.
 
 És akkor jelennek meg így sorra az országok. Most például aziszem pont ma reggel Pakisztánról olvastam, hogy azt nyilatkozták, hogy Pakisztán is szeretné kivenni a a részét a Bitcoin bányászatból, és azért ott is vannak erőművek, és egész komoly, az hiszem 20%-os energia transzfert szeretnének ráfordítani erre a Bitcoin bányászatra. Tehát annyi fölös energiájuk van, amit eddig el tudtak adni, de most úgy gondolják, hogy inkább itt bányásznának vele.
 
@@ -232,7 +232,7 @@ Csak néhány embernek kell szólni, akik összekötik őket a megsz a magnak. �
 
 Igen. Jó, akkor ide kitesszük majd szépen a Telegram QR kódot, és ott tudtok csatlakozni ehhez a Bitcoin csoporthoz. Tényleg nagyon szívesen segítünk benne.
 
-Iratkozzatok fel a YouTube csatornánkra, kövessétek a Facebook csoportunkat, ahol napi szinten olyan posztokat osztunk meg magyar nyelven, amik csak itt elérhetőek magyarul. Ismerkedjetek a podcastunkat támogató négy csillagos szállodákkal, a Hotel Atlantisszal és a Hotel Aurorával, melyek remek wellness lehetőséget is kínálnak, és nem utolsó sorban ne adjátok el a bitcoinotokat! A mai részbe akkor ennyi fért bele. Köszönöm Dani neked, meg lesz neked a a mai ittlétet és hogy erről beszámoltatok.
+Iratkozzatok fel a YouTube csatornánkra, kövessétek a Facebook csoportunkat, ahol napi szinten olyan posztokat osztunk meg magyar nyelven, amik csak itt elérhetőek magyarul. Ismerkedjetek a podcastunkat támogató négy csillagos szállodákkal, a Hotel Atlantisszal és a Hotel Aurorával, melyek remek wellness lehetőséget is kínálnak, és nem utolsó sorban ne adjátok el a bitcoinotokat! A mai részbe akkor ennyi fért bele. Köszönöm Dani neked, meg Lez neked a a mai ittlétet és hogy erről beszámoltatok.
 
 Úgyhogy mindenképpen támogatunk a jövőben hasonló kezdeményezéseket. Úgyhogy köszönjük szépen a figyelmet. Ennyi fért a mai adásba és egy hét múlva találkozunk.
 
