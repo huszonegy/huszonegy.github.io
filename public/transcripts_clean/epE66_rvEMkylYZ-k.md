@@ -108,7 +108,7 @@ Tehát ilyesmikre gondolok. hogy át lehet vele hídalni olyan olyan idő idősz
 
 Tehát tulajdonképpen minden nap volt egy-két-három óra, amíg csak ezzel foglalkoztam. Dizájn dizájnt megcsinálni, a narratívát kitalálni, kitalálni azt, hogy igazából ez egy bringatúra legyen. Aztán jöttek a visszajelzések, hogy hát ő nem akar bringázni, ő se akar bringázni, igazából nem is akarnak bringázni az embereket.
 
-Akkor nem az lesi motorra jön. Tehát egy kicsit így bonyolult volt, de főleg a szociális része volt bonyolult nekem. Ühüm.
+Akkor nem, az Lez, ő motorral jön. Tehát egy kicsit így bonyolult volt, de főleg a szociális része volt bonyolult nekem. Ühüm.
 
 Úgy látszik, nem ismerem eléggé az ember embereknek a szokásait, vagy mindenkit saját magamhoz mérek. Végül hárman voltunk, akik azt a bringatúrát megtettük, ami a flyeren volt. De de nyolc nyolc10 ember volt a az első két helyen, és hát körülbelül körülbelül 21-en voltunk a zsengélőben.
 
