@@ -496,7 +496,7 @@ Ugye van a kis meetup oldalunk a honlapon — aki lecsekkolja a [huszonegy.world
 
 – csak gyakorlás kérdése.
 
-– Gigatonnányi magyar nyelvű Bitcoin oktatóanyagot osztunk meg a 21 honlapján. Ezek a 21.w címen található anyagok bárki számára ingyenesen hozzáférhetők. Azok számára pedig, akik személyes támogatást igényelnek, szeretettel ajánljuk a Bitcoin mentor szolgáltatásait. A bitcoinmentor.hu honlapon részletesen olvashatsz a Bitcoin tanácsadásról, a Bitcoin blogban pedig egyre több értékes bejegyzést találsz. Iratkozz fel a 21 podcast YouTube csatornájára, valamint a Rumble csatornánkra is. Kövesd a 21-et a Facebookon és a Nostr-on. Támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és Bitcoint tartalékoló négycsillagos wellness szállodái Hotel Auróra és a Hotel Atlantis. És a Firefish üzeni, hogy ne adjátok el a Bitcoinotokat. Köszönjük, Pásztornő. [nevetés]
+– Gigatonnányi magyar nyelvű Bitcoin oktatóanyagot osztunk meg a 21 honlapján. Ezek a 21.w címen található anyagok bárki számára ingyenesen hozzáférhetők. Azok számára pedig, akik személyes támogatást igényelnek, szeretettel ajánljuk a Bitcoin mentor szolgáltatásait. A bitcoinmentor.hu honlapon részletesen olvashatsz a Bitcoin tanácsadásról, a Bitcoin blogban pedig egyre több értékes bejegyzést találsz. Iratkozz fel a 21 podcast YouTube csatornájára, valamint a Rumble csatornánkra is. Kövesd a 21-et a Facebookon és a Nostr-on. Támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és Bitcoint tartalékoló négycsillagos wellness szállodái Hotel Aurora és a Hotel Atlantis. És a Firefish üzeni, hogy ne adjátok el a Bitcoinotokat. Köszönjük, Pásztornő. [nevetés]
 
 – Én köszönöm.
 
