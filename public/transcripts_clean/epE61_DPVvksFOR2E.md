@@ -1,4 +1,4 @@
-Üdvözlök mindenkit. Ugye ez a HUSZONEGY Bitcoin podcast és most egy rendhagyó helyszínről jelentkezem, mert nem állt módunkban online felvenni az adást technikai nehézségek miatt. Úgyhogy ezt a részt úgy gondoltuk megoldani ápival, hogy mind a ketten fölveszünk egy-egy részt, és RPS majd összevágja.
+Üdvözlök mindenkit. Ugye ez a HUSZONEGY Bitcoin podcast és most egy rendhagyó helyszínről jelentkezem, mert nem állt módunkban online felvenni az adást technikai nehézségek miatt. Úgyhogy ezt a részt úgy gondoltuk megoldani Árpival, hogy mind a ketten fölveszünk egy-egy részt, és Árpi majd összevágja.
 
 Úgyhogy előre elnézést kérek, hogyha egy kicsit ilyen monológ lesz az egész, de szerintem egy nagyon érdekes témát érintünk megint. Hogy lesz ez? Jó. Így.
 
@@ -14,9 +14,9 @@ Hát sokan mondhatják azért, mert elsődlegesen olyan eszközökbe teszik az e
 
 Viszont a Bitcoin relációjában érdemes boncolgatni a témát, hogy hogy van ez itt szabályozva az árral, hogy van-e szabályozva és lehetséges-e elméletben az árfolyam szabályozása valamilyen szinten. Hát ugye tudjuk, hogy a Bitcoin az szűkös, 21 millió lesz valaha belőle, és a szűkösségéből adódóan az árfolyama, illetve az ellenőrizhetőségéből adódóan árfolyamot nehéz manipulálni, illetve hát ez már egy következménye ennek, de mégis lehetséges. És és ez megint egy teória.
 
-Meg nagyon sokan nem fogtok velem egyetérteni, mert sokan azt mondják, hogy a az árfolyam az pusztán a kereslet és a kínálat nakak a függvénye. Ezt persze levetíthetjük eddig, de ez akkor igaz, hogyha a rendszer, illetve a modellünk úgy működik, ahogy azt akarjuk. Na most ez a modell szerintem ott tud megdőlni, hogy hogy a piaci szereplők, akik a ezt a világméretű kontrollt szeretik maguknál tartani, azok nem engedhetik meg azt, hogy hogy a bitcoinban a number go az nagyon megrámozza itt a az emberiségnek ezt a Bitcoin nevű megoldást, mert ugye hogyha így járnának, hogy megengednék, akkor akkor ez kapna egy akkora publicitást, amivel ami robbanásszerű lenne, és nem tudnának ezzel a népszerű dologgal annyit annyira mit kezdeni.
+Meg nagyon sokan nem fogtok velem egyetérteni, mert sokan azt mondják, hogy a az árfolyam az pusztán a kereslet és a kínálatnak a függvénye. Ezt persze levetíthetjük eddig, de ez akkor igaz, hogyha a rendszer, illetve a modellünk úgy működik, ahogy azt akarjuk. Na most ez a modell szerintem ott tud megdőlni, hogy hogy a piaci szereplők, akik a ezt a világméretű kontrollt szeretik maguknál tartani, azok nem engedhetik meg azt, hogy hogy a bitcoinban a number go az nagyon megrámozza itt a az emberiségnek ezt a Bitcoin nevű megoldást, mert ugye hogyha így járnának, hogy megengednék, akkor akkor ez kapna egy akkora publicitást, amivel ami robbanásszerű lenne, és nem tudnának ezzel a népszerű dologgal annyit annyira mit kezdeni.
 
-Így se nagyon tudnak, de minden eszközt szerintem bevet az ellenérdekelt fél, vagy felek csoportja vagy tömege, hogy ez a number goup technológia, ugye ez a amikor a bitcoin ára mindig felfelé megy, ez ne legyen annyira nyilvánvaló. Persze akik nem a hírekből reggelizünk, azok és inkább a tényeket próbáljuk meg elfogadni, meg megvizsgálni, hogy minek van hírértéke vagy tényértéke, azok rájöhettünk arra, hogy bizony a bitcoinnak az árfolyam az emelkedik, meg még fog is. Lehet, hogy rövid távon nem, de hosszú távon biztosan.
+Így se nagyon tudnak, de minden eszközt szerintem bevet az ellenérdekelt fél, vagy felek csoportja vagy tömege, hogy ez a „number go up" technológia, ugye ez a amikor a bitcoin ára mindig felfelé megy, ez ne legyen annyira nyilvánvaló. Persze akik nem a hírekből reggelizünk, azok és inkább a tényeket próbáljuk meg elfogadni, meg megvizsgálni, hogy minek van hírértéke vagy tényértéke, azok rájöhettünk arra, hogy bizony a bitcoinnak az árfolyam az emelkedik, meg még fog is. Lehet, hogy rövid távon nem, de hosszú távon biztosan.
 
 Na most én írtam egy pici jegyzetet magamnak erről, mivel a dialógus egyszemélyesen elég nehéz. Cserébe betettem nektek egy ilyen szép hátteret. Szóval néha bele fogok pillantani ebbe, de de nagyon jó kis vázlat szerintem.
 
@@ -26,21 +26,21 @@ Emiatt kellene nőnie a a az árfolyamnak folyamatosan, hiszen tudjuk, hogy az a
 
 Mondhatnám itt estig, hogy milyen tőzsdék kellene bitcoint vásárolni. Ö hát ezek nem annyira transzparensek. Tudjuk ugyan, hogy milyen címek tartozhatnak hozzájuk, de például amikor az ETF-eket bevezették, akkor már ez a fajta kontrollunk egy kicsit kezdett kicsúszni szerintem a a kezünkből bitcoinerekként.
 
-Ugye mondhatom ezt így többszámban, azért, mert az ETF-ek, de ezt majd bővebben kifejtem, okot adhatnak arra, illetve, hogy elméletileg lehetővé teszik azt, hogy hogy bizonyos bitcoinoknak több gazdályos legyen. Ugye, hogyha te vagy én ilyet csinálnánk, tehát mondjuk egy autókereskedő fogná és egy bizonyos Mercedes eladna kétszer, háromszor, négyszer, akkor ez hamar kiderülne, mert valamelyik A, B, C vagy D tulajdonos, hogyha odasétálna az autóhoz, és ha még lenne is hozzá kulcsa, akkor lehet, hogy nem találná ott, vagy elsődlegesen, vagy vagy nem, valamiféle konflikt konflikt lenne. Na most ezek a centralizált tőzsdék meg tudják csinálni ezt azért, mert azok a tulajdonosok, azok a Bitcoin tulajdonosok, akik azt mondják, hogy hát igen, nekem is van bitcoinom, és ha megkérdezed tőle, hogy de hol van ez a Bitcoinod? Hát hol lenne át a coinbase?
+Ugye mondhatom ezt így többszámban, azért, mert az ETF-ek, de ezt majd bővebben kifejtem, okot adhatnak arra, illetve, hogy elméletileg lehetővé teszik azt, hogy hogy bizonyos bitcoinoknak több gazdája legyen. Ugye, hogyha te vagy én ilyet csinálnánk, tehát mondjuk egy autókereskedő fogná és egy bizonyos Mercedes eladna kétszer, háromszor, négyszer, akkor ez hamar kiderülne, mert valamelyik A, B, C vagy D tulajdonos, hogyha odasétálna az autóhoz, és ha még lenne is hozzá kulcsa, akkor lehet, hogy nem találná ott, vagy elsődlegesen, vagy vagy nem, valamiféle konfliktus lenne. Na most ezek a centralizált tőzsdék meg tudják csinálni ezt azért, mert azok a tulajdonosok, azok a Bitcoin tulajdonosok, akik azt mondják, hogy hát igen, nekem is van bitcoinom, és ha megkérdezed tőle, hogy de hol van ez a Bitcoinod? Hát hol lenne át a coinbase?
 
 Ja, hát akkor neked nincsen bitcoinod, csak azt mondják, hogy van. Akkor valójában neked csak egy emailed vagy egy online kimutatásod van arról, hogy a Coinbase tartozik neked egy bitcoinnal, vagy egy féllel, vagy egy 0,1-sel. Tök mindegy, hogy most ez mennyi.
 
 Valójában pedig ez ott derül ki, hogy ez a tiéde, hogyha ha rányomsz arra, hogy withdraw, vagyis, hogy kiutalás, és azt mondják, hogy hát most ezt azért nem kapod meg, mert te nem adtál be nekem egy, mit tudom én, egy lábméretet, vagy egy egy internet számlát, internetelőfizetés számlát, úgyhogy addig mi nem tudjuk neked kiadni a bitcoint. Amíg ezt ezt nekünk nem prezentálod, ugye? Hát akkor kiér most ez a Bitcoin, ami ott van, és és mégse éri el a delikvens? Hát ez olyankor nem az övé.
 
-Tehát ez a folyamat az, amikor mutatnak valamit, hogy van, de nincs. Ezt ismerjük, mert ez egy nagyon régi módszere ennek a csalóbandának, aki itt a pénzvilágot eddig manipulálta, meg még fogja is egy darabig. Tehát ez úgynevezett papír bitcoin, ugye, hiszen az az igazi, ami nálad van Cold Storage-ba, és erről is egy csomó műsorunk volt már.
+Tehát ez a folyamat az, amikor mutatnak valamit, hogy van, de nincs. Ezt ismerjük, mert ez egy nagyon régi módszere ennek a csalóbandának, aki itt a pénzvilágot eddig manipulálta, meg még fogja is egy darabig. Tehát ez úgynevezett papír bitcoin, ugye, hiszen az az igazi, ami nálad van cold storage-ban, és erről is egy csomó műsorunk volt már.
 
-Azzal tudsz rendelkezni, az van nálad, annak a kulcsait birtoklod. Ebből viszont valóban összesen 21 millió lehet, de ez a rátelepedő, hát inkább parazitának nevezném ez a központi lag szabályozott vagy központi tőzsde. Most ez tényleg mindegy melyik ez.
+Azzal tudsz rendelkezni, az van nálad, annak a kulcsait birtoklod. Ebből viszont valóban összesen 21 millió lehet, de ez a rátelepedő, hát inkább parazitának nevezném ez a központilag szabályozott vagy központi tőzsde. Most ez tényleg mindegy melyik ez.
 
 Ugye ez megteheti, hogy nem mutat neked vagy nem ad neked bitcoint. Ugyanígy megtehetik az ETF-ek. Ezek az ETF-ek, ezek a tőzsdén kereskedett alapot, ugye exchange traded fundok, ezek is megtehetik ezt.
 
 Hatalmas mennyiségű bitcoint bitcoint tartanak ellenőrizhetetlen módon, és ebben is előállhat olyan helyzet, hogy hogy ez a hogy ez az ár nem tükrözi a valóságot. És ugye amikor itt most az elmúlt időszakban meglódult a Bitcoin és elért ilyen új magasságokat, ilyen 100000 dollárt, akkor mindenki mennyire örült és milyen jó volt a hangulat. Aztán úgy gondolták, hogy most egy kicsit piaci félelmet kéne generálni, és ez a félelem most tarifák formájában jött a narancssárga színű embertől.
 
-És erre az volt a narratíva, hogy akkor hú, hát most ez mennyire összealásztja a világgazdaságot. Valóban nyilván megnehezíti bizonyos ellátási láncok működését, hogyha ilyen 100-200%-os védővámokat vetnek ki az amerikaiak. Mondjuk ez ugye Kína esetén van.
+És erre az volt a narratíva, hogy akkor hú, hát most ez mennyire összeomlasztja a világgazdaságot. Valóban nyilván megnehezíti bizonyos ellátási láncok működését, hogyha ilyen 100-200%-os védővámokat vetnek ki az amerikaiak. Mondjuk ez ugye Kína esetén van.
 
 A többiek nem kaptak ekkorát, de hát nyilván azért egy ilyen törékeny gazdaság, mint a 21. Század eleji emberiségnél, ami van, ez nem bír ki ilyen dolgokat, és ez óhattanul pánikot eredményez. Na most a narratíva az, hogyha pánik van, akkor ezek a liquid eszközök fogják ezt a pánikot elhárítani.
 
@@ -54,7 +54,7 @@ Tehát ez a kötési könyv, vagy nem tudom mi ez, amikor vannak a a kínálati 
 
 És akkor mindenki így depresszióba esett, hogy úristen, hát hogy akkor most ez a liquid eszköz, ez most megint azt fogja kommunikálni, amit itt a világgazdaság érez. Tehát gyakorlatilag egy tőzsde pszichológiai mit mondjak rá jelzés felénk, hogy hát most nem annyira egészséges a világgazdaság, akkor akkor most a bitcoinnél se adnak annyit. Ez azért kamu, mert én ennyért nem adom el, de ti se adjátok el valószínűleg, hiszen nem azért gyűjtögetjük, hogy amikor bezuhan a tőzs, de akkor eldobáljuk.
 
-Bitcoin ugye ilyenkor örül, mert akkor ha van valamiféle cash flowja, ami pozitív, akkor azzal tud vásárolni egy ilyen kis nyomott tárakon. Hát nyomott táre a 70000, nem tudom. Régen ugye szerettük volna, hogyha a 70000 az nem lett volna nyomott tár. Most meg azt mondjuk, hogy az.
+Bitcoin ugye ilyenkor örül, mert akkor ha van valamiféle cash flowja, ami pozitív, akkor azzal tud vásárolni egy ilyen kis nyomott árakon. Hát nyomott ár-e a 70 000, nem tudom. Régen ugye szerettük volna, hogyha a 70 000 az nem lett volna nyomott ár. Most meg azt mondjuk, hogy az.
 
 Na most ma már nem ennyire rettenetes a helyzet, ugyanis ma reggel ilyen 93-94000 dollár környékén mozog ismét a Bitcoin, és valószínűleg fogy ki a munícióból az a fél, aki ezeket az order bookokat negatív vagy számunkra kedvezőtlen irányba hajtja. Hát most az, hogy kinek mi a kedvezőtlen, az nyilván attól függ, hogy hogy tudja-e még jelentős mértékben növelni a a számát a bitcoinjainak. Sokan azt mondják, hogy akkor érdemes bitcoint venni, amikor amikor amikor tudod jelentősen befolyásolni.
 
@@ -66,17 +66,17 @@ Hát miért áll érdekében bizonyos intézményeknek a Bitcoin árának alacso
 
 Gyakorlatilag ez egy egy gombos vezérlő, ez a gomb pedig a nyomtas pénzt gomb. Ugye erre nagyon sok mén van. Ezzel az egy gombbal lehet vezérelni a világgazdaságot. Pénzkészletet növeli ez a gomb.
 
-Tehát hogyha valaki megnyomja, mert nincs elég likviditás így a gazdaságban, akkor megnyomja a nyomtass pénzt gombot, akkor akkor ismét beindul a jólét, és akkor egyre több pénz kering, egyre több megbízás vagy élénkülés látszik a gazdaságban. Hogyha ezt a gombot nem nyomogatják, akkor ez a likviditás, ez pedig szépen kicsorog ebből a vödörből, mint a víz, egy lyukas vödörből, és belecsorog azokba a zsebekbe, akik a kantilonerek. Ugye ez a kaszt, aki közelül a a gombnyomóhoz.
+Tehát hogyha valaki megnyomja, mert nincs elég likviditás így a gazdaságban, akkor megnyomja a nyomtass pénzt gombot, akkor akkor ismét beindul a jólét, és akkor egyre több pénz kering, egyre több megbízás vagy élénkülés látszik a gazdaságban. Hogyha ezt a gombot nem nyomogatják, akkor ez a likviditás, ez pedig szépen kicsorog ebből a vödörből, mint a víz, egy lyukas vödörből, és belecsorog azokba a zsebekbe, akik a cantillonérek. Ugye ez a kaszt, aki közelül a a gombnyomóhoz.
 
-Na most a gombnyomóval nagyon jó jóban lenni, hiszen állami megrendelések általában nem maradnak, nem maradnak kifizetés nélkül. Tehát ha például van egy autópályaépítő céged, az jó nagy valószínűséggel nem fog csődbe menni, mert akármit számlázol ki, arra mindig lesz valami kedves barát, aki azt mondja, hogy beszéltem a gombnyomóval, és holnapra nálatok van az x milliárd akármi, ilyen pénz, euró, forint, tök mindegy, hogy melyik országban vagyunk, mert a korrupció mindenhol van, lesz is, mert ez egy ilyen emberi tulajdonság valószínűleg. Úgyhogy amikor Szatosi azt mondta, illetve az előtte álló cyherpunkok, hogy próbáljuk már meg kihúzni ezt az állam kezéből, ezt a hát ne csak az erőszakmonopóliumot, hanem a pénzgyártás monopóliumát is, akkor akkor ugye ő azt mondta, hogy jó lenne ebből a képletből kivonni az embert, mert az embernek olyan tulajdon biztonságai vannak, amik esetleg a a többi emberre nincsenek jó hatással.
+Na most a gombnyomóval nagyon jó jóban lenni, hiszen állami megrendelések általában nem maradnak, nem maradnak kifizetés nélkül. Tehát ha például van egy autópályaépítő céged, az jó nagy valószínűséggel nem fog csődbe menni, mert akármit számlázol ki, arra mindig lesz valami kedves barát, aki azt mondja, hogy beszéltem a gombnyomóval, és holnapra nálatok van az x milliárd akármi, ilyen pénz, euró, forint, tök mindegy, hogy melyik országban vagyunk, mert a korrupció mindenhol van, lesz is, mert ez egy ilyen emberi tulajdonság valószínűleg. Úgyhogy amikor Szatosi azt mondta, illetve az előtte álló cypherpunkok, hogy próbáljuk már meg kihúzni ezt az állam kezéből, ezt a hát ne csak az erőszakmonopóliumot, hanem a pénzgyártás monopóliumát is, akkor akkor ugye ő azt mondta, hogy jó lenne ebből a képletből kivonni az embert, mert az embernek olyan tulajdon biztonságai vannak, amik esetleg a a többi emberre nincsenek jó hatással.
 
-Hát ez az egyik az ilyen gombnyomási addikció, amit itt a központi bankárok végeznek, de hát ők is csak valakinek dolgoznak. Nem akarom bántani őket. Valószínűleg, ha én ülnék ott, én is ugyanúgy bőszen nyomkorásználám ezt a gombot.
+Hát ez az egyik az ilyen gombnyomási addikció, amit itt a központi bankárok végeznek, de hát ők is csak valakinek dolgoznak. Nem akarom bántani őket. Valószínűleg, ha én ülnék ott, én is ugyanúgy bőszen nyomkodnám ezt a gombot.
 
 Mondjuk nem tudom, hogy ki milyen erkölcsel van megáldva. Ők számomra nincsenek nagyon mélyel. Szóval a központi bankoknak nem annyira érdeke az, hogy a Bitcoin terjedjen, mert köszönik, jól vannak.
 
 A kormányoknak sem annyira érdeke ez, mert mert ugye egy ilyen alternatív pénzrendszer, mint a Bitcoin, az ez fenyegetést jelent nekik. Ők az infláción nőttek föl, meg a hitelkihelyezésen szocializálódtak, ami ami egy állami kontroll, tehát az állami állami kézben lévő dolog. Az, hogy milyen programok vannak, ugye ebbe az IMF nagyon jól szokott diktálni, meg a meg a világbank a földgolyó másik oldalán, és ők elmondják, hogy éppen mire kell ezt a pénzt fordítani.
 
-Vicces, mert volt az elmúlt időszakban a a DJs vagy nevezzük így. Ez a Department of Government Efficiency, amit az Elon Musk szorgalmazott, és ugye az amerikai kormánystruktúrába be is épített a Trump elnökkel. És ez például talált olyat, hogy ez csak ilyen ilyen fun fact, ilyen kis érdekesség, hogy volt tanulmány arra, hogy az egereknek a nem átalakító műtétére különítettek el pénzt.
+Vicces, mert volt az elmúlt időszakban a DOGE, vagy nevezzük így. Ez a Department of Government Efficiency, amit az Elon Musk szorgalmazott, és ugye az amerikai kormánystruktúrába be is épített a Trump elnökkel. És ez például talált olyat, hogy ez csak ilyen ilyen fun fact, ilyen kis érdekesség, hogy volt tanulmány arra, hogy az egereknek a nem átalakító műtétére különítettek el pénzt.
 
 Na most ilyen baromságokat könnyű azért kitalálni, tehát az ember tud kreatív lenni. Én is tudnék kreatív lenni, hogyha lenne egy olyan barátom, aki azt mondja, hogy figyelj, én nyomkodom a gombot, te meg találj ki ilyeneket, és akkor majd jó lesz. Sajnos senki nincs, vagyis hát ismerősi körömben nincs ilyen pozícióban senki.
 
@@ -84,7 +84,7 @@ Na most ilyen baromságokat könnyű azért kitalálni, tehát az ember tud krea
 
 Azt lehet mondani, hogy jó úton járunk, hiszen a rendszeren látjuk már a repedéseket. Na most vannak még egyéb nagy pénzügyi intézmények, akiknek megítélésem szerint nem annyira előnyös a Bitcoin, mint megoldás. Ez pedig az ilyen óriási alapkezelő.
 
-A Black Rock, Vanguard, meg ki tudja még mik, akik ugye gyakorlatilag a a globális piacon lévő összes nagy vállalatnak a részvényesei. Erre volt egyébként egy nagyon jó videó itt a YouTube-on majd. Hát most nem ígérem azt, hogy belinkelem, mert ez egy Bitcoin podcast, de akit érdekel, az írjon rám Telegramon, és akkor annak nagyon szívesen elküldöm, hogy hogy ez a globális corporate világ, tehát ez a globális pénzügyi meg gazdasági világ milyen cégekből áll, milyen cégcsoportokból, és ezeknek kik a tulajdonosai.
+A BlackRock, Vanguard, meg ki tudja még mik, akik ugye gyakorlatilag a a globális piacon lévő összes nagy vállalatnak a részvényesei. Erre volt egyébként egy nagyon jó videó itt a YouTube-on majd. Hát most nem ígérem azt, hogy belinkelem, mert ez egy Bitcoin podcast, de akit érdekel, az írjon rám Telegramon, és akkor annak nagyon szívesen elküldöm, hogy hogy ez a globális corporate világ, tehát ez a globális pénzügyi meg gazdasági világ milyen cégekből áll, milyen cégcsoportokból, és ezeknek kik a tulajdonosai.
 
 Nagyon érdekes ábra jön ki ebből, hogy gyakorlatilag mindenki mindenkinek a tulajdonosa, de leginkább ezek a nagy alapkezelők mindenkinek a tulajdonosai. Kivéve persze a családi vállalkozásokat, ahol ismert, hogy mondjuk papa-mama ö adja bérbe azt a két szobát, vagy vagy gyártja a mit tudom én kulcstartókat. Tehát az ilyen igazán jelentőséges, jelentőségteljes iparágakat, azt meghagyták nekünk, kedves tőlük.
 
@@ -92,13 +92,13 @@ Szóval ezek a nagy intézmények, ezek sem a Bitcoin barátai. Igen. Nekik ugye
 
 És erre most már azért vannak eszközök, de szerencsére a hülyeség ragályos, és egyre többen ismerik fel azt, hogy a Bitcoin az megoldást tud erre nyújtani. Hát hogyan ismerhetjük föl a a manipulációt a piacon? Mert szerintem van, mert elméletileg lehetséges.
 
-Ugye az ETF-ek is lehetővé teszik, hiszen többféle típusuk van, és elszámolásukból adódóan nem zárható ki nulla valószínűséggel, hogy megtörténik ilyen eset. Ugye sokan nem szeretjük a Coinbase-t azt mondjuk, hogy papír bitcoincoint árul. Sokan azt mondjuk, hogy hát legalábbis én, hogy hogy azok, akik a coinbzen vásárolnak, én azokat sem annyira csípem, mert megoldhatnák igazán, hogy ez a több 100000 bitcoinjuk ez valamiféleképpen más custodyba legyen. Megy el megy el a kép, jön föl a nap.
+Ugye az ETF-ek is lehetővé teszik, hiszen többféle típusuk van, és elszámolásukból adódóan nem zárható ki nulla valószínűséggel, hogy megtörténik ilyen eset. Ugye sokan nem szeretjük a Coinbase-t azt mondjuk, hogy papír bitcoint árul. Sokan azt mondjuk, hogy hát legalábbis én, hogy azok, akik a Coinbase-en vásárolnak, én azokat sem annyira csípem, mert megoldhatnák igazán, hogy ez a több 100000 bitcoinjuk ez valamiféleképpen más custodyba legyen. Megy el megy el a kép, jön föl a nap.
 
 Na mindegy. Szóval a Bitcoin ármanipulációját szerintem leginkább úgy ismerhetjük föl, hogy vagyis olyan olyan eseményekkor, hogy amikor ezzel a narratívával, ezzel a gazdasági narratívával együtt megy az ár. Ugye nagyon sokszor azt mondjuk, hogy a Bitcoin, hát ott nem tudjuk mit csinál, és nem is tudjuk, és aki azt mondja, hogy tudja, az valószínűleg hazudik.
 
 Tehát az összes ilyen elemző meg ilyen banánrajzoló, ilyen chartos alak, aki ugye biztos láttatok már ilyet, hogy így itt fölpattant, itt van egy csésze, itt egy Head and Shoulders diagram, és akkor most merre megy? Figyelj, vagy bejön, vagy nem. Én azt mondom, hogy nem fog ez nagyon bejönni, mert mindig van egy véletlen komponens, amit nem látsz, illetve van egy olyan komponens, ami egy kicsit ilyen összehangoltabb működést enged feltételezni.
 
-Na most van a ugye a biztosít méritek ezt a Bart Simpson diagramot. Most a saját fejemen mutattam, de ez is sokszor ellőjön a Bitcoin árfolyamába, hogy hogy megugrik pár ezerrel vagy pár százalékkal, és akkor azt tartja mondjuk egy napig, a végén meg lecsenge, és van egy ilyen bár csimpson fej. Na hát ez egy tipik manipuláció.
+Na most van a ugye a biztos ismeritek ezt a Bart Simpson-diagramot. Most a saját fejemen mutattam, de ez is sokszor ellőjön a Bitcoin árfolyamába, hogy hogy megugrik pár ezerrel vagy pár százalékkal, és akkor azt tartja mondjuk egy napig, a végén meg lecsenge, és van egy ilyen Bart Simpson-fej. Na hát ez egy tipikus manipuláció.
 
 Az, hogy hogy áll össze, meg mekkora volumenbe kell leszkor mozgatni, azt ki lehet számolni pusztán abból, hogy mekkora piacot, mekkora aktuális bid ask kosarat vittel. Most nem állok itt számolgatni, nincsenek meg a technikai körülmények, de de majd lehet, hogy egy ilyet kéne csinálni. Nem elrettentés végett.
 
@@ -106,23 +106,23 @@ Pont Nem azért, hogy elrettentselek titeket emiatt, mert szerintem szerintem a 
 
 Most abban az esetben, hogyha a Bitcoin mondjuk 95%-a selfcustodybe van, akkor ez az akkor ez viccé válik, ez a manipulációs hatás. Tehát ha mindenki most akinek van bitcoinja és úgy érzi, hogy van és nem Cold storage-ba tartja, vagy hardware walleten, vagy akármin, izolált számítógépen, tehát mindenki, aki nem ilyen tartja, hanem tőzsdén, az az ha most lehúzná, akkor lehet, hogy lenne bankrun egy-két tőzsdén, ugye, mert azt mondanák, hogy jó, oké, adogatjuk, adogatjuk egy nap lett most a kiutalás, most már három nap, most már egy hét az elszámolás. Miért?
 
-Azért, mert kell nekik majd ennyi idő, hogy összeszedjék azt a bitcoint, amit ott tárolunk. Volt ez a Gen 3 nevű kezdeményezés, amiből ugye a Gen 3 kijött. Ez az Exelion, ami a rendes neve, Samson Mao kezdeményezésével, meg a Tress Myer kezdeményezésével. Hát talán 18-ban vagy 19-ben indult el.
+Azért, mert kell nekik majd ennyi idő, hogy összeszedjék azt a bitcoint, amit ott tárolunk. Volt ez a január 3. nevű kezdeményezés, amiből ugye a JAN3 kijött. Ez az Excellion, ami a rendes neve, Samson Mow kezdeményezésével, meg a Trace Mayer kezdeményezésével. Hát talán 18-ban vagy 19-ben indult el.
 
 Ez a kulcsok napja volt. És ez azért jött létre, hogy hogy azon a napon, ugye milyen kis nemes cél, azon a napon mindenki húzza le az exchange a bitcoinját. Pont azért, hogy ellenőrizzük, hogy hogy megvan-e nekik a fedezet ezeken a tőzsdeken.
 
 Na most nem tudom, hogy ezt tartja-e valaki ezt a napot. Biztosan én úgy tartom, hogy nálam minden nap január 3-a van. Az azt jelenti, hogy minden nap kulcsok napja van.
 
-És szerintem a Bitcoinnak ez a forradalmi üzenete, hogy önrendelkezők vagyunk. Nem kérünk a middlemből, nem kérünk a bankból, nem kérünk a manipulatív eszközeikből, mert tudjuk működtetni a gazdaságot, mert a kormányok előtt is volt emberiség, és a kormányok előtt is volt pénz. Ez nem az államhoz tartozó. A gazdaságnak a nyelve.
+És szerintem a Bitcoinnak ez a forradalmi üzenete, hogy önrendelkezők vagyunk. Nem kérünk a közvetítőből, nem kérünk a bankból, nem kérünk a manipulatív eszközeikből, mert tudjuk működtetni a gazdaságot, mert a kormányok előtt is volt emberiség, és a kormányok előtt is volt pénz. Ez nem az államhoz tartozó. A gazdaságnak a nyelve.
 
-Ez egy ez egy tőle független dolog. Sajnos az elmúlt hát nem tudom mennyi időben, mondjuk 100 évet, de lehet az több is, nagyon elvándorolt az államok felé ez a képesség, és kezdik azt hinni a az államot üzemeltető bürókraták, hogy hogy mi vagyunk őértük. Úgyhogy itt az ideje ezt megfordítani.
+Ez egy ez egy tőle független dolog. Sajnos az elmúlt hát nem tudom mennyi időben, mondjuk 100 évet, de lehet az több is, nagyon elvándorolt az államok felé ez a képesség, és kezdik azt hinni a az államot üzemeltető bürokraták, hogy hogy mi vagyunk őértük. Úgyhogy itt az ideje ezt megfordítani.
 
 Sajnos nem tudtam elmondani, amit szerettem volna teljes mértékben. Pusztán egy ilyen ízelítőt adtam, de megígérem most, bár inkább nem, mert azokban nem vagyok annyira jó, hogy hogy erről a manipulációs témáról még lesz akkor egy adás. És tényleg nem elrettentés, mert nem riogatni akarok senkit pusztán.
 
 Szerintem ez egy ez egy olyan téma, amiről szintén érdekes beszélni. Természetesen van itt egy csomó téma a Bitcoinban, és és aki azt gondolja, hogy kifogytunk a munícióba, azt el kell keserítsem, mert szerintem kezdünk belejönni. Szóval még egyszer elnézést kérek, hogy most nem élőzünk ketten, hárman, de technikailag nem volt kivitelezhető.
 
-A következő blokk pedig most árti blokkja lesz. Nekem most már lejárt az időm. Mindenesetre erről még szerintem kéne beszélni.
+A következő blokk pedig most Árpi blokkja lesz. Nekem most már lejárt az időm. Mindenesetre erről még szerintem kéne beszélni.
 
-Csinálok belőle majd egy jobb vázlatot, hogy jobban be tudjuk mutatni ezt a párhuzamot. A Bitcoin manipulá ármanipuláció, a történelmi arany és ezüst árának manipulációján keresztül, hogy lássuk, hogy azért nem ördögtől való az a gondolat, hogy valamilyen szinten itt lehet valami a háttérben. Üdv nektek mára ennyit szerettem volna és találkozunk egy hét múlva. Sziasztok!
+Csinálok belőle majd egy jobb vázlatot, hogy jobban be tudjuk mutatni ezt a párhuzamot. A Bitcoin ármanipuláció, a történelmi arany és ezüst árának manipulációján keresztül, hogy lássuk, hogy azért nem ördögtől való az a gondolat, hogy valamilyen szinten itt lehet valami a háttérben. Üdv nektek mára ennyit szerettem volna és találkozunk egy hét múlva. Sziasztok!
 
 Sziasztok! Bemutatom a Firefishnek a magyar nyelvű honlapját. Így akik még nem ismerkedtek vele, most ez egy jó alkalom lehet, hogy vessenek rá egy pillantást és az alapvető funkcióival képej.
 
@@ -136,7 +136,7 @@ Szépen mutatja zölddel, amilyen követelményeket már teljesítettem. Még ke
 
 Ugye a 21 is promotálja ezt, és van egy 21 nevezetű promó kódunk, ami azt jelenti, hogyha ezzel regisztráltok be, az első kölcsönfelvételnél a kezelési költségből 30% kedvezményt kaptok. Nem titkoltam meg a podcastnak Csorog némi szat. Ebből a kezelési költségből egy kis százalék-ot kapunk.
 
-És ha megvan ez is, a fiók létrehozásával lehet beregisztrálni. Itt nem mentjük el a jelszót. És azt írja, hogy emailben küldött nekem egy hadszám jegyű kódot, hogy lecsekkolja, hogy jó email címet adtam-e megilletve való se. Ezt most kiolvasom a telefonomból.
+És ha megvan ez is, a fiók létrehozásával lehet beregisztrálni. Itt nem mentjük el a jelszót. És azt írja, hogy emailben küldött nekem egy hatjegyű kódot, hogy lecsekkolja, hogy jó email-címet adtam-e meg, illetve valós-e. Ezt most kiolvasom a telefonomból.
 
 Az lesz a legegyszerűbb. És ott tovább gombra kattintva elvileg belépünk. Siker. És most jöhet a belépés.
 
@@ -146,11 +146,11 @@ Akkor kérjünk egy jelszóemlékeztető. Legalább ezt is kipróbáljuk. Kaptam
 
 Az emailek egyébként még nincsenek magyarítva, úgyhogy azokat sajnos egyelőre angolul küldözgeti a rendszer. Még nincs megoldva, hogy lehetne ezeket fordítani. Na, akkor itt van, hogy jelszó helyreállítása. Most megadhatok egy új elszót neki.
 
-Oké, meg is volt. Akkor indulok újra. És a jelszó. És bent vagyunk a felfish felületén.
+Oké, meg is volt. Akkor indulok újra. És a jelszó. És bent vagyunk a Firefish felületén.
 
 Följön egy popup, hogy üdvözöl minket ahhoz, hogy kölcsönt vegyünk föl, vagy akár befektessünk, tehát kölcsön adjunk valakinek, ahhoz be kell azonosítani magunkat valamilyen igazolvánnyal, illetve a telefonszámunkat kell hitelesíteni, és így lehet elkezdeni a tényleges használatot. Most én ezt át fogom ugrani. Ezt egyszerűen kixelem, mert most csak a felületet akarom megmutogatni. Még nem akarom ezt használni.
 
-Amint látszik, egész sok minden magyarítan a felületen, de mivel folyton új funkciók lépnek életbe a Fish felületén, mindig fölbukkan egy-két angol kifejezés, amit amit még nem magyarítottam, és még annak el kell jutnia oda, hogy az is magyarodjon, de de nagyrészt magyarul. Látjuk itt bal oldalt látható a menü, aminek lényegi szekciója az a bal felső rész. Ugye itt a kezdőlappal mutatja ezt a felületet.
+Amint látszik, egész sok minden magyarítan a felületen, de mivel folyton új funkciók lépnek életbe a Firefish felületén, mindig fölbukkan egy-két angol kifejezés, amit amit még nem magyarítottam, és még annak el kell jutnia oda, hogy az is magyarodjon, de de nagyrészt magyarul. Látjuk itt bal oldalt látható a menü, aminek lényegi szekciója az a bal felső rész. Ugye itt a kezdőlappal mutatja ezt a felületet.
 
 Van egy kölcsönfelvétel menügomb, egy befektetés menügomb. Itt van egy kis hírszekció. Ezt most be is zárom. Most ez nem érdekel minket ez a hír.
 
@@ -158,7 +158,7 @@ Van egy kölcsönfelvétel menügomb, egy befektetés menügomb. Itt van egy kis
 
 Ugye itt mutatja, hogy hogy még nincs hitelesítve a fiókunk, annak neki lehet menni innen, illetve kölcsönigénylést lehet leadni. El tudjuk ezt kezdeni a hitelesítés nélkül, de nem fog végbe menni csak amint megtörténik a hitelesítés, illetve befektetést is el lehet indítani várakozó stádiumig, és akkor a hitelesítéssel indul el ténylegesen. Ezalatt két videónak a linkje látszik.
 
-Magyar nyelven mondja, hogy bemutatja röviden a kölcsönfelvételt és a befektetés. Maguk a videók azok angol nyelvűek. És itt alatta pedig egy gyík van, ugye egy ilyen kérdezfelelek tipikus kérdésekkel. Ezek is szépen magyar nyelven vannak.
+Magyar nyelven mondja, hogy bemutatja röviden a kölcsönfelvételt és a befektetés. Maguk a videók azok angol nyelvűek. És itt alatta pedig egy GYIK van, ugye egy ilyen „gyakran ismételt kérdések" tipikus kérdésekkel. Ezek is szépen magyar nyelven vannak.
 
 Ott a jobb felső sarokban látszik, hogy mennyi pénzt tudunk felvenni kölcsön, illetve befektetni, attól függően, hogy milyen hitelesítési fokozattal, milyen szintű hitelesítéssel rendelkezünk. Most mutatja azt, hogy a hogy a jelenlegi szintje a hitelesítésünknek a zero, tehát hogy egyáltalán nem hitelesítettük magunkat, ezért 0 euri kölcsönt tudunk fölvenni. Illetve tudok én ezzel az email címmel, illetve 0 eurónnyi kölcsönt tudok adni, vagyis befektetni.
 
@@ -172,7 +172,7 @@ Na, megmutatom a következő menupont, ugye kölcsönfelvétel. Ahol el lehet in
 
 Ugye a kölcsön igényléseinket és a kölcsön piacteret meg lehet nézni, de hogyha befektetni szeretnénk, akkor menjünk át a befektetés fűrre, és itt be lehet nyomni az összes popupnak be lehet nyomni, hogy ne mutassa újra. És akkor beenged minket. És mivel megadtunk neki ajánlókódot, így írja is, hogy van egy kedvezményünk. 30% kedvezményt kapok ezzel a az első kölcsönfelvételem kezelési költségéből.
 
-Itt bal felül mutatja, hogy van egy kölcsöngigénylés fül. A kölcsönigényléseimet meg tudja jeleníteni, amik még ugye nincsenek, illetve a kölcsön piacteret. A piactér az, ahol megjelennek a az igénylések, gyakorlatilag ilyen ajánlati lista, tehát így bemutatja az összes felhasználónak az éppen aktív vagy teljesült kölcsönajánlatát listázza.
+Itt bal felül mutatja, hogy van egy kölcsönigénylés fül. A kölcsönigényléseimet meg tudja jeleníteni, amik még ugye nincsenek, illetve a kölcsön piacteret. A piactér az, ahol megjelennek a az igénylések, gyakorlatilag ilyen ajánlati lista, tehát így bemutatja az összes felhasználónak az éppen aktív vagy teljesült kölcsönajánlatát listázza.
 
 Attól attól függ, hogy itt mit állítunk be. Én itt szórakoztam vele egy másik felhasználó néven az elmúlt napokban, és most az alapján megjegyezte ezeket a beállításokat. Lehet szűrni futamidő szerint, hogy milyen pénznemben, milyen értékben mutassa az ajánlatokat, és hogy az aktív ajánlatokat mutassa, illetve a teljesült ajánlatokat.
 
@@ -204,13 +204,13 @@ Ugye ők hozzák gyakorlatilag a a likviditást ebben az esetben, az eurót és 
 
 Ennek a lényege az, hogy itt lehet olyan befektetést kezdeményezni, ami egy nagy összegű befektetés és fix kamattal van. Gyakorlatilag ez biztosítja a likviditást azoknak a kölcsönöknek, visszamenve ide, amit valaki azonnali kölcsönként akar fölvenni. Gyakorlatilag a befektetőktől vadássz le nagy összegeket.
 
-Ezt még itt csak lehet jelezni a fáfish felé, hogy nagyon szeretnék erre jelentkezni, és ez egy ez egy béta verziójú dolog még. A menüben tovább lépve van a fiókom. Ugye itt egyrészt megjelennek az adataim, amit még egyáltalán nem állítottam be. A fiókszinteket mutatja.
+Ezt még itt csak lehet jelezni a Firefish felé, hogy nagyon szeretnék erre jelentkezni, és ez egy ez egy béta verziójú dolog még. A menüben tovább lépve van a fiókom. Ugye itt egyrészt megjelennek az adataim, amit még egyáltalán nem állítottam be. A fiókszinteket mutatja.
 
 Most zero a fiókszintünk, amivel csak nézelődni tudunk, de az alapszintű hitelesítéssel már lehet kölcsönt felvenni és befektetni. Személyazonosságot kell hozzá igazolni és további adatokat azt írja itt és akkor mutatja milyen limiteink vannak a kölcsönfelvételhez illetve itt el is lehet indítani hogy szintlépéssel ugye hogy a zero szintről az alapszintre fellépjünk aztán meg tovább lehet majd lépni akár a középhaladó szintre pro szintre ahol ahol ahol más bővebb lehetőségek tárulnak ki a felhasználók előtt. Itt tovább kattintok.
 
 Most a fizetési információk vannak itt a ami üres. Még nem adtunk meg semmi ilyet. A beállításoknál ki lehet választani, hogy akarunk-e két faktoros hitelesítést.
 
-Ez a bejelentkezéskor biztosítja azt, hogy egy okostelós autentikátor applikációban ugye ezt a hadszámjegyű azonosítót ki kelljen lesni. Tehát az egy sokkal biztonságosabb belépés biztosít. Most én ezt nem fogom elindítani, de gyakorlatilag itt ugye megjelenít egy QR kódot, amit az okostelva le kell húzni, és akkor így párosodnak össze.
+Ez a bejelentkezéskor biztosítja azt, hogy egy okostelós autentikátor applikációban ugye ezt a hatjegyű azonosítót ki kelljen lesni. Tehát az egy sokkal biztonságosabb belépés biztosít. Most én ezt nem fogom elindítani, de gyakorlatilag itt ugye megjelenít egy QR kódot, amit az okostelva le kell húzni, és akkor így párosodnak össze.
 
 Itt ki lehet választani azt, hogyha valaki kölcsönt vesz fel, és ott az likvidálódni kezd. Tehát ugye abban az esetben, hogyha mondjuk nagyot zuhan a Bitcoin árfolyama, és a letét az alacsony szintű lesz, és a kölcsönfelvevő nem növeli a letétet, akkor ugye likvidálódik az a letéte, amit már letett azért, hogyha esetleg még tovább zuhan az árfolyalma a bitcoinnak. Akkor ne kerüljön kellemetlen helyzetbe se a Firefish, sem főleg az, aki ugye a a kölcsönt adta, tehát a befektető.
 
