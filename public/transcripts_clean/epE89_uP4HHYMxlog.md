@@ -12,7 +12,7 @@ Azt kell tudni az ilyen Nostr-ös adásokról, hogy ez talán nem érdekel annyi
 
 – tudunk használni.
 
-– Sziasztok, üdvözlünk titeket. Ez itt a 21 Bitcoin podcast 89. epizódja és mai vendégünk HenkyPenky és Lez és ma ismét a Nostr búvárkodásaiba ugrunk bele, illetve hogy mi is ez pontosan volt már adásunk ezzel kapcsolatban, hogy mi a Nostr, de szerintem ezt illik időnként felemlegetni, mert ez egy jó dolog, és szeretnénk, ha mindenki tudná használni, mert előbb-utóbb mindenki rá lesz kényszerülve a használatára. Nem vészmadárkodunk, csak általában be szokott jönni, amiről amiről szoktunk itt sopánkodni. És nem azért csináljuk, hogy a saját válunkat veregessünk meg utána, hanem hogy minél inkább nagyobb legyen az a közösség, amit az a Nostr tud nekünk felépíteni. Üdvözöllek titeket. Szia, HenkyPenky! Szia, Lez!
+– Sziasztok, üdvözlünk titeket. Ez itt a HUSZONEGY Bitcoin Podcast 89. epizódja és mai vendégünk HenkyPenky és Lez és ma ismét a Nostr búvárkodásaiba ugrunk bele, illetve hogy mi is ez pontosan volt már adásunk ezzel kapcsolatban, hogy mi a Nostr, de szerintem ezt illik időnként felemlegetni, mert ez egy jó dolog, és szeretnénk, ha mindenki tudná használni, mert előbb-utóbb mindenki rá lesz kényszerülve a használatára. Nem vészmadárkodunk, csak általában be szokott jönni, amiről amiről szoktunk itt sopánkodni. És nem azért csináljuk, hogy a saját válunkat veregessünk meg utána, hanem hogy minél inkább nagyobb legyen az a közösség, amit az a Nostr tud nekünk felépíteni. Üdvözöllek titeket. Szia, HenkyPenky! Szia, Lez!
 
 – Sziasztok!
 
@@ -88,7 +88,7 @@ Azt kell tudni az ilyen Nostr-ös adásokról, hogy ez talán nem érdekel annyi
 
 – Meg mémeket küldözgetni. De hogy amit mondtál is lesz, hogy fontos lenne, hogy a használata az ezen túlterjedjen, tehát mindenféle témába lehet posztolgatni. Úgyhogy szeretnénk is, hogyha kicsit aktívabb lenne mindenki ebben.
 
-– Te reagáltál is arra, amikor a Mindegy, nem jött eszembe a srác, aki akihez posztoltam, hogy hogy minden attól függ, hogy te magadnak hogy állítod be a követőt, tehát hogy kiket követsz. nézni kell, mert mert nagyon tehát az első alkalomra úgy tűnik, hogy ember ír, utána meg kiderül, hogy ez egy bot. folyamatosan felül kell vizsgálnia. Azt állandóan kell nézni, hogy hogy kit követsz, milyen tartalmat oszt meg az a személy vagy személyek, akiket követsz, és és így be tudod ezt finomítani. Tehát van mindenféle tartalom a Nostr-ön, csak ugye bizonyos emberek bizonyos embereket követnek, és aztán nem tudnak ebből a buborékból kilépni. Na most én csak nukleáris témában posztolok mostanában, meg ugye a 21 csoportnak a fiókját kezelem, ott is csak a podcastokat szoktam felrakni. Nem is nézegetem most már a 21. Tehát amikor kijön egy podcast rész, akkor feltöltöm, aztán nem foglalkozok vele. Magamnak is, vagy saját fiókomban is csak azt szoktam mostanában, néha írok, néha reagálok valamire, de elég keveset, de minden nap nézem és olvasom és a híreket is nézem. Tehát van főzéstől kezdve különböző kézműves dolgokon keresztül bányászati téma. Gyakorlatilag mindenféle témát meg tudsz találni, csak hát foglalkozni kell vele.
+– Te reagáltál is arra, amikor a Mindegy, nem jött eszembe a srác, aki akihez posztoltam, hogy hogy minden attól függ, hogy te magadnak hogy állítod be a követőt, tehát hogy kiket követsz. nézni kell, mert mert nagyon tehát az első alkalomra úgy tűnik, hogy ember ír, utána meg kiderül, hogy ez egy bot. folyamatosan felül kell vizsgálnia. Azt állandóan kell nézni, hogy hogy kit követsz, milyen tartalmat oszt meg az a személy vagy személyek, akiket követsz, és és így be tudod ezt finomítani. Tehát van mindenféle tartalom a Nostr-ön, csak ugye bizonyos emberek bizonyos embereket követnek, és aztán nem tudnak ebből a buborékból kilépni. Na most én csak nukleáris témában posztolok mostanában, meg ugye a HUSZONEGY csoportnak a fiókját kezelem, ott is csak a podcastokat szoktam felrakni. Nem is nézegetem most már a HUSZONEGY-et. Tehát amikor kijön egy podcast rész, akkor feltöltöm, aztán nem foglalkozok vele. Magamnak is, vagy saját fiókomban is csak azt szoktam mostanában, néha írok, néha reagálok valamire, de elég keveset, de minden nap nézem és olvasom és a híreket is nézem. Tehát van főzéstől kezdve különböző kézműves dolgokon keresztül bányászati téma. Gyakorlatilag mindenféle témát meg tudsz találni, csak hát foglalkozni kell vele.
 
 – Ja, igen,
 
@@ -96,7 +96,7 @@ Azt kell tudni az ilyen Nostr-ös adásokról, hogy ez talán nem érdekel annyi
 
 – megszemélyesítenek, és akkor azt bírom, amikor engem is így bekövetnek ilyen nagyon híres arcok, és akkor megnézem, hogy hogy hányan követik őket, ilyen négyen, öten, tudod, vagy egyen. Igen.
 
-– És akkor lehet tudni, hogy ezek kamuk, de mindenkinek szerintem a legjobb kiindulás az, hogyha 21-et beköveti, és akkor onnantól lehet így egyesével húsvéremberekkel kapcsolatot létesíteni a felületen.
+– És akkor lehet tudni, hogy ezek kamuk, de mindenkinek szerintem a legjobb kiindulás az, hogyha HUSZONEGY-et beköveti, és akkor onnantól lehet így egyesével húsvéremberekkel kapcsolatot létesíteni a felületen.
 
 – Egyrészt egyrészt ez. A másrészt másik dolog meg az, hogyha már a magyar követőket bekövette, akkor azoknak is meg tudja nézni, hogy ők kiket követnek. és nagyobb valószínűséggel talál embereket a követők között, mintogyha most csak úgy el elkezd követgetni bárkit, mert ugye most mondom, ez az outbox modell viszont mindent a pofádba tol, és ott elég nehéz eldönteni, hogy mi a valós és mi a nem. Ugyanez, tehát mindenhol ugyanez a probléma mesterség és intelligencia. A Twitteren is ugyanez volt a probléma. Emlékezték tavalytavaly előtt? Ott is egyfolytában bot.
 
@@ -134,7 +134,7 @@ Azt kell tudni az ilyen Nostr-ös adásokról, hogy ez talán nem érdekel annyi
 
 – Ja. Aha. Aha.
 
-– Nem volt benne a historban. Ez a 21 követője. Igaz.
+– Nem volt benne a historban. Ez a HUSZONEGY követője. Igaz.
 
 – Így van.
 
@@ -146,7 +146,7 @@ Azt kell tudni az ilyen Nostr-ös adásokról, hogy ez talán nem érdekel annyi
 
 – mert ugye a
 
-– ugye az ördög nem alszik, és és bizony bizony itt nagyon nagy koncentrációban találhatóak bitcoinerek, tehát valószínűleg a scammerek száma is majd szépen fokozatosan megnövekszik azért, hogy ezeket az embereket megcélozzák. Nem azért, mert ők azok, az pont az ellenkezője. Szóval érdemes ilyen nagy szignál vagy nagy csoportokba részt venni, hogy az emberhez eljusson információ szűrlenül. Mára ki tudja ezt kezelni. Igen. És a Nostr-nak egyébként ez egy nagy előnye, hogy hogy itt ugye a social graph teljesen nyílt, és hogyha veszel egy csoportot alapul, például ezeket a 21-es embereket, ezeknek a követőit, ha ha megvizsgálod egy algoritmussal, akiket ezek az emberek követnek, illetve akiket azok az emberek követnek, akiket ez ezek követnek. Követők követői.
+– ugye az ördög nem alszik, és és bizony bizony itt nagyon nagy koncentrációban találhatóak bitcoinerek, tehát valószínűleg a scammerek száma is majd szépen fokozatosan megnövekszik azért, hogy ezeket az embereket megcélozzák. Nem azért, mert ők azok, az pont az ellenkezője. Szóval érdemes ilyen nagy szignál vagy nagy csoportokba részt venni, hogy az emberhez eljusson információ szűrlenül. Mára ki tudja ezt kezelni. Igen. És a Nostr-nak egyébként ez egy nagy előnye, hogy hogy itt ugye a social graph teljesen nyílt, és hogyha veszel egy csoportot alapul, például ezeket a HUSZONEGY-es embereket, ezeknek a követőit, ha ha megvizsgálod egy algoritmussal, akiket ezek az emberek követnek, illetve akiket azok az emberek követnek, akiket ez ezek követnek. Követők követői.
 
 – De nem, mert a követett
 
@@ -172,7 +172,7 @@ Azt kell tudni az ilyen Nostr-ös adásokról, hogy ez talán nem érdekel annyi
 
 – Tehát más mást nem néz, tévét nem néz, hí híradót nem nézek.
 
-– Ilyen portálokat, amin híreket osztanak, meg nem nézek. M nem is tudom. Hát nagyjából arra, hogy információt szerezzek a világban történő dolgokról, meg arról, hogy mi zajlik a 21 bitcoin csoporton belül mit csináltok, merre jártok? Tehát ennyi. Ennyi. Azon kívül még ugye rádiót hallgatok, meg te mondtad val most valamikor mondtad, vagy írtad, hogy videózol. rajta.
+– Ilyen portálokat, amin híreket osztanak, meg nem nézek. M nem is tudom. Hát nagyjából arra, hogy információt szerezzek a világban történő dolgokról, meg arról, hogy mi zajlik a HUSZONEGY bitcoin csoporton belül mit csináltok, merre jártok? Tehát ennyi. Ennyi. Azon kívül még ugye rádiót hallgatok, meg te mondtad val most valamikor mondtad, vagy írtad, hogy videózol. rajta.
 
 – Ja, igen, igen. Szok. Ö,
 
@@ -238,7 +238,7 @@ Azt kell tudni az ilyen Nostr-ös adásokról, hogy ez talán nem érdekel annyi
 
 – Jól tetted.
 
-– Aztán csináltam, csináltam. Sehol semmit senki nem olvasta. Aztán próbáltam a 21 csoportba is ugye egy kicsit promózni, tehát nem nem jött semmi. Aztán most egy év után kezdett úgy, na most már úgy látják az emberek meg olvasgatják.
+– Aztán csináltam, csináltam. Sehol semmit senki nem olvasta. Aztán próbáltam a HUSZONEGY csoportba is ugye egy kicsit promózni, tehát nem nem jött semmi. Aztán most egy év után kezdett úgy, na most már úgy látják az emberek meg olvasgatják.
 
 – Ja,
 
@@ -554,7 +554,7 @@ Azt kell tudni az ilyen Nostr-ös adásokról, hogy ez talán nem érdekel annyi
 
 – hogy hogy ott mi a helyzet.
 
-– Jó, tehát ez a Nostur, ez egy alkalmazás. IOS, tehát telefonra és macOS laptopra is telepíthető. Nekem most ez ami tényleg az ultimate, ezt használom nap mint nap. Azért tetszik, mert most már van alma platformra is külső aláíró szoftver vagy alkalmazás. Ebbe is bele be lehet lépni úgy, tehát nem kell bejolózni a titkos kulcsodat, hanem lehet egy külső alkalmazást használni már almán is. Az a neve, hogy ég a egg is. Ez az egyik dolog. A másik dolog az, hogy ugye itt is be lehet állítani ezeket a follow pack-eket. Te például be tudom állítani azt, hogy itt a középső oszlopban csak a 21-es csoportban lévő posztokat vagy válaszokat lássam. Külön be lehet állítani azt, hogy személyre szabottan. Tehát, hogy ha Antit akarom látni, hogy ma mit posztolt, akkor küld értesítést, hogy posztolt. Ezt látjátok a harmadik oszlopban. a notification vagy értesítések fölatt, és van benne olyan beállítás, mindjárt megnézzük. outbox modell, de úgy és Web of Trust, tehát hálózati Mi ez a Web of Trust
+– Jó, tehát ez a Nostur, ez egy alkalmazás. IOS, tehát telefonra és macOS laptopra is telepíthető. Nekem most ez ami tényleg az ultimate, ezt használom nap mint nap. Azért tetszik, mert most már van alma platformra is külső aláíró szoftver vagy alkalmazás. Ebbe is bele be lehet lépni úgy, tehát nem kell bejolózni a titkos kulcsodat, hanem lehet egy külső alkalmazást használni már almán is. Az a neve, hogy ég a egg is. Ez az egyik dolog. A másik dolog az, hogy ugye itt is be lehet állítani ezeket a follow pack-eket. Te például be tudom állítani azt, hogy itt a középső oszlopban csak a HUSZONEGY-es csoportban lévő posztokat vagy válaszokat lássam. Külön be lehet állítani azt, hogy személyre szabottan. Tehát, hogy ha Antit akarom látni, hogy ma mit posztolt, akkor küld értesítést, hogy posztolt. Ezt látjátok a harmadik oszlopban. a notification vagy értesítések fölatt, és van benne olyan beállítás, mindjárt megnézzük. outbox modell, de úgy és Web of Trust, tehát hálózati Mi ez a Web of Trust
 
 – bizalomköre. Bizalomkör. Igen. Tehát, hogy ha nem akarod a követő követőjének a követőjét is látni, akkor beállítasz egy egy ilyen számot, és akkor levágja ezeket. Tehát nem fogsz minden hülyeséget látni, illetve azt is be tudod állítani, hogy akarsz-e outboxot vagy sem. Tehát ez a follow relay hints, ez azt csinálja, hogy a követőid, vagy a követetteid szervereit is átböngészi, azaz megmutatja, hogyha például mit tudom én, Anti használ egy olyan harmadik szervert, amit én nem használok, akkor akár onnan is tudok információt szerezni, és ezt egy kattintással be tudom állítani, hogy akarom vagy nem akarom. Ja, meg ez az autopilot. Igen. Connect to additional release from people you follow. Tehát ez nem olyan, mint az Amethyst-ben, hogy ráderültettek 800 szervert, hanem ha akarom, csinálom, ha akarom, nem csinálom. És akkor meg is mutatom. Tehát én öt öt darab rilét állítottam be, viszont ha bepipálom, akkor már ennyi van. A relay hunos, a relayNostr.hu, a két opensos Nostr 21 és a Multiplexer, illetve a nos.l, tól, mert az a az egy európai szerver is, az gyakorlatilag a legnagyobbak közé tartozik, mint például a Damus meg a meg a mi az a Primal relayje. És és úgy működik, mint a Damusnak a Node deck alkalmazása, tehát hogy ilyen ilyen oszlopokra fel tudod osztani, úgyhogy egyszerre több mindent tudsz nézni. Hm. Ennyit akartam én mutatni. Ez eg
 
@@ -644,6 +644,6 @@ Azt kell tudni az ilyen Nostr-ös adásokról, hogy ez talán nem érdekel annyi
 
 – úgyhogy legközelebb majd megint fogunk a ha jöttök. Addig kövessétek az adást meg a minden az összes csatornánkat, de ezt majd ARP elmondja, mert ő ebben sokkal jobb.
 
-– Gigatonnányi magyar nyelvű Bitcoin oktatóanyagot osztunk meg a 21 honlapján. Ezek a 21.world címen található anyagok bárki számára ingyenesen hozzáférhetők. Azok számára pedig, akik személyes támogatást igényelnek, szeretettel ajánljuk a Bitcoin mentor szolgáltatásait. A bitcoinmentor.hu honlapon részletesen olvashatsz a Bitcoin tanácsadásról, a Bitcoin blogban pedig egyre több értékes bejegyzést találsz. Iratkozz fel a 21 podcast YouTube csatornájára, valamint a Rumble csatornánkra is. Kövesd a 21-et a Facebookon és a Nostr-on. Támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái Hotel Aurora és a Hotellantis. És a Firefish üzeni, hogy ne adjátok el a bitcoinotokat. Minden elhangzott referenciát meg akkor igyekszünk ide kitenni a videó leírásba, amit megtaláltok a Plebs appon és megtaláltok a Nostur meg a YouTube-on is. Úgyhogy köszi a figyelmet, egy hét múlva találkozunk.
+– Gigatonnányi magyar nyelvű Bitcoin oktatóanyagot osztunk meg a HUSZONEGY honlapján. Ezek a [huszonegy.world](https://huszonegy.world) címen található anyagok bárki számára ingyenesen hozzáférhetők. Azok számára pedig, akik személyes támogatást igényelnek, szeretettel ajánljuk a Bitcoin Mentor szolgáltatásait. A [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon részletesen olvashatsz a Bitcoin tanácsadásról, a Bitcoin blogban pedig egyre több értékes bejegyzést találsz. Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára, valamint a Rumble csatornánkra is. Kövesd a HUSZONEGY-et a Facebookon és a Nostr-on. Támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái, a Hotel Aurora és a Hotel Atlantis. És a Firefish üzeni, hogy ne adjátok el a bitcoinotokat. Minden elhangzott referenciát meg akkor igyekszünk ide kitenni a videó leírásba, amit megtaláltok a Plebs appon és megtaláltok a Nostur meg a YouTube-on is. Úgyhogy köszi a figyelmet, egy hét múlva találkozunk.
 
 – Sziasztok! Nagyon zsír.
