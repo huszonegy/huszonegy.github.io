@@ -922,7 +922,7 @@ Igen.
 
 Olyan, ahol nem is kell egyesével könyvelni.
 
-Ja, tehát az ez a a egy fodrásznál kicsit szofisztikáltabb üzletek van szüksége már a BTCPay szerverre.
+Ja, tehát egy fodrásznál kicsit szofisztikáltabb üzleteknek van szüksége már a BTCPay szerverre.
 
 Múltkor én állatorvosnál fizettem Bitcoinnal.
 
@@ -1022,7 +1022,7 @@ Hát biztos nagyon sok bitcoin kerül majd a piacra.
 
 Igen.
 
-Vagy hogy vagy hogy kiderül, hogy valaki ugye sok papírbitcoint bocsát ki, és akkor itt a világ vége most fog null nulláig zuhanni.
+Vagy hogy kiderül, hogy valaki ugye sok papírbitcoint bocsát ki, és akkor itt a világ vége, most fog nulláig zuhanni.
 
 Vagy hogy valakinek akinek azt hiszi, hogy van 550000 bitcoinja sincs meg.
 
@@ -1076,7 +1076,7 @@ Hogy mondjuk mi mit kalkulálsz?
 
 Nem adom a szádba szót, hogy mondjuk fölszaladunk valameddig és visszazuhan 80%-ot.
 
-Van egy másik ábra is, amit kikeresek, ahol ez jobban melyik az? talán itt, mert én arra nem számítok, hogy mondjuk most ha jön egy bullrun és fölmegyünk akármeddig, mondjuk 1 millió dollárig, hogy utána ha mondjuk 80%-ot zuhan, akkor ugye 200000 dollárra zuhant a a mostani árfolyam jó kétszeresére gyakorlatilag zuuhanunk.
+Van egy másik ábra is, amit kikeresek, ahol ez jobban melyik az? talán itt, mert én arra nem számítok, hogy mondjuk most ha jön egy bullrun és fölmegyünk akármeddig, mondjuk 1 millió dollárig, hogy utána ha mondjuk 80%-ot zuhan, akkor ugye 200000 dollárra zuhant a mostani árfolyam jó kétszeresére gyakorlatilag zuuhanunk.
 
 Hát én most ami biztos fájdalmas lesz, de azért jól fog esni.
 
@@ -1190,7 +1190,7 @@ Ezeket fel lehet karolni persze természetesen, meg lehet trezeri cégeket csin�
 
 És akkor ezeknek bejáratott ilyen Fiat Raileken meg lehet őket pumpálni, hogy vegyenek bitcoint.
 
-Még ha megoldja valaki ezeknek a a custodyját, tehát azt, hogy hova tárolja, és nem kell ilyen papír bitcoint vásárolniuk, akkor ezek jók lesznek.
+Még ha megoldja valaki ezeknek a custodyját, tehát azt, hogy hova tárolja, és nem kell ilyen papír bitcoint vásárolniuk, akkor ezek jók lesznek.
 
 De de jelenleg ugye van hát nem tudom, ugye egyre több ilyen piaci szereplő lépve, egyre több ilyen cég.
 
@@ -1208,7 +1208,7 @@ Igen, szokott.
 
 Szerintem ami itt nagyon jó lesz a jövőben, az a contrast verifynak a verify része.
 
-Tehát olyan cégek Ühüm látok én jónak, amelyek a a verifyt ki tudják, tehát az ellenőrzést meg tudják mutatni, hogy látjátok, itt vagyunk mi.
+Tehát olyan cégek Ühüm látok én jónak, amelyek a verifyt ki tudják, tehát az ellenőrzést meg tudják mutatni, hogy látjátok, itt vagyunk mi.
 
 Továbbá azt is meg tudják mutatni.
 
@@ -1218,7 +1218,7 @@ SBF Nem, nem Ja, a kutakodással a Kobi, vagy hogy hívják?
 
 Na mindegy, majd eszembe jut. hogy tehát ilyeneket kell végrehajtani.
 
-Igenis kell megnézni, hogy ezek hol vannak ezek az IOU, mert a Bitcoinnak az volt a lényege, meg az a lényege ugye, hogy ellenőrizhető készlete van, és igenis mindenki kezdjen bele aztésbe, és döntse be azokat, akik kamúznak szerintem, mert nem egészséges, mert a kamuzó bitcoin treasury cégek azok hátráltatják a a Bitcoin elterjedését, mert a number goup technológia Át szabotálják, tehát gyakorlatilag a marketing eszközé leszik bitcoinnok.
+Igenis kell megnézni, hogy ezek hol vannak ezek az IOU, mert a Bitcoinnak az volt a lényege, meg az a lényege ugye, hogy ellenőrizhető készlete van, és igenis mindenki kezdjen bele aztésbe, és döntse be azokat, akik kamúznak szerintem, mert nem egészséges, mert a kamuzó bitcoin treasury cégek azok hátráltatják a Bitcoin elterjedését, mert a number goup technológia Át szabotálják, tehát gyakorlatilag a marketing eszközé leszik bitcoinnok.
 
 Persze ezek idővel hullanak, meg én nem aggódom, tehát meg nem is félek attól, hogy nem hullanának ki.
 
@@ -1264,7 +1264,7 @@ Hm.
 
 Ühüm.
 
-És akkor lehet nem dilutálni, hanem a hígságát vagy sűríteni ugye a papír bitcoinereknek a a készletüket, mert akkor ezeket a piacról föl tudják szépen veszegetni, és akkor majd vissza tolják a saját körüvüket.
+És akkor lehet nem dilutálni, hanem a hígságát vagy sűríteni ugye a papír bitcoinereknek a készletüket, mert akkor ezeket a piacról föl tudják szépen veszegetni, és akkor majd vissza tolják a saját körüvüket.
 
 Hát csúnya játék, de hát ugye nyilvánvalóan nem játszanának így, hogyha nem tudnák, hogy mi a t.
 
@@ -1360,7 +1360,7 @@ Tehát végülis nem arra biztattál senkit, hogy aztán véletlenül se utalja 
 
 Igen.
 
-Pont pont, hogy egyébként a a ez ezeknél a cégeknél is, akikkel én kapcsolatban vagyok, mindenhol van hardverárca is, és nagyon helyes, hogy legyen.
+Pont, hogy egyébként ezeknél a cégeknél is, akikkel én kapcsolatban vagyok, mindenhol van hardverárca is, és nagyon helyes, hogy legyen.
 
 Szokták utalni.
 
@@ -1416,7 +1416,7 @@ Igen, amikor NFT-ket kezdtek csinálni Bitcoinon is, és hát ez mostanra egyéb
 
 Bár és itt a lényege, hogy ez miért szerintem miért vihar egy pohár vízben, hogy egyébként ha egy bányász ennek ellenére kibányászott egy ilyen nagyobb tranzakciót, azt elfogadta az összes node.
 
-Tehát, hogy gyakorlatilag a a blokláncba be tudott kerülni, csak a node-oknak a várakozótranzakciói közé nem.
+Tehát, hogy gyakorlatilag a blokkláncba be tudott kerülni, csak a node-oknak a várakozótranzakciói közé nem.
 
 De hát ezt sokan egy ilyen jelzésnek értékelték, hogy hát akkor most már oda is be tud kerülni könnyen, nem kell megkerülni, nem kell trükközni a bányászoknak, akkor ez most felhívás keringőre újra ezeknek az NFT spammereknek, hogy akkor megint csináljanak nagy NFT-ket a Bitcoinra.
 
@@ -1430,7 +1430,7 @@ Ráadásul van egy-két optimalizálási előnye is, hogy a sokkal egyértelműb
 
 De de akkora botrány lett ebből az egészből, és tényleg ilyen személyeskedő, vérremenő botrányok, hogy most épp tegnap este láttam, hogy el is el is halasztották ezt a döntést, és nem került be a következő verzióba.
 
-Én szerintem vannak ennél nagyobb problémáink is, amit viszont hogyha ez ezt ebből is ekkora botrány lett, akkor inkább az aggasztó, hogy mi lesz akkor, hogyha mondjuk a a kvantum fenyegetést kell megoldani valahogy.
+Én szerintem vannak ennél nagyobb problémáink is, amit viszont hogyha ez ezt ebből is ekkora botrány lett, akkor inkább az aggasztó, hogy mi lesz akkor, hogyha mondjuk a kvantumfenyegetést kell megoldani valahogy.
 
 Lehet, hogy akkorésekkel könnyebb összefogni, úgyhogy lehet.
 
@@ -1446,7 +1446,7 @@ Meg nem volt kedvem utána olvasgatni részletesen, hogy mi van.
 
 És nekem még így most áll össze a kép, hogy mi ez az up return háború, vagy van még egy olyan kiabálás ö indok is, hogy egyébként a Bitcoin protokol az alacsony szinten úgy működik, hogy amikor egy blokkot egy bányász, kibányászik és örül neki, hogy megvan, akkor nem küldi szét az egész blokkot a hálózaton, ami ilyen több megb.
 
-Ühüm. gyakorlatilag csak a fejlécét meg a benne levő tranzakcióknak a a azonosítóit, ami sokkal kevesebb adat, és abból minden node össze tudja rakni a saját mempooljából már onnan benne vannak tranzakciók, össze tudja rakni ugyanazt a blokkot, és aztán ellenőrzi a heshével, hogy tényleg sikerült neki.
+Ühüm. gyakorlatilag csak a fejlécét meg a benne levő tranzakcióknak az azonosítóit, ami sokkal kevesebb adat, és abból minden node össze tudja rakni a saját mempooljából már onnan benne vannak tranzakciók, össze tudja rakni ugyanazt a blokkot, és aztán ellenőrzi a heshével, hogy tényleg sikerült neki.
 
 Legfeljebb, hogyha valami tranzakció hiányzik, akkor azt az egy pár tranzakciót kell csak letölteni.
 
@@ -1508,7 +1508,7 @@ Köszi Tamás akkor az infókat.
 
 Neked meg tök jó, Anti.
 
-Megint a a rendhagyó hátteret és háttérhangokat is köszönük.
+Megint a rendhagyó hátteret és háttérhangokat is köszönjük.
 
 Vettem hangot izgalmas.
 
