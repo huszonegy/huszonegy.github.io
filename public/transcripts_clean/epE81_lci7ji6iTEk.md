@@ -284,9 +284,9 @@ posztolgatunk, ott éljük az életünket, oda csatornázzuk az energiánkat, am
 
 – köszi nektek. Önt is köszönnék, illetve még annyit, hogy majd te elmondod úgy is, hogy kik a támogatóink, nem?
 
-– Ja. Ja. Támogatóink a négy csillagos Hotel Aurora Miskolctapolcán, mely Bitcoin elfogadó és tartalékoló szálloda, és a Hotel Atlantis, mely szintén négy csillagos Bitcoin elfogadó szálloda, Hajdúszoboszlón. Ahogy Anti is említette, egyre intenzívebben jelen vagyunk a Nostr-on. kövessetek itt be minket, és a HUSZONEGY feedje alatt számos magyar bitcoin posztjait találhatjátok újra posztolva.
+– Ja. Ja. Támogatóink a négycsillagos Hotel Aurora Miskolctapolcán, mely Bitcoin elfogadó és tartalékoló szálloda, és a Hotel Atlantis, mely szintén négycsillagos Bitcoin elfogadó szálloda, Hajdúszoboszlón. Ahogy Anti is említette, egyre intenzívebben jelen vagyunk a Nostr-on. Kövessetek itt be minket, és a HUSZONEGY feedje alatt számos magyar Bitcoin posztjait találhatjátok újra posztolva.
 
-– Iratkozzatok fel egy YouTube csatornánkra, kövessétek be a vadi új Rumble csatornánkat, ahova most már szintén kiposztoljuk az összes új podcast epizódot. Aki mászkál a Facebook felé, ott is kövessen be minket, és ne adjátok el a bitcoinotokat. Köszönjük a figyelmet és csak egy hét múlva találkozunk.
+– Iratkozzatok fel egy YouTube csatornánkra, kövessétek be a vadi új Rumble csatornánkat, ahova most már szintén kiposztoljuk az összes új podcast epizódot. Aki mászkál a Facebook felé, ott is kövessen be minket, és ne adjátok el a bitcoinotokat! Köszönjük a figyelmet és csak egy hét múlva találkozunk.
 
 – Sziasztok. Sziasztok.
 
