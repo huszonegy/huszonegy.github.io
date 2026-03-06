@@ -652,7 +652,7 @@ Erről pont egyébként ma is beszéltünk egy mérnöki egyeztetésen, mert sz�
 
 És egyébként ezek sima KSH rákeresel, éjjel kikeresi neked forintra. egymás mellé rakod egy Excel sorba, egy egy-egy oszlopba, hogy akkor Bitcoin ár, forint bővülés, M2 értékek, másik oszlopban az, hogy mennyi volt a lakásár, átlag négyzmé ár, és akkor olyan szépen egymásra simulnak.
 
-Ezek zsebkendő matakok, de ezeket szeretem a legjobban, mert a valóság egyébként, ha elég távolról nézed, ha nem egy specifikus lakást nézel, ha nem egy specifikus várost, hanem távlatból tudsz ránézni egy egy ököszisztémára, egy rendszerre, akkor azért annak a tendenciáit azt egész pontosan le tudod venni, főleg, hogyha vannak történelmi adatok.
+Ezek zsebkendő matekok, de ezeket szeretem a legjobban, mert a valóság egyébként, ha elég távolról nézed, ha nem egy specifikus lakást nézel, ha nem egy specifikus várost, hanem távlatból tudsz ránézni egy egy ököszisztémára, egy rendszerre, akkor azért annak a tendenciáit azt egész pontosan le tudod venni, főleg, hogyha vannak történelmi adatok.
 
 Tehát azért amikor 20-30 éves adat adatok vannak már ott már nem zavarja meg semmilyen geopolitikai csatározás vagy természeti katasztrófa, vagy politikai történés, hanem ott ott már az van, hogy ez ilyen a világ és így működik jelenleg.
 
