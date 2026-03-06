@@ -1468,21 +1468,21 @@ Ez egy nagyon jó könyv.
 
 Ezt nagyon ajánlom mindenkinek elolvasni.
 
-Most nem mennék a részletekbe, hogy hogy miről szól, de írtunk róla honlapon is, meg egy cikk is. azt mondja, hogy a link oldalon ott vannak a támogatóink, a Hotel Aurora és a Hotel Atlantis, akik négy csillagos wellness szállodák, és hogy a bitcoint elfogadnak és tartalékolnak, és mindenképp ajánlom bitcoinerek figyelmébe, hogy hogy itt itt költsünk egy kis bitcoint, hogy őket is megörvendeztessük vele.
+Most nem mennék a részletekbe, hogy miről szól, de írtunk róla a honlapon is, meg egy cikk is. Azt mondja, hogy a link oldalon ott vannak a támogatóink, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu), akik négycsillagos wellness szállodák, és a bitcoint elfogadnak és tartalékolnak, és mindenképp ajánlom bitcoinerek figyelmébe, hogy itt költsünk egy kis bitcoint, hogy őket is megörvendeztessük vele.
 
-Aztán aki még nincs feliratkozva a YouTube csatornánkra, kérlek, hogy iratkozzatok fel, mert itt aztán rendszeresen jövünk ezekkel a jóságokkal, mint mint most is.
+Aztán aki még nincs feliratkozva a YouTube csatornánkra, kérlek, hogy iratkozzatok fel, mert itt aztán rendszeresen jövünk ezekkel a jóságokkal, mint most is.
 
-Meg néha készítünk ugye feliratozott oktatóvókat, vagy egyéb oktatóvókat.
+Meg néha készítünk ugye feliratozott oktatóvideókat, vagy egyéb oktatóvideókat.
 
 Most épp gondolkodom egy újon.
 
-A Facebook oldalunkat is ajánlom figyelmébe mindenkinek, mert itt itt posztolunk a leggyakrabban. egyszerű és gyorsan fogyasztható információkat.
+A Facebook oldalunkat is ajánlom figyelmébe mindenkinek, mert itt posztolunk a leggyakrabban egyszerű és gyorsan fogyasztható információkat.
 
-És végül figyelmetekb ajánlom a a pólomon is szereplő Firefishnek a szolgáltatásait, akiket promózgatunk.
+És végül figyelmetekbe ajánlom a pólomon is szereplő Firefishnek a szolgáltatásait, akiket promózgatunk.
 
 Van köztünk egy együttműködés.
 
-Ugye ennek a lényege, hogy ne adjátok el a bitcoinotokat! Hanem hanem ésszel, de vegyünk fel rá esetleg Bitcoin fedezetű kölcsönt, amit aztán amit aztán szabadon lehet költögetni anélkül, hogy megszabadulnánk a jó kis bitcoinunktól.
+Ugye ennek a lényege, hogy ne adjátok el a bitcoinotokat! Hanem ésszel, de vegyünk fel rá esetleg Bitcoin fedezetű kölcsönt, amit aztán szabadon lehet költögetni anélkül, hogy megszabadulnánk a jó kis bitcoinunktól.
 
 Nektek van valami búcsúszó?
 
