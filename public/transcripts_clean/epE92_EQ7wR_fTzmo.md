@@ -64,7 +64,7 @@ Akkor olvasol a tárcákról, akkor meglátod, hogy a Blink tárcával hány mil
 
 – És a Nostr-ral ez ezen keresztül találkoztál, vagy az egy külön szell?
 
-– Nagyon nehéz ezt megmondanom, hogy a Nostr az hogy jött be legelőször. Egyébként úgy, hogy amikor beszéltünk ezzel a haverommal és hazajöttem, akkor ilyenkor mindig rákeresek, és nagyon hamar megtaláltam a [huszonegy.world](https://huszonegy.world) weboldalt. Ezt jó alaposan végigolvastam, és ott volt erről szó, ott volt a [noszter.hu](https://noszter.hu) és a [magyarnostr.hu](https://magyarnostr.hu), azt is végigolvastam, és abból jött a [Köztér](https://jumble.social), a [Jumble](https://jumble.social) magyar fordítása, ami ugye egy Nostr kliens.
+– Nagyon nehéz ezt megmondanom, hogy a Nostr az hogy jött be legelőször. Egyébként úgy, hogy amikor beszéltünk ezzel a haverommal és hazajöttem, akkor ilyenkor mindig rákeresek, és nagyon hamar megtaláltam a [huszonegy.world](https://huszonegy.world) weboldalt. Ezt jó alaposan végigolvastam, és ott volt erről szó, ott volt a [noszter.hu](https://noszter.hu) és a magyar [nostr.hu](https://nostr.hu), azt is végigolvastam, és abból jött a [Köztér](https://kozter.nostr.hu/?r=relay.nostr.hu), a [Jumble](https://jumble.social) magyar fordítása, ami ugye egy Nostr kliens.
 
 És akkor elkezdtem nézni, hogy fú, hát ez marha jó, hát ez közösségi platform. Pont az a bajom az összes létező közösségi platformmal, amit itt leírtok, hogy fake az algoritmus, adatbányászatból működik, a hirdetések eladása a cél. Ezeket mind vágom. Zenészként nincs több bajom annál, hogy nem hallanak, nem látnak, nem érjük el a saját közönségünket. Tényleg bárkivel ha beszélsz előadóművésszel, csak kínlódik a social médiával.
 
