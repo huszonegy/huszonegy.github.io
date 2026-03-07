@@ -136,15 +136,20 @@ useHead({
           </div>
 
           <div class="description-area text-start mt-5">
-            <h2 class="label mb-3">Témák</h2>
-            <ul class="topic-list">
-              <li v-for="(item, index) in topicList" :key="index" class="topic-item">
-                {{ item }} </li>
-            </ul>
+            <p class="label mb-4">Az adás tartalmából</p>
+            
+            <div class="topic-list">
+              <div v-for="(item, index) in topicList" :key="index" class="topic-item-wrapper">
+                <h2 class="topic-title">
+                  <i class="bi bi-dot me-1 text-orange display-6"></i>
+                  <span class="topic-text">{{ item }}</span>
+                </h2>
+              </div>
+            </div>
           </div>
 
           <section class="transcript-section text-start mt-5">
-            <h2 class="label mb-3">Átirat</h2>
+            <p class="label mb-4">Teljes szöveges átirat</p>
             
             <div v-if="isLoading" class="text-center py-5">
               <div class="spinner-border text-warning" role="status"></div>
@@ -237,24 +242,40 @@ useHead({
   margin-bottom: 0;
 }
 
-.topic-item {
+/* A H2 trükk: SEO-nak cím, szemnek sima szöveg */
+.topic-title {
+  font-size: 1.1rem; /* Ugyanakkora, mint az eredeti listaelem volt */
+  font-weight: 500;
   color: #ccc;
-  line-height: 1.5;
-  font-size: 1.05rem;
-  padding: 2px 0; /* Kisebb köz a pontok között */
-  border-bottom: none; /* Vonal eltávolítva */
+  margin: 0;
   display: flex;
-  align-items: flex-start;
+  align-items: center;
+  line-height: 1.5;
 }
 
-.topic-item::before {
-  content: "•";
+.topic-item-wrapper {
+  padding: 8px 12px;
+}
+
+.text-orange {
   color: #f7931a;
-  font-weight: bold;
-  display: inline-block;
-  width: 1.2em;
-  flex-shrink: 0;
-  margin-left: -1.2em;
+  font-size: 1.2rem;
+}
+
+.topic-text {
+  border-bottom: 1px solid transparent;
+}
+
+.topic-chapter h2 {
+  border-left: 3px solid #f7931a;
+  padding-left: 15px;
+  line-height: 1.4;
+  /* SEO szempontból H2, de vizuálisan maradjon elegáns */
+  font-size: 1.25rem; 
+}
+
+.topic-sections {
+  margin-bottom: 3rem;
 }
 
 /* GOMBOK */
