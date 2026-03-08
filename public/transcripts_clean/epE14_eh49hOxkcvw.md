@@ -1,0 +1,43 @@
+Sziasztok! Üdvözöllek titeket a HUSZONEGY Bitcoin Podcast tizennegyedik adásában. Árpival ma vendégül látjuk Gláser Anitát a Kripteustól. Mai beszélgetésünk során a kriptovilág legális és illegális metszeteibe megyünk el, aminek Anita elismert szakértője. Szia Anita, üdvözlünk nálunk!
+
+– Sziasztok! Köszönöm szépen a meghívást. Valóban egy nagyon érdekes beszélgetés elé nézünk, mert a Kripteus és az én személyes tevékenységem területe is igen összetett. Öt éve vagyok ebben a világban; véletlenül találtam rá egy nyári délutánon a kriptovaluta-bányászat fogalmára, ami azonnal felkeltette az érdeklődésemet. Eredeti szakmám szerint pénzügyi számvitel szakos közgazdász és adótanácsadó vagyok. Korábban egy könyvelőirodát vezettem, amiben ma már csak tulajdonosként veszek részt. Bár „kriptokönyvelőként” is fejlődtünk, őszintén szólva ma már nem ez a fő területem, sokkal inkább a szabályozás és a compliance érdekel.
+
+A Kripteus tevékenysége több lábon áll. Az első az adózás: hogyan lehet a kriptotérben megszerzett jövedelmet legálisan hazahozni és bevallani. A második lábunk a banki compliance: segítünk a nagyobb vagyonnal rendelkező ügyfeleknek átláthatóvá tenni a tranzakcióikat a hatóságok vagy bankok számára. Ez nem pénzmosás, hanem éppen az ellenkezője: **blockchain** nyomozó szoftverekkel bizonyítjuk be, hogy a vagyon tiszta forrásból származik. A harmadik terület a tokenkibocsátásra vagy Web3 technológiára épülő projektek szakmai és szabályozási támogatása. A negyedik és ötödik pillér pedig a **blockchain** nyomozás oktatása hatóságoknak, illetve a csalások (scam-ek) elleni küzdelem edukációval.
+
+– Mennyire látod vadnyugatiasnak a hazai szabályozást? Mennyire védi a magyar jogalkotó a befektetőket?
+
+– Magyarország követi a fejlett országok stratégiáját: bevezeti a MiCA-t (Markets in Crypto-Assets), van saját kriptoadózási törvénye, és a pénzmosás elleni törvény is foglalkozik már a virtuális fizetőeszközökkel. A szabályozási környezet alakul, de közben virágoznak a scam projektek is. Az emberekben erős a FOMO (lemaradástól való félelem), és sokan hisznek a gyors és könnyű meggazdagodás téves képében, amit a csalók kihasználnak. Erre még nemzetközi szinten sincs igazán jó védelem. A szabályozói tendenciák elsősorban a fogyasztóvédelemre és a pénzmosás elleni küzdelemre fókuszálnak.
+
+Ez sajnos a szabadságjogok csorbításával jár: a privacy egyre inkább háttérbe szorul. Aki például **privacy coin**-okat (mint a Monero) használ, azt egyből megbélyegezik. A hatalom ott akar állni minden kilépési ponton, ahol a kriptovilágból vissza akarsz térni a fiat rendszerbe. Maga a **self-custody** és az, hogy a fejedben tartod a 12 szavas **seed phrase**-t, nem lesz illegális, de ha a tárcád Dark Web-es felületekkel tranzaktál, az „besározódik”. A **blockchain** nyomozó szoftverek látják ezeket az interakciókat.
+
+– Akkor ezeket hívják „festett” érméknek (**tinted coins**)?
+
+– Pontosan. A szoftverek kockázati besorolás alá vonják az entitásokat. Egy centralizált tőzsde (CEX) kockázata függ az engedélyeitől, de ott vannak a mixer szolgáltatók és az online szerencsejáték oldalak is, amik magasabb rizikót jelentenek. Ha egyszer ki akarsz utalni egy bankba, igazolnod kell, hogy nem álltál kapcsolatban ilyen helyekkel. Magát a technológiát nem tudják megszűrni, hiszen egy DeFi poolhoz bárki hozzáférhet, de a tranzakciók transzparensek. Ezek a nyomozó szoftverek hatalmas adatbázisokkal rendelkeznek, beazonosítják a Coinbase címeit vagy a Dark Web deposit címeit, és grafikus ábrán rajzolják fel a kapcsolati hálódat.
+
+Érdemes tudni, hogy a nagy **stablecoin** kibocsátók (USDT, USDC) képesek hatósági kérésre lefagyasztani az összegeket a tárcádban, hiába van nálad a privát kulcs. A technológia rohamtempóban fejlődik. Aki azt hiszi, hogy el tud tűnni a hálózaton, az téved.
+
+– Ez jogos, de akinek nincs félnivalója, annak továbbra sem kell tartania ettől. A Bitcoin esetében viszont a privacy hiánya komoly kritika, hiszen a teljes lánc visszakövethető.
+
+– Ez így van, a Bitcoin használói mixerekkel próbálják megszakítani a nyomonkövethetőséget, de ez az egyén döntése. A Lightning Network elvileg lekövethetetlen, de azt mikrotranzakciókra tervezték, így a nagy összegű csalásokhoz alkalmatlan. A Lightning és a privacy olyan, mint az adózásban a kártyás költés: kis tételekben elvagy a radar alatt, de ha házat vagy autót akarsz venni, ott már láthatóvá válsz. Mi a Bitcoint azért választjuk el a többi „kriptótól”, mert annak nincs „feje”, decentralizált és inkluzív. A legtöbb kriptoprojekt valójában fiat típusú: van egy kibocsátója, aki ha kell, visszatekeri a láncot.
+
+– Szerinted mennyi adó az, ami még elfogadható? Kanadában már 66%-os adóról beszélnek, és az USA-ban a nem realizált nyereséget is adóztatnák.
+
+– Ez adópolitikai kérdés. Magyarországon a 15% kifejezetten kedvező, és az adminisztráció is egyszerű: csak a fiat-ba való ki- és belépés egyenlege számít. Sokan az inflációt is egyfajta adóként élik meg, ami csökkenti a vagyont. A MiCA június 30-tól lép életbe Magyarországon; az MNB lesz a felügyeleti hatóság, és megjelenhetnek az engedéllyel rendelkező hazai váltók és letétkezelők. Várhatóan a magyar bankoknál is elérhetővé válnak majd kriptoszámlák a forintszámlák mellett. A MiCA szabályozza a tokenkibocsátást is, de a Bitcoinal nem tud mit kezdeni, mert nincs kibocsátója, akire kötelezettségeket róhatna. Ez jó hír a Bitcoin számára.
+
+– Van-e veszélye annak, hogy a szabályozott letéti tárcákat (custodial wallets) erőltetik a **self-custody** ellenében?
+
+– Nem látom azt a trendet, hogy a **non-custodial** tárcákat illegálissá tennék. A nyugati világ elismeri, hogy ez a legbiztonságosabb tárolási forma. Inkább a „kijáratokat” őrzik: a Travel Rule alapján a tőzsdéknek be kell azonosítaniuk, hová utalsz, és egy bizonyos összeghatár felett meg kell nevezned a fogadó felet. Ha nem egyeznek az adatok a két oldalon, „leesik a lánc a bicikliről”. A központi bankok próbálják fogni a kilépési pontokat, mert félnek a Bitcoin alapú párhuzamos gazdaságtól, ahol már nincs szükségük rájuk.
+
+Sokan feladják a szabadságjogaikat a kényelemért, de Kína példája mutatja, hová vezet ez: a digitális jüannal a teljes makrogazdaságot kontrollálják. Ha nem voltál „jó állampolgár”, korlátozzák a költéseidet. A Bitcoin eredeti ideológiája a függetlenség, de a gyakorlatban egyre nehezebb teljesen a radar alatt maradni. A jog folyamatosan fut a technológia után. A bűnüldözés még gyerekcipőben jár: Magyarországon még nincs olyan igazságügyi szakértő, aki egy kriptocsalási ügyet érthetően el tudna magyarázni a bírónak. Ezért is fontos az edukáció.
+
+– Mit tanácsolsz az átlagembernek a csalások elkerülésére?
+
+– A legfontosabb hívószó a „gyors meggazdagodás”. Ha egy harmadik fél segíteni akar neked tárcát nyitni, vagy azt kéri, fizess be hozzá kriptót egy olyan weboldalon, ahol csak egy egyenleget látsz, az már gyanús. Ha nem férsz hozzá közvetlenül a saját kriptódhoz, az nem a tiéd. A decentralizáció megértése a kulcs. Mi, Bitcoin-maxik azért foglalkozunk csak a Bitcoinnal, mert ez egy olyan komplex és szép küldetés, ami teljesen kielégíti a tudásvágyunkat. Anita szerint mi egy külön „vallás” vagyunk a kriptovilágban, és ebben van némi igazság: a morális kapocs és az értékrendünk köt minket ide.
+
+Köszönjük Anitának a beszélgetést! Aki szeretne tájékozódni az adózásról és a szabályozásról, nézze meg a [kriptoadozas.hu/videok](https://kriptoadozas.hu/videok) oldalt, ahol három évnyi ingyenes tartalom érhető el. Vannak adózási segédanyagaik és kalkulátoraik is a [kepzes.kripteus.hu](https://kepzes.kripteus.hu) oldalon. A csalások elleni küzdelemről pedig az [etherealendowment.com](https://etherealendowment.com) oldalon olvashattok.
+
+Ne felejtsétek, június 13-15. között prágai Bitcoin konferencia (**BTC Prague**), ahol 10% kedvezményt kaptok a „21” kuponkóddal! Lájkold a videót, iratkozz fel a csatornára, és jövő héten újra találkozunk! Sziasztok!
+
+---
+
+Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik személyes támogatást igényelnek, ajánljuk a Bitcoin Mentor szolgáltatásait a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon. Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára és a Rumble csatornánkra is! Kövesd a HUSZONEGY-et Facebookon és Nosteren. Támogatóink Miskolctapolca és Hajdúszoboszló Bitcoin-elfogadó wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). A Firefish pedig üzeni, hogy ne adjátok el a bitcoinotokat!
