@@ -13,6 +13,8 @@ Az **E95** (`epE95_FttsWvmTlDY.md`) a referencia. Olvasd el, mielőtt bármit cs
 
 Nyers, beszélt nyelvi szöveget alakítunk olvasható, linkelt, strukturált prózává – miközben a tartalom, hangulat és podcast-jelleg megmarad.
 
+Ez nem összefoglalás, hanem az élőbeszéd tisztítása. Minden elhangzott érvnek, példának, személyes történetnek és gondolatmenetnek meg kell maradnia teljes részletességgel. Csak a technikai zajt (ö-zés, ismétlés) távolítjuk el.
+
 1. Bekezdéstörések (beszélőváltás, logikai egységek)
 2. Hezitálások, ismétlések, egyszavas reagálások eltávolítása
 3. Elírások, speech-to-text hibák javítása (lásd `corrections.md`)

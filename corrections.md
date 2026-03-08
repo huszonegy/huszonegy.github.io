@@ -37,6 +37,8 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - praxzeológia → **praxeológia**
 - tömegpsichológia → **tömegpszichológia**
 - keynesi ideológia (helyes alak)
+- nód → **node**
+- hashrate
 
 ## Formázási konvenciók
 
