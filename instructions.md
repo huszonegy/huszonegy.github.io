@@ -29,7 +29,7 @@ Nyers, beszélt nyelvi szöveget alakítunk olvasható, linkelt, strukturált pr
 
 ## Szerkesztési szabályok
 
-**Eltávolítandó:** hezitálások ("és és", "a a", "ö"), egyszavas reagálások ("Igen.", "Ja.", "Ühüm."), félbehagyott mondatok, töltelékszavak ("na most", "szóval", "tudod").
+**Eltávolítandó:** hezitálások ("és és", "a a", "ö"), egyszavas reagálások ("Igen.", "Ja.", "Ühüm.", "Bizony.", "Pontosan.", "Persze."), félbehagyott mondatok, töltelékszavak ("na most", "szóval", "tudod").
 
 **Megtartandó:** természetes hangvétel, beszélők egyéni stílusa, humor, minden érdemi tartalom.
 

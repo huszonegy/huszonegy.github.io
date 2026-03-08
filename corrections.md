@@ -15,6 +15,8 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - SFID → **Saifedean** (Ammous)
 - Parker Lois → **Parker Lewis**
 - Árti → **Árpi**
+- Les → **Lez**
+- Opt-out → **Optout**
 
 ## Márka/hely javítások
 
@@ -30,6 +32,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - FOMT → **FOMO**
 - LTF → **ETF**
 - CBD / CVDC → **CBDC**
+- dollar cross averaging → **dollar cost averaging** (DCA)
 - cyfer punk → **cypherpunk**
 - praxzeológia → **praxeológia**
 - tömegpsichológia → **tömegpszichológia**
@@ -39,6 +42,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 
 - **HUSZONEGY** nagybetűvel ahol a podcast nevére utal (21 → HUSZONEGY)
 - **Nostr-on** kötőjellel
+- `*(nevetés)*` → `(nevetés)` (NEM dőlt formátum)
 - Mondatkezdések nagybetűvel
 - „ne adjátok el a bitcoinotokat!" — felkiáltójellel
 - felszólító mondatok felkiáltójellel
@@ -70,3 +74,4 @@ Ezeket linkeld be markdown formátumban, ahol a szövegben előfordulnak. Ha nem
 - Hotel Aurora, Hotel Atlantis (NEM "Hotel & More")
 - HUSZONEGY egységesítés — mindig ellenőrizd, minden előfordulást javíts
 - Linkeket mindig tedd kattinthatóvá markdown-ban
+- Perspective Baros meetup (NEM Perspektíva Meetup)
