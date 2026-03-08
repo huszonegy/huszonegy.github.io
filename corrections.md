@@ -17,6 +17,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - Árti → **Árpi**
 - Les → **Lez**
 - Opt-out → **Optout**
+- Caro → **Karo**
 
 ## Márka/hely javítások
 

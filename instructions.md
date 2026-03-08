@@ -19,7 +19,7 @@ Ez nem összefoglalás, hanem az élőbeszéd tisztítása. Minden elhangzott é
 2. Hezitálások, ismétlések, egyszavas reagálások eltávolítása
 3. Elírások, speech-to-text hibák javítása (lásd `corrections.md`)
 4. Linkek beillesztése (lásd `corrections.md`)
-5. `21` → `HUSZONEGY` ahol a podcast nevére utal
+5. `21` → `HUSZONEGY` ahol a podcast nevére vagy kuponkódra utal
 6. Eredmény: `.md` fájl, ugyanabban a mappában
 
 ## Fájltípusok — mit csinálj velük
