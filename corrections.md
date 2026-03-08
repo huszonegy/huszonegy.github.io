@@ -18,6 +18,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - Les → **Lez**
 - Opt-out → **Optout**
 - Caro → **Karo**
+- Henk Penki → **HenkyPenky**
 
 ## Márka/hely javítások
 
@@ -26,6 +27,8 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - Hotel & More → **Hotel Atlantis** / **Hotel Aurora** (kontextus szerint)
 - Miskolctapolca (egy szó)
 - El Salvador (egységesen)
+- 21 Capital → **TwentyOne Capital**
+- Skolár Kiadó → **Scolar Kiadó**
 
 ## Szakkifejezések
 
