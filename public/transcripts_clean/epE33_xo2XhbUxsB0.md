@@ -1,273 +1,37 @@
-Sziasztok üdvözlünk mindenkit ez a mi az a Bitcoin című podcastunk szia kata helló anti 33 epizód hú elég durva nem ú tényleg ez a 33 már szabadkőművesből is sok nem csak adásból krisztusior ja a csúcson kell abbahagyni hát akkor el is köszönünk szóval ma arra gondoltunk hogy folytatjuk ezt a könyves vonulatot és megint még megmutatom mert maradt még könyvünk megmutatunk egy párat meg így beszélünk erről a miskolci Bitcoin konferenciáról egy kicsit mert ez már jövő héten van jövő hét pénteken kezdődik szombat vasárnap is úgyhogy jó nakigérkezik igaz az izgalom a tetőfokára hágott szerintem van meg is csó ismerős ja moz
+Sziasztok, üdvözlünk mindenkit! Ez a HUSZONEGY Bitcoin Podcast, a 33. epizódunkhoz érkeztünk. Szia Kata! Elég durva ez a szám, a csúcson kell abbahagyni, de mi inkább folytatjuk a könyves vonulatot. Ma is bemutatunk pár kötetet, és beszélünk a miskolci Bitcoin-konferenciáról is, ami már jövő héten kezdődik. Az izgalom a tetőfokára hágott, már csak néhány nap van hátra a visszaszámlálón.
 
-Igen ezt a ezt a bitcoinmiskolc.hu oldalt nézegessétek most ugye az adás felvétele miatt ez egy kicsit több napot fog mutatni így a visszaszámlálón
+A [bitcoinmiskolc.hu](https://bitcoinmiskolc.hu) oldalon láthatjátok a részletes programot. Pénteken reggel egy sétával nyitunk, amit Feri fog vezetni Miskolctapolcán. Tegnap volt egy megbeszélésünk, ahol kiderült, hogy az érdeklődés már a 200-as nagyságrendet közelíti, tehát biztosan száz felett leszünk. A szombat ígérkezik a legerősebb napnak, akkor lesz a legtöbb és legváltozatosabb előadás. Ez amolyan „ipari nap” is lesz, ahol a téma mélyebb ismerői gyűlnek össze, de várunk mindenkit, akit csak érdekel a jövő pénze.
 
-Szóval ez kevesebb ez szerintem nyolc nap múlva lesz amikor ez így adásba kerül és akkor itt vannak a konferencia programok igen pénteken reggel nyitunk egy egy sétával amit feri fog vezetni ja igen itt itt is van karács ferenc vezetésel és akkor itt majd jó alkalom lesz mindenkinek a bemutatkozásra nem tudom hányan leszünk szerintem egy ilyen 50 60 70 80-an biztosan hát tegnap amikor volt ez a megbeszélésünk amin te is részt vettél igen mi is volt rajta csak pont nem hallottad ezt az információt nem még nem kapcsolódtál nem kapcsolótál még be és akkor én kérdeztem a ferit hogy hogy azért mostanra már így biztosan látszódik valamelyest az igény hogy hogy mi az a szám amire lehet számítani és
+A konferencia a [Hotel Aurorában](https://hotelaurora.hu) lesz. Roland bevezeti a Bitcoin-gondolkodásmódot, Kata a szabályozási kérdéskörről beszél majd, én pedig tartok egy kisebb szösszenetet a Bitcoin-pszichológiáról. Vasárnap workshopokkal folytatjuk: megnézzük a tárcákat, a node-okat, és lesznek POS-terminálok is. Olyan cégeket és vendéglátóhelyeket is várunk, akik a jövőben szeretnének bitcoint elfogadni. Ez egy remek alkalom lesz arra, hogy mindenki testközelből megismerje, mennyire könnyű is az adaptáció.
 
-Hát az ilyen talán a 200-as nagyságrendet közelíti na tök jó tehát 100 fölött ühüm leszünk biztosan és az arra arra számítanak hogy a szombat lesz az erősebb nap nyilván pénteken még azért sokat dolgoznak nem tudnak úgy eljönni de szombat várható a legerősebb napnak akkor több előadás is lesz nem csak feritől ugye sziller még becsúszik pénteken de a szombati nap az egy az az az talán a legváltozatosabb igen meg hát ugye az a a hétvége
+– Hadd hozzak be egy témát, amiről nem is terveztünk beszélni. Három hete nagy vagányan bejelentettem a HUSZONEGY csoportban, hogy letöröltem a Facebook-fiókomat. Erre tegnap fel kellett írnom a Telegramra, hogy elbuktam. Egyszerűen rá kellett jönnöm, hogy nem tudok funkcionálni nélküle. A kisfiam majdnem lekéste az iskolát, mert az intézmény egyetlen helyen, a Facebook-oldalán osztja meg a naptárát. Amikor rájöttem, hogy nem tudom megnézni a programot, újra kellett aktiválnom a fiókomat.
 
-Tehát azért jobb ára mindenki dolgozik
+Ott derült ki, hogy az iskola egy nappal előbb kezdődött, mint amire készültünk. Sajnos vannak ilyen kényszerhelyzetek, ahol a digitalizáció alacsony foka miatt kikerülhetetlen a platform. Máltán például a legtöbb cégnek nincs is honlapja, csak Facebook-profilja. Ott vannak a csoportok, a hirdetések, az ingatlanok, a Marketplace. Három hétig bírtam, és bár nagyon nyugodt volt minden értesítések nélkül, rájöttem, hogy egyelőre nem tudok szabadulni tőle.
 
-Tehát ez ez egy kicsit ilyen industrial daynek hathat ami ilyen ipari nap szokott lenni az ilyen konferenciákon hogy ott inkább azok vannak ott akik ezt azt mélyebb szinten művelik nem tehát így az első napon aztán persze a szombat amikor igen megnyílik vagy hát nem nyílik meg hát nyitva van
+– Én 2012 óta nem használom, a londoni olimpia nyitóünnepsége után raktam le végleg. Sokan kérdezik, miért bujkálok, de szerintem egyszerűen csak nem mindenkinek fér bele ez a nyomulás. Persze Magyarországon is sokan onnan informálódnak, és nem mindenki van azon az informatikai írástudási szinten, hogy mellőzze. A Nostr-on meg még csak a „kockák” vannak fent, egy semleges közegben még senki nem kapja fel rá a fejét. Ez is olyan, mint a hegedülés: nem lehet egy nap alatt megtanulni.
 
-De hogy akkor valószínűleg többen jönnek akik így civilek vagy vagy a hétvége akinek a hétvége hétvége tehát sok embert várunk miskolcfolcán lesz ugye a Hotel Aurora és akkor ilyen jó kis előadások lesznek alapoktól indulunk bejön majd a roland hogy a Bitcoin gondolkodásmódot egy kicsit bevezesse aztán kata te jössz ugye a Bitcoin szabályozási kérdéskörrel hát nem tudom ebből most nem akarok lelőni poénokat ja ne is ne is ne is mer ez ez ott lesz jó mert jöjjön el mindenki és hallgassa meg saját füzt é tartok egy ilyen kisebb szösszenetet majd pszicho Bitcoin pszicho bitcoinozásról miért vagyunk pszichopaták mindá mindért vag pszichopaták igen miért válik mindenki azzá egyébként nem hiszem hogy mindenki azzá válik szerintem inkább úgy kezdeném hogy ezt ebből se lövök le most poént
+– Ez egy folyamatos tanulás. Anyósom is mesélte a héten, hogy hallott valakiről, aki nagy bitcoiner. Mondtam neki, hogy emlékszik-e, hogy én ezt már 2017 óta mondom neki? Akkor még csak nézett rám, hogy mi történt ezzel a nővel, de most már látja, hogy minden tele van vele. Múltkor a gyerekek mesét néztek, és kiabáltak: „Anya, nézd, ott a Bitcoin!”. Donald kacsa úszott a dollárjai között, és a ruháján ott volt a Bitcoin-jel. Először azt hittem, valami régi videó, de kiderült, hogy egy friss darab.
 
-Tehát alapvetően kell egy kis nyitottság ezekre a dolgokra hogy kell egy kis őrült vonal Bitcoin Bitcoin erré válhass mert kell egy ilyen kis szabadságszeretet nem az nem is kicsi nem kicsi de
+Ugyanez volt a Gumball csodálatos világa című rajzfilmnél is. A gyerek ült mellettem, és fél füllel hallottam, hogy a Bitcoinról és a mesterséges intelligenciáról beszélnek benne, méghozzá értelmes dolgokat. Kérdeztem a fiamat, hogy ez mi, ő meg csak annyit mondott: „Anya, a Gumball mindig ilyeneket mond”. Ez mutatja, hogy az adaptáció zajlik, még ha lassúnak is tűnik. Az idősebb generációk persze nehezebben mozdulnak, őket még mérgezi a média, de a 30-as, 40-es korosztály már képben van.
 
-Hát a magyarokban ez megvan szerintem
+– Sajnos sok cikkből még ma is kimarad a Bitcoin. Láttam egy írást a Z generáció pénzköltési szokásairól a Nők Lapjában, és egyetlen szót sem ejtettek a kriptóról. Pedig az öcsém generációja már teljesen benne van az NFT-kben, a VR-szemüvegekben és hallottak a Bitcoinról is. Hiba ezt kihagyni egy ilyen tájékoztatóból. De mi azért vagyunk, hogy pótoljuk ezeket a hiányokat. A legjobb forrás még mindig a könyv, legyen az nyomtatott vagy e-book.
 
-És akkor vasárnap egy levezető naap lesz katával kezdjük majd kíváncsi vagom mennyien maradunk a szombat este után tegnap kifejtettem már az álláspontomat a vasárnap reggel 9 órát illető kezdést nem biztos hogy könnyedén se kell fek vesszük de de ilyenek a nők a Bitcoin világ igen aztán persze a később ébredőknek ott lesznek ilyen ilyen kötetlen beszélgetések meg workshopok amire szintén érdemes szerintem bekukkantani mert használat közben lehet majd megnézni ezeket a valleteket akkor a nódokat egy-két ilyen posos terminál is jelen lesz tehát várunk azért olyan cégeket vagy vendéglátóhelyeket akik szeretnének a jövőben bitcoint elfogadni
+Én nagyon szeretem a könyveket, de mivel sokat utazunk, nem praktikus 20 kilónyi papírt cipelni. Ezért vettem egy kihajtható telefont, amin kényelmesen tudok olvasni. Ha csak öt percem van, amíg a gyerekre várok az edzésen, elolvasok pár oldalt. Ez segít elkerülni az „overthinkinget” is. A Facebook-függőséget is így győztem le: scrollolás helyett elkezdtem olvasni. Beállítottam a digitális jólét funkciót, és látszik is az eredmény: sokkal kevesebb időt töltök céltalanul a telefonon.
 
-És ez egy nagyon jó módja lesz annak hogy így testközelből megismerjék ezeket az eszközöket illetve hogy mennyire könnyű ez tehát ennek szerintem nagyon jó keretet fog adni ez a nap tehát így hogy így az adaptiont y az adaptációt így el mesélje
+– Most nézzük meg Vijay Boyapati könyvét, *A Bitcoin ígéretes jövője* (The Bullish Case for Bitcoin) címűt. Ez elérhető magyarul a [huszonegy.world](https://huszonegy.world) oldalon. Nagyon jól összefoglalja az értéktárolók tulajdonságait. Van benne szó a tartósságról, a szállíthatóságról és a felcserélhetőségről. Ez utóbbi azt jelenti, hogy egy bitcoin pontosan annyit ér, mint egy másik. Az ellenőrizhetőség is kulcsfontosságú: a fiat rendszerben nem tudod ellenőrizni a központi bankot, a Bitcoinnál viszont bárki lefuttathat egy szkriptet a készlet ellenőrzésére.
 
-És akkor na akkor hadd is hadd is hozzak be egy témát amiről egyáltalán nem beszéltünk hogy hogy beszélgetünk de most eszembe jutott nagy vagányan bejelentettem a 21-ben egy három héttel ezelőtt hogy letöröltem a facebook fiókomat most ez csak azért jutott eszembe mert tele van a facebook a Bitcoin miskolccal és a az anyósom az anyám barátnőim mindenki mondja hogy hogy fú látom hogy mennyire megy a hirdetés
+A könyv kiemeli a korlátozottságot is: a Bitcoint nem lehet hatalmi szóval előállítani, csak energiával. Ez megtöri a központi bankok körforgását. Én korábban az aranyban bíztam, de rájöttem, hogy az ellenőrzése és a szállítása problémás. Az utcán senki nem tudja megállapítani egy aranyrúdról, hogy valódi-e. Az ingatlanról is azt hiszik, hogy jó befektetés, de az elavul, fel kell újítani, és a kormány bármikor elveheti. A Bitcoin viszont tartós, felosztható 100 millió satoshira, és nem igényel karbantartási költséget.
 
-És hogy hogy láttalak ez meg az láttalak a tévében és láttalak a tévében
+– Érdemes beszélni Gigi *21 lecke* című könyvéről is, ami szintén elérhető nálunk PDF-ben. Gigi nem azt írta le, mi a Bitcoin, hanem hogy ő mit tanult tőle. A „Strength in Numbers” fejezete zseniálisan elmagyarázza a kódolás erejét, akár informatikai végzettség nélkül is érthető. Ez a könyv remek kételyeloszlató. Szintén alapmű Knut Svanholm két kötete, a *Sovereignty* és az *Independence*, amik magyarul egyben jelentek meg.
 
-És hát én meg nem láttam mert
+Knut könyvéhez van egy személyes történetem. 2021 karácsonyára kaptam meg a Bitcoin Bázis tulajdonosától. Elolvastam két óra alatt, és teljesen elborult az agyam. Minden fontos részt aláhúztam benne, tankönyv lett belőle. Én korábban féltem a Bitcointól, mert azt hittem, rossz vagyok matekból. Meg is buktam gimiben matematikából, és a tanáraim elhitették velem, hogy emiatt hülye vagyok mindenhez. Aztán elolvastam Knutot, és rájöttem, hogy nem a számoktól kell félni, hanem a rendszer logikáját kell megérteni.
 
-Tehát abban a az az időintervallumban nem voltam a facebookon
+– Riga, Honey Badger konferencia: megláttam Knutot, és remegő lábbal mentem oda hozzá aláíratni a könyvét. Aláírta az újat is, de nem tudtam kifizetni, mert nem volt feltöltve a lightning tárcám satoshival. Knut nagyon jó fej volt, azt mondta: „Value for value, majd meghálálod a virtuális térben, vidd el a könyvet”. Ekkor jött az ötlet, hogy lefordítom a könyvét magyarra a Bitcoin Bázissal közösen. Knut egyébként nem matematikus, hanem svéd tengerész, aki hosszú hajóutakon, a csillagos ég alatt gondolkodott ezeken a dolgokon.
 
-És aztán tegnap szintén nagy mellénnyel felírtam a a a telegramra hogy hát jelentem hogy elbuktam és és tök durva hogy mire akarok kilyukadni nyilván átment csináltam a nostr egy accountot magamnak elkezdtem ismerkedni a nostrel és a többi és egyszerűen rá kellett jönnöm hogy nem tudok funkcionálni a facebook nélkül egy és egyetlen egy oka volt ennek ami ami elindította ezt a lavinát és majdnem a kisfiam lekéste az iskolát ugyanis az iskola ahova a gyerek jár az egyetlen hely ahol megosztják a saját kalendáriumokat ami az egész éves iskolai programot mutatja az a facebook profiljukon van érdekes
+Végül még egy könyv: Alex Gladstein műve a nemzetközi valutaalapról és a világbankról. A címe: *Hidden Repression: How the IMF and World Bank Sell Exploitation as Development*. Sajnos csak angolul érhető el, de le kellene fordítani. Alex leírja, hogyan okoznak több kárt ezek a szervezetek a fejlődő országoknak, mint hasznot. A Bitcoin egy alternatív mentőöv számukra, amivel az „utolsókból elsők” lehetnek. Gladstein nem egy névtelen figura, hanem a Human Rights Foundation stratégiai igazgatója, aki személyesen is járja a térséget és ellenőrzi a Bitcoin-bányákat.
 
-És akkor így a múlt héten amikor elkezdődött neki az iskola hát én abban voltam hogy ez egy másik nap és nem az ami ami valójában
+Várunk mindenkit szeretettel jövő héten Miskolctapolcára! A rendezvény ingyenes, a [Hotel Aurorában](https://hotelaurora.hu) lesz kávé, süti és rengeteg jó fej bitcoiner. Ott lesz Schiller, Lőrinc, Openoms, Madarász Lóri és még sokan mások. Vasárnap workshopokkal és élő tranzakciókkal várunk titeket. Találkozzunk élőben! Köszönjük a figyelmet, sziasztok!
 
-És akkor így ültem így gondolkodtam már mondom csak meg kéne nézni azt a facebook oldalt és pont a férjem nem volt itthon hogy az ő fiókját használjam erre vagy hát megkérjem őt hogy megnézze nem volt itthon hát mondom basszus újra kell aktiválnom a fiókomat ú az jó cik és megtettem az és megtettem
+---
 
-És akkor látom hogy hát konkrétan egy nappal előbb kezdődik az iskola mint ahogy mi készültünk fú mondom de jó hogy megtem de nem tegnap nem tegnap
-
-És akkor úgy elgondolkodtam amúgy nem hiányzott egyáltalán tehát semmi egyéb okból nem hiányzott viszont vannak igenis olyan okok mert van több is amiket most nem fogok itt részletezni de de sajnos szükségem van erre a platformra h hüüm igen vannak helyek így a világban ahol a facebook nagyon elterjedt és az egyik az az ahol most éppen te vagy hogy ott az él borzasztóan borzasztóan
-
-Tehát itt alapvetően a digitalizáció nagyon alacsony fokon áll tehát például a a külön ja tudom mi volt az első pillanat amikor amikor észleltem hogy hohó van egy kis pityputty szintén valami nem is tudom mit kerestem a gyerekeknek valami valami helyet edzéssel kapcsolatos ühüm és nincsen honlapja a helynek csak facebook profil van megadva ahol további információkat tudsz kérni és hát beírtam a google-ba és nyilván azt dobta fel és nem tudsz belépni amíg nincs és nem tudok belépni ű mondom na kezdődik és akkor mindig mindenhez a férjem gyere ide légyszi hadd nézzem meg a telóról és nem szeretem ő se szereti senki se szeret mer nem nem is akarom na mondom jó túlleszünk ezen az év elején és akkor majd utána norm normálódik a helyzet
-
-De hát nem tud normalizálódni mert olyan szinten átszőtte és mondom itt van egy csomó olyan cég akinek abszolút sőt a legtöbb cégnek abszolút nincsen honlapja hanem mindenki a facebookon mindenki meg a csoportok meg a a a a reklámok az ingatlanok a marketplace a nem tudom én tehát minden amivel napi szinten foglalkoznom kell mind ott van akkor kizártad magad a világból hallod háom hét tudod milyen jó volt nézted is hogy miért minden ilyen nyugodt nem figyelj amúgy sincs beállítva a telomon semmilyen értesítés neem több éve tehát van hogy hogy hetekig nem válaszolok valamire mert egyszerűen nem látom mert nem kapok értesítést tudatosan ak kell úgyis megtalálnak máshol tehát nincsen ebből soha semmi probléma a messengerre sincsen értesítésem mindig érzem ha írnak persze telepátia ez a ez az igazi ja ja hát ha fontos érzem és nem kell előfizetni rá és nem kell előfizetni rá így ahogy mondod és
-
-Hát ezzel ez ezzel szembesültem nagy nagy tanulság volt egyébként így az elmúlt hetekben
-
-Na mindegy a konferencia kapcsán ezt most egy ilyen kis érdekességként mondtam el hogy hogy nem tudok szabadulni egyelőre majd eljön az idő biztos nekem nincs fiókom egyébként már 12 óta ott a londoni olimpia egy kicsit felidegesít ott a nyitóünnepséggel és akkor mondtam hogy na jó akkor okkultizmusból nekem ennyi elég volt úgyhogy leraktam a francba a facebookot azóta is kérdezik hogy én miért bujkálok de hát most nem tudom itt vagyok szerintem annyira nem bujkálok egyszerűen csak nem mindenkinek fér bele ez a facebooki nyomulás amikor így tolják az arcodba a dolgokat jó persze nyilván magyarországon nagyon sokan használják meg onnan inf álódnak
-
-Tehát azért így nem lehet így eltemetni mindenkinek vagy hát így lehetne csak nem mindenki van azon a digitalizációs szinten vagy azon a a az informatikai írástudottság szintjén hogy ezt mellőzni meg megengedhesse magának hogy mellőzi nem hiszen nagyon kevesen vannak akár a twitteren x-en magyarországon és akkor a a a nosterről meg ne is beszéljünk mert ot már csak szintén ezek kis kockák mennek föl most hogyha így laikusként nézed akkor abból az irányból nézve mindenki aki a nostörön van az valamilyen szinten egy kicsit ilyen persze ja hát még a népscs annyira elterjedve hogyha így bedobod egy semleges közegbe hogy no akkor nem hiszem hogy sokan felkapják a fejüket persze tudják hogy miről van szó de
-
-Hát ez nyilván az idővel hát idővel ugye ahogy ez így szélesedik így a spektrum amiről így beszélnek az a emberek az így épül be szépen a köztudatba ugyanígy a Bitcoin is ugye hogy itt van 15 éve és akkor most már azért így így tudják hogy ez nagyjából micsoda de azért azért egy az 1%-ot szerintem nem érjük el azok körében akik ezt le tudnák írni hogy pontosan ez mi meg meg nyilván azok se pontosan írják le meg valószínűleg mi sem mert a mi képünk is ugye idővel idővel teljesedik csak lesz azért egyre precízebb ahogy megismered ennek a különböző részeit de hát
-
-Hát ez egy ilyen dolog tehát hegedülni se lehet megtanulni egy nap alatt persze hát nyilván meg ez egy folyamatos tanulás sose leszünk kész ez nem csak a bitcoinra vonatkozik hanem általánosságban elmondható de tök nagy élmény volt nekem most ez is például a hét hétenért itt van nálunk anyósom és
-
-Hát mindig mondja amikor ő is így találkozik a bitcoinnal szóba jön ilyen-olyan körökben és kezdi nekem mesélni hogy fú képzeld el a nem tudom én ki az is nagy bitcoiner és a többi és mondom neki te mondom emlékszel hogy 2017 vége óta mondom ezt mondom neked is hát őt is hát szénnél hát hányszor ült és csak nézett láttam az arcán hogy na ez a nő ezzel mi történt és mondomem el hol ja ja hol vesztettük el és mondom nézd meg hogy eltelt hét év és minden tele van vele látod mondom ezt mondtam már akkor
-
-És akkor így ült így láttam rajta hogy fú ja tényleg milyen igazam van és ahogy ezt kimondtuk a gyerek üvölt anya anya nézd ott a Bitcoin és nézek a tévére hát most meg ne mondom mit néztek valami mesét néztek és donald kacsa haverunk dollárjaival úszik a dollárokban és ott van a ruháján egy Bitcoin nel ezt nem mondod
-
-Na de ez mikor elő fogom ez hát ez egy tegnap előtti történet ja de maga a rajz a maga a maga a a videó is amit néztek az egy friss videó üm valami amerikai 1963 úristen most vettük észre az azért keresd meg mert az ciki akkor tényleg az akkor eléggé nem de elől fogom keresni hogy hogy melyik melyik videó volt és ez egyébként már többedik alkalom hogy a gumball biztos ismeritek a gumball című hog ja már min mozgalmat amikor így átsuhannak ilyen szerényebb autókkal európán meg amerikán nem az a gumball nem a rajzfilm van egy rajzfilm egy a én nem egy ilyen dczis gumall cartoon networkös aziszem nem tudom üüm a nagyobbik fiam nézte egy pár évvel ezelőtt egy nagyon nekem nagyon vicces én szeretem ilyen kiment fejű mese
-
-Na mindegy is de többször volt olyan hogy hogy dolgoztam a gyerek délután ült mellettem nézte a mesét és így félfüllel így hallom hogy a Bitcoin meg a mesterséges intelligencia meg a mit tuudom én mi és értelmes dolgok
-
-Tehát nem kreténségek mert van egy csomó mese amiben kreténségeket beszélnek igen és még figyelte te mondom gyerek mi van veled anya anya há itt mindig a gumball beszél ilyen dolgokról na mondom király csak nézzed nézzed szépen szívjad magad csak az adaptáció miatt m mondom hogy azért itt igen úgy tűnik hogy lassan történnek a dolgok de az én életemben én nekem ez gyors
-
-Tehát hogy megfelelő inkább úgy mondom igen mert ha gyorsabb lenne akkor elszállnánk nem akkor biztos akk b hát azért ezt így nehéz így lefordítani érthető nyelvre nagyon de tényleg ha ennél gyorsabban történne akkor az nagyon veszélyes lehetne még így is talán mondhatjuk egyébként hogy egy kicsit gyors
-
-Tehát hogyha mondjuk a a szüleim generációját nézem az én környezetem ben akik azért elég erőteljesen vannak mérgezve ühüm igen ők ők még mindig nem értik meg nem az a lépték mint mondjuk egy 30-40-es korosztály ahol azért jóval gyorsabban meg hát látják az emberek azért manapság szerintem lehetetlenség úgy beszélni olvasni gazdasági dolgokról hogy minimális szinten ne említenék meg ha nem is a bitcoint de a kriptovalutákat mindenféleképpen ja pont a héten mérgelődtem szintén még egy anyósos sztori és befejeztem nyilván nőklapjával érkezett mert az ú mert a repülőn olvasni kell és a nők laapján hát nem tudom mikor volt a kezemben nők laapja utoljára és volt benne egy cikk a z generáció pénzköltési szokásairól ühüm na mondom ebbe a cikkbe biztos hogy meg lesz említve hacsak egy szóban is de de meg kell hogy említs már vártad mi már már izé előkészültél y nem azt nem mondom hogy végigolvastam a cikket de így gyorsan átfutottam semmi nem volt nem nem de a nők laapjának meg megengedem ott más nagy lelkű vagyok az nem annyira ilyen technikai nem hibásnak tartom egyébként mert objektív tájékoztatás
-
-Tehát hogy attól hogybzélünk róla még van és ha ha ha az égenációról beszélünk akkor nem lehet nem megemlíteni szerintem mert manapság mivel van egy egy sokkal fiatalabb öcsém aki éppen hogy kicsúszik a z generációból de azért erősen z generációs sok ilyen korú embert ismerek meg vagyok velő kapcsolatban és mindenki képben van tehát ha nem is a bitcoinnal tehát ha b ha biztos hogy hallott a bitcoinról shitcoinozik biztos hogy kipróbált dolgokat ha nem is aktív de tudja hogy miről van szó sőt keresi és érdekli és az nft-k és a technológia és a vr szemüveg és a
-
-Tehát hogy teljesen tehát hibának gondolom azt hogyha egy ilyen cikkben erről nem írnak igen mer nem szabad ugye úgy hozzáállni a világhoz hogy elbújunk előle mert akkor nem fogjuk tudni hogy mi történik benne tehát így is nehéz k biztos van az újságírók részéről is egyébként egyfajta félelem ami nyilván érthető hát ja de hát annyi forrás van már manapság magyar nyelven is igen hála nekünk és még egy csomó más embernek aki ezzel foglalkozik hogy azért most már sokkal könnyebben felhetőek ilyen információk magyarul is
-
-Na mindegy nem nagy segítség egyébként jó hogy ezt behoztuk mert ugye azért ez ilyen élethosszig tartó tanulás amiről már itt olyan sokszor esett szó és a legjobban az szerintem úgy meríthető ki ha az ember azér azért így olvasgat tehát az mindenképpen hasznos hát
-
-Igen hát
-
-Igen hát ugye nem csak fogyasztjuk a kreált médi tartalmat amit most már leginkább majd az ai fog nekünk generálni így a sizünk szerint de jobb az hogyha ilyen retro irányokba elmegyünk nem
-
-Tehát a nyomtatott könyv például az ember kezébe veszi
-
-És akkor így szépen kiszívja belőle a tudást ezek jó dolgok vagy akár egy ebook aki esetleg így inkább ilyen digitális könyvek világában mozog mert azért az is az is praktikus tud lenni ugye én mindkettőben mindkettőt ugyanannyira szeretem nagyon szeretem a könyveket csak mivel itt a világban jövünk megyünk ezért nem nagyon praktikus igen nem tudsz elvinni egy 20 kg könyvet magaddal nem most nagyon sok könyvem lett egyébként hirtelen úgyhogy nem is nagyon szabad költöznöm mert mert most nem tudok most it vannak a könyvek küön k elő kell küldeni mindig a 20 lábos konténert
-
-És akkor csak besétálsz nem nem nem ezek ilyen családi kompromisszumok tudod mert ha anya viheti a könyveit akkor a gyerek hozhatja az összes mindenségét igen
-
-És akkor nem érti hogy miért nem hozhatja tudod tehát nekem kell elsősorban kompromisszumot kom de de én nagyon szeretem az e-könyveket meg meg meg direkt ezért is vettem egy olyan készüléket ami ami erre kifejezetten alkalmas mert nagyon sokat olvasok meg a munkám miatt is nagyon sokat olvasok de könyveket kifejezetten szeretek telón olvasni mert mert tényleg mindig ott van és én képes vagyok ha csak nem tudom három percem van én kinyitom én egy oldalt elolvasom ja hogy ja hogy így a telefonon ma tényleg azt hittem hogy ilyen einkes könyv ah igen nem nem mert most nem akarok itt reklámot csinálni ja persze nem is kell de
-
-De ez a egy ilyen fold egy ilyen fold telefonom van ja az jó a szép és akkor nagy lesz a igen és jó nagy lesz a képernyője és teljesen olyan mintogyha egy egy bármilyen ilyen olvasó lenne ühüm csak mindig nálam van és tényleg csak mindig nálam van és én mindig képes vagyok kihasználni az időt gyereket várom az edzésen a suliba a nem tudom én tényleg van egy ö per igen halatsz egy pár oldalt földob egy pár új gondolatot azon szépen azt megrágja az agyad íí mert ugye az az agy azért dolgozik itt nap mint nap
-
-De ha és én ezt most már megtanultam persze hát ingerelnek kell ftam dezt már meg akor a hüeségeken gondolkodik bizony az overthinking a túlgondolás jön és akkor csak magadat zavarod meg és tényleg ezt most már megtanultam hogy a a megoldások meg a a legjobb gondolatok meg a váratlan dolgok amik triggerelnek új dolgokat azok mindig ilyen helyzetekben jönnek amikor leülök hogy
-
-Na most kigondolom meg
-
-Na most megcsinálom akkor nem akkor richtig nem
-
-De amikor van egy ilyen pillanatom kinyit
-
-És akkor mindig áldom az eszem hogy de jó hogy kinyitottam mert akkor egy újabb fonálon vagyok igen meg stressz ellen is jó mert az ember tényleg nem ezen ugyanazokat a ciklusokat futtatja a fejébe hanem bejönnek nyugtató egyébként azért kezdtem el ezt a a dolgot csinálni mert a facebookról akartam még évekkel ezelőtt leszoktatni magamat a doom amikor iszonyat bejött a facebook és ment a scrollolás tudod 1000errel aha és néztem hogy basszus három órája ezt csin ja kéne aludni
-
-És akkor hát vagy értelmes dolgokkal foglalkozni na
-
-És akkor akkor mondtam hogy na jó akkor olvasni fogok és olyan gyönyörűen bejött hogy utána mértem is mert direkt beállítottam a telomon ezt a digitális jólét szolgáltatást
-
-És akkor pont a héten is örültem magamnak hogy egy másfél órával kevesebbet voltam a telefonomon pedig tényleg esküszöm hogy nem az instagramon lógok meg a facebookon hanem egyszerűen munkaeszköz tiktokom nincs is sose volt nekem se hanem tényleg munkaeszköz meg tényleg az olvasás és sikeresen átszoktattam magamat úgyhogy ez ez ez jó ez jó igen mert hogy egy csomó ellenhang van az ebukok ellen is és meg tudom érteni azt is csak hát nézőpont kérdése jó de egyébként praktikus szempontokból hogyha valaki megy mondjuk vonaton repülőn és egy kihúzod az ebukot a táskádból ami mondjuk 80 g vagy 100 g
-
-És akkora mint egy vékony könyv és ott választhatsz 30 könyvből vagy 300-ból vagy vagy 300-ből attól függ milyen memóriát tettél bele az azért megnyugtató hát figyelj most is ha megmutatnám itt a tudod mondtam a múltkor hogy én ezt a
-
-Hát ez nem hiszem hogy reklám de reklámozom is szívesen mert tök jó ez az applikáció ez a script ezt mondtam is a múltkor nete az egy jó kis és most is hogyha megmutatnám egyszer erre nem tudom hat-nyolc könyvet olvasok és akkor mindenben mindig kicsit és mindig mindegyiket végig is olvasom üüm egy kicsit ilyen hogy hívják ezt ilyen oc ocd ocd-s vagyok nem tudom
-
-Tehát amit elkezdtem azt azt el kell olvasni jó hát de így is van nem
-
-Tehát azért az hozzád tesz hogyha befejezel egy projektet í van meg lezár persze de hogy praktikum szempontjából hat-nyolc könyvet nem tudok magamnál tartani állandóan mert hülyeség voltak ezek a pici zsebkönyvek az megvan olyanakat kellene csinálú de szerettem azt három- négy a zsebbe figyelj képzeld el hogy hogy az apám az egy óriási könyv bolond vagy hát nem az hanem ő ő mind a két szülőm anyám és apám is mindig olvastam óriási könyvtárunk volt otthon biztos mindenkinek megvannak a színes a világirodalom sorozat új magyar le
-
-Igen
-
-De hogy ezek aha persze
-
-És akkor ott szép hát nem tudom gyerekkoromban hogy hányszor rendeztem át kéktől a zöldig és vissza örültek figyelj apám nem tudom a hat-8olc éves koromig azzal szekált hogy olvasni kell olvasni és minél jobban mondta hogy olvasni kell annál jobban nem olvastam igen és egyszer taktikát váltott az öreg és azt mondta te sose fogsz olvasni na erre én én szerintem nem tudom által iskolás korom végére kiolvastam az összes világirodalmi könyvet a dosttojevski bűn és bűnhödést imádtam annyira rákattantam az olvasásra hogy brutális mennyiségű könyvet olvastam
-
-És hát hála istennek így maradtam volt egy kis kitérő amikor elvégeztem a jogi egyetemet akkor utána nem szerettem sokat olvasni sőt hánytam a betűktől biztos azt megutáltatta veled hát rettenetesen megutáltatta velem
-
-És akkor egy ideig nem olvastam
-
-De hát most már egy jó 10 éve azért újra visszatértem és felvettem a felvettem a rendszert újra és pont az árpival amikor elkezdtünk erről az adásról beszélgetni amikor beszéltünk akkor mondtam hogy elkezdtem újra olvasni a római jog tankönyvemet készülve a az előadásra előadásra aha a konferenciára meg már régóta így tervezgett a fejemben hogy milyen érdekes lenne újraolvasni
-
-Hát aki jogász az meg aki nem csak volt a környezetében egy olyan jogász aki a jogiegyetemre járt és róai jogot tanult az pontosan tudja hogy micsoda gyöktrelmekkel jár ez a dolog és hát nyilván rituálisan el is égettük a római jogkönyvünket a szigorlat végeztével
-
-Hát persze köpések rúások és hát minden amit el tudsz képzelni és hát nyilván mindig mindenki megfogadta hogy soha az életben többet tett ne is na és akkor most így elővettem és feltörtek az emlékek és
-
-Hát ezzel már rákanyarodnék egy kicsit itt a a mai témánkra hajrá a könyvek hogy hogy mennyire más megvilágításba kerül nem akarok a tartalmáról beszélni nem akarom lelőni a az előadásomat nem a római jogról fogok előadást tartani azt is szeretném leszögezni köszi de nyilván ugye a kontinentális jogrendszer alapja az a méltán híres római jogban gyökerezik és mint minden könyven tök jó újraolvasni könyveket
-
-Tehát hogy mindig mást ad és hogy hogy hogy pont tervezem ugye a a az egyik könyv amiről ma beszélgetni akartunk a knutnak a könyve amit lefordítottunk magyarra amit a azért annyira részleteiben nem szeretnék megvitatni mert már sokszor beszéltünk róla
-
-De hogy milyen érdekes volt azt is elolvasni angolul utána lefordítani magyarra majd újraolvasni a magyarul hogy mennyi mindent újra újjat tud adni meg új perspektívába tudja helyezni és egyébként a knut könyvét azt a kezdő bitcoinereknek nagyon nagyon-nagyon erősen ajánlom ezt azt meg e mindjárt belékelem ugye ami a két kötetnek a a kiadása a a a szoverenity és az independence együtt újra kiadva magyarul igen az függetlenség újragondolva vagy nem tudom mi lá a magyar címe a nem készütem és nem készítettem ide magamhoz nem baj nálam itt van egy másodperc ott van szerintem a a férjem azt talál milyen jó féd nem nem nem
-
-Na de neked ehhez van egy jó sztorid is ez a nút a van hol van egy jó sztorim hát most mondjam el újra nem tudom lehet valaki nem hallotta így röviden röviden tulajdonképpen a fordít hogy hy jött ez a fordítás hogy lefordítjuk a a a a knut könyvét ugye ezt már elmondtam sokszor sok helyen hogy hogy engem a a hát a balázs pillezett orang pillezett be a a a Bitcoin bázis tulajdonosa aki elküldte nekem egy karácsonyra a sovenity ajándékba máltára itt is van a könyv ezt azért megmutatom az volt a állványod elküldem ez volt a ez volt a számítógép állványom most eggyel lejjebb jön nem baj a jó alapra építkeztél így így így így a Bitcoin standard a legalsó
-
-Tehát a tehát tehát megkaptam ezt a könyvet 2021 karácsonyán akkorra már azért voltak előismereteim meg hát azért már benne voltam a a dologban de hogy hogy hogy ekkor elborultam
-
-Tehát az tényleg egy olyan alkalom volt hogy elolvastam a könyvet hát ez nem egy vastag könyv
-
-Tehát ez e ez nem tudom egy ilyen két-három óra alatt el lehet olvasni ezt a könyvet
-
-És akkor itt jön a pszicho pat lét amiről már az előbb beszéltünk hogy hát megmutatom hogy én ezt a könyvet ezt én aláhúzogattam ühüm tehát én itt itt itt elkezdtem it itt a fontosabb dolgokat egy tankönyvvé vált így ahogy mondod nézd meg és itt végig a fontos dolgokat tehát én elolvastam és azonnal elkezdtem előlről újra mert ez a könyv ez inkább társadalmi és gazdasági összefüggéseket citál és azokra világít rá köznyelven és
-
-Én mindig féltem én azért féltem a bitcointól mindig mert rettenetesen azt tanították meg nekem hogy én rossz vagyok matekból nem nem hiszem hogy rossz vagyok matekból ha foglalkoztam volna vele akkor jó lehetnék meg ha nem az történt volna az iskolában ami történt semmi különös nem történt csak elvesztettem a fonalat nagyon korán és utána sose vettem fel újra és ebből az következett hogy gimnáziumban elsőben és é másodikban konkrétan megbuktam matematikából vitted a bék jót hogy te rossz vagy ebből úgyhogy neked úgy kell igen és magamat is elhitettem ezzel hogy és nyilván kí zártam az életemből hülye vagyok nem érdekel nem foglalkozok vele és nyilván a tanárok így is álltak mindig hozzám
-
-És akkor ha már matekból hülye vagy gyerek akkor már mindenből hülye vagy akkor majd leszel jogász tudod akkor majd leszel jogász
-
-Igen de
-
-Hát ahhoz is hülye vagy mert mert megbuktál matekból és az már egy hogy hívják karlár betű tudod hú azért az kemény na hát én így csináltam ezt így végig onnantól kezdve és és én ez és én tökre féltem emlékszem mindig ugyanez a gondolat volt bennem hogy én biztos hogy nem tudom a bitcoint megérteni mert itt kódolás van itt matematika van itt számsorok vannak eleve már amikor egy valallet addressre ránéztem bennem volt már ez a predesztináció ez a félelem hogy úristen számok tudod hosszú számok az igen na és elolvastam ezt a könyvet és tökre leverte ezt az egészet így bennem és iszonyatosan hálás vagyok ezért is a knutnak mert egy teljesen más hozzáállást adott ehhez az egészhez
-
-És akkor visszakanyarodva a sztorira riga honey badger konferencia kata meglátja knuttot remegő lábbal h ott a knutt oda kell menni aláiratni a könyvet vittem magammal a könyvet hogy aláírhassam vele aláírta
-
-És hát jött a kellemetlen szituáció aláírta másik új könyvét is amit nem tudtam kifizetni mert nem volt feltöltve a lightning valetem zéró szattal nyilván nem égettem magamat ott ilyen eurókkal és és a knut tök jó fej volt és azt mondta hogy figyelj majd a virtuális térben találkozunk és value for value ér et az értékért majd valamivel meghálod vidd el ezt a könyvet az új könyvet vidd el majd oké knut köszi köszi kimentem megittam egy kávét gondolkodtam fú mondom ezt valahogy hamar na
-
-És akkor jött az ötlet hogy fordítsuk le a könyvet mi lenne ha lefordítanánk ezt a könyvet rögtön írtam a balázsnak Bitcoin vázis ez van mit szólsz nem kellett több oké nyomassuk csináljuk és
-
-Hát ez ez lett a vége úgyhogy nekem ez a bibliám meg hát knut maga is az ember maga
-
-Tehát az egy annyira nagyon bírom egy annyira jó hapsi tényleg egy nagyon nagyon igen ő egy nagyon értelmes fickó matematikus amúgy de ő már nagyon régóta szerepel itt így a Bitcoin térben a knut nem matematikus a kut egy tengerész igen igen svéd és tengerész kérlek szépen és egy ezeket a komp hajókat vezette ott a a ezt nem tudtam képzeld el én nem tudtam meg ilyen egyéb hajókat nem csak a kompokat hanem hát a kaló kalóz kalóz az egy másik mondhatom azt is egy bizonyos értelemben kalóz tehát tenge igen ő ő ő tengerész volt eredetileg és hát ő azt írja egyébként a könyvei jelőszabában hogy rengeteg ideje volt gondolkodni a csillagos ég alatt a hosszú hajóutakon és zenész is mellette gitározik énekel valami pánka együttese van
-
-Na mindegy nagyon jó arc a csávó iszonyat intelligens meg nagyon magával ragadva és nagyon jól meg tudja fogalmazni azokat a dolgokat amiket nem mindenki tud úgy megfogalmazni hogy az tényleg érthető legyen olyan ember számára akinek semmiféle előképzettsége van tehát leet és ráadásul teszteltem ezt a könyvet olyan értelemben hogy hogy elolvasta a 80 éves apám elolvasta a a az 50 éves tesóm elolvasta a 20 éves tesóm tehát minden korosztályon mindenféle érdeklődéssel barátaimnak adtam nagyon sok embernek küldtem csak úgy vakon már ismerőseimnek de hogy úgy a semmiből
-
-Tehát hogy nagyon ajánlom jó nagyon ajánlom ez magyarul nincs még ugye sajnos de de ez van magyarul ez elérhető a prá bocsánat akkor csak azért gondolom mert nálam itt ugye az angol nyelvű van és és ez elérhető a Bitcoin bázis ez a shban elérhető igen akkor gyorsan oda is linkelek ja igen itt van meg is osztom bocsánat azt mondja hogy sok Bitcoin bázis
-
-Igen ez az ez az ez az bizony bizony na jó nagyon jó tényleg nagyon ajánlom meg hát a HUSZONEGY oldalán ugye ez a prickerféle ami ami amit amit megmondom őszintén hogy én eredetileg nem olvastam most hogy készültünk erre a beszélget re nagyjából elolvastam nem fejeztem be de tudom mi a vége 21 mil de az is egy nagyon jó könyv mert mert nagyon érthető tehát az sem egy ilyen technikai leírás hanem hanem egy hanem egy nagyon jól érthető és az is egy vékony könyv tehát nem kell több 100 oldalon átverekednie magát az embernek hogy hogy vé végolvassa ami azért gyakran el tudja venni a kedvet én szerintem
-
-Igen ez egy 100 oldalas kis könyv tehát igazából egy nap alatt el lehet olvasni és és a és a fickó is tök érdekes jan egy ukrán hogyha jól tudom egy ukrán fiú aki tudtam is úgy kapcsolódni a könyvhöz mert akkoriban kezdődött nála is a Bitcoin mint nálam és írja is hogy 201 haladtatok végén
-
-Igen hát majdhogy nem 2000 k nem nem ő korábban azért már elkezdte
-
-Tehát ő már 2013 2014 környékén ő már vett bitcoint többször is végignézte hogy a befektetése hát kipukkatt a lufi tudod többször igen és akkor elintegette ott a a befektetéseit de nem is érdekelte és akkor igazán ahol én tudtam ő kapcsolódni ő hozzá az a 2017 vége 2018 eleje amikor ezt is már mondtam a múltkor amikor én is végignéztem egy monitoron hogy 20000-ről lementünk 2700 dollárra ja é emlékszem é és ő addigra felépített egy egy egy tech céget a zeneiparon belül egy nagyon-nagyon sikeres tech céget egy ilyen decentralizált platformot amit ő basszus 2017-ben a csúcson ottgyta tehát mindenki hülyé zsírhülyének nézte és elkezdett a Bitcoin közösség fejlesztésén dolgozni és az elterjedésen és mindent ennek szentelt és és és könyvet írt és és
-
-Hát azóta is a közösség oszlopos tagja úgyhogy nagyon ajánlom a könyvet tényleg egy egy jó kis jó kis összefoglaló könv jó kis összefoglaló és mindig tud adni egyébként nekem is tök alap dolgokat ír de hogy nekem is azok a technikai részek amiket már egy csomószor átolvastam nyilván nem a bányászat például a a fő területem érdeklődési területem nyilván értem de sokkal jobban át tudok adni én is olyan jogi társadalmi vetületeket pszichológiai vetületeket akár spirituális vetületeket ami engem jobban érdekel de
-
-Hát ezt mindenki magának megtalálja hogy igen jó hogy ilyen sok terület van mert mindenkinek van olyan ami közel áll hozzá
-
-És akkor azon kívül vagyis hogy az az be tudja szippantani
-
-És akkor azon belül megismeri a többit is fú tegnapkokról majd erről fogok beszélni egyébként a konferencián de madeira óta a a nők a bitcoinban iszonyatosan durván mozgolódnak üüm létrejött két három új telegram csoport angol nők nemzetközi nők francia nők ezeknek t vagy aha hr mind a háromban benne vagyok igen szerintem az összesben benne vagyok nagyon durván megy a a a meetupok a a podcastok a a szervezkedések és tegnap az egyik tag egy podcaston vett részt elküldöm a et hogyha érdekes hogy meghallgassátok meg a meg a meg a nézők is meghallgassák egy nagyon jó mondatot hoztam el belőle nem volt még időm végignézni tegnap jelent meg a podcast és sajnos nem volt még időm végignézni de az elejébe belenéztem réel azt mondja hogy hálás köszönet a férfiaknak az analitikus gondolkodású férfiaknak különösen satosinak hogy egy ilyen alázatos hosszú munkával csak dolgozott dolgozott dolgozott és ilyen precizitással márra feltételezzük hogy ezt ő egyedül de akkor is van egy olyan gyanú hogy ez egy férfiak egy csoportja lehetett akik akik ilyen hosszú áldozatos precíz munkával megépítették a Bitcoin hálózatát viszont most kellenek a nők az adaptációban az elterjesztésben a különböző társadalmi rétegekhez való eljuttatásban az empátiával a nő nőiséggel a a női energiákkal a most az az alányúlás hogy most most van itt a mi időnk és ráz a hideg basszus ahogy ezt mondom föláll a karomon a szőr hogy hogy és tényleg milyen jó full hd hogy figyelj nekem ez full misszió tehát én
-
-Én mindig is úgy éreztem hogy hogy isz hogy misszión vagyok
-
-De hogy most hogy tényleg annyira átjött ez az erő ami a rel szavaiban benne volt amit én is érzek az elejét hogy igen hogy itt ez egy gyönyörű ilyen csodálatos közös munkává válik férfiak és nők között hogy hogy hogy
-
-Igen ez a ez a stádium amiben most léptünk és óriási melónk van óriási külön-külön is és együtt is de annyira jó volt tényleg ezt így végighallgattam és így beleragadtam a székbe hogy basszus ezt milyen jól megfogalmazta
-
-Igen ez tényleg jó mert ugye kettő adja az az emberiség egészét
-
-Tehát hogy azért ez nem elhanyagolható hát örülök ennek a nagy szerveződésnek mert ők is nagyon sokat hozzá tudnak így tenni meg tettek is azért az emberiséghez eddig nem nem lennénk itt nők nélkül engem például anya szült képzeld engem is és azóta már tovább is adtam eme tovább jó jól tetted kamatoztatom eme képességemet hogy így mondj is ja fontos dolog na szóval örülök nek is hogy ez ez lesz például ugye ez a vasárnap délelőtti téma lesz nálatok ez a fú én nagyon én nagyon izgulok emiatt ezt tegnap mondtam is ugye a kis megbeszélésünkel mert ugye arról nincsen statisztika hogy mégis hány nő lesz ezen a rendezvényen és ugye ez egy workshop
-
-Tehát hogy én nem szeretnék amúgy sem előadni szeretnék hanem kommunikációt egy interakciót szeretnék kérdésekkel és válaszokkal nem én odaállok és akkor előadok mert nem az közelebb áll hozzád nem igen közelebb áll hozzám igen az interakció mint hogy én oda kiálljak és akkor előadjam és hogy ezt a női workshopot is tehát nyilván workshopnak is van meg hirdetve és és itt akkor ezen a platformon ki is hirdetem hogy légyszi nők csajok ők gyertek gyertek minél többen és beszélgessünk
-
-Tehát hogy nem nem ö nem egy egyoldalú kommunikációra készülök hanem arra hogy hogy kérdezzetek én is kérdezni szeretnék
-
-Tehát nem csak válaszolni hanem hanem csomó dolog izgat meg hát nincs rossz válasz nyilván meg rossz kérdés sincs ja csak hogy csak hogy gyertek minél többen hogy hogy hogy legyen miről beszélnünk erre erre készülök nagyon jó én tényleg nagyon várom ezt a konferenciát pont ezért mert mert ugye eddig hát nem tudom így a konferenciákba vetett hitem az így megdőlt ezek előtt
-
-Tehát az miről szólt vannek az előadások aztán végén ki van osztva hogy mit kell promózni nem de a egy Bitcoin konferencián pedig teljesen ott van ez a közvetlenség
-
-Tehát hogy hogy egy ilyen nagy barátságos légkör lehet ott vegyűlni kapcsolatot építen e tök jó hogy mondod amúgy mert nekem a honey badger volt az első ilyen élményem ami ugye egy Bitcoin only konferencia hogye rengeteg konferencián voltam és igen így ahogy mondod az nem is egy konferencia hanem ez egy ilyen sales market igen gyakorlatilag tehát odaáll valami nagy okos valami hatóságtól elmondja hogy ez a szabály ezt be kell tartani mert d megtapsolják
-
-És akkor
-
-És akkor megtapsolják igen kicsit utána mennek beszélgetni
-
-És akkor utána az a következő hogy na gyere vedd meg ezt mikor demózunk 26 mi inet össze kalapálsz a következő két hétre azt se tudott fiú vagy-e vagy lány és fingod nem lesz hogy kivel beszélsz ma már rohadtul nem fogsz rá emlékezni éd és meg nem is érdekel nagy valószínűség szerint igen dobálod ki a névégykárgyákat ilyen stóc lesz pénz belőle vagy nem mindegy ja ja ja valami mindegy
-
-És hogy ez a ez a Bitcoin konferencia volt számomra az első ahol meg rohadtul nem ez volt tehát eleve nem öltönybe vannak az emberek meg makkosba meg meg hogy hívják kis kosztümbe hanem flippfppba rövidgatyába jó mondjuk rigába nincs meg a hazugságnak ez az első szintje hogy én megem bízható vagyok azért mert szép a ezért én öltönyben igen ha én öltönyben vagyok akkor ben akkor biztos nem át h öltöny van rajtam nézd meg ja ja mint a providentes ügynök tudod ó ez is jó ötlet volt a provident ezt m kisípoljuk na
-
-Szóval hogy hogy már alapból ugye ez az első benyomás tök jó volt hogy öcsém hova jöttem ez valami teljesen más és hát utána a hangulatom is látszódik hogy ja és és és nekünk meg egy plusz lesz szerintem a az hogy hogy magyarul lesz az egész tök nagy élmény számomra mindenféleképpen mert sose voltam még magyar nyelvű Bitcoin konferencián meg senki hiszen nem is volt [Nevetés] még ja úgyog de hogy nagyon ezért kell többek között de hogy tényleg ez a networking ez a ez a kapcsolatépítés hálózatépítés nem tudom hogy mondjam ez a decentralizálódás ühüm ez sokkal könnyebb lesz meg hát pálinka is lesz biztos vagyis
-
-Hát azt nem tudom de háty jobban megered mindenkinek a nyelve ja úgyhogy nagyon tényleg nagyon be vagyok már zs még még azért van feladatom addig ahüm a az előadásokat vagy
-
-Hát a a beszédet vagy nem is tudom hogy hívjam annyira nem akarom előadásnak hívni ja nem hiszem
-
-Hát ilyen ilyen szabad folyású freestyle stílusba nyomjuk majd nem hát erre készülök megmondom őszintén hogy hogy de azért minőségi előadásokat várok szerintem azok lesznek tehát így a témát meg az előadókat ismerem a témákat mindenki így hozni fogja szerintem azt így az esszenciáját annak amit ő választott igyekezni fogun tehát szerintem így a minőségel így nem nem lesz probléma meg maga az interakciós lehetőség
-
-Tehát az hogy utána ott lesz mindenki beszélgethet kérdezhet ez az tök jó meg abban reménykedem tudod hogy így a vibeot így sikerül majd átadnunk hogy hogy hogy mert ugye a kérdezés is sokszor azért nehézkes rábírni némely közönséget arra hogy kérdez és ilyen viszonylatban mondom hogy remélem hogy sikerül majd ezt a ezt a vibeot így átadnunk másoknak is hogy hogy tényleg kötetlen és ezért sem ragaszkodom az előadáshoz hogy ne ez a rögzülés legyen hogy itt most akkor valaki beszél a többiek meg hallgatják üüm
-
-Igen hát három nap a szabadság címszavában ja nagyon kíváncsi leszek nagyon kíváncsi vagy vagyok úgyhogy jövő héten indul a mandula nézzünk még egy könyvet ez a miért éppen Bitcoin ebbe belelapozhatunk hogyha van kedved ezt olvastad
-
-Egyébként ez a nem olvastam a miért éppen bitcointt az pedig egy az is egy ilyen kis rövid könyv igaz igen megosztom ez is elérhető a 21. world alatt ott a könyvek között magyar nyelven ez még rövidebb mert ez mindössze 50 oldalas ott igen azt láttam
-
-Hát ez a egy egy másik szerző előadásában m n mutatja be a bitcoint ugye minél több ember előadásában olvasunk annál jobban átjön meg ugye mindenkinek megvan a saját értelmezése erre az egészre tudom ezzel tartoztam a múltkorról és nem küldtem el azt hiszem hogy beszéltünk a den heldnek ős bitcoiner van egy marha jó cikke a proof of workről ahü és én emlékszem hogy nekem azért beletelt egy kis időbe hogy megértsem hogy mit jelent a proof of work és ez is tök érdekes hogyha most visszagondolok erre hogy milyen pofon egyszerű idea a proof of work nem de
-
-De hogy amikor ezt így ilyen vonatkozásban elkezdtem olvasni és megpróbáltam érten mezni hát nem mondanám hogy könnyen megértettem és aztán a denheldnek a cikke volt az amit szintén a balázs küldött el üüm amit elolvastam és így összeállt a kép és és szerintem azt lehet hogy talán nyilván nektek is hogyha ez így szimpatikus vagy beleegyeztek én én én szívesen felraknám a HUSZONEGY oldalára a linket mert szerintem egy marhaajó és nem is egy ilyen hosszú cik de annyira ilyen esszenciális és annyira jól leírja a lényeget hogy hogy nekem nagyon hasznos volt igen ugye az az alapja és az van leginkább támadva így a bizony a hatalmak által meg a mindenféle ilyen zöld bizon irányú az energiafelhasználás és a többi erek hogy ez hogy ez és és én se nem nem nem
-
-Tehát hogy is mondjam ez egy nagyon érdekes dolog a Bitcoin megértésével kapcsolatosan számomra nekem ez mindig ez volt a a következtetés hogy hogy minél többször minél több embert tollával olvasod el annál jobban megérted mert hiába próbáltam ugyanazt elolvasni többször mert értem a szavakat hm csak a csak a csak a jelentését nem értem illetve azt a konkrét jelentését amit amit az jelent
-
-És akkor ezt ha több perspektívába rakod és több szempontból vizsgálod meg akkor nekem nekem ez segített illetve még szerintem az a nagyon jó amikor így tényleg több embertől olvasol könyveket hogy mindig megnyit mert hiába úgy érzed hogy érted biztos így is van de egy csomó mellék vágányt is így így megnyit előttedegy mellék gondolatot például a luut vanholmnak volt ez az ötlete ez a nulladik elem az egyik könyvébe ezt nem tudom ezt most csak tényleg így említés szintjén hogy ugye a 21-ben van az szerintem 21 aha e minden osztva 21 millióval hogy ez is egy ez egy nagyon jó ötlet
-
-És ezektől az ötletektől elesel ha nem olvasol ilyen könyveket igen nem igen igen igen meg én mindig meg szoktam nézni az írónak az életét hogy ki ez az ember aki ezt a könyvet írta mivel foglalkozik hogy és különösen a bitcoinban mert hogy annyira vegyes a a a széna ahonnan az emberek a bitcoinba jönnek igazából bárhonnan jönnek jöhetnek meg jönnek is annyifé szakterületet ölelnek fel az emberek akik akik akik jönnek hogy tök érdekes mindig annak az embernek a fejével megközelíteni a témát csak mindig úgy állok neki a könyvnek a könyv olvasásának hogy először megpróbálom belehelyezni magamat vagy megnézni hogy ez az ember mivel foglalkozik milyen mire lehet számítani nyilván egy matematikusnak más a hozzáállása mint egy történésznek vagy egy nőnek meg egy férfi ak meg
-
-Hát ezt íy nyilván sorolhatnám ezeket a szempontokat de szerintem az egy tök fontos dolog hogy hogy kinek a tollából olvasod igen bocs itt a múltkorjában volt még egy könyv amit így előszeretettel kapkodtunk így föl a kamera elé ez biztos is
-
-Hát ez volt az fú mondtam is tudod akkor is hogy mindig agyvérzést kapok jó nem kön ezt is még ajánuk és ide be is linkelem gyorsan hogy hol lehet megvásárolni ez is szintén a a Bitcoin bázis webshopján lehet ahol kedvez viszont ez csak angolul van hát
-
-Igen de ezt le kell fordítani ezt már mondtam erről ez egy nagyon jó kis könyv ez a jövő év küldetése lesz
-
-Hát igen itt azért azért ennek a könyvnek vannak komoly üzenetei vannak már a címe is egy egy komoly kérdés igen ugye ugye azt jelenti a cím hogy hogy hogyan adja el az imf és a világbank a kizsákmányolást fejlesztésként igen és hát ugye itt ebben a könyvben azért az alex elég éles kritikát fogalmaz meg a a a nemzetközi valutaalap és a világbank a világbank működésével kapcsolatosan és ugye
-
-Hát arra próbál rávilágítani hogy hogy mind a két szervezet gyakran a fejlesztési támogatásokat és ezeket a gazdasági reformokat vagy
-
-Hát ezek zászlaja alatt valójában gazdasági kizsákmányolást igen valósítanak meg a fejlődő országokban és
-
-Hát a könyv nagyon szépen bemutatja ezt ugye így országokról országokra éles valós világbeli példákon így van hogy hogyan vezetnek ezek a támogatások súlyos eladósodásokhoz meg a jr vg kényedve szerinti módosításhozához hogy későbbi projekteket megengedjen nekik
-
-Tehát hogy hát a szuverenitásról van itt szó tudod azért legtöbb esetben hogy valójában most azt nem mondom hogy ellehetetlenítik vannak olyan példák is de nagyban megnehezítik a a saját szuverén gazdasági fejlődést ezek után a mesterséges beavatkozások után ezekbe a társadalmakba és hát a hát a kiemelt üzeneteket hogyha mondjuk így így így meg kéne fogalmaznom hogy mondjuk mi az mi a mik azok a kiemelt üzenetei ennek a könyvnek akkor az első az mindenféleképpen az lenne hogy hogy hogy több kárt okoz az imf és a világban sok esetben mint hasznok a fejlődő országok gazdasági fejlődésében és ez nem egy rágalom
-
-Tehát itt le vannak írva konkrét számok események helyszínek és konzekvenciák igen melyek mérhetőek hát ez a gyors megoldások mindig hosszútávú problémákat okoznak röviden hát igen csak csak ezek nem egyetlen megoldások tehát ott lennének alternatívák nincs vészhelyzet igen mesterségesen generált vészhelyzetek vannak melyekre mesterségesen generált rossz meg ások születnek a segítség és a jó szándék zászlaja alatt igen és hát nyilván a Bitcoin egy alternatív lehetőséget kínál tehát szembeállítja gyönyörűen leírja gyönyörűen hogy ezzel szemben
-
-Tehát nem csak elmondja hogy ez meg ez meg ez rossz hanem egy megoldást is kínál rá nyilvánmentesek ezek a megoldások a hagyományos pénzügyi megoldásoktól illetve hát hangsúlyozza nagyon a könyv a a a Bitcoin önállóságát meg meg meg meg azt a fajta függetlenséget amelyet a Bitcoin használata vagy puszta megértése által is el lehet érni és ez nagyon fontos ami nekem lényeg volt ebből a könyvből egy olyanfajta alternatív jövő körvonalazódása ahol a számtalanszó é néltatlanul leírt afrika és egyéb harmadik országok könnyű szerrel a civilizált nyugat elé kerülhetnek egy szempillantás alatt az utolsókból elsőkké válva pusztán a Bitcoin használatával és akkor az egy olyan pillanat lesz hogy egyébként azért így jelen is van
-
-Tehát a múltkor néztem ilyen afrika térképet ilyen Bitcoin elterjedtség térképet
-
-Tehát azért ugye aki rá van szorulva arra hogy
-
-Tehát nem ebben a kényelemben él mint így a first world tehát így az első világbeli populációk azok azér rá vannak szorulva arra hogy igenis gondolkodjanak a saját pénzükről és és azok megtalálják ezt a mentőövet ugye mert rá vannak kényszerítve rá vannak kéyszerítve így van az ember megtalálja mindig a megoldást az egy másik dolog amikor ugye ezt kimondottam például így az európai központi bank elnöke ugye Christine Lagarde amikor mondja hogy minden mentővet el kell zárni mert ha van mentőv akkor az emberek meg fogják találni és ez nagyon jól ugye látszik is az európai pénzügyi politikába meg az amerikaiba hogy ez az ezek y támadják ezeket a ezeket a mozgalmakat ugye hát igen csak amikor és ugye itt visszacsatolok arra hogy ki írja a könyvet
-
-Tehát azt ne feledjük el hogy hogy az alex gltin hát a freedom fórum ugye oslóban vagy hog a fre az oslóban s freedom forum igen egy nonprofit és ngo szervezetnek a stratégiai igazgatója human rights foundation
-
-Igen de oslóban van a freedom human rights foundation is oslóban van és a fórum a freedom fórum az az ő megrendezésükben szokott történni igen
-
-Tehát nem csak egy srác a húból aki aki fogta és és akkor most itt ilyen hülyeségeket itt összehord a a az imf-ről és a világbankról hanem azért ő egy eléggé szavahihető szakmailag megkérdőjelezhetetlen figura aki maga is aktívan jár a térségbe és és megszemléli azokat a Bitcoin bányákat azokat a fejlesztéseket azokat a azokat a mindennapi használatokat és történeteket amikről beszél
-
-Tehát hogy nem kételkedem azt sokom csak ezzel mondani hogy egy percig sem kételkedem a szavában és gondolom azt hogy ez valami szenzáció hajház dolog lenne üüm amit ő egy bérenc és ő ő ilyeneket ír tudod ezek ilyen divatos szavak vannak ág hogy hogy ő csak egy ilyen bérenc és akkor ő megírja nem tudom én kinek a szavait
-
-Szóval hogy ez fontos ezt a szempontot figyelembe venni jó hát köszönjük ezt a kis összefoglalót erről a könyvről de tényleg ezt ezt is mindenkinek ajánlom kárhogy ugye ez még magyarul nincs meg de majd azért igyekezni fogunk hogy ezt is igyekezni fogunk elérhetővé tegyük hát a mai adásban íy körülbelül ennyit tudtunk bel sűríteni mindenkit nagyon sok szeretettel várunk a jövő hét péntek szombat vasárnap megrendezésre kerül első Bitcoin konferenciára mármint az első magyar Bitcoin konferenciára miskolc tapolcára a Hotel Aurora és ott mindenféle jó előadásokkal készülünk majd nektek gyertek jó lesz gyertek el jó lesz és ott talá köszönjük a figyelmeteket
-
-Sziasztok
-
-Sziasztok
+Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik személyes támogatást igényelnek, ajánljuk a Bitcoin Mentor szolgáltatásait a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon. Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára és a Rumble csatornánkra is! Kövesd a HUSZONEGY-et Facebookon és Nostron. Támogatóink Miskolctapolca Bitcoin-elfogadó wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). És a Firefish üzeni: ne adjátok el a bitcoinotokat!
