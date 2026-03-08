@@ -1,403 +1,223 @@
-Ha már itt lesz, aki idáig végignézte az adást, ezt a beszélgetést, akkor annyit én még szívesen mesélek röviden, nem is feltétlenül magamról vagy magunkról és a duónkról Rénivel, a Réni és Bokáról, hanem arról, hogy miért, vagy hogy mi hogyan zenélünk és miért zenélünk, mert az bennem legbelül egy nagyon hasonló hely tényleg, amit A amit a Bitcoin mond nekem.
+Aki idáig végignézte a beszélgetést, annyit szívesen mesélek még röviden — nem is feltétlenül magunkról, a Reni és Bokáról, hanem arról, hogy miért zenélünk. Az bennem legbelül egy nagyon hasonló hely, mint amit a Bitcoin mond nekem. Majdnem azt mondtam: tanít nekem. Egyfajta nyugalom — azt a zsizsgést, azt a „nem elég, nincs elég, megyünk tovább" hajszát nem érzem a Bitcoinban. Ezt a nyugalmat kerestem én is, kerestük mi is az életben.
 
-Majdnem azt mondtam, hogy mesél egyébként, hogy amit a Bitcoin tanít nekem. És az egyfajta nyugalom, amit ezt mutattam ma már ettől ezt ezt az ilyen ezt az ilyen zsizsgést, ezt az ilyen ilyen nem elég, nincs elég. Megyünk tovább izé, ezt a az állati kajtatást ezt így ezt így ez ugye nincs, ezt nem értem a Bitcoin. És ezt a nyugalmat kerestem én is, és kerestük mi is. Úgy alapvetően az életben.
+Itt lakunk az erdő szélén, a forráshoz járunk forrásvízért. Nagyon fontosnak tartom, hogy mit iszik az ember, mert 80%-unk víz. Ugyanúgy, ahogy a forrásvíz fontos, ugyanúgy fontos lett az életemben egyfajta belső nyugalom és tartás, egy tengely.
 
-Itt lakunk az erdő szélén, a forráshoz járunk forrásvízért. Nagyon-nagyon fontosnak tartom, hogy mit iszik az ember, mert 80%-unk az víz. És ugyanúgy, ahogy a forrásvíz nagyon fontos, ugyanúgy nagyon fontos lett nekem az életemben egyfajta ilyen belső nyugalom és egy tartás, egy tengely.
+Ezt gyakorlom a zenén keresztül is, és igyekszem a zenén keresztül átadni az embereknek nonverbálisan, ami sokszor mélyebbre megy, mint verbálisan. Ezért teszem, és tesszük Renivel. Ez számomra ugyanaz a fajta nyugalom, amit a Bitcoin kapcsán érzek, és amit a Nostr-ban érzek, amikor belépek egy közösségi térbe.
 
-És ezt gyakorlom a zenén keresztül is, és ezt igyekszem a zenévőn keresztül átadni az embereknek nonverbálisan, ami sokszor sokkal mélyebbre megy, mint verbálisan. Ezért teszem és tesszük Rénivel. és hogy ez számomra ugyanaz a fajta nyugalom, amit ugye a Bitcoin kapcsán érzek, és ugyanaz a fajta nyugalom, amit a Nostr-ban érzek, amikor belépek egy ilyen közösségi térbe.
+Mindenképpen szerettem volna a végén elmondani: hogyha bárki kíváncsi lenne ilyen nonverbális rezgésekre, keressen rá a Reni és Boka zenéjére. Egyelőre a mainstream felületeken, de még egy hónap és megjelenik az új lemezünk, ami már decentralizált alapokon is elérhető lesz. Már két dalunk elérhető — a „Nem vagyok fontos" a Nostr-on is hallgatható, és élőben is lehet velünk találkozni. Nem csak felnőtteknek zenélünk, hanem gyerekeknek is, kismamáknak a babáikkal. A párom, Reni írt egy könyvet a háborítatlan születés fontosságáról.
 
-És ezt mindenképpen szerettem volna még a végén elmondani, hogyha bárki a beszélgetésünkön túl kíváncsi lenne ilyen nonverbális rezgésekre, akkor keressen rá a Réni és Boka zenéjére. Egyelőre még csak a mainstream felületeken, de még egy hónap és megjelenik az új lemezünk, és az már lesz decentralizált alapokon is elérhető lesz.
+– De jó.
 
-Sőt, már két dalunk már most is, Nem vagyok fontos, mert most is elérhető. Tehát a Nostr alapjain is már hallgatható a zenénk, és élőben is lehet velünk találkozni. Mi egyébként nem csak felnőtteknek zenélünk koncerteken, hanem hanem gyerekeknek is, kismamáknak a babáikkal, mert az én párom, a Réni írt is egy könyvet a háborítatlan születés fontosságáról.
+– Milyen fontos, hogy a nők háborítatlanul szülhessenek, akár kórházban, akár otthon — ez a lényeg. A felnőtt dalok mellett születnek babadalok is. Kismamáknak és babáknak tartunk csendzengés néven hangutazáshoz hasonlatos alkalmakat, ahol körbeénekeljük az embereket, és segítünk nekik visszakapcsolódni önmagukhoz. Minden lehetséges formában igyekszünk ugyanazért a jóért tenni, csak a zenén keresztül. [zene]
 
-– De jó,
+Sziasztok! Üdvözlünk titeket! Ez itt a HUSZONEGY Bitcoin Podcast 92. epizódja. Ma egy különleges vendégünk van, Boka. Ezekben a nehéz időkben vissza kell térnünk a nyugalom szigetére, mert leárazott Bitcoin korában sokan aggódnak. De nem kell aggódni, mert aki self-custodyban tartja a bitcoinját, az nem aggódik — a világvége úgyis eljön majd azoknak, akik ezt a ronda fiatrendszert kitalálták. Mi pedig büszkén előlépünk majd a kis stashünkkel. Mindenkinek javaslom, hogy ugyanígy gondolkodjon és élje az életét. Szia, Boka, üdvözlünk itt nálunk!
 
-– milyen fontos az, hogy a nők háborítatlanul szülhessenek, akár kórházban, akár otthon, de hogy háborítatlanul, ez a lényeg. Tehát születnek a felnőtt dalok mellett babadalok, kismamáknak, babáknak tartunk csendzengés néven olyan jó majdhogynem, mint egy egy jóga jógáról ismert hangutazáshoz hasonlatos alkalmakat, ahol így körbeénekeljük az embereket és
+– Sziasztok!
 
-– ühüm
+– Örülünk, hogy itt vagy. Boka zenész, és aki a Nostr-on jelen van, biztos találkozott már vele — nagyon aktív ott, de ezt ő majd elmondja. Szeretném, ha mesélne a Bitcoinnal való történetéről is, mert ugye ez egy Bitcoin podcast. Kezdjük az ívet onnan: hogyan jutottál a Bitcoin közelébe? Mi volt a te kalandod? Nem kavart fel a Bitcoin? (nevetés) Nem nőtt ki a szakállad?
 
-– így segítünk nekik visszakapcsolódni önmagukhoz, és esetleg leg rájönni a következő fontos megfejteni valóra az életükben. Tehát minden lehetséges formában igyekszünk ugyanazért a jóért tenni, csak a zenén keresztül. [zene]
+– De, egyébként felkavart nagyon. Megszoktam már az életemben, hogy általában előrébb jártam a környezetemhez képest, előbb tudtam meg dolgokat. Van egy ilyen alkatom. De a Bitcoin azért meglepett, és főleg aztán a Nostr.
 
-– Sziasztok! Üdvözlünk titeket! Ez itt a HUSZONEGY Bitcoin podcast 92. epizódja. Ma egy különleges vendégünk van, Boka. Ugye ezekben a nehéz időkben vissza kell térnünk a nyugalom szigetére, mert hát mit mondjak, leárazott Bitcoin korában sokan aggódnak, de nem kell aggódni, mert self-custodyban a bitcoin ott tartja bitcoinját és nem aggódik, mert a világvége úgy is eljön majd azoknak, akik ezt a ronda fiatrendszert kitalálták. Úgyhogy mi pedig majd büszkén előlétünk a kis stashinkkel akkor. Úgyhogy mindenkinek javaslom, hogy ugyanígy gondolja. És ugyanígy élje az életét. Szia Boka, üdvözlünk itt nálunk.
+Mondom sorban. Van nekem egy nagyon jó és régi barátom, aki egyszerre programozó és jógatanár. Ő most már tizenvalahány éve, amikor találkozunk, jellemzően jövőbe mutató dolgokról beszél. Sok éven át ez mondjuk a Sadhguru volt meg a keleti tanítások, aztán a Bitcoint is elkezdte emlegetni, de nekem csak most jött át igazán.
 
-– Sziasztok. Szevasztok.
-
-– Jó. Örülünk, hogy itt vagy. Mit mondjak Bokáról? ő zenész és a Nostr-on, aki jelen van a csoporttagjain közül, biztos találkozott már róla, vagyis vele róla, hallod róla találkozott vele. nagyon jelen van ott, de ezt ő majd mindjárt elmondja, hiszen szeretném, ha mesélne erről, illetve a bitcoinal való történetéről, mert ugye ez egy Bitcoin podcast, és kezdjük az ívet onnan, hogy hogyan jutottál te a Bitcoin házatára közelébe, mi volt a te kalandod, vagy hogy volt ez az egész a zenével, mert azért ha rádnéz egyből látja, hogy árasztod ezt a zenészek által árasztott nyugalmat és érzelmi stabilitást. Hogy volt ez? Nem kavart fel a Bitcoin? [nevetés] Nem nőtt ki a szakállod?
-
-– De egyébként felkavart nagyon. És egyébként megszoktam már így az életemben, hogy általában előrementem így a környezetem és akár a barátaimhoz képest is előbb tudtam meg dolgokat. Van is egy ilyen alkatom, de azért a Bitcoin, az a Bitcoin az most így meglepett, és főleg aztán így vele együtt a Nostr.
-
-De mondom sorba. Van nekem egy nagyon jó és nagyon régi barátom, aki egyszerre programozó és jógatanár, és ő most már így tizenvalahány éve, amikor találkozunk, jellemzően ilyen jövőbe mutató dolgokról beszél. Sok éven át ez mondjuk a Sadhguru volt, meg úgy a keleti tanítások, és aztán a Bitcoin is úgy elkezdte emlegetni, de nekem csak most jött át úgy igazán.
-
-Tavaly októberben volt az, amikor már úgy nem is tudom visszaidézni, hogy mi történt. Talán az egyébként, hogy beszélgettünk, hogy most nekem is fel kell vennem hitelt. És még viccelődtünk is, hogy annyiaknak van már körülöttem hitele, és hogy nekem meg nincs egy jó hitelem. Hát most már legyen nekem is végre egy kis hitelem. [nevetés] És akkor ő erre azt mondta, hogy úgy kezdett el mesélni a Bitcoinról, hogy ő egyébként fölvett úgy hitelt, hogy abból is Bitcoin legyen, annyira hisz benne.
+Tavaly októberben volt az, amikor már nem is tudom visszaidézni, mi történt pontosan. Talán az, hogy beszélgettünk — most nekem is fel kell vennem hitelt. Még viccelődtünk is, hogy annyiaknak van már körülöttem hitele, nekem meg nincs. Hát legyen nekem is végre egy kis hitelem! (nevetés) Erre ő azt mondta, hogy úgy vett föl hitelt, hogy abból is Bitcoin legyen, annyira hisz benne.
 
 – Nagyon helyes.
 
-– És összességében én is így gondolom és akkor azért így így azért így összerántottam a szemöldemet, hogy így most te tényleg felvettél hitelt azért, hogy bitcoint vegyél. Na jó, akkor most már tényleg mesélj róla. [nevetés] És akkor így mesél tovább róla. És most így betalált. Ennyi. Tehát betalált. Meg nyilván ahogy telik az idő, meg ez így klasszik. Tehát amikor már amikor már tényleg nem az van, hogy a haverod beszél róla, aki benne van, és aztán például hazamész, és akkor így ennyi, és így rákeresedel, és még mindig egy kicsit fura, vagy ilyen marginálisnak tűnik, akkor addig úgy lehet, hogy nem mész bele, főleg, hogyha nem voltál benne az ilyen technokban. De ha már hazamész és rákeresel és akkor mondjuk azt hiszem, hogy próbálom felidézni, hogy mit láttam meg akkor, mert ez az október ez már most ez körülbelül az az idő volt október-nvember, amikor már így most akár foglalkozik valaki politikával, akár nem, de hogy már elkezdte hallani, hogy még a még a az az Egyesült Államotokat is érdekli a Bitcoin, érted, meg ilyenek, akkor már azért úgy akkor már az emeri odafigyel. És akkor bár én nem követtem a híreket, de akkor utána volt e tényleg azok a hónapok voltak, amikor azt hiszem a a Black a BlackRock igazgatójának, a CEO-jának kezdett ugyanúgy arról beszélni, hogy évekig szidte a bitcoint, és akkor hát igazából ez mégis csak lehet, hogy egy jó dolog. Úgyhogy a lényeg az, hogy így október-november körül így egyből akkor beleugrottam, és azóta meg az tehát van egy Trezorom, és így elkezdtem gyűjteni, úgyhogy minden hónapban odarakom a nyugdíjam, amit amúgy a nyugdíjamra [nevetés] kéne rakni.
+– Összességében én is így gondolom. Azért összerántottam a szemöldökömet: tényleg felvettél hitelt azért, hogy bitcoint vegyél? Na jó, akkor most tényleg mesélj róla! (nevetés) És akkor betalált. Ahogy telik az idő, ez klasszikus. Amikor a haverod beszél róla, hazamész, rákeresel, és még kicsit furának, marginálisnak tűnik — addig nem mész bele, főleg ha nem voltál benne a tech-világban. De ha hazamész, rákeresel, és azt látod, hogy az Egyesült Államokat is érdekli a Bitcoin, hogy a BlackRock igazgatója, aki évekig szidte, azt mondja, mégis jó dolog — akkor az ember odafigyel. Október-november körül egyből beleugrottam, azóta van egy Trezorom, és elkezdtem gyűjteni. Minden hónapban odarakom a nyugdíjamat, amit amúgy a nyugdíjamra kéne rakni. (nevetés)
 
 – Nagyon helyes. Legalább lesz.
 
-– Legalább lesz. Pontosan rakok félre. Most gyakorlatilag ennyi. Rak lopja el valamelyik.
+– Legalább lesz. Pontosan rakok félre. Nem lopja el senki.
 
-– Így van.
+– Nem lopják el. Ez egy nagyon friss kaland. De te hogy tekintettél rá korábban? Lenézted, mint a magic kártyát?
 
-– Kormányt
+– Nem, azért ha ez a cimborám mond nekem valamit, azt megalapozottnak érzem. Nem gondolnám, hogy nagy lufi. Korábban is, emlékszem, már egy éve is mondta a Bitcoint, de egyszerűen nem éreztem.
 
-– nem lopják el. És röviden aztán mindig jó, hogyha visszakérdeztek, de mondjuk így röviden ennyi a Bitcoin, hogy hogyan csöppentem bele, és hogy most hogy vele.
+Most azt tudom mondani, hogy talán az volt a fordulópont: ha nem magic kártya, ha már Trump is bitcoint akar, El Salvador, Bhután nemzeti tartaléka 40%-ban Bitcoinban van. Elkezdtem olvasni róla, és minél többet olvastam, annál inkább láttam, hogy ez van. Minél többet mész bele — mi az a Bitcoin, hol tartom, vannak ilyen walletek, tárcák. Olvasol a tárcákról, meglátod, hogy a Blink tárcával hány millió emberen segítettek olyan országokban, ahol nagy az infláció és nincs már pénz se, rend se lassan. Olvasod a társadalmi hatásait, és egyre pozitívabb az egész — nem csak egy first world dolog, ez ennél sokkal több.
 
-– Jó, köszi.
+– A Nostr-ral ezen keresztül találkoztál, vagy az egy külön szál?
 
-– Jó, [nevetés]
+– Nehéz megmondanom, hogyan jött be legelőször a Nostr. Amikor beszéltünk a haverommal és hazajöttem, rákerestem, és nagyon hamar megtaláltam a [huszonegy.world](https://huszonegy.world) weboldalt. Jó alaposan végigolvastam, és ott volt a [noszter.hu](https://noszter.hu) meg a [nostr.hu](https://nostr.hu). Azt is végigolvastam, onnan jött a [Köztér](https://kozter.nostr.hu/?r=relay.nostr.hu), a [Jumble](https://jumble.social) magyar fordítása, ami egy Nostr kliens.
 
-– szóval, hogy de a hát akkor ez egy nagyon friss kaland.
+Elkezdtem nézni: ez marha jó, ez közösségi platform. Pont az a bajom az összes létező közösségi platformmal, amit ott leírnak — fake az algoritmus, adatbányászatból működik, a hirdetések eladása a cél. Ezeket mind vágom. Zenészként nincs több bajom annál, mint hogy nem hallanak, nem látnak, nem érjük el a saját közönségünket. Bármilyen előadóművésszel beszélsz, csak kínlódik a social médiával.
 
-– Tényleg nagyon friss, igen
+Elkezdtem nézni az appokat, amikkel a Nostr-on keresztül lehet közösséggel kapcsolódni. Elég bugosak voltak, instabilak, lassan töltöttek. Fantasztikus irány, csak nem annyira működtek jól.
 
-– egy nem olyan régi dolog, de elő te így hogy tekintettél rá, hogy így régi
+– Még az eleje.
 
-– lenézted, hogy jó, a magic kártya is vicces meg minden, de most köszi, nem veszek. Nem, azért, hogyha ez a cimborám, amikor nekem mond valamit, akkor én alapvetően azt megalapozottnak érzem részéről, tehát nem gondolnám, hogy ez egy nagy lufi, de na nem tudom megmagyarázni. Korábban is, emlékszem, hogy már egy éve is mondta a Bitcoint, de egyszerűen így nem éreztem.
+– Még az elején vagyunk. Elkezdtem összehasonlítani őket, nagyon alaposan. Tetszett az is, hogy mivel nyílt forráskódú, hozzá lehet szólni, és a fejlesztők kíváncsiak arra, mit gondolsz a munkájukról. Nem csak csinálják és nem érdekli őket. Bármilyen zárt kódnál legtöbbször nem is tudsz hozzászólni. Ez is nagyon szimpatikus.
 
-Most azt tudom mondani, hogy talán az volt az, hogy akkor ez nem magic kártya, hogyha már a Trump is bitcoint akar, meg utána olvastam, hogy akkor El Salvador, ja hogy Bhutánnak a nemzeti tartaléka most már 40%-ban Bitcoinban van meg ilyenek. Szóval elkezdtem nyilván olvasni róla, és minél többet olvastam, annál inkább láttam, hogy ez van. Minél többet mész bele — mi az, hogy a Bitcoin, és akkor hol tartom? Ja, hogy akkor vannak ilyen walletek, tárcák.
+Elkezdtem írogatni az öt legfontosabb platformnak, de nem nagyon reagáltak. Akkor egyszer csak a [Nostria](https://nostria.app) fejlesztője válaszolt. Első nap, második nap, harmadik nap — elkezdett minden bug reportomra reagálni, és azóta is tart. Gyakorlatilag minden nap nyomjuk, írtjuk a csótányokat. (nevetés) Egy hónap alatt a Nostria annyit fejlődött, hogy bizton állíthatom: a legjobb lesz. Nem verseny van, hanem egészséges fejlődés — örülök, ha bármelyik másik kliens is egyre jobb lesz. De most a Nostria nagyon kipupálódott, annyira jó érzés használni. Alig várom, hogy az átlagos felhasználók számára is vonzó legyen.
 
-Akkor olvasol a tárcákról, akkor meglátod, hogy a Blink tárcával hány millió emberen segítettek már olyan országokban, ahol nagy az infláció, és nincs már pénz se, rend se lassan. Szóval olvasod a társadalmi hatásait, és akkor nyilván egyre pozitívabb az egész, és nem csak egy ilyen first world dolog, hogy ú ez tök menő és akkor most legyen így is pénzünk — ez ennél sokkal több.
+– Mondjuk azt, hogy átlagos felhasználó.
 
-– Így van. Na igen.
+– A tesóm szokta rám mondani, hogy oké, zenész vagyok, de ilyen kütyümókus. Aki nem ért annyira a kütyükhöz, annak is érdekes legyen és használható legyen a Nostr, és persze a Bitcoin is. Most egy nagyon izgalmas időszak van. A feleségem szerintem egy-két hét és már ő is elkezdi használni, mert nem annyira bonyolult, és nem kell annyira vigyázni a privát kulcsra, mert egyre ügyesebben van megoldva.
 
-– És a Nostr-ral ez ezen keresztül találkoztál, vagy az egy külön szell?
+Várom, amikor egy ismerősöm, aki Wim Hof-os hidegmerüléseket csinál — most zárták ki a Facebookból, semmit nem tud csinálni. Jövő héten felhívom telefonon: figyelj, mi van a Facebookkal? Még mindig nem megy? Van egy ajánlatom. Próbálják ki, teljesen átlagos felhasználóként.
 
-– Nagyon nehéz ezt megmondanom, hogy a Nostr az hogy jött be legelőször. Egyébként úgy, hogy amikor beszéltünk ezzel a haverommal és hazajöttem, akkor ilyenkor mindig rákeresek, és nagyon hamar megtaláltam a [huszonegy.world](https://huszonegy.world) weboldalt. Ezt jó alaposan végigolvastam, és ott volt erről szó, ott volt a [noszter.hu](https://noszter.hu) és a magyar [nostr.hu](https://nostr.hu), azt is végigolvastam, és abból jött a [Köztér](https://kozter.nostr.hu/?r=relay.nostr.hu), a [Jumble](https://jumble.social) magyar fordítása, ami ugye egy Nostr kliens.
+– De az élmény is jobb, nem? Akikkel ott találkozol, kapcsolódsz.
 
-És akkor elkezdtem nézni, hogy fú, hát ez marha jó, hát ez közösségi platform. Pont az a bajom az összes létező közösségi platformmal, amit itt leírtok, hogy fake az algoritmus, adatbányászatból működik, a hirdetések eladása a cél. Ezeket mind vágom. Zenészként nincs több bajom annál, hogy nem hallanak, nem látnak, nem érjük el a saját közönségünket. Tényleg bárkivel ha beszélsz előadóművésszel, csak kínlódik a social médiával.
+– Az van, hogy az Instagram legalább annyit behozott, hogy bejelölheted a közeli ismerőseidet és csak őket nézed. De attól még ott van minden harmadik tekerés után egy reklám. Az az érzés, hogy belépsz a Nostr-ra és nincs reklám — olyan, mint egy digitális rehab. (nevetés) Elmenni és visszajönni, mint egy digitális detoxból, csak ez állandó, konstans. Nincs ott az, hogy belépsz és mint a Super Marióban kerülgetni kell a szörnyeket, miközben keresed, hogy ki hol van, ki milyen eseményre készül, hova mehetnél kapcsolódni — de ezt ki kell szűrni a hirdetéseken keresztül.
 
-Úgyhogy elkezdtem nézni ezeket az appokat, amikkel lehet a Nostr-on keresztül közösséggel kapcsolódni. Viszont elég bugosak voltak, instabilak, lassan töltöttek. Fantasztikus irány, csak nem annyira működtek jól.
+Ahogy Anti is mondta, még az elején van — sok minden nincs még ott, események, naptár, de lesz. Ha egyre inkább ott lesz, az emberek meglátják, hogy ez egy teljesen más felfogás az egész mindenről, ugyanúgy, ahogy a Bitcoin a pénzről. A Nostr az online közösségi kapcsolódásról szól.
 
-– Ühüm. Még az eleje.
+– Gondolom neked is egész más érzés ebbe csatornázni az energiát, amikor látod, hogy van foganatja, és nem kell egy olyan polip ellen küzdeni, ami bármikor megsemmisít egy gombnyomással.
 
-– És így van, még az elején vagyunk. És akkor elkezdtem összehasonlítani őket, de nagyon. Meg tetszett az is, hogy mivel ez nyílt forráskódú, hozzá lehet szólni, és tényleg ezek a fejlesztők kíváncsiak is arra, hogy te mit gondolsz az ő munkájukról. Nem csak az, hogy csinálják és szarnak bele. Bármilyen closed kódnál legtöbbször nem is tudsz hozzászólni, hogy ez miben legyen más. Tehát ez is nagyon szimpatikus.
+– Mondok egy példát. Zenészek vagyunk, a feleségemmel együtt zenélünk. Van egy duónk, Reni és Boka. Mindketten gyerekkorunk óta zenészek vagyunk, de ez a formáció három éve indult, és mindig olyan, mint egy startup: a harmadik évben látszanak meg az első eredmények, és ez most történik. Az első lemez kijön, felkerül Spotify-ra. Az összes barátunk ott van, mindenki ott hallgat minket. Egy év alatt 2000 forintot kerestünk számonként. Hat számunk volt fönt, tehát összesen 12 000 forint.
 
-És akkor elkezdtem írogatni, de tényleg az öt legfontosabb platformnak írtam, de nem nagyon reagáltak.
+A Nostr-ra feltöltöttem egy számunkat úgy, hogy senkit nem ismerek, egyik ismerősöm sincs rajta. Egy hónap alatt 1000 forintot küldtek azért az egyetlen számért úgy, hogy senki nem ismer. Azt se tudom, ki küldte a pénzt a dalért.
 
-– Nem lepődtél meg?
+Ehhez el is mondom röviden: a Nostr-on az egyik legelképesztőbb dolog az, hogy miközben tekered a hírfolyamot, a like és a komment mellett a harmadik és valójában legfontosabb gomb a zap, ami közvetlen értéket értékért küldést jelent — pénzküldési lehetőséget. Ha összekötöd a Bitcoin tárcádat, bármire azonnal egy koppintással tudsz pénzt küldeni, és ugyanígy fogadni, ha valaki számára értékes az, amit megosztasz a világgal.
 
-– Akkor az, hát jó, mondjuk ehhez így hozzá vagyok szokva, de akkor egyszer csak a [Nostria](https://nostria.app) fejlesztője viszont válaszolt. Első nap, második nap, harmadik nap és így elkezdett minden bug reportomra reagálni és nagyon szimps az azóta is tart. Gyakorlatilag minden nap nyomjuk a a tehát tapossuk a a izé a csótányokat, írtjuk [nevetés] és egy hónap alatt ez a Nostria ez annyit fejlődött, hogy én most ezt tényleg bizton állíthatom, és csak azért, hogy jobbuljon az egész Nostr, hogy a legjobb lesz. Tehát nem nem verseny van, csak egy egy ilyen egészséges fejlődés örömmel látom, hogyha bármelyiktől másik kliens is egyre jobb lesz, de most a Nostria az így nagyon-nagyon kipupálódott, úgyhogy nagyon annyira jó érzés használni. És tényleg alig várom, hogy a a ahogy azt mondani szoktuk, a normi, tehát a tényleg a a hondjuk ezt, hogy normi? Normi
+Vannak már Bitcoin alapú közösségi gyűjtések, nemzetközi és magyar felületek is. A Nostr-on az értékcsere leegyszerűsödött és érzékelhető. Fantasztikus érzés, amikor megosztasz valamit, látod, hogy gyűlnek a zapek, és pénzt kapsz azért, amit csinálsz.
 
-– a normi embere? Nem, [nevetés]
+– Egyre több tartalmat lehet így megjutalmazni, és tényleg fontosakat. Motiválod is vele a készítőt. A zapek akár egy szatról is indulnak, de komoly tartalomra gyűlnek az 1000 szatok, 10 000 szatok. Ráadásul magyarul nem is annyira absztrakt a szat: 1000 szat az mondjuk 250 forint. Mindenkinek javasoljuk. Már nem is az első műsor, amit erről készítettünk, mennyire jó a Nostr. Ha jól hallottam, te ott nem csak felhasználó vagy és bug reportokat adsz, hanem fejleszted is?
 
-– hát nem egyébként
+– Úgy fejlesztem, hogy tesztelek. Én vagyok a power user, mindent rommá tesztelek az appon és a webes felületen keresztül. Odáig jutottam, hogy a böngészőbe feltettem egy bővítményt, amivel CSS-sel variálom a dizájnt. A kódokat a ChatGPT-től kérem el. Nem a kódhoz szólok hozzá, hanem ahhoz, hogy hogyan nézzen ki, hogyan működjön, és így formázzuk együtt a Nostriát.
 
-– nem tudom, de az már pejoratív, nem?
+– A fő fejlesztő egy norvég.
 
-– Én azt szoktam mondani, ugye van a kockafejű, az egy kicsit pejoratív. A tesóm szokta rám mindig mondani, hogy oké, hogy zenész vagyok, de ilyen kütyümókus vagyok, szeretem a techet. Tehát aki nem ért annyira a kütyükhöz, azoknak is érdekes legyen és használható legyen a Nostr, és persze a Bitcoin is.
+– Sondre Bjellås. Nem hétköznapi csávó: Norvégiának az első szabad települését, szabad városát alapította. Ez a [Liberstad](https://liberstad.com), ami egy libertáriánus kezdeményezés. Pontosabban filozófiáját tekintve ancap, vagyis anarchokapitalista.
 
-Úgyhogy most egy nagyon izgalmas időszak. A feleségem szerintem egy-két hét, és már ő is elkezdi használni, mert nem annyira bonyolult, meg nem kell annyira vigyázni a privát kulcsra, mert egyre ügyesebben van megoldva.
+Erről én nagyon rosszul tudtam, mi az anarchista meg a kapitalista. Mióta a Sondrét ismerem, utánaolvastam. Nagyon sokáig azt hittem, hogy aki anarchista, az punk és minden szabály ellen van. Rosszul tudtam: aki anarchista, az kizárólag az ellen van, hogy bárki megmondja, mit csináljon. Uralkodás nélküli — angolul egyszerűbb: „no rulers, only rules". A szabályok kellenek, csak mindenki egyenlő és senki ne mondja meg a másiknak, mit csináljon. Az állam funkcióját nullára képzelik el redukálni, vagy csak a legfontosabbakra — de ez viszont már a libertáriánus lenne.
 
-Meg várom, amikor például Wim Hof-os hidegmerüléseket csinál egy ismerősöm, és most zárták ki a Facebookból, olyan szinten, hogy semmit nem tud csinálni. Jövő héten fel fogom hívni telefonon: Szevasz, figyelj. Mi van a Facebookkal? Még mindig nem megy. Akkor figyelj, van egy ajánlatom. Igen,
+A Sondre is ilyen, és lenyűgöző, milyen értékrendek mentén alakítják ki a Liberstadot Norvégiában. Van egy második kezdeményezés Montenegróban, a [Montelibero](https://montelibero.org), ami ugyanígy egy szabad és önálló település, ahol bitcoint használnak, és amennyire tehetik, jogilag is próbálnak önállóan működni.
 
-– hogy így tényleg próbálják ki. Teljesen átlagos felhasználók, akkor hívjuk így.
+– Biztos nehéz egy ilyet megszervezni.
 
-– De az élmény is jobb, nem?
+– Nehéz. Erről ő sokkal jobban tudna mesélni. Akit érdekel, olvasson utána: [Liberstad](https://liberstad.com) és [Montelibero](https://montelibero.org).
 
-– Mármint akikkel ott értekezel, vagy találkozol, vagy érintkezel, vagy kapcsolód. Az van, az van egyébként, hogy az egy dolog, hogy az Instagram most már legalább az Instagram annyit behozott, hogyha belépsz, akkor fölül középen van egy ilyen, hogy nem az, hogy for you meg, hogy izé a te hírfolyamod, hanem tényleg a kedvence tényleg legalább annyi van, hogy bejelölheted, hogy kik a tényleg közeli ismerőseid és csak őket nézed, de attól még mindig ott van minden harmadik tekerés után egy reklám. És ez az érzés, hogy belépsz a Nostr-ra és nincs reklám, tényleg olyan, mint egy ilyen, mint egy ilyen rehab, mint egy ilyen [nevetés]
+– Több ilyen van már a világban, sok felé látni ilyeneket.
 
-– digitális rehabil
+– Erről még röviden: én is sokat utaztam, Tenerifén is nagyon sokat voltam, három egész telet töltöttem. Nagyon vonzottak azok a helyek és közösségek, amik az én értékrendem szerint működnek — szabad, korrekt, egyenlőség alapú közösségek.
 
-– elmenni és visszajönni, mint egy digitális detoxból, csak ez állandó, konstans, és tényleg nagyon különleges érzés. Nincs ott az, hogy belépsz és olyan, mint a Super Marióban, hogy kerülgetni kell a szörnyeket, miközben keresed, hogy ki hol van, ki milyen eseményre készül, hova mehetnék el kapcsolódni élő emberekkel — de ezt ki kell szűrni a hirdetéseken keresztül.
+Legtöbbször egy hippi közeg volt, ami ennek tűnhetett, de mindig csak átmenetileg. A Sondréval is beszélgettünk: a legnagyobb különbség egy hippi közösség és egy ancap közösség között a fundamentum. A tudatos, közösségileg egyenlő elven működő közösségekkel az a baj, hogy ugyanazt a pénzt használják, mint a mainstream társadalom, és sem a jogot, sem az egészségügyet, sem a rendfenntartást nem gondolnák maguk közt megszervezni. Ezek nehéz dolgok, de egy ancap közösségben még ezt is végiggondolják és megpróbálják.
 
-És ahogy Anti te is mondtad, hogy még az elején van — nyilván nagyon sok minden nincs még ott, események, naptár, de lesz. És hogyha egyre inkább ott lesz, az emberek meglátják, hogy ez egy teljesen más felfogás az egész mindenről, ugyanúgy, ahogy a Bitcoin a pénzről. A Nostr az pedig az online közösségi kapcsolódásról szól.
+A hippi közösségek limitáltan tudnak működni, nem terjed ki arra, hogy a pénzügyeidet szuverén módon kezeld — továbbra is eurót költesz. Akár a Tamerát venném példának Portugáliában, még az sem tudja ezt.
 
-– Gondolom neked is egész más érzés ilyenbe csatornázni az energiát, amikor látod, hogy van fogonatja és nem kell egy olyan polip ellen küzdeni, ami aki bármikor megsemmisít egy gombnyomással.
+Az utolsó, ami megpróbálta — Olaszországban is van néhány hely — az Indiában Auroville. Világszinten a legmesszebb ment ebben. Az amerikai hippi mozgalom után indult a 70-es években, mostanra elfáradt. Megpróbálták a saját pénzt is létrehozni, csak nem volt még bitcoinjuk. A főgond a magántulajdon volt: azt mondták, legyen minden közös. Egy nagy közös terület, amit mindenki együtt használ. Ez egy valakié volt, aki nagy szívvel és jó szándékkal elkezdte, de belefáradt. 10-20 év elteltével akik ott éltek, a sajátjuknak érezték a területet. Gondozom a kertet 15 éve — ez igazából az enyém. Ezen elkezdtek összevitázni, és Auroville nem működik.
 
-– Mondok egy példát. Zenészek vagyunk, a feleségemmel együtt zenélünk. Egy egy duónk van közösen, Réni és Boka, és mindketten már gyerekkorunk óta zenészek vagyunk, de ebben a formációban ez a formáció, ez így új, e három éve indult, és mindig ez olyan, mint egy startup cég, hogy a harmadik évben így látszanak meg az első eredmények, és ez nekünk most történik. Tehát az első eredményeink azok most történnek, és ezzel együtt ugye jön ki az első lemez, és akkor felkerül Spotify-ra. És az még nem is az első lemez, csak az első két single Spotify-on, úgy, hogy az összes barátunk ott van, mindenki ott hallgat minket. Egy év alatt 2000 Ft-ot kerestünk.
+Na és eljutottunk oda, hogy a Liberstad és a Montelibero az alapokból indul: magántulajdon! Mindenki megveszi és birtokolja a saját földjét, a saját házát. Ugyanúgy, ahogy most is élünk: mindenki szomszéd, nem kommunálunk, mindenkinek saját konyhája van — az még családon belül is sokszor veszekedéshez vezet. (nevetés) Nem 80-an közös konyhán, hanem saját tűzhely, saját konyha — csak mellé tiszta pénzt. Amennyire lehet, ezen dolgoznak: saját rendfenntartás, a jogrendszer lesz az utolsó, ha valaha lesz, de akár az egészségügyi szolgáltatás is lehet privát. Az is sokszor igazából akkor működik, hogyha privát.
 
-– Úristen,
+Itt tartanak ezek a kezdeményezések. Érdekes nézni, ilyen élő kis kísérletek. Próspera, és én valamilyen szinten El Salvadort is élő kísérletnek gondolom, csak nagyobb léptékűnek. Azt figyelem, hogy Nayib Bukelével mi lesz. Sok jót csinál, de azért elég rendesen ki van osztva, hogy ki mit csinál.
 
-– számunként most volt fönt összesen hat számunk, tehát 12000 Ft-ot. A Nostr-ra
+– Oké, jó fej, de autoriter. Nekem mindig feltűnik, hogy van egy festmény a háta mögött — egy alak, aki egyházi ruhában van, talán kereszt is van a nyakában, de maffiavezérnek tűnik. Nem tudom, ki ez, egy régi csávó, akit mindig odarak maga mögé. Érdemes lenne rákeresni, úgyhogy El Salvadorral még várjuk ki.
 
-– azt
+– De a legtöbb dolog most nagyon pozitív, amit csinál, és az egyetlen államfő, aki van a Nostr-on, bár nem posztol. Azért nehéz ilyen mértékben szervezni bármit. Ha már a pénzrendszert Bitcoin alapra kívánod helyezni, a világban annyi ellenséged lesz. Ha állam, város vagy falu szintjén gondolkozol, kiüti a helyi erőknél a biztosítékot, és sorolják, hogy miben illegális. Nehéz lépcsők.
 
-– feltöltöttem úgy egy számunkat, hogy senkit nem ismerek a Nostr-on, egyik ismerősöm sincs rajta. És egy hónap alatt 1000 Ft-ot küldtek már azért az egyetlen számért úgy, hogy senki nem ismer. Azt se tudom, hogy ki küldte azt a pénzt a dalért, amit kaptunk.
+– Erre van egy ilyen economies of scale — nem a gazdaságosság mértéke, hanem az, hogy mekkora méret tud működni egy rendszerben. Erről is a Sondréval beszélgettünk: kicsinek kell lennie annak a magnak, ami fenntarthatóan és egyenlően tud működni. Ezért általában kisebb országok tudnak viszonylag korrekt módon működni. El Salvador is kicsi, Bhután is nagyon kicsi — ez jót tesz.
 
-Ehhez el is mondom röviden, hogy ugye nem mindenki tudhatja a nézők közül, hogy a Nostr-on az egyik legelképesztőbb dolog az, hogy miközben tekered a hírfolyamot, a like és a komment mellett a harmadik és valójában legfontosabb gomb az a zap, ami közvetlen értéket értékért küldést jelent — tehát pénzküldési lehetőséget. Hogyha összekötöd vele a Bitcoin tárcádat, bármire azonnal egy koppintással tudsz pénzt küldeni, és ugyanígy fogadni, hogyha valaki számára értékes az, amit te osztasz meg a világgal.
+– Mennyire van kapcsolatod olyan emberekkel Magyarországon, akik prepperkednek — felkészülnek eseményekre, szerveződnek, függetlenednek —, de nem jutottak még el odáig, hogy érdemes lenne a Bitcoinnal foglalkozniuk? Mi lehet az út, ami megérteti velük, hogy nem hülyeség a pénzzel foglalkozni, csak nem mindegy, milyen pénz?
 
-És ez egészen odáig megy, hogy most már vannak Bitcoin alapú közösségi gyűjtések, vannak nemzetközi meg magyar felületek, amik egyébként tök jók összességében, csak ahogy elmondhatjuk mindenre, hogy a fiat rendszerben miért redundáns, és miért nagyon tiszta és veszteségmentes a Bitcoin rendszerben. A Nostr-on az értékcsere ennyire leegyszerűsödött és érzékelhető. És ez egy fantasztikus érzés, amikor megosztasz valamit, látod, hogy gyűlnek a zapek és pénzt kapsz azért, amit csinálsz.
+– Nagyon érdekes, hogy a legtöbb barátom ilyen, de ezen az egy programozó barátomon kívül — általában a techhez köze van annak, aki a Bitcoint tényleg elkezdi használni — nagyon kevesekkel volt erről szó. Figyelem, hogyan nyilvánulok meg természetes módon nekik.
 
-– Igen. Egyre több ilyen tartalmat lehet így megjutalmazni, és tényleg fontosakat. Meg az a jó, hogy motiválod is vele a készítőt, mert nyilván ezek a zapek még ilyen picik akár egy szatról is indulnak, de nyilván azért tehát amikor valami komoly dolog van kiposztolásra, vagyis komoly dolog kerül kiposztolásra, akkor ott azért gyűlnek az 1000 szatok, meg 10000 szatok, meg hát ki mi ki mennyit szeretne. Úgyhogy nagyon érdekes ez, amit te mondasz, hogy így a a zenében vagy a zenészeket ezt hogyan tudja megtalálni. Igen, igen. És ráadásul magyarul még nem is annyira absztrakt a szat, merthogy mondjuk mit tudom én, 1000 szat, hát mondjuk eddig 300 Ft volt, most már azért ment lejjebb mentünk, úgyhogy 250 Ft, de hogy így nem is annyira nem is annyira ukó, hogy most akkor elosztott három,
-
-– hogy ilyen sok számy, de legalább jó, hogy van egy ilyen rendszer, úgyhogy mindenkinek javasoljuk meg. Már nem is az első műsor, amit erről készítettünk, hogy a Nostr mennyire jó. És ha jól hallottam, te ott nem csak felhasználsz és bug reportokat adsz annak a srácnak, hanem te is elkezdted fejleszteni, ugye?
-
-– Hát én így fejlesztem ezáltal, tehát hogy nem ennyi mindenek.
-
-– Oké. Oké. Aha. Azt hittem, hogy annyira kocka vagy, hogy programodról is ahhoz nagyon annak kell.
-
-– Nem, nem. Max odáig jutottam, hogy például, de hát ehhez segít a chat GPT, hogy az én oldalamon, mert tehát én vagy én vagyok én vagyok a a power user, és akkor én mindent így rommá tesztelek a a az app-on keresztül, az appban a webes felületen keresztül. És akkor max odáig mentem, hogy lehet ilyet csinálni a böngészőbe, hogy felteszel egy extensiont, egy bővítményt, amivel te a te oldaladról tudsz CSS-sel bizonyos dolgokat így variálni az oldalon,
-
-– a dizájnon,
-
-– de ezt én én én nem tudom ezeket a kódokat kitalálni, tehát én a chat GPT-től elkérem és akkor berakom. Tehát mindent a chat, tehát igazából a chat GPT vel közösen így, így valamennyire hozzászólok úgymond, de na még egyszer, tehát nem a kódhoz, hanem mindent, hogyan nézzen ki, hogyan működjön, és akkor így így mi ez? Így parícsáljuk, vagy hogy így így formázgatjuk, hogy hogyan milyen legyen a Nostria.
-
-– És ennek a fő fejlesztője egy norvég
-
-– Egy norvég csávó. Ő a Sondre Bjellås. A Sondre nem hétköznapi csávó egyébként, mert Norvégiának az első szabad települését, szabad városát alapította. Ez inkább egy falu egyelőre. Ez a [Liberstad](https://liberstad.com), ami egy libertáriánus kezdeményezés.
-
-Igazából, hogyha egészen pontos vagyok — értékrendje vagy filozófiája szerint ancap, vagyis anarchokapitalista, amiről én nagyon rosszul tudtam, hogy mi az anarchista, meg mi a kapitalista. Mióta a Sondrét ismerem, azóta utána olvastam. Én nagyon sokáig azt hittem, hogy aki anarchista, az igazából punk, és minden szabály ellen van. Ezt nagyon rosszul tudtam, mert aki anarchista, az csakis kizárólag az ellen van, hogy bárki megmondja, mit csináljon. Tehát az uralkodás nélküli — angolul ez egyszerűbb,
-
-– hogy „no rulers, only rules". Tehát a szabályok kellenek, csak mindenki egyenlő és senki ne mondja meg a másiknak, hogy mit csináljon. Az állam funkcióját nullára képzelik el redukálni, vagy csak a legfontosabbakra — de ez viszont már a libertáriánus lenne. Tehát semmiképp sem punkok meg ilyen „no rules" csávók ezek az anarchisták.
-
-A Sondre is ilyen, és tényleg lenyűgöző, hogy milyen értékrendek mentén alakítják ki a Liberstadot Norvégiában. Ennek most van egy második kezdeményezése Montenegróban, az a [Montelibero](https://montelibero.org), ami ugyanígy egy szabad és önálló település, ahol bitcoint használnak, és amennyire tehetik, jogilag is próbálnak önállóan működni.
-
-– Biztos nehéz lehet egy ilyet megszervezni.
-
-– Nehéz, nehéz. Erről ő ő sokkal jobban tudna mesélni, úgyhogy én talán ennyit mondanék róla. Akit érdekel az, akkor olvasson és keressen utána. [Liberstad](https://liberstad.com) és [Montelibero](https://montelibero.org).
-
-– Valami linkeket beteszünk a leírásba. Linkeket.
-
-– Több ilyen van már a világban, nem? Vagyis hát így sok felé látni ilyeneket.
-
-– Erről még röviden mondok egyet, mert én is sokat utaztam, Tenerifén is nagyon sokat voltam. Három egész telet töltöttem. Nagyon vonzottak ezek a szép új világok, olyan helyek és közösségek, amik az én értékrendem szerint működnek — nagyon szabad, korrekt, egyenlőség alapú közösségek.
-
-Legtöbbször egy ilyen hippi közeg volt, ami ennek tűnhetett, de mindig csak átmenetileg. A Sondréval is beszélgettünk, és a legnagyobb különbség egy hippi közösség és egy ancap közösség között az a fundamentum. A tudatos, közösségileg egyenlő elven működő organikus közösségekkel az a baj, hogy ugyanazt a pénzt használják, amit a mainstream társadalom, és sem a jogot, sem az egészségügyet, sem a rendfenntartást nem gondolnák maguk közt megszervezni. Ezek nehéz dolgok, de egy ancap közösségben még ezt is végiggondolják és megpróbálják.
-
-Tehát a hippi közösségek limitáltan tudnak működni, nem terjed ki arra, hogy a pénzügyeidet szuverén módon kezelnéd — továbbra is eurót költesz. Akár a Tamerát venném példának Portugáliában, vagy a Muji helyét, még az sem tudja ezt.
-
-Az utolsó, ami még megpróbálta — Olaszországban is van néhány hely — az Indiában Auroville. Az Auroville világszinten a legmesszebb ment ebben. Az amerikai hippi mozgalom után indult a 70-es években, és mostanra elfáradt. Ők már megpróbálták a saját pénzt is létrehozni, csak akkor nekik nem volt még bitcoinjuk.
-
-De ami a főgond volt, az a magántulajdon: azt mondták, hogy legyen minden közös. Egy nagy közös terület, amit majd mindenki együtt használ. Ez egy valakié volt, aki nagy szívvel és jó szándékkal elkezdte, de belefáradt, és 10-20 év elteltével, akik ott éltek, elkezdték a sajátjuknak érezni a területet. Aztán azt mondták: hát ez legyen a miénk. A ház, amiben én lakom 15-20 éve — milyen fontos a magántulajdon.
-
-– Így van. Gondozom a kertet 15 éve, hát ez igazából az enyém. Ezen elkezdtek összevitázni, és Auroville nem működik.
-
-Na és akkor eljutottunk oda, hogy a Liberstad és a Montelibero az alapokból indul: figyelj, magántulajdon! Mindenki megveszi és birtokolja a saját földjét, a saját házát. Igazából ugyanúgy, ahogy most is élünk. Mindenki szomszéd, nem kommunálunk, nem közös a konyha, mindenkinek saját konyhája van — az még családon belül is sokszor veszekedéshez vezet. [nevetés]
-
-– Nem 80-an közös konyhán, hanem mindenki saját tűzhely, saját konyha — csak mellé saját pénzt, pontosabban tiszta pénzt. És amennyire lehet, ezen dolgoznak: saját rendfenntartás — hát a jogrendszer lesz az utolsó, ha valaha lesz —, de akár az egészségügyi szolgáltatás is lehet privát. Az is sokszor igazából akkor működik igazán, hogyha privát.
-
-Szóval itt tartanak most ezek a kezdeményezések. Tényleg érdekes ezeket nézni, ilyen élő kis kísérletek. Próspera, meg én valamilyen szinten El Salvadort is egy ilyen élő kísérletnek gondolom, csak nagyobb léptékűnek.
-
-Meg azt figyelem, hogy Nayib Bukele-vel mi lesz. Oké, sok jót csinál, de azért hogyha láttátok — sokszor úgy beszél, és látszik a videókon, hogy azért elég rendesen ki van osztva, hogy ki mit csinál.
-
-– Igen, minden fejő. Ez autoriter. Oké, hogy jó fej, de autoriter. És van, nekem mindig ezt tűnik fel, hogy van egy festmény, ami nagyon sokszor ott van a háta mögött, amin egy ilyen hát még mindig egy ilyen maffia, inkább maffia vezér, vagy akár lehetne egyházi vezető záróv bezárva. Nem tudom, hogy feltűnt-e nektek, hogy nagyon sokszor egy ilyen egyházi ruhába tűnik, talán még kereszt is van a nyakában, de egy kicsit így maffia vezérnek tűnik. Van egy nem tudom ki ez, egy fickó, egy egy régi csávó, akit ő mindig odarak maga mögé festményre. Na most
-
-– mit érdemes lenne megkeresni kés
-
-– rákeresni ugye, hogy ki ő meg mi ő, úgyhogy azért elszáladóort még várjuk ki. De
-
-– de tényleg a legtöbb dolog most így nagyon pozitív, amit csinál, és az egyetlen államfő, aki van a Nostr-on, bár nem posztol. Igen, azért nehéz ilyen ilyen mértékben szervezni bármit, nem? Tehát alapban, hogyha már a a pénzrendszert Bitcoin alapra kívánod helyezni, már már a világban annyi ellenséged lesz, nem? Tehát hogyha akár állam vagy város vagy falu szintjén gondolkozol, már szerintem akkor kiüti a helyi erőknél a biztosítékot, és akkor jönnek, hogy hát akkor ez mi miben illegális, és akkor sorolják. Szóval ezek ezek nehéz lépcsők.
-
-– Igen. És az van egyébként, hogy erre van egy ilyen economies of scale. Ez a nem is a gazdaságosság mértéke, hanem az, hogy menny mekkora az a méret, ami működni tud egy rendszer. És erről is a Sondréval beszélgettünk, hogy hogy kicsi kell legyen az a az a az a az a nukleus, ami fenntarthatóan és és és mondjuk egyenlően tud működni. Tehát ezért általában kisebb országok tudnak viszonylag korrekt módon működni, ha egyáltalán Elsalvador is kicsi, Bhután is nagyon kicsi, tehát hogy az jó tesz ki jót teszi.
-
-– Igen, igen, igen. Hogyha nem túl nagy.
-
-– Mennyire van kapcsolatod olyan emberkékkel itt Magyarországon belül, akik így prepperkednek úgymond, de nem jutottak még el odáig, hogy hogy érdemes lenne a bitcoinnal foglalkozniuk. és hogy van-e olyan tapasztalatod, hogy hogy mi mi lehet vajon az út, ami megérteti velük, hogy nem nem hülyeség a pénzzel foglalkozni alapvetően, csak nem mindegy, hogy hogy milyen pénz. Prepperkedésnek hívod azt, amikor prepper, tehát hogy kerülgeti, kész vagy
-
-– hát felkészül eseményekre,
-
-– önellátás csináljunk itt izé kommunákat, szerveződjünk és és függetlenedjünk a úgymond a a mindenkori kormánynak az önkényes kis szeszélyeitől, és hogy minél inkább egy új világot megteremtsünk, csak ugye általában ez ki kicsiben törekszenek, ahogy mondod is, hogy ez kis létszámnál működik jól az is, hogyha egy ilyen társadalmi változás beindul, de ugye ez az alulról jövő szervezkedésben meg törvényszerűen kis közösségekkel működik. És így az a meglátásom meg többünknek, ahogy erről beszéltünk az utóbbi években, hogy hogy tök jó lenne oda bevinni valahogy a bitcoint, de valahogy nem tudjuk azt, hogy hogy ezt hogy lehet úgy megvalósítani, hogy ez ne egy ilyen erőszakos marketing tevékenységnek tűnjön, hanem valahogy organikusan rátaláljanak akár tőlünk függetlenül, csak vagy jaj, akár úgy, hogy kint vagyunk a neten, de elkezdenek minket meghallgatni esetleg,
-
-– hogy ugy hogy így beszivárogtatni az életterükbe az, hogy nem egymástól függetlenül akarunk valami változást a világban elérni, hanem össze kéne boronálni a a dolgainkat, meg összefűzni a szálakat.
-
-– Igen, vágom. Nagyon érdekes, hogy a legtöbb barátom ilyen, de ezen az egy barátomon kívül, aki programozó — általában a techhez köze van annak, aki a bitcoint tényleg elkezdi használni. Nagyon kevesekkel volt erről még szó. Figyelem, hogy én hogyan és mikor nyilvánulok meg természetes módon nekik erről.
-
-Például a nyugdíjtakarékosság volt az első, ami természetesen feljött, mert körülöttem nagyon sok az előadóművész, vizuális alkotó, illusztrátor, grafikus — egy csomó egykor katás, aki azóta csak próbálkozik meg kínlódik, és nem nagyon tesznek félre nyugdíjra.
-
-Na és ez volt az első, ami felmerült múlt héten. Hát konkrétan van egy [Bitcoin to $1 Million](https://b1m.io) nevű app. Ez egy pension plan forecast — elmondja neked, hogy mennyi bitcoint kell félretenned ahhoz, hogy x év múlva ennyi és ennyi nyugdíjad legyen.
+Például a nyugdíjtakarékosság volt az első, ami természetesen feljött. Körülöttem nagyon sok az előadóművész, vizuális alkotó, illusztrátor, grafikus — egy csomó egykor katás, aki azóta csak kínlódik, és nem nagyon tesz félre nyugdíjra. Ez volt az első, ami felmerült múlt héten. Van egy [Bitcoin to $1 Million](https://b1m.io) nevű app, egy pension plan forecast — elmondja, mennyi bitcoint kell félretenned ahhoz, hogy x év múlva ennyi nyugdíjad legyen.
 
 – Ez hasznos.
 
-– Nekem eddig egyébként nem is ez az egy, hanem többször is ennek a testvérem kapcsán és vele is így merült föl. Azért inkább így merült föl, mert még a használattal lenne a másik, de az még nem nagyon van az átlagember számára. Igen.
+– Nekem a testvérem kapcsán is így merült föl. Ott kezdi el érdekelni az embereket, hogy hogyan lehet ez hasznos. A következő lesz a közösségi média, de az nem annyira húsba vágó, mint a nyugdíj. Ha valakivel elkezdek arról beszélgetni, hogy zavar-e az infláció, zavar-e, hogy romlik a pénz értéke — elképesztő, hogy annyira benne van már mindenki nyakig, hogy egy csomó embernek nincs energiája ezzel foglalkozni és újragondolni. A nyugdíj az még betalál, mert az közeleg, és azzal senki nem csinált semmit az ismeretségi körömben.
 
-– Úgyhogy, úgyhogy őket nyilván ott kezdi el érdekelni, hogy hogyan lehet ez hasznos nekem. És a következő lesz a közösségi média, de az nem annyira húsba vágó, mintogy most a nyugdíj meg, hogy költem a pénzemet a nem tudom mire. Nyilván, hogyha valakivel elkezdek arról beszélgetni, hogy zavar-e az infláció, vagy zavar-e, hogy romlik a pénz értéke, az az elképesztő, hogy annyira benne van már mindenki nyakig ebbe az egészbe, hogy egy csomó embernek, komolyan mondom, hogy nincs rá energiája, hogy ezzel foglalkozzon, és ezt újra gondolja, vagy új alapokra helyezze az életében. És valahogy a nyugdíj az még így betalál, mert az már annyi, mert a mert mert az mert
+– Ezeken a vonalakon találok beszélgetésalapot a Bitcoinra. Aki prepperkedik, aki készül arra, hogy legyen házkörüli veteményese, eltegyen télire ennivalót, annak már megfordult a fejében, hogy készülni lehet előre nem látott eseményekre. Ott a pénzről való gondolkodás is felelősebb kategóriába tartozik. Csak tényleg nehéz eltalálni, mi mozgatja meg az embereket, mert ez a krónikus fáradtság, ami most körülveszi a civilizációt — mindenki bele van fáradva mindenbe.
 
-– az jön,
+– Közben azon gondolkodom, és vissza is kérdeznék: sokat mondjuk, hogy a Bitcoinban nincs infláció. De bevezetnék egy fontos kérdést, amit a HUSZONEGY közösségben is felvetettek: mi lenne, ha tényleg átállnánk mindenki Bitcoinra? Ez az egész lufi, ez a buborék kipukkanna. A bankok nyomtatnak pénzt, hoznak létre hitelt, és ettől az emberek nehezen válnának meg.
 
-– az az közeleg. És azzal még annyira se csinált semmit, legalábbis az én ismeretségi körömben. És akkor az úgy betalál. De hogy az, hogy most így szeretnéd másképp költeni a pénzt, az még annyira nem most. Hát nem tudom, basszus, hát örülök, ha kapok fizeté pénzt euróba, forintba, mindegy, azt megyek, azt elköltöm, úgy is elfogy. Igen.
+Az egész beszélgetést azzal kezdtem, hogy nekem most muszáj lesz hitelt felvennem az ingatlanokhoz. Jó azt mondani, hogy a Bitcoin tiszta meg jó, de mi van, ha nincs még házam, de szeretnék? Hogyan lesz házam, ha nem veszek föl hitelt? Ha egy közös ígéret alapján valaki egyszer ad pénzt — persze kamu, de az egész ebből növekszik. Ezt hogy lehet elengedni?
 
-– Ezeken a vonalakon találok beszélgetésalapot a Bitcoinra. Aki prepperkedik, aki készül arra, hogy legyen házkörüli veteményes kertje, vagy eltegyen télire ennivalót, annak már megfordult a fejében, hogy készülni lehet előre nem látott eseményekre. Ott a pénzről való gondolkodás is felelősebb almába tartozik.
+– Feltételeznénk, hogy holnap Bitcoin alapúvá válna az egész világgazdaság, és minden beárazódna. Egy elég durva nap lenne, mert mindennek át kellene árazódnia. Hitelek valószínűleg akkor is lennének, hiszen valaki hajlandó lenne lemondani a tőkéjéről jövőbeli hozamért. Inkább azt mondom: nem lenne várható, hogy egy központi bank határozza meg az ingatlanárat olcsó hitel kihelyezésével, amire mindenki szalad és nyomja föl az árat. Sokkal inkább pótlási értékekre redukálódnának az ingatlanárak.
 
-Csak tényleg nehéz eltalálni, mi mozgatja meg az embereket, mert ez a krónikus fáradtság, ami most körülveszi a civilizációt — tényleg mindenki bele van fáradva mindenbe.
+Amikor kalákában egy faluban egy család megépít egy házat mondjuk három hónap alatt, mert körülbelül annyi idő, ha odamegy öt-hat ember — ezek az árak tükröznék, hogy munkában mennyi egy ilyet megépíteni. Te hamarabb meg tudnál venni egy házat, mert nem lenne benne az a pénzügyi prémium, ami most megvan — amikor befektetési céllal vásárolják az ingatlanokat. Ha a kis telkeden könnyűszerkezetes házat elkezdesz felhúzni akár egy YouTube videó alapján, körülbelül a tizedéért fel tudod építeni, mint amennyiért meg kellett volna venned.
 
-Én közben még azon gondolkodom, és vissza is kérdeznék: sokat mondjuk azt, hogy a Bitcoinban nincs infláció. De bevezetnék egy fontos kérdést, amit a HUSZONEGY közösségben is felvetettek: mi lenne, ha tényleg átállnánk mindenki Bitcoinra? Ez az egész lufi, ez a buborék kipukkanna. Az, hogy most van infláció és minden tágul és növekszik — a bankok nyomtatnak pénzt, hoznak létre hitelt, és ettől az emberek nehezen válnának meg.
+Ha ezek a lufik sorra pukkannának ki és beárazódna minden, szerintem ugyanúgy lenne lehetőséged házat venni. Akár más formában lenne szerződés — mondjuk aláírnál egy hároméves munkaszerződést, és ez lenne a jelzáloghitel formája. A piac erre találna megoldást. Olyan, hogy a piac nem talál megoldást, nincs. Inkább az állam nem talál megoldást piaci eseményre és próbálja leszabályozni. A veszélye nem áll fenn, hogy holnap ez lesz — bár nem tudom, várnám-e, mert óriási káosz lenne.
 
-Én az egész beszélgetést azzal kezdtem, hogy nekem most muszáj lesz hitelt fölvennem az ingatlanokhoz. Jó azt mondani, hogy a Bitcoin tiszta meg jó, de mi van, hogyha nincs még házam, de szeretnék? Hogyan lesz házam, ha nem veszek föl hitelt? Ha egy közös ígéret alapján valaki egyszer ad pénzt, ami persze kamu, de most az egész ebből növekszik — még ha össze is dől egy nap. Ezt hogy lehet elengedni?
+Szerintem nagyon nagy sebességgel halad a világ afelé, hogy Bitcoin alapú legyen minden. Nem látszik a felszínen, de a bankszektorban, a fedezett piacon, a kötvénypiacon megfigyelhető változás ezt mutatja. Nem lenne ekkora háború a Bitcoinért pszichológiai síkon sem, ha nem lenne fontos eszköz. Hogyan lesz a jövőben — szerintem ugyanúgy, csak mások lesznek a számok, mások a hitelek.
 
-– Hát ezt a ezt a fogyasztói életet, vagyis ezt a meg házam, de csak hitelből lesz egyszer csak egy napon házam egyelőre.
+– Ezzel nem szakmait mondok, de mi van, ha a legtöbb politikus meg gazdasági szereplő igazából nem érti, hogy a Bitcoin gyakorlatilag végtelen mértékben felosztható? Ha nagyon akarnak, jöjjenek át Bitcoinra, és játsszanak tovább abban.
 
-– Ühüm. Hát nézd, mivel tehát ugye ezt feltételeznénk, hogy mi lenne, hogyha Bitcoin alapúvá válna holnap az egész világ gazdaság, és akkor minden szépen beárazódna. Hát az egy elég durva nap lenne, mert egyszerűen mindennek át kellene árazódnia, tehát hogy az emberek nem tudnák ezt követni. Tehát így is nagyon gyorsan történik.
+– Politikusokat azért fizetik, hogy ezt a rendszert éltessék és fenntartsák. Óriási ellenérdek van a központi bankok és a bankok részéről. Nagyon sokáig nem fogják odaadni. Ülnek a piramis csúcsán, élvezik a gyümölcseit ennek a rendszernek, amit évszázadok és évezredek alatt létrehoztak. Mutogatnak egymásra. Most ő a rossz, most ő nyer — ugyanaz, ez egy birodalom. Nekik kell, hogy működtessék. Az összes államfő, az összes ellenzéki — mind ugyanennek a show-biznisznek, ennek a nagy színjátéknak a részei.
 
-Tehát szerintem hitelek valószínűleg akkor is lennének, ha Bitcoin van, hiszen valaki hajlandó lenne lemondani a tőkéjéről egy jövőbeli hozamért. Tehát valószínűleg ilyen instrumentumok lennének. Inkább én azt mondom, hogy az nem lenne várható, hogy egy központi bank határozza meg az ingatlanárat olyan módon, hogy olcsó hitelt helyez a piacra, és akkor mindenki szalad érte, és mindenki nyomja föl az ingatlanárat. Tehát szerintem sokkal inkább ilyen pótlási értékekre redukálódnának az ingatlanárak.
+Szerintem azért is jók ezek a kis városállamok, pilot projektek, amik Bitcoin mentén mennek, mert egy csomó érdekes elméleti kérdést feszegetnek és meg is válaszolnak. Az ember megmosolyogja, hippi közösségnek meg kommunának látja, de amint elkezdik a pénzügyeiket kiszervezni, vagy akár a jogrendet, a közbiztonságot, akkor az állam szemében szálkásodik.
 
-Tehát az azt jelenti, hogy igen, amikor kalákában egy faluban egy család megépít egy házat, mondjuk három hónap alatt, mert körülbelül annyi idő alatt meg lehet építeni egy házat, hogyha odamegy mondjuk öt-hat ember, akkor szerintem ezek az ingatlanárak tükröznék azt, hogy munkában, illetve emberidőben mennyi lenne egy ilyet megépíteni. És ugyanez beárazódna Bitcoinra is.
+Emlékszem, talán 2006 és 2010 között volt Magyarországon a Kékfrank nevű soproni pénz.
 
-Tehát te hamarabb meg tudnál venni szerintem egy házat, mert nem lenne az ingatlanokban benne az a pénzügyi prémium sem, ami most jelenleg hát valamilyen részét kiteszik. Tehát ugye a pénzügyi prémium az, amikor befektetési céllal vásárolták az ingatlanokat, és emiatt az ingatlanárak felmentek, de ugyanakkor, hogyha nekikezdesz és te a kis telkeden könnyűszerkezetes házat elkezdesz felhúzni akár egy YouTube videó tanításai alapján, akkor arra jutsz, hogy körülbelül a tizedéért fel tudod építeni azt a házat lakható formában, amit eddig meg kellett volna venned.
+– A Kékfrank! (nevetés) Nem tudtam.
 
-Tehát hogyha ezek a lufik így sorra pukkannának ki és szépen beárazódna minden, szerintem ugyanúgy lenne lehetőséged házat venni, akár úgy, hogy más formában lenne erre szerződés, akár arra, hogy te mondjuk aláírnál — mondom egy példát — mondjuk egy hároméves munkaszerződést valahol, és akkor ez lenne a mortgage, ez lenne a jelzáloghitel, vagy valamiféleképpen szerintem a piac erre találna megoldást.
+– Ilyen helyi pénz volt, bónuszrendszerként működött. Azt is elfojtották. Nem maradhat elfogadott, hogy az államon kívül bárki pénzt állít elő. Ha mégis lenne olyan állam, oda elviszik a demokráciát. A líbiaiak egy egyesített afrikai pénzt akartak — Kadhafi. Most a napokban szegénynek még a fiát is megmerényelték.
 
-Tehát olyan, hogy a piac nem talál megoldást, olyan nincs. Inkább olyan van, hogy az állam nem talál megoldást valamilyen piaci eseményre, és próbálja azt leszabályozni. A veszélye nem áll fenn, hogy holnap ez lesz. Bár nem tudom, hogy várnám-e vagy nem, mert nyilván óriási nagy káosz lenne.
+Ez a pénzrendszer nem akarja, hogy más működjön, mert amúgy tudna. Vannak osztrák közgazdász elméletek, ami szerint működhetne szűkös pénzen a világ, és működik is. Most éljük a napjait, hogy ez teret nyer és küzdi fel magát. Ez a Bitcoin. Amikor látom a Bitcoin elleni támadásokat, hogy napon belül hány tőzsde dob tízezres számra eladási kosárba, akkor látom, hogy beletalált ez a Bitcoin, ha ezzel lehet csak kibaszni vele ideig-óráig.
 
-Szerintem így is nagyon nagy sebességgel halad a világ afelé, hogy Bitcoin alapú legyen minden. Bár nem látszik a felszínen, de szerintem az egész környezetünkben megfigyelhető változás így a bankszektorban meg így a fedezett piacon, meg a kötvénypiacon, az ezt mutatja. Tehát nem lenne ekkora háború a Bitcoinért pszichológiai síkon sem, hogyha ez nem lenne egy fontos eszköz.
+– Pszichológiai háború folyik. A barátaid azt mondják: látod, hülye voltál. Én meg azt mondom: nem, ez visszaigazolja, hogy nekünk van igazunk.
 
-Hát, hogy hogyan lesz a jövőben, én csak azt tudom mondani, hogy szerintem ugyanúgy lesz, csak mások lesznek a számok, mások lesznek a hitelek. Nem lehet az, hogy mi van akkor, hogyha a legtöbb politikus meg a legtöbb gazdasági szereplő, aki jelenleg mondjuk nem támogatja a bitcoint, merthogy nyilván megvannak a saját kis játszmái, amivel ő jól van. Igen, [nevetés] nem az érdeke.
+– Ha mondhatom, sokszor beszélünk úgy, hogy az egész világ ilyen legyen, ilyen működjön. Van egy kedvenc mondásom: az intelligens ember mindig ellenzéki marad. (nevetés) Amikről itt beszélünk — a gyerekkori barátom, aki nincs benne a techben, alig érti meg a Bitcoint. Ez egy nagyon összetett dolog, és nagyon messze van, hogy az emberek többsége megértse.
 
-– Ennek nem az érdeke, hogy most megint csak ezzel abszolút nem szakma szakmailai amit mondok, de hogy mi van akkor, hogyha ők igazából nem nem értik azt, hogy a Bitcoin az gyakorlatilag végtelen mértékben felosztható. Tehát igazából, ha nagyon akar, akkor jöjjön át Bitcoinra, azt játszon tovább bitcoinba.
+A legtöbb embernek szüksége van egy vezetőre, vezetettségre. Etológiai szempontból nézem, mert az segít megérteni, milyenek az emberek, anélkül, hogy lekezelő lennék. Ha ez az egész eddig így állt föl és működött, amit fiatrendszernek hívunk, akkor ez van egyelőre. Közben megjelent egy tisztább és egyenlőbb rendszer, amit a Bitcoin visz, és ha már csak ezt lehet csinálni, az egy nagyon nagy dolog.
 
-– Politikusokat azért fizetik, hogy ezt a rendszert éltessék és fenntartsák. Tehát gyakorlatilag itt egy óriási ellenérdek van a központi bankok meg a bankok részéről. Tehát ez nagyon sokáig nem fogják odaadni. Hát ők köszönik, jól vannak, ülnek a piramis csúcsán, élvezik a gyümölcseit ennek a gyönyörű rendszernek, amit évszázadok meg évezredek alatt rétlétrehoztak. Mutogat go on.
+Nem annyira várom, hogy mikor terjed el. Lehessen minél inkább használni azoknak, akiket megszólít. Sok Bitcoin podcast arról beszél, hogy a fiat szar és a Bitcoin milyen jó, az egész világ most milyen szar és majd milyen jó lesz — Fradi meg Újpest. Nekem ez nem esik jól.
 
-– Mutogatnak egymásra. Most ő a rossz, most ő a nem rossz, most ő nyer, most ő nem nyer díjat. Ugyanaz, ez egy cég, ez egy birodalom. És nekik ez kell, hogy működtessék. Tehát ők igazából dolgozói ennek — az összes államfő, az összes ellenzéki, ez mind ugyanennek a show-biznisznek, ennek a nagy színjátéknak a részei.
+Valaki kérdezte, mi lenne, ha a Bitcoin eltűnne holnap. Az, hogy ez a remény megvan — hogy nem lenne semmi pozitív és reménykeltő a társadalmi, gazdasági létezésben — ezáltal, hogy van, köszönöm szépen. Az, hogy van, óriási dolog. Hadd használják egyre többen. Hogy milyen mértékben terjed el — nem foglalkozom vele, nem stresszelek, hogy a fiat milyen szar.
 
-Szerintem azért is jók ezek a kicsi városállamok, vagy ilyen kis pilot projektek, akik ilyen Bitcoin mentén mennek, mert egy csomó ilyen érdekes teoretikus kérdést feszegetnek, és meg is válaszolnak, amiket ugye itt mi is így említettünk. Nyilván ezeket az ember megmosolyogja, meg ahogyan te is fogalmaztál, hogy az elején nagyon ilyen hippi közösségnek meg kommunának látja, mert sok esetben valóban nem is több mint az, de amint az emberek elkezdik a pénzügyeiket kiszervezni, vagy akár a jogrendet, vagy akár a közbiztonságot, akkor az állam szemében már az úgy kezd szálkásodni, és azt mondja, hogy hó, nem lesz ennek jó vége, hát itt a végén már helyi pénzt fognak használni.
+– Igazad van. A Fiatnak az a létjogosultsága, hogy szükséges sok ember számára, mert vezetni kell őket. De a Bitcoin tud a rendszer alá menni, ahogy most is látjuk. Igenis tud alatta működni, mindenki majd használja, aki akarja. Aki nem kíváncsi rá, annak ott lesz a CBDC, a digitális euró, a forint, a digitális dollár.
 
-Emlékszem még — hát nem akarok hülyeséget mondani, de talán ilyen 2006 és 2010 között volt Magyarországon ez a Kékfrank nevű soproni pénz, ami szintén
+– Erről az jutott eszembe: nemrég a HUSZONEGY csoportban valaki beposztolta Kovács Roli előadását, amit a Felvidéken tartott. Nagyon komplex előadás volt, sok szemszögből beszélt arról, miért jó a Bitcoin és milyen világ közeledik felénk. Olyan társaságnak tartotta — az utána feltett kérdések alapján következtetek —, akik a pénzügyekkel valamennyire tisztában vannak, de nagyon újszerű volt nekik. Többen kérdezték: jó, de amikor mindenkinek annyi bitcoinja lesz, amennyit te kiszámoltál, hogy egy főre jut, az honnan lesz, hogyan kapja meg? A Roli nem győzött mondani, hogy nem arról van szó, hogy mindenkinek egyformán osztjuk — az kommunizmus lenne, ami lehetetlen is megvalósítani.
 
-– A Kékfrank, hát az nagyon jó, [nevetés] nem tudtam.
+– Elméleti szinten, ha leosztanánk, ennyi lenne egy főre. De hogy neked hogyan lesz bitcoinod, azt nem fogom megmondani. Valószínűleg a legtöbb ember soha nem jön rá, hogy jobb lenne, ha szerezne magának. Ők megvárják, hogy valahonnan kapjanak. A munkáltató majd hajlandó lesz bitcoint adni, de nem kényszeralapon fog megszületni.
 
-– Talán ez volt a neve, nem?
+Inkább versenyhelyzet lesz egy idő után, amikor mindenkinek motoszkál a fejében, hogy nekem hogyan lesz bitcoinom. Lesznek munkahelyek, ahol lehet bitcoint keresni, és olyanok, ahol nem. Az emberek azt mondják majd: én inkább oda megyek, ahol bitcoint is lehet keresni, nem kell az a szar pénz, ami holnap fele annyit ér.
 
-– Kékfrank. Nem,
+– Ezt a vezetettséget tök jó, hogy behoztad. Ez a fiatrendszer nem véletlenül ördögi kör: nincs idejük az embereknek megérteni a rendszer működését, kilátni belőle, és elképzelni, hogy létezhet másfajta pénzügyi rendszer. Rengeteg idő kell rájönni, hogy ennek a csírája már működik is — de nincs idejük, mert dolgoznak, nyaralni akarnak, szórakozni, kikapcsolódni. Mikor szakítana erre időt az átlagember? Igazából neki jó így, ahogy van.
 
-– valami ilyen helyi pénz volt, és akkor ilyen bónuszrendszerként működött. Igen. Hát végül is nyilván erre hajazott, csak hát azt is így elfolytották.
+– Sose volt kritikus, most se válik azzá.
 
-Meg ugye az nem maradhat elfogadott, hogy az államon kívül bárki is pénzt állít elő, és ugye ha meg mégis lenne olyan állam, akkor meg oda elviszik a demokráciát. Tehát például a líbiaiak egy egyesített afrikai pénzt akartak, ugye Kadhafi. És most egyébként pont a napokban szegénynek még a fiát is megmerényelték.
+– Közben kritizálnak is, csak fikáznak, nem kritizálnak. Az egy másik klub.
 
-Úgyhogy hát ez a pénzrendszer ilyen, nem akarja, hogy más működjön, mert amúgy tudna működni, mert ugye vannak osztrák közgazdász elméletek, ami szerint működhetne egy szűkös pénzen a világ, és működik is. Csak hát ennek most éljük a napjait, hogy ez teret nyer és küzdi fel magát. És ez a Bitcoin.
+– Élünk körbe, és ebből születik meg egy lehetőleg minél békésebb egymás mellett élés. Aki így van a dolgokkal, az hadd legyen úgy.
 
-És amikor látom a Bitcoin elleni támadásokat, hogy napon belül hány tőzsde dob tízezres számra az eladási kosárba bitcoint, akkor látom, hogy azért beletalált ez a Bitcoin, hogyha ezzel így lehet csak kibaszni ideig-óráig.
+– Még hülyének is nézhetnek minket.
 
-– Jó,
+– Nem baj. Engem nem zavar.
 
-– nem? Tehát pszichológiai háború folyik, tehát ennyi, hogy a te barátaid azt mondják, hogy látod, hülye voltál már megint. Én meg azt mondom, hogy nem öcsém, nem, ez igenis visszaigazolja azt, hogy nekünk van igazunk. Na mindegy, messzire szaladtam, bocsánat, nem akartam így le
+– Nekem se fáj. (nevetés) Csak már hárman vagyunk. Közben ránéztem az órára, és eszembe jutott, hogy zenészként egészen mostanáig nem beszéltünk a zenéről. A végére egy picit még szívesen beszélnék erről.
 
-– De jó, jó. Nem, nekem ha mondhatom, akkor nekem jött eg egy egy ilyen izgalmas, nem is tudom, gondolatom arra mind arra, amit mondtál.
+– Persze, mert összefügg is. Nekem megmaradt, ahogy Anti az elején bemutattál — azt mondtad, hogy egy zenész lesz ma vendégünk, és belőled kiegyensúlyozottság sugárzik. A zenészek, mivel a zene az érzelmek közvetítője, ez téged is körülleng. Mi előtte nem beszéltünk sokat, (nevetés) most látlak élőben.
 
-– Persze, hajrá.
+– Ehhez kapcsolnék vissza. Ez megfogott, megmaradt a fülemben. Persze ismerek zenészeket, akik érzelmileg nem stabilak, és van, aki kifejezetten eszmékről és világi dolgokról szól. Sokféle zenész van, sokféle zene.
 
-– Az pedig az, hogy sokszor beszélünk és fogalmazunk így, mert nyilván legbelülről ezt szeretnénk, hogy akár az egész világ ilyen legyen, vagy az egész világ ilyen működjön. Na de van egy kedvenc mondásom arra, hogy az intelligens ember mindig ellenzéki marad, [nevetés] vagy az értelmes ember az mindig ellenzéki. Tehát, hogy amikről itt beszélünk, gondoljatok bele, hogy még a a az én gyerekkori barátom, aki megint csak nem tech, egy másik, aki nem tech nincs benne a techben, alig érti meg a bitcoint. Tehát, hogy azért ez egy nagyon összetett dolog a maga a Bitcoin és mindaz, amit pénzügyileg és gazdaságilag jelent, és hogy nagyon messze van az, hogy tényleg az emberek többsége, akik akik hát most ezt ilyet nagyon nehéz mondani, meg nem szokás, hogy nem illik mondani, hogy nem a legélesebb kés a fiúk.
+Aki idáig végignézte a beszélgetést, annyit szeretnék még röviden mesélni: miért zenélünk, mert az bennem legbelül egy nagyon hasonló hely, mint amit a Bitcoin mond nekem. Majdnem azt mondtam: tanít nekem. Egyfajta nyugalom — azt a zsizsgést, azt a „nem elég, nincs elég, megyünk tovább" hajszát nem érzem a Bitcoinban. Ezt a nyugalmat kerestem én is, kerestük mi is az életben.
 
-– Osho után már tudjuk. Na de Osho után már tudjuk tehát, hogy a legtöbb embernek, és ezt én inkább etológiai szempontból szoktam, hogy etológia segít nekem ezt megérteni, hogy ne legyek ilyen, tudod, ilyen ilyen rasszista, vagy nem tudom milyen, hogy
+Itt lakunk az erdő szélén, a forráshoz járunk forrásvízért. Nagyon fontosnak tartom, hogy mit iszik az ember, mert 80%-unk víz. Ugyanúgy, ahogy a forrásvíz fontos, ugyanúgy fontos lett az életemben egyfajta belső nyugalom és tartás, egy tengely.
 
-– szőbrendű,
+Ezt gyakorlom a zenén keresztül is, és igyekszem a zenén keresztül átadni az embereknek nonverbálisan, ami sokszor mélyebbre megy, mint verbálisan. Ezért teszem, és tesszük Renivel. Ez számomra ugyanaz a fajta nyugalom, amit a Bitcoin kapcsán érzek, és amit a Nostr-ban érzek, amikor belépek egy közösségi térbe.
 
-– igen, hogy milyenek az emberek, nem? Tehát a legtöbb embernek szüksége van egy vezetőre, a legtöbb embernek szüksége van vezetettségre, és ha ez az egész eddig így állt föl és így működött, amit úgy hívunk, hogy fiat rendszer, akkor ez van egyelőre. Közben megjelent egy tisztább és egyenlőbb rendszer, amit a Bitcoin visz, és ha már csak ezt lehet csinálni, az már egy nagyon nagy dolog.
+Mindenképpen szerettem volna a végén elmondani: hogyha bárki kíváncsi lenne ilyen nonverbális rezgésekre, keressen rá a [Reni és Boka](https://reniboka.hu) zenéjére. Egyelőre a mainstream felületeken, de még egy hónap és megjelenik az új lemezünk, ami már decentralizált alapokon is elérhető lesz. Már két dalunk elérhető — a „Nem vagyok fontos" a Nostr-on is hallgatható, és élőben is lehet velünk találkozni. Nem csak felnőtteknek zenélünk, hanem gyerekeknek is, kismamáknak a babáikkal. A párom, Reni írt egy könyvet a háborítatlan születés fontosságáról.
 
-És nem annyira várom, hogy most mikor lesz ez, hú de mennyire elterjedt. Lehessen minél inkább nekünk ezt használni, akit ez megszólít. És lehet, hogy most csak ennyit akartam hozzátenni, hogy ez nekem valahogy egy jobb érzés, mert azért sok Bitcoin podcast és sok Bitcoin újságíró arról beszél, hogy a fiat szar és a Bitcoin milyen jó, és akkor az egész világ most milyen szar, és akkor majd milyen jó lesz — és ez megint ugyanez a dualitás, hogy Fradi meg Újpest. Nekem ez annyira nem esik jól.
+– De jó.
 
-Tehát köszönöm szépen — tényleg, valaki kérdezte, hogy mi lenne, ha a Bitcoin eltűnne holnap. Az, hogy ez a remény megvan, hogy nem lenne semmi pozitív és semmi reménykeltő a társadalmi, gazdasági létezésben — ezáltal, hogy van, köszönöm szépen. Az, hogy van, az egy óriási dolog. Hadd használják egyre többen. Az, hogy ez most milyen mértékben és hogy majd mindenki ezt használja — ezzel nem foglalkozom, nem stresszelek, hogy a fiat milyen szar.
+– Milyen fontos, hogy a nők háborítatlanul szülhessenek, akár kórházban, akár otthon — ez a lényeg. A felnőtt dalok mellett születnek babadalok is. Kismamáknak és babáknak tartunk csendzengés néven hangutazáshoz hasonlatos alkalmakat, ahol körbeénekeljük az embereket, és segítünk nekik visszakapcsolódni önmagukhoz. Minden lehetséges formában igyekszünk ugyanazért a jóért tenni, csak a zenén keresztül.
 
-– Hm.
+Ezeket mind meg lehet ismerni, aki érdeklődik, a Nostr-on keresztül, de Facebookon, Instán és a weboldalunkon is.
 
-– Igen, igazad van. Amúgy tényleg a Fiatnak azért az a létjogosultsága, hogy szükséges az emberek számára, mert nagyon sok embert vezetni kell, meg kell malmozni, de szerintem egyébként a Bitcoin tud a rendszer alá menni, tehát mint ahogy most is látjuk, és nyilván ezt nem nem mindig a legjobb kedvvel nézem én se, mert valószínűleg ez tényleg ilyen dualista nézet, hogy ez a szar meg ez a jó, és hogy az egyik egyik sehez sem tudsz tartozni, mert olyan nincs, hogy a világ az egyik tartozik, mert nem lehet egyszerűen jelen a jó meg a rossz. Mindig valamilyen kavalkádban van jelen. De hogy ez most így menetel, és ez így így tör utat és valószínű, hogy a a rendszer alatt be tud épülni. Tehát igenis tud működni alatta a Bitcoin, akkor mindenki majd használja jól, aki akarja. Aki meg nem kíváncsi rá, annak úgyis ott lesz a a CBDC, meg a digitális euró, meg a forint, meg a digitális dollár, meg az akármi.
+– [Reni és Boka](https://reniboka.hu).
 
-– Erről az jutott eszembe, nem tudom néztétek-e, a nemrég a HUSZONEGY csoportban valaki beposztolta a Kovács Rolinak egy előadását, amit a Felvidéken tartott, nem is tudom melyik városban, mindegy is. A lényeg az, hogy nagyon komplex előadást tartott, és nagyon sok szemszögből beszélt arról, hogy miért jó a Bitcoin, meg hogy milyen világ közeledik felénk, satöbbi.
+– Onnan meghallgattam egy podcast beszélgetést az erdélyi FM-ben, és abban hallottam, hogy koncerteztetek erdélyi Waldorf óvodákban, iskolákban is.
 
-És valami olyan társaságnak tartotta az előadást — az utána feltett kérdések alapján következtetek erre —, akik a pénzügyekkel valamennyire tisztában vannak, de ugye nagyon újszerű volt nekik ez a téma, és olyan kérdéseket tettek föl többen, hogy jó, de akkor majd amikor mindenkinek annyi bitcoinja lesz, amit te kiszámoltál, hogy egy főre mennyi bitcoin jut, az akkor honnan lesz, az hogy kapja meg?
+– Ha hívnak, szívesen megyünk bárhova, bármilyen iskolába, óvodába. Korosztálytól függően olyan formában zenélünk a gyerekekkel, ahogy az nekik való. Amit különösen szeretek, az a közös dalírás kiskamaszokkal, 10-12 évesekkel. Hozok [Dixit](https://en.wikipedia.org/wiki/Dixit_(card_game)) kártyákat, vagy anélkül elkezdünk ötletelni és írunk egy dalt. Fantasztikus élmény, mert ahhoz vannak szokva, hogy a zene kész van, megtanulják. De mivel még gyerekek, nagyon könnyen ötletelnek, alkotnak. Kis segítséggel elképesztő, nagyon vicces dolgokat hoznak létre.
 
-És akkor ezt többen is föltették, csak másképp a kérdést. És a Roli nem győzött mondani, hogy nem arról van szó, hogy akkor így lesz osztva, hogy mindenkinek ennyi bitcoinja van, mert az a kommunizmus lenne, ami ugye lehetetlen is megvalósítani, meg ne is erre törekedjünk.
+– Olyat is hallottam, hogy afrobrazil énekköröket is tartasz.
 
-– Hát igen, erre megy a világ. De hogy elméleti szinten, ha leosztanánk ennyire, akkor ennyi lenne. De hogy neked hogy lesz bitcoinod, azt én nem fogom megmondani, hogy te kitől fogod kapni.
+– Sajnos évközben már nem csinálom, mert nem jönnek elegen, hogy rendszeres lehessen. Nyáron még tartok fesztiválokon afrobrazil kubai alapokra szabad éneklő kört. Kotta nélkül, improvizatívan. Mindig elmondom: van, akit a kotta rémiszt, van, akit a szabad improvizáció. Annyi játék van az elején, ami felvezeti, hogy amikor tényleg történik az együtténeklés, mindenki a gondolkodó agyán kívül van, és csak énekel. Végül se a kotta nem stresszelt senkit, se az improvizáció, mert föl se fogta, hogy az volt.
 
-Ugyanakkor meg valószínű a legtöbb ember sose fog erre rájönni, hogy jobb lenne neki, hogyha szerezne magának bitcoint, hanem tényleg valószínű ők majd megvárják azt, hogy valahonnan kapjanak bitcoint. És akkor el fogja szenvedni, hogy a munkáltatóm mostantól már lehet, hogy hajlandó bitcoint adni, de nem gondolom, hogy ez kényszeralapon fog megszületni.
+– Köszönjük szépen, Boka, hogy itt voltál nálunk és beszélgethettünk. Elég sok témát érintettünk. Megköszönöm a nézőknek a figyelmet, neked pedig, hogy eljöttél. Egy hét múlva újra találkozunk.
 
-Inkább azt gondolnám, hogy ez egy versenyhelyzet lesz egy idő után, amikor már mindenkinek elkezd a gondolat a fejében motoszkálni, hogy nekem hogy lesz bitcoinom, hogy lesznek olyan munkahelyek, ahol lehet bitcoint is keresni, és valahol meg nem. És szerintem egy idő után ez egy olyan versenyszituáció lesz, ahol az emberek azt mondják, hogy én inkább olyan helyre megyek dolgozni, ahol bitcoint lehet keresni, és nekem nem kell az a szar pénz, ami holnap meg lehet, hogy fele annyit ér.
+– Én is nagyon köszönöm. Nagyon szuper volt.
 
-– Na mindegy. Ez ez jutott eszembe, hogy ez a ez a vezetettség, ezt tök jó, hogy behoztad, mert tényleg nagyon sok embernek erre van szüksége. Meg ahogy korábban említetted, igen, ez eszméletlen, hogy ugye ez a rendszer, ez a fiatrendszer, ez nem véletlenül egy ilyen ördögi körként úgy működik, hogy nincs idejük az embernek azzal foglalkozni, hogy megértsék a rendszer működését, és azt, hogy ezen kívül is lehet élet, és hogy kilásson a rendszerből, és el tudja képzelni, hogy létezhet egy olyan pénzügyi társadalmi rendszer, ami nem ilyen szar. Igen.
+– Még két konkrét időpontot szeretnék behozni. Az egyik a február 26-i budapesti Perspective Baros meetup, ahova szeretettel várunk mindenkit, aki személyesen szeretne találkozni hasonlóan gondolkodó emberekkel. Lesz egy nagyon jó előadás és kötetlen beszélgetés. Ha már a zenéről is beszéltünk: március 19-én lemezbemutató koncertetek lesz a Fonóban.
 
-– Csak ugye, csak ugye rengeteg idő kell ezt egyáltalán elképzelni és rájönni arra, hogy igazából már ennek a csírája már működik is a világban. Csak ez nagyon ideényes ezt megérteni, csak nekem nincs időm ezzel foglalkozni, mert állandóan dolgozom, vagy ugye jól akarom érezni magam abból a pénzből, amit megkerestem, és én most nyaralni akarok, meg ide akarok utazni, meg most el akarom felejteni a bánatot, és bulizni akarok, meg akármi. És ebbe ebbe a modellbe meg, hogy mozizok meg meg a popcornt zabálom állandóan, és gasztronómiai élvezeteket különböző konyhák szerint élvezgetem, mit tudom én. Ebbe ebbe nem fér bele az, hogy mondjuk akár napi fél órát vagy egy órát azzal foglalkozzak, hogy és hogy miért is működik szarul ez a rendszer, meg hogy hogy lehet ebből kilépni? Ez ez mi mikor szakítana erre időt a az átlagember? És miért? Mert mert igazából neki ezek szerint jó így, ahogy van.
+– Oda is szeretettel várunk mindenkit. Nagyon nagy dolog lesz, nagyon készülünk rá. Sok vendégzenésszel, táncosokkal — különleges lesz.
 
-– Gondolom
+– Szerintem azt megkóstolom én is.
 
-– sose volt kritikus, most se válik azzá,
+– Fonó Budai Zeneház.
 
-– de igazából még közben kritizálnak is sok mindent, csak ugye mutogatnak.
+– Köszönöm, hogy még ezt is felhoztad a végére.
 
-– Az fikázás, nem kritizálás. Igen, igen, igen. Az egy másik klub.
-
-– Ja, igen,
-
-– igen. Csak akkor ott és akkor igen, csak így élünk körbe, hogy akkor ebből születik meg egy lehetőleg minél békésebb egymás mellett élés. Tehát hogy aki viszont meg így van vele, az a dolgokkal, akkor az meg had legyen, és hadálja így. És akkor köszönjük szépen.
-
-– Igen. Igen. És még hülyének is nézhetnek minket. Nem,
-
-– nem baj. Hát engem az nem zavar.
-
-– Nekem se fáj. [nevetés]
-
-– Nekem se. Csak már hárman vagyunk. Én közben ránéztem a a az órára, és nekem még annyi eszembe jutt, persze ti kérdeztek, hogy és h szerintem ez izgalmas is így, hogy én egyébként zenészként egészen mostanáig nem beszéltem, és nem beszélgettünk a a zenéről és a végére egy picit még szívesen beszélől. Jó, persze,
-
-– mert hogy egyébként össze is fog nyilván ez is. És nekem nagyon megmaradt, ahogy ahogy Anti az elején bemutattál, azt mondtad, hogy hogy egy zenész lesz ma vendégünk, és hogy aem így fogalmaztál, hogy mint általában a művészekből vag zenészekből, hogy belőlem mi sugárzik az, hogy érzelmileg stabil vagyok, vagy val te jobban mondtad, de most nekem így jön vissza. Igen, igen. Ez a nyugalom tehát, hogy ez a ez a teljes paletta, hogy látszik körülötted kiegyensúlyozottság. De de ez jön le, tehát hogy hogy a zenészek, mivel mivel ugye a zene az az érzelemnek a közvetítője, meg hát a művészet is ugye kiből mit vált ki, ezért ez így téged is így körülleng, mert ugye mi előtte nem beszéltünk [nevetés]
-
-– igen
-
-– sokat, és így
-
-– most látlak így élőben.
-
-– Igen. Na és akkor ezért ehhez azért kapcsolnék vissza, mert egyrészt egyébként ez nagyon megfogta, tehát megmaradt a fülemben, ahogy fogalmaztál. Ugyanakkor persze én ismerek egy csomó zenészt, aki érzelmileg nem stabil, és nem ezt mondtad, nem így mondtad, de értem, vagy érzem, amit mondasz. És emellett pedig van olyan zenész, aki kifejezetten nem is az érzelmekről szól az ő személyisége, hanem eszmékről és abszolút világi dolgokról. Sokféle zenész van, sokféle zene van.
-
-És én csak annyiban kapcsolnék vissza: hogyha már itt lesz, aki idáig végignézte az adást, ezt a beszélgetést, akkor annyit én még szívesen mesélek röviden, nem is feltétlenül magamról vagy magunkról és a duónkról Rénivel, a Réni és Bokáról, hanem arról, hogy miért, vagy hogy mi hogyan zenélünk és miért zenélünk, mert az bennem legbelül egy nagyon hasonló hely tényleg, amit a Bitcoin mond nekem. Majdnem azt mondtam, hogy tanít nekem. És az egyfajta
-
-– nyugalom. Ezt mutattam ma már, ezt a zsizsgést, ezt az „ilyen nem elég, nincs elég, megyünk tovább" — ezt az állati hajszát, ez ugye nincs, ezt nem érzem a Bitcoinban, és ezt a nyugalmat kerestem én is, és kerestük mi is úgy alapvetően az életben.
-
-Itt lakunk az erdő szélén, a forráshoz járunk forrásvízért. Nagyon-nagyon fontosnak tartom, hogy mit iszik az ember, mert 80%-unk az víz. És ugyanúgy, ahogy a forrásvíz nagyon fontos, ugyanúgy nagyon fontos lett nekem az életemben egyfajta belső nyugalom és egy tartás, egy tengely.
-
-És ezt gyakorlom a zenén keresztül is, és ezt igyekszem a zenén keresztül átadni az embereknek nonverbálisan, ami sokszor sokkal mélyebbre megy, mint verbálisan. Ezért teszem, és tesszük Rénivel. Ez számomra ugyanaz a fajta nyugalom, amit a Bitcoin kapcsán érzek, és ugyanaz a fajta nyugalom, amit a Nostr-ban érzek, amikor belépek egy ilyen közösségi térbe.
-
-És ezt mindenképpen szerettem volna még a végén elmondani: hogyha bárki a beszélgetésünkön túl kíváncsi lenne ilyen nonverbális rezgésekre, akkor keressen rá a [Réni és Boka](https://reniboka.hu) zenéjére. Egyelőre még csak a mainstream felületeken, de még egy hónap és megjelenik az új lemezünk, és az már decentralizált alapokon is elérhető lesz.
-
-Sőt, már két dalunk már most is — „Nem vagyok fontos" — ez most is elérhető. Tehát a Nostr alapjain is már hallgatható a zenénk, és élőben is lehet velünk találkozni. Mi egyébként nem csak felnőtteknek zenélünk koncerteken, hanem gyerekeknek is, kismamáknak a babáikkal, mert az én párom, a Réni írt is egy könyvet a háborítatlan születés fontosságáról.
-
-– De jó,
-
-– milyen fontos az, hogy a nők háborítatlanul szülhessenek, akár kórházban, akár otthon, de hogy háborítatlanul, ez a lényeg. Tehát születnek a felnőtt dalok mellett babadalok, kismamáknak, babáknak tartunk csendzengés néven olyan jó majdhogy nem, mint egy egy jóga jógáról ismert hangutazáshoz hasonlatos alkalmakat, ahol így körbeénekeljük az embereket és
-
-– ühüm
-
-– így segítünk nekik visszakapcsolódni önmagukhoz, és esetleg rájönni a következő fontos megfejteni valóra az életükben. Tehát minden lehetséges formában igyekszünk ugyanazért a jóért tenni, csak a zenén keresztül.
-
-Úgyhogy ezeket mind meg lehet ismerni általunk, és aki érdeklődik, az megtudhat mindent a Nostr-on keresztül, de akár tényleg Facebookon, Instán és a weboldalunkon is, amit majd akkor szintén beteszünk a leírásba. Aha.
-
-– Meg mondjuk is be, hogy ez a [Réni és Boka](https://reniboka.hu).
-
-– Ez a [Réni és Boka](https://reniboka.hu). Ez egyébként a [Réni és Boka](https://reniboka.hu).
-
-– Én onnan meghallgattam egy olyan podcast beszélgetést, ami az erdélyi FM-ben volt, és abban hallottam olyat is, hogy ti koncerteztetek ilyen erdélyi Waldolf óvodákban vagy iskolákban is. Az az szokásotok, vagy az valami? Igen. Tehát hogyha hívnak, akkor megyünk szívesen Waldorf, tehát bárhova, bármilyen iskolába, óvodába, és megint csak korosztálytól függően
-
-– olyan formában zenélünk a gyerekekkel, ahogy az nekik való. Amit én nagyon különösen szeretek, az pedig az, amit én már ezelőtt is még a még a közös ide időnk előtt is már mindig is csináltam, az pedig közös dalírás kiskamaszokkal, ilyen 10-11 évesekkel, 12 évesekkel főleg, ahol pedig ennyi. Tehát közösen írunk dalt. Hozok [Dixit](https://en.wikipedia.org/wiki/Dixit_(card_game)) kártyákat,
-
-– vagy anélkül egész egyszerűen csak a gyerekekkel elkezdünk ötletelni, és írunk egy dalt, ami számunkra egy fantasztikus élmény, mert általában ahhoz vannak szokva, hogy a zene az kész van, és az csak úgy van, és azt én megtanulom, mert az egy dal. Viszont ők mivel még gyerekek, ezért nagyon könnyen ötletelnek, alkotnaküm.
-
-– És egy kis egy kis egy kis segítséggel elképesztő dolgokat hoznak. Nagyon vicces dolgokat hoznak létre. Úgyhogy ezt is csináljuk.
-
-– És olyat hallottam, hogy afrob brazil énekköröket is tartasz. Azt hogy kell?
-
-– Nagyon sajnálom, hogy azt már nem csinálom, de egyszerűen nem jönnek. Tehát, hogy évközben már nem csinálom, mert nem jönnek egyszerűen elegen, hogy az, hogy az rendszeres lehessen. Úgyhogy nyáron még mindig tartok fesztiválokon afrobrazil kubai alapokra, de szabadon éneklő kör. Tehát ez is egy ez is a szabadon együtt éneklésről szól. Kotta nélkül.
-
-– Aha. Improvizatívan.
-
-– É improvizatívan. De itt is mindig elmondom, hogy tehát se a se a Kotta ne tehát a val van akit a Kotta rémiszt el, van akit meg a szabad improvizáció rémisiz. Tehát megpróbálom az egészetni
-
-– amennyire lehet. Igen, az egészet így minden irányból ezt így nem is tudom lefedni, vagy vagy fellazítani, vagy lelazítani. Tehát, hogy ezek olyan ilyen szabad együtt éneklések, ahol annyi játék van az elején, ami felvezeti, hogy aztán már amikor tényleg történik az együtténeklés, ott így mindenki teljesen az a fején kívó a gondolkodó és ítélkező agyán kívül van, és csak így így lóban van, és csak így egyszerűen azt veszi észre, hogy így énekel, és ott van, hogy én adok konkrét dallamokat, de aztán már az se. És akkor végül is se a kotta nem stresszelt senkit, és igazából se az improvizáció, mert fel se fogta, hogy az volt a végén. De ezeket már csak nyáron csinálom fesztiválokon, mert évközben nem nem ez egy ez egy elég speckó dolog, és
-
-– Ühüm.
-
-– Erre erre úgy nem állt be, hogy évközben is rendszeres legyen.
-
-– Jól van. Hát köszönjük szépen, Boka, hogy itt voltál nálunk és beszélgethettünk így ezekről a dolgokról. Elég sok témát érintettünk, nyilván mindig marad egy csomó másik, amit még nem. Én megköszönném a nézőknek a figyelmét és neked meg, hogy eljöttél, és egy hét múlva szerintem újra találkozunk.
-
-– Én is nagyon-nagyon köszönöm. Nagyon szuper volt.
-
-– Bocsi, még két konkrét időpontot szeretnék behozni, mielőtte lecsengetjük az adást. Az egyik az a február 26-i budapesti Perspektíva meetup, ahova szeretettel várunk mindenkit, aki szeretne találkozni személyesen hasonlóan gondolkodó emberkékkel. Nem utolsó sorban meg lesz egy nagyon jó előadás és kötetlen beszélgetés. És ha már a zenédről is beszéltünk, szerintem mondjuk el azt is, amit a honlapotokon néztem, hogy március 19-én meg lemez bemutató koncertetek lesz a Fonóban.
-
-– Így van. Gondolom, hogy oda oda is szeretettel várunk mindenkit. Ez egy nagyon nagy dolog lesz. Nek
-
-– szerintem azt megkóstolom én is.
-
-– Nagyon készülünk rá és várunk mindenkit szeretettel. Nagyon különleges lesz. Sok vendégzenésszel, táncosokkal különleges lesz.
-
-– És ez a Fonóban ugye?
-
-– És ez Fonóban. Fonó Budai Zeneház.
-
-– Király.
-
-– Köszönöm, hogy még ezt is felhoztad a végére. Igen.
-
-– Mi is köszönjük. Gigatonnányi magyar nyelvű Bitcoin oktatóanyagot osztunk meg a HUSZONEGY honlapján. Ezek a [huszonegy.world](https://huszonegy.world) címen található anyagok bárki számára ingyenesen hozzáférhetők. Azok számára pedig, akik személyes támogatást igényelnek, szeretettel ajánljuk a Bitcoin mentor szolgáltatásait. A [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon részletesen olvashatsz a Bitcoin tanácsadásról, a [Bitcoin blogban](https://bitcoinmentor.hu/bitcoin-blog/) pedig egyre több értékes bejegyzést találsz. Iratkozz fel a HUSZONEGY podcast YouTube csatornájára, valamint a Rumble csatornánkra is. Kövesd a HUSZONEGY-t a Facebookon és a Nostr-on. Támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái a Hotel Aurora és a Hotel Atlantis. És a Firefish üzeni, hogy ne adjátok el a bitcoinotokat!
-
-– Köszi. Mindenkinek.
-
-– Köszönjük még. Sziasztok. Sziasztok.
+Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára, akik személyes támogatást igényelnek, ajánljuk a Bitcoin Mentor szolgáltatásait a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon. A [Bitcoin blogban](https://bitcoinmentor.hu/bitcoin-blog/) egyre több értékes bejegyzést találtok. Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára és a Rumble csatornánkra is! Kövesd a HUSZONEGY-et Facebookon és Nostr-on! Támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó wellness szállodái, a Hotel Aurora és a Hotel Atlantis. És a Firefish üzeni: ne adjátok el a bitcoinotokat!
