@@ -1,5 +1,40 @@
 <script setup lang="ts">
+import { ref, computed, onMounted, onUnmounted } from 'vue'
 import { get_pods, slugify } from '../data/podcasts'
+
+// 1. Minden epizód betöltése a kereséshez (itt a max_count legyen magas, pl. 1000)
+const allPods = get_pods(1000)
+
+const isSearchOpen = ref(false)
+const searchQuery = ref('')
+
+// 2. Keresési logika (Cím + Résztvevők)
+const filteredResults = computed(() => {
+  if (!searchQuery.value.trim()) return []
+  
+  const query = searchQuery.value.toLowerCase()
+  return allPods.filter(pod => {
+  const query = searchQuery.value.toLowerCase();
+  return (
+    pod.name.toLowerCase().includes(query) || 
+    pod.members.some(m => m.toLowerCase().includes(query)) ||
+    pod.id.includes(query) ||
+    (pod.topic && pod.topic.toLowerCase().includes(query)) // Ha van leírás meződ
+  )
+  })
+})
+
+// 3. Billentyűkombináció (CMD/CTRL + K)
+const handleShortcut = (e: KeyboardEvent) => {
+  if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+    e.preventDefault()
+    isSearchOpen.value = !isSearchOpen.value
+  }
+  if (e.key === 'Escape') isSearchOpen.value = false
+}
+
+onMounted(() => window.addEventListener('keydown', handleShortcut))
+onUnmounted(() => window.removeEventListener('keydown', handleShortcut))
 
 defineProps<{
   max_count: number
@@ -7,6 +42,51 @@ defineProps<{
 </script>
 
 <template>
+    <div class="search-section">
+        <div class="search-trigger" @click="isSearchOpen = true">
+        <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+            <circle cx="11" cy="11" r="8" stroke-width="2" />
+            <path d="M21 21l-4.35-4.35" stroke-width="2" stroke-linecap="round" />
+        </svg>
+        <span class="placeholder">Keresés az adások között...</span>
+        <span class="kb-shortcut">Ctrl + K</span>
+        </div>
+    </div>
+
+    <Teleport to="body">
+        <Transition name="fade">
+        <div v-if="isSearchOpen" class="search-overlay" @click.self="isSearchOpen = false">
+            <div class="search-modal">
+            <input 
+                v-model="searchQuery" 
+                v-focus
+                class="search-input"
+                placeholder="Írd be a keresett szót..."
+            />
+
+            <div v-if="searchQuery" class="search-meta">
+                <span class="count">{{ filteredResults.length }}</span> találat
+            </div>
+            
+            <div class="results-area" v-if="filteredResults.length">
+                <router-link 
+                v-for="pod in filteredResults" 
+                :to="'/podcast/' + slugify(pod.name)"
+                class="res-card"
+                @click.self="isSearchOpen = false"
+                >
+                <img :src="pod.img" />
+                <div class="res-details">
+                    <span class="res-id">#{{ pod.id.replace(/\D/g, '') }}</span>
+                    <span class="res-name">{{ pod.name }}</span>
+                </div>
+                </router-link>
+            </div>
+            </div>
+        </div>
+        </Transition>
+    </Teleport>
+
     <div name="links-list" class="container-flex py-3 podcast">
         <div class="row row-cols-2">
             <div v-for="pod in get_pods(max_count)" class="card mx-2 my-2" style="width: 20rem;">
@@ -121,5 +201,141 @@ defineProps<{
 
 .btn-bovebben:hover .arrow {
     transform: translateX(5px);
+}
+
+.search-section {
+  display: flex;
+  justify-content: center; /* Középre igazítás */
+  margin: 2rem 0 3rem 0;
+}
+
+.search-trigger {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  max-width: 500px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  padding: 0.7rem 1.2rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.search-trigger:hover {
+  border-color: #e8860c; /* A te narancssárgád */
+  background: rgba(232, 134, 12, 0.05);
+}
+
+.search-icon {
+  width: 18px;
+  height: 18px;
+  color: #888;
+  margin-right: 12px;
+}
+
+.placeholder {
+  color: #ddd;
+  font-size: 0.9rem;
+  flex-grow: 1;
+  background-color: transparent;
+  opacity: 0.7;
+  cursor: pointer;
+}
+
+.kb-shortcut {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.7rem;
+  color: #ddd;
+  padding: 2px 6px;
+  border-radius: 4px;
+  opacity: 0.7;
+}
+
+/* OVERLAY STÍLUSOK */
+.search-overlay {
+  position: fixed;
+  inset: 0; /* Teljes képernyő */
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start; /* Felülre igazítjuk */
+  padding: 10vh 2rem; /* Adunk neki egy kis keretet minden oldalon */
+  background: rgba(0, 0, 0, 0.85);
+  z-index: 1000;
+  overflow-y: auto; /* Ha nagyon sok a találat, az overlay görögjön, ne a modal! */
+}
+
+.search-modal {
+  width: 100%;
+  max-width: 650px;
+  /* FONTOS: */
+  height: auto; 
+  display: block; 
+  margin-bottom: 5vh; /* Hogy alul is maradjon kattintható sáv */
+}
+
+.search-input {
+  width: 100%;
+  background: #1a1a1a;
+  border: 2px solid #e8860c;
+  border-radius: 12px;
+  padding: 1.2rem 0.9rem;
+  color: white;
+  font-size: 1.2rem;
+  outline: none;
+  box-shadow: 0 0 30px rgba(232, 134, 12, 0.1);
+}
+
+.results-area {
+  margin-top: 1rem;
+  padding: 0.8rem 0;
+  background: #1a1a1a;
+  border-radius: 12px;
+  max-height: 50vh;
+  overflow-y: auto;
+  border: 1px solid #333;
+}
+
+.res-card img {
+  width: 108px;       /* Vagy amekkora méretet szeretnél */
+  height: 60px;
+  border-radius: 6px;
+  object-fit: cover;  /* Ez a kulcs: nem nyomja össze, hanem vágja a képet */
+  flex-shrink: 0;     /* Megakadályozza, hogy a szöveg összenyomja a képet */
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.res-card {
+  display: flex;
+  align-items: center; /* Függőlegesen középre teszi a szöveget a kép mellett */
+  gap: 1.2rem;
+  padding: 1rem;
+  transition: background 0.2s ease;
+}
+
+.res-card:hover { background: #252525; text-decoration: none; } 
+
+.res-id { color: #e8860c; font-family: 'JetBrains Mono'; font-size: 0.8rem; display: block; }
+
+.res-name { color: #ccc; font-weight: 500; }
+
+.fade-enter-active, .fade-leave-active { transition: opacity 0.2s; }
+.fade-enter-from, .fade-leave-to { opacity: 0; }
+
+.search-meta {
+  text-align: left;
+  padding: 1rem 0 0 1rem; /* Egy kis margó a jobb szélétől */
+  font-size: 0.8rem;
+  color: #777;
+  font-family: 'Inter', sans-serif;
+}
+
+.search-meta .count {
+  /* A számokat kiemelhetjük a JetBrains Mono-val, ha használod */
+  font-family: 'JetBrains Mono', monospace;
+  color: #e8860c; 
+  font-weight: 600;
 }
 </style>
