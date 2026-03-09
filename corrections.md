@@ -16,9 +16,14 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - Parker Lois → **Parker Lewis**
 - Árti → **Árpi**
 - Les → **Lez**
+- Lesz → **Lez**
 - Opt-out → **Optout**
 - Caro → **Karo**
 - Henk Penki → **HenkyPenky**
+- Nópara → **Nopara**
+- Antal → **Anti**
+- OpenOMS → **Openoms**
+- Optaut → **Optout**
 
 ## Márka/hely javítások
 
@@ -29,6 +34,8 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - El Salvador (egységesen)
 - 21 Capital → **TwentyOne Capital**
 - Skolár Kiadó → **Scolar Kiadó**
+- Hotel Auróra → **Hotel Aurora**
+- Variáns → Variance
 
 ## Szakkifejezések
 
@@ -43,10 +50,12 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - keynesi ideológia (helyes alak)
 - nód → **node**
 - hashrate
+- multi-sig → **multisig**
 
 ## Formázási konvenciók
 
 - **HUSZONEGY** nagybetűvel ahol a podcast nevére utal (21 → HUSZONEGY)
+- 21-es → HUSZONEGY-es
 - **Nostr-on** kötőjellel
 - `*(nevetés)*` → `(nevetés)` (NEM dőlt formátum)
 - Mondatkezdések nagybetűvel
