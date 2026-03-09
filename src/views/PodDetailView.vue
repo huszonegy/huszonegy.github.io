@@ -131,7 +131,7 @@ useHead({
             <a :href="pod.yt" target="_blank" class="btn btn-yt">
               <i class="bi bi-youtube me-2"></i> YouTube
             </a> <a :href="pod.fountain" target="_blank" class="btn btn-ft">
-              Fountain (Zap!)
+              <i class="bi bi-youtube me-2"></i> Fountain
             </a>
           </div>
 
@@ -149,7 +149,7 @@ useHead({
           </div>
 
           <section class="transcript-section text-start mt-5">
-            <p class="label mb-4">Teljes szöveges átirat</p>
+            <p class="label mb-4">Átirat</p>
             
             <div v-if="isLoading" class="text-center py-5">
               <div class="spinner-border text-warning" role="status"></div>
@@ -164,7 +164,7 @@ useHead({
           </section>
         </div>
 
-        <div class="text-center mt-4">
+        <div class="text-center mt-5 mb-4">
           <router-link to="/podcast" class="back-link">
             ← Vissza az összes adáshoz
           </router-link>
@@ -254,7 +254,7 @@ useHead({
 }
 
 .topic-item-wrapper {
-  padding: 8px 12px;
+  padding: 4px 0;
 }
 
 .text-orange {
@@ -326,6 +326,7 @@ useHead({
 @media (max-width: 768px) {
   .episode-title { font-size: 1.4rem; }
   .btn { width: 100%; justify-content: center; }
+  .topic-list { padding-left: 40px; }
 }
 
 .text-orange { color: #ff9900; }
@@ -358,6 +359,11 @@ useHead({
 
 .transcript-markdown strong {
   color: #ffffff;
+}
+
+.transcript-markdown hr {
+  margin: 2rem 0 !important;
+  color: transparent !important;
 }
 
 /* Finom hangsúly a bekezdéseknek, ha az AI már végzett */
