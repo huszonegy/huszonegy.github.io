@@ -191,10 +191,9 @@ useHead({
 
           <div class="video-wrapper">
             <iframe 
-              id="yt-player"
-              :src="`https://www.youtube.com/embed/${getYouTubeID(pod.yt)}?enablejsapi=1`"
+              :src="`https://www.youtube.com/embed/${getYouTubeID(pod.yt)}?enablejsapi=1&fs=1`"
               frameborder="0"
-              allow="autoplay; encrypted-media"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen"
               allowfullscreen
             ></iframe>
           </div>
