@@ -19,6 +19,7 @@
     "@vueuse/head": "^2.0.0",
     "bootstrap": "^5.3.2",
     "bootstrap-icons": "^1.13.1",
+    "fast-xml-parser": "^5.4.2",
     "marked": "^17.0.4",
     "vite-ssg": "^28.3.0",
     "vue": "^3.3.11",

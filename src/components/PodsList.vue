@@ -1,28 +1,58 @@
 <script setup lang="ts">
-import { ref, computed, onMounted, onUnmounted } from 'vue'
+import { ref, computed, onMounted, onUnmounted, nextTick, watch } from 'vue'
 import { get_pods, slugify } from '../data/podcasts'
+import { useRouter } from 'vue-router';
+
+const router = useRouter();
 
 // 1. Minden epizód betöltése a kereséshez (itt a max_count legyen magas, pl. 1000)
 const allPods = get_pods(1000)
 
+const searchInput = ref<HTMLInputElement | null>(null)
 const isSearchOpen = ref(false)
+
+const goToPodcast = (pod: any) => {
+  if (!pod) return;
+  const slug = slugify(pod.name);
+  router.push(`/podcast/${slug}`);
+  isSearchOpen.value = false;
+  searchQuery.value = ''; // Keresés ürítése navigáció után
+};
+
+const openSearch = () => {
+  isSearchOpen.value = true;
+  
+  // A 50-100ms-os késleltetés általában megoldja a renderelési csúszást
+  setTimeout(() => {
+    searchInput.value?.focus();
+  }, 50);
+};
 const searchQuery = ref('')
 
-// 2. Keresési logika (Cím + Résztvevők)
+// 2. Keresési logika
 const filteredResults = computed(() => {
-  if (!searchQuery.value.trim()) return []
-  
-  const query = searchQuery.value.toLowerCase()
+  const query = searchQuery.value.trim().toLowerCase();
+  if (!query) return [];
+
   return allPods.filter(pod => {
-  const query = searchQuery.value.toLowerCase();
-  return (
-    pod.name.toLowerCase().includes(query) || 
-    pod.members.some(m => m.toLowerCase().includes(query)) ||
-    pod.id.includes(query) ||
-    (pod.topic && pod.topic.toLowerCase().includes(query)) // Ha van leírás meződ
-  )
-  })
-})
+    // 1. Keresés a névben és az ID-ban
+    const nameMatch = pod.name.toLowerCase().includes(query);
+    const idMatch = pod.id.toLowerCase().includes(query);
+    
+    // 2. Keresés a résztvevők között
+    const membersMatch = pod.members?.some(m => m.toLowerCase().includes(query));
+
+    // 3. Keresés az ÚJ fejezetek tömbben (label alapján)
+    const chaptersMatch = pod.chapters?.some(chapter => 
+      chapter.label.toLowerCase().includes(query)
+    );
+
+    // 4. Keresés a régi topic mezőben (ha még megvan)
+    const topicMatch = pod.topic?.toLowerCase().includes(query);
+
+    return nameMatch || idMatch || membersMatch || chaptersMatch || topicMatch;
+  });
+});
 
 // 3. Billentyűkombináció (CMD/CTRL + K)
 const handleShortcut = (e: KeyboardEvent) => {
@@ -30,8 +60,39 @@ const handleShortcut = (e: KeyboardEvent) => {
     e.preventDefault()
     isSearchOpen.value = !isSearchOpen.value
   }
-  if (e.key === 'Escape') isSearchOpen.value = false
+  if (e.key === 'Escape') {
+    isSearchOpen.value = false;
+    searchQuery.value = ''; // Keresés törlése bezáráskor
+  }
 }
+
+const selectedIndex = ref(0);
+
+// Ha megváltozik a keresőkifejezés, ugorjunk vissza az első találatra
+watch(searchQuery, () => {
+  selectedIndex.value = 0;
+});
+
+const handleKeydown = (e: KeyboardEvent) => {
+  if (!filteredResults.value.length) return;
+
+  if (e.key === 'ArrowDown') {
+    e.preventDefault();
+    selectedIndex.value = (selectedIndex.value + 1) % filteredResults.value.length;
+  } 
+  else if (e.key === 'ArrowUp') {
+    e.preventDefault();
+    selectedIndex.value = (selectedIndex.value - 1 + filteredResults.value.length) % filteredResults.value.length;
+  } 
+  else if (e.key === 'Enter') {
+    const selectedPod = filteredResults.value[selectedIndex.value];
+    if (selectedPod) {
+      // Itt hívd meg a navigációs függvényedet (pl. router.push)
+      goToPodcast(selectedPod);
+      isSearchOpen.value = false;
+    }
+  }
+};
 
 onMounted(() => window.addEventListener('keydown', handleShortcut))
 onUnmounted(() => window.removeEventListener('keydown', handleShortcut))
@@ -43,7 +104,7 @@ defineProps<{
 
 <template>
     <div class="search-section">
-        <div class="search-trigger" @click="isSearchOpen = true">
+        <div class="search-trigger mt-3" @click="isSearchOpen = true">
         <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor">
             <circle cx="11" cy="11" r="8" stroke-width="2" />
             <path d="M21 21l-4.35-4.35" stroke-width="2" stroke-linecap="round" />
@@ -54,11 +115,14 @@ defineProps<{
     </div>
 
     <Teleport to="body">
-        <Transition name="fade">
+        <Transition name="fade" @after-enter="() => searchInput?.focus()">
         <div v-if="isSearchOpen" class="search-overlay" @click.self="isSearchOpen = false">
-            <div class="search-modal">
+          <div class="search-modal">
             <input 
-                v-model="searchQuery" 
+                ref="searchInput" 
+                type="text" 
+                v-model="searchQuery"
+                @keydown="handleKeydown"
                 v-focus
                 class="search-input"
                 placeholder="Írd be a keresett szót..."
@@ -69,20 +133,23 @@ defineProps<{
             </div>
             
             <div class="results-area" v-if="filteredResults.length">
-                <router-link 
-                v-for="pod in filteredResults" 
-                :to="'/podcast/' + slugify(pod.name)"
-                class="res-card"
-                @click.self="isSearchOpen = false"
-                >
-                <img :src="pod.img" />
-                <div class="res-details">
-                    <span class="res-id">#{{ pod.id.replace(/\D/g, '') }}</span>
-                    <span class="res-name">{{ pod.name }}</span>
-                </div>
-                </router-link>
+              <router-link 
+                  v-for="(pod, index) in filteredResults" 
+                  :key="pod.id"
+                  :to="'/podcast/' + slugify(pod.name)"
+                  class="res-card"
+                  :class="{ 'active-result': index === selectedIndex }" 
+                  @click="isSearchOpen = false"
+                  @mouseenter="selectedIndex = index"
+              >
+                  <img :src="pod.img" />
+                  <div class="res-details">
+                      <span class="res-id">#{{ pod.id.replace(/\D/g, '') }}</span>
+                      <span class="res-name">{{ pod.name }}</span>
+                  </div>
+              </router-link>
             </div>
-            </div>
+          </div>
         </div>
         </Transition>
     </Teleport>
@@ -108,7 +175,7 @@ defineProps<{
                             <span v-if="index > 0" class="sep">·</span>{{ member }}
                         </template>
                     </div>
-                    <p class="my-3 text-center">
+                    <p class="pt-3 my-3 text-center">
                         <router-link :to="'/podcast/' + slugify(pod.name)" class="btn-bovebben">
                             Bővebben <span class="arrow">&#10095;</span>
                         </router-link>
@@ -142,6 +209,7 @@ defineProps<{
 
 .meta-members {
     display: flex;
+    display: none;
     flex-wrap: wrap;
     gap: 0.15rem;
     margin-bottom: 0.5rem;
@@ -215,7 +283,7 @@ defineProps<{
   width: 100%;
   max-width: 500px;
   background: rgba(255, 255, 255, 0.05);
-  border: 1px solid rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(232, 134, 12, 0.7);
   padding: 0.7rem 1.2rem;
   border-radius: 8px;
   cursor: pointer;
@@ -223,7 +291,7 @@ defineProps<{
 }
 
 .search-trigger:hover {
-  border-color: #e8860c; /* A te narancssárgád */
+  border-color: rgb(232, 134, 12); /* A te narancssárgád */
   background: rgba(232, 134, 12, 0.05);
 }
 
@@ -293,7 +361,7 @@ defineProps<{
   padding: 0.8rem 0;
   background: #1a1a1a;
   border-radius: 12px;
-  max-height: 50vh;
+  max-height: 70vh;
   overflow-y: auto;
   border: 1px solid #333;
 }
@@ -305,6 +373,18 @@ defineProps<{
   object-fit: cover;  /* Ez a kulcs: nem nyomja össze, hanem vágja a képet */
   flex-shrink: 0;     /* Megakadályozza, hogy a szöveg összenyomja a képet */
   border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* A kijelölt elem stílusa */
+.active-result {
+    background-color: rgba(247, 147, 26, 0.15) !important;
+    border-left: 4px solid #f7931a;
+    outline: none;
+}
+
+.res-card {
+    transition: all 0.15s ease;
+    border-left: 4px solid transparent; /* Megakadályozza az ugrálást hoverkor */
 }
 
 .res-card {
