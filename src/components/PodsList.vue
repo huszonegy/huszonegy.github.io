@@ -35,22 +35,24 @@ const filteredResults = computed(() => {
   if (!query) return [];
 
   return allPods.filter(pod => {
-    // 1. Keresés a névben és az ID-ban
-    const nameMatch = pod.name.toLowerCase().includes(query);
-    const idMatch = pod.id.toLowerCase().includes(query);
-    
-    // 2. Keresés a résztvevők között
-    const membersMatch = pod.members?.some(m => m.toLowerCase().includes(query));
+    if (searchMode.value === 'meta') {
+      // 1. Keresés a címben
+      const nameMatch = pod.name.toLowerCase().includes(query);
+      
+      // 2. Keresés az ID-ban (már E96, R05-ként is megtalálja!)
+      const idMatch = pod.id.toLowerCase().includes(query);
+      
+      // 3. Keresés a RÉSZTVEVŐK között (ez jött vissza)
+      const membersMatch = pod.members?.some(m => m.toLowerCase().includes(query));
+      
+      // 4. Keresés a FEJEZETEK-ben
+      const chaptersMatch = pod.chapters?.some(c => c.label.toLowerCase().includes(query));
 
-    // 3. Keresés az ÚJ fejezetek tömbben (label alapján)
-    const chaptersMatch = pod.chapters?.some(chapter => 
-      chapter.label.toLowerCase().includes(query)
-    );
-
-    // 4. Keresés a régi topic mezőben (ha még megvan)
-    const topicMatch = pod.topic?.toLowerCase().includes(query);
-
-    return nameMatch || idMatch || membersMatch || chaptersMatch || topicMatch;
+      return nameMatch || idMatch || membersMatch || chaptersMatch;
+    } else {
+      // Keresés az ÁTIRAT-ban
+      return transcripts.value[pod.id]?.includes(query);
+    }
   });
 });
 
@@ -94,6 +96,72 @@ const handleKeydown = (e: KeyboardEvent) => {
   }
 };
 
+// 'meta' = sorszám, cím, fejezet | 'full' = átirat
+const searchMode = ref<'meta' | 'full'>('meta');
+
+// Ha módot váltunk, érdemes újraindítani a kijelölést
+watch(searchMode, () => {
+  selectedIndex.value = 0;
+});
+
+const transcripts = ref<Record<string, string>>({}); // ID -> Szöveg map
+const isLoadingTranscripts = ref(false);
+
+// Ez a függvény letölti az összes átiratot a GitHub-os mappából
+const loadTranscripts = async () => {
+  if (Object.keys(transcripts.value).length > 0) return; // Már be vannak töltve
+  
+  isLoadingTranscripts.value = true;
+  
+  // Végigmegyünk az összes pod-on és megpróbáljuk letölteni az md-t
+  const promises = allPods.map(async (pod) => {
+    try {
+      const videoId = pod.yt.split(/(vi\/|v=|\/v\/|youtu\.be\/|\/embed\/)/)[2]?.split(/[^0-9a-z_-]/i)[0];
+      const response = await fetch(`/transcripts_clean/ep${pod.id}_${videoId}.md`);
+      if (response.ok) {
+        const text = await response.text();
+        transcripts.value[pod.id] = text.toLowerCase();
+      }
+    } catch (e) {
+      console.error(`Hiba az átirat betöltésekor: ${pod.id}`, e);
+    }
+  });
+
+  await Promise.all(promises);
+  isLoadingTranscripts.value = false;
+};
+
+const getHighlightedSnippet = (text: string, query: string) => {
+  if (!text || !query) return '';
+
+  const lowerText = text.toLowerCase();
+  const lowerQuery = query.toLowerCase();
+  const index = lowerText.indexOf(lowerQuery);
+
+  if (index === -1) return text.slice(0, 100) + '...';
+
+  // 1. Környezet kivágása (40 karakter előtte, 60 utána)
+  const start = Math.max(0, index - 40);
+  const end = Math.min(text.length, index + query.length + 60);
+  let snippet = text.slice(start, end);
+
+  // 2. Biztonság: HTML karakterek eszképelése (hogy ne lehessen XSS)
+  snippet = snippet.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+
+  // 3. Kiemelés: Regex segítségével megkeressük az összes egyezést (kis-nagybetű függetlenül)
+  const escapedQuery = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // Regex karakterek eszképelése
+  const regex = new RegExp(`(${escapedQuery})`, 'gi');
+  
+  return snippet.replace(regex, '<span class="highlight">$1</span>');
+};
+
+// Figyeljük, ha módot vált a júzer
+watch(searchMode, (newMode) => {
+  if (newMode === 'full') {
+    loadTranscripts();
+  }
+});
+
 onMounted(() => window.addEventListener('keydown', handleShortcut))
 onUnmounted(() => window.removeEventListener('keydown', handleShortcut))
 
@@ -118,6 +186,20 @@ defineProps<{
         <Transition name="fade" @after-enter="() => searchInput?.focus()">
         <div v-if="isSearchOpen" class="search-overlay" @click.self="isSearchOpen = false">
           <div class="search-modal">
+            <div class="search-mode-selector">
+              <button 
+                :class="{ active: searchMode === 'meta' }" 
+                @click="searchMode = 'meta'"
+              >
+                címekben, fejezetcímekben, résztvevők és sorszámok között
+              </button>
+              <button 
+                :class="{ active: searchMode === 'full' }" 
+                @click="searchMode = 'full'"
+              >
+                átiratokban
+              </button>
+            </div>
             <input 
                 ref="searchInput" 
                 type="text" 
@@ -127,6 +209,10 @@ defineProps<{
                 class="search-input"
                 placeholder="Írd be a keresett szót..."
             />
+
+            <div v-if="isLoadingTranscripts" class="loading-bar">
+              Átiratok betöltése a villámgyors kereséshez...
+            </div>
 
             <div v-if="searchQuery" class="search-meta">
                 <span class="count">{{ filteredResults.length }}</span> találat
@@ -144,8 +230,14 @@ defineProps<{
               >
                   <img :src="pod.img" />
                   <div class="res-details">
-                      <span class="res-id">#{{ pod.id.replace(/\D/g, '') }}</span>
-                      <span class="res-name">{{ pod.name }}</span>
+                    <span class="res-id">{{ pod.id }}</span>
+                    <span class="res-name">{{ pod.name }}</span>
+                    <div 
+                      v-if="searchMode === 'full' && transcripts[pod.id]" 
+                      class="res-snippet"
+                      v-html="'...' + getHighlightedSnippet(transcripts[pod.id], searchQuery) + '...'"
+                    >
+                    </div>
                   </div>
               </router-link>
             </div>
@@ -167,7 +259,7 @@ defineProps<{
                         {{ pod.name }}
                     </h5>
                     <div class="meta-top">
-                        <span class="episode-num">#{{ pod.id.replace(/\D/g, '') }}</span>
+                        <span class="episode-num">{{ pod.id }}</span>
                         <span class="date">{{ pod.date }}</span>
                     </div>
                     <div class="meta-members">
@@ -397,7 +489,7 @@ defineProps<{
 
 .res-card:hover { background: #252525; text-decoration: none; } 
 
-.res-id { color: #e8860c; font-family: 'JetBrains Mono'; font-size: 0.8rem; display: block; }
+.res-id { color: #e8860c; font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; display: block; }
 
 .res-name { color: #ccc; font-weight: 500; }
 
@@ -417,5 +509,51 @@ defineProps<{
   font-family: 'JetBrains Mono', monospace;
   color: #e8860c; 
   font-weight: 600;
+}
+
+.search-mode-selector {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 12px;
+  justify-content: center;
+}
+
+.search-mode-selector button {
+  background: #222;
+  border: 1px solid #444;
+  color: #888;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: all 0.2s;
+  font-weight: 600;
+}
+
+.search-mode-selector button.active {
+  background: #f7931a; /* Bitcoin narancs */
+  color: #000;
+  border-color: #f7931a;
+}
+
+.search-mode-selector button:hover:not(.active) {
+  border-color: #666;
+  color: #ccc;
+}
+
+/* A :deep azért kell, mert a v-html-lel generált elemekre nem hat a sima scoped CSS */
+.res-snippet :deep(.highlight) {
+  background-color: rgba(247, 147, 26, 0.3); /* Halvány narancs háttér */
+  color: #f7931a; /* Erős narancs betűszín */
+  font-weight: bold;
+  padding: 0 2px;
+  border-radius: 2px;
+}
+
+.res-snippet {
+  font-size: 0.85rem;
+  color: #888;
+  line-height: 1.4;
+  margin-top: 4px;
 }
 </style>
