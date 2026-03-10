@@ -455,7 +455,7 @@ useHead({
 @media (max-width: 768px) {
   .container { padding-left: 0 !important; padding-right: 0 !important; }
   .content-box { padding: 1.5rem 0.5rem; margin-left: 0 !important; margin-right: 0 !important; }
-  .p-5 { padding-left: 0.5rem !important; padding-right: 0.5rem !important; }
+  .p-5 { padding-left: 1rem !important; padding-right: 1rem !important; }
   .btn-group { flex-direction: column; }
 }
 </style>
