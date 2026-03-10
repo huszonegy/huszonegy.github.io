@@ -216,7 +216,7 @@ useHead({
               >
                 <div class="topic-content">
                   <span v-if="item.time" class="topic-time">{{ item.time }}</span>
-                  <span class="topic-text">{{ item.label }}</span>
+                  <span class="topic-text" v-html="item.label"></span>
                 </div>
               </div>
             </div>
