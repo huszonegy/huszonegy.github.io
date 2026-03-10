@@ -194,10 +194,12 @@ useHead({
           <div class="video-wrapper">
             <iframe 
               id="yt-player"
-              :src="`https://www.youtube.com/embed/${getYouTubeID(pod.yt)}?enablejsapi=1&fs=1&origin=${encodeURIComponent(siteOrigin)}`"
+              :src="`https://www.youtube.com/embed/${getYouTubeID(pod.yt)}?enablejsapi=1&fs=1&modestbranding=0&controls=1&rel=0&cc_load_policy=0&origin=${encodeURIComponent(siteOrigin)}`"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen"
-              allowfullscreen
+              allowfullscreen="true"
+              webkitallowfullscreen="true"
+              mozallowfullscreen="true"
             ></iframe>
           </div>
 
@@ -384,6 +386,7 @@ useHead({
 /* --- VIDEÓ --- */
 .video-wrapper {
   width: 100%;
+  min-width: 320px;
   max-width: 700px;
   margin: 2.5rem auto;
   aspect-ratio: 16 / 9;
