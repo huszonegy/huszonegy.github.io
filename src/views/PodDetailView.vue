@@ -127,6 +127,8 @@ const getYouTubeID = (url: string) => {
   return (match && match[2].length === 11) ? match[2] : url;
 };
 
+const siteOrigin = typeof window !== 'undefined' ? window.location.origin : '';
+
 // Ez a függvény mondja meg az SSG-nek, hogy mi kerüljön a HTML-be
 useHead({
   title: computed(() => pod.value ? `${pod.value.id}: ${pod.value.name} | HUSZONEGY Bitcoin podcast` : 'HUSZONEGY Podcast'),
@@ -191,7 +193,8 @@ useHead({
 
           <div class="video-wrapper">
             <iframe 
-              :src="`https://www.youtube.com/embed/${getYouTubeID(pod.yt)}?enablejsapi=1&fs=1`"
+              id="yt-player"
+              :src="`https://www.youtube.com/embed/${getYouTubeID(pod.yt)}?enablejsapi=1&fs=1&origin=${encodeURIComponent(siteOrigin)}`"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen"
               allowfullscreen
