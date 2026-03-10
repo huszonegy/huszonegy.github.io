@@ -78,12 +78,32 @@ const timeToSeconds = (timeStr: string) => {
 };
 
 const seekTo = (timeStr: string) => {
-  const seconds = timeToSeconds(timeStr);
-  const iframe = document.querySelector('iframe');
-  if (iframe && iframe.src) {
-    // Frissítjük az src-t a start paraméterrel a pod.yt link alapján
-    const baseUrl = embedUrl.value.split('?')[0];
-    iframe.src = `${baseUrl}?start=${seconds}&autoplay=1`;
+  // 1. Átváltjuk az "05:12" formátumot másodpercekre
+  const parts = timeStr.split(':').map(Number);
+  let seconds = 0;
+  if (parts.length === 3) {
+    seconds = parts[0] * 3600 + parts[1] * 60 + parts[2];
+  } else {
+    seconds = parts[0] * 60 + parts[1];
+  }
+
+  // 2. Megkeressük az iframe-et
+  const iframe = document.getElementById('yt-player') as HTMLIFrameElement;
+  
+  if (iframe && iframe.contentWindow) {
+    // 3. Küldünk egy "postMessage" üzenetet a YouTube lejátszónak
+    // Ez a natív módja a seek parancsnak anélkül, hogy újratöltenénk az iframe-et
+    iframe.contentWindow.postMessage(JSON.stringify({
+      event: 'command',
+      func: 'seekTo',
+      args: [seconds, true]
+    }), '*');
+
+    // Mobil trükk: néha kell egy 'playVideo' parancs is utána, ha megállna a lejátszó
+    iframe.contentWindow.postMessage(JSON.stringify({
+      event: 'command',
+      func: 'playVideo'
+    }), '*');
   }
 };
 
@@ -99,15 +119,13 @@ const seoDescription = computed(() => {
     : pod.value.topic;
 });
 
-const embedUrl = computed(() => {
-  if (!pod.value) return '';
-  
-  // Megkeressük a 'v=' utáni részt (pl. watch?v=dQw4w9WgXcQ)
-  // vagy kezeli a rövidített linket is (youtu.be/dQw4w9WgXcQ)
-  const videoId = pod.value.yt.split(/(vi\/|v=|\/v\/|youtu\.be\/|\/embed\/)/)[2]?.split(/[^0-9a-z_-]/i)[0];
-  
-  return `https://www.youtube.com/embed/${videoId}`;
-});
+const getYouTubeID = (url: string) => {
+  if (!url) return '';
+  // Ez a Regex kiszedi az ID-t a rövidített és a hosszú linkekből is
+  const regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]*).*/;
+  const match = url.match(regExp);
+  return (match && match[2].length === 11) ? match[2] : url;
+};
 
 // Ez a függvény mondja meg az SSG-nek, hogy mi kerüljön a HTML-be
 useHead({
@@ -171,12 +189,13 @@ useHead({
             {{ pod.members.join(' · ') }}
           </div>
 
-          <div v-if="pod.yt" class="video-wrapper">
+          <div class="video-wrapper">
             <iframe 
-              :src="embedUrl" 
-              frameborder="0" 
+              id="yt-player"
+              :src="`https://www.youtube.com/embed/${getYouTubeID(pod.yt)}?enablejsapi=1`"
+              frameborder="0"
+              allow="autoplay; encrypted-media"
               allowfullscreen
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             ></iframe>
           </div>
 
