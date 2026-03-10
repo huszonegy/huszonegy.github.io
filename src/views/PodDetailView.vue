@@ -386,7 +386,7 @@ useHead({
 /* --- VIDEÓ --- */
 .video-wrapper {
   width: 100%;
-  min-width: 320px;
+  min-width: 300px;
   max-width: 700px;
   margin: 2.5rem auto;
   aspect-ratio: 16 / 9;
@@ -453,7 +453,8 @@ useHead({
 
 /* Mobilos finomítás */
 @media (max-width: 768px) {
-  .content-box { padding: 1.5rem 1.2rem; }
+  .container { padding-left: 0 !important; padding-right: 0 !important; }
+  .content-box { padding: 1.5rem 0.5rem; margin-left: 0 !important; margin-right: 0 !important; }
   .btn-group { flex-direction: column; }
 }
 </style>
