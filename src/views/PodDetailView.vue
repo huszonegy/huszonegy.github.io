@@ -1,9 +1,10 @@
 <script setup lang="ts">
 import { useRoute } from 'vue-router';
-import { get_pod_by_slug } from '../data/podcasts';
+import { get_pod_by_slug, parseTopics } from '../data/podcasts';
 import { useHead } from '@vueuse/head';
 import { ref, onMounted, computed } from 'vue';
 import { marked } from 'marked';
+import { watch } from 'vue';
 
 marked.use({
   renderer: {
@@ -14,24 +15,35 @@ marked.use({
 });
 
 const route = useRoute();
-const pod = get_pod_by_slug(route.params.slug as string);
+const pod = computed(() => get_pod_by_slug(route.params.slug as string));
 const transcriptText = ref('');
 const isLoading = ref(true);
 const isMarkdown = ref(false);
 
 const topicList = computed(() => {
-  if (!pod || !pod.topic) return [];
-  return pod.topic.split(' - ');
+  if (!pod.value) return [];
+  // Ha van chapters, használjuk azt, ha nincs, marad a régi topic-szétszedés
+  return (pod.value.chapters && pod.value.chapters.length > 0) 
+    ? pod.value.chapters 
+    : parseTopics(pod.value.topic || '');
 });
 
 const fetchTranscript = async () => {
-  if (pod) {
-    try {
-      const videoId = pod.yt.split('v=')[1] || pod.yt.split('/').pop();
-      const basePath = `/transcripts_clean/ep${pod.id}_${videoId}`;
-      
-      // Try .md first, fallback to .txt
-      let response = await fetch(`${basePath}.md`);
+  // 1. Mindig állítsuk alaphelyzetbe az elején
+  isLoading.value = true;
+  transcriptText.value = "";
+
+  // 2. Ha nincs meg az epizód, állítsuk le a töltést és lépjünk ki
+  if (!pod.value || !pod.value.yt) {
+    isLoading.value = false;
+    return;
+  }
+
+  try {
+    const videoId = pod.value.yt.split(/(vi\/|v=|\/v\/|youtu\.be\/|\/embed\/)/)[2]?.split(/[^0-9a-z_-]/i)[0];
+    const basePath = `/transcripts_clean/ep${pod.value.id}_${videoId}`;
+    
+    let response = await fetch(`${basePath}.md`);
       if (response.ok) {
         const mdText = await response.text();
         transcriptText.value = await marked(mdText);
@@ -45,11 +57,33 @@ const fetchTranscript = async () => {
           transcriptText.value = "Az adás átirata hamarosan elérhető lesz.";
         }
       }
-    } catch (e) {
-      transcriptText.value = "Hiba történt a tartalom betöltésekor.";
-    } finally {
-      isLoading.value = false;
-    }
+  } catch (e) {
+    transcriptText.value = "Hiba történt a tartalom betöltésekor.";
+  } finally {
+    // 3. Ez kerüljön legkívülre: mindenképpen állítsuk le a töltést!
+    isLoading.value = false;
+  }
+};
+
+// Figyeljük, ha változik az epizód (slug), és töltsük be az átiratot
+watch(() => route.params.slug, () => {
+  fetchTranscript();
+}, { immediate: true }); // Az immediate váltja ki a legelső betöltést is
+
+// Segédfüggvény: "05:12" formátum átalakítása másodpercekké
+const timeToSeconds = (timeStr: string) => {
+  const parts = timeStr.split(':').map(Number);
+  if (parts.length === 3) return parts[0] * 3600 + parts[1] * 60 + parts[2];
+  return parts[0] * 60 + parts[1];
+};
+
+const seekTo = (timeStr: string) => {
+  const seconds = timeToSeconds(timeStr);
+  const iframe = document.querySelector('iframe');
+  if (iframe && iframe.src) {
+    // Frissítjük az src-t a start paraméterrel a pod.yt link alapján
+    const baseUrl = embedUrl.value.split('?')[0];
+    iframe.src = `${baseUrl}?start=${seconds}&autoplay=1`;
   }
 };
 
@@ -59,26 +93,36 @@ onMounted(() => {
 
 // Kiszámoljuk a leírást (SEO barát hosszúság)
 const seoDescription = computed(() => {
-  if (!pod) return '';
-  return pod.topic.length > 160 
-    ? pod.topic.substring(0, 157) + '...' 
-    : pod.topic;
+  if (!pod.value) return '';
+  return pod.value.topic.length > 160 
+    ? pod.value.topic.substring(0, 157) + '...' 
+    : pod.value.topic;
+});
+
+const embedUrl = computed(() => {
+  if (!pod.value) return '';
+  
+  // Megkeressük a 'v=' utáni részt (pl. watch?v=dQw4w9WgXcQ)
+  // vagy kezeli a rövidített linket is (youtu.be/dQw4w9WgXcQ)
+  const videoId = pod.value.yt.split(/(vi\/|v=|\/v\/|youtu\.be\/|\/embed\/)/)[2]?.split(/[^0-9a-z_-]/i)[0];
+  
+  return `https://www.youtube.com/embed/${videoId}`;
 });
 
 // Ez a függvény mondja meg az SSG-nek, hogy mi kerüljön a HTML-be
 useHead({
-  title: computed(() => pod ? `${pod.id}: ${pod.name} | HUSZONEGY Bitcoin podcast` : 'HUSZONEGY Podcast'),
+  title: computed(() => pod.value ? `${pod.value.id}: ${pod.value.name} | HUSZONEGY Bitcoin podcast` : 'HUSZONEGY Podcast'),
   meta: [
     { name: 'description', content: seoDescription },
-    { name: 'author', content: computed(() => pod?.members.join(', ') || 'HUSZONEGY csapat') },
+    { name: 'author', content: computed(() => pod.value?.members.join(', ') || 'HUSZONEGY csapat') },
     // Open Graph (Facebook, Discord stb.)
-    { property: 'og:title', content: computed(() => pod?.name || '') },
+    { property: 'og:title', content: computed(() => pod.value?.name || '') },
     { property: 'og:description', content: seoDescription },
-    { property: 'og:image', content: computed(() => pod ? `https://huszonegy.world${pod.img}` : '') },
+    { property: 'og:image', content: computed(() => pod.value ? `https://huszonegy.world${pod.value.img}` : '') },
     { property: 'og:type', content: 'video.episode' },
     // Twitter
     { name: 'twitter:card', content: 'summary_large_image' },
-    { name: 'twitter:title', content: computed(() => pod?.name || '') },
+    { name: 'twitter:title', content: computed(() => pod.value?.name || '') },
   ],
   link: [
     { rel: 'canonical', href: computed(() => `https://huszonegy.world${route.fullPath}`) }
@@ -89,10 +133,10 @@ useHead({
       children: computed(() => JSON.stringify({
         "@context": "https://schema.org",
         "@type": "PodcastEpisode",
-        "name": pod?.name,
-        "description": pod?.topic,
-        "datePublished": pod?.date, // Győződj meg róla, hogy ez ISO formátum-e
-        "image": `https://huszonegy.world${pod?.img}`,
+        "name": pod.value?.name,
+        "description": pod.value?.topic,
+        "datePublished": pod.value?.date, // Győződj meg róla, hogy ez ISO formátum-e
+        "image": `https://huszonegy.world${pod.value?.img}`,
         "url": `https://huszonegy.world${route.fullPath}`,
         "partOfSeries": {
           "@type": "PodcastSeries",
@@ -103,6 +147,7 @@ useHead({
     }
   ]
 });
+
 </script>
 
 <template>
@@ -110,42 +155,56 @@ useHead({
     <div class="row justify-content-center">
       <div class="col-lg-10">
         
-        <div class="content-box p-4 p-md-5 text-center">
+        <div class="content-box p-5 text-center">
           
           <h1 class="episode-title mb-3 text-center">
             <span class="ep-id">
-              {{ pod.id }}:
+              {{ pod.id }}
             </span> 
             {{ pod.name }}
           </h1>
           
-          <div class="meta-info mb-5 text-center">
-            {{ pod.date }} | {{ pod.members.join(' & ') }} </div>
+          <div class="meta-info mt-3 mb-3 text-center">
+            <span class="date">
+              {{ pod.date }}
+            </span>
+            {{ pod.members.join(' · ') }}
+          </div>
 
-          <div class="image-container mb-5 text-center">
-            <a :href="pod.yt" target="_blank" title="Megnyitás YouTube-on">
-              <img :src="pod.img" :alt="pod.name" class="podcast-img" /> </a>
+          <div v-if="pod.yt" class="video-wrapper">
+            <iframe 
+              :src="embedUrl" 
+              frameborder="0" 
+              allowfullscreen
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            ></iframe>
+          </div>
+
+          <div class="description-area text-start mt-5">
+            <p class="label mb-4 text-orange">Az adás tartalmából</p>
+            
+            <div class="topic-timeline">
+              <div 
+                v-for="(item, index) in topicList" 
+                :key="index" 
+                class="topic-item"
+                :class="{ 'clickable': item.time }"
+                @click="item.time ? seekTo(item.time) : null"
+              >
+                <div class="topic-content">
+                  <span v-if="item.time" class="topic-time">{{ item.time }}</span>
+                  <span class="topic-text">{{ item.label }}</span>
+                </div>
+              </div>
+            </div>
           </div>
 
           <div class="action-area d-flex flex-wrap gap-3 justify-content-center mt-5">
             <a :href="pod.yt" target="_blank" class="btn btn-yt">
               <i class="bi bi-youtube me-2"></i> YouTube
             </a> <a :href="pod.fountain" target="_blank" class="btn btn-ft">
-              <i class="bi bi-youtube me-2"></i> Fountain
+              <i class="bi bi-mic me-2"></i> Fountain
             </a>
-          </div>
-
-          <div class="description-area text-start mt-5">
-            <p class="label mb-4">Az adás tartalmából</p>
-            
-            <div class="topic-list">
-              <div v-for="(item, index) in topicList" :key="index" class="topic-item-wrapper">
-                <h2 class="topic-title">
-                  <i class="bi bi-dot me-1 text-orange display-6"></i>
-                  <span class="topic-text">{{ item }}</span>
-                </h2>
-              </div>
-            </div>
           </div>
 
           <section class="transcript-section text-start mt-5">
@@ -180,52 +239,68 @@ useHead({
   color: #fff;
 }
 
+/* --- ANIMÁCIÓK --- */
 @keyframes orange-pill-absorb {
-  0% {
-    border-color: #333;
-    box-shadow: inset 0 0 0 0 rgba(247, 147, 26, 0);
-  }
-  50% { /* Itt tetőzik a fény */
-    border-color: #f7931a;
-    box-shadow: inset 0 0 50px 15px rgba(247, 147, 26, 0.25);
-  }
-  100% { /* Itt megint várakozik */
-    border-color: #333;
-    box-shadow: inset 0 0 0 0 rgba(247, 147, 26, 0);
-  }
+  0% { border-color: #333; box-shadow: inset 0 0 0 0 rgba(247, 147, 26, 0); }
+  50% { border-color: #f7931a; box-shadow: inset 0 0 50px 15px rgba(247, 147, 26, 0.25); }
+  100% { border-color: #333; box-shadow: inset 0 0 0 0 rgba(247, 147, 26, 0); }
 }
 
+/* Finom pulzálás a pöttyöknek */
+@keyframes pulse-dot {
+  0% { transform: translateX(-50%) scale(1); opacity: 0.4; }
+  50% { transform: translateX(-50%) scale(1.2); opacity: 0.7; }
+  100% { transform: translateX(-50%) scale(1); opacity: 0.4; }
+}
+
+/* --- KONTÉNER --- */
 .content-box {
   background: rgba(44, 44, 44, .8) !important;
   border: 1px solid #333;
   border-radius: 4px;
   box-shadow: 0 20px 40px rgba(0,0,0,0.5);
   animation: orange-pill-absorb 5s ease-in-out;
+  /* Megemelt oldalsó padding, hogy ne szaladjon szélre a tartalom */
+  padding: 2.5rem 3.5rem; 
+  max-width: 1000px;
+  margin: 0 auto;
 }
 
-/* Kisebb és finomabb cím stílus */
+/* --- SZÖVEGES SZEKCIÓK IGAZÍTÁSA --- */
+/* Ez biztosítja, hogy a szövegek középen maradjanak és ne legyenek túl szélesek */
+.episode-header, .topic-timeline, .transcript-content, .btn-group {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* --- FEJLÉC --- */
 .episode-title {
-  font-weight: 700;
-  font-size: 1.6rem; /* Jelentősen kisebb lett (2.2rem-ről) */
+  font-weight: 800;
+  font-size: 1.8rem;
   color: #ffffff;
   line-height: 1.3;
+  margin-top: 0.5rem;
 }
 
-/* Az epizód számának kiemelése */
 .ep-id {
   color: #f7931a;
-  margin-right: 5px;
+  margin-bottom: 5px;
+  display: block;
+  font-size: 0.9rem;
+  font-weight: 400;
+  font-family: 'JetBrains Mono', monospace;
 }
 
 .meta-info {
-  color: #888;
+  color: #999;
   font-size: 0.95rem;
+  opacity: 0.7;
+  margin-bottom: 1.5rem;
 }
 
-.podcast-img {
-  width: 260px;
-  height: auto;
-  border-radius: 4px;
+.date {
+  color: orange;
 }
 
 .label {
@@ -233,143 +308,128 @@ useHead({
   color: #f7931a;
   text-transform: uppercase;
   font-weight: 600;
+  margin-bottom: 1.5rem;
+  display: block;
 }
 
-/* LISTA JAVÍTÁSOK */
-.topic-list {
-  list-style-type: none;
-  padding-left: 40px; /* Bal oldali padding hozzáadva */
-  margin-bottom: 0;
+/* --- TIMELINE --- */
+.topic-timeline {
+  position: relative;
+  padding-left: 2.5rem;
+  border-left: 1px solid rgba(247, 147, 26, 0.2);
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 
-/* A H2 trükk: SEO-nak cím, szemnek sima szöveg */
-.topic-title {
-  font-size: 1.1rem; /* Ugyanakkora, mint az eredeti listaelem volt */
-  font-weight: 500;
-  color: #ccc;
-  margin: 0;
-  display: flex;
-  align-items: center;
+.topic-item {
+  position: relative;
+  margin-bottom: 1.2rem;
+}
+
+.topic-item::before {
+  content: '';
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  left: -2.5rem; 
+  transform: translateX(-50%);
+  top: 0.6rem; 
+  background-color: #f7931a;
+  border-radius: 50%;
+  z-index: 2;
+  /* Pulzálás bekapcsolása */
+  animation: pulse-dot 3s infinite ease-in-out;
+}
+
+.topic-item.clickable { cursor: pointer; }
+
+/* Ha rámutatunk, fixen világít és megáll a pulzálás */
+.topic-item.clickable:hover::before {
+  animation: none;
+  opacity: 1;
+  transform: translateX(-50%) scale(1.3);
+}
+
+.topic-content { display: flex; flex-direction: column; }
+.topic-time { font-family: 'JetBrains Mono', monospace; color: #888; font-size: 0.85rem; font-weight: 400; margin-bottom: 2px; }
+.topic-text { color: #ccc; font-size: 1rem; line-height: 1.4; transition: color 0.2s ease; }
+
+@media (min-width: 768px) {
+  .topic-content { flex-direction: row; align-items: baseline; gap: 15px; }
+  .topic-time { min-width: 55px; flex-shrink: 0; }
+  .topic-item.clickable:hover .topic-text, .topic-item.clickable:hover .topic-time { color: #f7931a; }
+}
+
+/* --- VIDEÓ --- */
+.video-wrapper {
+  width: 100%;
+  max-width: 700px;
+  margin: 2.5rem auto;
+  aspect-ratio: 16 / 9;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 30px 60px rgba(0,0,0,0.5);
+  border: 1px solid rgba(255,255,255,0.05);
+}
+
+.video-wrapper iframe { width: 100%; height: 100%; }
+
+/* --- ÁTIRAT --- */
+.transcript-content {
+  white-space: normal;
+  line-height: 1.5; /* Kicsit szorosabb sorok */
+  text-align: left;
+}
+
+/* A :deep() megmondja a Vue-nak, hogy nézzen be a v-html által generált elemek közé is */
+.transcript-content :deep(p) {
+  margin-bottom: 1.5rem !important;
+  margin-top: 0 !important;
   line-height: 1.5;
 }
 
-.topic-item-wrapper {
-  padding: 4px 0;
+/* Ha vannak üres bekezdéseid, azokat is így tudod elrejteni */
+.transcript-content :deep(p:empty),
+.transcript-content :deep(p:has(br:only-child)) {
+  display: none !important;
 }
 
-.text-orange {
-  color: #f7931a;
-  font-size: 1.2rem;
+.transcript-content :deep(hr) {
+  opacity: 0;
+  height: 1rem;
 }
 
-.topic-text {
-  border-bottom: 1px solid transparent;
+.transcript-markdown a { color: #f7931a; text-decoration: underline; }
+
+/* --- GOMBOK --- */
+.btn-group {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  margin: 2rem 0;
 }
 
-.topic-chapter h2 {
-  border-left: 3px solid #f7931a;
-  padding-left: 15px;
-  line-height: 1.4;
-  /* SEO szempontból H2, de vizuálisan maradjon elegáns */
-  font-size: 1.25rem; 
-}
-
-.topic-sections {
-  margin-bottom: 3rem;
-}
-
-/* GOMBOK */
 .btn {
-  padding: 6px 28px;
+  padding: 8px 24px;
   font-weight: 600;
-  border-radius: 6px; 
+  border-radius: 6px;
   text-decoration: none !important;
   font-size: 0.9rem;
-  border: none;
-  transition: opacity 0.2s;
   display: inline-flex;
   align-items: center;
+  transition: all 0.2s;
 }
 
-.btn:hover {
-  text-decoration: none !important;
-  opacity: 0.85;
-}
+.btn-yt { background-color: #cc0000; color: #fff; }
+.btn-ft { background-color: #f7931a; color: #000; }
+.btn:hover { opacity: 0.85; transform: translateY(-1px); }
 
-.btn-yt {
-  background-color: #cc0000;
-  color: #fff;
-}
+.back-link { color: #f7931a; font-size: 0.9rem; opacity: 0.7; text-decoration: none; }
+.back-link:hover { opacity: 1; text-decoration: underline; }
 
-.btn-ft {
-  background-color: #f7931a;
-  color: #000;
-}
-
-.me-2 {
-  margin-right: 0.5rem;
-  font-size: 1.8em;
-}
-
-.back-link {
-  color: #f7931a;
-  text-decoration: none;
-  font-weight: 500;
-  opacity: 0.7;
-}
-
-.back-link:hover {
-  opacity: 1;
-  text-decoration: underline;
-}
-
+/* Mobilos finomítás */
 @media (max-width: 768px) {
-  .episode-title { font-size: 1.4rem; }
-  .btn { width: 100%; justify-content: center; }
-  .topic-list { padding-left: 40px; }
+  .content-box { padding: 1.5rem 1.2rem; }
+  .btn-group { flex-direction: column; }
 }
-
-.text-orange { color: #ff9900; }
-
-.transcript-content {
-  white-space: pre-wrap; /* Megtartja a sortöréseket */
-  line-height: 1.8;
-  font-size: 1.1rem;
-  color: #f0f0f0;
-  text-align: justify;
-  /* Nincs max-height, így hosszan fut lefelé az oldalon */
-}
-
-.transcript-markdown {
-  white-space: normal;
-}
-
-.transcript-markdown p {
-  margin-bottom: 1em;
-}
-
-.transcript-markdown a {
-  color: #f7931a;
-  text-decoration: underline;
-}
-
-.transcript-markdown a:hover {
-  color: #ffc107;
-}
-
-.transcript-markdown strong {
-  color: #ffffff;
-}
-
-.transcript-markdown hr {
-  margin: 2rem 0 !important;
-  color: transparent !important;
-}
-
-/* Finom hangsúly a bekezdéseknek, ha az AI már végzett */
-.description-area, .transcript-section {
-  max-width: 850px; /* Olvashatóbb szélesség a hosszú szöveghez */
-  margin: 0 auto;
-}
-
 </style>
