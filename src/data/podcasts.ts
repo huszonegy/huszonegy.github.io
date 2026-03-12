@@ -1,6 +1,62 @@
 // Data for Podcasts
 
 export const podcasts = [
+        {
+                name: "Tank vagy porcelán? – A szabad piac nem kér engedélyt",
+                id: "E97",
+                chapters: [
+                    {
+                        time: "00:00",
+                        label: "Közel 100 epizód és a bináris matematika"
+                    },
+                    {
+                        time: "03:15",
+                        label: "Vibe coding: AI a Bitcoin fejlesztésében"
+                    },
+                    {
+                        time: "08:00",
+                        label: "USB-C és a központi tervezés csapdája"
+                    },
+                    {
+                        time: "14:15",
+                        label: "A Bitcoin nem pénz, hanem egy mém"
+                    },
+                    {
+                        time: "19:15",
+                        label: "Miért van szükségünk a fájdalomra?"
+                    },
+                    {
+                        time: "24:57",
+                        label: "Elronthatjuk-e az emberiség találmányát?"
+                    },
+                    {
+                        time: "31:09",
+                        label: "Animal Farm: senki ne legyen egyenlőbb!"
+                    },
+                    {
+                        time: "36:06",
+                        label: "Hogyan menti meg a világot az önzés?"
+                    },
+                    {
+                        time: "41:18",
+                        label: "A Bitcoin nem porcelán, hanem egy tank"
+                    },
+                    {
+                        time: "49:01",
+                        label: "Miért értéktelen a node-od, ha nem használod?"
+                    },
+                    {
+                        time: "55:18",
+                        label: "Meg lehet-e tiltani egy számot?"
+                    }
+                ],
+                img: "/pics/e97.jpg",
+                date: "2026.03.12.",
+                members: ["Anti", "l0rinc", "Árpi"],
+                topic: "Közel 100 epizód és a bináris matematika - Vibe coding: AI a Bitcoin fejlesztésében - USB-C és a központi tervezés csapdája - A Bitcoin nem pénz, hanem egy mém - Miért van szükségünk a fájdalomra? - Elronthatjuk-e az emberiség találmányát? - Animal Farm: senki ne legyen egyenlőbb! - Hogyan menti meg a világot az önzés? - A Bitcoin nem porcelán, hanem egy tank - Miért értéktelen a node-od, ha nem használod? - Meg lehet-e tiltani egy számot?",
+                yt: "https://youtu.be/Umh_0RBYXPU",
+                fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        },
     {
         name: "Így veszünk bitcoint személyes adatok nélkül: RoboSats",
         id: "E96",
