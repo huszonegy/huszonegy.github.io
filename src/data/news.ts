@@ -7,7 +7,7 @@ export const news = [
     {
         summary: "Podcast kereső, beágyazott lejátszó",
         date: "2026.03.12.",
-        html: "<a href='/podcast'>Podcast oldalaink</a> kiegészültek egy keresővel, ami keres a címekben és a fejezetcímekben, illetve lehet keresni sorszámra és a résztvevők nevére is. Az epizódok oldalai pedig kiegészültek átirattal és időbélyeges fejezetcímekkel + beágyazott youtube videóval, így egy fejezetcímre kattintva odaugrik a lejátszó a kívánt részhez. Jó böngészést!",
+        html: "<a href='/podcast'>Podcast oldalaink</a> kiegészültek egy keresővel, ami keres a címekben és a fejezetcímekben, illetve lehet keresni sorszámra, a résztvevők nevére valamint az átiratokban is. Az epizódok oldalai pedig kiegészültek átirattal és időbélyeges fejezetcímekkel + beágyazott youtube videóval, így egy fejezetcímre kattintva odaugrik a lejátszó a kívánt részhez. Jó böngészést!",
         img: "/pics/huszonegy-bitcoin-podcast-kereso.png",
         link: "/podcast"
     },
