@@ -3,6 +3,36 @@
 
 export const articles = [
     {
+        name: "Hogyan rabolta el a német állam a hatalmat",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "Joana Cotar, a Bundestag volt képviselője és az Inside Bundestag című könyv szerzője egy könyörtelen belső látleletet ad a német parlament működéséről. A cikk a Michael Meyen újságíróval készült videóinterjúja alapján mutatja be, hogyan rabolta el az állam a hatalmat, miért a pártok irányítják a képviselőket, és miért a Bitcoin jelenti a valódi kiutat a rendszerből.",
+        link: "https://bitcoinmentor.hu/hogyan-rabolta-el-a-nemet-allam-a-hatalmat/",
+        img: "/article/hogyan-rabolta-el-a-nemet-allam-a-hatalmat.png",
+        cat: "bevezető",
+        id: 47
+    },
+    {
+        name: "Digitális kontroll és véleménynyilvánítási szabadság",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "A gyermekvédelem nemes célja mögé bújva egy olyan megfigyelési rendszer épül ki, amely a teljes digitális életünket kontroll alá vonná. Ez az írás rávilágít a 'chat control' és a CBDC-k veszélyeire, megmutatva, hogyan válik a személyazonosságunk és pénzforgalmunk a központi hatalom eszközévé, és miért elengedhetetlen a Bitcoin a szabadságunk megőrzéséhez.",
+        link: "https://bitcoinmentor.hu/digitalis-kontroll-es-velemenynyilvanitasi-szabadsag/",
+        img: "/article/digitalis-kontroll-es-velemenynyilvanitasi-szabadsag.png",
+        cat: "bevezető",
+        id: 46
+    },
+    {
+        name: "A technológia serdülőkora",
+        origin: "fordító: árpi",
+        lang: "hu",
+        text: "Az exponenciális technológiai fejlődés, különösen a mesterséges intelligencia (AI) korában, olyan kihívásokkal szembesülünk, amelyekre a hagyományos pénzügyi és társadalmi rendszerek nincsenek felkészülve. Ez a gondolatébresztő fordítás a Bitcoin és az AI kapcsolatát, a 'powerful AI' kockázataival és a technológia által kínált új lehetőségeket elemzi a jövőnk szempontjából.",
+        link: "https://bitcoinmentor.hu/a-technologia-serdulokora/",
+        img: "/article/a-technologia-serdulokora.png",
+        cat: "bevezető",
+        id: 45
+    },
+    {
         name: "A legjobb kriptovaluta tárolási megoldások",
         origin: "szerző: árpi",
         lang: "hu",
