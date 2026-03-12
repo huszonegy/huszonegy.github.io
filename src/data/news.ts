@@ -5,6 +5,13 @@
 
 export const news = [
     {
+        summary: "Podcast kereső, beágyazott lejátszó",
+        date: "2026.03.12.",
+        html: "<a href='/podcast'>Podcast oldalaink</a> kiegészültek egy keresővel, ami keres a címekben és a fejezetcímekben, illetve lehet keresni sorszámra és a résztvevők nevére is. Az epizódok oldalai pedig kiegészültek átirattal és időbélyeges fejezetcímekkel + beágyazott youtube videóval, így egy fejezetcímre kattintva odaugrik a lejátszó a kívánt részhez. Jó böngészést!",
+        img: "/pics/huszonegy-bitcoin-podcast-kereso.png",
+        link: "/podcast"
+    },
+    {
         summary: "Podcast aloldalak átiratokkal",
         date: "2026.02.28.",
         html: "Legfrissebb adásunkban a medvepiaci túlélés praktikáiról, a BIP-110 körüli spam-szűrési és cenzúra vitáról, a kvantum-számítástechnikára felkészülő BIP-360 javaslatról, német politikai reformtörekvésekről és a validátor mizéria folytatásáról beszélgettünk.<br/><br/>Egyúttal megújult a <a href='/podcast'>podcast</a> oldalunk: mostantól minden epizód saját aloldallal rendelkezik, ahol a beszélgetés átirata is olvasható. Ez lehetővé teszi a tartalomban való könnyebb keresést. Az átiratok egyelőre többnyire nyers formátumban érhetők el, a finomítás tervben van.",
