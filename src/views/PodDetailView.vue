@@ -43,7 +43,15 @@ const fetchTranscript = async () => {
   }
 
   try {
-    const videoId = pod.value.yt.split(/(vi\/|v=|\/v\/|youtu\.be\/|\/embed\/)/)[2]?.split(/[^0-9a-z_-]/i)[0];
+    const ytUrl = pod.value.yt;
+    const regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*/;
+    const match = ytUrl.match(regExp);
+    const videoId = (match && match[7].length === 11) ? match[7] : null;
+
+    if (!videoId) {
+        throw new Error("Érvénytelen YouTube URL");
+    }
+
     const mdKey = `../../public/transcripts_clean/ep${pod.value.id}_${videoId}.md`;
 
     if (transcriptModules[mdKey]) {
@@ -55,6 +63,7 @@ const fetchTranscript = async () => {
       isMarkdown.value = false;
     }
   } catch (e) {
+    console.error("Hiba az átirat betöltésekor:", e);
     transcriptText.value = "Hiba történt a tartalom betöltésekor.";
   } finally {
     isLoading.value = false;
