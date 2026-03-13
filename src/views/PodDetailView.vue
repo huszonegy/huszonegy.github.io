@@ -28,12 +28,17 @@ const topicList = computed(() => {
     : parseTopics(pod.value.topic || '');
 });
 
+// 1. Definiáljuk a modulokat, amik a szövegeket tartalmazzák. 
+// Ez megkeresi az összes .md és .txt fájlt a mappában.
+const transcriptModules = import.meta.glob('../../public/transcripts_clean/*.{md,txt}', { 
+  query: '?raw', 
+  import: 'default' 
+});
+
 const fetchTranscript = async () => {
-  // 1. Mindig állítsuk alaphelyzetbe az elején
   isLoading.value = true;
   transcriptText.value = "";
 
-  // 2. Ha nincs meg az epizód, állítsuk le a töltést és lépjünk ki
   if (!pod.value || !pod.value.yt) {
     isLoading.value = false;
     return;
@@ -41,26 +46,27 @@ const fetchTranscript = async () => {
 
   try {
     const videoId = pod.value.yt.split(/(vi\/|v=|\/v\/|youtu\.be\/|\/embed\/)/)[2]?.split(/[^0-9a-z_-]/i)[0];
-    const basePath = `/transcripts_clean/ep${pod.value.id}_${videoId}`;
     
-    let response = await fetch(`${basePath}.md`);
-      if (response.ok) {
-        const mdText = await response.text();
-        transcriptText.value = await marked(mdText);
-        isMarkdown.value = true;
-      } else {
-        response = await fetch(`${basePath}.txt`);
-        if (response.ok) {
-          transcriptText.value = await response.text();
-          isMarkdown.value = false;
-        } else {
-          transcriptText.value = "Az adás átirata hamarosan elérhető lesz.";
-        }
-      }
+    // 2. Összeállítjuk a kulcsokat a kereséshez (relatív az aktuális fájlhoz!)
+    const mdKey = `../../public/transcripts_clean/ep${pod.value.id}_${videoId}.md`;
+    const txtKey = `../../public/transcripts_clean/ep${pod.value.id}_${videoId}.txt`;
+
+    if (transcriptModules[mdKey]) {
+      // Ha megvan a Markdown változat, betöltjük
+      const rawContent = await (transcriptModules[mdKey] as () => Promise<string>)();
+      transcriptText.value = await marked(rawContent);
+      isMarkdown.value = true;
+    } else if (transcriptModules[txtKey]) {
+      // Ha csak sima szöveg van, azt töltjük be
+      transcriptText.value = await (transcriptModules[txtKey] as () => Promise<string>)();
+      isMarkdown.value = false;
+    } else {
+      transcriptText.value = "Az adás átirata hamarosan elérhető lesz.";
+    }
   } catch (e) {
+    console.error("Hiba az átirat betöltésekor:", e);
     transcriptText.value = "Hiba történt a tartalom betöltésekor.";
   } finally {
-    // 3. Ez kerüljön legkívülre: mindenképpen állítsuk le a töltést!
     isLoading.value = false;
   }
 };
@@ -68,7 +74,9 @@ const fetchTranscript = async () => {
 // Figyeljük, ha változik az epizód (slug), és töltsük be az átiratot
 watch(() => route.params.slug, () => {
   fetchTranscript();
-}, { immediate: true }); // Az immediate váltja ki a legelső betöltést is
+}, { immediate: false });
+
+await fetchTranscript();
 
 // Segédfüggvény: "05:12" formátum átalakítása másodpercekké
 const timeToSeconds = (timeStr: string) => {
@@ -106,10 +114,6 @@ const seekTo = (timeStr: string) => {
     }), '*');
   }
 };
-
-onMounted(() => {
-  fetchTranscript();
-});
 
 // Kiszámoljuk a leírást (SEO barát hosszúság)
 const seoDescription = computed(() => {
@@ -203,8 +207,8 @@ useHead({
             ></iframe>
           </div>
 
-          <div class="description-area text-start mt-5">
-            <p class="label mb-4 text-orange">Az adás tartalmából</p>
+          <div class="description-area mt-5">
+            <p class="label mb-4">Az adás tartalmából</p>
             
             <div class="topic-timeline">
               <div 
@@ -333,6 +337,10 @@ useHead({
   font-weight: 600;
   margin-bottom: 1.5rem;
   display: block;
+  text-align: left;
+  max-width: 75ch;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* --- TIMELINE --- */
@@ -342,6 +350,7 @@ useHead({
   border-left: 1px solid rgba(247, 147, 26, 0.2);
   margin-top: 2rem;
   margin-bottom: 2rem;
+  max-width: 75ch;
 }
 
 .topic-item {
@@ -400,16 +409,28 @@ useHead({
 
 /* --- ÁTIRAT --- */
 .transcript-content {
-  white-space: normal;
-  line-height: 1.5; /* Kicsit szorosabb sorok */
-  text-align: left;
+  line-height: 1.7; /* Növelt sorköz a jobb olvashatóságért */
+  color: #e0e0e0;   /* Tiszta fehér helyett egy nagyon világos szürke (pihentetőbb a szemnek) */
+  max-width: 75ch;  /* Az "arany középút" sorhosszúság (kb. 75 karakter) */
+  margin-top: 2rem;
 }
 
-/* A :deep() megmondja a Vue-nak, hogy nézzen be a v-html által generált elemek közé is */
+/* Bekezdések közötti távolság és szöveg elrendezés */
 .transcript-content :deep(p) {
-  margin-bottom: 1.5rem !important;
-  margin-top: 0 !important;
-  line-height: 1.5;
+  margin-bottom: 1.8rem !important; /* Szellősebb térköz a bekezdések között */
+  letter-spacing: 0.01rem;          /* Finom betűköz az olvashatóságért */
+}
+
+/* Kiemelések (ha a Markdownban van **bold**) */
+.transcript-content :deep(strong) {
+  font-weight: 600;
+}
+
+/* Időbélyegek vagy nevek formázása (ha sor elején vannak) */
+.transcript-content :deep(b), 
+.transcript-content :deep(strong) {
+  display: inline-block;
+  margin-top: 0.5rem;
 }
 
 /* Ha vannak üres bekezdéseid, azokat is így tudod elrejteni */
