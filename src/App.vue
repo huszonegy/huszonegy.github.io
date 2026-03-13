@@ -3,6 +3,7 @@ import { RouterView } from 'vue-router'
 
 import Footer from './components/Footer.vue'
 import TopNav from './components/TopNav.vue'
+import ScrollTop from './components/ScrollTop.vue';
 import { useRouteHead } from './composables/useRouteHead'
 
 useRouteHead()
@@ -25,7 +26,7 @@ useRouteHead()
           </Suspense>
         </RouterView>
       </div>
-
+      <ScrollTop />
       <Footer />
     </div>
   </header>
