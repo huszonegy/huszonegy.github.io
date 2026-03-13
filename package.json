@@ -7,11 +7,11 @@
     "node": ">=20"
   },
   "scripts": {
-    "dev": "vite",
-    "build": "run-p type-check \"build-only {@}\" --",
-    "preview": "vite preview",
-    "build-only": "vite-ssg build",
-    "type-check": "vue-tsc --build --force"
+  "dev": "vite",
+  "build": "run-p type-check \"build-only {@}\" --",
+  "build-only": "vite-ssg build && sed -E -i \"s|(<loc>https://huszonegy.world/podcast[^<]*</loc><lastmod>)[^<]*</lastmod>|\\1$(date +%Y-%m-%dT%H:%M:%S.000Z)</lastmod>|g\" dist/sitemap.xml",
+  "preview": "vite preview",
+  "type-check": "vue-tsc --build --force"
   },
   "dependencies": {
     "@popperjs/core": "^2.11.8",
