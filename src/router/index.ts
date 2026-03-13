@@ -169,7 +169,11 @@ export const routes: RouteRecordRaw[] = [
     component: () => import('../views/NotFoundView.vue'),
     meta: { title: 'Oldal nem található - HUSZONEGY' }
   },
-  { path: '/:pathMatch(.*)*', redirect: '/404' }
+  { 
+    path: '/:pathMatch(.*)*', 
+    component: () => import('../views/NotFoundView.vue'),
+    meta: { title: 'Oldal nem található - HUSZONEGY' }
+  }
 ]
 
 const router = createRouter({
