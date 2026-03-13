@@ -55,7 +55,7 @@ export const podcasts = [
                 members: ["Anti", "l0rinc", "Árpi"],
                 topic: "Közel 100 epizód és a bináris matematika - Vibe coding: AI a Bitcoin fejlesztésében - USB-C és a központi tervezés csapdája - A Bitcoin nem pénz, hanem egy mém - Miért van szükségünk a fájdalomra? - Elronthatjuk-e az emberiség találmányát? - Animal Farm: senki ne legyen egyenlőbb! - Hogyan menti meg a világot az önzés? - A Bitcoin nem porcelán, hanem egy tank - Miért értéktelen a node-od, ha nem használod? - Meg lehet-e tiltani egy számot?",
                 yt: "https://youtu.be/Umh_0RBYXPU",
-                fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+                fountain: "https://fountain.fm/episode/rj8EvwhHs2ibHJg4LJ85"
         },
     {
         name: "Így veszünk bitcoint személyes adatok nélkül: RoboSats",
