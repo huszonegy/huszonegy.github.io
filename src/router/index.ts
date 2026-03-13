@@ -69,7 +69,7 @@ export const routes: RouteRecordRaw[] = [
   },
   {
     path: '/podcast/:slug',
-    name: 'podcast-detail',
+    name: 'PodDetailView',
     component: () => import('../views/PodDetailView.vue'),
     props: true
   },
@@ -181,8 +181,10 @@ const router = createRouter({
   history: import.meta.env.SSR 
     ? createMemoryHistory(import.meta.env.BASE_URL) 
     : createWebHistory(import.meta.env.BASE_URL),
-  routes
+  routes,
+  linkActiveClass: 'active',
 })
+
 
 // EZ A RÉSZ FRISSÍTI A BÖNGÉSZŐT, DE CSAK HA TÉNYLEG BÖNGÉSZŐBEN VAGYUNK
 if (!import.meta.env.SSR) {

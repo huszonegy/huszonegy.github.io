@@ -35,9 +35,10 @@ onUnmounted(() => {
         viewBox="0 0 24 24" 
         fill="none" 
         stroke="currentColor" 
-        stroke-width="2.5" 
+        stroke-width="1.8" 
         stroke-linecap="round" 
         stroke-linejoin="round"
+        class="chevron-icon"
       >
         <polyline points="18 15 12 9 6 15"></polyline>
       </svg>
@@ -46,46 +47,60 @@ onUnmounted(() => {
 </template>
 
 <style scoped>
+/* --- ASZTALI NÉZET (Alapértelmezett) --- */
 .scroll-btn {
   position: fixed;
-  bottom: 40px;
-  right: 40px;
+  bottom: 30px;
+  right: 30px;
   width: 40px;
   height: 40px;
   z-index: 1000;
   opacity: 0.7;
   
-  /* Bitcoin narancs háttér */
   background-color: #f7931a;
   color: white;
-  
   border: none;
-  border-radius: 12px; /* Nem teljesen kör, hanem lekerekített négyzet (modern stílus) */
+  border-radius: 12px;
   cursor: pointer;
   display: flex;
   align-items: center;
   justify-content: center;
   
-  /* Finom árnyék */
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
-  
-  /* Simább átmenetek */
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.scroll-btn svg {
-  width: 22px;
-  height: 22px;
+/* Az ikon mérete asztalin */
+.chevron-icon {
+  width: 24px;
+  height: 24px;
 }
 
 .scroll-btn:hover {
   background-color: #ff9f1c;
-  opacity: 1; /* Ahogy kérted, itt válik teljesen láthatóvá */
-  transform: scale(1.1); /* 10%-kal megnő a mérete */
+  opacity: 1;
+  transform: scale(1.1); /* Méretnövekedés hovernél */
   box-shadow: 0 6px 20px rgba(247, 147, 26, 0.4);
 }
 
-/* Animáció a megjelenéshez/eltűnéshez */
+/* --- MOBIL NÉZET (768px alatt) --- */
+@media (max-width: 768px) {
+  .scroll-btn {
+    bottom: 20px;
+    right: 20px;
+    width: 40px;
+    height: 40px;
+    opacity: 0.7;
+  }
+
+  .chevron-icon {
+    width: 28px; /* Mobilon nagyobb ikon */
+    height: 28px;
+    stroke-width: 2.2; /* Mobilon picit vastagabb szálak a jobb láthatóságért */
+  }
+}
+
+/* Animáció */
 .back-to-top-enter-active,
 .back-to-top-leave-active {
   transition: all 0.4s ease;

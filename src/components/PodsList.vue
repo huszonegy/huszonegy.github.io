@@ -344,6 +344,7 @@ defineProps<{
     text-decoration: none;
     letter-spacing: 0.02em;
     transition: border-color 0.3s ease, color 0.3s ease;
+    opacity: 0.8;
 }
 
 .btn-bovebben .arrow {
@@ -357,6 +358,7 @@ defineProps<{
     color: #f5a623;
     border-color: #f5a623;
     text-decoration: none;
+    opacity: 1;
 }
 
 .btn-bovebben:hover .arrow {

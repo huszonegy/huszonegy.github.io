@@ -469,7 +469,7 @@ useHead({
 .btn:hover { opacity: 0.85; transform: translateY(-1px); }
 
 .back-link { color: #f7931a; font-size: 0.9rem; opacity: 0.7; text-decoration: none; }
-.back-link:hover { opacity: 1; text-decoration: underline; }
+.back-link:hover { opacity: 1; }
 
 /* Mobilos finomítás */
 @media (max-width: 768px) {

@@ -23,7 +23,13 @@
                         <router-link class="nav-link" to="/cikk">Cikk</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link class="nav-link" to="/podcast">Podcast</router-link>
+                        <router-link 
+                            class="nav-link" 
+                            to="/podcast" 
+                            :class="{ 'router-link-active': $route.name === 'PodDetailView' }"
+                            >
+                            Podcast
+                        </router-link>
                     </li>
                     <li class="nav-item">
                         <router-link class="nav-link" to="/eloadas">Előadás</router-link>
