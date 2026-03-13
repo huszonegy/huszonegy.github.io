@@ -115,7 +115,7 @@ export default defineConfig({
     preprocessorOptions: {
       scss: {
         quietDeps: true,
-        silenceDeprecations: ['import', 'global-builtin', 'color-functions', 'mixed-decls'],
+        silenceDeprecations: ['import', 'global-builtin', 'color-functions'],
       },
     },
   },
