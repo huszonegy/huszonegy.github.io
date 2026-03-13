@@ -28,9 +28,7 @@ const topicList = computed(() => {
     : parseTopics(pod.value.topic || '');
 });
 
-// 1. Definiáljuk a modulokat, amik a szövegeket tartalmazzák. 
-// Ez megkeresi az összes .md és .txt fájlt a mappában.
-const transcriptModules = import.meta.glob('../../public/transcripts_clean/*.{md,txt}', { 
+const transcriptModules = import.meta.glob('../../public/transcripts_clean/*.md', { 
   query: '?raw', 
   import: 'default' 
 });
@@ -46,25 +44,17 @@ const fetchTranscript = async () => {
 
   try {
     const videoId = pod.value.yt.split(/(vi\/|v=|\/v\/|youtu\.be\/|\/embed\/)/)[2]?.split(/[^0-9a-z_-]/i)[0];
-    
-    // 2. Összeállítjuk a kulcsokat a kereséshez (relatív az aktuális fájlhoz!)
     const mdKey = `../../public/transcripts_clean/ep${pod.value.id}_${videoId}.md`;
-    const txtKey = `../../public/transcripts_clean/ep${pod.value.id}_${videoId}.txt`;
 
     if (transcriptModules[mdKey]) {
-      // Ha megvan a Markdown változat, betöltjük
       const rawContent = await (transcriptModules[mdKey] as () => Promise<string>)();
       transcriptText.value = await marked(rawContent);
       isMarkdown.value = true;
-    } else if (transcriptModules[txtKey]) {
-      // Ha csak sima szöveg van, azt töltjük be
-      transcriptText.value = await (transcriptModules[txtKey] as () => Promise<string>)();
-      isMarkdown.value = false;
     } else {
       transcriptText.value = "Az adás átirata hamarosan elérhető lesz.";
+      isMarkdown.value = false;
     }
   } catch (e) {
-    console.error("Hiba az átirat betöltésekor:", e);
     transcriptText.value = "Hiba történt a tartalom betöltésekor.";
   } finally {
     isLoading.value = false;
