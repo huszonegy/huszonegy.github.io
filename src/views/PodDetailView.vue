@@ -381,7 +381,7 @@ useHead({
   transform: translateX(-50%) scale(1.3);
 }
 
-.topic-content { display: flex; flex-direction: column; }
+.topic-content { display: flex; flex-direction: column; text-align: left; }
 .topic-time { font-family: 'JetBrains Mono', monospace; color: #888; font-size: 0.85rem; font-weight: 400; margin-bottom: 2px; }
 .topic-text { color: #ccc; font-size: 1rem; line-height: 1.4; transition: color 0.2s ease; }
 
@@ -475,7 +475,7 @@ useHead({
 @media (max-width: 768px) {
   .container { padding-left: 0 !important; padding-right: 0 !important; }
   .content-box { padding: 1.5rem 0.5rem; margin-left: 0 !important; margin-right: 0 !important; }
-  .p-5 { padding-left: 1rem !important; padding-right: 1rem !important; }
+  .p-5 { padding: 1.5rem !important; }
   .btn-group { flex-direction: column; }
 }
 </style>
