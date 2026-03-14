@@ -25,14 +25,14 @@ import { link_simplified } from '../utils'
         <div class="row row-cols-2">
             <div v-for="kebab in kebabs" class="card mx-2 my-2" style="width: 20rem;">
                 <div class="card-body">
-                    <h4 class="my-3">
+                    <div class="my-3">
                         <a :href="kebab.yt" target="_blank" class="link">
                             <img :src="kebab.img" :alt="kebab.name" :title="kebab.name" />
                         </a>
-                    </h4>
-                    <h5 class="top">
+                    </div>
+                    <h3 class="kebab-title">
                         {{ kebab.name }}
-                    </h5>
+                    </h3>
                     <p class="small my-3 grey">
                         {{ kebab.date }}<span v-for="member in kebab.members">&nbsp;|&nbsp;{{ member }}</span> 
                     </p>
@@ -51,4 +51,10 @@ import { link_simplified } from '../utils'
 </template>
 
 <style scoped>
+.kebab-title {
+    margin-top: 20px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    line-height: 1.35;
+}
 </style>
