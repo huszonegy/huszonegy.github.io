@@ -288,14 +288,16 @@ defineProps<{
         <div class="row row-cols-2">
             <div v-for="pod in get_pods(max_count)" class="card mx-2 my-2" style="width: 20rem;">
                 <div class="card-body">
-                    <h4 class="my-3">
+                    <div class="card-img my-3">
                         <router-link :to="'/podcast/' + slugify(pod.name)" class="link">
                             <img :src="pod.img" :alt="pod.name" :title="pod.name" />
                         </router-link>
-                    </h4>
-                    <h5 class="top">
-                        {{ pod.name }}
-                    </h5>
+                    </div>
+                    <h3 class="card-episode-title">
+                        <router-link :to="'/podcast/' + slugify(pod.name)">
+                            {{ pod.name }}
+                        </router-link>
+                    </h3>
                     <div class="meta-top">
                         <span class="episode-num">{{ pod.id }}</span>
                         <span class="date">{{ pod.date }}</span>
@@ -317,6 +319,42 @@ defineProps<{
 </template>
 
 <style scoped>
+.card {
+    display: flex;
+    flex-direction: column;
+}
+
+.card .card-body {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.card .card-body .text-center:last-child {
+    margin-top: auto !important;
+}
+
+.card-img {
+    text-align: center;
+}
+
+.card-episode-title {
+    margin-top: 20px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    line-height: 1.35;
+}
+
+.card-episode-title a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.card-episode-title a:hover {
+    color: #f7931a;
+    text-decoration: none;
+}
+
 .meta-top {
     display: flex;
     align-items: baseline;
