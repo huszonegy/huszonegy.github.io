@@ -115,11 +115,37 @@ const seekTo = (timeStr: string) => {
 };
 
 // Kiszámoljuk a leírást (SEO barát hosszúság)
+// A fejezetcímekből építünk értelmes meta description-t, időbélyegek nélkül
 const seoDescription = computed(() => {
-  if (!pod.value) return '';
-  return pod.value.topic.length > 160 
-    ? pod.value.topic.substring(0, 157) + '...' 
-    : pod.value.topic;
+  if (!pod.value) return 'HUSZONEGY Bitcoin podcast – magyar nyelvű Bitcoin beszélgetések.';
+  
+  // Fejezetcímekből készítünk összefoglalót
+  const chapters = topicList.value;
+  if (chapters && chapters.length > 0) {
+    const labels = chapters
+      .map((ch: { label: string }) => ch.label.replace(/<[^>]*>/g, '').trim()) // HTML tagek eltávolítása
+      .filter((l: string) => l.length > 0);
+    const joined = `${pod.value.name}. Témák: ${labels.join(', ')}`;
+    return joined.length > 155 ? joined.substring(0, 152) + '...' : joined;
+  }
+
+  // Fallback: az epizód neve + résztvevők
+  const fallback = `${pod.value.name} – HUSZONEGY Bitcoin podcast. Résztvevők: ${pod.value.members.join(', ')}.`;
+  return fallback.length > 155 ? fallback.substring(0, 152) + '...' : fallback;
+});
+
+// Dátum konvertálása ISO 8601 formátumba a Schema.org számára
+// "2026.03.12." → "2026-03-12"
+const isoDate = computed(() => {
+  if (!pod.value?.date) return '';
+  return pod.value.date.replace(/\./g, '-').replace(/-$/, '');
+});
+
+// Epizódszám kinyerése az id-ből (pl. "E97" → 97, "R07" → undefined)
+const episodeNumber = computed(() => {
+  if (!pod.value?.id) return undefined;
+  const match = pod.value.id.match(/^E(\d+)$/);
+  return match ? parseInt(match[1]) : undefined;
 });
 
 const getYouTubeID = (url: string) => {
@@ -136,37 +162,92 @@ const siteOrigin = typeof window !== 'undefined' ? window.location.origin : '';
 useHead({
   title: computed(() => pod.value ? `${pod.value.id}: ${pod.value.name} | HUSZONEGY Bitcoin podcast` : 'HUSZONEGY Podcast'),
   meta: [
+    // Alap SEO
     { name: 'description', content: seoDescription },
     { name: 'author', content: computed(() => pod.value?.members.join(', ') || 'HUSZONEGY csapat') },
-    // Open Graph (Facebook, Discord stb.)
-    { property: 'og:title', content: computed(() => pod.value?.name || '') },
+    { name: 'robots', content: 'index, follow' },
+
+    // Open Graph (Facebook, Discord, Telegram stb.)
+    { property: 'og:title', content: computed(() => pod.value ? `${pod.value.name} | HUSZONEGY Bitcoin podcast` : '') },
     { property: 'og:description', content: seoDescription },
     { property: 'og:image', content: computed(() => pod.value ? `https://huszonegy.world${pod.value.img}` : '') },
-    { property: 'og:type', content: 'video.episode' },
-    // Twitter
+    { property: 'og:type', content: 'article' },
+    { property: 'og:url', content: computed(() => `https://huszonegy.world${route.path}`) },
+    { property: 'og:site_name', content: 'HUSZONEGY – csak bitcoinról, magyarul' },
+    { property: 'og:locale', content: 'hu_HU' },
+    { property: 'article:published_time', content: isoDate },
+    { property: 'article:section', content: 'Bitcoin Podcast' },
+    { property: 'article:tag', content: 'Bitcoin' },
+    { property: 'article:tag', content: 'podcast' },
+    { property: 'article:tag', content: 'magyar' },
+
+    // Twitter / X
     { name: 'twitter:card', content: 'summary_large_image' },
-    { name: 'twitter:title', content: computed(() => pod.value?.name || '') },
+    { name: 'twitter:site', content: '@HUSZONEGYworld' },
+    { name: 'twitter:title', content: computed(() => pod.value ? `${pod.value.name} | HUSZONEGY` : '') },
+    { name: 'twitter:description', content: seoDescription },
+    { name: 'twitter:image', content: computed(() => pod.value ? `https://huszonegy.world${pod.value.img}` : '') },
   ],
   link: [
-    { rel: 'canonical', href: computed(() => `https://huszonegy.world${route.fullPath}`) }
+    { rel: 'canonical', href: computed(() => `https://huszonegy.world${route.path}`) }
   ],
   script: [
     {
       type: 'application/ld+json',
-      children: computed(() => JSON.stringify({
-        "@context": "https://schema.org",
-        "@type": "PodcastEpisode",
-        "name": pod.value?.name,
-        "description": pod.value?.topic,
-        "datePublished": pod.value?.date, // Győződj meg róla, hogy ez ISO formátum-e
-        "image": `https://huszonegy.world${pod.value?.img}`,
-        "url": `https://huszonegy.world${route.fullPath}`,
-        "partOfSeries": {
-          "@type": "PodcastSeries",
-          "name": "HUSZONEGY Bitcoin Podcast",
-          "url": "https://huszonegy.world/podcast"
+      children: computed(() => {
+        if (!pod.value) return '{}';
+        
+        const ytId = getYouTubeID(pod.value.yt);
+        
+        const jsonLd: Record<string, unknown> = {
+          "@context": "https://schema.org",
+          "@type": "PodcastEpisode",
+          "name": pod.value.name,
+          "description": topicList.value
+            .map((ch: { label: string }) => ch.label.replace(/<[^>]*>/g, '').trim())
+            .filter((l: string) => l.length > 0)
+            .join('. '),
+          "datePublished": isoDate.value,
+          "inLanguage": "hu",
+          "image": `https://huszonegy.world${pod.value.img}`,
+          "url": `https://huszonegy.world${route.path}`,
+          "partOfSeries": {
+            "@type": "PodcastSeries",
+            "name": "HUSZONEGY Bitcoin Podcast",
+            "url": "https://huszonegy.world/podcast",
+            "inLanguage": "hu",
+            "description": "A HUSZONEGY magyar bitcoiner közösség heti rendszerességgel megjelenő beszélgetés-sorozata a Bitcoin világáról."
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "HUSZONEGY",
+            "url": "https://huszonegy.world"
+          },
+          "contributor": pod.value.members.map((name: string) => ({
+            "@type": "Person",
+            "name": name
+          }))
+        };
+
+        // Epizódszám, ha van (E-vel kezdődő id-k)
+        if (episodeNumber.value) {
+          jsonLd["episodeNumber"] = episodeNumber.value;
         }
-      }))
+
+        // YouTube videó mint associatedMedia
+        if (ytId) {
+          jsonLd["associatedMedia"] = {
+            "@type": "VideoObject",
+            "name": pod.value.name,
+            "embedUrl": `https://www.youtube.com/embed/${ytId}`,
+            "url": pod.value.yt,
+            "uploadDate": isoDate.value,
+            "thumbnailUrl": `https://img.youtube.com/vi/${ytId}/maxresdefault.jpg`
+          };
+        }
+
+        return JSON.stringify(jsonLd);
+      })
     }
   ]
 });
