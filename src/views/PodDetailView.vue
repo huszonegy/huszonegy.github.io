@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { useRoute } from 'vue-router';
-import { get_pod_by_slug, parseTopics } from '../data/podcasts';
+import { get_pod_by_slug, get_adjacent_pods, parseTopics } from '../data/podcasts';
 import { useHead } from '@vueuse/head';
 import { ref, onMounted, computed } from 'vue';
 import { marked } from 'marked';
@@ -16,6 +16,15 @@ marked.use({
 
 const route = useRoute();
 const pod = computed(() => get_pod_by_slug(route.params.slug as string));
+
+// Előző / következő epizód a navigációhoz
+const adjacentPods = computed(() => {
+  if (!route.params.slug) return { prev: null, next: null };
+  return get_adjacent_pods(route.params.slug as string);
+});
+const prevPod = computed(() => adjacentPods.value.prev);
+const nextPod = computed(() => adjacentPods.value.next);
+
 const transcriptText = ref('');
 const isLoading = ref(true);
 const isMarkdown = ref(false);
@@ -73,6 +82,7 @@ const fetchTranscript = async () => {
 // Figyeljük, ha változik az epizód (slug), és töltsük be az átiratot
 watch(() => route.params.slug, () => {
   fetchTranscript();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
 }, { immediate: false });
 
 await fetchTranscript();
@@ -330,9 +340,34 @@ useHead({
           </section>
         </div>
 
-        <div class="text-center mt-5 mb-4">
+        <!-- Előző / Következő epizód navigáció -->
+        <nav class="episode-nav mt-5 mb-3" aria-label="Epizód navigáció">
+          <router-link 
+            v-if="prevPod" 
+            :to="`/podcast/${prevPod.slug}`" 
+            class="ep-nav-link ep-nav-prev"
+          >
+            <span class="ep-nav-direction">← Előző epizód</span>
+            <span class="ep-nav-id">{{ prevPod.id }}</span>
+            <span class="ep-nav-title">{{ prevPod.name }}</span>
+          </router-link>
+          <div v-else class="ep-nav-link ep-nav-placeholder"></div>
+
+          <router-link 
+            v-if="nextPod" 
+            :to="`/podcast/${nextPod.slug}`" 
+            class="ep-nav-link ep-nav-next"
+          >
+            <span class="ep-nav-direction">Következő epizód →</span>
+            <span class="ep-nav-id">{{ nextPod.id }}</span>
+            <span class="ep-nav-title">{{ nextPod.name }}</span>
+          </router-link>
+          <div v-else class="ep-nav-link ep-nav-placeholder"></div>
+        </nav>
+
+        <div class="text-center mb-4">
           <router-link to="/podcast" class="back-link">
-            ← Vissza az összes adáshoz
+            ↑ Összes adás
           </router-link>
         </div>
 
@@ -549,6 +584,68 @@ useHead({
 .btn-ft { background-color: #f7931a; color: #000; }
 .btn:hover { opacity: 0.85; transform: translateY(-1px); }
 
+/* --- EPIZÓD NAVIGÁCIÓ --- */
+.episode-nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ep-nav-link {
+  display: flex;
+  flex-direction: column;
+  padding: 20px 24px;
+  background: rgba(44, 44, 44, .6);
+  border: 1px solid #333;
+  border-radius: 4px;
+  text-decoration: none !important;
+  transition: border-color 0.25s, background 0.25s;
+}
+
+.ep-nav-link:not(.ep-nav-placeholder):hover {
+  border-color: #f7931a;
+  background: rgba(247, 147, 26, 0.06);
+}
+
+.ep-nav-placeholder {
+  background: transparent;
+  border-color: transparent;
+  pointer-events: none;
+}
+
+.ep-nav-prev { text-align: left; }
+.ep-nav-next { text-align: right; }
+
+.ep-nav-direction {
+  font-size: 0.8rem;
+  color: #f7931a;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  margin-bottom: 8px;
+}
+
+.ep-nav-id {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.8rem;
+  color: #666;
+  margin-bottom: 2px;
+}
+
+.ep-nav-title {
+  font-size: 0.95rem;
+  color: #ccc;
+  line-height: 1.35;
+  transition: color 0.2s;
+}
+
+.ep-nav-link:not(.ep-nav-placeholder):hover .ep-nav-title {
+  color: #fff;
+}
+
 .back-link { color: #f7931a; font-size: 0.9rem; opacity: 0.7; text-decoration: none; }
 .back-link:hover { opacity: 1; }
 
@@ -558,5 +655,7 @@ useHead({
   .content-box { padding: 1.5rem 0.5rem; margin-left: 0 !important; margin-right: 0 !important; }
   .p-5 { padding: 1.5rem !important; }
   .btn-group { flex-direction: column; }
+  .episode-nav { grid-template-columns: 1fr; }
+  .ep-nav-next { text-align: left; }
 }
 </style>

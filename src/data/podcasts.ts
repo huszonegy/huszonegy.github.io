@@ -4710,3 +4710,27 @@ export const parseTopics = (topic: string) => {
         return { time, label };
     }).filter(item => item.label.length > 0);
 };
+
+/**
+ * Visszaadja az adott slug-hoz tartozó epizód előző és következő szomszédját.
+ * 
+ * Az epizódok sorrendje a podcast lista oldalon látható sorrend (legújabb elöl).
+ * "Előző" = régebbi (listán lentebb), "Következő" = újabb (listán fentebb).
+ * 
+ * Az első epizódnak nincs "előző"-je, a legújabbnak nincs "következő"-je.
+ */
+export function get_adjacent_pods(slug: string) {
+        const index = podcasts.findIndex(p => slugify(p.name) === slug);
+      
+        if (index === -1) return { prev: null, next: null };
+      
+        const withSlug = (p: typeof podcasts[number]) => ({
+          ...p,
+          slug: slugify(p.name),
+        });
+      
+        return {
+          prev: index < podcasts.length - 1 ? withSlug(podcasts[index + 1]) : null,
+          next: index > 0 ? withSlug(podcasts[index - 1]) : null,
+        };
+}

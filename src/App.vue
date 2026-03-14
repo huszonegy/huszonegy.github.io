@@ -1,5 +1,6 @@
 <script setup lang="ts">
-import { RouterView } from 'vue-router'
+import { RouterView, useRoute } from 'vue-router'
+import { ref, watch } from 'vue'
 
 import Footer from './components/Footer.vue'
 import TopNav from './components/TopNav.vue'
@@ -7,6 +8,22 @@ import ScrollTop from './components/ScrollTop.vue';
 import { useRouteHead } from './composables/useRouteHead'
 
 useRouteHead()
+
+const route = useRoute()
+const shouldScroll = ref(false)
+
+// Navigációkor jelezzük, hogy a következő renderelés után scroll kell
+watch(() => route.fullPath, () => {
+  shouldScroll.value = true;
+})
+
+// Suspense @resolve: az új oldal ténylegesen renderelődött
+const onSuspenseResolve = () => {
+  if (shouldScroll.value) {
+    shouldScroll.value = false;
+    window.scrollTo(0, 0);
+  }
+}
 </script>
 
 <template>
@@ -16,7 +33,7 @@ useRouteHead()
 
       <div class="centerpage container">
         <RouterView v-slot="{ Component }">
-          <Suspense>
+          <Suspense @resolve="onSuspenseResolve">
             <template #default>
               <component :is="Component" />
             </template>
