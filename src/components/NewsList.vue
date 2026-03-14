@@ -9,14 +9,14 @@ defineProps<{
 
 <template>
     <div name="links-list" class="container-flex news">
-        <div v-for="nn in get_news(max_count)" class="card my-4" style="width: 80pct;">
+        <div v-for="nn in get_news(max_count)" class="card my-4">
             <div class="card-body">
                 <h5 class="card-title">
                     {{ nn.summary }}
                 </h5>
                 <p class="small">{{ nn.date }}</p>
-                <p>
-                    <a v-if="nn.link"  :href="nn.link" target="_blank" class="link">
+                <p v-if="nn.link" class="news-img">
+                    <a :href="nn.link" target="_blank" class="link">
                         <img :src="nn.img" :alt="nn.summary" :title="nn.summary" />
                     </a>
                 </p>

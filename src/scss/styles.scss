@@ -380,6 +380,25 @@ p {
         border-top-color: #f7931a; /* Narancssárga nyíl */
     }
 
+    /* Hírek mobilon: kép teljes szélességű, nem float */
+    .news .card {
+        width: 100% !important;
+        --bs-card-spacer-x: 1.2rem !important;
+        --bs-card-spacer-y: 1.2rem !important;
+    }
+
+    .news .card img {
+        float: none;
+        max-width: 260px;
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 12px;
+    }
+
+    .news h5, .news .h5 {
+        font-size: 1rem;
+    }
+
     .footer {
         margin-top: 40px;
         text-align: center; /* Mobilon a középre zárt tartalom profibb */
