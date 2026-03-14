@@ -59,7 +59,7 @@ main {
 
 .news .card img {
     float: left;
-    margin-right: 15px;
+    margin-right: 21px;
     max-width: 210px;
 }
 
@@ -381,10 +381,9 @@ p {
     }
 
     /* Hírek mobilon: kép teljes szélességű, nem float */
+
     .news .card {
-        width: 100% !important;
-        --bs-card-spacer-x: 1.2rem !important;
-        --bs-card-spacer-y: 1.2rem !important;
+        width: 19.4rem;
     }
 
     .news .card img {
@@ -394,6 +393,7 @@ p {
         margin-right: 0;
         margin-bottom: 12px;
     }
+
 
     .news h5, .news .h5 {
         font-size: 1rem;
