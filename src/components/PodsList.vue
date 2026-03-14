@@ -29,32 +29,58 @@ const openSearch = () => {
 };
 const searchQuery = ref('')
 
+// Ékezet-független keresés: "penz" → "pénz", "Beres" → "Béres" stb.
+const norm = (s: string) => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase()
+
 // 2. Keresési logika
 const filteredResults = computed(() => {
-  const query = searchQuery.value.trim().toLowerCase();
+  const query = norm(searchQuery.value.trim());
   if (!query) return [];
 
   return allPods.filter(pod => {
     if (searchMode.value === 'meta') {
       // 1. Keresés a címben
-      const nameMatch = pod.name.toLowerCase().includes(query);
+      const nameMatch = norm(pod.name).includes(query);
       
       // 2. Keresés az ID-ban (már E96, R05-ként is megtalálja!)
-      const idMatch = pod.id.toLowerCase().includes(query);
+      const idMatch = norm(pod.id).includes(query);
       
       // 3. Keresés a RÉSZTVEVŐK között (ez jött vissza)
-      const membersMatch = pod.members?.some(m => m.toLowerCase().includes(query));
+      const membersMatch = pod.members?.some(m => norm(m).includes(query));
       
       // 4. Keresés a FEJEZETEK-ben
-      const chaptersMatch = pod.chapters?.some(c => c.label.toLowerCase().includes(query));
+      const chaptersMatch = pod.chapters?.some(c => norm(c.label).includes(query));
 
       return nameMatch || idMatch || membersMatch || chaptersMatch;
     } else {
-      // Keresés az ÁTIRAT-ban
-      return transcripts.value[pod.id]?.includes(query);
+      // Keresés az ÁTIRAT-ban (ékezet-független)
+      return transcriptsNorm.value[pod.id]?.includes(query);
     }
   });
 });
+
+// Megmutatja, miért találta meg a meta keresés (melyik mezőben volt az egyezés)
+const getMatchReason = (pod: any) => {
+  const query = norm(searchQuery.value.trim());
+  if (!query) return null;
+
+  // Sorszám — nem kell külön mutatni, az úgyis látszik
+  if (norm(pod.id).includes(query)) return null;
+  // Cím — szintén látszik a kártyán
+  if (norm(pod.name).includes(query)) return null;
+
+  // Résztvevő — kiemeljük a találatot
+  const matchedMember = pod.members?.find((m: string) => norm(m).includes(query));
+  if (matchedMember) return { html: getHighlightedSnippet(matchedMember, searchQuery.value) };
+
+  // Fejezetcím — megvágjuk és kiemeljük a találatot
+  const matchedChapter = pod.chapters?.find((c: { label: string }) => norm(c.label).includes(query));
+  if (matchedChapter) {
+    return { html: getHighlightedSnippet(matchedChapter.label, searchQuery.value) };
+  }
+
+  return null;
+};
 
 // 3. Billentyűkombináció (CMD/CTRL + K)
 const handleShortcut = (e: KeyboardEvent) => {
@@ -104,7 +130,8 @@ watch(searchMode, () => {
   selectedIndex.value = 0;
 });
 
-const transcripts = ref<Record<string, string>>({}); // ID -> Szöveg map
+const transcripts = ref<Record<string, string>>({}); // ID -> Szöveg map (eredeti, kisbetűs)
+const transcriptsNorm = ref<Record<string, string>>({}); // ID -> Ékezet nélküli verzió a kereséshez
 const isLoadingTranscripts = ref(false);
 
 // Ez a függvény letölti az összes átiratot a GitHub-os mappából
@@ -121,6 +148,7 @@ const loadTranscripts = async () => {
       if (response.ok) {
         const text = await response.text();
         transcripts.value[pod.id] = text.toLowerCase();
+        transcriptsNorm.value[pod.id] = norm(text);
       }
     } catch (e) {
       console.error(`Hiba az átirat betöltésekor: ${pod.id}`, e);
@@ -134,9 +162,9 @@ const loadTranscripts = async () => {
 const getHighlightedSnippet = (text: string, query: string) => {
   if (!text || !query) return '';
 
-  const lowerText = text.toLowerCase();
-  const lowerQuery = query.toLowerCase();
-  const index = lowerText.indexOf(lowerQuery);
+  const normText = norm(text);
+  const normQuery = norm(query);
+  const index = normText.indexOf(normQuery);
 
   if (index === -1) return text.slice(0, 100) + '...';
 
@@ -148,11 +176,16 @@ const getHighlightedSnippet = (text: string, query: string) => {
   // 2. Biztonság: HTML karakterek eszképelése (hogy ne lehessen XSS)
   snippet = snippet.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 
-  // 3. Kiemelés: Regex segítségével megkeressük az összes egyezést (kis-nagybetű függetlenül)
-  const escapedQuery = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // Regex karakterek eszképelése
-  const regex = new RegExp(`(${escapedQuery})`, 'gi');
+  // 3. Kiemelés: az eredeti szöveget emeljük ki a normalizált pozíció alapján
+  const highlightStart = index - start;
+  const highlightEnd = highlightStart + query.length;
+  const before = snippet.slice(0, highlightStart);
+  const match = snippet.slice(highlightStart, highlightEnd);
+  const after = snippet.slice(highlightEnd);
   
-  return snippet.replace(regex, '<span class="highlight">$1</span>');
+  const prefix = start > 0 ? '...' : '';
+  const suffix = end < text.length ? '...' : '';
+  return `${prefix}${before}<span class="highlight">${match}</span>${after}${suffix}`;
 };
 
 // Figyeljük, ha módot vált a júzer
@@ -184,14 +217,14 @@ defineProps<{
 
     <Teleport to="body">
         <Transition name="fade" @after-enter="() => searchInput?.focus()">
-        <div v-if="isSearchOpen" class="search-overlay" @click.self="isSearchOpen = false">
+        <div v-if="isSearchOpen" class="search-overlay" @click.self="isSearchOpen = false; searchQuery = ''">
           <div class="search-modal">
             <div class="search-mode-selector">
               <button 
                 :class="{ active: searchMode === 'meta' }" 
                 @click="searchMode = 'meta'"
               >
-                címekben, fejezetcímekben, résztvevők és sorszámok között
+                címekben
               </button>
               <button 
                 :class="{ active: searchMode === 'full' }" 
@@ -231,11 +264,16 @@ defineProps<{
                   <img :src="pod.img" />
                   <div class="res-details">
                     <span class="res-id">{{ pod.id }}</span>
-                    <span class="res-name">{{ pod.name }}</span>
+                    <span class="res-name" v-html="getHighlightedSnippet(pod.name, searchQuery)"></span>
+                    <div 
+                      v-if="searchMode === 'meta' && getMatchReason(pod)" 
+                      class="res-match-reason"
+                      v-html="getMatchReason(pod)?.html"
+                    ></div>
                     <div 
                       v-if="searchMode === 'full' && transcripts[pod.id]" 
                       class="res-snippet"
-                      v-html="'...' + getHighlightedSnippet(transcripts[pod.id], searchQuery) + '...'"
+                      v-html="getHighlightedSnippet(transcripts[pod.id], searchQuery)"
                     >
                     </div>
                   </div>
@@ -418,15 +456,13 @@ defineProps<{
 .search-overlay {
   position: fixed;
   inset: 0; /* Teljes képernyő */
-  width: 100vw;
-  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: flex-start; /* Felülre igazítjuk */
   padding: 10vh 2rem; /* Adunk neki egy kis keretet minden oldalon */
   background: rgba(0, 0, 0, 0.85);
   z-index: 1000;
-  overflow-y: auto; /* Ha nagyon sok a találat, az overlay görögjön, ne a modal! */
+  overflow-y: scroll; /* Mindig látszik a scrollbar, így nem ugrik az input */
 }
 
 .search-modal {
@@ -452,10 +488,10 @@ defineProps<{
 
 .results-area {
   margin-top: 1rem;
-  padding: 0.8rem 0;
+  padding: 0;
   background: #1a1a1a;
   border-radius: 12px;
-  max-height: 70vh;
+  max-height: 65vh;
   overflow-y: auto;
   border: 1px solid #333;
 }
@@ -544,15 +580,24 @@ defineProps<{
 }
 
 /* A :deep azért kell, mert a v-html-lel generált elemekre nem hat a sima scoped CSS */
-.res-snippet :deep(.highlight) {
+.res-snippet :deep(.highlight),
+.res-match-reason :deep(.highlight),
+.res-name :deep(.highlight) {
   background-color: rgba(247, 147, 26, 0.3); /* Halvány narancs háttér */
   color: #f7931a; /* Erős narancs betűszín */
   font-weight: bold;
-  padding: 0 2px;
+  padding: 0;
   border-radius: 2px;
 }
 
 .res-snippet {
+  font-size: 0.85rem;
+  color: #888;
+  line-height: 1.4;
+  margin-top: 4px;
+}
+
+.res-match-reason {
   font-size: 0.85rem;
   color: #888;
   line-height: 1.4;
