@@ -1,7 +1,67 @@
 // Data for Podcasts
 
 export const podcasts = [
+    {
+        name: "Arany vs. bitcoin: melyik működik, ha baj van?",
+        id: "E98",
+        chapters: [
         {
+                time: "00:00",
+                label: "Néha lehetetlen szállítani aranyat"
+        },
+        {
+                time: "02:06",
+                label: "3 nap bitcoin Hajdúszoboszlón: a teljes program"
+        },
+        {
+                time: "06:42",
+                label: "Szabályozás, vásárlás, tárolás"
+        },
+        {
+                time: "08:00",
+                label: "Miért a bitcoin-elfogadás a következő lépés?"
+        },
+        {
+                time: "10:24",
+                label: "Adózás, öröklés és bányászat érthetően"
+        },
+        {
+                time: "14:11",
+                label: "Privacy, tárcák és decentralizáció"
+        },
+        {
+                time: "17:02",
+                label: "Szállás, jegyek és fizetés bitcoinnal"
+        },
+        {
+                time: "22:33",
+                label: "Új bitcoin kalkulátor, vibe-kódolva"
+        },
+        {
+                time: "28:35",
+                label: "Megélhetsz bitcoinból? A FIRE terv"
+        },
+        {
+                time: "36:32",
+                label: "Amit nem lehet betiltani"
+        },
+        {
+                time: "39:28",
+                label: "Dubaj, arany, blokád: a bitcoin bizonyított"
+        },
+        {
+                time: "46:10",
+                label: "Új HUSZONEGY podcast oldalak, átirat, kereső"
+        }
+        ],
+        img: "/pics/e98.jpg",
+        date: "2026.03.19.",
+        members: ["Anti", "Feri", "Árpi"],
+        topic: "Néha lehetetlen szállítani aranyat - 3 nap bitcoin Hajdúszoboszlón: a teljes program - Szabályozás, vásárlás, tárolás - Miért a bitcoin-elfogadás a következő lépés? - Adózás, öröklés és bányászat érthetően - Privacy, tárcák és decentralizáció - Szállás, jegyek és fizetés bitcoinnal - Új bitcoin kalkulátor, vibe-kódolva - Megélhetsz bitcoinból? A FIRE terv - Amit nem lehet betiltani - Dubaj, arany, blokád: a bitcoin bizonyított - Új HUSZONEGY podcast oldalak, átirat, kereső",
+        yt: "https://youtu.be/NJaawPoUAvA",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
                 name: "Tank vagy porcelán? – A szabad piac nem kér engedélyt",
                 id: "E97",
                 chapters: [
@@ -524,6 +584,60 @@ export const podcasts = [
     {
         name: "'Európának lőttek' | Első magyar Bitcoin lakásvásárlás?",
         id: "E87",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Bevezető"
+        },
+        {
+                time: "03:41",
+                label: "Abu Dhabi - Bitcoin Mena élmények"
+        },
+        {
+                time: "08:52",
+                label: "Miniszterek és a Bitcoin zokni"
+        },
+        {
+                time: "10:57",
+                label: "\"Európának lőttek\" - miközben a világ nyit"
+        },
+        {
+                time: "14:50",
+                label: "Jamie Dimon derivatívái - árnyékharc a Bitcoinért"
+        },
+        {
+                time: "17:41",
+                label: "Első magyar Bitcoin lakásvásárlás?"
+        },
+        {
+                time: "22:41",
+                label: "Trump korszak vs. európai hanyatlás"
+        },
+        {
+                time: "29:09",
+                label: "Metaplanet és japán Bitcoin forradalma"
+        },
+        {
+                time: "35:22",
+                label: "Mi vár ránk jövőre?"
+        },
+        {
+                time: "43:32",
+                label: "Miért más ez, mint 10 évvel ezelőtt?"
+        },
+        {
+                time: "46:03",
+                label: "Bitcoin Vision 21 Kft. - amikor a neved is gyanús"
+        },
+        {
+                time: "49:23",
+                label: "Hogyan indíts Bitcoin meetupot?"
+        },
+        {
+                time: "1:00:26",
+                label: "Pozitív társadalmi mozgalom"
+        }
+        ],
         img: "/pics/e87.jpg",
         date: "2025.12.18.",
         members: ["Anti", "Feri", "Árpi"],
@@ -2622,6 +2736,40 @@ export const podcasts = [
     {
         name: "Peer-to-peer bitcoin fedezetű kölcsön",
         id: "E45",
+        chapters: [
+        {
+                time: "00:00",
+                label: "JAN3 nyereményjáték január 3-ig"
+        },
+        {
+                time: "04:56",
+                label: "Peer-to-peer bitcoin fedezetű kölcsön bevezető"
+        },
+        {
+                time: "11:00",
+                label: "Firefish technikai háttér, Loan-To-Value"
+        },
+        {
+                time: "22:35",
+                label: "Biztonságos letét menedzselés"
+        },
+        {
+                time: "29:43",
+                label: "Kedvező euro befektetés, okosszerződés"
+        },
+        {
+                time: "38:28",
+                label: "Megfontolt eszköz őrzés, észszerű kölcsönigénylés"
+        },
+        {
+                time: "46:00",
+                label: "HUSZONEGY Firefish ajánlókód, honlap magyarítás"
+        },
+        {
+                time: "51:26",
+                label: "Ne adjátok el a bitcoint!"
+        }
+        ],
         img: "/pics/mi-az-a-bitcoin-s01e45.jpg",
         date: "2024.12.20.",
         members: ["Roli", "Openoms", "Árpi"],
@@ -2676,6 +2824,40 @@ export const podcasts = [
     {
         name: "Bitcoin fejlesztők és a bitcoin fejlesztése",
         id: "E43",
+        chapters: [
+        {
+                time: "00:00",
+                label: "A bitcoin gyökerei és születése"
+        },
+        {
+                time: "09:21",
+                label: "Kezdeti hibák, támadások, javítások"
+        },
+        {
+                time: "16:30",
+                label: "Konszenzus"
+        },
+        {
+                time: "21:38",
+                label: "Folytonos fejlesztés szükségessége, gyakorlata"
+        },
+        {
+                time: "27:00",
+                label: "Soft fork, hard fork"
+        },
+        {
+                time: "30:15",
+                label: "Core dev, immunrendszer, önállóság, szponzorálás"
+        },
+        {
+                time: "41:25",
+                label: "Feladatok, kihívások, támadási felületek, felelősség"
+        },
+        {
+                time: "51:56",
+                label: "Hozzájárulás nyílt forráskódú projekthez"
+        }
+        ],
         img: "/pics/mi-az-a-bitcoin-s01e43.jpg",
         date: "2024.12.06.",
         members: ["l0rinc", "Anti"],
@@ -4272,6 +4454,48 @@ export const podcasts = [
     {
         name: "Elválasztjuk a pénzt az államtól",
         id: "E10",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Visszatekintés"
+        },
+        {
+                time: "06:02",
+                label: "Osztrák közgazdaságtan"
+        },
+        {
+                time: "10:20",
+                label: "Bullrun"
+        },
+        {
+                time: "16:36",
+                label: "Összesöpört falevélkupac"
+        },
+        {
+                time: "17:09",
+                label: "Elválasztjuk a pénzt az államtól"
+        },
+        {
+                time: "23:40",
+                label: "Inflációs adó"
+        },
+        {
+                time: "31:11",
+                label: "Állampapír, szabad választás"
+        },
+        {
+                time: "44:43",
+                label: "Önrendelkezés, felelősség"
+        },
+        {
+                time: "50:39",
+                label: "Szolgáltató állam"
+        },
+        {
+                time: "55:45",
+                label: "Clark Moody Bitcoin Dashboard"
+        }
+        ],
         img: "/pics/mi-az-a-bitcoin-s01e10.jpg",
         date: "2024.04.26.",
         members: ["Anti", "Árpi"],
