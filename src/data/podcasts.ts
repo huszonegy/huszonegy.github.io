@@ -59,7 +59,7 @@ export const podcasts = [
         members: ["Anti", "Feri", "Árpi"],
         topic: "Néha lehetetlen szállítani aranyat - 3 nap bitcoin Hajdúszoboszlón: a teljes program - Szabályozás, vásárlás, tárolás - Miért a bitcoin-elfogadás a következő lépés? - Adózás, öröklés és bányászat érthetően - Privacy, tárcák és decentralizáció - Szállás, jegyek és fizetés bitcoinnal - Új bitcoin kalkulátor, vibe-kódolva - Megélhetsz bitcoinból? A FIRE terv - Amit nem lehet betiltani - Dubaj, arany, blokád: a bitcoin bizonyított - Új HUSZONEGY podcast oldalak, átirat, kereső",
         yt: "https://youtu.be/NJaawPoUAvA",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/3Owm9BpTMhCdwjCZ1CPv"
     },
     {
                 name: "Tank vagy porcelán? – A szabad piac nem kér engedélyt",
