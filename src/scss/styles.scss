@@ -1,5 +1,10 @@
 @use "bootstrap/scss/bootstrap";
 
+body {
+    font-family: sans-serif;
+}
+
+
 main {
     padding-top: 20px;
     padding-bottom: 20px;
@@ -26,7 +31,7 @@ main {
 }
 
 .nav-item {
-    padding: 0 10px;
+    padding: 0 13px;
 }
 
 .navbar-toggler-icon {
