@@ -72,7 +72,7 @@ const steps = [
 }
 
 .beginner-card {
-    transition: border-color 0.2s;
+    transition: border-color 0.4s ease;
     cursor: pointer;
 }
 
