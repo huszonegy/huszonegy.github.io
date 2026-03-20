@@ -2,6 +2,22 @@
 
 export const presentations = [
     {
+        event: "Bitcoin meetup – február 26.",
+        params: "Perspective Bar, Budapest - 2026. február 26.",
+        details: "Újabb bitcoin meetup bp belvárosában. Egy előadás volt műsoron: Molnár Dávid, a Ginger Wallet vezető fejlesztője bemutatta a Bitcoin pénzügyi privacy kérdéseit és a Coinjoin működését.",
+        parts: [
+            {
+                name: "Miért fontos a pénzügyi privacy? – Ginger Wallet & Coinjoin bemutató",
+                img: "/pics/februar-26-ginger-wallet-coinjoin.jpg",
+                date: "2026.02.26.",
+                members: ["Dávid"],
+                topic: "Ki vagyok én? - Mi az a privacy? - Miért számít a privacy? - Fungibilitás – felcserélhetőség - Mit árul el rólad egy tranzakció? - Metaadatok és hálózati nyomok - Ginger Wallet és a Tor-hálózat - Blokklánc-szintű privacy problémák - Heurisztikák és klaszterezés - Mi az a Coinjoin? - Ginger Wallet demó - Coinjoin költségek - Ginger vs. Wasabi – mi a különbség? - Hardware wallet integráció - Díjstruktúra",
+                yt: "https://youtu.be/YvbvA8f8pw4",
+                fountain: ""
+            }
+        ]
+    },
+    {
         event: "Bitcoin Miskolc",
         params: "Hotel Aurora, Miskolc - 2025. október 17-19.",
         details: "A 3. magyar Bitcoin konferencia felvételei szép sorban válnak elérhetővé.",
@@ -103,6 +119,69 @@ export const presentations = [
                 members: ["Openoms"],
                 topic: "Bevezetés és alapvető fenyegetések - Adatvédelem és KYC: A közösségi média, a tőzsdék és az adatmegosztás veszélyei - OpSec (Működési Biztonság): Az alapelvek és mit NE tegyél - Böngészőbiztonság (Brave, Firefox, Tor) és Ad Blockerek (Ublock Origin) - Jelszókezelés - Kétfaktoros hitelesítés (2FA/TOTP): Miért veszélyes az SMS és mik a jó alternatívák? - Haladó eszközök: email alias-ok és VPN - Összefoglaló csekklista Bitcoin vásárláshoz (a böngészőtől a saját tárcáig) - Gyakori átverések és rossz gyakorlatok - Kérdések és válaszok",
                 yt: "https://youtu.be/HRTJ6TUiOx0",
+                fountain: ""
+            },
+            {
+                name: "Firefish bemutató",
+                img: "/pics/bitcoin-miskolc-3-firefish.jpg",
+                date: "2025.10.19.",
+                members: ["Árpi"],
+                topic: "Pénz a bitcoinodból anélkül, hogy eladnád - Bitcoiner keres eurós befektetőt - Kétszeres fedezet és a likvidáció réme - Mit látsz, ha belépsz a Firefishbe? - Kölcsön piactér és magyar nyelvű tudástár - Így néz ki egy élő kölcsön belülről",
+                yt: "https://youtu.be/-CBusU_BIgA",
+                fountain: ""
+            },
+            {
+                name: "Gondolatok a július 1. utáni magyar szabályozásról",
+                img: "/pics/bitcoin-miskolc-3-glaser-anita-julius-utan.jpg",
+                date: "2025.10.19.",
+                members: ["Anita"],
+                topic: "Bevezetés: A három fő változás (MiCA, BTK, Kriptotörvény) - A MiCA rendelet lényege és a fogyasztóvédelem - Engedélyes szolgáltatók ellenőrzése (ESMA és MNB lista) - Szigorítás a BTK-ban: Kriptoeszközzel való visszaélés és az 5 milliós értékhatár - A magyar kriptotörvény új szereplője: Az SZTFH és a 'Validálás' - Mit jelent a váltás és a megfelelőségi nyilatkozat? - Jogbizonytalanság és a Revolut számlafagyasztások tanulságai - Adózási változások: Automatikus adatcsere és a 3 éves korlát eltörlése - Kvízjáték a közönséggel (Nyeremény: Bitcoin pálinka)",
+                yt: "https://youtu.be/03jfd97Jer4",
+                fountain: ""
+            },
+            {
+                name: "A szabadság ostroma: Bitcoin mint ellenállás",
+                img: "/pics/bitcoin-miskolc-3-kata-szabadsag-ostroma.jpg",
+                date: "2025.10.19.",
+                members: ["Kata"],
+                topic: "Bevezetés: Amikor a jog az elnyomás eszközévé válik - A szabályozás háttere: Ki az az FATF és miért követjük vakon az ajánlásait? - A megfigyelés evolúciója: Travel Rule, MiCA és a pénzügyi karantén - A jövő képe: AMLA és a totális profilozás 2030-ra - CBDC és Digitális Euró: A programozható pénz és a kontroll eszközei - Chat Control: A privát üzenetek és a végponti titkosítás vége? - A Pegasus-ügy tanulsága: Amikor az állam a polgárai ellen fordul - Mi a szabadság valójában? Döntés vs. Engedély - Bitcoin: Nem spekuláció, hanem menekülőút és technológiai szabadság - Zárógondolat: A bizalom visszavétele és az igazság realitása",
+                yt: "https://youtu.be/jEH0XqzP8pI",
+                fountain: ""
+            },
+            {
+                name: "Kódból kultúra - a Bitcoin női rétege",
+                img: "/pics/bitcoin-miskolc-3-kodbol-kultura.jpg",
+                date: "2025.10.19.",
+                members: ["Kata"],
+                topic: "A Bitcoin mint szubkultúra és a szabadság alapértelmezése - 'Silent evolution' - 'Don't trust, verify' - A Bitcoin 'női oldala' - A technológia csapdái 2025-ben - A valódi forradalom a döntéseinkben zajlik, nem az utcán - Nők a nemzetközi térben: Rachel Geyer példája és a bányászathő hasznosítása - A Bitcoin merch, a művészet és a közösségépítés kezdetei - Nemzetközi elismerés - Miért kulcsfontosságúak a nők az adaptációban? - Egy új, magyar nyelvű női Bitcoin közösség és Telegram csoport elindítása",
+                yt: "https://youtu.be/w0PvDVJhzv0",
+                fountain: ""
+            },
+            {
+                name: "Generációk a Bitcoin világában",
+                img: "/pics/bitcoin-miskolc-3-generaciok.jpg",
+                date: "2025.10.19.",
+                members: ["gyerekek"],
+                topic: "Hogyan találkoztak a fiatalok a Bitcoinnal? - Az első benyomások és a zsebpénz befektetése - 'Gyémánt kezek': Hogyan élik meg a gyerekek az árfolyamesést? - Gazdasági tájékozottság: Hírek követése applikációkon keresztül - Bitcoin az iskolában: A kortársak meggyőzése és a szülők ellenállása - Használat a gyakorlatban - Pályaválasztási álmok: Színészettől a hangmérnökig és a Bitcoin vállalkozásokig - Hogyan látják a gyerekek a felnőtt Bitcoinereket? - Tech vs. Természet: Képernyőidő, Netflix, nomád táborok és olvasási szokások - Jövőkép: Robotok a háztartásban és a Mesterséges Intelligencia (ChatGPT) szerepe a tanulásban - 'Millió dolláros kérdés': Mihez kezdenétek 1000 Bitcoinnal? - Hol tartunk 10 év múlva?",
+                yt: "https://youtu.be/tw_pxobecDE",
+                fountain: ""
+            },
+            {
+                name: "Panelbeszélgetés",
+                img: "/pics/bitcoin-miskolc-3-panelbeszalgetes.jpg",
+                date: "2025.10.19.",
+                members: ["Feri", "Openoms", "Nopara", "Szabolcs"],
+                topic: "Magyar vs. külföldi Bitcoin konferenciák hangulata és a közösség ereje - Új szolgáltatások és jogi mérföldkő: A Bitcoin mint tagi kölcsön elfogadása a NAV-nál - Jogkövetés vagy lázadás? - Betilthatják-e a Bitcoint? A 'fű alatt' növekedés és a játékelmélet - Skálázódás és Privacy - Jövőkép: Bitcoin Citadel teória és a szabad gazdasági zónák - A Bitcoin mint defenzív fegyver - Bitcoin bankok vs. Michael Saylor modellje - Mesterséges Intelligencia és a pénz: Miért fog az AI Bitcoint használni? - Közönségkérdések: Privacy coinok, Bitcoin bankok működése és a hagyományos bankok esélyei a túlélésre",
+                yt: "https://youtu.be/0DJXimmPsaY",
+                fountain: ""
+            },
+            {
+                name: "UTXO modell",
+                img: "/pics/lorry-utxo-modell.jpg",
+                date: "2025.10.19.",
+                members: ["Lorry"],
+                topic: "Bevezetés - Értéknyilvántartás: Számla modell vs. Bitcoin modell - A birtoklás (birtokjog) fontossága a Bitcoinban - Így működik egy tranzakció - Több bemenet (input) kezelése és a tranzakciós díjak - A titok (privát kulcs) és a címek kapcsolata - A UTXO (Unspent Transaction Output) definíciója - A Demo környezet bemutatása - A rendszer indítása és a Genesis blokk - Miért nem költhető el azonnal a bányászott Bitcoin? - A szereplők tárcáinak feltöltése 'kamu' Bitcoinnal - Tranzakció küldése élőben és a Replace-by-Fee (RBF) bemutatása - Több bemenetes tranzakció vizualizációja a blokkláncon - Q&A: Hardver tárcák (Ledger, Trezor) használata Sparrow Wallettel - Q&A: Mi lesz a biztonsággal, ha elfogy a blokkjutalom?",
+                yt: "https://youtu.be/vTQDuI0Jme0",
                 fountain: ""
             }
         ]
