@@ -5,15 +5,27 @@ import ForumExplain from '../components/ForumExplain.vue'
 
 <template>
     <main style="width: auto;">
-        <div class="row">
-            <div class="col col-auto" style="max-width: 500px; width: 100%;">
+        <div class="forum-page">
+            <div class="forum-hero">
                 <ForumShort />
             </div>
-            <div class="col col-auto" style="max-width: 500px; width: 100%;">
+            <div class="forum-details">
                 <ForumExplain />
             </div>
         </div>
     </main>
 </template>
 
-<style></style>
+<style scoped>
+.forum-page {
+    max-width: 760px;
+    margin: 0 auto;
+}
+
+.forum-hero :deep(.card),
+.forum-details :deep(.card) {
+    border: none;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+</style>

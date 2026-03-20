@@ -1,21 +1,30 @@
 <script setup lang="ts">
+import { RouterLink } from 'vue-router'
 </script>
 
 <template>
-    <div class="card py-5 px-5 my-3 mx-4">
-        <p class="card-text">
-            A
-            <a href="https://t.me/huszonegy" target="_blank">HUSZONEGY telegram csoport</a>
-            2023 nyarán jött létre,
-            azzal a céllal, hogy találkozópontja legyen a magyar bitcoin közösségnek,
-            és segítsen hírét vinni a bitcoinnak a vidékünkön, a
-            <a href="https://twentyone.world/" target="_blank">twentyone.world</a>
-            szellemében.
-        </p>
-        <p class="card-text">
-            Az év során összegyűlt egy lelkes csapat, volt pár személyes találkozó, sok ötlet született, aztán ez a honlap, aztán a közös podcast, egyre több városban szervezünk találkozókat, egyre több anyagot fordítunk magyarra...
+    <div class="card py-4 px-5 my-0 mx-4">
+        <h5 class="card-title mb-3">Mire számíthatsz?</h5>
+        <ul class="forum-list">
+            <li>Élénk beszélgetések a Bitcoin technológiájáról, gazdasági hátteréről és társadalmi jelentőségéről.</li>
+            <li>Hírek, elemzések, fordítások első kézből.</li>
+            <li>Segítőkész közösség, ahol nincs buta kérdés.</li>
+            <li>Szerveződő meetupok, közös projektek — ez a honlap és a podcast is innen nőtt ki.</li>
+        </ul>
+        <p class="card-text mt-2">
+            Egyre több városban szervezünk személyes
+            <RouterLink to="/meetup">Bitcoin találkozókat</RouterLink>
+            — nézd meg, hol és mikor lesz a következő!
         </p>
     </div>
 </template>
 
-<style scoped></style>
+<style scoped>
+.forum-list {
+    padding-left: 1.2em;
+}
+.forum-list li {
+    margin-bottom: 0.5em;
+    line-height: 1.5;
+}
+</style>
