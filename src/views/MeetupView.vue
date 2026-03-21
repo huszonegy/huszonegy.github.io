@@ -4,54 +4,159 @@
 <template>
     <main style="width: auto;">
         <div class="row">
-            <div class="col col-auto center" style="width: 90%;">
-                <div class="card py-4 px-4 my-3 mx-4">
-                    <p class="card-text center">
-                        A <b>magyar bitcoin találkozók</b>
-                        meghirdetésére ajánljuk a Meetup Portált:
-                    </p>
-                    <div class="center px-4 py-4">
-                        <a href="https://portal.huszonegy.world/hu/meetups" target="_blank">
-                            <button type="button" class="btn btn-custom">Meetup Portál</button>
-                        </a>
+            <div class="col-12 col-lg-10 mx-auto center">
+                <div class="meetup-hero mx-auto">
+                    <div class="meetup-hero-inner">
+                        <div class="meetup-hero-icon">
+                            <i class="bi bi-people-fill"></i>
+                        </div>
+                        <div class="meetup-hero-text">
+                            <h1 class="meetup-hero-title">Bitcoin <span class="meetup-hero-accent">Meetupok</span></h1>
+                            <p class="meetup-hero-lead">
+                                A <a href="https://portal.huszonegy.world/hu/meetups" target="_blank">meetup portálon</a> láthatók az aktuális találkozók.
+                            </p>
+                        </div>
                     </div>
-                    <p class="card-text center">
-                        <a href="https://portal.huszonegy.world/hu/meetups">portal.huszonegy.world</a>
-                        <br/>
-                        (ez a nemzetközi huszonegy szerveződés meetup portáljának magyarított változata)
-                    </p>
                 </div>
             </div>
-            <div class="col col-auto center" style="width: 90%;">
-                <div class="card py-5 px-5 my-3 mx-4">
+            <div class="col-12 col-lg-10 mx-auto center">
+                <div class="card py-4 px-5 my-3 mx-auto" style="max-width: 760px;">
                     <div style="text-align: left;">
-                        Ha szeretnél egy meetupot <b>indítani vagy szervezni</b>:
-                        <ul>
-                            <li>Keress egy alkalmas helyszínt (pl. egy étterem vagy bár)!</li>
-                            <li>Válassz egy időpontot!</li>
-                            <li>Válassz egy nevet, esetleg logót</li>
-                            <li>Jelentkezz be a Portálra, Nostr azonosítóval vagy egy Lightning bejelentkezéssel (ez
-                                azért
-                                kell, hogy később tudjad szerkeszteni)</li>
-                            <li>A 'Meetupok' oldalon a 'Meetup létrehozása' gombbal hozz létre új meetupot. Itt
-                                megadhatod
-                                a várost/települést, nevet, logót, stb.</li>
-                            <li>Ezután a meetup alatt tudsz új időpontot felvenni</li>
-                            <li>Az esemény linkjét, infókat oszd meg a telegram csoportban és saját csatornáidon!</li>
+                        <h5 class="mb-3" style="font-weight: 700; color: #fff;">Szeretnél meetupot szervezni?</h5>
+                        <ul class="meetup-steps">
+                            <li>keress egy helyszínt, válassz időpontot és nevet!</li>
+                            <li>jelentkezz be a <a href="https://portal.huszonegy.world/hu/meetups" target="_blank">portálra</a> Nostr vagy Lightning azonosítóval!</li>
+                            <li>a 'Meetupok' oldalon a 'Meetup létrehozása' gombbal hozz létre új meetupot!</li>
+                            <li>a konkrét meetup alatt tudsz hozzá új eseményt létrehozni.</li>
+                            <li>oszd meg a telegram csoportban is az esemény részleteit!</li>
                         </ul>
-                        Az itt közzétett események automatikusan kikerülnek Nostr-re és az Club Orange appba is, de azért a saját hírverés is fontos.
+                        <p class="meetup-note">
+                            A közzétett események automatikusan megjelennek Nostr-en és a Club Orange appban is.
+                        </p>
                     </div>
                 </div>
             </div>
-            <div class="col col-auto center" style="width: 90%;">
-                <div class="card py-5 px-5 my-3 mx-4 center">
-                    "a kép csak illusztráció"
-                    <img src="/pics/meetup-portal-list1.png" />
-                    <img src="/pics/meetup-portal-map.jpg" />
+            <div class="col-12 col-lg-10 mx-auto center">
+                <div class="meetup-gallery mx-auto my-3">
+                    <p class="meetup-note mb-2">Így néz ki a portál:</p>
+                    <a href="https://portal.huszonegy.world/hu/meetups" target="_blank">
+                        <img src="/pics/meetup-portal-list1.png" class="meetup-img rounded" />
+                    </a>
+                    <a href="https://portal.huszonegy.world/hu/meetups" target="_blank">
+                        <img src="/pics/meetup-portal-map.jpg" class="meetup-img-small rounded" />
+                    </a>
                 </div>
             </div>
         </div>
     </main>
 </template>
 
-<style></style>
+<style scoped>
+.meetup-hero {
+    padding: 3.5rem 1rem 1.5rem;
+    max-width: 760px;
+}
+
+.meetup-hero-inner {
+    display: flex;
+    align-items: center;
+    gap: 2.5rem;
+}
+
+.meetup-hero-icon {
+    flex-shrink: 0;
+    font-size: 5rem;
+    color: #fff;
+    text-shadow: 0 0 48px rgba(247, 147, 26, 0.6), 0 0 96px rgba(247, 147, 26, 0.4);
+}
+
+.meetup-hero-text {
+    text-align: left;
+    max-width: 450px;
+}
+
+.meetup-hero-title {
+    font-size: 2rem;
+    font-weight: 700;
+    margin: 0 0 0.8rem;
+    color: #fff;
+    letter-spacing: -0.5px;
+}
+
+.meetup-hero-accent {
+    color: #f7931a;
+}
+
+.meetup-hero-lead {
+    font-size: 1rem;
+    opacity: 0.78;
+    line-height: 1.6;
+    max-width: 480px;
+    margin-bottom: 0.6rem;
+}
+
+.meetup-steps {
+    padding-left: 2rem;
+    margin-bottom: 1rem;
+}
+
+.meetup-steps li {
+    margin-bottom: 0.4rem;
+    line-height: 1.6;
+}
+
+.meetup-steps a {
+    color: #f7931a;
+}
+
+.meetup-note {
+    font-size: 0.9rem;
+    opacity: 0.65;
+    margin-bottom: 0;
+}
+
+.meetup-gallery {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    max-width: 760px;
+}
+
+.meetup-img,
+.meetup-img-small {
+    height: auto;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    border: 1px solid transparent;
+    transition: border-color 0.2s ease;
+}
+
+.meetup-img {
+    width: 100%;
+}
+
+.meetup-img-small {
+    max-width: 400px;
+}
+
+.meetup-img:hover,
+.meetup-img-small:hover {
+    border-color: #f7931a;
+}
+
+@media (max-width: 576px) {
+    .meetup-hero-inner {
+        flex-direction: column;
+        text-align: center;
+    }
+    .meetup-hero-text {
+        text-align: center;
+    }
+    .meetup-hero-title {
+        font-size: 1.8rem;
+    }
+    .meetup-hero-lead {
+        max-width: 100%;
+    }
+}
+</style>
