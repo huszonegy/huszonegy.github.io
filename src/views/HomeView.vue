@@ -6,7 +6,6 @@ import BeginnerGuide from '../components/BeginnerGuide.vue'
 <template>
   <main>
     <div name="main-inner" class="container">
-      <div class="hero-backdrop"></div>
       <div class="hero mx-auto">
         <div class="hero-inner">
           <div class="hero-logo">
@@ -49,19 +48,6 @@ import BeginnerGuide from '../components/BeginnerGuide.vue'
 </style>
 
 <style scoped>
-  .hero-backdrop {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    backdrop-filter: blur(6px);
-    -webkit-backdrop-filter: blur(6px);
-    background: rgba(0, 0, 0, 0.4);
-    z-index: -1;
-    pointer-events: none;
-  }
-
   .hero {
     padding: 3rem 1rem 2rem;
     max-width: 780px;
