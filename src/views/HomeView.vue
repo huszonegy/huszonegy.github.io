@@ -15,10 +15,7 @@ import BeginnerGuide from '../components/BeginnerGuide.vue'
           <div class="hero-text">
             <h1 class="hero-title">csak bitcoinról, <span class="hero-accent">magyarul</span></h1>
             <p class="hero-lead">
-              Üdvözlünk! Jó helyen jársz.
-            </p>
-            <p class="hero-lead">
-              Akár most hallasz először a Bitcoinról, akár régóta követed — itt megtalálsz mindent, ami az egyre mélyebb szintű megértéséhez szükséges: cikkeket, könyveket, videókat, podcastokat és egy segítőkész közösséget.
+              Bitcoin tudástár és közösség. Podcast, oktatóanyagok, támogatás — ingyen, egy helyen.
             </p>
           </div>
         </div>
@@ -79,13 +76,7 @@ import BeginnerGuide from '../components/BeginnerGuide.vue'
 
   .hero-logo {
     flex-shrink: 0;
-    filter: drop-shadow(0 0 30px rgba(247, 147, 26, 0.45));
-    animation: glow 4s ease-in-out infinite alternate;
-  }
-
-  @keyframes glow {
-    from { filter: drop-shadow(0 0 20px rgba(247, 147, 26, 0.3)); }
-    to { filter: drop-shadow(0 0 48px rgba(247, 147, 26, 0.6)); }
+    filter: drop-shadow(0 0 48px rgba(247, 147, 26, 0.6));
   }
 
   .hero-text {
