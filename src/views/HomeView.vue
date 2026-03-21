@@ -49,7 +49,7 @@ import BeginnerGuide from '../components/BeginnerGuide.vue'
 
 <style scoped>
   .hero {
-    padding: 3rem 1rem 2rem;
+    padding: 3.5rem 1rem 1.5rem;
     max-width: 780px;
     position: relative;
   }

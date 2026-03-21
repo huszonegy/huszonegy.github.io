@@ -9,7 +9,7 @@ const steps = [
         icon: 'bi-mic'
     },
     {
-        title: 'Nézd meg az előadásokat!',
+        title: 'Nézd meg előadásainkat!',
         desc: 'Magyar nyelvű Bitcoin előadások és konferencia-felvételek.',
         link: '/eloadas',
         icon: 'bi-easel'
