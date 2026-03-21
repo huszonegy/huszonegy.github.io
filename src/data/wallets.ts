@@ -25,7 +25,7 @@ export const wallets = {
                         },
                         {
                             name: "Strike",
-                            text: "Könnyen használható, sokoldalú mobil app, amely a Lightning hálózaton gyors és olcsó bitcoin tranzakciókat kínál. Támogatja a fiat (pl. euró) és bitcoin közötti átváltást, valamint globális pénzátutalásokat. KYC szükséges. Kezelőfelülete intuitív, ideális kezdőknek és haladóknak egyaránt.",
+                            text: "Könnyen használható, sokoldalú mobil app, amely a Lightning hálózaton gyors és olcsó bitcoin tranzakciókat kínál. Átmenetileg nem támogatja a fiat (pl. euró) és bitcoin közötti átváltást, de a globális pénzátutalásokat igen. KYC szükséges. Kezelőfelülete intuitív, ideális kezdőknek és haladóknak egyaránt.",
                             link: "https://strike.me/"
                         },
                         {
