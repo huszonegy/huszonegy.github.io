@@ -40,12 +40,12 @@ defineProps<{
         padding-bottom: 0;
     }
     .card-title {
-        font-size: 0.88rem;
+        font-size: 1rem;
         font-weight: 700;
     }
     .card-text {
         color: rgba(255, 255, 255, 0.5) !important;
-        font-size: 0.78rem;
+        font-size: 0.88rem;
         line-height: 1.45;
     }
 

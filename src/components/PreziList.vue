@@ -4,7 +4,19 @@ import { link_simplified } from '../utils'
 </script>
 
 <template>
-    <h1>Bitcoin előadás magyarul</h1>
+    <div class="prezi-hero mx-auto">
+        <div class="prezi-hero-inner">
+            <div class="prezi-hero-icon">
+                <i class="bi bi-easel"></i>
+            </div>
+            <div class="prezi-hero-text">
+                <h1 class="prezi-hero-title">bitcoin <span class="prezi-hero-accent">előadások</span></h1>
+                <p class="prezi-hero-lead">
+                    Magyar nyelvű bitcoin előadások és konferencia-felvételek.
+                </p>
+            </div>
+        </div>
+    </div>
     <div v-for="alkalom in presentations">
         <h2>
             {{ alkalom.event }}
@@ -59,4 +71,61 @@ import { link_simplified } from '../utils'
 </template>
 
 <style scoped>
+.prezi-hero {
+    padding: 3.5rem 1rem 1.5rem;
+    max-width: 760px;
+}
+
+.prezi-hero-inner {
+    display: flex;
+    align-items: center;
+    gap: 2.5rem;
+}
+
+.prezi-hero-icon {
+    flex-shrink: 0;
+    font-size: 5rem;
+    color: #fff;
+    text-shadow: 0 0 32px rgba(247, 147, 26, 0.8), 0 0 64px rgba(247, 147, 26, 0.6), 0 0 96px rgba(247, 147, 26, 0.4);
+}
+
+.prezi-hero-text {
+    text-align: left;
+}
+
+.prezi-hero-title {
+    font-size: 2rem;
+    font-weight: 700;
+    margin: 0 0 0.8rem;
+    color: #fff;
+    letter-spacing: -0.5px;
+}
+
+.prezi-hero-accent {
+    color: #f7931a;
+}
+
+.prezi-hero-lead {
+    font-size: 1rem;
+    opacity: 0.78;
+    line-height: 1.6;
+    max-width: 480px;
+    margin-bottom: 0.6rem;
+}
+
+@media (max-width: 576px) {
+    .prezi-hero-inner {
+        flex-direction: column;
+        text-align: center;
+    }
+    .prezi-hero-text {
+        text-align: center;
+    }
+    .prezi-hero-title {
+        font-size: 1.8rem;
+    }
+    .prezi-hero-lead {
+        max-width: 100%;
+    }
+}
 </style>

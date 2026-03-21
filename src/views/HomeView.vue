@@ -14,7 +14,7 @@ import BeginnerGuide from '../components/BeginnerGuide.vue'
           <div class="hero-text">
             <h1 class="hero-title">csak bitcoinról, <span class="hero-accent">magyarul</span></h1>
             <p class="hero-lead">
-              Bitcoin tudástár és közösség. Podcast, oktatóanyagok, támogatás — ingyen, egy helyen.
+              Bitcoin tudástár és közösség. Podcast, oktatóanyagok, támogatás...
             </p>
           </div>
         </div>
@@ -24,7 +24,7 @@ import BeginnerGuide from '../components/BeginnerGuide.vue'
 
       <div class="mt-3">
         <h2 class="section-title mx-4">
-          Friss <a href="/hirek">hírek</a>
+          Friss <a href="/hir">hírek</a>
         </h2>
         <NewsList :max_count="2" />
       </div>
@@ -84,10 +84,10 @@ import BeginnerGuide from '../components/BeginnerGuide.vue'
   }
 
   .hero-lead {
-    font-size: 0.92rem;
+    font-size: 1rem;
     opacity: 0.78;
     line-height: 1.6;
-    max-width: 480px;
+    max-width: 520px;
     margin-bottom: 0.6rem;
   }
 

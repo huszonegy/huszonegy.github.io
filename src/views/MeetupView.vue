@@ -11,12 +11,17 @@
                             <i class="bi bi-people-fill"></i>
                         </div>
                         <div class="meetup-hero-text">
-                            <h1 class="meetup-hero-title">Bitcoin <span class="meetup-hero-accent">Meetupok</span></h1>
+                            <h1 class="meetup-hero-title">bitcoin <span class="meetup-hero-accent">meetup</span></h1>
                             <p class="meetup-hero-lead">
-                                A <a href="https://portal.huszonegy.world/hu/meetups" target="_blank">meetup portálon</a> láthatók az aktuális találkozók.
+                                A meetup portálon láthatók az aktuális találkozók.
                             </p>
                         </div>
                     </div>
+                </div>
+                <div class="center mt-2 mb-4">
+                    <a href="https://portal.huszonegy.world/hu/meetups" target="_blank" class="btn btn-custom">
+                        Irány a meetup portál
+                    </a>
                 </div>
             </div>
             <div class="col-12 col-lg-10 mx-auto center">
@@ -24,10 +29,10 @@
                     <div style="text-align: left;">
                         <h5 class="mb-3" style="font-weight: 700; color: #fff;">Szeretnél meetupot szervezni?</h5>
                         <ul class="meetup-steps">
-                            <li>keress egy helyszínt, válassz időpontot és nevet!</li>
-                            <li>jelentkezz be a <a href="https://portal.huszonegy.world/hu/meetups" target="_blank">portálra</a> Nostr vagy Lightning azonosítóval!</li>
+                            <li>válassz egy alkalmas helyszínt!</li>
+                            <li>jelentkezz be a <a href="https://portal.huszonegy.world/hu/meetups" target="_blank">meetup portálra</a> Nostr vagy Lightning azonosítóval!</li>
                             <li>a 'Meetupok' oldalon a 'Meetup létrehozása' gombbal hozz létre új meetupot!</li>
-                            <li>a konkrét meetup alatt tudsz hozzá új eseményt létrehozni.</li>
+                            <li>a konkrét meetup alatt tudsz hozzárendelni új eseményt.</li>
                             <li>oszd meg a telegram csoportban is az esemény részleteit!</li>
                         </ul>
                         <p class="meetup-note">
@@ -37,8 +42,8 @@
                 </div>
             </div>
             <div class="col-12 col-lg-10 mx-auto center">
-                <div class="meetup-gallery mx-auto my-3">
-                    <p class="meetup-note mb-2">Így néz ki a portál:</p>
+                <div class="meetup-gallery mx-auto my-5">
+                    <p class="meetup-note mb-2">Meetup minta:</p>
                     <a href="https://portal.huszonegy.world/hu/meetups" target="_blank">
                         <img src="/pics/meetup-portal-list1.png" class="meetup-img rounded" />
                     </a>
@@ -53,7 +58,7 @@
 
 <style scoped>
 .meetup-hero {
-    padding: 3.5rem 1rem 1.5rem;
+    padding: 3.5rem 1rem 0;
     max-width: 760px;
 }
 

@@ -46,5 +46,6 @@ import { wallets } from '../data/wallets';
     font-size: 0.88rem;
     color: rgba(255, 255, 255, 0.6);
     display: inline-block;
+    border: 1px solid rgba(255, 255, 255, 0.15);
 }
 </style>

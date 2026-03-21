@@ -199,7 +199,7 @@ p {
     --bs-btn-color: #222;
     --bs-btn-bg: #f7931a;
     --bs-btn-border-color: #f7931a;
-    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-color: #000;
     --bs-btn-hover-bg: #f7931a;
     --bs-btn-hover-border-color: #f7931a;
     --bs-btn-focus-shadow-rgb: 49, 132, 253;
@@ -213,6 +213,16 @@ p {
     margin: 10px;
     padding: 10px 20px;
     font-weight: bold;
+    transition: opacity 0.2s ease;
+}
+
+a.btn-custom,
+a.btn-custom:hover {
+    text-decoration: none;
+}
+
+.btn-custom:hover {
+    opacity: 0.85;
 }
 
 .category {

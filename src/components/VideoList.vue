@@ -4,7 +4,19 @@ import { link_simplified } from '../utils'
 </script>
 
 <template>
-    <h1>Bitcoin oktatóvideók magyarul</h1>
+    <div class="video-hero mx-auto">
+        <div class="video-hero-inner">
+            <div class="video-hero-icon">
+                <i class="bi bi-play-circle"></i>
+            </div>
+            <div class="video-hero-text">
+                <h1 class="video-hero-title">bitcoin <span class="video-hero-accent">oktatóvideók</span></h1>
+                <p class="video-hero-lead">
+                    Magyar nyelvű és feliratos oktatóvideók a bitcoinról.
+                </p>
+            </div>
+        </div>
+    </div>
     <div v-for="kategoria in videos" :id="kategoria.type.toLowerCase().replace(' ', '-')">
         <h2>
             {{ kategoria.type }}
@@ -56,4 +68,61 @@ import { link_simplified } from '../utils'
 </template>
 
 <style scoped>
+.video-hero {
+    padding: 3.5rem 1rem 1.5rem;
+    max-width: 760px;
+}
+
+.video-hero-inner {
+    display: flex;
+    align-items: center;
+    gap: 2.5rem;
+}
+
+.video-hero-icon {
+    flex-shrink: 0;
+    font-size: 5rem;
+    color: #fff;
+    text-shadow: 0 0 32px rgba(247, 147, 26, 0.8), 0 0 64px rgba(247, 147, 26, 0.6), 0 0 96px rgba(247, 147, 26, 0.4);
+}
+
+.video-hero-text {
+    text-align: left;
+}
+
+.video-hero-title {
+    font-size: 2rem;
+    font-weight: 700;
+    margin: 0 0 0.8rem;
+    color: #fff;
+    letter-spacing: -0.5px;
+}
+
+.video-hero-accent {
+    color: #f7931a;
+}
+
+.video-hero-lead {
+    font-size: 1rem;
+    opacity: 0.78;
+    line-height: 1.6;
+    max-width: 480px;
+    margin-bottom: 0.6rem;
+}
+
+@media (max-width: 576px) {
+    .video-hero-inner {
+        flex-direction: column;
+        text-align: center;
+    }
+    .video-hero-text {
+        text-align: center;
+    }
+    .video-hero-title {
+        font-size: 1.8rem;
+    }
+    .video-hero-lead {
+        max-width: 100%;
+    }
+}
 </style>

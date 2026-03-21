@@ -4,8 +4,20 @@
 <template>
   <main>
     <div name="main-inner" class="container">
+      <div class="support-hero mx-auto">
+          <div class="support-hero-inner">
+              <div class="support-hero-icon">
+                  <i class="bi bi-heart"></i>
+              </div>
+              <div class="support-hero-text">
+                  <h1 class="support-hero-title">bitcoin <span class="support-hero-accent">támogatás</span></h1>
+                  <p class="support-hero-lead">
+                      Támogasd önkéntes tevékenységünket satok küldésével!
+                  </p>
+              </div>
+          </div>
+      </div>
       <div class="container-sm py-3 px-3 mx-auto text-center" style="min-height: 400px;">
-        <h1 class="px-3 py-3">Támogasd tevékenységünket!</h1>
         <p><b>Lightning Network cím:</b><br />huszonegy@blink.sv</p>
         <div class="px-3 py-3">
           <img src="/pics/huszonegy-qr.jpg" class="img-fluid" alt="qr kód" width="300" height="300">
@@ -50,3 +62,63 @@
     </div>
   </main>
 </template>
+
+<style scoped>
+.support-hero {
+    padding: 3.5rem 1rem 1.5rem;
+    max-width: 760px;
+}
+
+.support-hero-inner {
+    display: flex;
+    align-items: center;
+    gap: 2.5rem;
+}
+
+.support-hero-icon {
+    flex-shrink: 0;
+    font-size: 5rem;
+    color: #fff;
+    text-shadow: 0 0 32px rgba(247, 147, 26, 0.8), 0 0 64px rgba(247, 147, 26, 0.6), 0 0 96px rgba(247, 147, 26, 0.4);
+}
+
+.support-hero-text {
+    text-align: left;
+}
+
+.support-hero-title {
+    font-size: 2rem;
+    font-weight: 700;
+    margin: 0 0 0.8rem;
+    color: #fff;
+    letter-spacing: -0.5px;
+}
+
+.support-hero-accent {
+    color: #f7931a;
+}
+
+.support-hero-lead {
+    font-size: 1rem;
+    opacity: 0.78;
+    line-height: 1.6;
+    max-width: 520px;
+    margin-bottom: 0.6rem;
+}
+
+@media (max-width: 576px) {
+    .support-hero-inner {
+        flex-direction: column;
+        text-align: center;
+    }
+    .support-hero-text {
+        text-align: center;
+    }
+    .support-hero-title {
+        font-size: 1.8rem;
+    }
+    .support-hero-lead {
+        max-width: 100%;
+    }
+}
+</style>

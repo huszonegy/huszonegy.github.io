@@ -5,12 +5,12 @@
     <div class="forum-hero-section">
         <div class="forum-hero-inner">
             <div class="forum-hero-icon">
-                <i class="bi bi-chat-dots-fill"></i>
+                <i class="bi bi-chat-dots"></i>
             </div>
             <div class="forum-hero-text">
-                <h1 class="forum-hero-title">Bitcoin <span class="forum-hero-accent">Fórum</span></h1>
+                <h1 class="forum-hero-title">bitcoin <span class="forum-hero-accent">fórum</span></h1>
                 <p class="forum-hero-lead">
-                    A HUSZONEGY fórum a Telegram-on működik — itt beszélgetünk a Bitcoinról magyarul.
+                    A HUSZONEGY Telegram csoportban beszélgetünk a Bitcoinról magyarul.
                 </p>
             </div>
         </div>
@@ -40,7 +40,7 @@
     flex-shrink: 0;
     font-size: 5rem;
     color: #fff;
-    text-shadow: 0 0 48px rgba(247, 147, 26, 0.6), 0 0 96px rgba(247, 147, 26, 0.4);
+    text-shadow: 0 0 32px rgba(247, 147, 26, 0.8), 0 0 64px rgba(247, 147, 26, 0.6), 0 0 96px rgba(247, 147, 26, 0.4);
 }
 
 .forum-hero-text {
@@ -63,7 +63,7 @@
     font-size: 1rem;
     opacity: 0.78;
     line-height: 1.6;
-    max-width: 480px;
+    max-width: 550px;
     margin-bottom: 0.6rem;
 }
 

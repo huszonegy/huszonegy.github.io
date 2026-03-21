@@ -81,14 +81,14 @@ const steps = [
 }
 
 .beginner-card .card-title {
-    font-size: 0.88rem;
+    font-size: 1rem;
     font-weight: 700;
     margin-bottom: 0.8rem;
 }
 
 .beginner-card .card-text {
     color: rgba(255, 255, 255, 0.5) !important;
-    font-size: 0.78rem;
+    font-size: 0.88rem;
     line-height: 1.45;
     margin-bottom: 0;
 }
