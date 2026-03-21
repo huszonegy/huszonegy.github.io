@@ -22,7 +22,6 @@ import ForumExplain from '../components/ForumExplain.vue'
     margin: 0 auto;
 }
 
-.forum-hero :deep(.card),
 .forum-details :deep(.card) {
     border: none;
     margin-left: 0 !important;
