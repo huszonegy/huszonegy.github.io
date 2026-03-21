@@ -4,111 +4,125 @@ export const wallets = {
     intro: "",
     categories: [
         {
-            name: "Lightning tárcák -- szolgáltatói",
-            id: "lighning-custodial",
-            text: "A Lightning egy elterjedt második-rétegű (L2) bitcoin fizetési rendszer, gyors és olcsó utalásokat tesz lehetővé, főleg kisebb összegekre praktikus. \
-A szolgáltatói vagy letétkezelő (custodial) tárcáknál valójában a szolgáltató tárolja a felhasználók satoshijait, ezért meg kell bízni bennük. \
-Léteznek még ún. szuverén (self-custodial) tárcák, ahol a privát kulcsok a felhasználónál vannak, ezért biztonságosabbak. \
-A letétkezelői tárcák egyszerűbbek, első ismerkedésre jobban megfelelnek, de szigorúan CSAK KISEBB ÖSSZEGEKKEL ajánljuk!",
-            items: [
-                {
-                    name: "Blink",
-                    text: "Könnyen használható, sok funkcióval bíró mobil app; salvadori központú cég áll mögötte, nem szükséges KYC; elérhető magyar felülettel is; hasznos, tanulságos kvízt is foglal magában, mely néhány 1-2 sat-tal jutalmazza az egyes leckéket teljesítő felhasználót.",
-                    link: "https://blink.sv/"
-                },
-                {
-                    name: "Strike",
-                    text: "Könnyen használható, sokoldalú mobil app, amely a Lightning hálózaton gyors és olcsó bitcoin tranzakciókat kínál. Támogatja a fiat (pl. euró) és bitcoin közötti átváltást, valamint globális pénzátutalásokat. KYC szükséges. Kezelőfelülete intuitív, ideális kezdőknek és haladóknak egyaránt.",
-                    link: "https://strike.me/"
-                },
-                {
-                    name: "Wallet of Satoshi",
-                    text: "Könnyen használható, népszerű mobil app, alap funckiókkal; a cégről kevés információ ismert, nem szükséges KYC.",
-                    link: "https://walletofsatoshi.com/"
-                }
+            name: "Lightning tárcák",
+            id: "lightning",
+            text: "A Lightning egy elterjedt második-rétegű (L2) bitcoin fizetési rendszer, gyors és olcsó utalásokat tesz lehetővé, főleg kisebb összegekre praktikus.",
+            bulletsIntro: "Két fő típusa van:",
+            bullets: [
+                "szolgáltatói (custodial) – a szolgáltató tárolja a satoshikat",
+                "önrendelkező (self-custodial) – a privát kulcsok a felhasználónál maradnak"
             ],
-            outro: ""
-        },
-        {
-            name: "Lightning tárcák -- önrendelkező",
-            id: "lightning-selfcustodial",
-            text: "A Lightning egy elterjedt második-rétegű (L2) bitcoin fizetési rendszer, gyors és olcsó utalásokat tesz lehetővé, főleg kisebb összegekre praktikus. \
-Az ún. szuverén, önredelkező (self-custodial) tárcáknál a privát kulcsok kizárólag a felhasználónál vannak, ezáltal biztonságosabbak. \
-Léteznek még szolgáltatói vagy letétkezelő (custodial) tárcák, ahol valójában a szolgáltató tárolja a felhasználók pénzét; itt van rizikó a szolgáltató miatt, viszont kicsit egyszerűbben használhatók.",
-            items: [
+            subcategories: [
                 {
-                    name: "AQUA",
-                    text: "Az AQUA egy olyan önrendelkező (self-custodial) Bitcoin és Lightning tárca, amely egyszerű kezelhetőséget kínál kezdőknek is. Hamarosan magyar felülettel is elérhető lesz. Támogatja a Bitcoin on-chain, Lightning és Liquid hálózatokat, valamint a Tether USDt-t. A Lightning tranzakciókat a Boltz segítségével, Liquid Bitcoin (L-BTC) alapú submarine swap-okkal kezeli, automatizálva a csatornakezelést.",
-                    link: "https://aquawallet.io/"
-                },
-                {
-                    name: "Phoenix",
-                    text: "Ez egy olyan Lightning tárca, amelyik tárolja a privát kulcsokat, így nem kell megbízni a szolgáltatóban, viszont nem is kell a felhasználónak foglalkoznia a csatornák kezelésével, mert azt a szolgáltató szinte teljesen automatizálja -- némi díjért cserébe (jól átlátható díjazás).",
-                    link: "https://phoenix.acinq.co/"
-                },
-                {
-                    name: "Breez",
-                    text: "Self-custodial lightning tárca, mobilon futó teljes Lightning node, saját csatorna-kezelés lehetőséggel",
-                    link: "https://breez.technology/mobile/"
-                },
-                {
-                    name: "Zeus",
-                    text: "A Zeus egy sokoldalú Lightning tárca, sokan 'távirányító appként' használjuk egy szerveren futó saját node kezeléséhez. De ezen túl képes helyben futó node-ként is működni, akár saját csatorna kezeléssel, akár a Zeus LSP-jét használva.",
-                    link: "https://zeusln.com/"
-                }
+                    name: "Szolgáltatói",
+                    id: "lightning-custodial",
+                    text: "A letétkezelői tárcák egyszerűbbek, első ismerkedésre jobban megfelelnek, de szigorúan CSAK KISEBB ÖSSZEGEKKEL ajánljuk!",
+                    items: [
+                        {
+                            name: "Blink",
+                            text: "Könnyen használható, sok funkcióval bíró mobil app; salvadori központú cég áll mögötte, nem szükséges KYC; elérhető magyar felülettel is; hasznos, tanulságos kvízt is foglal magában, mely néhány 1-2 sat-tal jutalmazza az egyes leckéket teljesítő felhasználót.",
+                            link: "https://blink.sv/"
+                        },
+                        {
+                            name: "Strike",
+                            text: "Könnyen használható, sokoldalú mobil app, amely a Lightning hálózaton gyors és olcsó bitcoin tranzakciókat kínál. Támogatja a fiat (pl. euró) és bitcoin közötti átváltást, valamint globális pénzátutalásokat. KYC szükséges. Kezelőfelülete intuitív, ideális kezdőknek és haladóknak egyaránt.",
+                            link: "https://strike.me/"
+                        },
+                        {
+                            name: "Wallet of Satoshi",
+                            text: "Könnyen használható, népszerű mobil app, alap funckiókkal; a cégről kevés információ ismert, nem szükséges KYC.",
+                            link: "https://walletofsatoshi.com/"
+                        }
+                    ],
 
-            ],
-            outro: "Az olyan tárcákat, ahol mi magunk kell a csatornákat kezeljük, csak azoknak ajánljuk, akik már járatossabbak a Lightningban. Említésre méltó még: Blixt."
-        },
-        {
-            name: "On-chain tárcák -- mobilon",
-            id: "onchain-mobil",
-            text: "Mobilapplikációk amelyekkel on-chain bitcoint tárolhatunk. \
-Szempontok: jó ha egy tárca: nyílt forráskódú (FOSS), és kizárólag bitcoinos. Plusz pont, ha mutatja az egyes UTXO-kat (coin selection)",
-            items: [
-                {
-                    name: "Green wallet",
-                    text: "A Blockstream tárcája, jó on-chain tárca, de támogat Liquidet is.",
-                    link: "https://blockstream.com/green/"
                 },
                 {
-                    name: "Blue wallet",
-                    text: "Kipróbált bitcoin tárca app, on-chain tranzakciókra nagyon jó.",
-                    link: "https://bluewallet.io/"
-                },
-                {
-                    name: "Nunchuk",
-                    text: "Modern tárca app, erőssége a több-eszközös védelem (multidevice/multisig), illetve jól együttműködik hardver tárcákkal.",
-                    link: "https://nunchuk.io/"
+                    name: "Önrendelkező",
+                    id: "lightning-selfcustodial",
+                    text: "Az önrendelkező tárcáknál a privát kulcsok kizárólag a felhasználónál vannak, ezáltal biztonságosabbak. Az olyan tárcákat, ahol mi magunk kell a csatornákat kezeljük, csak azoknak ajánljuk, akik már járatossabbak a Lightningban. Említésre méltó még: Blixt.",
+                    items: [
+                        {
+                            name: "AQUA",
+                            text: "Az AQUA egy olyan önrendelkező (self-custodial) Bitcoin és Lightning tárca, amely egyszerű kezelhetőséget kínál kezdőknek is. Hamarosan magyar felülettel is elérhető lesz. Támogatja a Bitcoin on-chain, Lightning és Liquid hálózatokat, valamint a Tether USDt-t. A Lightning tranzakciókat a Boltz segítségével, Liquid Bitcoin (L-BTC) alapú submarine swap-okkal kezeli, automatizálva a csatornakezelést.",
+                            link: "https://aquawallet.io/"
+                        },
+                        {
+                            name: "Phoenix",
+                            text: "Ez egy olyan Lightning tárca, amelyik tárolja a privát kulcsokat, így nem kell megbízni a szolgáltatóban, viszont nem is kell a felhasználónak foglalkoznia a csatornák kezelésével, mert azt a szolgáltató szinte teljesen automatizálja – némi díjért cserébe (jól átlátható díjazás).",
+                            link: "https://phoenix.acinq.co/"
+                        },
+                        {
+                            name: "Breez",
+                            text: "Self-custodial lightning tárca, mobilon futó teljes Lightning node, saját csatorna-kezelés lehetőséggel",
+                            link: "https://breez.technology/mobile/"
+                        },
+                        {
+                            name: "Zeus",
+                            text: "A Zeus egy sokoldalú Lightning tárca, sokan 'távirányító appként' használjuk egy szerveren futó saját node kezeléséhez. De ezen túl képes helyben futó node-ként is működni, akár saját csatorna kezeléssel, akár a Zeus LSP-jét használva.",
+                            link: "https://zeusln.com/"
+                        }
+                    ],
+
                 }
             ]
         },
         {
-            name: "On-chain tárcák -- számítógépen",
-            id: "onchain-mobil",
-            text: "Szoftveres tárca applikációk, amelyekkel on-chain bitcoint tárolhatunk. Legbiztonságosabbak egy hardver tárcával együtt használva. \
-Szempontok: jó ha egy tárca: nyílt forráskódú (FOSS), és kizárólag bitcoinos.",
-            items: [
+            name: "On-chain tárcák",
+            id: "onchain",
+            text: "On-chain tárcákkal közvetlenül a Bitcoin blokkláncon tárolhatunk bitcoint. Szempontok: jó ha egy tárca nyílt forráskódú (FOSS), és kizárólag bitcoinos.",
+            subcategories: [
                 {
-                    name: "Ginger wallet",
-                    text: "Non-Custodial, Open source Bitcoin tárca CoinJoinnal, 2FA-val, Torral és hardvertárca-támogatással. Magyar nyelv elérhető.",
-                    link: "https://gingerwallet.io"
+                    name: "Mobilon",
+                    id: "onchain-mobil",
+                    text: "Plusz pont, ha mutatja az egyes UTXO-kat (coin selection).",
+                    items: [
+                        {
+                            name: "Green wallet",
+                            text: "A Blockstream tárcája, jó on-chain tárca, de támogat Liquidet is.",
+                            link: "https://blockstream.com/green/"
+                        },
+                        {
+                            name: "Blue wallet",
+                            text: "Kipróbált bitcoin tárca app, on-chain tranzakciókra nagyon jó.",
+                            link: "https://bluewallet.io/"
+                        },
+                        {
+                            name: "Nunchuk",
+                            text: "Modern tárca app, erőssége a több-eszközös védelem (multidevice/multisig), illetve jól együttműködik hardver tárcákkal.",
+                            link: "https://nunchuk.io/"
+                        }
+                    ]
                 },
                 {
-                    name: "Sparrow",
-                    text: "A Sparrow wallet sokrétű funkcionalitást támogat, egyik legprofibb, viszont a felülete elsőre nem a legegyszerűbb. ",
-                    link: "https://www.sparrowwallet.com"
+                    name: "Számítógépen",
+                    id: "onchain-desktop",
+                    text: "Legbiztonságosabbak egy hardver tárcával együtt használva.",
+                    items: [
+                        {
+                            name: "Ginger wallet",
+                            text: "Non-Custodial, Open source Bitcoin tárca CoinJoinnal, 2FA-val, Torral és hardvertárca-támogatással. Magyar nyelv elérhető.",
+                            link: "https://gingerwallet.io"
+                        },
+                        {
+                            name: "Sparrow",
+                            text: "A Sparrow wallet sokrétű funkcionalitást támogat, egyik legprofibb, viszont a felülete elsőre nem a legegyszerűbb. ",
+                            link: "https://www.sparrowwallet.com"
+                        }
+                    ]
                 }
-            ],
+            ]
         },
         {
             name: "Hardver tárcák",
             id: "hw-wallet",
-            text: "A hardver tárcák olyan kis eszközök, amik kizárólag arra valók, hogy bitcoin tranzakciókat írjanak alá. \
-Tárolják a privát kulcsokat (hosszabb vagy rövidebb ideig), és ezzel tudnak aláírni bitcoin tranzakciókat. \
-Nem csatlakoznak az internetre, és a kulcsokat biztonságos módon tárolják. \
-Szempontok: jó ha: airgapped (nem csatlakozik vezetékkel a hoszt géphez), kizárólag bitcoinos, nyílt forráskódú (FOSS), és van benne \"secure element\" hardver. \
-A hardver tárca csatlakoztatásához ajánlott egy jó szoftvertárca is, pl. Sparrow (desktop) vagy Nunchuk (mobil).",
+            text: "A hardver tárcák olyan kis eszközök, amik kizárólag arra valók, hogy bitcoin tranzakciókat írjanak alá. Tárolják a privát kulcsokat, nem csatlakoznak az internetre, és a kulcsokat biztonságos módon tárolják. A hardver tárca csatlakoztatásához ajánlott egy jó szoftvertárca is, pl. Sparrow (desktop) vagy Nunchuk (mobil).",
+            bulletsIntro: "Szempontok:",
+            bullets: [
+                "airgapped (nem csatlakozik vezetékkel a hoszt géphez)",
+                "kizárólag bitcoinos",
+                "nyílt forráskódú (FOSS)",
+                "van benne \"secure element\" hardver"
+            ],
             items: [
                 {
                     name: "ColdCard (Q, MK4)",
@@ -153,13 +167,14 @@ Mindez egy nagyobacska kavics kinézetű érekes kis eszközben.",
         {
             name: "Bitcoin csomópontok (node)",
             id: "node",
-            text: "Ha nem szeretnél más szoftver szolgáltatásától függeni, vagy nem szeretnéd ha bárki más látná, hogy milyen (saját) címek egyenlegére vagy kíváncsi, \
-vagy hogy honnan jönnek a tranzakcióid, vagy csak hozzá szeretnél járulni a bitcoin hálózat decentralizáltságához, \
-a legjobb ha te is futtatsz egy bitcoin csomópontot (node-ot). \
-Ehhez egy szerényebb hardver is elég, pl. egy Raspberry Pi, vagy egy mini PC, vagy egy régi laptop. \
-Adattárolóból viszont egy 2TB-os ajánlott -- és ha lehet SSD. \
-Itt pár szoftver projektet említünk meg, de komplett hardver+szoftver megoldások is elérhetők ezektől a projektektől vagy kapcsolódó forrásokból. \
-Tipikusan egy bitcoin node mellett egyéb társult szolgáltatásokat is lehet/érdemes futtatni, mint pl. indexelők (electrum, mempool, stb.), vagy Lightning node.",
+            text: "Ha nem szeretnél más szoftver szolgáltatásától függeni, vagy nem szeretnéd ha bárki más látná a tranzakcióidat, vagy csak hozzá szeretnél járulni a bitcoin hálózat decentralizáltságához – futtass saját node-ot.",
+            bulletsIntro: "Tudnivalók:",
+            bullets: [
+                "egy szerényebb hardver is elég: Raspberry Pi, mini PC, vagy régi laptop",
+                "adattárolóból 2TB-os ajánlott – és ha lehet SSD",
+                "komplett hardver+szoftver megoldások is elérhetők",
+                "a node mellett érdemes egyéb szolgáltatásokat is futtatni (electrum, mempool, Lightning node)"
+            ],
             items: [
                 {
                     name: "StartOS",
@@ -180,5 +195,5 @@ Tipikusan egy bitcoin node mellett egyéb társult szolgáltatásokat is lehet/�
 
         }
     ],
-    outro: "Kiegészítésket, javításokat a GitHub repoban vagy a telegram csoportban várunk."
+    outro: ""
 }
