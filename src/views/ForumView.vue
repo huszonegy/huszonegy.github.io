@@ -4,11 +4,9 @@ import ForumExplain from '../components/ForumExplain.vue'
 </script>
 
 <template>
-    <main style="width: auto;">
+    <main>
+        <ForumShort />
         <div class="forum-page">
-            <div class="forum-hero">
-                <ForumShort />
-            </div>
             <div class="forum-details">
                 <ForumExplain />
             </div>
