@@ -10,7 +10,7 @@ defineProps<{
 <template>
     <div name="links-list" class="container-flex">
         <div class="row">
-            <div v-for="article in get_articles(max_count)" class="card mx-2 my-3 article" style="width: 19.4rem;">
+            <div v-for="article in get_articles(max_count)" class="card mx-2 my-3 article">
 
                 <div class="d-flex align-items-end article-banner" style="min-height: 80px;">
                     <a :href="article.link" target="_self" class="link">
@@ -36,4 +36,10 @@ defineProps<{
 </template>
 
 <style scoped>
+.card {
+    max-width: 320px;
+}
+.card-title {
+font-weight: 700;
+}
 </style>

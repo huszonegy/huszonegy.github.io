@@ -4,14 +4,14 @@ import ArticlesList from '../components/ArticlesList.vue'
 
 <template>
     <main>
-        <div class="articles-hero mx-auto">
-            <div class="articles-hero-inner">
-                <div class="articles-hero-icon">
+        <div class="hero mx-auto">
+            <div class="hero-inner">
+                <div class="hero-icon">
                     <i class="bi bi-journal-text"></i>
                 </div>
-                <div class="articles-hero-text">
-                    <h1 class="articles-hero-title">bitcoin <span class="articles-hero-accent">cikkek</span></h1>
-                    <p class="articles-hero-lead">
+                <div class="hero-text">
+                    <h1 class="hero-title">bitcoin <span class="hero-accent">cikkek</span></h1>
+                    <p class="hero-lead">
                         Magyar nyelvű bitcoin cikkek, elemzések és fordítások.
                     </p>
                 </div>
@@ -23,29 +23,34 @@ import ArticlesList from '../components/ArticlesList.vue'
 </template>
 
 <style scoped>
-.articles-hero {
+.hero {
     padding: 3.5rem 1rem 1.5rem;
-    max-width: 760px;
+    max-width: 780px;
 }
 
-.articles-hero-inner {
+.hero-inner {
     display: flex;
     align-items: center;
     gap: 2.5rem;
 }
 
-.articles-hero-icon {
+.hero-icon {
     flex-shrink: 0;
+    width: 120px;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     font-size: 5rem;
     color: #fff;
     text-shadow: 0 0 32px rgba(247, 147, 26, 0.8), 0 0 64px rgba(247, 147, 26, 0.6), 0 0 96px rgba(247, 147, 26, 0.4);
 }
 
-.articles-hero-text {
+.hero-text {
     text-align: left;
 }
 
-.articles-hero-title {
+.hero-title {
     font-size: 2rem;
     font-weight: 700;
     margin: 0 0 0.8rem;
@@ -53,30 +58,30 @@ import ArticlesList from '../components/ArticlesList.vue'
     letter-spacing: -0.5px;
 }
 
-.articles-hero-accent {
+.hero-accent {
     color: #f7931a;
 }
 
-.articles-hero-lead {
+.hero-lead {
     font-size: 1rem;
     opacity: 0.78;
     line-height: 1.6;
-    max-width: 480px;
+    max-width: 560px;
     margin-bottom: 0.6rem;
 }
 
 @media (max-width: 576px) {
-    .articles-hero-inner {
+    .hero-inner {
         flex-direction: column;
         text-align: center;
     }
-    .articles-hero-text {
+    .hero-text {
         text-align: center;
     }
-    .articles-hero-title {
+    .hero-title {
         font-size: 1.8rem;
     }
-    .articles-hero-lead {
+    .hero-lead {
         max-width: 100%;
     }
 }
