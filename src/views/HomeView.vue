@@ -5,21 +5,21 @@ import BeginnerGuide from '../components/BeginnerGuide.vue'
 
 <template>
   <main>
-    <div name="main-inner" class="container">
-      <div class="hero mx-auto">
-        <div class="hero-inner">
-          <div class="hero-logo">
-            <img src="/logo/he-logo-circle-320x320-2.png" class="img-fluid" alt="huszonegy" width="120" height="120">
-          </div>
-          <div class="hero-text">
-            <h1 class="hero-title">csak bitcoinról, <span class="hero-accent">magyarul</span></h1>
-            <p class="hero-lead">
-              Bitcoin tudástár és közösség. Podcast, oktatóanyagok, támogatás...
-            </p>
-          </div>
+    <div class="hero mx-auto">
+      <div class="hero-inner">
+        <div class="hero-logo">
+          <img src="/logo/he-logo-circle-320x320-2.png" class="img-fluid" alt="huszonegy" width="120" height="120">
+        </div>
+        <div class="hero-text">
+          <h1 class="hero-title">csak bitcoinról, <span class="hero-accent">magyarul</span></h1>
+          <p class="hero-lead">
+            Bitcoin tudástár és közösség. Podcast, oktatóanyagok, támogatás...
+          </p>
         </div>
       </div>
+    </div>
 
+    <div name="main-inner" class="container">
       <BeginnerGuide />
 
       <div class="mt-3">
@@ -51,13 +51,12 @@ import BeginnerGuide from '../components/BeginnerGuide.vue'
   .hero {
     padding: 3.5rem 1rem 1.5rem;
     max-width: 780px;
-    position: relative;
   }
 
   .hero-inner {
     display: flex;
     align-items: center;
-    gap: 2.8rem;
+    gap: 2.5rem;
   }
 
   .hero-logo {
@@ -87,12 +86,8 @@ import BeginnerGuide from '../components/BeginnerGuide.vue'
     font-size: 1rem;
     opacity: 0.78;
     line-height: 1.6;
-    max-width: 520px;
+    max-width: 560px;
     margin-bottom: 0.6rem;
-  }
-
-  .hero-lead:last-child {
-    margin-bottom: 0;
   }
 
   .section-title {
