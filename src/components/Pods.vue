@@ -149,6 +149,7 @@ import { link_simplified } from '../utils'
     gap: 0.5rem 1.5rem;
     justify-content: center;
     align-items: flex-start;
+    padding: 10px;
 }
 
 .platform-link {
