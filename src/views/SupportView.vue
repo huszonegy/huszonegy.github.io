@@ -3,20 +3,20 @@
 
 <template>
   <main>
-    <div name="main-inner" class="container">
-      <div class="support-hero mx-auto">
-          <div class="support-hero-inner">
-              <div class="support-hero-icon">
-                  <i class="bi bi-heart"></i>
-              </div>
-              <div class="support-hero-text">
-                  <h1 class="support-hero-title">bitcoin <span class="support-hero-accent">támogatás</span></h1>
-                  <p class="support-hero-lead">
-                      Támogasd önkéntes tevékenységünket satok küldésével!
-                  </p>
-              </div>
-          </div>
-      </div>
+    <div class="support-hero mx-auto">
+        <div class="support-hero-inner">
+            <div class="support-hero-icon">
+                <i class="bi bi-heart"></i>
+            </div>
+            <div class="support-hero-text">
+                <h1 class="support-hero-title">bitcoin <span class="support-hero-accent">támogatás</span></h1>
+                <p class="support-hero-lead">
+                    Támogasd önkéntes tevékenységünket satok küldésével!
+                </p>
+            </div>
+        </div>
+    </div>
+    <div name="main-inner" class="container support">
       <div class="container-sm py-3 px-3 mx-auto text-center" style="min-height: 400px;">
         <p><b>Lightning Network cím:</b><br />huszonegy@blink.sv</p>
         <div class="px-3 py-3">
@@ -25,7 +25,7 @@
       </div>
 
       <div name="main-inner container">
-        <div class="card py-4 px-4 my-3" style="max-width: 800px;">
+        <div class="card py-4 px-4 my-3">
             <p class="card-text">Miután egy Lightning tárca qr kód olvasójával beolvasod a fenti kódot, adj meg egy tetszőleges összeget (általában sat-ban kifejezve), opcionálisan üzenetet is adhatsz hozzá, majd kattints a küldésre!</p>
             <p class="card-text">Ha valamilyen oknál fogva a Lightning küldés nem megoldható (bár az alacsonyabb díjak miatt ez az ajánlott), lejjebb található egy on-chain cím is (a magasabb díjak miatt ez pici összegekre nem praktikus).</p>
             <p class="card-text">Bármekkora támogatást hálásan köszönünk, és minden egyes sat-ot magyar nyelvű bitcoin oktatássá konvertálunk.</p>
@@ -66,7 +66,7 @@
 <style scoped>
 .support-hero {
     padding: 3.5rem 1rem 1.5rem;
-    max-width: 760px;
+    max-width: 780px;
 }
 
 .support-hero-inner {
@@ -77,6 +77,11 @@
 
 .support-hero-icon {
     flex-shrink: 0;
+    width: 120px;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     font-size: 5rem;
     color: #fff;
     text-shadow: 0 0 32px rgba(247, 147, 26, 0.8), 0 0 64px rgba(247, 147, 26, 0.6), 0 0 96px rgba(247, 147, 26, 0.4);
@@ -102,8 +107,13 @@
     font-size: 1rem;
     opacity: 0.78;
     line-height: 1.6;
-    max-width: 520px;
+    max-width: 560px;
     margin-bottom: 0.6rem;
+}
+
+.support .card {
+  max-width: 860px;
+  margin: auto;
 }
 
 @media (max-width: 576px) {
