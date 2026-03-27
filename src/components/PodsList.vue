@@ -284,6 +284,8 @@ defineProps<{
         </Transition>
     </Teleport>
 
+    <slot />
+
     <div name="links-list" class="container-flex py-3 podcast">
         <div class="row row-cols-2">
             <div v-for="pod in get_pods(max_count)" class="card mx-2 my-2" style="width: 20rem;">
@@ -444,7 +446,7 @@ defineProps<{
 .search-section {
   display: flex;
   justify-content: center; /* Középre igazítás */
-  margin: 1rem 0 4rem 0;
+  margin: 1rem 0 3rem 0;
 }
 
 .search-trigger {
