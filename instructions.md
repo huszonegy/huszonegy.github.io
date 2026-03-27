@@ -33,7 +33,9 @@ Ez nem összefoglalás, hanem az élőbeszéd tisztítása. Minden elhangzott é
 
 **Eltávolítandó:** hezitálások ("és és", "a a", "ö"), egyszavas reagálások ("Igen.", "Ja.", "Ühüm.", "Bizony.", "Pontosan.", "Persze."), félbehagyott mondatok, töltelékszavak ("na most", "szóval", "tudod").
 
-**Megtartandó:** természetes hangvétel, beszélők egyéni stílusa, humor, minden érdemi tartalom.
+**Figyelem – NEM eltávolítandó:** a `"Nem tudom"` kifejezés, ha nem töltelék, hanem érdemi megszólalás kezdete vagy gondolkodás kifejezése.
+
+**Megtartandó:** természetes hangvétel, beszélők egyéni stílusa, humor, minden érdemi tartalom. Angol loanword-ök, amiket a beszélők tudatosan használnak (pl. abuzálás, home run, bottom-up, guidance, off-grid, disconnect, number go up) — NE fordítsd magyarra.
 
 **Bekezdések:** egy bekezdés = egy gondolati egység, 3-8 mondat. Többtémás bekezdéseket bontsd, töredékeket fésüld össze.
 
@@ -49,6 +51,7 @@ Ez nem összefoglalás, hanem az élőbeszéd tisztítása. Minden elhangzott é
 - NE alakítsd cikk-stílusúvá (heading-ek, H1/H2)
 - NE használj bold kiemeléseket a szövegtestben
 - NE törölj érdemi tartalmat – ha kétséges, hagyd bent
+- NE rövidítsd le a mondatokat – ha a speech-to-text-ben egy mondat folytatódik, az egész benne marad
 - NE változtasd az outro tartalmát, csak a formázást
 - NE módosítsd a .txt fájlokat – azok referenciaként maradnak
 

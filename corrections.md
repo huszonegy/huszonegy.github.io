@@ -15,6 +15,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - SFID → **Saifedean** (Ammous)
 - Parker Lois → **Parker Lewis**
 - Árti → **Árpi**
+- RP → **Árpi**
 - Les → **Lez**
 - Lesz → **Lez**
 - Opt-out → **Optout**
