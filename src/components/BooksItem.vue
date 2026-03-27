@@ -9,10 +9,10 @@ defineProps<{
 
 <template>
     <!-- Renders one book, with the given ID -->
-    <div v-for="book in get_book(id)" class="card my-4 px-3 py-3" style="max-width: 740px;" :id="book.id">
+    <div v-for="book in get_book(id)" class="books card my-4 px-3 py-3" :id="book.id">
         <div class="row g-0">
             <div class="col-md-4 content-justify-center center">
-                <img v-if="book.img" class="img-fluid rounded-start px-3 py-3" :src="book.img" :alt="book.title" :title="book.title" width="300" />
+                <img v-if="book.img" class="img-fluid rounded-start px-3" :src="book.img" :alt="book.title" :title="book.title" width="300" />
             </div>
             <div class="col-md-8">
                 <div class="card-body">
@@ -37,4 +37,12 @@ defineProps<{
     </div>
 </template>
 
-<style scoped></style>
+<style scoped>
+    .books {
+        max-width: 860px;
+        margin: auto;
+    }
+    .img-fluid {
+        width: 200px;
+    }
+</style>
