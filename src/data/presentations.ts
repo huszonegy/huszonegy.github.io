@@ -2,7 +2,7 @@
 
 export const presentations = [
     {
-        event: "Bitcoin meetup – február 26.",
+        event: "Februári Bitcoin meetup",
         params: "Perspective Bar, Budapest - 2026. február 26.",
         details: "Újabb bitcoin meetup bp belvárosában. Egy előadás volt műsoron: Molnár Dávid, a Ginger Wallet vezető fejlesztője bemutatta a Bitcoin pénzügyi privacy kérdéseit és a Coinjoin működését.",
         parts: [
@@ -18,7 +18,7 @@ export const presentations = [
         ]
     },
     {
-        event: "Bitcoin Miskolc",
+        event: "Bitcoin Miskolc 3.",
         params: "Hotel Aurora, Miskolc - 2025. október 17-19.",
         details: "A 3. magyar Bitcoin konferencia felvételei szép sorban válnak elérhetővé.",
         parts: [
@@ -221,7 +221,7 @@ export const presentations = [
         ]
     },
     {
-        event: "Bitcoin Miskolc",
+        event: "Bitcoin Miskolc 2.",
         params: "Hotel Atlantis, Hajdúszoboszló - 2025. március 21-23.",
         details: "A második magyar Bitcoin konferencia felvételei.",
         parts: [
@@ -363,7 +363,7 @@ export const presentations = [
         ]
     },
     {
-        event: "Bitcoin Miskolc",
+        event: "Bitcoin Miskolc 1.",
         params: "Hotel Aurora, Miskolc - 2024. október 11-13.",
         details: "Az első magyar Bitcoin konferencia a HUSZONEGY csoport tagjainak jól felépített előadás-sorozatán keresztül mutatja be részletesen, hogy miért kizárólag a Bitcoinnal foglalkozunk.",
         parts: [
