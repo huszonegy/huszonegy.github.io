@@ -205,7 +205,7 @@ defineProps<{
 
 <template>
     <div class="search-section">
-        <div class="search-trigger mt-3" @click="isSearchOpen = true">
+        <div class="search-trigger" @click="isSearchOpen = true">
         <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor">
             <circle cx="11" cy="11" r="8" stroke-width="2" />
             <path d="M21 21l-4.35-4.35" stroke-width="2" stroke-linecap="round" />
@@ -444,7 +444,7 @@ defineProps<{
 .search-section {
   display: flex;
   justify-content: center; /* Középre igazítás */
-  margin: 2rem 0 3rem 0;
+  margin: 1rem 0 4rem 0;
 }
 
 .search-trigger {
