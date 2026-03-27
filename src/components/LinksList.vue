@@ -40,7 +40,7 @@ import { links } from '../data/links'
 <style scoped>
 .links-hero {
     padding: 3.5rem 1rem 1.5rem;
-    max-width: 760px;
+    max-width: 780px;
 }
 
 .links-hero-inner {
@@ -51,6 +51,11 @@ import { links } from '../data/links'
 
 .links-hero-icon {
     flex-shrink: 0;
+    width: 120px;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     font-size: 5rem;
     color: #fff;
     text-shadow: 0 0 32px rgba(247, 147, 26, 0.8), 0 0 64px rgba(247, 147, 26, 0.6), 0 0 96px rgba(247, 147, 26, 0.4);
@@ -76,8 +81,13 @@ import { links } from '../data/links'
     font-size: 1rem;
     opacity: 0.78;
     line-height: 1.6;
-    max-width: 480px;
+    max-width: 560px;
     margin-bottom: 0.6rem;
+}
+
+.links {
+    max-width: 860px;
+    margin: auto;
 }
 
 @media (max-width: 576px) {
