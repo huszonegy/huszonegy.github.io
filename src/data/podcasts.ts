@@ -55,7 +55,7 @@ export const podcasts = [
         members: ["Anti", "Hajnal", "Árpi"],
         topic: "Minden tiszta matematika - Egyetlen értékem van: az időm - Az idő az egyetlen pénzed - Feltétel nélküli jövedelem: utópia? - Minden a pénzről szól, ami valójában energia - Hiányból bőség: a morális kapitalizmus útja - Fájdalom és betegség mint tanítómester - Láthatatlan háború az erőforrásainkért - Közösségi terek a jövő generációjának - Bitcoin mint rendszerellenes igazság és etikai mérce - A fizikai találkozások ereje",
         yt: "https://www.youtube.com/watch?v=6LZCwSTqTPU",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/Y361d2N4oJcEziKrcIrG"
     },
     {
         name: "Arany vs. bitcoin: melyik működik, ha baj van?",
