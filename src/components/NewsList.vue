@@ -8,9 +8,9 @@ defineProps<{
 </script>
 
 <template>
-    <div name="links-list" class="row g-3 mx-0 news">
+    <div name="links-list" class="row g-3 news mx-2 py-3">
         <div v-for="nn in get_news(max_count)" class="col-md-6">
-        <div class="card mx-2 my-0 news">
+        <div class="card my-0">
             <div class="card-body">
                 <h3 class="card-title">
                     {{ nn.summary }}
@@ -38,6 +38,7 @@ defineProps<{
         --bs-card-spacer-x: 1.2rem;
         --bs-card-title-spacer-y: 0.2rem;
         padding-bottom: 0;
+        max-width: 650px !important;
     }
     .card-title {
         font-size: 1rem;
