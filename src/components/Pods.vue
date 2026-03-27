@@ -27,7 +27,7 @@ import { link_simplified } from '../utils'
                 </a>
                 <a href="https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N" target="_blank" rel="noopener" class="platform-link fountain-link" title="Fountain">
                     <span class="icon-wrap">
-                        <img src="https://fountain.fm/_next/static/media/fountain-logo.0vmawpc8crt8k.png" class="fountain-img" alt="" aria-hidden="true" />
+                        <img src="/public/logo/fountain-logo.png" class="fountain-img" alt="" aria-hidden="true" />
                     </span>
                     <span>Fountain</span>
                 </a>
@@ -91,7 +91,7 @@ import { link_simplified } from '../utils'
 <style scoped>
 .pods-hero {
     padding: 3.5rem 1rem 1.5rem;
-    max-width: 860px;
+    max-width: 780px;
 }
 
 .pods-hero-inner {
@@ -172,6 +172,7 @@ import { link_simplified } from '../utils'
     justify-content: center;
     font-size: 1.5rem;
     line-height: 1;
+    transition: transform 0.2s ease, color 0.2s;
 }
 
 .platform-link .icon-wrap svg {
@@ -189,24 +190,18 @@ import { link_simplified } from '../utils'
 }
 
 .platform-link:hover .icon-wrap {
-    color: #ffb347;
+    transform: scale(1.2);
 }
 
 .platform-link:hover > span:last-child {
-    color: #ffb347;
     opacity: 1;
+    color: #ffa500;
 }
 
 .fountain-img {
     width: 24px;
     height: 24px;
     mix-blend-mode: lighten;
-    opacity: 0.9;
-    transition: opacity 0.2s, filter 0.2s;
-}
-
-.fountain-link:hover .fountain-img {
-    opacity: 1;
 }
 
 .kebab-title {
