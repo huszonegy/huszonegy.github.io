@@ -2,22 +2,22 @@
 </script>
 
 <template>
-    <main style="width: auto;">
-        <div class="row">
-            <div class="col-12 col-lg-10 mx-auto center">
-                <div class="meetup-hero mx-auto">
-                    <div class="meetup-hero-inner">
-                        <div class="meetup-hero-icon">
-                            <i class="bi bi-people-fill"></i>
-                        </div>
-                        <div class="meetup-hero-text">
-                            <h1 class="meetup-hero-title">bitcoin <span class="meetup-hero-accent">meetup</span></h1>
-                            <p class="meetup-hero-lead">
-                                A meetup portálon láthatók az aktuális találkozók.
-                            </p>
-                        </div>
-                    </div>
+    <main>
+        <div class="meetup-hero mx-auto">
+            <div class="meetup-hero-inner">
+                <div class="meetup-hero-icon">
+                    <i class="bi bi-people-fill"></i>
                 </div>
+                <div class="meetup-hero-text">
+                    <h1 class="meetup-hero-title">bitcoin <span class="meetup-hero-accent">meetup</span></h1>
+                    <p class="meetup-hero-lead">
+                        A meetup portálon láthatók az aktuális találkozók.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-lg-10 mx-auto center py-2">
                 <div class="center mt-2 mb-4">
                     <a href="https://portal.huszonegy.world/hu/meetups" target="_blank" class="btn btn-custom">
                         Irány a meetup portál
@@ -58,8 +58,8 @@
 
 <style scoped>
 .meetup-hero {
-    padding: 3.5rem 1rem 0;
-    max-width: 760px;
+    padding: 3.5rem 1rem 1.5rem;
+    max-width: 780px;
 }
 
 .meetup-hero-inner {
@@ -70,14 +70,18 @@
 
 .meetup-hero-icon {
     flex-shrink: 0;
+    width: 120px;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     font-size: 5rem;
     color: #fff;
-    text-shadow: 0 0 48px rgba(247, 147, 26, 0.6), 0 0 96px rgba(247, 147, 26, 0.4);
+    text-shadow: 0 0 32px rgba(247, 147, 26, 0.8), 0 0 64px rgba(247, 147, 26, 0.6), 0 0 96px rgba(247, 147, 26, 0.4);
 }
 
 .meetup-hero-text {
     text-align: left;
-    max-width: 450px;
 }
 
 .meetup-hero-title {
@@ -96,7 +100,7 @@
     font-size: 1rem;
     opacity: 0.78;
     line-height: 1.6;
-    max-width: 480px;
+    max-width: 560px;
     margin-bottom: 0.6rem;
 }
 
