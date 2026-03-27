@@ -4,9 +4,9 @@ import { wallets } from '../data/wallets';
 </script>
 
 <template>
-    <div name="wallets-list" class="container-flex py-3">
+    <div name="wallets-list" class="container-flex py-3 wallets">
         <!-- contents -->
-        <div class="py-3 px-1">
+        <div class="px-1">
             <h2>Tárca kategóriák</h2>
             <ul class="mb-0">
                 <li v-for="cat in wallets.categories" class="mb-1">
@@ -19,7 +19,7 @@ import { wallets } from '../data/wallets';
                 </li>
             </ul>
         </div>
-        <div class="notice-box mt-3 py-4 px-4 rounded">
+        <div class="notice-box mt-4 py-4 px-4 rounded">
             <strong>Mielőtt választasz:</strong>
             <ul class="mt-2 mb-0">
                 <li>Az egyszerűsített ajánlások nagyon szubjektívek, és messze nem tudnak figyelembe venni minden szempontot!</li>

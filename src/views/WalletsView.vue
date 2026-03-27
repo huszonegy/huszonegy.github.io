@@ -25,7 +25,7 @@ import WalletsList from '../components/WalletsList.vue'
 <style scoped>
 .wallets-hero {
     padding: 3.5rem 1rem 1.5rem;
-    max-width: 760px;
+    max-width: 780px;
 }
 
 .wallets-hero-inner {
@@ -36,6 +36,11 @@ import WalletsList from '../components/WalletsList.vue'
 
 .wallets-hero-icon {
     flex-shrink: 0;
+    width: 120px;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     font-size: 5rem;
     color: #fff;
     text-shadow: 0 0 32px rgba(247, 147, 26, 0.8), 0 0 64px rgba(247, 147, 26, 0.6), 0 0 96px rgba(247, 147, 26, 0.4);
@@ -61,7 +66,7 @@ import WalletsList from '../components/WalletsList.vue'
     font-size: 1rem;
     opacity: 0.78;
     line-height: 1.6;
-    max-width: 480px;
+    max-width: 560px;
     margin-bottom: 0.6rem;
 }
 
