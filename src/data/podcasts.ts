@@ -2,6 +2,62 @@
 
 export const podcasts = [
     {
+        name: "Morális kapitalizmus: kiút a fogyasztói csapdából?",
+        id: "E99",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Minden tiszta matematika"
+        },
+        {
+                time: "04:23",
+                label: "Egyetlen értékem van: az időm"
+        },
+        {
+                time: "08:38",
+                label: "Az idő az egyetlen pénzed"
+        },
+        {
+                time: "13:03",
+                label: "Feltétel nélküli jövedelem: utópia?"
+        },
+        {
+                time: "18:46",
+                label: "Minden a pénzről szól, ami valójában energia"
+        },
+        {
+                time: "20:19",
+                label: "Hiányból bőség: a morális kapitalizmus útja"
+        },
+        {
+                time: "24:50",
+                label: "Fájdalom és betegség mint tanítómester"
+        },
+        {
+                time: "28:47",
+                label: "Láthatatlan háború az erőforrásainkért"
+        },
+        {
+                time: "33:36",
+                label: "Közösségi terek a jövő generációjának"
+        },
+        {
+                time: "39:24",
+                label: "Bitcoin mint rendszerellenes igazság és etikai mérce"
+        },
+        {
+                time: "46:16",
+                label: "A fizikai találkozások ereje"
+        }
+        ],
+        img: "/pics/e99.jpg",
+        date: "2026.03.27.",
+        members: ["Anti", "Hajnal", "Árpi"],
+        topic: "Minden tiszta matematika - Egyetlen értékem van: az időm - Az idő az egyetlen pénzed - Feltétel nélküli jövedelem: utópia? - Minden a pénzről szól, ami valójában energia - Hiányból bőség: a morális kapitalizmus útja - Fájdalom és betegség mint tanítómester - Láthatatlan háború az erőforrásainkért - Közösségi terek a jövő generációjának - Bitcoin mint rendszerellenes igazság és etikai mérce - A fizikai találkozások ereje",
+        yt: "https://www.youtube.com/watch?v=6LZCwSTqTPU",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
         name: "Arany vs. bitcoin: melyik működik, ha baj van?",
         id: "E98",
         chapters: [
