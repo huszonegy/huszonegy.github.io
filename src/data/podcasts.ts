@@ -2,6 +2,66 @@
 
 export const podcasts = [
     {
+        name: "Meg tudja váltani a Bitcoin a világot? – 100. adás",
+        id: "E100",
+        chapters: [
+        {
+                time: "00:00",
+                label: "A Bitcoin egy egyesítő erő"
+        },
+        {
+                time: "02:41",
+                label: "Két év és 100 adás – hogyan kezdődött?"
+        },
+        {
+                time: "06:54",
+                label: "30-an szólaltak meg 99 adás alatt"
+        },
+        {
+                time: "11:20",
+                label: "Miért maradtunk Bitcoin-only?"
+        },
+        {
+                time: "16:49",
+                label: "Meetupok szerte az országban"
+        },
+        {
+                time: "20:17",
+                label: "Miért nem tudunk leállni a Bitcoinról?"
+        },
+        {
+                time: "23:10",
+                label: "Kávétól a VPN-ig bitcoinnal fizetve"
+        },
+        {
+                time: "28:09",
+                label: "Amikor elfogy a lendület"
+        },
+        {
+                time: "33:32",
+                label: "Választási kampány és egyéb fiat csapdák"
+        },
+        {
+                time: "37:03",
+                label: "Az árfolyam nem váltja meg a világot"
+        },
+        {
+                time: "41:33",
+                label: "Traderekből gondolkodók"
+        },
+        {
+                time: "48:24",
+                label: "Senki nem késett le semmiről"
+        }
+        ],
+        img: "/pics/e100.jpg",
+        date: "2026.04.02.",
+        members: ["Anti", "Optout", "Árpi"],
+        topic: "A Bitcoin egy egyesítő erő - Két év és 100 adás – hogyan kezdődött? - 30-an szólaltak meg 99 adás alatt - Miért maradtunk Bitcoin-only? - Meetupok szerte az országban - Miért nem tudunk leállni a Bitcoinról? - Kávétól a VPN-ig bitcoinnal fizetve - Amikor elfogy a lendület - Választási kampány és egyéb fiat csapdák - Az árfolyam nem váltja meg a világot - Traderekből gondolkodók - Senki nem késett le semmiről",
+        yt: "https://youtu.be/WAe9ZnEh0qk",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
         name: "Morális kapitalizmus: kiút a fogyasztói csapdából?",
         id: "E99",
         chapters: [
