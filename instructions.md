@@ -50,7 +50,7 @@ Ez nem összefoglalás, hanem az élőbeszéd tisztítása. Minden elhangzott é
 - NE adj hozzá saját tartalmat, véleményt
 - NE alakítsd cikk-stílusúvá (heading-ek, H1/H2)
 - NE használj bold kiemeléseket a szövegtestben
-- NE törölj érdemi tartalmat – ha kétséges, hagyd bent
+- NE törölj érdemi tartalmat – ha kétséges, hagyd bent. Ez vonatkozik a rövid reakciókra is (pl. „Így van. Erről többször beszéltünk, de nem lehet túl sokszor."), ha érdemi visszajelzést hordoznak
 - NE rövidítsd le a mondatokat – ha a speech-to-text-ben egy mondat folytatódik, az egész benne marad
 - NE változtasd az outro tartalmát, csak a formázást
 - NE módosítsd a .txt fájlokat – azok referenciaként maradnak
@@ -71,7 +71,11 @@ Egy epizódon belül ebben a sorrendben dolgozz:
 - [ ] Beszélőváltás gondolatjellel jelölve?
 - [ ] Elírások, nevek javítva? (corrections.md)
 - [ ] Linkek beillesztve? (corrections.md)
+- [ ] Minden felszólító mondat felkiáltójellel zárul? (corrections.md)
 - [ ] HUSZONEGY egységesítve? (21 → HUSZONEGY)
-- [ ] Outro linkjei rendben?
+- [ ] Outro: az eredeti felirat alapján ellenőrizted a pontos tartalmat? Az outro nem mindig azonos – néha más mondat, más vendég, más esemény szerepel benne. Ne a korábbi adásokból másold, hanem mindig az aktuális feliratból dolgozz!
+- [ ] Az outro UTÁN is elhangzott-e érdemi tartalom? Ha igen, az is benne van?
+- [ ] Az elkészült átiratot az eredeti felirattal mondatról mondatra összehasonlítottad, és minden kihagyott részt pótoltál?
+- [ ] Átolvastál furcsa, értelmetlen vagy félrehallásra utaló mondatok után kutatva? A kétséges helyeket jelöld és egyeztesd!
 - [ ] Természetes, podcast-hangvételű maradt?
 - [ ] Ha kétséges egy javítás, az eredeti maradt?

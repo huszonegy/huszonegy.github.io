@@ -4,6 +4,13 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 
 ## Speech-to-text névelírások
 
+- elsitcoinosodó → **elshitcoinosodó**
+- kijukad → **kilyukad**
+- behant → **bezuhant**
+- szerbérlés → **szerverbérlés**
+
+
+
 - Peter Shiff → **Peter Schiff**
 - Sailor → **Saylor** (Michael Saylor)
 - Lagard → **Lagarde** (Christine Lagarde)
@@ -61,7 +68,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - `*(nevetés)*` → `(nevetés)` (NEM dőlt formátum)
 - Mondatkezdések nagybetűvel
 - „ne adjátok el a bitcoinotokat!" — felkiáltójellel
-- felszólító mondatok felkiáltójellel
+- felszólító mondatok felkiáltójellel — MINDEN felszólító mondat, kivétel nélkül (pl. „ne kíméljetek!", „Írjatok!", „Böngésszétek!", „Kövesd!", „ne adjátok fel!", „szervezzetek meetupot!", „várdál bitcoinnal és őrizd meg!")
 - böngésszétek (dupla sz)
 
 ## Linkek
@@ -84,6 +91,7 @@ Ezeket linkeld be markdown formátumban, ahol a szövegben előfordulnak. Ha nem
 - [learn.robosats.org](https://learn.robosats.org)
 - [gingerwallet.io](https://gingerwallet.io)
 - [bip360.org](https://bip360.org)
+- [perspective-bar.hu](https://perspective-bar.hu/)
 
 ### pesz visszajelzés minták
 - noszter.hu és nostr.hu helyes alakok
