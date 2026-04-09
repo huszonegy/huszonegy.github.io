@@ -2,6 +2,54 @@
 
 export const podcasts = [
     {
+        name: "Így fizettem bitcoinnal a Spárban - Krak kártya bemutató",
+        id: "E101",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Kraken: a tőzsde, ami 2017 óta bírja a vihart"
+        },
+        {
+                time: "02:30",
+                label: "Krak kártya: ingyenes fizikai és virtuális"
+        },
+        {
+                time: "05:00",
+                label: "Euró a Krakenre: így spórolj 10% költséget"
+        },
+        {
+                time: "10:20",
+                label: "A Krak app és a napi költési számla"
+        },
+        {
+                time: "14:00",
+                label: "Így fizettem bitcoinnal a Spárban"
+        },
+        {
+                time: "18:30",
+                label: "Adóbevallás: így vond le a régi veszteséged"
+        },
+        {
+                time: "28:30",
+                label: "Petrodollár repedései és a bitcoin esélye"
+        },
+        {
+                time: "36:20",
+                label: "Arany vs. bitcoin: melyik állja meg jobban a helyét?"
+        },
+        {
+                time: "41:40",
+                label: "Ginger Wallet és a coinjoin szuverenitás-trükkje"
+        }
+        ],
+        img: "/pics/e101.jpg",
+        date: "2026.04.09.",
+        members: ["Anti", "Tamás", "Árpi"],
+        topic: "Kraken: a tőzsde, ami 2017 óta bírja a vihart - Krak kártya: ingyenes fizikai és virtuális - Euró a Krakenre: így spórolj 10% költséget - A Krak app és a napi költési számla - Így fizettem bitcoinnal a Spárban - Adóbevallás: így vond le a régi veszteséged - Petrodollár repedései és a bitcoin esélye - Arany vs. bitcoin: melyik állja meg jobban a helyét? - Ginger Wallet és a coinjoin szuverenitás-trükkje",
+        yt: "https://youtu.be/1rXf64a7AeE",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
         name: "Meg tudja váltani a Bitcoin a világot? – 100. adás",
         id: "E100",
         chapters: [
