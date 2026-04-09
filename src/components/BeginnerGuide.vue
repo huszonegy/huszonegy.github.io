@@ -80,6 +80,16 @@ const steps = [
     border-color: #f7931a;
 }
 
+.beginner-card:hover .beginner-icon {
+    animation: icon-pulse 2s ease forwards;
+}
+
+@keyframes icon-pulse {
+    0%   { transform: scale(1); }
+    50%  { transform: scale(1.2); }
+    100% { transform: scale(1); }
+}
+
 .beginner-card .card-title {
     font-size: 1rem;
     font-weight: 700;
