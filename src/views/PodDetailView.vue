@@ -53,9 +53,9 @@ const fetchTranscript = async () => {
 
   try {
     const ytUrl = pod.value.yt;
-    const regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*/;
+    const regExp = /(?:youtu\.be\/|youtube\.com\/(?:watch\?(?:.*&)?v=|embed\/|v\/|u\/\w\/))([A-Za-z0-9_-]{11})/;
     const match = ytUrl.match(regExp);
-    const videoId = (match && match[7].length === 11) ? match[7] : null;
+    const videoId = match ? match[1] : null;
 
     if (!videoId) {
         throw new Error("Érvénytelen YouTube URL");
