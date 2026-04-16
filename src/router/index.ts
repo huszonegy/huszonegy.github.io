@@ -20,7 +20,7 @@ export const routes: RouteRecordRaw[] = [
     }
   },
   {
-    path: '/cikk',
+    path: '/cikk/',
     name: 'articles',
     component: () => import('../views/ArticlesView.vue'),
     meta: {
@@ -32,7 +32,7 @@ export const routes: RouteRecordRaw[] = [
     }
   },
   {
-    path: '/forum',
+    path: '/forum/',
     name: 'forum',
     component: () => import('../views/ForumView.vue'),
     meta: {
@@ -44,7 +44,7 @@ export const routes: RouteRecordRaw[] = [
     }
   },
   {
-    path: '/hir',
+    path: '/hir/',
     name: 'news',
     component: () => import('../views/NewsView.vue'),
     meta: {
@@ -56,7 +56,7 @@ export const routes: RouteRecordRaw[] = [
     }
   },
   {
-    path: '/podcast',
+    path: '/podcast/',
     name: 'podcasts',
     component: () => import('../views/PodsView.vue'),
     meta: {
@@ -68,13 +68,13 @@ export const routes: RouteRecordRaw[] = [
     }
   },
   {
-    path: '/podcast/:slug',
+    path: '/podcast/:slug/',
     name: 'PodDetailView',
     component: () => import('../views/PodDetailView.vue'),
     props: true
   },
   {
-    path: '/konyv',
+    path: '/konyv/',
     name: 'books',
     component: () => import('../views/BooksView.vue'),
     meta: {
@@ -86,7 +86,7 @@ export const routes: RouteRecordRaw[] = [
     }
   },
   {
-    path: '/tarcak',
+    path: '/tarcak/',
     name: 'wallets',
     component: () => import('../views/WalletsView.vue'),
     meta: {
@@ -98,7 +98,7 @@ export const routes: RouteRecordRaw[] = [
     }
   },
   {
-    path: '/meetup',
+    path: '/meetup/',
     name: 'meetup',
     component: () => import('../views/MeetupView.vue'),
     meta: {
@@ -110,7 +110,7 @@ export const routes: RouteRecordRaw[] = [
     }
   },
   {
-    path: '/link',
+    path: '/link/',
     name: 'links',
     component: () => import('../views/LinksView.vue'),
     meta: {
@@ -122,7 +122,7 @@ export const routes: RouteRecordRaw[] = [
     }
   },
   {
-    path: '/eloadas',
+    path: '/eloadas/',
     name: 'presentations',
     component: () => import('../views/PreziView.vue'),
     meta: {
@@ -134,7 +134,7 @@ export const routes: RouteRecordRaw[] = [
     }
   },
   {
-    path: '/oktatovideo',
+    path: '/oktatovideo/',
     name: 'videos',
     component: () => import('../views/VideoView.vue'),
     meta: {
@@ -146,7 +146,7 @@ export const routes: RouteRecordRaw[] = [
     }
   },
   {
-    path: '/tamogatas',
+    path: '/tamogatas/',
     name: 'support',
     component: () => import('../views/SupportView.vue'),
     meta: {
@@ -157,14 +157,14 @@ export const routes: RouteRecordRaw[] = [
     }
   },
   {
-    path: '/pizzaday',
+    path: '/pizzaday/',
     name: 'pizzaday',
     component: () => import('../views/PizzaView.vue'),
     meta: { title: 'Bitcoin Pizza Nap - HUSZONEGY' }
   },
-  { path: '/support', redirect: '/tamogatas' },
+  { path: '/support', redirect: '/tamogatas/' },
   {
-    path: '/404',
+    path: '/404/',
     name: 'not-found',
     component: () => import('../views/NotFoundView.vue'),
     meta: { title: 'Oldal nem található - HUSZONEGY' }

@@ -14,7 +14,7 @@ const isSearchOpen = ref(false)
 const goToPodcast = (pod: any) => {
   if (!pod) return;
   const slug = slugify(pod.name);
-  router.push(`/podcast/${slug}`);
+  router.push(`/podcast/${slug}/`);
   isSearchOpen.value = false;
   searchQuery.value = ''; // Keresés ürítése navigáció után
 };
@@ -255,7 +255,7 @@ defineProps<{
               <router-link 
                   v-for="(pod, index) in filteredResults" 
                   :key="pod.id"
-                  :to="'/podcast/' + slugify(pod.name)"
+                  :to="'/podcast/' + slugify(pod.name) + '/'"
                   class="res-card"
                   :class="{ 'active-result': index === selectedIndex }" 
                   @click="isSearchOpen = false"
@@ -291,12 +291,12 @@ defineProps<{
             <div v-for="pod in get_pods(max_count)" class="card mx-2 my-2" style="width: 20rem;">
                 <div class="card-body">
                     <div class="card-img my-3">
-                        <router-link :to="'/podcast/' + slugify(pod.name)" class="link">
+                        <router-link :to="'/podcast/' + slugify(pod.name) + '/'" class="link">
                             <img :src="pod.img" :alt="pod.name" :title="pod.name" />
                         </router-link>
                     </div>
                     <h3 class="card-episode-title">
-                        <router-link :to="'/podcast/' + slugify(pod.name)">
+                        <router-link :to="'/podcast/' + slugify(pod.name) + '/'">
                             {{ pod.name }}
                         </router-link>
                     </h3>
@@ -310,7 +310,7 @@ defineProps<{
                         </template>
                     </div>
                     <p class="pt-3 my-3 text-center">
-                        <router-link :to="'/podcast/' + slugify(pod.name)" class="btn-bovebben">
+                        <router-link :to="'/podcast/' + slugify(pod.name) + '/'" class="btn-bovebben">
                             Bővebben <span class="arrow">&#10095;</span>
                         </router-link>
                     </p>

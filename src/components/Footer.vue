@@ -7,7 +7,7 @@
         <div class="row px-1 py-2 justify-content-center center">
 
             <div class="col col-auto py-3">
-                <a href="/tamogatas">Támogass! ⚡</a>
+                <a href="/tamogatas/">Támogass! ⚡</a>
             </div>
             <div class="col col-auto py-3">
                 <div class="small text-end text-secondary" style="padding-top: 3px;">

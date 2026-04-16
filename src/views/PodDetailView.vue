@@ -366,7 +366,7 @@ useHead({
         </nav>
 
         <div class="text-center mb-4">
-          <router-link to="/podcast" class="back-link">
+          <router-link to="/podcast/" class="back-link">
             ↑ Összes adás
           </router-link>
         </div>

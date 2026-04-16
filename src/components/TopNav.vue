@@ -14,40 +14,40 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <router-link class="nav-link" to="/hir">Hír</router-link>
+                        <router-link class="nav-link" to="/hir/">Hír</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link class="nav-link" to="/cikk">Cikk</router-link>
+                        <router-link class="nav-link" to="/cikk/">Cikk</router-link>
                     </li>
                     <li class="nav-item">
                         <router-link 
                             class="nav-link" 
-                            to="/podcast" 
+                            to="/podcast/"
                             :class="{ 'router-link-active': $route.name === 'PodDetailView' }"
                             >
                             Podcast
                         </router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link class="nav-link" to="/eloadas">Előadás</router-link>
+                        <router-link class="nav-link" to="/eloadas/">Előadás</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link class="nav-link" to="/oktatovideo">Oktatóvideó</router-link>
+                        <router-link class="nav-link" to="/oktatovideo/">Oktatóvideó</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link class="nav-link" to="/konyv">Könyv</router-link>
+                        <router-link class="nav-link" to="/konyv/">Könyv</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link class="nav-link" to="/tarcak">Tárcák</router-link>
+                        <router-link class="nav-link" to="/tarcak/">Tárcák</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link class="nav-link" to="/meetup">Meetup</router-link>
+                        <router-link class="nav-link" to="/meetup/">Meetup</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link class="nav-link" to="/tamogatas">Támogatás</router-link>
+                        <router-link class="nav-link" to="/tamogatas/">Támogatás</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link class="nav-link" to="/link">Link</router-link>
+                        <router-link class="nav-link" to="/link/">Link</router-link>
                     </li>
                 </ul>
             </div>

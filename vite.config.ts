@@ -47,19 +47,19 @@ function extractYoutubeId(url: string): string | null {
 // Adatvezérelt oldalaknál a nézet komponens és az adatfájl is szerepel,
 // így új tartalom hozzáadása is frissíti a sitemap dátumot.
 const routeSourceFiles: Record<string, string[]> = {
-  '/':            ['src/views/HomeView.vue'],
-  '/cikk':        ['src/views/ArticlesView.vue',  'src/data/articles.ts'],
-  '/forum':       ['src/views/ForumView.vue'],
-  '/hir':         ['src/views/NewsView.vue',       'src/data/news.ts'],
-  '/podcast':     ['src/views/PodsView.vue',       'src/data/podcasts.ts'],
-  '/konyv':       ['src/views/BooksView.vue',      'src/data/books.ts'],
-  '/tarcak':      ['src/views/WalletsView.vue',    'src/data/wallets.ts'],
-  '/meetup':      ['src/views/MeetupView.vue'],
-  '/link':        ['src/views/LinksView.vue',      'src/data/links.ts'],
-  '/eloadas':     ['src/views/PreziView.vue',      'src/data/presentations.ts'],
-  '/oktatovideo': ['src/views/VideoView.vue',      'src/data/videos.ts'],
-  '/tamogatas':   ['src/views/SupportView.vue'],
-  '/pizzaday':    ['src/views/PizzaView.vue'],
+  '/':             ['src/views/HomeView.vue'],
+  '/cikk/':        ['src/views/ArticlesView.vue',  'src/data/articles.ts'],
+  '/forum/':       ['src/views/ForumView.vue'],
+  '/hir/':         ['src/views/NewsView.vue',       'src/data/news.ts'],
+  '/podcast/':     ['src/views/PodsView.vue',       'src/data/podcasts.ts'],
+  '/konyv/':       ['src/views/BooksView.vue',      'src/data/books.ts'],
+  '/tarcak/':      ['src/views/WalletsView.vue',    'src/data/wallets.ts'],
+  '/meetup/':      ['src/views/MeetupView.vue'],
+  '/link/':        ['src/views/LinksView.vue',      'src/data/links.ts'],
+  '/eloadas/':     ['src/views/PreziView.vue',      'src/data/presentations.ts'],
+  '/oktatovideo/': ['src/views/VideoView.vue',      'src/data/videos.ts'],
+  '/tamogatas/':   ['src/views/SupportView.vue'],
+  '/pizzaday/':    ['src/views/PizzaView.vue'],
 }
 
 // Sitemap dátumok kiszámítása build időben
@@ -74,7 +74,7 @@ function buildLastmodMap(): Record<string, Date> {
 
   // Egyedi podcast oldalak — minden epizódnak saját dátuma van
   for (const p of podcasts) {
-    const slug = `/podcast/${slugify(p.name)}`
+    const slug = `/podcast/${slugify(p.name)}/`
 
     // Alap: a podcast megjelenési dátuma
     const publishDate = parseHungarianDate(p.date)
@@ -124,11 +124,11 @@ export default defineConfig({
     includedRoutes(paths: any, _routes: any) {
       // Kiszűrjük a paraméterezett útvonalakat (pl. :slug, :pathMatch),
       // a redirecteket (pl. /support), és a statikus fájl útvonalakat (pl. /books/)
-      const kizart = ['/support', '/books']
+      const kizart = ['/support', '/books', '/404/']
       const staticPaths = (paths as string[]).filter(p =>
         !p.includes(':') && !kizart.some(k => p === k || p.startsWith(k + '/'))
       )
-      const podcastPaths = podcasts.map(p => `/podcast/${slugify(p.name)}`);
+      const podcastPaths = podcasts.map(p => `/podcast/${slugify(p.name)}/`);
       return [...staticPaths, ...podcastPaths];
     },
     // Sitemap generálás build végén
@@ -137,7 +137,7 @@ export default defineConfig({
 
       generateSitemap({
         hostname: 'https://huszonegy.world',
-        exclude: ['/404', '/books/sziller.eu/_BitcoinrolAlaposan'],
+        exclude: ['/404/', '/books/sziller.eu/_BitcoinrolAlaposan'],
         // Útvonal-szintű lastmod dátumok — csak a ténylegesen módosított oldalak
         // kapnak friss dátumot. Nem leképezett útvonalak lastmod nélkül maradnak.
         lastmod: lastmodMap,

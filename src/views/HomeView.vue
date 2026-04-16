@@ -24,7 +24,7 @@ import BeginnerGuide from '../components/BeginnerGuide.vue'
 
       <div class="mt-3">
         <h2 class="section-title mx-4">
-          Friss <a href="/hir">hírek</a>
+          Friss <a href="/hir/">hírek</a>
         </h2>
         <NewsList :max_count="2" />
       </div>

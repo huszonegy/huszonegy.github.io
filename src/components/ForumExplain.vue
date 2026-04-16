@@ -13,7 +13,7 @@ import { RouterLink } from 'vue-router'
         </ul>
         <p class="card-text mt-2">
             Egyre több városban szervezünk személyes
-            <RouterLink to="/meetup">Bitcoin találkozókat</RouterLink>
+            <RouterLink to="/meetup/">Bitcoin találkozókat</RouterLink>
             — nézd meg, hol és mikor lesz a következő meetup!
         </p>
     </div>
