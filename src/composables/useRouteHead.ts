@@ -16,5 +16,11 @@ export function useRouteHead() {
         content: t.content,
       }))
     ),
+    link: computed(() => [
+      {
+        rel: 'canonical',
+        href: `https://huszonegy.world${route.path}`,
+      },
+    ]),
   })
 }
