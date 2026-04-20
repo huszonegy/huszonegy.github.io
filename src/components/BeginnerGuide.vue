@@ -5,37 +5,37 @@ const steps = [
     {
         title: 'Hallgasd a podcastot!',
         desc: 'Kereshető epizódok átirattal, beágyazott lejátszóval és időbélyeges fejezetcímekkel.',
-        link: '/podcast',
+        link: '/podcast/',
         icon: 'bi-mic'
     },
     {
         title: 'Nézd meg előadásainkat!',
         desc: 'Magyar nyelvű Bitcoin előadások és konferencia-felvételek.',
-        link: '/eloadas',
+        link: '/eloadas/',
         icon: 'bi-easel'
     },
     {
         title: 'Nézz oktatóvideót!',
         desc: 'Magyar nyelvű és feliratos oktatóvideók a Bitcoinról.',
-        link: '/oktatovideo',
+        link: '/oktatovideo/',
         icon: 'bi-play-circle'
     },
     {
         title: 'Olvass bele egy könyvbe!',
         desc: 'Magyarul elérhető Bitcoin könyvek — több közülük ingyenesen letölthető.',
-        link: '/konyv',
+        link: '/konyv/',
         icon: 'bi-book'
     },
     {
         title: 'Készíts saját tárcát!',
         desc: 'Összehasonlítás és segédlet a Lightning, mobil, asztali és hardver tárcákhoz.',
-        link: '/tarcak',
+        link: '/tarcak/',
         icon: 'bi-wallet2'
     },
     {
         title: 'Csatlakozz a közösséghez!',
         desc: 'Telegram csoport napi beszélgetésekkel és személyes találkozók országszerte.',
-        link: '/forum',
+        link: '/forum/',
         icon: 'bi-people'
     }
 ]
