@@ -2,6 +2,50 @@
 
 export const podcasts = [
     {
+        name: "Bitcoin és önrendelkezés: leckék a hétköznapokra",
+        id: "E102",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Pleb fogadalom: önrendelkezés a gyakorlatban"
+        },
+        {
+                time: "06:28",
+                label: "Személyes felelősség következmények nélküli világban"
+        },
+        {
+                time: "09:19",
+                label: "Önrendelkezés atombunker nélkül"
+        },
+        {
+                time: "17:37",
+                label: "A templomosok bukása és a Bitcoin ereje"
+        },
+        {
+                time: "26:22",
+                label: "Miért nem kontrollálja senki a Bitcoint?"
+        },
+        {
+                time: "28:21",
+                label: "Bitcoin értékrend a családon belül"
+        },
+        {
+                time: "40:40",
+                label: "Ki döntse el, mi egészséges?"
+        },
+        {
+                time: "50:36",
+                label: "A legnagyobb fiat maximalista maga az állam"
+        }
+        ],
+        img: "/pics/e102.jpg",
+        date: "2026.04.16.",
+        members: ["Anti", "Five", "Árpi"],
+        topic: "Pleb fogadalom: önrendelkezés a gyakorlatban - Személyes felelősség következmények nélküli világban - Önrendelkezés atombunker nélkül - A templomosok bukása és a Bitcoin ereje - Miért nem kontrollálja senki a Bitcoint? - Bitcoin értékrend a családon belül - Ki döntse el, mi egészséges? - A legnagyobb fiat maximalista maga az állam",
+        yt: "https://youtu.be/ODSXlYvnksA",
+        fountain: "https://fountain.fm/episode/U1A7xKcRyTgVknY2hjDg"
+    },
+    {
         name: "Így fizettem bitcoinnal a Spárban - Krak kártya bemutató",
         id: "E101",
         chapters: [

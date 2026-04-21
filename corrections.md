@@ -8,6 +8,8 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - kijukad → **kilyukad**
 - behant → **bezuhant**
 - szerbérlés → **szerverbérlés**
+- doxi → **doksi**
+- visszaás / visszázs → **visszás** (fonák, ellentmondásos értelemben)
 
 
 
@@ -99,3 +101,4 @@ Ezeket linkeld be markdown formátumban, ahol a szövegben előfordulnak. Ha nem
 - HUSZONEGY egységesítés — mindig ellenőrizd, minden előfordulást javíts
 - Linkeket mindig tedd kattinthatóvá markdown-ban
 - Perspective Baros meetup (NEM Perspektíva Meetup)
+- „Bitcoin blog" mindig linkelve: [bitcoinmentor.hu/bitcoin-blog/](https://bitcoinmentor.hu/bitcoin-blog/)
