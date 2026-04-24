@@ -2,6 +2,62 @@
 
 export const podcasts = [
     {
+        name: "Az ársapka hazudik – és mi az igazság?",
+        id: "E103",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Az ársapka mindig a valóságot torzítja"
+        },
+        {
+                time: "02:08",
+                label: "Így élte meg Feri a 4. Bitcoin Miskolcot"
+        },
+        {
+                time: "06:58",
+                label: "Fiatalok, szülők és egy MNB-s a közönségben"
+        },
+        {
+                time: "10:30",
+                label: "\"Nem elköszönünk, csak ideiglenesen\""
+        },
+        {
+                time: "14:10",
+                label: "Újítások a következő konferenciára"
+        },
+        {
+                time: "18:40",
+                label: "Miért érdemes cégként bitcoint elfogadni?"
+        },
+        {
+                time: "22:16",
+                label: "Ingyenes útmutató és Bitcoin térkép"
+        },
+        {
+                time: "27:55",
+                label: "Bizalmi kör, Trust Summit, lakás bitcoinért"
+        },
+        {
+                time: "34:45",
+                label: "A Bitcoin politikamentes – ezért vállalható"
+        },
+        {
+                time: "40:15",
+                label: "Miért torzít az ársapka minden döntést?"
+        },
+        {
+                time: "45:25",
+                label: "1956 és a Bitcoin – most írjuk a történelmet"
+        }
+        ],
+        img: "/pics/e103.jpg",
+        date: "2026.04.24.",
+        members: ["Feri", "Árpi"],
+        topic: "Az ársapka mindig a valóságot torzítja - Így élte meg Feri a 4. Bitcoin Miskolcot - Fiatalok, szülők és egy MNB-s a közönségben - \"Nem elköszönünk, csak ideiglenesen\" - Újítások a következő konferenciára - Miért érdemes cégként bitcoint elfogadni? - Ingyenes útmutató és Bitcoin térkép - Bizalmi kör, Trust Summit, lakás bitcoinért - A Bitcoin politikamentes – ezért vállalható - Miért torzít az ársapka minden döntést? - 1956 és a Bitcoin – most írjuk a történelmet",
+        yt: "https://youtu.be/8SfAbG8QrdI",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
         name: "Bitcoin és önrendelkezés: leckék a hétköznapokra",
         id: "E102",
         chapters: [
