@@ -185,6 +185,14 @@ const router = createRouter({
   linkActiveClass: 'active',
 })
 
+// Trailing slash redirect — GitHub Pages kompatibilitás és SEO
+router.beforeEach((to, _from, next) => {
+  if (!to.path.endsWith('/') && !to.path.includes('.')) {
+    next({ path: to.path + '/', query: to.query, hash: to.hash, replace: true })
+  } else {
+    next()
+  }
+})
 
 // EZ A RÉSZ FRISSÍTI A BÖNGÉSZŐT, DE CSAK HA TÉNYLEG BÖNGÉSZŐBEN VAGYUNK
 if (!import.meta.env.SSR) {
