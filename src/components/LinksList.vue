@@ -1,5 +1,17 @@
 <script setup lang="ts">
+import { computed } from 'vue'
 import { links } from '../data/links'
+
+const featured = computed(() =>
+    links.flatMap(cat => cat.items.filter((item: any) => item.featured))
+)
+
+const categories = computed(() =>
+    links.map(cat => ({
+        ...cat,
+        items: cat.items.filter((item: any) => !item.featured)
+    }))
+)
 </script>
 
 <template>
@@ -16,8 +28,36 @@ import { links } from '../data/links'
             </div>
         </div>
     </div>
-    <div v-for="kategoria in links" class="links">
-        <h2 class="links-category">
+    <div v-if="featured.length" class="links">
+        <h2 class="links-category links-category-featured">
+            Kiemelt partnerünk
+        </h2>
+        <div class="links-list">
+            <article v-for="link in featured" class="link-card link-card-featured">
+                <a :href="link.url" target="_blank" class="link-card-banner-link" v-if="(link as any).image">
+                    <img :src="(link as any).image" :alt="link.name + ' banner'" class="link-card-banner" />
+                </a>
+                <div class="link-card-body">
+                    <header class="link-card-header">
+                        <a :href="link.url" target="_blank" class="link-card-title-link">
+                            <h5 class="link-card-title link-card-title-featured">
+                                {{ link.name }}
+                                <i class="bi bi-arrow-up-right link-card-arrow"></i>
+                            </h5>
+                        </a>
+                        <span v-if="link.afftype" class="link-chip">
+                            <i class="bi bi-tag-fill"></i>
+                            <span class="link-chip-type">{{ link.afftype }}</span>
+                            <span class="link-chip-detail">{{ link.affdetail }}</span>
+                        </span>
+                    </header>
+                    <p v-if="link.text" class="link-card-text" v-html="link.text" />
+                </div>
+            </article>
+        </div>
+    </div>
+    <div v-for="kategoria in categories" class="links">
+        <h2 class="links-category" v-if="kategoria.items.length">
             {{ kategoria.category }}
         </h2>
         <div class="links-list">
@@ -95,8 +135,8 @@ import { links } from '../data/links'
 }
 
 .links-category {
-    margin-top: 2.5rem;
-    margin-bottom: 1rem;
+    margin-top: 3.5rem;
+    margin-bottom: 0.75rem;
     font-size: 1.5rem;
     letter-spacing: -0.3px;
     color: #fff;
@@ -118,14 +158,14 @@ import { links } from '../data/links'
 .links-list {
     display: flex;
     flex-direction: column;
-    gap: 0.9rem;
+    gap: 1.5rem;
 }
 
 .link-card {
     background: rgba(255, 255, 255, 0.03);
     border: 1px solid rgba(255, 255, 255, 0.08);
-    border-radius: 12px;
-    padding: 1.1rem 1.25rem;
+    border-radius: 14px;
+    padding: 1.75rem 1.75rem;
     transition: border-color 0.18s ease, background 0.18s ease, transform 0.18s ease;
 }
 
@@ -135,12 +175,53 @@ import { links } from '../data/links'
     transform: translateY(-1px);
 }
 
+.link-card-featured {
+    padding: 0;
+    overflow: hidden;
+    border-color: rgba(247, 147, 26, 0.5);
+    background: linear-gradient(180deg, rgba(247, 147, 26, 0.08) 0%, rgba(247, 147, 26, 0.02) 100%);
+    box-shadow: 0 0 40px rgba(247, 147, 26, 0.15);
+}
+
+.link-card-featured:hover {
+    border-color: rgba(247, 147, 26, 0.7);
+    box-shadow: 0 0 56px rgba(247, 147, 26, 0.22);
+    background: linear-gradient(180deg, rgba(247, 147, 26, 0.12) 0%, rgba(247, 147, 26, 0.03) 100%);
+}
+
+.link-card-banner-link {
+    display: block;
+    line-height: 0;
+}
+
+.link-card-banner {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.link-card-body {
+    padding: 1.75rem 1.75rem;
+}
+
+.link-card-title-featured {
+    font-size: 1.4rem;
+}
+
+.links-category-featured {
+    margin-top: 1.5rem;
+}
+
+.links-category-featured::before {
+    background: linear-gradient(180deg, #f7931a 0%, #ffce8a 100%);
+}
+
 .link-card-header {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     gap: 0.6rem 0.9rem;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.9rem;
 }
 
 .link-card-title-link {
@@ -175,19 +256,20 @@ import { links } from '../data/links'
 .link-chip {
     display: inline-flex;
     align-items: center;
-    gap: 0.4rem;
-    padding: 0.25rem 0.7rem;
+    gap: 0.45rem;
+    padding: 0.4rem 0.85rem;
     border-radius: 999px;
     background: rgba(247, 147, 26, 0.12);
     border: 1px solid rgba(247, 147, 26, 0.35);
     font-size: 0.78rem;
-    line-height: 1.4;
+    line-height: 1;
     color: #ffce8a;
     white-space: nowrap;
 }
 
 .link-chip i {
-    font-size: 0.72rem;
+    font-size: 0.78rem;
+    line-height: 1;
     color: #f7931a;
 }
 
@@ -202,15 +284,15 @@ import { links } from '../data/links'
 
 .link-card-text {
     margin: 0;
-    line-height: 1.55;
-    opacity: 0.9;
+    line-height: 1.25;
+    opacity: 0.92;
 }
 
 .link-card-text :deep(img) {
     max-width: 100%;
     height: auto;
     border-radius: 8px;
-    margin-top: 0.7rem;
+    margin-top: 1rem;
     display: block;
 }
 

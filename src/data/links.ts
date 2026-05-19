@@ -31,7 +31,9 @@ export const links = [
             },
             {
                 name: "Relai",
-                text: "Bitcoin-only megtakarítási app Svájcból. A Relai olyan, mint egy svájci bicska: megbízható, egyszerű, és pont azt csinálja, amire szükséged van — segít Bitcoint venni, rendszeresen megtakarítani, és mindezt úgy, hogy a bitcoinod privát kulcsai végig a te kezedben vannak.<br /><a href='https://bitcoinmentor.hu/relai/' target='_blank'><img src='/pics/relai-huszonegy-banner-8.jpg' alt='Relai HUSZONEGY banner' style='max-width: 100%; margin-top: 8px;' /></a>",
+                text: "Bitcoin-only megtakarítási app Svájcból. A Relai olyan, mint egy svájci bicska: megbízható, egyszerű, és pont azt csinálja, amire szükséged van — segít Bitcoint venni, rendszeresen megtakarítani, és mindezt úgy, hogy a bitcoinod privát kulcsai végig a te kezedben vannak.",
+                image: "/pics/relai-huszonegy-banner-8.jpg",
+                featured: true,
                 afftype: "HUSZONEGY ajánlókód",
                 affdetail: "1% helyett 0,9% vásárlási díj",
                 url: "https://bitcoinmentor.hu/relai/"
