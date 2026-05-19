@@ -2,6 +2,158 @@
 
 export const podcasts = [
     {
+        name: "Miért háromszor drágább a lakásod, mint 10 éve?",
+        id: "E106",
+        chapters: [
+        {
+                time: "00:00",
+                label: "A Cantillon-hatás élőben Magyarországon"
+        },
+        {
+                time: "03:47",
+                label: "Miért háromszor drágább a lakásod?"
+        },
+        {
+                time: "07:18",
+                label: "Konferencia, adótipp és új bitcoin elfogadó"
+        },
+        {
+                time: "12:24",
+                label: "Állásfoglalást kértünk az MNB-től"
+        },
+        {
+                time: "19:35",
+                label: "Tényleg jobb lesz Magyarországon minden?"
+        },
+        {
+                time: "25:12",
+                label: "Vége a bear marketnek? Ezt mutatják a számok"
+        },
+        {
+                time: "30:09",
+                label: "A pénznyomtatás nem áll meg, bárki is kormányoz"
+        },
+        {
+                time: "35:22",
+                label: "Az eurót is nyomtatják – csak lassabban"
+        },
+        {
+                time: "41:27",
+                label: "Bitcoin Pizza Day a XI. kerületben"
+        }
+        ],
+        img: "/pics/e106.jpg",
+        date: "2026.05.14.",
+        members: ["Anti", "Tamás", "Árpi"],
+        topic: "A Cantillon-hatás élőben Magyarországon - Miért háromszor drágább a lakásod? - Konferencia, adótipp és új bitcoin elfogadó - Állásfoglalást kértünk az MNB-től - Tényleg jobb lesz Magyarországon minden? - Vége a bear marketnek? Ezt mutatják a számok - A pénznyomtatás nem áll meg, bárki is kormányoz - Az eurót is nyomtatják – csak lassabban - Bitcoin Pizza Day a XI. kerületben",
+        yt: "https://youtu.be/i_VVrUVGipk",
+        fountain: "https://fountain.fm/episode/sxASYXEjyfxCroSTI38I"
+    },
+    {
+        name: "3 ok, amiért a Bitcoin veri az \"etikus\" jegybanki pénzt",
+        id: "E105",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Az életünk azon múlik, hogy a Bitcoin sikerül-e"
+        },
+        {
+                time: "02:13",
+                label: "Mi a baj az antropozófiai pénzelmélettel?"
+        },
+        {
+                time: "09:56",
+                label: "A Bitcoin megtakarításra ösztönöz"
+        },
+        {
+                time: "12:38",
+                label: "Nincs központi döntéshozó, aki eldönti, mi az etikus"
+        },
+        {
+                time: "18:46",
+                label: "Miért nem tudja BlackRock átírni a Bitcoin szabályait?"
+        },
+        {
+                time: "32:08",
+                label: "Megtöri a pénz-hatalom-pénznyomtatás körforgását"
+        },
+        {
+                time: "38:33",
+                label: "A Cseh Nemzeti Bank Bitcoin-kísérlete"
+        },
+        {
+                time: "44:30",
+                label: "Ennyiből bányászik Irán 1 bitcoint"
+        },
+        {
+                time: "45:39",
+                label: "Trump és a stratégiai Bitcoin tartalék: mi zajlik a háttérben?"
+        },
+        {
+                time: "54:48",
+                label: "Hogyan tudsz részt venni és támogatni a műsort?"
+        }
+        ],
+        img: "/pics/e105.jpg",
+        date: "2026.05.08.",
+        members: ["Anti", "Árpi"],
+        topic: "Az életünk azon múlik, hogy a Bitcoin sikerül-e - Mi a baj az antropozófiai pénzelmélettel? - A Bitcoin megtakarításra ösztönöz - Nincs központi döntéshozó, aki eldönti, mi az etikus - Miért nem tudja BlackRock átírni a Bitcoin szabályait? - Megtöri a pénz-hatalom-pénznyomtatás körforgását - A Cseh Nemzeti Bank Bitcoin-kísérlete - Ennyiből bányászik Irán 1 bitcoint - Trump és a stratégiai Bitcoin tartalék: mi zajlik a háttérben? - Hogyan tudsz részt venni és támogatni a műsort?",
+        yt: "https://youtu.be/v_OCfhRkmVo",
+        fountain: "https://fountain.fm/episode/XugynNrwHNOnABS5UXxP"
+    },
+    {
+        name: "A digitális szabadság 4 pillére: Bitcoin, atom, Nostr, AI",
+        id: "E104",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Bitcoin: a villamoshálózat láthatatlan tüdeje"
+        },
+        {
+                time: "04:41",
+                label: "Miért az atomenergia a 90%-os hatásfokú király?"
+        },
+        {
+                time: "08:53",
+                label: "A Tesla-akkumulátor és az ipari méretű tévedés"
+        },
+        {
+                time: "12:47",
+                label: "Így lőtte magát tökön Németország a zölddel"
+        },
+        {
+                time: "17:36",
+                label: "Nostr: a digitális identitás túlélőkészlete"
+        },
+        {
+                time: "20:22",
+                label: "Hogyan zárnak börtönbe minket az algoritmusok?"
+        },
+        {
+                time: "25:40",
+                label: "Viszlát, Facebook: leszokás a scrollozásról"
+        },
+        {
+                time: "29:55",
+                label: "Helyi piactér Bitcoinért a Nostron"
+        },
+        {
+                time: "32:18",
+                label: "Saját AI a gépen: miért ne bízz a multikban?"
+        },
+        {
+                time: "41:24",
+                label: "Tollaskígyó és a szabadság 4 pillére"
+        }
+        ],
+        img: "/pics/e104.jpg",
+        date: "2026.04.30.",
+        members: ["Anti", "HenkyPenky"],
+        topic: "Bitcoin: a villamoshálózat láthatatlan tüdeje - Miért az atomenergia a 90%-os hatásfokú király? - A Tesla-akkumulátor és az ipari méretű tévedés - Így lőtte magát tökön Németország a zölddel - Nostr: a digitális identitás túlélőkészlete - Hogyan zárnak börtönbe minket az algoritmusok? - Viszlát, Facebook: leszokás a scrollozásról - Helyi piactér Bitcoinért a Nostron - Saját AI a gépen: miért ne bízz a multikban? - Tollaskígyó és a szabadság 4 pillére",
+        yt: "https://youtu.be/OLuVP4FrfzY",
+        fountain: "https://fountain.fm/episode/TM1AV4MoSBXWn30mKK5e"
+    },
+    {
         name: "Az ársapka hazudik – és mi az igazság?",
         id: "E103",
         chapters: [
