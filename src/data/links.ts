@@ -17,17 +17,24 @@ export const links = [
             },
             {
                 name: "Hotel AURORA****",
-                text: "Bitcoint elfogadó és tartalékoló, wellness szálloda Miskolctapolcán.",
+                text: "Bitcoint elfogadó és tartalékoló wellness szálloda Miskolctapolcán, a HUSZONEGY Bitcoin podcast szponzora, valamint a <a href='https://bitcoinmiskolc.hu' target='_blank'>Bitcoin Miskolc konferencia</a> (2026. november 20-22.) helyszíne.",
                 afftype: "",
                 affdetail: "",
                 url: "https://hotelaurora.hu"
             },
             {
                 name: "Hotel ATLANTIS****",
-                text: "Bitcoint elfogadó és tartalékoló, családi wellness szálloda Hajdúszoboszlón.<br /><a href='https://bitcoinmiskolc.hu' target='_blank'>Bitcoin Miskolc konferencia</a> 2026. április 17-19.",
+                text: "Bitcoint elfogadó és tartalékoló családi wellness szálloda Hajdúszoboszlón, a HUSZONEGY Bitcoin podcast szponzora, a tavaszi Bitcoin Miskolc konferenciák helyszíne.",
                 afftype: "",
                 affdetail: "",
                 url: "https://hotelatlantis.hu"
+            },
+            {
+                name: "Relai",
+                text: "Bitcoin-only megtakarítási app Svájcból. A Relai olyan, mint egy svájci bicska: megbízható, egyszerű, és pont azt csinálja, amire szükséged van — segít Bitcoint venni, rendszeresen megtakarítani, és mindezt úgy, hogy a bitcoinod privát kulcsai végig a te kezedben vannak.<br /><a href='https://bitcoinmentor.hu/relai/' target='_blank'><img src='/pics/relai-huszonegy-banner-8.jpg' alt='Relai HUSZONEGY banner' style='max-width: 100%; margin-top: 8px;' /></a>",
+                afftype: "HUSZONEGY ajánlókód",
+                affdetail: "1% helyett 0,9% vásárlási díj",
+                url: "https://bitcoinmentor.hu/relai/"
             },
             {
                 name: "Firefish",
@@ -63,13 +70,6 @@ export const links = [
                 afftype: "HUSZONEGY kuponkód",
                 affdetail: "-2.1%",
                 url: "https://bitcoinbrabant.com/en/winkel"
-            },
-            {
-                name: "JAN3",
-                text: "Technológiák és megoldások egyének, vállalkozások és nemzetállamok számára, hogy felkészüljenek a jövőre, sikeresek legyenek, és kezükbe vehessék sorsuk irányítását.",
-                afftype: "",
-                affdetail: "",
-                url: "https://jan3.com/?lang=hu"
             },
             {
                 name: "Bitcoin tartalék",
