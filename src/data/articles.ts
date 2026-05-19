@@ -3,6 +3,56 @@
 
 export const articles = [
     {
+        name: "Relai — Bitcoin-only megtakarítási app Svájcból",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "Ha Magyarországon élsz és Bitcoint szeretnél venni, jelenleg egyetlen Bitcoin-only szolgáltatót találsz. A Relai olyan, mint egy svájci bicska: megbízható, egyszerű, és pont azt csinálja, amire szükséged van. A cikk bemutatja, hogyan használhatod a Relai svájci Bitcoin-only megtakarítási alkalmazást magyar felhasználóként, hangsúlyozva a biztonságos önrendelkezést és az egyszerű vásárlási módszereket.",
+        link: "https://bitcoinmentor.hu/relai/",
+        img: "/article/relai.png",
+        cat: "bevezető",
+        id: 58
+    },
+    {
+        name: "Mi az a Cantillon-hatás?",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "Hallottál már arról, hogy „a gazdagok gazdagabbak, a szegények szegényebbek lesznek”? A legtöbben ismerik ezt a mondást, de kevesen tudják, hogy létezik egy több mint 300 éves közgazdasági elmélet, amely pontosan leírja, miért van ez így. A Cantillon-hatás bemutatja, hogyan termeli újra a modern monetáris rendszer a vagyoni egyenlőtlenséget, és miért éppen azok profitálnak belőle, akik a pénzteremtéshez legközelebb állnak.",
+        link: "https://bitcoinmentor.hu/mi-az-a-cantillon-hatas/",
+        img: "/article/mi-az-a-cantillon-hatas.png",
+        cat: "bevezető",
+        id: 57
+    },
+    {
+        name: "A Cseh Nemzeti Bank a Bitcoin mellett",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "A Cseh Nemzeti Bank elnöke a Bitcoin 2026 konferencián Las Vegasban elmondta, amit eddig egyetlen európai jegybankár sem: a Bitcoin helye ott van a jegybanki tartalékok között. A cikk bemutatja az elnök álláspontját, és azt elemzi, milyen jelentősége van annak, hogy egy európai jegybank vezetője nyíltan a Bitcoin mellett érvel tartalékeszközként.",
+        link: "https://bitcoinmentor.hu/a-cseh-nemzeti-bank-a-bitcoin-mellett/",
+        img: "/article/a-cseh-nemzeti-bank-a-bitcoin-mellett.png",
+        cat: "bevezető",
+        id: 56
+    },
+    {
+        name: "A templomos lovagok és a Bitcoin",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "A templomos lovagok egy olyan decentralizált, határokon átívelő hálózatot működtettek, amely a maga korában szokatlan függetlenséget élvezett a központi hatalmaktól. A cikk történelmi párhuzamot von a templomos lovagrend hálózata és a Bitcoin szerkezeti függetlensége között, megmutatva, hogyan ismétlődik a történelemben a központosított hatalommal szembeni alternatíva igénye.",
+        link: "https://bitcoinmentor.hu/a-templomos-lovagok-es-a-bitcoin/",
+        img: "/article/a-templomos-lovagok-es-a-bitcoin.png",
+        cat: "bevezető",
+        id: 55
+    },
+    {
+        name: "Egyre többen kilépünk és építünk",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "Száz hete, hétről hétre beülünk egy mikrofon elé, és arról beszélgetünk, amiről a legtöbb ember a környezetünkben nem szívesen hall. Ez a cikk az egyéni felelősségről és a Bitcoin szerepéről szól, amely lehetővé teszi a decentralizált együttműködést a társadalom jobbá tételéért – arról, hogy egyre többen lépünk ki a régi rendszerből, és építünk valami újat helyette.",
+        link: "https://bitcoinmentor.hu/egyre-tobben-kilepunk-es-epitunk/",
+        img: "/article/egyre-tobben-kilepunk-es-epitunk.png",
+        cat: "bevezető",
+        id: 54
+    },
+    {
         name: "Hogyan rabolta el a német állam a hatalmat",
         origin: "szerző: árpi",
         lang: "hu",
@@ -101,6 +151,66 @@ export const articles = [
         img: "/article/cypherpunk-kialtvany.png",
         cat: "bevezető",
         id: 38
+    },
+    {
+        name: "Bitcoin tartalékkezelő vállalatok: A pénzügyek új hulláma",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "Jesse Myers részletesen kifejti, hogyan alakítják át a Bitcoin tartalékkezelő vállalatok a tőkepiacokat, hogyan szabadítják fel a hagyományos pénzügyi rendszerekben rekedt tőkét. A cikk feltárja, miként vezethet a Bitcoin tartalékkezelő vállalatok elterjedése a vállalati érték újraértelmezéséhez az elkövetkező évtizedekben, és milyen szerepe lehet ennek a pénzügyek új hullámának a teljes gazdasági rendszer átalakulásában.",
+        link: "https://bitcoinmentor.hu/bitcoin-tartalekkezelo-vallalatok/",
+        img: "/article/bitcoin-tartalekkezelo-vallalatok.png",
+        cat: "bevezető",
+        id: 53
+    },
+    {
+        name: "A bankolás jövője a Bitcoinnal",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "A Bitcoin forradalmasítja a pénzügyi rendszereket, és 2025-re új távlatokat nyit a banki szektor számára. A cikk azt elemzi, hogyan változtatja meg a Bitcoin a hagyományos bankolást, milyen szerepe lesz a stablecoin piacoknak és a hozamtermelésnek, valamint milyen lehetőségek nyílnak meg a felhasználók és intézmények számára a Bitcoin-alapú pénzügyi infrastruktúrában.",
+        link: "https://bitcoinmentor.hu/a-bankolas-jovoje-a-bitcoinnal/",
+        img: "/article/a-bankolas-jovoje-a-bitcoinnal.png",
+        cat: "bevezető",
+        id: 52
+    },
+    {
+        name: "Egyetlen egyszer egy faj történetében",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "Egy úttörő válasz az emberiség egyik nagy rejtélyére – és annak jelentősége a pénz természetére (és jövőjére) nézve. Jesse Myers esszéje az emberi történelmet és az emberiség eszközökhöz fűződő kapcsolatát vizsgálja, és bemutatja, hogy a Bitcoin egy olyan fordulópont, amely a fajunk történetében egyetlen egyszer történik meg.",
+        link: "https://bitcoinmentor.hu/egyetlen-egyszer-egy-faj-torteneteben/",
+        img: "/article/egyetlen-egyszer-egy-faj-torteneteben.png",
+        cat: "bevezető",
+        id: 51
+    },
+    {
+        name: "Az infláció időrablására a bitcoin a megoldás",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "Voltaire híres mondása szerint: „A papírpénz végül mindig visszatér belső értékéhez, ami nulla.” Ez a gondolat a történelem során többször beigazolódott. A cikk a fiat valuták elkerülhetetlen leértékelődését vizsgálja, és bemutatja, hogyan jelent a Bitcoin valódi védelmet a vásárlóerő-rablás ellen, amelyet az infláció okoz a megtakarítóknak.",
+        link: "https://bitcoinmentor.hu/a-bitcoin-a-megoldas/",
+        img: "/article/a-bitcoin-a-megoldas.png",
+        cat: "bevezető",
+        id: 50
+    },
+    {
+        name: "A Bitcoin alkotmányos védelme",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "A tanulmány a Bitcoin szólásszabadságként való értelmezését és az Egyesült Államok alkotmányának első módosítása által nyújtott védelmét vizsgálja. A jogi elemzés feltárja, hogy a Bitcoin kód és tranzakciók miért tekinthetők védett szólásnak, és milyen alkotmányos garanciák állnak a Bitcoin használói mögött az amerikai jogrendszerben.",
+        link: "https://bitcoinmentor.hu/a-bitcoin-alkotmanyos-vedelme/",
+        img: "/article/a-bitcoin-alkotmanyos-vedelme.png",
+        cat: "bevezető",
+        id: 49
+    },
+    {
+        name: "Decentralizáció: társadalmi rendszerváltás",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "A Bitcoin napjainkban gyakran kerül a hírekbe, amikor árfolyama éppen szárnyal vagy zuhan. Ám Satoshi Nakamoto nem ezért hozta létre a Bitcoint. A cikk feltárja a Bitcoin valódi küldetését: a pénz és az állam szétválasztását, valamint annak lehetőségét, hogy a hatalmat decentralizálni lehet a társadalom minden szintjén – egy igazi társadalmi rendszerváltás motorjaként.",
+        link: "https://bitcoinmentor.hu/decentralizacio-tarsadalmi-rendszervaltas/",
+        img: "/article/decentralizacio-tarsadalmi-rendszervaltas.png",
+        cat: "bevezető",
+        id: 48
     },
     {
         name: "Az exponenciális fejlődés kihívás és lehetőség",
