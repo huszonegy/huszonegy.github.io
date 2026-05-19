@@ -5,6 +5,13 @@
 
 export const news = [
     {
+        summary: "Új kiemelt partnerünk: Relai + megújult link oldal",
+        date: "2026.05.19.",
+        html: "Bemutatjuk legújabb kiemelt partnerünket, a <strong>Relai</strong>-t — a svájci Bitcoin-only megtakarítási alkalmazást, amely olyan, mint egy svájci bicska: megbízható, egyszerű, és pont azt csinálja, amire szükséged van. Segít Bitcoint venni, rendszeresen megtakarítani, és mindezt úgy, hogy a privát kulcsaid végig a te kezedben maradnak. A <strong>HUSZONEGY</strong> ajánlókóddal 1% helyett 0,9% lesz a vásárlási díjad — ezzel pedig a HUSZONEGY Bitcoin podcast működését is támogatod.<br /><br />Egyúttal megújult a <a href='/link'>link oldalunk</a> is: letisztultabb, kártyás dizájn, jól olvasható affiliate-jelvények, és külön szekció a kiemelt partnerünknek. Nézz körül!",
+        img: "/pics/link-oldal-kiemelt-partner.jpg",
+        link: "/link"
+    },
+    {
         summary: "Podcast kereső, beágyazott lejátszó",
         date: "2026.03.12.",
         html: "<a href='/podcast'>Podcast oldalaink</a> kiegészültek egy keresővel, ami keres a címekben és a fejezetcímekben, illetve lehet keresni sorszámra, a résztvevők nevére valamint az átiratokban is. Az epizódok oldalai pedig kiegészültek átirattal és időbélyeges fejezetcímekkel + beágyazott youtube videóval, így egy fejezetcímre kattintva odaugrik a lejátszó a kívánt részhez. Jó böngészést!",
