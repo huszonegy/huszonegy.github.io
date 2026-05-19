@@ -30,7 +30,7 @@ export const wallets = {
                         },
                         {
                             name: "Wallet of Satoshi",
-                            text: "Könnyen használható, népszerű mobil app, alap funckiókkal; a cégről kevés információ ismert, nem szükséges KYC.",
+                            text: "Könnyen használható, népszerű mobil app, alap funkciókkal; a cégről kevés információ ismert, nem szükséges KYC.",
                             link: "https://walletofsatoshi.com/"
                         }
                     ],
@@ -39,7 +39,7 @@ export const wallets = {
                 {
                     name: "Önrendelkező",
                     id: "lightning-selfcustodial",
-                    text: "Az önrendelkező tárcáknál a privát kulcsok kizárólag a felhasználónál vannak, ezáltal biztonságosabbak. Az olyan tárcákat, ahol mi magunk kell a csatornákat kezeljük, csak azoknak ajánljuk, akik már járatossabbak a Lightningban. Említésre méltó még: Blixt.",
+                    text: "Az önrendelkező tárcáknál a privát kulcsok kizárólag a felhasználónál vannak, ezáltal biztonságosabbak. Az olyan tárcákat, ahol nekünk magunknak kell kezelni a csatornákat, csak azoknak ajánljuk, akik már járatossabbak a Lightningban. Említésre méltó még: Blixt.",
                     items: [
                         {
                             name: "AQUA",
@@ -53,7 +53,7 @@ export const wallets = {
                         },
                         {
                             name: "Breez",
-                            text: "Self-custodial lightning tárca, mobilon futó teljes Lightning node, saját csatorna-kezelés lehetőséggel",
+                            text: "Self-custodial lightning tárca, mobilon futó teljes Lightning node, saját csatorna-kezelés lehetőséggel.",
                             link: "https://breez.technology/mobile/"
                         },
                         {
@@ -77,12 +77,12 @@ export const wallets = {
                     text: "Plusz pont, ha mutatja az egyes UTXO-kat (coin selection).",
                     items: [
                         {
-                            name: "Green wallet",
-                            text: "A Blockstream tárcája, jó on-chain tárca, de támogat Liquidet is.",
-                            link: "https://blockstream.com/green/"
+                            name: "Blockstream",
+                            text: "A Blockstream tárcája (korábban Green wallet), jó on-chain tárca, de támogat Liquidet is.",
+                            link: "https://blockstream.com/app/"
                         },
                         {
-                            name: "Blue wallet",
+                            name: "BlueWallet",
                             text: "Kipróbált bitcoin tárca app, on-chain tranzakciókra nagyon jó.",
                             link: "https://bluewallet.io/"
                         },
@@ -90,6 +90,11 @@ export const wallets = {
                             name: "Nunchuk",
                             text: "Modern tárca app, erőssége a több-eszközös védelem (multidevice/multisig), illetve jól együttműködik hardver tárcákkal.",
                             link: "https://nunchuk.io/"
+                        },
+                        {
+                            name: "Relai",
+                            text: "Bitcoin-only önrendelkező (self-custodial) mobil app Svájcból, megtakarítási fókusszal. Egyszerű kezelhetőség, rendszeres vásárlás, a privát kulcsok végig a felhasználónál maradnak. KYC szükséges. Kezelőfelülete intuitív, ideális kezdőknek és haladóknak egyaránt. A HUSZONEGY ajánlókóddal kedvezményes vásárlási díj.",
+                            link: "https://bitcoinmentor.hu/relai/"
                         }
                     ]
                 },
@@ -99,14 +104,14 @@ export const wallets = {
                     text: "Legbiztonságosabbak egy hardver tárcával együtt használva.",
                     items: [
                         {
-                            name: "Ginger wallet",
-                            text: "Non-Custodial, Open source Bitcoin tárca CoinJoinnal, 2FA-val, Torral és hardvertárca-támogatással. Magyar nyelv elérhető.",
+                            name: "Ginger Wallet",
+                            text: "Non-custodial, open source Bitcoin tárca CoinJoinnal, 2FA-val, Torral és hardvertárca-támogatással. Magyar nyelv elérhető.",
                             link: "https://gingerwallet.io"
                         },
                         {
                             name: "Sparrow",
-                            text: "A Sparrow wallet sokrétű funkcionalitást támogat, egyik legprofibb, viszont a felülete elsőre nem a legegyszerűbb. ",
-                            link: "https://www.sparrowwallet.com"
+                            text: "A Sparrow wallet sokrétű funkcionalitást támogat, egyik legprofibb tárca, viszont a felülete elsőre nem a legegyszerűbb.",
+                            link: "https://sparrowwallet.com"
                         }
                     ]
                 }
@@ -115,7 +120,7 @@ export const wallets = {
         {
             name: "Hardver tárcák",
             id: "hw-wallet",
-            text: "A hardver tárcák olyan kis eszközök, amik kizárólag arra valók, hogy bitcoin tranzakciókat írjanak alá. Tárolják a privát kulcsokat, nem csatlakoznak az internetre, és a kulcsokat biztonságos módon tárolják. A hardver tárca csatlakoztatásához ajánlott egy jó szoftvertárca is, pl. Sparrow (desktop) vagy Nunchuk (mobil).",
+            text: "A hardver tárcák olyan kis eszközök, amik kizárólag arra valók, hogy bitcoin tranzakciókat írjanak alá. Biztonságos módon tárolják a privát kulcsokat, és nem csatlakoznak az internetre. A hardver tárca csatlakoztatásához ajánlott egy jó szoftvertárca is, pl. Sparrow (desktop) vagy Nunchuk (mobil).",
             bulletsIntro: "Szempontok:",
             bullets: [
                 "airgapped (nem csatlakozik vezetékkel a hoszt géphez)",
@@ -125,7 +130,7 @@ export const wallets = {
             ],
             items: [
                 {
-                    name: "ColdCard (Q, MK4)",
+                    name: "ColdCard",
                     text: "Az egyik legbiztonságosabb, legsokrétűbb eszköz az egyik legelső gyártótól (Coinkite), a \"hardver tárcák Rolls-Royce-a\". \
 Több haladó opciója van, profiknak ajánlott, kezdőknek nem feltétlenül a legjobb választás.",
                     link: "https://coldcard.com/"
@@ -136,9 +141,9 @@ Több haladó opciója van, profiknak ajánlott, kezdőknek nem feltétlenül a 
                     link: "https://blockstream.com/jade/"
                 },
                 {
-                    name: "BitKey (3)",
+                    name: "BitKey",
                     text: "A Block rendhagyó válasza a hardver tárca problémára: self-custodial de gyakorlatilag elveszthetetlen (mert a kütyü-mobilapp-szolgáltató hármasból kettő is elég a visszaállításhoz). \
-Mindez egy nagyobacska kavics kinézetű érekes kis eszközben.",
+Mindez egy nagyobacska kavics kinézetű, érdekes kis eszközben.",
                     link: "https://bitkey.build/"
                 },
                 {
@@ -147,12 +152,12 @@ Mindez egy nagyobacska kavics kinézetű érekes kis eszközben.",
                     link: "https://bitbox.swiss/bitbox02/"
                 },
                 {
-                    name: "SeedSigner (DIY)",
-                    text: "Általános célú alkatrészekből összerakható, Raspberry Zero alapú olcsó eszköz. Csináld magad, vagy vedd meg készen. Nem tárolja el a titkokat, így kilopni sem lehet belőle, viszont minden alkalommal be kell azt vinni.",
+                    name: "SeedSigner",
+                    text: "Általános célú alkatrészekből összerakható, Raspberry Zero alapú olcsó eszköz. Csináld magad, vagy vedd meg készen. Nem tárolja el a titkokat, így kilopni sem lehet belőle, viszont azt minden alkalommal be kell vinni.",
                     link: "https://seedsigner.com/"
                 },
                 {
-                    name: "Specter (DIY)",
+                    name: "Specter",
                     text: "Csináld-magad hardver eszköz, nagy érintőképernyővel, kiegészítőkkel és sokoldalú szoftverrel.",
                     link: "https://specter.solutions/hardware/index.html"
                 },
@@ -173,7 +178,7 @@ Mindez egy nagyobacska kavics kinézetű érekes kis eszközben.",
                 "egy szerényebb hardver is elég: Raspberry Pi, mini PC, vagy régi laptop",
                 "adattárolóból 2TB-os ajánlott – és ha lehet SSD",
                 "komplett hardver+szoftver megoldások is elérhetők",
-                "a node mellett érdemes egyéb szolgáltatásokat is futtatni (electrum, mempool, Lightning node)"
+                "a node mellett érdemes egyéb szolgáltatásokat is futtatni (Electrum, mempool, Lightning node)"
             ],
             items: [
                 {
