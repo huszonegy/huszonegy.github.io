@@ -34,6 +34,12 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - Antal → **Anti**
 - OpenOMS → **Openoms**
 - Optaut → **Optout**
+- Árti / RP / Árki → **Árpi**
+- Samson mut → **Samson Mow**
+- Car Party → **Karpathy** (Andrej Karpathy)
+- Jack Mall → **Jack Mallers**
+- köb Anita → **Köböl Anita** (a hajdúszoboszlói konferencia műsorvezetője)
+- Five — személynév, kötőjellel ragozva: **Five-val**, Five-nak
 
 ## Márka/hely javítások
 
@@ -46,6 +52,12 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - Skolár Kiadó → **Scolar Kiadó**
 - Hotel Auróra → **Hotel Aurora**
 - Variáns → Variance
+- open clow → **OpenClaw**
+- Krypto Sé → **kriptoSZJA** (a Krypteus adóbevallás-segítő rendszere)
+- BTCP / WTCP szerver → **BTCPay szerver**
+- chat GPT → **ChatGPT**
+- Black Rock / Black Crock → **BlackRock**
+- angol márka- és technevek a hivatalos írásmóddal: BlackRock, Coinbase, Kimi K2, RTX, Grok
 
 ## Szakkifejezések
 
@@ -61,12 +73,18 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - nód → **node**
 - hashrate
 - multi-sig → **multisig**
+- Mika → **MiCA** (európai kriptoszabályozás)
+- MMB → **MNB** (Magyar Nemzeti Bank)
+- kantilon hatás → **Cantillon-hatás**
+- zep / zeppek → **zap / zapek** (Nostr borravaló)
+- mit törm → **midterm**
+- represszálás → **reprocesszálás**
 
 ## Formázási konvenciók
 
 - **HUSZONEGY** nagybetűvel ahol a podcast nevére utal (21 → HUSZONEGY)
 - 21-es → HUSZONEGY-es
-- **Nostr-on** kötőjellel
+- a protokoll neve **Nostr**, a toldalékok kötőjellel: Nostr-on, Nostr-ra, Nostr-ba, Nostr-t, Nostr-nak, Nostr-os, Nostr-csoport, Nostr-protokoll (az STT „noszter/noster" alakjait javítsd)
 - `*(nevetés)*` → `(nevetés)` (NEM dőlt formátum)
 - Mondatkezdések nagybetűvel
 - „ne adjátok el a bitcoinotokat!" — felkiáltójellel
