@@ -96,6 +96,14 @@ Ez nem összefoglalás, hanem az élőbeszéd tisztítása. Minden elhangzott é
 - **Szponzori blokk:** az állandó outro-szöveg (huszonegy.world, Bitcoin blog, bitcoinmentor.hu, Hotel Aurora/Atlantis, Firefish) gyakran az adás KÖZEPÉN hangzik el mid-rollként, nem csak a végén — utána még jön érdemi tartalom, ami benne marad.
 - **Beszélőváltás:** csak gondolatjellel (`–`), név nélkül — akkor is, ha hárman beszélgetnek.
 
+### Relai affiliate blokk
+
+A Relai affiliate-olvasás (ha elhangzik az adásban) az átiratban **három különálló bekezdésből** áll — ez kivétel az általános „nincs bold a szövegtestben" szabály alól:
+
+1. A nyitó/figyelemfelkeltő mondat **vastagítva**, külön bekezdésben — pl. `**Ha olyan Bitcoin-only alkalmazást keresel, … nézd meg a Relai-t!**`
+2. A középső rész normál szöveg. A **Relai** első említése link, közvetlenül utána 🇨🇭 svájci zászló emoji: `A [Relai](https://bitcoinmentor.hu/relai) 🇨🇭 egy svájci app, MiCA-engedéllyel, …` Ez a bekezdés tartalmazza a HUSZONEGY kuponkódot is.
+3. A záró sor **vastagítva**, külön bekezdésben: `**Részletes leírás: [bitcoinmentor.hu/relai](https://bitcoinmentor.hu/relai)**`
+
 ## Szerkesztési szabályok
 
 **Eltávolítandó:** hezitálások ("és és", "a a", "ö"), egyszavas reagálások ("Igen.", "Ja.", "Ühüm.", "Bizony.", "Pontosan.", "Persze."), félbehagyott mondatok, töltelékszavak ("na most", "szóval", "tudod").
