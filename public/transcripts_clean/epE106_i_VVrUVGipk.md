@@ -58,10 +58,7 @@ Ezt én is egy kicsit határesetnek érzem. Ha egy cég alkalmazottjaként üzem
 
 Ez az egész, így kicsit távlatokba helyezve, arról szól nekem, hogy sokat beszélünk arról, mennyire versenyképes Európa, és mennyire nem, a világ többi részéhez képest. Ez a kérdés El Salvadorban például föl se merül, de nem vagyok jogász, és szerintem az USA-ban se annyira – ott egy csomó ilyen jellegű szolgáltatás működik. Mert ha MiCA-engedélyt kéne szerezni egy ilyenhez, egy mikrovállalkozásnak, akinek van nyolc ügyfele, és tőlük van évi néhány tíz- vagy százezer forint árbevétele abból, hogy szervereket üzemeltet – egy MiCA-engedély megszerzése ilyen millió eurós nagyságrendű felügyeleti díjakkal jár, meg föl kell építeni egy compliance- meg ügyfélszolgálati hadsereget, aki minden egyes tranzakciót elemez, hogy nehogy valami terrorizmus vagy akármi történjen.
 – Tehát ez gyakorlatilag, ha rosszmájú vagyok, a bankoknak az igencsak piacvédő szabályozása.
-– Nem kell ehhez rosszmáj. Szerintem...
-– Nagy a belépés.
-– Csak nyílt száj.
-– Nagy a belépési küszöb. Ezt egy nagy bank meg tudja tenni, vagy egy nagy globális kriptotőzsde – azoknak ez belefér –, de egy egyszerű kis startup vállalkozásnak, ráadásul itt Magyarországon, teljesen esélytelen.
+– Nem kell ehhez rosszmáj. Szerintem nagy a belépési küszöb: ezt egy nagy bank meg tudja tenni, vagy egy nagy globális kriptotőzsde – azoknak ez belefér –, de egy egyszerű kis startup vállalkozásnak, ráadásul itt Magyarországon, teljesen esélytelen.
 
 Úgyhogy ez a kérdés ezért releváns. És ha majd válaszolnak valamit, akkor az valószínűleg nem csak nekem, hanem nektek is – a Bitcoin Mentorral kapcsolatban –, meg az egyéb, éppen szárba szökkenő magyar kriptós vagy bitcoinos konzulens cégeknek is egy fontos iránymutatás lesz. A MiCA egyébként nem csak a Lightning-csomópont üzemeltetésére vonatkozik, mert van olyan része is, hogy tanácsadás – ilyen kriptoeszköz-tanácsadás, ami nem tudom, mit jelent –, de arra is előírhatnak MiCA-engedélyt akár, úgyhogy ebből még lehetnek problémák, konfliktusok a jövőben.
 – Szerintem ez attól is függ, milyen jellegű tanácsadásról van szó, mert a pénzügyi tanácsadás meg a műszaki tanácsadás között óriási különbség van. Mind a kettő tanácsadás, de amit mi a Bitcoin Mentornál csinálunk – ott nem arról beszélünk, hogy ki mennyi bitcoint vegyen, vagy vegyen-e mást is a bitcoinon kívül –, hanem abban segítünk az ügyfeleknek, hogy ha már eldöntötték, hogy akarnak a Bitcoinnal foglalkozni, milyen háttér-információk vannak ehhez, és mit praktikus csinálni. Mi nem osztjuk az észt arról, hogy mennyi bitcoint vegyen, mennyi ideig tartsa, és aztán mit csináljon vele. Szerintem ez egy lényegi különbség: az nem pénzügyi tanácsadás, amit ott csinálunk.
@@ -77,7 +74,7 @@ Ez az egész, így kicsit távlatokba helyezve, arról szól nekem, hogy sokat b
 – De egyébként komolyan, én is őszintén örülök ennek, sőt én is erre szavaztam. Nem azt mondom, hogy nem örülök neki, csak nem gondolom, hogy most minden lesz.
 – Én még gondolom – és majd belőlem is hülyét csinálhattok az interneten, most belemondom a kamerába –, hogy jobb lesz, mint eddig. Mert azért nagyon jó mémek is születtek. Bízom benne, hogy egy csomó minden jó irányba megy. Szerintem az a fontos, hogy akik boldogok attól, hogy valami lényegi változás beindult, ne dőljenek hanyatt, ne bízzanak abban, hogy innentől az új kormány mindent megold – ezt figyelemmel kell kísérni, hogy mit csinálnak, miért csinálnak, és aktívan bele kell avatkozni abba, hogy a képviselők tényleg azt képviseljék, amiről az emberek dumálnak. Ne csak lekövessük azt, amit aztán ők maszkíroznak. De hát ez egy nehéz ügy.
 
-– Ja, ezzel kapcsolatban egy tegnapi breaking news – és visszakanyarodva a hajdúszoboszlói konferenciára: ott Köböl Anita volt a műsorvezető. Ő volt szerintem az egyetlen, akinek kénytelen volt az összes előadást végighallgatnia, bekonferálnia, és tegnap derült ki, hogy ő lesz az egyik kormányszóvivő. Úgyhogy most van a kormányban egy olyan tag, aki...
+– Ja, ezzel kapcsolatban egy tegnapi breaking news – és visszakanyarodva a hajdúszoboszlói konferenciára: ott Köböl Anita volt a műsorvezető. Ő volt szerintem az egyetlen, aki kénytelen volt az összes előadást végighallgatni, bekonferálni, és tegnap derült ki, hogy ő lesz az egyik kormányszóvivő. Úgyhogy most van a kormányban egy olyan tag, aki...
 – Aki egy Bitcoin-konferencia összes előadását végighallgatta, ha nem is teljesen önszántából.
 – Ez megint egy kis jó hír. A Tisza pártnak a választási programjában benne volt, hogy ezt a rettenetes validátoros őrületet, amiről itt már sokat beszéltünk – talán a konferencián is volt róla szó –, megszüntetik, és visszaállítják a pusztán az európai szabályozásnak megfelelő állapotot, hogy csak a MiCA legyen érvényben; az is épp elég. Remélhetőleg ott majd eszébe jutunk, amikor erről kell beszámolnia egy sajtótájékoztatón: hogy „voltam egy Bitcoin-konferencián, és ott is volt erről szó". Nekem ez jutott eszembe róla.
 – De sok sikert neki! Hát szerintem ennyik voltak a sztorijaim.
@@ -90,7 +87,7 @@ Ez az egész, így kicsit távlatokba helyezve, arról szól nekem, hogy sokat b
 – Őt nem szólították föl. Ő volt az egyetlen, akit nem szólítottak föl, hogy menjen.
 – Értem.
 – Ő nagyon jól átmentette magát: kantillionerből cantillionerré.
-– Igen. Most lesznek új kantilliónerek.
+– Igen. Most vannak új kantilliónerek.
 – Biztosan lesznek.
 – Meg a régiek is megmaradnak.
 – A régiek többé-kevésbé megmaradnak, mert a legtöbbet nem is ismerjük.
@@ -139,7 +136,7 @@ Egyébként a tavalyi bull market a 126 000-es csúccsal se volt egy nagyon kiem
 – Ja, azt látom. Jó, akkor nincs több információ, itt most nem kell bemondanunk semmi többet.
 – Annyit, hogy nem ő az első, aki ennek örül.
 – Talán bemondhatjuk itt, hogy várod a további megrendeléseket, akár a saját elérhetőségeiden, akár a Bitcoin Mentoron keresztül is el lehet téged csípni, ha valakinek ilyen technikai segítségre van szüksége.
-– De mit ér itt... „Sziasztok, feltörték a Krypteus oldalunkat. Az ott megjelenő tartalmak már nem hozzánk köthetők. Dolgozunk a visszaállításon."
+– De mit írt itt... „Sziasztok, feltörték a Krypteus oldalunkat. Az ott megjelenő tartalmak már nem hozzánk köthetők. Dolgozunk a visszaállításon."
 – Hoppács!
 – Ajjaj! Hát nem mi voltunk.
 – Krypteus... Krypt... ez most hol van?
