@@ -2,6 +2,50 @@
 
 export const podcasts = [
     {
+        name: "Bitcoin-adó: Ausztriában bukott, Németország mégis belevág?",
+        id: "E107",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Miért bukik el mindenhol a Bitcoin-adó?"
+        },
+        {
+                time: "05:28",
+                label: "A digitális euró: öngól a Bitcoin javára"
+        },
+        {
+                time: "09:35",
+                label: "11,5%-os osztalék – a Strategy Bitcoin-gépezete"
+        },
+        {
+                time: "14:24",
+                label: "Jegybankok két pofára shoppingolnak"
+        },
+        {
+                time: "17:29",
+                label: "Clarity Act: a bankok is tarthatnak bitcoint?"
+        },
+        {
+                time: "25:46",
+                label: "Az állam így tartja meg a hatalmi fölényét"
+        },
+        {
+                time: "30:17",
+                label: "Volt pénz az állam előtt, lesz utána is"
+        },
+        {
+                time: "33:57",
+                label: "Mikor jön el a Bitcoin átbillenési pontja?"
+        }
+        ],
+        img: "/pics/e107.jpg",
+        date: "2026.05.21.",
+        members: ["Anti", "Robi", "Árpi"],
+        topic: "Miért bukik el mindenhol a Bitcoin-adó? - A digitális euró: öngól a Bitcoin javára - 11,5%-os osztalék – a Strategy Bitcoin-gépezete - Jegybankok két pofára shoppingolnak - Clarity Act: a bankok is tarthatnak bitcoint? - Az állam így tartja meg a hatalmi fölényét - Volt pénz az állam előtt, lesz utána is - Mikor jön el a Bitcoin átbillenési pontja?",
+        yt: "https://youtu.be/zHZGcdjfqU0",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
         name: "Miért háromszor drágább a lakásod, mint 10 éve?",
         id: "E106",
         chapters: [
