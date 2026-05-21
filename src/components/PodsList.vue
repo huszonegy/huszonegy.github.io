@@ -292,7 +292,7 @@ defineProps<{
                 <div class="card-body">
                     <div class="card-img my-3">
                         <router-link :to="'/podcast/' + slugify(pod.name) + '/'" class="link">
-                            <img :src="pod.img" :alt="pod.name" :title="pod.name" />
+                            <img :src="pod.img" :alt="pod.name" :title="pod.name" loading="lazy" />
                         </router-link>
                     </div>
                     <h3 class="card-episode-title">
