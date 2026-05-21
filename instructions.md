@@ -9,7 +9,7 @@ Minden héten egy új epizód. Árpi megvágja és feltölti a HUSZONEGY YouTube
 **Vezérelv minden lépésnél:** ami a reflektorfénybe kerül (cím, indexkép, bevezető, fejezetcímek), legyen egyszerre **lényegi** (az epizód érdemben, hosszan kifejti) **és izgalmas**. Marginális — egy mondatos, egyperces — téma sosem kerül fókuszba, akkor sem, ha csábító. Hiteles edukáció, nem kattintásvadászat. Javaslatot mindig indoklással adok; valódi ízlés-/hangsúlykérdésnél kérdezek, és a választ feljegyzem.
 
 ### 0. Átirat letöltése, megértése
-- `yt-dlp`-vel a magyar auto-felirat a `transcripts/` mappába (lásd „Fájlok helye"), és a leírás letöltése (`--print '%(description)s'`) a `members`-hez.
+- `yt-dlp`-vel a magyar auto-felirat a `transcripts_raw/` mappába (lásd „Fájlok helye"), és a leírás letöltése (`--print '%(description)s'`) a `members`-hez.
 - Végigolvasom az egész átiratot, és készítek egy tématérképet: a fő témák, mindegyikhez az időtartomány és nagyjából a hossz, plusz az epizód hangulata/üzenete. Ez alapozza meg a címet, a bevezetőt és a fejezeteket, és teszi auditálhatóvá, mi lényegi és mi marginális.
 
 ### 1. Cím
@@ -61,7 +61,7 @@ public/transcripts_clean mappában
 fájlok neve E01 esetén epE01_ kezdetű
 corrections.md a gyökérben
 
-Új adás forrásfelirata: a YouTube-azonosító a `src/data/podcasts.ts` `yt:` mezőjében van. A magyar auto-feliratot yt-dlp-vel töltsd le a `transcripts/` mappába `epE{NN}_{id}.hu.srt` néven:
+Új adás forrásfelirata: a YouTube-azonosító a `src/data/podcasts.ts` `yt:` mezőjében van. A magyar auto-feliratot yt-dlp-vel töltsd le a `transcripts_raw/` mappába `epE{NN}_{id}.hu.srt` néven:
 `yt-dlp --write-auto-subs --sub-langs hu --sub-format srt --convert-subs srt --skip-download -o "epE{NN}_%(id)s.%(ext)s" <url>`
 Csak automatikus felirat van, kézi nincs.
 
