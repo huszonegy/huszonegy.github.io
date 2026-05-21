@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { useRoute } from 'vue-router';
 import { get_pod_by_slug, get_adjacent_pods, parseTopics } from '../data/podcasts';
-import { useHead } from '@vueuse/head';
+import { useHead } from '@unhead/vue';
 import { ref, onMounted, computed } from 'vue';
 import { marked } from 'marked';
 import { watch } from 'vue';
@@ -168,6 +168,14 @@ const getYouTubeID = (url: string) => {
 
 const siteOrigin = typeof window !== 'undefined' ? window.location.origin : '';
 
+// OG/Twitter megosztási kép: a YouTube nagy felbontású (1280×720) bélyegképe,
+// nem a kis /pics bélyegkép — így a megosztott linkek rendes méretű képpel jelennek meg
+const ogImage = computed(() => {
+  const ytId = pod.value ? getYouTubeID(pod.value.yt) : '';
+  if (ytId) return `https://img.youtube.com/vi/${ytId}/maxresdefault.jpg`;
+  return pod.value ? `https://huszonegy.world${pod.value.img}` : '';
+});
+
 // Ez a függvény mondja meg az SSG-nek, hogy mi kerüljön a HTML-be
 useHead({
   title: computed(() => pod.value ? `${pod.value.id}: ${pod.value.name} | HUSZONEGY Bitcoin podcast` : 'HUSZONEGY Podcast'),
@@ -180,7 +188,7 @@ useHead({
     // Open Graph (Facebook, Discord, Telegram stb.)
     { property: 'og:title', content: computed(() => pod.value ? `${pod.value.name} | HUSZONEGY Bitcoin podcast` : '') },
     { property: 'og:description', content: seoDescription },
-    { property: 'og:image', content: computed(() => pod.value ? `https://huszonegy.world${pod.value.img}` : '') },
+    { property: 'og:image', content: ogImage },
     { property: 'og:type', content: 'article' },
     { property: 'og:url', content: computed(() => `https://huszonegy.world${route.path}`) },
     { property: 'og:site_name', content: 'HUSZONEGY – csak bitcoinról, magyarul' },
@@ -196,7 +204,7 @@ useHead({
     { name: 'twitter:site', content: '@HUSZONEGYworld' },
     { name: 'twitter:title', content: computed(() => pod.value ? `${pod.value.name} | HUSZONEGY` : '') },
     { name: 'twitter:description', content: seoDescription },
-    { name: 'twitter:image', content: computed(() => pod.value ? `https://huszonegy.world${pod.value.img}` : '') },
+    { name: 'twitter:image', content: ogImage },
   ],
   link: [
     { rel: 'canonical', href: computed(() => `https://huszonegy.world${route.path}`) }
@@ -204,7 +212,7 @@ useHead({
   script: [
     {
       type: 'application/ld+json',
-      children: computed(() => {
+      innerHTML: computed(() => {
         if (!pod.value) return '{}';
         
         const ytId = getYouTubeID(pod.value.yt);

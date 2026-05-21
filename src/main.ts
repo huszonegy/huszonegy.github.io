@@ -1,5 +1,4 @@
 import { ViteSSG } from 'vite-ssg'
-import { createHead } from '@vueuse/head'
 import App from './App.vue'
 import { routes } from './router'
 import 'bootstrap-icons/font/bootstrap-icons.css'
