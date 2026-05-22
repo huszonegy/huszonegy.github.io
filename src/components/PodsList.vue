@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref, computed, onMounted, onUnmounted, nextTick, watch } from 'vue'
-import { get_pods, slugify } from '../data/podcasts'
+import { get_pods, slugify, getYouTubeId } from '../data/podcasts'
 import { useRouter } from 'vue-router';
 
 const router = useRouter();
@@ -143,7 +143,7 @@ const loadTranscripts = async () => {
   // Végigmegyünk az összes pod-on és megpróbáljuk letölteni az md-t
   const promises = allPods.map(async (pod) => {
     try {
-      const videoId = pod.yt.split(/(vi\/|v=|\/v\/|youtu\.be\/|\/embed\/)/)[2]?.split(/[^0-9a-z_-]/i)[0];
+      const videoId = getYouTubeId(pod.yt);
       const response = await fetch(`/transcripts_clean/ep${pod.id}_${videoId}.md`);
       if (response.ok) {
         const text = await response.text();

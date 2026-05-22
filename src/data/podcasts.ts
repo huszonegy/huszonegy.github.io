@@ -5349,6 +5349,13 @@ export const slugify = (text: string) => {
         .replace(/--+/g, '-');         // Dupla kötőjelek javítása
 }
 
+// YouTube-videó ID kinyerése bármilyen YouTube-URL-formából (youtu.be, watch?v=, embed stb.)
+export function getYouTubeId(url: string): string {
+    if (!url) return '';
+    const m = url.match(/(?:youtu\.be\/|youtube\.com\/(?:watch\?(?:.*&)?v=|embed\/|v\/|shorts\/|u\/\w\/))([A-Za-z0-9_-]{11})/);
+    return m ? m[1] : '';
+}
+
 // Egy konkrét epizód lekérése slug alapján
 export function get_pod_by_slug(slug: string) {
     return podcasts.find(p => slugify(p.name) === slug);

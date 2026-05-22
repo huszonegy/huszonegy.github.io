@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { useRoute } from 'vue-router';
-import { get_pod_by_slug, get_adjacent_pods, parseTopics } from '../data/podcasts';
+import { get_pod_by_slug, get_adjacent_pods, parseTopics, getYouTubeId } from '../data/podcasts';
 import { useHead } from '@unhead/vue';
 import { ref, onMounted, computed } from 'vue';
 import { marked } from 'marked';
@@ -52,10 +52,7 @@ const fetchTranscript = async () => {
   }
 
   try {
-    const ytUrl = pod.value.yt;
-    const regExp = /(?:youtu\.be\/|youtube\.com\/(?:watch\?(?:.*&)?v=|embed\/|v\/|u\/\w\/))([A-Za-z0-9_-]{11})/;
-    const match = ytUrl.match(regExp);
-    const videoId = match ? match[1] : null;
+    const videoId = getYouTubeId(pod.value.yt);
 
     if (!videoId) {
         throw new Error("Érvénytelen YouTube URL");
@@ -158,20 +155,12 @@ const episodeNumber = computed(() => {
   return match ? parseInt(match[1]) : undefined;
 });
 
-const getYouTubeID = (url: string) => {
-  if (!url) return '';
-  // Ez a Regex kiszedi az ID-t a rövidített és a hosszú linkekből is
-  const regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]*).*/;
-  const match = url.match(regExp);
-  return (match && match[2].length === 11) ? match[2] : url;
-};
-
 const siteOrigin = typeof window !== 'undefined' ? window.location.origin : '';
 
 // OG/Twitter megosztási kép: a YouTube nagy felbontású (1280×720) bélyegképe,
 // nem a kis /pics bélyegkép — így a megosztott linkek rendes méretű képpel jelennek meg
 const ogImage = computed(() => {
-  const ytId = pod.value ? getYouTubeID(pod.value.yt) : '';
+  const ytId = pod.value ? getYouTubeId(pod.value.yt) : '';
   if (ytId) return `https://img.youtube.com/vi/${ytId}/maxresdefault.jpg`;
   return pod.value ? `https://huszonegy.world${pod.value.img}` : '';
 });
@@ -215,7 +204,7 @@ useHead({
       innerHTML: computed(() => {
         if (!pod.value) return '{}';
         
-        const ytId = getYouTubeID(pod.value.yt);
+        const ytId = getYouTubeId(pod.value.yt);
         
         const jsonLd: Record<string, unknown> = {
           "@context": "https://schema.org",
@@ -294,9 +283,10 @@ useHead({
           </div>
 
           <div class="video-wrapper">
-            <iframe 
+            <iframe
               id="yt-player"
-              :src="`https://www.youtube.com/embed/${getYouTubeID(pod.yt)}?enablejsapi=1&fs=1&modestbranding=0&controls=1&rel=0&cc_load_policy=0&origin=${encodeURIComponent(siteOrigin)}`"
+              :title="`${pod.id}: ${pod.name} – videó`"
+              :src="`https://www.youtube.com/embed/${getYouTubeId(pod.yt)}?enablejsapi=1&fs=1&modestbranding=0&controls=1&rel=0&cc_load_policy=0&origin=${encodeURIComponent(siteOrigin)}`"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen"
               allowfullscreen="true"
@@ -309,12 +299,16 @@ useHead({
             <p class="label mb-4">Az adás tartalmából</p>
             
             <div class="topic-timeline">
-              <div 
-                v-for="(item, index) in topicList" 
-                :key="index" 
+              <div
+                v-for="(item, index) in topicList"
+                :key="index"
                 class="topic-item"
                 :class="{ 'clickable': item.time }"
+                :role="item.time ? 'button' : undefined"
+                :tabindex="item.time ? 0 : undefined"
                 @click="item.time ? seekTo(item.time) : null"
+                @keydown.enter="item.time ? seekTo(item.time) : null"
+                @keydown.space.prevent="item.time ? seekTo(item.time) : null"
               >
                 <div class="topic-content">
                   <span v-if="item.time" class="topic-time">{{ item.time }}</span>
