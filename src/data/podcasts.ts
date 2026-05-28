@@ -2,6 +2,62 @@
 
 export const podcasts = [
     {
+        name: "Recseg a GitHub — épül a magyar Nostr-alternatíva",
+        id: "E108",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Pizza Day: nem csak kockulni tudunk"
+        },
+        {
+                time: "05:55",
+                label: "Túl sok topik, fogyatkozó olvasók"
+        },
+        {
+                time: "11:25",
+                label: "Discord, GitHub, Patreon — egyszerre, Nostron"
+        },
+        {
+                time: "18:30",
+                label: "Aláírt internet: a Nostr-modell"
+        },
+        {
+                time: "23:15",
+                label: "A git zsenialitása és a GitHub csapdája"
+        },
+        {
+                time: "27:55",
+                label: "Recseg a bizalom — Microsoft alatt"
+        },
+        {
+                time: "32:10",
+                label: "Mit kurál egy közösség saját kulccsal?"
+        },
+        {
+                time: "37:45",
+                label: "Open slop kontra open protocol"
+        },
+        {
+                time: "42:20",
+                label: "SatShoot és a cold start probléma"
+        },
+        {
+                time: "46:55",
+                label: "Patkóelmélet: a két véglet közel van"
+        },
+        {
+                time: "50:00",
+                label: "Nick Szabo: Megbízható harmadik fél = biztonsági rés"
+        }
+        ],
+        img: "/pics/e108.jpg",
+        date: "2026.05.28.",
+        members: ["Anti", "Five", "Árpi"],
+        topic: "Pizza Day: nem csak kockulni tudunk - Túl sok topik, fogyatkozó olvasók - Discord, GitHub, Patreon — egyszerre, Nostron - Aláírt internet: a Nostr-modell - A git zsenialitása és a GitHub csapdája - Recseg a bizalom — Microsoft alatt - Mit kurál egy közösség saját kulccsal? - Open slop kontra open protocol - SatShoot és a cold start probléma - Patkóelmélet: a két véglet közel van - Nick Szabo: Megbízható harmadik fél = biztonsági rés",
+        yt: "https://youtu.be/Dg_d3GwwF48",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
         name: "Bitcoin-adó: Ausztriában bukott, Németország mégis belevág?",
         id: "E107",
         chapters: [
