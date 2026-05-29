@@ -30,6 +30,8 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - Opt-out → **Optout**
 - Caro → **Karo**
 - Henk Penki → **HenkyPenky**
+- Hanky Penki → **HenkyPenky**
+- Csáó / Csaó → **Ciao** (köszönés)
 - Nópara → **Nopara**
 - Antal → **Anti**
 - OpenOMS → **Openoms**
@@ -105,6 +107,7 @@ Ezeket linkeld be markdown formátumban, ahol a szövegben előfordulnak. Ha nem
 - [hotelatlantis.hu](https://hotelatlantis.hu)
 - [noszter.hu](https://noszter.hu)
 - [Köztér](https://kozter.nostr.hu/?r=relay.nostr.hu)
+- **Firefish** (szövegben mindig linkelve): [app.firefish.io/auth/sign-up?ref=HUSZONEGY](https://app.firefish.io/auth/sign-up?ref=HUSZONEGY) — a `?ref=HUSZONEGY` paraméter automatikusan beviszi az ajánlókódot
 
 ### Eszközök, szolgáltatások (szövegtörzs)
 - [bitcoin.clarkmoody.com/dashboard](https://bitcoin.clarkmoody.com/dashboard/)
