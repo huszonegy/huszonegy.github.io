@@ -55,7 +55,7 @@ export const podcasts = [
         members: ["Anti", "Five", "Árpi"],
         topic: "Pizza Day: nem csak kockulni tudunk - Túl sok topik, fogyatkozó olvasók - Discord, GitHub, Patreon — egyszerre, Nostron - Aláírt internet: a Nostr-modell - A git zsenialitása és a GitHub csapdája - Recseg a bizalom — Microsoft alatt - Mit kurál egy közösség saját kulccsal? - Open slop kontra open protocol - SatShoot és a cold start probléma - Patkóelmélet: a két véglet közel van - Nick Szabo: Megbízható harmadik fél = biztonsági rés",
         yt: "https://youtu.be/Dg_d3GwwF48",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/vyUH8jut5jjmxy1BcEbL"
     },
     {
         name: "Bitcoin-adó: Ausztriában bukott, Németország mégis belevág?",
