@@ -163,6 +163,8 @@ export const routes: RouteRecordRaw[] = [
     meta: { title: 'Bitcoin Pizza Nap - HUSZONEGY' }
   },
   { path: '/support', redirect: '/tamogatas/' },
+  // E105 régi slugja (címváltozás előtt) → új URL, hogy a megosztott linkek ne 404-eljenek
+  { path: '/podcast/3-ok-amiert-a-bitcoin-veri-az-etikus-jegybanki-penzt/', redirect: '/podcast/lejaratos-penz-vagy-szabad-penz-etikus-jegybank-kontra-bitcoin/' },
   {
     path: '/404/',
     name: 'not-found',

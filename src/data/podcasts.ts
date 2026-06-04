@@ -150,7 +150,7 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/sxASYXEjyfxCroSTI38I"
     },
     {
-        name: "3 ok, amiért a Bitcoin veri az \"etikus\" jegybanki pénzt",
+        name: "Lejáratos pénz vagy szabad pénz? – \"etikus jegybank\" kontra Bitcoin",
         id: "E105",
         chapters: [
         {
