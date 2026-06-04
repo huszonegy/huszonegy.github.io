@@ -4,7 +4,7 @@ export const wallets = {
     intro: "",
     categories: [
         {
-            name: "Lightning tárcák",
+            name: "Lightning-tárcák",
             id: "lightning",
             text: "A Lightning egy elterjedt második-rétegű (L2) bitcoin fizetési rendszer, gyors és olcsó utalásokat tesz lehetővé, főleg kisebb összegekre praktikus.",
             bulletsIntro: "Két fő típusa van:",
@@ -43,22 +43,22 @@ export const wallets = {
                     items: [
                         {
                             name: "AQUA",
-                            text: "Az AQUA egy olyan önrendelkező (self-custodial) Bitcoin és Lightning tárca, amely egyszerű kezelhetőséget kínál kezdőknek is. Hamarosan magyar felülettel is elérhető lesz. Támogatja a Bitcoin on-chain, Lightning és Liquid hálózatokat, valamint a Tether USDt-t. A Lightning tranzakciókat a Boltz segítségével, Liquid Bitcoin (L-BTC) alapú submarine swap-okkal kezeli, automatizálva a csatornakezelést.",
+                            text: "Az AQUA egy olyan önrendelkező (self-custodial) Bitcoin és Lightning-tárca, amely egyszerű kezelhetőséget kínál kezdőknek is. Hamarosan magyar felülettel is elérhető lesz. Támogatja a Bitcoin on-chain, Lightning és Liquid hálózatokat, valamint a Tether USDt-t. A Lightning tranzakciókat a Boltz segítségével, Liquid Bitcoin (L-BTC) alapú submarine swap-okkal kezeli, automatizálva a csatornakezelést.",
                             link: "https://aquawallet.io/"
                         },
                         {
                             name: "Phoenix",
-                            text: "Ez egy olyan Lightning tárca, amelyik tárolja a privát kulcsokat, így nem kell megbízni a szolgáltatóban, viszont nem is kell a felhasználónak foglalkoznia a csatornák kezelésével, mert azt a szolgáltató szinte teljesen automatizálja – némi díjért cserébe (jól átlátható díjazás).",
+                            text: "Ez egy olyan Lightning-tárca, amelyik tárolja a privát kulcsokat, így nem kell megbízni a szolgáltatóban, viszont nem is kell a felhasználónak foglalkoznia a csatornák kezelésével, mert azt a szolgáltató szinte teljesen automatizálja – némi díjért cserébe (jól átlátható díjazás).",
                             link: "https://phoenix.acinq.co/"
                         },
                         {
                             name: "Breez",
-                            text: "Self-custodial lightning tárca, mobilon futó teljes Lightning node, saját csatorna-kezelés lehetőséggel.",
+                            text: "Self-custodial Lightning-tárca, mobilon futó teljes Lightning node, saját csatorna-kezelés lehetőséggel.",
                             link: "https://breez.technology/mobile/"
                         },
                         {
                             name: "Zeus",
-                            text: "A Zeus egy sokoldalú Lightning tárca, sokan 'távirányító appként' használjuk egy szerveren futó saját node kezeléséhez. De ezen túl képes helyben futó node-ként is működni, akár saját csatorna kezeléssel, akár a Zeus LSP-jét használva.",
+                            text: "A Zeus egy sokoldalú Lightning-tárca, sokan 'távirányító appként' használjuk egy szerveren futó saját node kezeléséhez. De ezen túl képes helyben futó node-ként is működni, akár saját csatorna kezeléssel, akár a Zeus LSP-jét használva.",
                             link: "https://zeusln.com/"
                         }
                     ],
@@ -67,9 +67,9 @@ export const wallets = {
             ]
         },
         {
-            name: "On-chain tárcák",
+            name: "On-chain-tárcák",
             id: "onchain",
-            text: "On-chain tárcákkal közvetlenül a Bitcoin blokkláncon tárolhatunk bitcoint. Szempontok: jó ha egy tárca nyílt forráskódú (FOSS), és kizárólag bitcoinos.",
+            text: "On-chain-tárcákkal közvetlenül a Bitcoin blokkláncon tárolhatunk bitcoint. Szempontok: jó ha egy tárca nyílt forráskódú (FOSS), és kizárólag bitcoinos.",
             subcategories: [
                 {
                     name: "Mobilon",
@@ -78,7 +78,7 @@ export const wallets = {
                     items: [
                         {
                             name: "Blockstream",
-                            text: "A Blockstream tárcája (korábban Green wallet), jó on-chain tárca, de támogat Liquidet is.",
+                            text: "A Blockstream tárcája (korábban Green Wallet), jó on-chain-tárca, de támogat Liquidet is.",
                             link: "https://blockstream.com/app/"
                         },
                         {
@@ -88,7 +88,7 @@ export const wallets = {
                         },
                         {
                             name: "Nunchuk",
-                            text: "Modern tárca app, erőssége a több-eszközös védelem (multidevice/multisig), illetve jól együttműködik hardver tárcákkal.",
+                            text: "Modern tárca app, erőssége a több-eszközös védelem (multidevice/multisig), illetve jól együttműködik hardvertárcákkal.",
                             link: "https://nunchuk.io/"
                         },
                         {
@@ -101,7 +101,7 @@ export const wallets = {
                 {
                     name: "Számítógépen",
                     id: "onchain-desktop",
-                    text: "Legbiztonságosabbak egy hardver tárcával együtt használva.",
+                    text: "Legbiztonságosabbak egy hardvertárcával együtt használva.",
                     items: [
                         {
                             name: "Ginger Wallet",
@@ -110,7 +110,7 @@ export const wallets = {
                         },
                         {
                             name: "Sparrow",
-                            text: "A Sparrow wallet sokrétű funkcionalitást támogat, egyik legprofibb tárca, viszont a felülete elsőre nem a legegyszerűbb.",
+                            text: "A Sparrow Wallet sokrétű funkcionalitást támogat, egyik legprofibb tárca, viszont a felülete elsőre nem a legegyszerűbb.",
                             link: "https://sparrowwallet.com"
                         }
                     ]
@@ -118,20 +118,20 @@ export const wallets = {
             ]
         },
         {
-            name: "Hardver tárcák",
+            name: "Hardvertárcák",
             id: "hw-wallet",
-            text: "A hardver tárcák olyan kis eszközök, amik kizárólag arra valók, hogy bitcoin tranzakciókat írjanak alá. Biztonságos módon tárolják a privát kulcsokat, és nem csatlakoznak az internetre. A hardver tárca csatlakoztatásához ajánlott egy jó szoftvertárca is, pl. Sparrow (desktop) vagy Nunchuk (mobil).",
+            text: "A hardvertárcák olyan kis eszközök, amik kizárólag arra valók, hogy bitcoin tranzakciókat írjanak alá. Biztonságos módon tárolják a privát kulcsokat, és nem csatlakoznak az internetre. A hardvertárca csatlakoztatásához ajánlott egy jó szoftvertárca is, pl. Sparrow (desktop) vagy Nunchuk (mobil).",
             bulletsIntro: "Szempontok:",
             bullets: [
-                "airgapped (nem csatlakozik vezetékkel a hoszt géphez)",
+                "air-gapped (nem csatlakozik vezetékkel a hoszt géphez)",
                 "kizárólag bitcoinos",
                 "nyílt forráskódú (FOSS)",
                 "van benne \"secure element\" hardver"
             ],
             items: [
                 {
-                    name: "ColdCard",
-                    text: "Az egyik legbiztonságosabb, legsokrétűbb eszköz az egyik legelső gyártótól (Coinkite), a \"hardver tárcák Rolls-Royce-a\". \
+                    name: "COLDCARD",
+                    text: "Az egyik legbiztonságosabb, legsokrétűbb eszköz az egyik legelső gyártótól (Coinkite), a \"hardvertárcák Rolls-Royce-a\". \
 Több haladó opciója van, profiknak ajánlott, kezdőknek nem feltétlenül a legjobb választás.",
                     link: "https://coldcard.com/"
                 },
@@ -142,7 +142,7 @@ Több haladó opciója van, profiknak ajánlott, kezdőknek nem feltétlenül a 
                 },
                 {
                     name: "BitKey",
-                    text: "A Block rendhagyó válasza a hardver tárca problémára: self-custodial de gyakorlatilag elveszthetetlen (mert a kütyü-mobilapp-szolgáltató hármasból kettő is elég a visszaállításhoz). \
+                    text: "A Block rendhagyó válasza a hardvertárca-problémára: self-custodial de gyakorlatilag elveszthetetlen (mert a kütyü-mobilapp-szolgáltató hármasból kettő is elég a visszaállításhoz). \
 Mindez egy nagyobacska kavics kinézetű, érdekes kis eszközben.",
                     link: "https://bitkey.build/"
                 },
@@ -163,7 +163,7 @@ Mindez egy nagyobacska kavics kinézetű, érdekes kis eszközben.",
                 },
                 {
                     name: "Trezor",
-                    text: "Egy népszerű eszköz az egyik első hardver tárca gyártótól, Csehországból.",
+                    text: "Egy népszerű eszköz az egyik első hardvertárca-gyártó cégtől, Csehországból.",
                     link: "https://trezor.io/"
                 }
             ],
