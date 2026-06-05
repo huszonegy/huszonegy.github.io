@@ -11,50 +11,65 @@
             <div class="support-hero-text">
                 <h1 class="support-hero-title">bitcoin <span class="support-hero-accent">támogatás</span></h1>
                 <p class="support-hero-lead">
-                    Támogasd önkéntes tevékenységünket satok küldésével!
+                    Segíts, hogy ősszel is készülhessenek új HUSZONEGY-epizódok!
                 </p>
             </div>
         </div>
     </div>
     <div name="main-inner" class="container support">
-      <div class="container-sm py-3 px-3 mx-auto text-center" style="min-height: 400px;">
-        <p><b>Lightning Network cím:</b><br />huszonegy@blink.sv</p>
-        <div class="px-3 py-3">
-          <img src="/pics/huszonegy-qr.jpg" class="img-fluid" alt="qr kód" width="300" height="300">
+
+      <div class="support-block py-3">
+          <p class="card-text">A HUSZONEGY podcast mögött rengeteg önkéntes munka áll, és a jelenlegi bevételek nem elegendőek a fenntartásához. Július-augusztusban szünetet tartunk, és szeptemberben csak akkor tudunk foglalkozni új epizódok készítésével, ha addigra elég támogatás jön össze.</p>
+          <p class="card-text">Bármekkora összeget hálásan köszönünk.</p>
+          <p class="card-text">Minden egyes sat a magyar nyelvű Bitcoin-tartalmat erősíti.</p>
+      </div>
+
+      <h2 class="support-section-title">Rendszeres támogatás</h2>
+      <div class="support-block py-3">
+          <p class="card-text">A kiszámítható, havi támogatás biztosítja a podcast valódi fenntarthatóságát.</p>
+          <p class="card-text mb-1">Néhány javasolt szint (vagy amennyi jólesik):</p>
+          <ul class="support-tiers">
+            <li><b><span class="tier-amount">2 100</span> sat / hó</b> <span class="tier-badge">pártoló</span></li>
+            <li class="support-tier-highlight"><b><span class="tier-amount">21 000</span> sat / hó</b> <span class="tier-badge">mecénás</span></li>
+          </ul>
+          <p class="card-text mb-0"><b>Tipp:</b> küldj minden hónap 21-én, és állíts be rá ismétlődő emlékeztetőt!</p>
+      </div>
+
+      <div class="row justify-content-center text-center support-qr-row">
+        <div class="col-md-6 py-3 px-3">
+          <p><b>Lightning cím:</b><br />huszonegy@blink.sv</p>
+          <div class="px-3 py-3">
+            <img src="/pics/huszonegy-qr.jpg" class="img-fluid" alt="qr kód" width="160" height="160">
+          </div>
+        </div>
+        <div class="col-md-6 py-3 px-3">
+          <p><b>On-chain cím:</b><br /><span class="onchain-addr">bc1pzv8afe5l4tv392uhuqasyypl6tpdrc024s9m6ckyw0z8348ukayqudrydd</span></p>
+          <div class="px-3 py-3">
+            <img src="/pics/huszonegy-qr-onchain.jpg" class="img-fluid" alt="qr kód" width="160" height="160">
+          </div>
         </div>
       </div>
 
-      <div name="main-inner container">
-        <div class="card py-4 px-4 my-3">
-            <p class="card-text">Miután egy Lightning tárca qr kód olvasójával beolvasod a fenti kódot, adj meg egy tetszőleges összeget (általában sat-ban kifejezve), opcionálisan üzenetet is adhatsz hozzá, majd kattints a küldésre!</p>
-            <p class="card-text">Ha valamilyen oknál fogva a Lightning küldés nem megoldható (bár az alacsonyabb díjak miatt ez az ajánlott), lejjebb található egy on-chain cím is (a magasabb díjak miatt ez pici összegekre nem praktikus).</p>
-            <p class="card-text">Bármekkora támogatást hálásan köszönünk, és minden egyes sat-ot magyar nyelvű bitcoin oktatássá konvertálunk.</p>
-        </div>
+      <h2 class="support-section-title">Alkalmi támogatás</h2>
+      <p class="support-note py-3">A fenti címekre bármikor, bármekkora összeget küldhetsz — bármennyinek örülünk, de valljuk be, 21 sat egy doboz gyufára sem elég, úgyhogy ha teheted, ne fogd vissza magad — köszi!</p>
+
+      <h2 class="support-section-title">Szponzoráció</h2>
+      <div class="support-block py-3">
+          <p class="card-text">A HUSZONEGY szponzoraként egy elkötelezett, magyar Bitcoin-közönség elé viheted a márkád — beolvasással az adásokban és megjelenéssel a honlapon.</p>
+          <p class="card-text">Jelenlegi szponzoraink: <a href="https://hotelaurora.hu" target="_blank" rel="noopener">Hotel Aurora</a> és <a href="https://hotelatlantis.hu" target="_blank" rel="noopener">Hotel Atlantis</a></p>
+          <p class="card-text mb-0"><a href="https://t.me/pesz21" target="_blank" rel="noopener">Beszéljük meg Telegramon</a> a részleteket!</p>
       </div>
 
-      <div class="container-sm py-3 px-3 mx-auto text-center" style="min-height: 400px;">
-        <p>
-          <b>
-            Publikus cím:
-          </b>
-          <br />
-          <span class="small">
-            bc1pzv8afe5l4tv392uhuqasyypl6tpdrc024s9m6ckyw0z8348ukayqudrydd
-          </span> 
-        </p>
-        <div class="px-3 py-3">
-          <img src="/pics/huszonegy-qr-onchain.jpg" class="img-fluid" alt="qr kód" width="300" height="300">
-        </div>
+      <h2 class="support-section-title">Nostr zap</h2>
+      <div class="support-block py-3 text-center">
+          <p class="card-text">Egy gyors zap a Nostron is sokat segít ➡ <a href="https://nostr.hu/huszonegy" target="_blank" rel="noopener">nostr.hu/huszonegy</a></p>
       </div>
 
-      <div class="container-sm py-3 px-3 mx-auto text-center" style="min-height: 400px;">
-        <h3>
-          <b>
-            Töltsd le a Fountain appot, <a href="https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N">hallgasd abban podcastunkat</a>,<br />s közben csurgass felénk satokat!
-          </b>
-        </h3>
+      <h2 class="support-section-title">Fountain</h2>
+      <div class="support-block py-3">
+        <p class="card-text">Töltsd le a <a href="https://fountain.fm/features" target="_blank" rel="noopener">Fountain appot</a>, és <a href="https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N" target="_blank" rel="noopener">hallgasd benne a podcastunkat</a>,<br />s közben csurgass felénk satokat!</p>
         <div class="px-3 py-3">
-          <a href="https://fountain.fm/features"><img src="/pics/fountain.png" class="img-fluid" alt="Fountain app" /></a>
+          <a href="https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N" target="_blank" rel="noopener"><img src="/pics/fountain.png" class="img-fluid" alt="Fountain" /></a>
         </div>
       </div>
 
@@ -107,13 +122,78 @@
     font-size: 1rem;
     opacity: 0.78;
     line-height: 1.6;
-    max-width: 560px;
+    max-width: 580px;
     margin-bottom: 0.6rem;
 }
 
-.support .card {
-  max-width: 860px;
-  margin: auto;
+.support-block {
+  max-width: 720px;
+  margin: 0 auto 1.5rem;
+  padding: 0 1rem;
+  text-align: center;
+}
+
+.support-note {
+  max-width: 720px;
+  margin: 0 auto 1rem;
+  text-align: center;
+}
+
+.support-section-title {
+    max-width: 720px;
+    margin: 3.5rem auto 0.5rem;
+    text-align: center;
+    font-weight: 700;
+}
+
+.support-qr-row {
+    max-width: 720px;
+    margin: 0 auto;
+}
+
+.onchain-addr {
+    font-family: monospace;
+    font-size: 0.5rem;
+    word-break: break-all;
+}
+
+.support-tiers {
+    list-style: none;
+    padding: 0;
+    margin: 0.4rem 0 0.8rem;
+    display: inline-block;
+    text-align: left;
+}
+
+.support-tiers li {
+    padding: 0.3rem 0;
+}
+
+.tier-amount {
+    display: inline-block;
+    min-width: 3.5em;
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+}
+
+.support-tier-highlight {
+    color: #f7931a;
+}
+
+.tier-badge {
+    display: inline-block;
+    margin-left: 0.5rem;
+    padding: 0.1rem 0.7rem;
+    font-size: 0.8rem;
+    border: 1px solid rgba(255, 255, 255, 0.22);
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.08);
+    vertical-align: middle;
+}
+
+.support-tier-highlight .tier-badge {
+    border-color: rgba(247, 147, 26, 0.4);
+    background: rgba(247, 147, 26, 0.12);
 }
 
 @media (max-width: 576px) {
