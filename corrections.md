@@ -60,6 +60,10 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - chat GPT → **ChatGPT**
 - Black Rock / Black Crock → **BlackRock**
 - angol márka- és technevek a hivatalos írásmóddal: BlackRock, Coinbase, Kimi K2, RTX, Grok
+- Ginger valallet / danger wallet / ginger balet / gindert → **Ginger Wallet** (CoinJoin-tárca; ragozva: Gingert, Gingerrel, Gingeren)
+- Cold card / Cold Card / Coldcard / Cold Card Qud → **COLDCARD** / **COLDCARD Q** (Coinkite hardver tárca; csupa nagybetű, egy szó; toldalék kötőjellel: COLDCARD-on, COLDCARD-ba)
+- Trezor model T → **Trezor Model T**
+- Szatosi Labs / Satoshi Labs → **SatoshiLabs** (a Trezor mögötti cég, a prágai konferencia szervezője)
 
 ## Szakkifejezések
 
@@ -81,6 +85,11 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - zep / zeppek → **zap / zapek** (Nostr borravaló)
 - mit törm → **midterm**
 - represszálás → **reprocesszálás**
+- konzin / consoint / conjoint / „coin join" → **CoinJoin** (ragozva: CoinJoinol, CoinJoinnal, átCoinJoinol)
+- manpool → **mempool** (mempool.space)
+- anonset → **anonimitási pontszám / anonimitási szint**
+- PSBT → **PSBT** (partially signed Bitcoin transaction, részlegesen aláírt Bitcoin-tranzakció)
+- légrés / air-gap (galvanikusan nincs összekötve az eszköz a számítógéppel)
 
 ## Formázási konvenciók
 
@@ -92,6 +101,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - „ne adjátok el a bitcoinotokat!" — felkiáltójellel
 - felszólító mondatok felkiáltójellel — MINDEN felszólító mondat, kivétel nélkül (pl. „ne kíméljetek!", „Írjatok!", „Böngésszétek!", „Kövesd!", „ne adjátok fel!", „szervezzetek meetupot!", „várdál bitcoinnal és őrizd meg!")
 - böngésszétek (dupla sz)
+- **tárca-összetételek egybe** (jelentéstömörítő összetétel, AkH 129. — vö. e-nyelv.hu/mobilpénztárca): **hardvertárca, szoftvertárca, hidegtárca, melegtárca**; toldalékkal is egybe (hardvertárcára, hidegtárcába). A generikus „cold storage / cold wallet / hot wallet" angol alak marad.
 
 ## Linkek
 
@@ -105,6 +115,7 @@ Ezeket linkeld be markdown formátumban, ahol a szövegben előfordulnak. Ha nem
 - [bitcoinmiskolc.hu](https://bitcoinmiskolc.hu)
 - [hotelaurora.hu](https://hotelaurora.hu)
 - [hotelatlantis.hu](https://hotelatlantis.hu)
+- [pesz.hu](https://pesz.hu) — Árpi személyes/támogatói oldala (a „pess.hu" alakot javítsd; a támogatói felhívásnál linkeld)
 - [noszter.hu](https://noszter.hu)
 - [Köztér](https://kozter.nostr.hu/?r=relay.nostr.hu)
 - **Firefish** (szövegben mindig linkelve): [app.firefish.io/auth/sign-up?ref=HUSZONEGY](https://app.firefish.io/auth/sign-up?ref=HUSZONEGY) — a `?ref=HUSZONEGY` paraméter automatikusan beviszi az ajánlókódot
@@ -115,6 +126,7 @@ Ezeket linkeld be markdown formátumban, ahol a szövegben előfordulnak. Ha nem
 - [gingerwallet.io](https://gingerwallet.io)
 - [bip360.org](https://bip360.org)
 - [perspective-bar.hu](https://perspective-bar.hu/)
+- **SideQuest Bar** (a Perspective Bar új neve, ugyanaz a cím; budapesti meetup-helyszín): [side-quest.bar](https://side-quest.bar/) — a „Side Quest Bar" alakot javítsd SideQuest Bar-ra
 
 ### pesz visszajelzés minták
 - noszter.hu és nostr.hu helyes alakok
