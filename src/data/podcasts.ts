@@ -2,6 +2,66 @@
 
 export const podcasts = [
     {
+        name: "Így lesz privát a bitcoinod — Ginger Wallet + CoinJoin",
+        id: "E109",
+        chapters: [
+        {
+                time: "00:00",
+                label: "A bitcoinod elárul — a CoinJoin elrejt"
+        },
+        {
+                time: "05:25",
+                label: "CoinJoin legális? A toxikus coinok csapdája"
+        },
+        {
+                time: "08:39",
+                label: "Ki dönti el, melyik coin „piszkos”?"
+        },
+        {
+                time: "13:58",
+                label: "Hidegtárca vs melegtárca — és a privát terv"
+        },
+        {
+                time: "21:09",
+                label: "Fogadás, címkézés, anonimitási pontszám"
+        },
+        {
+                time: "28:08",
+                label: "Privát coinok a hardvertárcára"
+        },
+        {
+                time: "35:38",
+                label: "CoinJoinnal egyenesen a hidegtárcára"
+        },
+        {
+                time: "40:09",
+                label: "Air-gap: a légrés, ami megvéd"
+        },
+        {
+                time: "45:13",
+                label: "PSBT: így jut át az aláírás a légrésen"
+        },
+        {
+                time: "48:27",
+                label: "A hiba, ami mindent elront"
+        },
+        {
+                time: "55:50",
+                label: "Mibe kerül egy CoinJoin?"
+        },
+        {
+                time: "01:03:27",
+                label: "Amikor a 12 szó kiszivárog"
+        }
+        ],
+        img: "/pics/e109.jpg",
+        date: "2026.06.05.",
+        members: ["Anti", "Dávid", "Árpi"],
+        topic: "A bitcoinod elárul — a CoinJoin elrejt - CoinJoin legális? A toxikus coinok csapdája - Ki dönti el, melyik coin „piszkos”? - Hidegtárca vs melegtárca — és a privát terv - Fogadás, címkézés, anonimitási pontszám - Privát coinok a hardvertárcára - CoinJoinnal egyenesen a hidegtárcára - Air-gap: a légrés, ami megvéd - PSBT: így jut át az aláírás a légrésen - A hiba, ami mindent elront - Mibe kerül egy CoinJoin? - Amikor a 12 szó kiszivárog",
+        yt: "https://youtu.be/VixSrVrXdjk",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
         name: "Recseg a GitHub — épül a magyar Nostr-alternatíva",
         id: "E108",
         chapters: [
@@ -643,7 +703,7 @@ export const podcasts = [
         },
         {
                 time: "03:16",
-                label: "Tor, Lightning tárca és kész"
+                label: "Tor, Lightning-tárca és kész"
         },
         {
                 time: "09:37",
@@ -677,7 +737,7 @@ export const podcasts = [
         img: "/pics/e96.jpg",
         date: "2026.03.05.",
         members: ["Anti", "Openoms", "Árpi"],
-        topic: "Bankárok nélkül is megy - Tor, Lightning tárca és kész - Miért drágább itt a bitcoin? - Két robot kereskedik egymással élőben - Így nem ver át senki: biztonsági letét - 5000 forintos trade 1 perc alatt - Miért a Lightning a tökéletes erre? - OpenClaw: AI ügynök a közösségünkben - Elveszik-e a botok a munkánkat?",
+        topic: "Bankárok nélkül is megy - Tor, Lightning-tárca és kész - Miért drágább itt a bitcoin? - Két robot kereskedik egymással élőben - Így nem ver át senki: biztonsági letét - 5000 forintos trade 1 perc alatt - Miért a Lightning a tökéletes erre? - OpenClaw: AI ügynök a közösségünkben - Elveszik-e a botok a munkánkat?",
         yt: "https://www.youtube.com/watch?v=mwwyU0wjHeY",
         fountain: "https://fountain.fm/episode/b9poObkRnGeY9ZNedI4G"
     },
@@ -1563,7 +1623,7 @@ export const podcasts = [
         },
         {
                 time: "07:30",
-                label: "Hardver tárcák és Bitcoin adoptáció"
+                label: "Hardvertárcák és Bitcoin adoptáció"
         },
         {
                 time: "11:16",
@@ -1597,7 +1657,7 @@ export const podcasts = [
         img: "/pics/e79.jpg",
         date: "2025.10.24.",
         members: ["Anti", "Feri", "Árpi"],
-        topic: "A Bitcoin Miskolc konferencia hangulata - Bitcoin tábor és a jövő konferenciái - Hardver tárcák és Bitcoin adoptáció - Vállalkozások és a Bitcoin elfogadás előretörése - A fiat vonat és a Bitcoin szigete - Proof of work: történelmet írunk a Bitcoinnal - Új hangok a közösségben és a Noster fontossága - A Bitcoin használati értéke és az adoptáció jövője - Vállalkozók és a Bitcoin gazdaság előnyei - Lakásvásárlás Bitcoinnal: a jövő",
+        topic: "A Bitcoin Miskolc konferencia hangulata - Bitcoin tábor és a jövő konferenciái - Hardvertárcák és Bitcoin adoptáció - Vállalkozások és a Bitcoin elfogadás előretörése - A fiat vonat és a Bitcoin szigete - Proof of work: történelmet írunk a Bitcoinnal - Új hangok a közösségben és a Noster fontossága - A Bitcoin használati értéke és az adoptáció jövője - Vállalkozók és a Bitcoin gazdaság előnyei - Lakásvásárlás Bitcoinnal: a jövő",
         yt: "https://youtu.be/x2vWSakAF3Y",
         fountain: "https://fountain.fm/episode/obqiAPe75HroBlmuCKmf"
     },
@@ -1981,7 +2041,7 @@ export const podcasts = [
         img: "/pics/r02.jpg",
         date: "2025.07.18.",
         members: ["Anti", "Tamás", "Árpi", "Feri"],
-        topic: "Miért fontos az önrendelkezés? - A Bitcoin felelőssége - 12 szó, tárca létrehozása lépésről lépésre - Hardver tárcák biztonsága - Umbrel és Bitcoin node magyarázata - 12/24 szó, biztonsági mentés - Ajánlott tárcák: Sparrow, Blue, Keystone Pro - Multisig rendszerek és biztonság - Jade tárca és Blockstream Green",
+        topic: "Miért fontos az önrendelkezés? - A Bitcoin felelőssége - 12 szó, tárca létrehozása lépésről lépésre - Hardvertárcák biztonsága - Umbrel és Bitcoin node magyarázata - 12/24 szó, biztonsági mentés - Ajánlott tárcák: Sparrow, Blue, Keystone Pro - Multisig rendszerek és biztonság - Jade tárca és Blockstream Green",
         yt: "https://youtu.be/C7B6ECIwpA0",
         fountain: "https://fountain.fm/episode/LOg37n9vagxfDtJHH6Ei"
     },
@@ -2819,7 +2879,7 @@ export const podcasts = [
         },
         {
                 time: "11:21",
-                label: "Első elindítás, szoftver tárca létrehozás"
+                label: "Első elindítás, szoftvertárca létrehozás"
         },
         {
                 time: "26:03",
@@ -2853,7 +2913,7 @@ export const podcasts = [
         img: "/pics/mi-az-a-bitcoin-e54.jpg",
         date: "2025.03.07.",
         members: ["Dávid", "Anti", "Árpi"],
-        topic: "Amerikai tartalék alakulása - Ginger wallet letöltése - Első elindítás, szoftver tárca létrehozás - Fő a biztonság: blokk filterek, Tor - Alapbeállítás, bitcoin fogadás - Bitcoin küldés, díj optimalizálás - Blokklánc elemzés, tranzakció gyorsítás - Bitcoin vásárlás - Coinjoin - Legitimitás",
+        topic: "Amerikai tartalék alakulása - Ginger wallet letöltése - Első elindítás, szoftvertárca létrehozás - Fő a biztonság: blokk filterek, Tor - Alapbeállítás, bitcoin fogadás - Bitcoin küldés, díj optimalizálás - Blokklánc elemzés, tranzakció gyorsítás - Bitcoin vásárlás - Coinjoin - Legitimitás",
         yt: "https://youtu.be/u8fLiAlHEXI",
         fountain: "https://fountain.fm/episode/Rwxkx9BNBA8bqkN4TYjS"
     },
@@ -3239,13 +3299,13 @@ export const podcasts = [
         },
         {
                 time: "01:08:03",
-                label: "Jade hardver tárca beüzemelés"
+                label: "Jade hardvertárca beüzemelés"
         }
 ],
         img: "/pics/mi-az-a-bitcoin-e46.jpg",
         date: "2025.01.10.",
         members: ["Anti", "Tamás", "Árpi"],
-        topic: "4-éves ciklusok, MSTR - Nemzetállami Bitcoin stratégia - Megdől a ciklus teória? - MNB a Bitcoinról - 16 éves Bitcoin történelem - Jade bitcoin tárca oktatóvideó készítés - JAN3 nyereményjáték eredmény - Jade hardver tárca beüzemelés",
+        topic: "4-éves ciklusok, MSTR - Nemzetállami Bitcoin stratégia - Megdől a ciklus teória? - MNB a Bitcoinról - 16 éves Bitcoin történelem - Jade bitcoin tárca oktatóvideó készítés - JAN3 nyereményjáték eredmény - Jade hardvertárca beüzemelés",
         yt: "https://youtu.be/JR-_0YXRKKg",
         fountain: "https://fountain.fm/episode/z2Rhc6UIZam84HZoThnH"
     },
@@ -4689,7 +4749,7 @@ export const podcasts = [
         chapters: [
         {
                 time: "00:00",
-                label: "Jade hardver tárca"
+                label: "Jade hardvertárca"
         },
         {
                 time: "07:11",
@@ -4727,7 +4787,7 @@ export const podcasts = [
         img: "/pics/mi-az-a-bitcoin-s01e15.jpg",
         date: "2024.05.31.",
         members: ["Anti", "Tamás"],
-        topic: "Jade hardver tárca - párosítás Blockstream Green mobil tárcával - Revolutból Strike appba, EUR-ból BTC-be - Strike appból Bitcoin Lightning küldés - Lightning elméleti alapok - node üzemeltetés, 'banki' szolgáltatás - ETF, növekvő intézményi ill. céges elfogadás - lottó bányászat Jade tárcával - Bitcoin konferencia",
+        topic: "Jade hardvertárca - párosítás Blockstream Green mobil tárcával - Revolutból Strike appba, EUR-ból BTC-be - Strike appból Bitcoin Lightning küldés - Lightning elméleti alapok - node üzemeltetés, 'banki' szolgáltatás - ETF, növekvő intézményi ill. céges elfogadás - lottó bányászat Jade tárcával - Bitcoin konferencia",
         yt: "https://youtu.be/1AO4nS-5ywI",
         fountain: "https://fountain.fm/episode/RPwf39QU3DbGprhAZ5WJ"
     },
@@ -4921,15 +4981,15 @@ export const podcasts = [
         chapters: [
         {
                 time: "00:00",
-                label: "12 szó | Electrum szoftver tárca"
+                label: "12 szó | Electrum szoftvertárca"
         },
         {
                 time: "08:15",
-                label: "Trezor hardver tárca"
+                label: "Trezor hardvertárca"
         },
         {
                 time: "12:43",
-                label: "Coldcard és Bitbox hardver tárca"
+                label: "COLDCARD és Bitbox hardvertárca"
         },
         {
                 time: "17:10",
@@ -4945,7 +5005,7 @@ export const podcasts = [
         },
         {
                 time: "39:11",
-                label: "Hardver tárca vásárlás bitcoinnal"
+                label: "Hardvertárca vásárlás bitcoinnal"
         },
         {
                 time: "46:02",
@@ -4963,7 +5023,7 @@ export const podcasts = [
         img: "/pics/mi-az-a-bitcoin-s01e11.jpg",
         date: "2024.05.03.",
         members: ["Anti", "Tamás"],
-        topic: "Bitcoin tárca kóstoló - fizetés bitcoinnal - 12 szó - Electrum szoftver tárca - Trezor hardver tárca - Coldcard és Bitbox hardver tárca - Blink mobil tárca - Umbrel node tárca - Zeus mobil tárca - hardver tárca vásárlás bitcoinnal - szeretik a fizetőt is azonosítani",
+        topic: "Bitcoin tárca kóstoló - fizetés bitcoinnal - 12 szó - Electrum szoftvertárca - Trezor hardvertárca - COLDCARD és Bitbox hardvertárca - Blink mobil tárca - Umbrel node tárca - Zeus mobil tárca - hardvertárca vásárlás bitcoinnal - szeretik a fizetőt is azonosítani",
         yt: "https://youtu.be/yX6UpxdITuE",
         fountain: "https://fountain.fm/episode/ReagtOmRpkZ8Of0y6vSZ"
     },
@@ -5313,11 +5373,11 @@ export const podcasts = [
         },
         {
                 time: "35:55",
-                label: "Zsebpénz Lightning tárcába"
+                label: "Zsebpénz Lightning-tárcába"
         },
         {
                 time: "40:03",
-                label: "Lightning tárca, kártya, gyűrű"
+                label: "Lightning-tárca, kártya, gyűrű"
         },
         {
                 time: "46:15",
