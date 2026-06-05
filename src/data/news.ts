@@ -5,6 +5,13 @@
 
 export const news = [
     {
+        summary: "Megújult a támogatás oldal",
+        date: "2026.06.05.",
+        html: "Teljesen megújult a <a href='/tamogatas/'>támogatás oldalunk</a>: letisztult, áttekinthető, és mostantól világosan elmondja, mire megy a támogatás. A <strong>HUSZONEGY</strong> podcast mögött rengeteg önkéntes munka áll, és a jelenlegi bevételek nem elegendőek a fenntartásához — július-augusztusban szünetet tartunk, és szeptemberben csak akkor tudunk új epizódokon dolgozni, ha addigra elég támogatás jön össze.<br /><br />Több módon is segíthetsz: <strong>rendszeres</strong> havi támogatással (ez adja a valódi fenntarthatóságot), <strong>alkalmi</strong> adománnyal Lightningon vagy on-chain, <strong>szponzorként</strong>, egy gyors zappal a <strong>Nostron</strong>, vagy ha <strong>Fountainön</strong> hallgatsz minket, satok streamelésével. Bármekkora összeget hálásan köszönünk — minden egyes sat a magyar nyelvű Bitcoin-tartalmat erősíti. <a href='/tamogatas/'>Nézz körül!</a>",
+        img: "/pics/tamogatas-oldal.jpg",
+        link: "/tamogatas/"
+    },
+    {
         summary: "Új kiemelt partnerünk: Relai + megújult link oldal",
         date: "2026.05.19.",
         html: "Bemutatjuk legújabb kiemelt partnerünket, a <strong>Relai</strong>-t — a svájci Bitcoin-only megtakarítási alkalmazást, amely olyan, mint egy svájci bicska: megbízható, egyszerű, és pont azt csinálja, amire szükséged van. Segít Bitcoint venni, rendszeresen megtakarítani, és mindezt úgy, hogy a privát kulcsaid végig a te kezedben maradnak. A <strong>HUSZONEGY</strong> ajánlókóddal 1% helyett 0,9% lesz a vásárlási díjad — ezzel pedig a HUSZONEGY Bitcoin podcast működését is támogatod.<br /><br />Egyúttal megújult a <a href='/link'>link oldalunk</a> is: letisztultabb, kártyás dizájn, jól olvasható affiliate-jelvények, és külön szekció a kiemelt partnerünknek. Nézz körül!",

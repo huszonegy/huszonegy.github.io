@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { RouterView, useRoute } from 'vue-router'
-import { ref, watch } from 'vue'
+import { ref, watch, onMounted, nextTick } from 'vue'
 
 import Footer from './components/Footer.vue'
 import TopNav from './components/TopNav.vue'
@@ -17,13 +17,30 @@ watch(() => route.fullPath, () => {
   shouldScroll.value = true;
 })
 
+// Minden külső link új lapon nyíljon meg (target="_blank" + rel)
+function markExternalLinks() {
+  document.querySelectorAll<HTMLAnchorElement>('a[href]').forEach((a) => {
+    const href = a.getAttribute('href') || '';
+    if (!/^https?:\/\//i.test(href)) return;             // csak abszolút http(s)
+    if (a.hostname === window.location.hostname) return; // saját domain kihagyva
+    if (!a.target) a.target = '_blank';
+    const rel = (a.getAttribute('rel') || '').split(/\s+/).filter(Boolean);
+    if (!rel.includes('noopener')) rel.push('noopener');
+    if (!rel.includes('noreferrer')) rel.push('noreferrer');
+    a.setAttribute('rel', rel.join(' '));
+  });
+}
+
 // Suspense @resolve: az új oldal ténylegesen renderelődött
 const onSuspenseResolve = () => {
   if (shouldScroll.value) {
     shouldScroll.value = false;
     window.scrollTo(0, 0);
   }
+  nextTick(markExternalLinks);
 }
+
+onMounted(() => nextTick(markExternalLinks));
 </script>
 
 <template>

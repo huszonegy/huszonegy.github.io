@@ -5,6 +5,9 @@ import { get_news } from '../data/news'
 defineProps<{
     max_count: number
 }>()
+
+// külső link (http/https) új fülön nyíljon; belső link SPA-navigációval, azonos fülön
+const isExternal = (url: string) => /^https?:\/\//i.test(url)
 </script>
 
 <template>
@@ -17,9 +20,12 @@ defineProps<{
                 </h3>
                 <p class="small">{{ nn.date }}</p>
                 <p v-if="nn.link" class="news-img">
-                    <a :href="nn.link" target="_blank" class="link">
+                    <a v-if="isExternal(nn.link)" :href="nn.link" target="_blank" rel="noopener" class="link">
                         <img :src="nn.img" :alt="nn.summary" :title="nn.summary" />
                     </a>
+                    <RouterLink v-else :to="nn.link" class="link">
+                        <img :src="nn.img" :alt="nn.summary" :title="nn.summary" />
+                    </RouterLink>
                 </p>
                 <p v-if="nn.html" class="card-text" v-html="nn.html" />
             </div>
