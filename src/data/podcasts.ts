@@ -2,6 +2,62 @@
 
 export const podcasts = [
     {
+        name: "Miért nem jut el a tömeg a Bitcoinig?",
+        id: "E110",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Lorry beszámolója az etikus pénzről"
+        },
+        {
+                time: "06:05",
+                label: "Bűn-e felhalmozni? A pénz négy funkciója"
+        },
+        {
+                time: "10:14",
+                label: "A pénz mint „daganat” — és a gombafonál"
+        },
+        {
+                time: "14:45",
+                label: "Digitális euró: 3500 eurós plafon"
+        },
+        {
+                time: "19:32",
+                label: "Megérzed a bajt, de nincs időd a kiútra"
+        },
+        {
+                time: "24:26",
+                label: "Miért látszik a Bitcoin „vesztesnek”?"
+        },
+        {
+                time: "30:30",
+                label: "Kétféle ember — ki jut el a Bitcoinig"
+        },
+        {
+                time: "35:26",
+                label: "Csereeszköz-csapda és a tücskös jövőkép"
+        },
+        {
+                time: "39:05",
+                label: "Alapjövedelem: az AI hozza a kényszert"
+        },
+        {
+                time: "43:00",
+                label: "Jön a társadalmi pontrendszer?"
+        },
+        {
+                time: "47:10",
+                label: "„Vegyél vissza, állam!”"
+        }
+        ],
+        img: "/pics/e110.jpg",
+        date: "2026.06.12.",
+        members: ["Anti", "Lorry", "Árpi"],
+        topic: "Lorry beszámolója az etikus pénzről - Bűn-e felhalmozni? A pénz négy funkciója - A pénz mint „daganat” — és a gombafonál - Digitális euró: 3500 eurós plafon - Megérzed a bajt, de nincs időd a kiútra - Miért látszik a Bitcoin „vesztesnek”? - Kétféle ember — ki jut el a Bitcoinig - Csereeszköz-csapda és a tücskös jövőkép - Alapjövedelem: az AI hozza a kényszert - Jön a társadalmi pontrendszer? - „Vegyél vissza, állam!”",
+        yt: "https://youtu.be/1kXPfELVmQA",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
         name: "Így lesz privát a bitcoinod — Ginger Wallet + CoinJoin",
         id: "E109",
         chapters: [
@@ -59,7 +115,7 @@ export const podcasts = [
         members: ["Anti", "Dávid", "Árpi"],
         topic: "A bitcoinod elárul — a CoinJoin elrejt - CoinJoin legális? A toxikus coinok csapdája - Ki dönti el, melyik coin „piszkos”? - Hidegtárca vs melegtárca — és a privát terv - Fogadás, címkézés, anonimitási pontszám - Privát coinok a hardvertárcára - CoinJoinnal egyenesen a hidegtárcára - Air-gap: a légrés, ami megvéd - PSBT: így jut át az aláírás a légrésen - A hiba, ami mindent elront - Mibe kerül egy CoinJoin? - Amikor a 12 szó kiszivárog",
         yt: "https://youtu.be/VixSrVrXdjk",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/BEaYa7MDcvmm44QgKomw"
     },
     {
         name: "Recseg a GitHub — épül a magyar Nostr-alternatíva",
@@ -3856,7 +3912,7 @@ export const podcasts = [
 ],
         img: "/pics/mi-az-a-bitcoin-s01e35.jpg",
         date: "2024.10.18.",
-        members: ["Anti", "Lóri", "Árpi"],
+        members: ["Anti", "Lorry", "Árpi"],
         topic: "Első magyar Bitcoin konferencia élmények - Tudásbázis a Blink tárcában - Kvíz kérdések sat jutalomért - Bitcoin borravaló - MNB a Bitcoinról - Ismert emberek a Bitcoinról - Időszerű és megismételhetetlen - Társadalmi egyezmény, Cantillon-hatás - Gyerekek, iskolai előre gondolkodás - Nyugdíj, önrendelkezés, politikai szándék - Bitcoin a német és a kanadai parlamentben - Bitcoint a magyarnak! - Összekapcsolódnak a dolgok - SEEDOR",
         yt: "https://youtu.be/Cp1Zanr943c",
         fountain: "https://fountain.fm/episode/ycqB1BwrYvBPF51UZhJP"
