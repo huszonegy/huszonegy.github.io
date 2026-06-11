@@ -42,6 +42,11 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - Jack Mall → **Jack Mallers**
 - köb Anita → **Köböl Anita** (a hajdúszoboszlói konferencia műsorvezetője)
 - Five — személynév, kötőjellel ragozva: **Five-val**, Five-nak
+- Lóri / Lóit / Lóia / Lori → **Lorry** (visszatérő vendég; ragozva: Lorryval, Lorrynak)
+- Takács Péter / Tagás Péter / Takás Péter → **Takáts Péter** (antropozófus előadó, az „etikus pénz" előadássorozat tartója)
+- Smith Andi → **Schmied Andi** (budapesti képzőművész-építész; a New York-i üres luxuslakásokról szóló projekt szerzője)
+- Argentari / Argentarinak → **Argentarius** (Alfred Lansburgh álneve; a pénzről szóló levelek/könyv szerzője)
+- Toti Robi / Totik Robi → **Tótik Robi** (az Argentarius-könyv magyar fordítója)
 
 ## Márka/hely javítások
 
@@ -64,6 +69,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - Cold card / Cold Card / Coldcard / Cold Card Qud → **COLDCARD** / **COLDCARD Q** (Coinkite hardver tárca; csupa nagybetű, egy szó; toldalék kötőjellel: COLDCARD-on, COLDCARD-ba)
 - Trezor model T → **Trezor Model T**
 - Szatosi Labs / Satoshi Labs → **SatoshiLabs** (a Trezor mögötti cég, a prágai konferencia szervezője)
+- Sidequest bar / SideQuest bar → **SideQuest Bar** (belvárosi meetup-helyszín)
 
 ## Szakkifejezések
 

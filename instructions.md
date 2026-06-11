@@ -6,7 +6,7 @@ A munkát a HUSZONEGY podcast vágója (Árpi) végzi, VS Code-ban a Claude Code
 
 Minden héten egy új epizód. Árpi Riverside-ban megvágja és feltölti a HUSZONEGY YouTube-csatornájára — ekkor a címben az epizód száma szerepel, a leírásban pedig a résztvevők (pl. „Anti, Tamás, Árpi") —, a YouTube elkészíti az automatikus feliratot. Innen indul a közös munka; az input az új epizód **YouTube-linkje**.
 
-**Vezérelv minden lépésnél:** ami a reflektorfénybe kerül (cím, indexkép, bevezető, fejezetcímek), legyen egyszerre **lényegi** (az epizód érdemben, hosszan kifejti) **és izgalmas**. Marginális — egy mondatos, egyperces — téma sosem kerül fókuszba, akkor sem, ha csábító. Hiteles edukáció, nem kattintásvadászat. Javaslatot mindig indoklással adok; valódi ízlés-/hangsúlykérdésnél kérdezek, és a választ feljegyzem.
+**Vezérelv minden lépésnél:** ami a reflektorfénybe kerül (cím, indexkép, bevezető, fejezetcímek), legyen egyszerre **lényegi** (az epizód érdemben, hosszan kifejti) **és izgalmas**. Marginális — egy mondatos, egyperces — téma sosem kerül fókuszba, akkor sem, ha csábító. Hiteles edukáció, nem kattintásvadászat. Javaslatot mindig indoklással adok; valódi ízlés-/hangsúlykérdésnél kérdezek, és a választ feljegyzem. **A véglegesített szöveget (cím, bevezető, fejezetek, leírás, átirat) nem írom át önállóan** — átolvasás-/ellenőrzés-kérésnél is csak javaslatot adok (számozott lista + indoklás), és megvárom a jóváhagyást; világos „csináld meg X" feladatnál viszont cselekszem. Az önállósodás mértékét közösen kalibráljuk.
 
 ### 0. Átirat letöltése, megértése
 - `yt-dlp`-vel a magyar auto-felirat a `transcripts_raw` mappába (lásd „Fájlok helye"), és a leírás letöltése (`--print '%(description)s'`) a `members`-hez.
@@ -15,6 +15,8 @@ Minden héten egy új epizód. Árpi Riverside-ban megvágja és feltölti a HUS
 
 ### 1. Cím
 **3–5 változat**, lehetőleg **különböző szögekből** (kérdés / szám / konkrét értékígéret / meglepő állítás / tét), de **az erő veri a változatosságot**: jobb 3 valóban ütős változat 2 szögből, mint 5 erőltetett változat 5 szögből. Ha egy szögnek nincs jó változata az adott epizódhoz, hagyjuk ki. Mindegyiknél: karakterszám, **klikk-erő (1–5)** egy mondat érveléssel, **curiosity-gap (1–3)** — mennyire hagy nyitva egy kérdést, amit csak a kattintás old fel (de csak ha valódi tartalom van mögötte; üres tátongás = clickbait, az nem ér pontot) —, **melyik 0. lépésbeli keresési kulcsszót fedi** (vagy egyik se), **kit céloz elsősorban** (fan / új tech-érdeklődő / búvárkodó), miért működik, melyik epizódrész fedezi. A klikk-erő **összehasonlító** (nem abszolút): a felkínált halmazon belül adok rangsort. Az ajánlott változat a legmagasabb klikk-erővel + a stratégiai szempontoknak (lényegi, izgalmas, hiteles) is megfelelő — és ha lehet, **legalább egy keresési kulcsszót is fed**.
+
+**Back-katalógus-ütközés:** a cím véglegesítése előtt ránézek a `podcasts.ts` közelmúltbeli, hasonló témájú adásaira. Ha egy korábbi cím már elhasználta ugyanazt a szöget vagy szerkezetet, a feedben ne legyen majdnem-klón — az új adás a friss, még le nem fedett szögre menjen. (Pl. E110-nél kiderült, hogy az E105 már vitte a „…etikus jegybank kontra Bitcoin" felállást, ezért lett E110 a „Miért nem jut el a tömeg a Bitcoinig?".)
 
 **Klikk-erő skála** (HUSZONEGY-kontextusra kalibrálva — hiteles edukáció, nem általános clickbait CTR-re):
 - **5** — Erős érzelmi hook + konkrét ígéret együtt; nagy CTR várható
@@ -196,7 +198,7 @@ A legutóbbi szépített átirat az etalon — onnan veszem az aktuális konvenc
 
 Nyers, beszélt nyelvi szöveget alakítunk olvasható, linkelt, strukturált prózává – miközben a tartalom, hangulat és podcast-jelleg megmarad.
 
-Ez nem összefoglalás, hanem az élőbeszéd tisztítása. Minden elhangzott érvnek, példának, személyes történetnek és gondolatmenetnek meg kell maradnia teljes részletességgel. Csak a technikai zajt (ö-zés, ismétlés) távolítjuk el. A magyartalan szórendet is szépítem. Ha kérdéses, erről is egyeztetek.
+Ez nem összefoglalás, hanem az élőbeszéd tisztítása. Minden elhangzott érvnek, példának, személyes történetnek és gondolatmenetnek meg kell maradnia teljes részletességgel. Csak a technikai zajt (ö-zés, ismétlés) távolítjuk el. A magyartalan szórendet is szépítem. **A szépítés sebészi, nem újrafogalmazó:** a beszélő konkrét szóválasztását érintetlenül hagyom — nem generálom újra a mondatot, mert akkor észrevétlenül szinonimára vált (pl. „alapján" → „szerint"), és az már hűtlenség, hiába stimmel a jelentés. Átiratot írunk, nem prózát: a darabos, de hiteles megfogalmazás (akár egy nyers „Mészárolják.") marad. Ha kérdéses, erről is egyeztetek.
 
 1. Bekezdéstörések (beszélőváltás, logikai egységek)
 2. Hezitálások, ismétlések, egyszavas reagálások eltávolítása
