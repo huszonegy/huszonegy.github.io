@@ -8,7 +8,7 @@ Sziasztok, üdv mindenkinek! Ez itt a HUSZONEGY Bitcoin Podcast Dáviddal, Árpi
 
 Erőforráshiánnyal küzdünk, és veszélybe került a podcast működése. Ha értékeled az edukatív tartalmainkat, kérünk, támogass minket, hogy folytathassuk ezt a munkát! A támogatás lehet alkalomszerű, rendszeres, vagy akár szponzori együttműködés is. A részleteket a személyes honlapomon találod, melynek címe [pesz.hu](https://pesz.hu) — a leírásban és a képernyőn is megtalálod.
 
-**Köszönünk szépen minden eddigi és további támogatást.**
+**Köszönünk szépen minden eddigi és további támogatást.** 🧡
 
 – Akkor vágjunk is bele!
 – Vágjunk bele! Tételezzük föl, hogy valaki vásárolt bitcoint egy exchange-en, és szeretné bevarrni a párnájába — ez történetesen egy Ginger Wallet —, majd onnan esetleg elküldi egy hardvertárcára. Legyen ez mondjuk az alap.
