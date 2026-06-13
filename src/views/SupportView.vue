@@ -20,17 +20,16 @@
 
       <div class="support-block py-3">
           <p class="card-text">A HUSZONEGY podcast mögött rengeteg önkéntes munka áll, és a jelenlegi bevételek nem elegendőek a fenntartásához. Július-augusztusban szünetet tartunk, és szeptemberben csak akkor tudunk foglalkozni új epizódok készítésével, ha addigra elég támogatás jön össze.</p>
-          <p class="card-text">Bármekkora összeget hálásan köszönünk.</p>
-          <p class="card-text">Minden egyes sat a magyar nyelvű Bitcoin-tartalmat erősíti.</p>
+          <p class="card-text">Minden egyes sat a magyar nyelvű Bitcoin tartalmat erősíti.</p>
       </div>
 
       <h2 class="support-section-title">Rendszeres támogatás</h2>
       <div class="support-block py-3">
           <p class="card-text">A kiszámítható, havi támogatás biztosítja a podcast valódi fenntarthatóságát.</p>
-          <p class="card-text mb-1">Néhány javasolt szint (vagy amennyi jólesik):</p>
+          <p class="card-text mb-1">Néhány javasolt összeg:</p>
           <ul class="support-tiers">
-            <li><b><span class="tier-amount">2 100</span> sat / hó</b> <span class="tier-badge">pártoló</span></li>
-            <li class="support-tier-highlight"><b><span class="tier-amount">21 000</span> sat / hó</b> <span class="tier-badge">mecénás</span></li>
+            <li><b><span class="tier-amount">2 100</span> sat / hó</b></li>
+            <li class="support-tier-highlight"><b><span class="tier-amount">21 000</span> sat / hó</b></li>
           </ul>
           <p class="card-text mb-0"><b>Tipp:</b> küldj minden hónap 21-én, és állíts be rá ismétlődő emlékeztetőt!</p>
       </div>
@@ -51,18 +50,11 @@
       </div>
 
       <h2 class="support-section-title">Alkalmi támogatás</h2>
-      <p class="support-note py-3">A fenti címekre bármikor, bármekkora összeget küldhetsz — bármennyinek örülünk, de valljuk be, 21 sat egy doboz gyufára sem elég, úgyhogy ha teheted, ne fogd vissza magad — köszi!</p>
-
-      <h2 class="support-section-title">Szponzoráció</h2>
-      <div class="support-block py-3">
-          <p class="card-text">A HUSZONEGY szponzoraként egy elkötelezett, magyar Bitcoin-közönség elé viheted a márkád — beolvasással az adásokban és megjelenéssel a honlapon.</p>
-          <p class="card-text">Jelenlegi szponzoraink: <a href="https://hotelaurora.hu" target="_blank" rel="noopener">Hotel Aurora</a> és <a href="https://hotelatlantis.hu" target="_blank" rel="noopener">Hotel Atlantis</a></p>
-          <p class="card-text mb-0"><a href="https://t.me/pesz21" target="_blank" rel="noopener">Beszéljük meg Telegramon</a> a részleteket!</p>
-      </div>
+      <p class="support-note py-3">A fenti címekre bármikor, bármekkora összeget küldhetsz.</p>
 
       <h2 class="support-section-title">Nostr zap</h2>
       <div class="support-block py-3 text-center">
-          <p class="card-text">Egy gyors zap a Nostron is sokat segít ➡ <a href="https://nostr.hu/huszonegy" target="_blank" rel="noopener">nostr.hu/huszonegy</a></p>
+          <p class="card-text">Egy gyors zap a Nostr-on is sokat segít ➡ <a href="https://nostr.hu/huszonegy" target="_blank" rel="noopener">nostr.hu/huszonegy</a></p>
       </div>
 
       <h2 class="support-section-title">Fountain</h2>
@@ -72,6 +64,29 @@
           <a href="https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N" target="_blank" rel="noopener"><img src="/pics/fountain.png" class="img-fluid" alt="Fountain" /></a>
         </div>
       </div>
+
+      <h2 class="support-section-title support-yt-title">YouTube csatornatagság</h2>
+      <div class="support-block py-3">
+          <p class="card-text">Havi szinten YouTube csatornatagsággal is támogathatod a podcast működését.<br />3 támogatási szint közül választhatsz.</p>
+          <p class="card-text mb-0"><a href="https://www.youtube.com/@huszonegy-bitcoin-podcast/join" target="_blank" rel="noopener">Nézd meg a részleteket</a>, és legyél te is csatornatag!</p>
+          <a href="https://www.youtube.com/@huszonegy-bitcoin-podcast/join" target="_blank" rel="noopener" class="support-yt-icon py-1" aria-label="Csatlakozz a csatornatagsághoz a YouTube-on">
+              <svg viewBox="0 0 24 24" width="36" height="36" aria-hidden="true">
+                  <path fill="#ff0000" d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814z"/>
+                  <path fill="#fff" d="M9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+              </svg>
+          </a>
+      </div>
+
+      <h2 class="support-section-title">Szponzoráció</h2>
+      <div class="support-block py-3">
+          <p class="card-text">A HUSZONEGY szponzoraként egy elkötelezett magyar Bitcoin közönség elé viheted a márkád — beolvasással az adásokban és megjelenéssel a honlapon.</p>
+          <p class="card-text"><a href="https://t.me/pesz21" target="_blank" rel="noopener">Beszéljük meg Telegramon</a> a részleteket!</p>
+          <h3 class="support-subsection-title">Jelenlegi szponzoraink</h3>
+          <p class="card-text mb-0"><a href="https://hotelaurora.hu" target="_blank" rel="noopener">Hotel Aurora</a> ⚡ Miskolctapolca<br />
+          <a href="https://hotelatlantis.hu" target="_blank" rel="noopener">Hotel Atlantis</a> ⚡ Hajdúszoboszló</p>
+      </div>
+
+      <p class="support-thanks">Kösz szépen! 🧡</p>
 
       <div class="bottom-space"><!-- empty --></div>
     </div>
@@ -146,6 +161,33 @@
     font-weight: 700;
 }
 
+.support-section-title.support-yt-title {
+    margin-top: 2.5rem;
+}
+
+.support-subsection-title {
+    font-size: 1.05rem;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #fff;
+    margin: 1.8rem 0 1rem;
+}
+
+.support-yt-icon {
+    display: inline-block;
+    margin-top: 0.6rem;
+}
+
+.support-thanks {
+    max-width: 720px;
+    margin: 3.5rem auto 0;
+    text-align: center;
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #fff;
+}
+
 .support-qr-row {
     max-width: 720px;
     margin: 0 auto;
@@ -178,22 +220,6 @@
 
 .support-tier-highlight {
     color: #f7931a;
-}
-
-.tier-badge {
-    display: inline-block;
-    margin-left: 0.5rem;
-    padding: 0.1rem 0.7rem;
-    font-size: 0.8rem;
-    border: 1px solid rgba(255, 255, 255, 0.22);
-    border-radius: 999px;
-    background: rgba(255, 255, 255, 0.08);
-    vertical-align: middle;
-}
-
-.support-tier-highlight .tier-badge {
-    border-color: rgba(247, 147, 26, 0.4);
-    background: rgba(247, 147, 26, 0.12);
 }
 
 @media (max-width: 576px) {
