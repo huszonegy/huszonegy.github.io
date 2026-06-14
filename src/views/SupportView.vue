@@ -82,7 +82,8 @@
           <p class="card-text">A HUSZONEGY szponzoraként egy elkötelezett magyar Bitcoin közönség elé viheted a márkád — beolvasással az adásokban és megjelenéssel a honlapon.</p>
           <p class="card-text"><a href="https://t.me/pesz21" target="_blank" rel="noopener">Beszéljük meg Telegramon</a> a részleteket!</p>
           <h3 class="support-subsection-title">Jelenlegi szponzoraink</h3>
-          <p class="card-text mb-0"><a href="https://hotelaurora.hu" target="_blank" rel="noopener">Hotel Aurora</a> ⚡ Miskolctapolca<br />
+          <p class="card-text mb-0"><a href="https://budabit.club" target="_blank" rel="noopener">BudaBit</a> 🔥 cypherpunk fejlesztői közösség<br />
+          <a href="https://hotelaurora.hu" target="_blank" rel="noopener">Hotel Aurora</a> ⚡ Miskolctapolca<br />
           <a href="https://hotelatlantis.hu" target="_blank" rel="noopener">Hotel Atlantis</a> ⚡ Hajdúszoboszló</p>
       </div>
 
