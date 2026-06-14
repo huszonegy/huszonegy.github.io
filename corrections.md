@@ -102,6 +102,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - **HUSZONEGY** nagybetűvel ahol a podcast nevére utal (21 → HUSZONEGY)
 - 21-es → HUSZONEGY-es
 - a protokoll neve **Nostr**, a toldalékok kötőjellel: Nostr-on, Nostr-ra, Nostr-ba, Nostr-t, Nostr-nak, Nostr-os, Nostr-csoport, Nostr-protokoll (az STT „noszter/noster" alakjait javítsd)
+- **márka/brand + köznév összetétel: kötőjel NÉLKÜL, külön szóként** (Árpi tudatos stílusa, eltér a szigorú AkH kötőjelezéstől). Pl. *Bitcoin tartalom, Bitcoin közönség, Bitcoin tárca, Bitcoin cím, Bitcoin blog, YouTube csatornatagság* — NEM „Bitcoin-tartalom". **Minden** ilyen összetételre (a technikaiakra is). ⚠️ Ez csak az **összetételre** vonatkozik; a brandre tett **puszta toldalék** marad a saját szabályán: *Bitcoinról, Bitcoinhoz, Bitcoinban* (egybe), *Nostr-on, Nostr-ra* (kötőjellel).
 - `*(nevetés)*` → `(nevetés)` (NEM dőlt formátum)
 - Mondatkezdések nagybetűvel
 - „ne adjátok el a bitcoinotokat!" — felkiáltójellel
