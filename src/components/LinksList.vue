@@ -1,17 +1,7 @@
 <script setup lang="ts">
-import { computed } from 'vue'
 import { links } from '../data/links'
 
-const featured = computed(() =>
-    links.flatMap(cat => cat.items.filter((item: any) => item.featured))
-)
-
-const categories = computed(() =>
-    links.map(cat => ({
-        ...cat,
-        items: cat.items.filter((item: any) => !item.featured)
-    }))
-)
+const categories = links
 </script>
 
 <template>
@@ -28,19 +18,19 @@ const categories = computed(() =>
             </div>
         </div>
     </div>
-    <div v-if="featured.length" class="links">
-        <h2 class="links-category links-category-featured">
-            Kiemelt partnerünk
+    <div v-for="kategoria in categories" class="links">
+        <h2 class="links-category" v-if="kategoria.items.length">
+            {{ kategoria.category }}
         </h2>
         <div class="links-list">
-            <article v-for="link in featured" class="link-card link-card-featured">
+            <article v-for="link in kategoria.items" class="link-card" :class="{ 'link-card-banner-card': (link as any).image }">
                 <a :href="link.url" target="_blank" class="link-card-banner-link" v-if="(link as any).image">
                     <img :src="(link as any).image" :alt="link.name + ' banner'" class="link-card-banner" />
                 </a>
-                <div class="link-card-body">
+                <div class="link-card-content">
                     <header class="link-card-header">
                         <a :href="link.url" target="_blank" class="link-card-title-link">
-                            <h5 class="link-card-title link-card-title-featured">
+                            <h5 class="link-card-title">
                                 {{ link.name }}
                                 <i class="bi bi-arrow-up-right link-card-arrow"></i>
                             </h5>
@@ -53,29 +43,6 @@ const categories = computed(() =>
                     </header>
                     <p v-if="link.text" class="link-card-text" v-html="link.text" />
                 </div>
-            </article>
-        </div>
-    </div>
-    <div v-for="kategoria in categories" class="links">
-        <h2 class="links-category" v-if="kategoria.items.length">
-            {{ kategoria.category }}
-        </h2>
-        <div class="links-list">
-            <article v-for="link in kategoria.items" class="link-card">
-                <header class="link-card-header">
-                    <a :href="link.url" target="_blank" class="link-card-title-link">
-                        <h5 class="link-card-title">
-                            {{ link.name }}
-                            <i class="bi bi-arrow-up-right link-card-arrow"></i>
-                        </h5>
-                    </a>
-                    <span v-if="link.afftype" class="link-chip">
-                        <i class="bi bi-tag-fill"></i>
-                        <span class="link-chip-type">{{ link.afftype }}</span>
-                        <span class="link-chip-detail">{{ link.affdetail }}</span>
-                    </span>
-                </header>
-                <p v-if="link.text" class="link-card-text" v-html="link.text" />
             </article>
         </div>
     </div>
@@ -136,41 +103,29 @@ const categories = computed(() =>
 
 .links-category {
     margin-top: 3.5rem;
-    margin-bottom: 0.75rem;
+    margin-bottom: 2rem;
     font-size: 1.5rem;
+    font-weight: 700;
     letter-spacing: -0.3px;
     color: #fff;
-    position: relative;
-    padding-left: 0.9rem;
-}
-
-.links-category::before {
-    content: "";
-    position: absolute;
-    left: 0;
-    top: 0.35rem;
-    bottom: 0.35rem;
-    width: 4px;
-    border-radius: 2px;
-    background: #f7931a;
 }
 
 .links-list {
     display: flex;
     flex-direction: column;
-    gap: 1.5rem;
+    gap: 2rem;
 }
 
 .link-card {
     background: rgba(255, 255, 255, 0.03);
-    border: 1px solid rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(247, 147, 26, 0.45);
     border-radius: 14px;
     padding: 1.75rem 1.75rem;
     transition: border-color 0.18s ease, background 0.18s ease, transform 0.18s ease;
 }
 
 .link-card:hover {
-    border-color: rgba(247, 147, 26, 0.45);
+    border-color: rgba(247, 147, 26, 0.9);
     background: rgba(247, 147, 26, 0.04);
     transform: translateY(-1px);
 }
@@ -201,6 +156,15 @@ const categories = computed(() =>
 }
 
 .link-card-body {
+    padding: 1.75rem 1.75rem;
+}
+
+.link-card-banner-card {
+    padding: 0;
+    overflow: hidden;
+}
+
+.link-card-banner-card .link-card-content {
     padding: 1.75rem 1.75rem;
 }
 

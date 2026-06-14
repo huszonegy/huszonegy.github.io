@@ -6,34 +6,49 @@
 
 export const links = [
     {
-        category: "Partnereink",
+        category: "Szponzoraink",
         items: [
             {
-                name: "Bitcoin Mentor",
-                text: "Személyre szabott, etikus Bitcoin tanácsadás és mentoring magyarul – a HUSZONEGY podcast csapatától. Konzultáció, havi mentoring, workshopok és műszaki támogatás kezdőknek és haladóknak.<br />A <a href='https://bitcoinmentor.hu/bitcoin-blog/' target='_blank'>Bitcoin blog</a> rovatban rendszeresen megjelenő fordítások, esszék és saját írások segítenek elmélyíteni a Bitcoin megértését.",
+                name: "BudaBit",
+                text: "Cypherpunk fejlesztői közösség online és offline havi meetupokkal, ahol mélyebbre áshatsz a szabadságtechnológiákban.",
+                image: "/pics/budabit-huszonegy-banner.jpg",
                 afftype: "",
                 affdetail: "",
-                url: "https://bitcoinmentor.hu"
-            },
-            {
-                name: "Hotel AURORA****",
-                text: "Bitcoint elfogadó és tartalékoló wellness szálloda Miskolctapolcán, a HUSZONEGY Bitcoin podcast szponzora, valamint a <a href='https://bitcoinmiskolc.hu' target='_blank'>Bitcoin Miskolc konferencia</a> (2026. november 20-22.) helyszíne.",
-                afftype: "",
-                affdetail: "",
-                url: "https://hotelaurora.hu"
+                url: "https://budabit.club"
             },
             {
                 name: "Hotel ATLANTIS****",
-                text: "Bitcoint elfogadó és tartalékoló családi wellness szálloda Hajdúszoboszlón, a HUSZONEGY Bitcoin podcast szponzora, a tavaszi Bitcoin Miskolc konferenciák helyszíne.",
+                text: "Bitcoint elfogadó és tartalékoló családi wellness szálloda Hajdúszoboszlón. A tavaszi Bitcoin Miskolc konferenciák helyszíne.",
+                image: "/pics/hotel-atlantis-huszonegy-banner.jpg",
                 afftype: "",
                 affdetail: "",
                 url: "https://hotelatlantis.hu"
             },
             {
+                name: "Hotel AURORA****",
+                text: "Bitcoint elfogadó és tartalékoló wellness szálloda Miskolctapolcán. A következő, 2026. november 20-22. közötti <a href='https://bitcoinmiskolc.hu' target='_blank'>Bitcoin Miskolc konferencia</a> helyszíne.",
+                image: "/pics/hotel-aurora-huszonegy-banner.jpg",
+                afftype: "",
+                affdetail: "",
+                url: "https://hotelaurora.hu"
+            }
+        ]
+    },
+    {
+        category: "Partnereink",
+        items: [
+            {
+                name: "Bitcoin Mentor",
+                text: "Személyre szabott, etikus Bitcoin tanácsadás és mentoring magyarul – a HUSZONEGY podcast csapatától. Konzultáció, havi mentoring, workshopok és műszaki támogatás kezdőknek és haladóknak.<br />A <a href='https://bitcoinmentor.hu/bitcoin-blog/' target='_blank'>Bitcoin blog</a> rovatban rendszeresen megjelenő fordítások, esszék és saját írások segítenek elmélyíteni a Bitcoin megértését.",
+                image: "/pics/bitcoin-mentor-huszonegy-banner.jpg",
+                afftype: "",
+                affdetail: "",
+                url: "https://bitcoinmentor.hu"
+            },
+            {
                 name: "Relai",
                 text: "Bitcoin-only megtakarítási app Svájcból. A Relai olyan, mint egy svájci bicska: megbízható, egyszerű, és pont azt csinálja, amire szükséged van — segít Bitcoint venni, rendszeresen megtakarítani, és mindezt úgy, hogy a bitcoinod privát kulcsai végig a te kezedben vannak.",
                 image: "/pics/relai-huszonegy-banner-8.jpg",
-                featured: true,
                 afftype: "HUSZONEGY ajánlókód",
                 affdetail: "1% helyett 0,9% vásárlási díj",
                 url: "https://bitcoinmentor.hu/relai/"
@@ -41,6 +56,7 @@ export const links = [
             {
                 name: "Firefish",
                 text: "Peer-to-peer Bitcoin fedezetű kölcsön platform, magyar nyelvű felülettel és <a href='https://firefish.notion.site/Magyar-1b2cc9942270806ca2d0e54986d0e6b2' target='_blank'>tudástár</a>ral.<br /><ul style='margin-top: 12px'><li><a href='https://youtu.be/fu82KiJzfks' target='_blank'>Ne add el, használd fedezetként!</a> - prezentáció</li><li><a href='https://youtu.be/fxir9iKJrBc' target='_blank'>Magyar nyelvű Firefish felület bemutató</a> - oktatóvideó</li></ul>",
+                image: "/pics/firefish-huszonegy-banner.jpg",
                 afftype: "HUSZONEGY ajánlókód",
                 affdetail: "-30% az első kölcsönfelvétel kezelési költségéből",
                 url: "https://app.firefish.io/auth/sign-up/?ref=HUSZONEGY"
