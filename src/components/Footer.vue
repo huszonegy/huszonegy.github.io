@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    <div name="footer" class="footer container-flex justify-content-center" style="background-color: var(--bs-body-bg);">
+    <div class="footer container-flex justify-content-center" style="background-color: var(--bs-body-bg);">
         <div class="row px-1 py-2 justify-content-center center">
 
             <div class="col col-auto py-3">
