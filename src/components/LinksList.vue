@@ -2,6 +2,14 @@
 import { links } from '../data/links'
 
 const categories = links
+
+const bannerItems = (items: any[]) => items.filter(i => i.image)
+const plainItems = (items: any[]) => items.filter(i => !i.image)
+
+const chipLabel = (kind: string) =>
+    kind === 'own' ? 'a HUSZONEGY csoporttól' : kind === 'affiliate' ? 'affiliate' : 'kupon'
+const chipIcon = (kind: string) =>
+    kind === 'own' ? 'bi-patch-check-fill' : kind === 'affiliate' ? 'bi-link-45deg' : 'bi-tag-fill'
 </script>
 
 <template>
@@ -18,33 +26,58 @@ const categories = links
             </div>
         </div>
     </div>
-    <div v-for="kategoria in categories" class="links">
+    <div v-for="kategoria in categories" class="links" :class="{ 'links-sponsors': kategoria.category === 'Szponzoraink', 'links-wide': (kategoria as any).wide }">
         <h2 class="links-category" v-if="kategoria.items.length">
             {{ kategoria.category }}
         </h2>
-        <div class="links-list">
-            <article v-for="link in kategoria.items" class="link-card" :class="{ 'link-card-banner-card': (link as any).image }">
-                <a :href="link.url" target="_blank" class="link-card-banner-link" v-if="(link as any).image">
-                    <img :src="(link as any).image" :alt="link.name + ' banner'" class="link-card-banner" />
+        <div v-if="kategoria.category === 'Szponzoraink'" class="sponsor-grid">
+            <div v-for="link in kategoria.items" class="sponsor-card">
+                <a :href="link.url" target="_blank" class="sponsor-banner-link">
+                    <img :src="(link as any).image" :alt="link.name + ' banner'" class="sponsor-banner" :class="{ 'is-left': (link as any).align === 'left', 'is-zoom': (link as any).zoom }" />
                 </a>
-                <div class="link-card-content">
+                <div class="sponsor-info">
+                    <a :href="link.url" target="_blank" class="sponsor-name">{{ link.name }}</a>
+                    <p v-if="link.text" class="sponsor-desc" v-html="link.text" />
+                </div>
+            </div>
+        </div>
+        <template v-else>
+            <div v-if="bannerItems(kategoria.items).length" class="partner-grid">
+                <article v-for="link in bannerItems(kategoria.items)" :key="link.name" class="link-card link-card-banner-card">
+                    <a :href="link.url" target="_blank" class="link-card-banner-link">
+                        <img :src="(link as any).image" :alt="link.name + ' banner'" class="link-card-banner" />
+                    </a>
+                    <div class="link-card-content">
+                        <header class="link-card-header">
+                            <a :href="link.url" target="_blank" class="link-card-title-link">
+                                <h5 class="link-card-title">{{ link.name }}</h5>
+                            </a>
+                            <span v-if="(link as any).kind" class="link-chip" :class="'link-chip-' + (link as any).kind">
+                                <i class="bi" :class="chipIcon((link as any).kind)"></i>
+                                <span class="link-chip-type">{{ chipLabel((link as any).kind) }}</span>
+                                <span v-if="(link as any).detail" class="link-chip-detail">{{ (link as any).detail }}</span>
+                            </span>
+                        </header>
+                        <p v-if="link.text" class="link-card-text" v-html="link.text" />
+                    </div>
+                </article>
+            </div>
+            <div v-if="plainItems(kategoria.items).length" class="link-grid">
+                <article v-for="link in plainItems(kategoria.items)" class="link-card link-card-compact">
                     <header class="link-card-header">
                         <a :href="link.url" target="_blank" class="link-card-title-link">
-                            <h5 class="link-card-title">
-                                {{ link.name }}
-                                <i class="bi bi-arrow-up-right link-card-arrow"></i>
-                            </h5>
+                            <h5 class="link-card-title">{{ link.name }}</h5>
                         </a>
-                        <span v-if="link.afftype" class="link-chip">
-                            <i class="bi bi-tag-fill"></i>
-                            <span class="link-chip-type">{{ link.afftype }}</span>
-                            <span class="link-chip-detail">{{ link.affdetail }}</span>
+                        <span v-if="(link as any).kind" class="link-chip" :class="'link-chip-' + (link as any).kind">
+                            <i class="bi" :class="chipIcon((link as any).kind)"></i>
+                            <span class="link-chip-type">{{ chipLabel((link as any).kind) }}</span>
+                            <span v-if="(link as any).detail" class="link-chip-detail">{{ (link as any).detail }}</span>
                         </span>
                     </header>
                     <p v-if="link.text" class="link-card-text" v-html="link.text" />
-                </div>
-            </article>
-        </div>
+                </article>
+            </div>
+        </template>
     </div>
 </template>
 
@@ -98,7 +131,54 @@ const categories = links
 
 .links {
     max-width: 860px;
-    margin: auto;
+    margin: 0 auto 3.5rem;
+}
+
+.links-sponsors {
+    max-width: 1340px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    box-sizing: border-box;
+}
+
+.links-sponsors .links-category {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    font-size: 1.35rem;
+    margin-bottom: 1.8rem;
+}
+
+.links-wide {
+    max-width: 1180px;
+}
+
+.links-wide .links-category {
+    text-align: center;
+}
+
+.partner-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+    gap: 1.6rem;
+}
+
+.partner-grid .link-card {
+    flex: 1 1 460px;
+    min-width: 0;
+    max-width: 577px;
+    border-color: rgba(247, 147, 26, 0.22);
+}
+
+.partner-grid .link-card:hover {
+    border-color: rgba(247, 147, 26, 0.6);
+}
+
+.partner-grid .link-card-text {
+    font-size: 0.92rem;
+    line-height: 1.25;
 }
 
 .links-category {
@@ -110,10 +190,82 @@ const categories = links
     color: #fff;
 }
 
-.links-list {
+.sponsor-grid {
     display: flex;
-    flex-direction: column;
-    gap: 2rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+    gap: 1.6rem;
+}
+
+.sponsor-card {
+    flex: 1 1 0;
+    min-width: 0;
+    max-width: 420px;
+    border-radius: 12px;
+    overflow: hidden;
+    border: 1px solid rgba(247, 147, 26, 0.22);
+    background: rgba(255, 255, 255, 0.03);
+    transition: border-color 0.18s ease, background 0.18s ease, transform 0.18s ease;
+}
+
+.sponsor-card:hover {
+    border-color: rgba(247, 147, 26, 0.6);
+    background: rgba(247, 147, 26, 0.04);
+    transform: translateY(-1px);
+}
+
+.sponsor-banner-link {
+    display: block;
+    line-height: 0;
+    height: 80px;
+    overflow: hidden;
+}
+
+.sponsor-banner {
+    width: 100%;
+    height: 80px;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+}
+
+.sponsor-banner.is-left {
+    object-position: left;
+}
+
+.sponsor-banner.is-zoom {
+    transform: scale(1.5);
+    transform-origin: left center;
+}
+
+.sponsor-info {
+    padding: 1.5rem 1.6rem 1.6rem;
+    text-align: center;
+}
+
+.sponsor-name {
+    display: block;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #f7931a;
+    text-decoration: none;
+    margin-bottom: 0.6rem;
+}
+
+.sponsor-card:hover .sponsor-name {
+    color: #ffa733;
+}
+
+.sponsor-desc {
+    margin: 0;
+    font-size: 0.92rem;
+    line-height: 1.25;
+    opacity: 0.85;
+}
+
+.sponsor-desc :deep(a) {
+    color: #f7931a;
 }
 
 .link-card {
@@ -130,20 +282,6 @@ const categories = links
     transform: translateY(-1px);
 }
 
-.link-card-featured {
-    padding: 0;
-    overflow: hidden;
-    border-color: rgba(247, 147, 26, 0.5);
-    background: linear-gradient(180deg, rgba(247, 147, 26, 0.08) 0%, rgba(247, 147, 26, 0.02) 100%);
-    box-shadow: 0 0 40px rgba(247, 147, 26, 0.15);
-}
-
-.link-card-featured:hover {
-    border-color: rgba(247, 147, 26, 0.7);
-    box-shadow: 0 0 56px rgba(247, 147, 26, 0.22);
-    background: linear-gradient(180deg, rgba(247, 147, 26, 0.12) 0%, rgba(247, 147, 26, 0.03) 100%);
-}
-
 .link-card-banner-link {
     display: block;
     line-height: 0;
@@ -155,10 +293,6 @@ const categories = links
     display: block;
 }
 
-.link-card-body {
-    padding: 1.75rem 1.75rem;
-}
-
 .link-card-banner-card {
     padding: 0;
     overflow: hidden;
@@ -168,16 +302,36 @@ const categories = links
     padding: 1.75rem 1.75rem;
 }
 
-.link-card-title-featured {
-    font-size: 1.4rem;
+.link-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1.6rem;
 }
 
-.links-category-featured {
-    margin-top: 1.5rem;
+.links-wide .link-grid {
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
 }
 
-.links-category-featured::before {
-    background: linear-gradient(180deg, #f7931a 0%, #ffce8a 100%);
+.partner-grid + .link-grid {
+    margin-top: 1.6rem;
+}
+
+.link-card-compact {
+    padding: 1.35rem 1.4rem;
+    border-color: rgba(247, 147, 26, 0.22);
+}
+
+.link-card-compact:hover {
+    border-color: rgba(247, 147, 26, 0.6);
+}
+
+.link-card-compact .link-card-title {
+    font-size: 1rem;
+}
+
+.link-card-compact .link-card-text {
+    font-size: 0.85rem;
+    line-height: 1.25;
 }
 
 .link-card-header {
@@ -197,24 +351,10 @@ const categories = links
     font-size: 1.1rem;
     font-weight: 600;
     color: #f7931a;
-    display: inline-flex;
-    align-items: center;
-    gap: 0.35rem;
 }
 
 .link-card-title-link:hover .link-card-title {
     color: #ffa733;
-}
-
-.link-card-arrow {
-    font-size: 0.85rem;
-    opacity: 0.7;
-    transition: transform 0.18s ease;
-}
-
-.link-card-title-link:hover .link-card-arrow {
-    transform: translate(2px, -2px);
-    opacity: 1;
 }
 
 .link-chip {
@@ -244,6 +384,27 @@ const categories = links
 
 .link-chip-detail {
     opacity: 0.9;
+}
+
+/* type badges: own = brand orange (base), affiliate = neutral slate, coupon = green */
+.link-chip-affiliate {
+    background: rgba(96, 165, 250, 0.12);
+    border-color: rgba(96, 165, 250, 0.4);
+    color: #bfdbfe;
+}
+
+.link-chip-affiliate i {
+    color: #60a5fa;
+}
+
+.link-chip-coupon {
+    background: rgba(74, 222, 128, 0.12);
+    border-color: rgba(74, 222, 128, 0.38);
+    color: #bbf7d0;
+}
+
+.link-chip-coupon i {
+    color: #4ade80;
 }
 
 .link-card-text {
@@ -286,6 +447,9 @@ const categories = links
     }
     .link-chip {
         white-space: normal;
+    }
+    .sponsor-card {
+        flex-basis: 100%;
     }
 }
 </style>
