@@ -9,6 +9,12 @@ const steps = [
         icon: 'bi-mic'
     },
     {
+        title: 'Támogasd a munkánkat!',
+        desc: 'Számos módon segítheted további magyar nyelvű Bitcoin tartalmak készítését.',
+        link: '/tamogatas/',
+        icon: 'bi-heart'
+    },
+    {
         title: 'Nézd meg előadásainkat!',
         desc: 'Magyar nyelvű Bitcoin előadások és konferencia-felvételek.',
         link: '/eloadas/',
@@ -31,12 +37,6 @@ const steps = [
         desc: 'Összehasonlítás és segédlet a Lightning, mobil, asztali és hardver tárcákhoz.',
         link: '/tarcak/',
         icon: 'bi-wallet2'
-    },
-    {
-        title: 'Csatlakozz a közösséghez!',
-        desc: 'Telegram csoport napi beszélgetésekkel és személyes találkozók országszerte.',
-        link: '/forum/',
-        icon: 'bi-people'
     }
 ]
 </script>
