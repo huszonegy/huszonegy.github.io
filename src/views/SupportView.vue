@@ -1,4 +1,7 @@
 <script setup lang="ts">
+import { links } from '../data/links'
+
+const sponsors = (links.find(c => c.category === 'Szponzoraink')?.items ?? []) as any[]
 </script>
 
 <template>
@@ -16,7 +19,7 @@
             </div>
         </div>
     </div>
-    <div name="main-inner" class="container support">
+    <div class="container support">
 
       <div class="support-block py-3">
           <p class="card-text">A HUSZONEGY podcast mögött rengeteg önkéntes munka áll, és a jelenlegi bevételek nem elegendőek a fenntartásához. Július-augusztusban szünetet tartunk, és szeptemberben csak akkor tudunk foglalkozni új epizódok készítésével, ha addigra elég támogatás jön össze.</p>
@@ -81,10 +84,18 @@
       <div class="support-block py-3">
           <p class="card-text">A HUSZONEGY szponzoraként egy elkötelezett magyar Bitcoin közönség elé viheted a márkád — beolvasással az adásokban és megjelenéssel a honlapon.</p>
           <p class="card-text"><a href="https://t.me/pesz21" target="_blank" rel="noopener">Beszéljük meg Telegramon</a> a részleteket!</p>
-          <h3 class="support-subsection-title">Jelenlegi szponzoraink</h3>
-          <p class="card-text mb-0"><a href="https://budabit.club" target="_blank" rel="noopener">BudaBit</a> 🔥 cypherpunk fejlesztői közösség<br />
-          <a href="https://hotelaurora.hu" target="_blank" rel="noopener">Hotel Aurora</a> ⚡ Miskolctapolca<br />
-          <a href="https://hotelatlantis.hu" target="_blank" rel="noopener">Hotel Atlantis</a> ⚡ Hajdúszoboszló</p>
+          <h3 class="support-subsection-title">Szponzoraink</h3>
+          <div class="support-sponsors">
+              <div v-for="s in sponsors" :key="s.name" class="support-sponsor">
+                  <a :href="s.url" target="_blank" rel="noopener" class="support-sponsor-link" :aria-label="s.name">
+                      <img :src="s.image" :alt="s.name + ' banner'" class="support-sponsor-banner" :class="{ 'is-left': s.align === 'left', 'is-zoom': s.zoom }" loading="lazy" />
+                  </a>
+                  <div class="support-sponsor-info">
+                      <a :href="s.url" target="_blank" rel="noopener" class="support-sponsor-name">{{ s.name }}</a>
+                      <p class="support-sponsor-desc" v-html="s.text" />
+                  </div>
+              </div>
+          </div>
       </div>
 
       <p class="support-thanks">Kösz szépen! 🧡</p>
@@ -143,10 +154,15 @@
 }
 
 .support-block {
-  max-width: 720px;
   margin: 0 auto 1.5rem;
   padding: 0 1rem;
   text-align: center;
+}
+
+.card-text {
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .support-note {
@@ -167,17 +183,102 @@
 }
 
 .support-subsection-title {
-    font-size: 1.05rem;
-    font-weight: 600;
-    letter-spacing: 0.05em;
+    font-size: 1.35rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
     text-transform: uppercase;
     color: #fff;
-    margin: 1.8rem 0 1rem;
+    margin: 3.5rem 0 1.8rem;
 }
 
 .support-yt-icon {
     display: inline-block;
     margin-top: 0.6rem;
+}
+
+.support-sponsors {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+    gap: 1.6rem;
+    margin: 1.8rem -1.5rem 0;
+}
+
+.support-sponsor {
+    flex: 1 1 0;
+    min-width: 0;
+    width: 100%;
+    max-width: 420px;
+    border-radius: 12px;
+    overflow: hidden;
+    border: 1px solid rgba(247, 147, 26, 0.22);
+    background: rgba(255, 255, 255, 0.03);
+    transition: border-color 0.18s ease, background 0.18s ease, transform 0.18s ease;
+}
+
+.support-sponsor:hover {
+    border-color: rgba(247, 147, 26, 0.6);
+    background: rgba(247, 147, 26, 0.04);
+    transform: translateY(-1px);
+}
+
+.support-sponsor-link {
+    display: block;
+    line-height: 0;
+    height: 80px;
+    overflow: hidden;
+}
+
+.support-sponsor-banner {
+    width: 100%;
+    height: 80px;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+}
+
+.support-sponsor-banner.is-left {
+    object-position: left;
+}
+
+.support-sponsor-banner.is-zoom {
+    transform: scale(1.5);
+    transform-origin: left center;
+}
+
+.support-sponsor-info {
+    padding: 1.5rem 1.6rem 1.6rem;
+    text-align: center;
+}
+
+.support-sponsor-name {
+    display: block;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #f7931a;
+    text-decoration: none;
+    margin-bottom: 0.6rem;
+}
+
+.support-sponsor:hover .support-sponsor-name {
+    color: #ffa733;
+}
+
+.support-sponsor-desc {
+    margin: 0;
+    font-size: 0.92rem;
+    line-height: 1.25;
+    opacity: 0.85;
+    text-align: center;
+}
+
+.support-sponsor-desc :deep(a) {
+    color: #f7931a;
+}
+
+.support-sponsor-desc :deep(a) {
+    color: #f7931a;
 }
 
 .support-thanks {
@@ -236,6 +337,9 @@
     }
     .support-hero-lead {
         max-width: 100%;
+    }
+    .support-sponsor {
+        flex-basis: 100%;
     }
 }
 </style>
