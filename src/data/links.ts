@@ -9,6 +9,8 @@
 // - kind: optional card type badge — "own" (saját szolgáltatás), "affiliate", "coupon" (kupon)
 // - detail: optional benefit shown in the badge (e.g. discount)
 // - wide (category-level): renders the category wider with a centered heading
+// - groups (category-level): instead of flat `items`, an array of { title, items }
+//   subgroups; each renders an h3 subheading + its own card grid (plain cards only)
 // Referenced img's must be under public (static)
 
 export const links = [
@@ -57,7 +59,7 @@ export const links = [
         items: [
             {
                 name: "Relai",
-                text: "Bitcoin-only megtakarítási app Svájcból. A Relai olyan, mint egy svájci bicska: megbízható, egyszerű, és pont azt csinálja, amire szükséged van — segít Bitcoint venni, rendszeresen megtakarítani, és mindezt úgy, hogy a bitcoinod privát kulcsai végig a te kezedben vannak.",
+                text: "Bitcoin-only megtakarítási app Svájcból. A Relai olyan, mint egy svájci bicska: megbízható, egyszerű, és pont azt csinálja, amire szükséged van — segít bitcoint venni, rendszeresen megtakarítani, és mindezt úgy, hogy a bitcoinod privát kulcsai végig a te kezedben vannak.",
                 image: "/pics/relai-huszonegy-banner-8.jpg",
                 kind: "affiliate",
                 detail: "1% helyett 0,9% vásárlási díj",
@@ -65,7 +67,7 @@ export const links = [
             },
             {
                 name: "Firefish",
-                text: "Peer-to-peer Bitcoin fedezetű kölcsön platform a Cseh Köztársaságból, magyar nyelvű felülettel és <a href='https://firefish.notion.site/Magyar-1b2cc9942270806ca2d0e54986d0e6b2' target='_blank'>tudástár</a>ral.<br /><ul style='margin-top: 12px'><li><a href='https://youtu.be/fu82KiJzfks' target='_blank'>Ne add el, használd fedezetként!</a> - prezentáció</li><li><a href='https://youtu.be/fxir9iKJrBc' target='_blank'>Magyar nyelvű Firefish felület bemutató</a> - oktatóvideó</li></ul>",
+                text: "Peer-to-peer bitcoin fedezetű kölcsön platform a Cseh Köztársaságból, magyar nyelvű felülettel és <a href='https://firefish.notion.site/Magyar-1b2cc9942270806ca2d0e54986d0e6b2' target='_blank'>tudástár</a>ral.<br /><ul style='margin-top: 12px'><li><a href='https://youtu.be/fu82KiJzfks' target='_blank'>Ne add el, használd fedezetként!</a> - prezentáció</li><li><a href='https://youtu.be/fxir9iKJrBc' target='_blank'>Magyar nyelvű Firefish felület bemutató</a> - oktatóvideó</li></ul>",
                 image: "/pics/firefish-huszonegy-banner.jpg",
                 kind: "affiliate",
                 detail: "-30% az első kölcsönfelvétel kezelési költségéből",
@@ -80,14 +82,14 @@ export const links = [
             },
             {
                 name: "BitcoinBázis Shop",
-                text: "Hardvertárca, könyv, bitcoin logós ajándéktárgy és ruházat.",
+                text: "Hardvertárca, könyv, Bitcoin logós ajándéktárgy és ruházat.",
                 kind: "coupon",
                 detail: "-5%",
                 url: "https://shop.bitcoinbazis.hu"
             },
             {
                 name: "BTC Prague",
-                text: "Európa legnagyobb, legmeghatározóbb bitcoin rendezvénye",
+                text: "Európa legnagyobb, legmeghatározóbb Bitcoin rendezvénye",
                 kind: "coupon",
                 detail: "-10%",
                 url: "https://btcprague.com/?promo_id=25460&key=30cdf2cfae450312369542954b10cbaa"
@@ -104,42 +106,87 @@ export const links = [
     {
         category: "Hasznos linkek",
         wide: true,
-        items: [
+        groups: [
             {
-                name: "Bitcoin tartalék",
-                text: "Miért lenne előnyös Magyarországnak a bitcoin mint stratégiai tartalék bevezetése?",
-                url: "https://bitcointartalek.hu",
+                title: "Tanulás",
+                items: [
+                    {
+                        name: "inflacio.eu",
+                        text: "A Looking Glass Education és a Strike magyarított oktatóanyagai: infláció, adósság, pénz, pénzügyi rendszer.",
+                        url: "https://inflacio.eu",
+                    },
+                    {
+                        name: "Bitcoin Plebs",
+                        text: "Gyakorlatias és szemléletes oktatóleckék angol és magyar nyelven, amelyek lépésről lépésre vezetnek be az önrendelkezésbe.",
+                        url: "https://bitcoinplebs.org/hu/",
+                    },
+                    {
+                        name: "Lightning node alapok",
+                        text: "A Lightning Network alapjai magyarul – csomópont-üzemeltetés, gyakorlati példák és konfigurációs beállítások.",
+                        url: "https://lightningnode.info/hu",
+                    },
+                ]
             },
             {
-                name: "Telegram csoport",
-                text: "HUSZONEGY csoport a Telegramon.",
-                url: "https://t.me/huszonegy",
+                title: "Eszközök",
+                items: [
+                    {
+                        name: "mempool.space",
+                        text: "Bitcoin blokklánc böngésző: tranzakciók, díjak és a mempool valós idejű állapota.",
+                        url: "https://mempool.space",
+                    },
+                    {
+                        name: "BTC Map",
+                        text: "Bitcoint elfogadó boltok, éttermek és szolgáltatók nyílt világtérképe.",
+                        url: "https://btcmap.org",
+                    },
+                ]
             },
             {
-                name: "inflacio.eu",
-                text: "Oktatóanyagok inflációról, adósságról, pénzről, pénzügyi rendszerről.",
-                url: "https://inflacio.eu",
+                title: "Közösség",
+                items: [
+                    {
+                        name: "Telegram csoport",
+                        text: "HUSZONEGY csoport a Telegramon. Kérdezz és beszélgess a közösséggel!",
+                        url: "https://t.me/huszonegy",
+                    },
+                    {
+                        name: "nostr.hu",
+                        text: "Magyar nyelvű Nostr-útmutató: kliensek, kulcsok, átjátszók (relay) és a Köztér közösségi tér egy helyen.",
+                        url: "https://nostr.hu",
+                    },
+                    {
+                        name: "noszter.hu",
+                        text: "Magyar nyelvű Nostr-bevezető, saját @noszter.hu névjegy igénylésével és Primal-eléréssel a gyors kezdéshez.",
+                        url: "https://noszter.hu",
+                    },
+                    {
+                        name: "SatShoot",
+                        text: "Nostr-alapú szabadúszó (freelancer) piactér, ahol satokért kínálhatsz vagy vehetsz igénybe szolgáltatásokat.",
+                        url: "https://satshoot.com",
+                    },
+                ]
             },
             {
-                name: "Bitcoin Plebs",
-                text: "Oktatóleckék angol és magyar nyelven, amelyek lépésről lépésre vezetnek be az önrendelkezésbe.",
-                url: "https://bitcoinplebs.org/hu/",
+                title: "Érdekképviselet",
+                items: [
+                    {
+                        name: "Bitcoin tartalék",
+                        text: "Miért lenne előnyös Magyarországnak a bitcoin mint stratégiai tartalék bevezetése? Magyar kezdeményezés érvekkel és nemzetközi példákkal.",
+                        url: "https://bitcointartalek.hu",
+                    },
+                    {
+                        name: "Human Rights Foundation",
+                        text: "Emberi jogokért és a pénzügyi szabadságért küzdő szervezet, amely a Bitcoin-fejlesztést is támogatja, mert a cenzúrázhatatlan pénz eszközt ad a diktatúrákban élők kezébe.",
+                        url: "https://hrf.org",
+                    },
+                    {
+                        name: "Oslo Freedom Forum",
+                        text: "Emberi jogi aktivisták, disszidensek és újságírók éves világkonferenciája, ahol a Bitcoin mint a szabadság eszköze is teret kap, kiszolgáltatott emberek millióit támogatva.",
+                        url: "https://oslofreedomforum.com",
+                    },
+                ]
             },
-            {
-                name: "nostr.hu",
-                text: "Új paradigma, mely felcsillantotta a reményt, hogy visszavegyük az irányítást az internetes életünk felett.",
-                url: "https://nostr.hu",
-            },
-            {
-                name: "noszter.hu",
-                text: "Decentralizált kommunikációs protokoll, amely teljesen átalakítja a közösségi hálózatok működését.",
-                url: "https://noszter.hu",
-            },
-            {
-                name: "SatShoot",
-                text: "Nostr-alapú szabadúszó-piactér, ahol satokért kínálhatsz vagy vehetsz igénybe szolgáltatásokat.",
-                url: "https://satshoot.com",
-            }
         ]
     }
 ]

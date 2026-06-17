@@ -27,7 +27,7 @@ const chipIcon = (kind: string) =>
         </div>
     </div>
     <div v-for="kategoria in categories" class="links" :class="{ 'links-sponsors': kategoria.category === 'Szponzoraink', 'links-wide': (kategoria as any).wide }">
-        <h2 class="links-category" v-if="kategoria.items.length">
+        <h2 class="links-category" v-if="(kategoria as any).items?.length || (kategoria as any).groups?.length">
             {{ kategoria.category }}
         </h2>
         <div v-if="kategoria.category === 'Szponzoraink'" class="sponsor-grid">
@@ -41,9 +41,24 @@ const chipIcon = (kind: string) =>
                 </div>
             </div>
         </div>
+        <template v-else-if="(kategoria as any).groups">
+            <div v-for="grp in (kategoria as any).groups" :key="grp.title" class="links-subgroup">
+                <h3 class="links-subcategory">{{ grp.title }}</h3>
+                <div class="link-grid">
+                    <article v-for="link in grp.items" :key="link.name" class="link-card link-card-compact">
+                        <header class="link-card-header">
+                            <a :href="link.url" target="_blank" class="link-card-title-link">
+                                <h5 class="link-card-title">{{ link.name }}</h5>
+                            </a>
+                        </header>
+                        <p v-if="link.text" class="link-card-text" v-html="link.text" />
+                    </article>
+                </div>
+            </div>
+        </template>
         <template v-else>
-            <div v-if="bannerItems(kategoria.items).length" class="partner-grid">
-                <article v-for="link in bannerItems(kategoria.items)" :key="link.name" class="link-card link-card-banner-card">
+            <div v-if="bannerItems((kategoria as any).items).length" class="partner-grid">
+                <article v-for="link in bannerItems((kategoria as any).items)" :key="link.name" class="link-card link-card-banner-card">
                     <a :href="link.url" target="_blank" class="link-card-banner-link">
                         <img :src="(link as any).image" :alt="link.name + ' banner'" class="link-card-banner" />
                     </a>
@@ -62,8 +77,8 @@ const chipIcon = (kind: string) =>
                     </div>
                 </article>
             </div>
-            <div v-if="plainItems(kategoria.items).length" class="link-grid">
-                <article v-for="link in plainItems(kategoria.items)" class="link-card link-card-compact">
+            <div v-if="plainItems((kategoria as any).items).length" class="link-grid">
+                <article v-for="link in plainItems((kategoria as any).items)" class="link-card link-card-compact">
                     <header class="link-card-header">
                         <a :href="link.url" target="_blank" class="link-card-title-link">
                             <h5 class="link-card-title">{{ link.name }}</h5>
@@ -154,6 +169,25 @@ const chipIcon = (kind: string) =>
 }
 
 .links-wide .links-category {
+    text-align: center;
+}
+
+.links-subgroup {
+    margin-bottom: 2.5rem;
+}
+
+.links-subgroup:last-child {
+    margin-bottom: 0;
+}
+
+.links-subcategory {
+    margin: 0 0 1.2rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: #fff;
+    opacity: 0.55;
     text-align: center;
 }
 
