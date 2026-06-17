@@ -55,7 +55,7 @@ export const podcasts = [
         members: ["Anti", "Lorry", "Árpi"],
         topic: "Lorry beszámolója az etikus pénzről - Bűn-e felhalmozni? A pénz négy funkciója - A pénz mint „daganat” — és a gombafonál - Digitális euró: 3500 eurós plafon - Megérzed a bajt, de nincs időd a kiútra - Miért látszik a Bitcoin „vesztesnek”? - Kétféle ember — ki jut el a Bitcoinig - Csereeszköz-csapda és a tücskös jövőkép - Alapjövedelem: az AI hozza a kényszert - Jön a társadalmi pontrendszer? - „Vegyél vissza, állam!”",
         yt: "https://youtu.be/1kXPfELVmQA",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/8XYys8l4hoA93P4M4QPP"
     },
     {
         name: "Így lesz privát a bitcoinod — Ginger Wallet + CoinJoin",
@@ -215,7 +215,7 @@ export const podcasts = [
         members: ["Anti", "Robi", "Árpi"],
         topic: "Miért bukik el mindenhol a Bitcoin-adó? - A digitális euró: öngól a Bitcoin javára - 11,5%-os osztalék – a Strategy Bitcoin-gépezete - Jegybankok két pofára shoppingolnak - Clarity Act: a bankok is tarthatnak bitcoint? - Az állam így tartja meg a hatalmi fölényét - Volt pénz az állam előtt, lesz utána is - Mikor jön el a Bitcoin átbillenési pontja?",
         yt: "https://youtu.be/zHZGcdjfqU0",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/sH7hTfFQNfXOheAgve1a"
     },
     {
         name: "Miért háromszor drágább a lakásod, mint 10 éve?",
@@ -423,7 +423,7 @@ export const podcasts = [
         members: ["Feri", "Árpi"],
         topic: "Az ársapka mindig a valóságot torzítja - Így élte meg Feri a 4. Bitcoin Miskolcot - Fiatalok, szülők és egy MNB-s a közönségben - \"Nem elköszönünk, csak ideiglenesen\" - Újítások a következő konferenciára - Miért érdemes cégként bitcoint elfogadni? - Ingyenes útmutató és Bitcoin térkép - Bizalmi kör, Trust Summit, lakás bitcoinért - A Bitcoin politikamentes – ezért vállalható - Miért torzít az ársapka minden döntést? - 1956 és a Bitcoin – most írjuk a történelmet",
         yt: "https://youtu.be/8SfAbG8QrdI",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/bodqsuKuF3mpmvfsHsbe"
     },
     {
         name: "Bitcoin és önrendelkezés: leckék a hétköznapokra",
@@ -515,7 +515,7 @@ export const podcasts = [
         members: ["Anti", "Tamás", "Árpi"],
         topic: "Kraken: a tőzsde, ami 2017 óta bírja a vihart - Krak kártya: ingyenes fizikai és virtuális - Euró a Krakenre: így spórolj 10% költséget - A Krak app és a napi költési számla - Így fizettem bitcoinnal a Spárban - Adóbevallás: így vond le a régi veszteséged - Petrodollár repedései és a bitcoin esélye - Arany vs. bitcoin: melyik állja meg jobban a helyét? - Ginger Wallet és a coinjoin szuverenitás-trükkje",
         yt: "https://youtu.be/1rXf64a7AeE",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/g6NM57LseINFN6QShQbO"
     },
     {
         name: "Meg tudja váltani a Bitcoin a világot? – 100. adás",
@@ -575,7 +575,7 @@ export const podcasts = [
         members: ["Anti", "Optout", "Árpi"],
         topic: "A Bitcoin egy egyesítő erő - Két év és 100 adás – hogyan kezdődött? - 30-an szólaltak meg 99 adás alatt - Miért maradtunk Bitcoin-only? - Meetupok szerte az országban - Miért nem tudunk leállni a Bitcoinról? - Kávétól a VPN-ig bitcoinnal fizetve - Amikor elfogy a lendület - Választási kampány és egyéb fiat csapdák - Az árfolyam nem váltja meg a világot - Traderekből gondolkodók - Senki nem késett le semmiről",
         yt: "https://youtu.be/WAe9ZnEh0qk",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/Arvpfz7LhI9XbzluJ2pB"
     },
     {
         name: "Morális kapitalizmus: kiút a fogyasztói csapdából?",
