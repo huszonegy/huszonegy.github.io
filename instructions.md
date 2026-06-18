@@ -4,14 +4,28 @@ A munkát a HUSZONEGY podcast vágója (Árpi) végzi, VS Code-ban a Claude Code
 
 ## Heti munkafolyamat — új epizód
 
-Minden héten egy új epizód. Árpi Riverside-ban megvágja és feltölti a HUSZONEGY YouTube-csatornájára — ekkor a címben az epizód száma szerepel, a leírásban pedig a résztvevők (pl. „Anti, Tamás, Árpi") —, a YouTube elkészíti az automatikus feliratot. Innen indul a közös munka; az input az új epizód **YouTube-linkje**.
+Minden héten egy új epizód. Árpi Riverside-ban felveszi és megvágja a beszélgetést. **A közös munka már a vágás után, de a teaser bevágása előtt indul:** az input ekkor a **Riverside-export** — a megvágott, teaser nélküli adás magyar TXT-átirata, időbélyegekkel. Együtt választjuk ki a teasert/hookot és a cím-irányt (0. lépés); ezután Árpi a teasert a videó elejére vágja, feltölti a HUSZONEGY YouTube-csatornájára (a címben az epizód száma), a YouTube pedig elkészíti az automatikus feliratot — ezt a kész videó-feliratot a **végső fejezetidőkhöz** használjuk.
 
 **Vezérelv minden lépésnél:** ami a reflektorfénybe kerül (cím, indexkép, bevezető, fejezetcímek), legyen egyszerre **lényegi** (az epizód érdemben, hosszan kifejti) **és izgalmas**. Marginális — egy mondatos, egyperces — téma sosem kerül fókuszba, akkor sem, ha csábító. Hiteles edukáció, nem kattintásvadászat. Javaslatot mindig indoklással adok; valódi ízlés-/hangsúlykérdésnél kérdezek, és a választ feljegyzem. **A véglegesített szöveget (cím, bevezető, fejezetek, leírás, átirat) nem írom át önállóan** — átolvasás-/ellenőrzés-kérésnél is csak javaslatot adok (számozott lista + indoklás), és megvárom a jóváhagyást; világos „csináld meg X" feladatnál viszont cselekszem. Az önállósodás mértékét közösen kalibráljuk.
 
-### 0. Átirat letöltése, megértése
-- `yt-dlp`-vel a magyar auto-felirat a `transcripts_raw` mappába (lásd „Fájlok helye"), és a leírás letöltése (`--print '%(description)s'`) a `members`-hez.
-- Végigolvasom az egész átiratot, és készítek egy tématérképet: a fő témák, mindegyikhez az időtartomány és nagyjából a hossz, plusz az epizód hangulata/üzenete. Ez alapozza meg a címet, a bevezetőt és a fejezeteket, és ez teszi auditálhatóvá, hogy mi lényegi és mi marginális.
-- A tématérkép alapján **2–3 keresési kulcsszót** is megnevezek — amit egy potenciális néző gugliznának: brand-név (pl. „GitHub", „Nostr"), témaszó (pl. „Bitcoin-adó", „decentralizáció"), vagy konkrét kérdés-fragment (pl. „GitHub alternatíva", „Nostr magyar"). Ezeket átadom a 1. lépésnek, hogy a cím-változatok mellett tudjam jelölni, melyik fed le belőlük.
+**Írói elvek a felszíni szöveghez (cím + bevezető) — az önállósodáshoz:**
+1. **Hűség a dráma előtt.** A reflektorfénybe szánt szöveg minden szavát a forráshoz mérem; ha dramatizálok, előbb ellenőrzöm, hogy elhangzott-e. A hitelesség a megfogalmazás minden szavában érvényes, nem csak a témaválasztásban.
+2. **A cím és a bevezető zsargonmentes; a szakszó lemegy a mélységbe.** A címben és a bevezetőben csak az állhat, amit egy nem-technikai néző is felismer; a mélyebb szakkifejezések a fejezetekbe, az átiratba és a linklistába valók. Ha egy szakszó mégis muszáj, rögtön a magyarázatával együtt szerepeljen — sosem a hook helyén. Nem adok klikk-erőt olyan kulcsszónak, amit a közönség valójában nem ismer fel.
+3. **A szerkezet is cím-szempont: a cold-open/teaser koherenciája.** Annak eldöntésekor, hogy egy téma lehet-e a cím, nem csak a perceit nézem, hanem a szerkezeti helyét is. Egy rövid téma is jogos fő cím lehet, ha az a cold-open — a teaser megerősíti, és a cím↔teaser egyezés algoritmus-előny (jobb nézési idő). **Hármas koherencia:** a cím, a leírás első mondata és a hanganyag első ~30 másodperce (cold-open) ugyanazt a témát erősítse meg. A YouTube az első fél percet automatikusan legépeli és kiemelten elemzi; ha a kimondott szöveg fedi a címet, az algoritmus „nem clickbait" jelzést kap és bátrabban ajánl, a hook pedig a nézőt is megtartja. Nem szó szerinti címmásolás kell, hanem a kontextus azonnali megerősítése írásban és szóban egyaránt. **A sorrend viszont nem „címet a teaserből":** a legerősebb lényegi + izgalmas szöget keresem meg, és az hajtja a címet ÉS a cold-opent is (konvergálnak). Ha a cold-open már fixen fel van töltve, a címet hozzá igazítom a koherenciáért — de ha a cold-open gyenge/marginális szöget mutat, jelzem, és inkább azt vágjuk újra (Árpi dönt), semmint hogy a címet gyengítsem hozzá.
+4. **Empatikus, lokalizált tónus.** Nem paráztatok túl, és külföldi jelenséget nem személyesítek a magyar nézőre. A hook lehet általános, de a konkrét tény maradjon arányos és a helyén.
+5. **Szigorú mondat-önellenőrzés.** Minden mondatot kritikus magyar szerkesztőként olvasok vissza: illik-e a kihagyott ige mindkét taghoz, természetes-e a kép, egységes-e a regiszter, nem suta-e a szórend.
+
+**A tanulságok helye:** minden új tanulság ebbe a dokumentumba (és a `corrections.md`-be) kerül — sosem külön, gépfüggő jegyzetbe vagy az asszisztens saját memóriájába —, hogy másik gépen és más szerkesztőnek is ugyanúgy elérhető és hasznos legyen. (Kivétel: a tisztán **gépspecifikus, nem hordozható** harness-/munkakörnyezeti preferenciák — pl. az engedély-promptok csökkentése Árpi gépén — az asszisztens memóriájában élhetnek, mert nem a projekt hordozható tudásához tartoznak.) **Csak valódi, visszatérő tanulság/korrekció kerüljön be** — ne foltozzam vele az egyszeri tévedéseimet. A `corrections.md` a visszatérő név-/szakkifejezés-/linkjavítások és tartós tények tára, nem hibanapló.
+
+### 0. Teaser/hook kiválasztása — VÁGÁS ELŐTT
+- **Input:** a Riverside-export — a megvágott, de teaser nélküli adás teljes magyar TXT-átirata, időbélyegekkel — a `transcripts_raw/` mappában, `huszonegys-studio_eXXX.txt` néven (lásd „Fájlok helye").
+- Végigolvasom az egész átiratot, és készítek egy **tématérképet**: a fő témák, mindegyikhez az időtartomány és nagyjából a hossz, plusz az epizód hangulata/üzenete. Ez alapozza meg a teasert, a címet, a bevezetőt és a fejezeteket, és ez teszi auditálhatóvá, hogy mi lényegi és mi marginális.
+- A tématérkép alapján **2–3 keresési kulcsszót** is megnevezek — amit egy potenciális néző gugliznának: brand-név (pl. „GitHub", „Nostr"), témaszó (pl. „Bitcoin-adó", „decentralizáció"), vagy konkrét kérdés-fragment. Ezeket átadom az 1. lépésnek.
+- **3 teaser/hook-jelölt (20–45 mp)**, lehetőleg 3 különböző szögből (a célközönség-címkék szerint): társadalmi/politikai sokk (fan-on túli, új nézők) · technikai „mind-blown" (tech-érdeklődő) · humoros/abszurd belsős (törzsközönség). Mindegyikhez: **időbélyeg** (mettől meddig, a Riverside-timeline-on), a **kivágandó szövegrészlet** (suta STT-hibák javítva), és a hozzá illő **cím-irány + kicker/thumbnail-szöveg**. Jó teaser: bátor állítással / konfliktussal / drámai kérdéssel indul, kevés kontextust igényel, és a csúcsponton hagyja nyitva a gondolatot (curiosity gap).
+- Árpi kiválasztja a legütősebbet, és a videó elejére vágja: **teaser (20–40 mp) → rövid intro-jingle (3–5 mp) → adás 00:00-tól** (a teaser végén egy tizedmásodperc szünet a jingle előtt). A teaser = a cold-open (lásd Adásszerkezet): szó szerint egy később elhangzó részlet, és az átirat elejére is teljes egészében bekerül.
+- **Aranyfonál- / hármas-koherencia-teszt:** a thumbnail + a cím + az első kimondott mondat ugyanarra a szögre erősít rá. Ha igen, megvan a teaser.
+- **Résztvevők:** rákérdezek, kik az adás résztvevői (a `podcasts.ts` `members` mezőjéhez) — a vágás előtt még nincs feltöltött leírás, amiből kiolvashatnám.
+- **Vágás + feltöltés után:** `yt-dlp`-vel letöltöm a kész videó magyar auto-feliratát a `transcripts_raw/` mappába — a **végső fejezetidőkhöz** (a teaser előrevágása eltol mindent).
 
 ### 1. Cím
 **3–5 változat**, lehetőleg **különböző szögekből** (kérdés / szám / konkrét értékígéret / meglepő állítás / tét), de **az erő veri a változatosságot**: jobb 3 valóban ütős változat 2 szögből, mint 5 erőltetett változat 5 szögből. Ha egy szögnek nincs jó változata az adott epizódhoz, hagyjuk ki. Mindegyiknél: karakterszám, **klikk-erő (1–5)** egy mondat érveléssel, **curiosity-gap (1–3)** — mennyire hagy nyitva egy kérdést, amit csak a kattintás old fel (de csak ha valódi tartalom van mögötte; üres tátongás = clickbait, az nem ér pontot) —, **melyik 0. lépésbeli keresési kulcsszót fedi** (vagy egyik se), **kit céloz elsősorban** (fan / új tech-érdeklődő / búvárkodó), miért működik, melyik epizódrész fedezi. A klikk-erő **összehasonlító** (nem abszolút): a felkínált halmazon belül adok rangsort. Az ajánlott változat a legmagasabb klikk-erővel + a stratégiai szempontoknak (lényegi, izgalmas, hiteles) is megfelelő — és ha lehet, **legalább egy keresési kulcsszót is fed**.
@@ -35,7 +49,7 @@ Minden héten egy új epizód. Árpi Riverside-ban megvágja és feltölti a HUS
 - **Búvárkodó** — konkrét témára kereső (SEO-bejövő); keresési kulcsszó + konkrét ígéret kell
 
 Egy epizód értelemszerűen egy elsődleges közönséget céloz; a változatok ezt különböző oldalakról közelítik.
-Kritériumok: 45–60 karakter; **a hook és az elsődleges kulcsszó az első ~40 karakterben** — a mobil- és ajánló-csempék kb. itt vágják le a címet, asztali kereső/ajánló ~70-nél, szóval ami a reflektorfénybe szánt lényeg, az kerüljön balra (em-dash használatakor is: a lényeg az em-dash bal oldalára, a részletezés jobbra); konkrét ígéret (mit kap a néző, ha rákattint); ha van benne szám, az emeli a CTR-t; kérdésforma is emeli; kerüld az elvont, filozofikus megfogalmazást; ne legyen „remix"/„újrahasznosított tartalom" jellegű előtag; magyar helyesírás — csak az első szó és a tulajdonnevek nagybetűsek; a cím a tematikát fedje, ne egy egyperces részt; **vendég vagy állandó résztvevő neve ne kerüljön a címbe** — a résztvevők a YouTube-leírásban szerepelnek; **em-dash (`—`) szóközökkel megengedett** egy fő szerkezeti törésnél (állítás → részletezés), több em-dash egy címen belül nem.
+Kritériumok: 45–60 karakter; **a hook és az elsődleges kulcsszó az első ~40 karakterben** — a mobil- és ajánló-csempék kb. itt vágják le a címet, asztali kereső/ajánló ~70-nél, szóval ami a reflektorfénybe szánt lényeg, az kerüljön balra (em-dash használatakor is: a lényeg az em-dash bal oldalára, a részletezés jobbra); konkrét ígéret (mit kap a néző, ha rákattint); ha van benne szám, az emeli a CTR-t; kérdésforma is emeli; kerüld az elvont, filozofikus megfogalmazást; ne legyen „remix"/„újrahasznosított tartalom" jellegű előtag; magyar helyesírás — csak az első szó és a tulajdonnevek nagybetűsek; a cím a tematikát fedje, ne egy egyperces részt; **vendég vagy állandó résztvevő neve ne kerüljön a címbe** — a résztvevőket a `podcasts.ts` `members` mezője tartja nyilván; **em-dash (`—`) szóközökkel megengedett** egy fő szerkezeti törésnél (állítás → részletezés), több em-dash egy címen belül nem.
 
 ### 2. Bevezető — 2–3 mondat a leíráshoz
 
@@ -45,13 +59,13 @@ Kritériumok: 45–60 karakter; **a hook és az elsődleges kulcsszó az első ~
 - **2. mondat — részletezés**: konkrétan mit kap a néző (projekt-név, személy, témák). Itt fejtem ki, amit a 1. mondat felvillantott.
 - **3. mondat — tonális hook vagy másodlagos meglepetés** (opcionális): nem catch-all („még mit említek"), hanem ízt vagy mélyebb gondolatot ad. Azt is megfogja, aki nem a fő témáért jött. Ha nincs ilyen természetes 3. mondat, ne erőltessük — maradjon 2 mondat.
 - **Cím–bevezető-kapcsolat:** a bevezető a címet *kifejti*, nem ismétli és nem mossa el. A cím provokál, a bevezető felold + mélyít.
-- **SEO:** az **elsődleges** keresési kulcsszó az **első 1–2 mondatba** kerüljön (a leírás ~157. karaktere után minden a „továbbiak" mögé csukódik, és a YouTube a fold előtti, látható szöveget erősebben súlyozza); további 1–2 másodlagos kulcsszó természetesen szétszórva a bekezdésben.
+- **SEO:** az **elsődleges** keresési kulcsszó az **első 1–2 mondatba** kerüljön (a leírás ~157. karaktere után minden a „továbbiak" mögé csukódik, és a YouTube a fold előtti, látható szöveget erősebben súlyozza); további 1–2 másodlagos kulcsszó természetesen szétszórva a bekezdésben. **Ne másold be a címet szó szerint** a leírás első sorába (papagáj-hatás; a szemantikus keresésnél nincs extra ereje, és a nézőnek természetellenes) — a cím fő kulcsszavait **természetes folyószövegbe ágyazva** hozd. Ez az első 1–2 sor egyben a Google/YouTube találati **snippet** is.
 - **Hossz:** teljes bekezdés ~200–450 karakter (a 2-mondatos lakonikus változat természetesen rövidebb).
 - **Formátum:** **egy bekezdésben**, folyószövegként (nem számozott lista).
 
 ### 3. Fejezetcímek időbélyeggel
-- 8–12 fejezet, legalább 3–5 perces közökkel; az időbélyeg formátuma `MM:SS` (leading zero az egyjegyű perceknél és óráknál is, pl. `00:00`, `05:55`, `01:05:55`); az időbélyeg után csak szóköz, gondolatjel nélkül.
-- Nincs „Bevezetés" fejezet — az 1. fejezet 00:00-tól indul, címét a cold-open utáni **első érdemi blokk** adja (a cold-open önmagában csak teaser, nem önálló fejezet).
+- 8–12 fejezet, legalább 3–5 perces közökkel (ha ennél többet gondolok indokoltnak, előbb egyeztetünk róla); az időbélyeg formátuma `MM:SS` (leading zero az egyjegyű perceknél és óráknál is, pl. `00:00`, `05:55`, `01:05:55`); az időbélyeg után csak szóköz, gondolatjel nélkül.
+- **Intro-fejezet:** ha az adásnak van intrója (cold-open/bevezető), a 00:00-tól induló első fejezet a címe után **zárójelben mindig megkapja az „(Intro)" jelölést** (pl. „2027 vagy 1984? (Intro)"); a cím a cold-open/intro lényegét tükrözze, lehetőleg a videócímmel rímelve. Ha nincs külön intro, az 1. fejezet 00:00-tól a cold-open utáni **első érdemi blokk** címét kapja.
 - Kíváncsiságkeltő, hangzatos címek, nem tartalomjegyzék-szerűek; max 3–4 kérdés, a többi állítás; max ~50 karakter/fejezet, de a **15–30 karakteres tartomány bátrabban használható** — a rövid, scannelhető címek gyorsabban olvasódnak.
 - **Lehetnek véleményesek és attitűdösek**, nem csak deskriptívek — a néző a tartalomjegyzékben is érezze a tónust. Pl. „Patkóelmélet csapdája" jobb, mint puszta „Patkóelmélet"; „Trump korrupcióban verhetetlen" élesebb, mint „Trump és a korrupció". Akkor üt, ha a tartalom megvédi (nincs üres clickbait).
 - **Scare-quote árnyalás**: egyetlen szó idézőjelben („támogatás", „demokrácia") árnyalt véleményt jelez egy szón belül. Mértékkel, ne minden fejezeten.
@@ -61,6 +75,10 @@ Kritériumok: 45–60 karakter; **a hook és az elsődleges kulcsszó az első ~
 ### 4. YouTube-leírás összeállítása
 
 **Formátum:** a linkblokkok multi-line szerkezetűek, soronként **leíró címke + `➡` + URL** (nem `·`-vel zsúfolt egysor — mobilon így scannelhető). Subtle emojik csak ott, ahol funkciójuk van (🇨🇭, ⚡, 🔥🐟, ➡). HUSZONEGY-hangzás: tech-tartalmú, de barátságos.
+
+**Résztvevők:** a vendég/résztvevők nevei (pl. „Anti, Openoms, Árpi") a `podcasts.ts` `members` mezőjébe kerülnek; ezt a 0. lépésben **rákérdezéssel** szerzem meg (a vágás előtti Riverside-inputnál még nincs feltöltött YouTube-leírás, amiből kiolvashatnám — Árpinak így nem is kell beírnia a résztvevőket a leírásba). A **végleges YouTube-leírásba NEM** írok külön „Résztvevők:" sort.
+
+**Szekció-fejlécek:** a leírás blokkjai **CSUPA NAGYBETŰS szekciócímkét** kapnak a scannelhetőségért — pl. `FEJEZETEK:`, `LINKEK ÉS FORRÁSOK:`, `HUSZONEGY KÖZÖSSÉG:`, `MENTORÁLÁS & BLOG:`, `SZPONZOROK:`, `RELAI:`, `FIREFISH:`, `ÁTIRAT:`. Az átirat-blokk is fejlécet kap (`ÁTIRAT:`), és az `Inkább olvasnád?` a link barátságos címkéje: `Inkább olvasnád? ➡ <átirat-URL>`. A YouTube fejezet-detektálását a `FEJEZETEK:` fejléc nem zavarja, amíg a `00:00` az első időbélyeg a leírásban. (E111-től így; korábban fejléc nélkül álltak a blokkok — a preferencia változott.)
 
 **Click-through elv:** a blurb-szövegek ne ismételjék azt az infót, ami a célokon (a linkelt oldalon) már ott van (pl. konkrét kedvezmény százalék a Relai oldalán).
 
@@ -169,6 +187,17 @@ Az átirat szépítése az alábbi instrukciók szerint → `public/transcripts_
 ### 8. Ellenőrzés, commit
 Build-ellenőrzés (a sitemap build-időben magától frissül a `podcasts.ts`-ből és az átiratokból — kézi munkát nem igényel). Commit, amikor Árpi kéri; egy „podcast update" commit jellemzően a `podcasts.ts`-t, a `public/pics/eXXX.jpg`-t és az átirat `.md`-t tartalmazza.
 
+### 9. Publikálás utáni teendők
+- **Fountain-link frissítése:** a `podcasts.ts` `fountain` mezője eleinte a show-URL; a publikálás után órákkal, amikor az epizód saját Fountain-linkje generálódik, frissítem rá.
+- **Pinned komment:** publikálás után kitűzött komment a videóhoz (a YouTube a komment-aktivitást engagement-jelként jutalmazza). Sablon:
+  ```
+  🧡 Támogasd a HUSZONEGY működését, hogy folytathassuk az edukatív tartalmakat: ➡ https://huszonegy.world/tamogatas
+  📖 Inkább olvasnád? Itt a teljes, csiszolt átirat: ➡ https://huszonegy.world/podcast/<slug>/
+
+  👇 <epizódra szabott, provokatív kérdés>
+  ```
+  A záró kérdés **mindig epizódra szabott** (konkrét tét, amire könnyű reagálni — több hozzászólást hoz, mint a generikus „Ti mit gondoltok?"). Minden adáshoz **2–3 kérdés-javaslatot adok**, Árpi választ és pinnel.
+
 ## Negyedéves cím- és thumbnail-tanulás
 
 A naptári negyedév végén (március 31, június 30, szeptember 30, december 31) áttekintjük a kiadott epizódok teljesítményét YouTube Studio **CTR + impressions + átlagos megtekintési idő (retention)** szerint. A CTR-t és a retentiont **együtt** nézzük: a magas CTR + alacsony megtekintési idő (a néző 30 mp után elpattan) az algoritmusnak rosszabb, mint a közepes CTR + erős retention — sőt a YouTube natív A/B-tesztje is nézési idő alapján dönt. Egy „félrevezetően jó" cím tehát rövid távon kattintást hoz, de hosszú távon visszaüt; ezt csak a retention-adat mutatja meg. A cím és a thumbnail együtt hozza a klikket, ezért együtt elemezzük:
@@ -181,18 +210,26 @@ A naptári negyedév végén (március 31, június 30, szeptember 30, december 3
 4. **Kritérium-frissítés:** ha a mintázat indokolja, az `instructions.md` 1. és/vagy 5. szakaszának kritériumai is frissülnek ugyanabban a kommitban.
 
 ## Fájlok helye
-nyers auto-feliratok a transcripts_raw mappában
-szépített átiratok a public/transcripts_clean mappában
-a fájlok neve E01 esetén epE01_ kezdetű
-corrections.md a gyökérben
+- **Vágás előtti input (0. lépés):** a Riverside-export a `transcripts_raw/` mappában, `huszonegys-studio_eXXX.txt` néven (a megvágott, teaser nélküli adás TXT-átirata, időbélyegekkel) — a Riverside saját fájlneve, ne nevezd át.
+- **Kész videó felirata (végső fejezetidőkhöz):** a `transcripts_raw/` mappában, `epE{NN}_{id}.hu.srt` néven (yt-dlp).
+- **Szépített átiratok:** a `public/transcripts_clean/` mappában, E01 esetén `epE01_` kezdetű néven.
+- **corrections.md** a gyökérben.
 
-Új adás forrásfelirata: a YouTube-azonosító a `src/data/podcasts.ts` `yt:` mezőjében van. A magyar auto-feliratot yt-dlp-vel töltsd le a `transcripts_raw/` mappába `epE{NN}_{id}.hu.srt` néven:
+Kész videó forrásfelirata: a YouTube-azonosító a `src/data/podcasts.ts` `yt:` mezőjében van. A magyar auto-feliratot yt-dlp-vel töltsd le a `transcripts_raw/` mappába `epE{NN}_{id}.hu.srt` néven:
 `yt-dlp --write-auto-subs --sub-langs hu --sub-format srt --convert-subs srt --skip-download -o "epE{NN}_%(id)s.%(ext)s" <url>`
 Csak automatikus felirat van, kézi nincs.
 
 ## Etalon
 
 A legutóbbi szépített átirat az etalon — onnan veszem az aktuális konvenciókat (intró-megfogalmazás, mid-roll formátum, link-stílus stb.). Az explicit szabályok ebben a dokumentumban vannak; a legutóbbi epizód ezeket élesen mutatja működés közben. Így minden epizód a következő referenciája — a folyamatos fejlődés beépül a workflow-ba.
+
+**corrections.md elsőbbsége:** ha a `corrections.md` és az etalon ütközik egy konkrét helyesírásban vagy konvencióban, a `corrections.md` dönt — az etalon csak a minőség és a stílus referenciája.
+
+**Referencia-átiratok:** E94, E95, E96 referencia-fájlok (E95 a minőségi etalon) — ezeket sosem szerkesztem.
+
+**„Hol tartunk":** a `podcasts.ts` epizód-id-jeit vetem össze a `public/transcripts_clean/` `.md` fájljaival; amelyik epizódhoz nincs szépített `.md`, az a backlog.
+
+**Ne tippelj konkrét tényt:** a kontextusból magabiztosan rekonstruálható szót/nevet javítom; de egy nem eldönthető konkrét tényt (évszám, szám, márka-/projektnév) NEM írok be plauzibilis tippként — a tévesen hitelesnek látszó érték rosszabb, mint egy látható hiány, mert átcsúszhat az ellenőrzésen. Láthatóan jelölöm és egyeztetek. (Ezt a bizonytalan szakszó-/névrekonstrukcióra is alkalmazom: ha nem vagyok biztos, flageljem, ne csendben „javítsak".)
 
 ## Mit jelent a szépítés?
 
@@ -209,7 +246,7 @@ Ez nem összefoglalás, hanem az élőbeszéd tisztítása. Minden elhangzott é
 
 ## Adásszerkezet
 
-- **Cold-open:** az adás gyakran egy figyelemfelkeltő részlettel indul, ami szó szerint egy később elhangzó mondat vagy párbeszéd. Ezt meghagyom az átirat elején.
+- **Cold-open:** az adás gyakran egy figyelemfelkeltő részlettel indul, ami szó szerint egy később elhangzó mondat vagy párbeszéd. Ezt meghagyom az átirat elején. **A cold-open akkor is teljes egészében az átirat elejére kerül, ha hosszú (akár egy perc), és ha később szó szerint visszatér** — ilyenkor mindkét előfordulás megmarad (a teaser elöl, az ismétlés a kontextusában). Soha nem rövidítem a cold-opent azzal az indokkal, hogy „később úgyis elhangzik".
 - **Intró:** „Sziasztok, ez itt a HUSZONEGY Bitcoin Podcast…"
 - **Szponzori blokk:** a korábbi, nagyjából állandó outro-szöveg (huszonegy.world, Bitcoin blog, bitcoinmentor.hu, Hotel Aurora/Atlantis, Firefish) újabban gyakran az adás KÖZEPÉN vagy kétharmada körül hangzik el mid-rollként.
 - **Beszélőváltás:** csak gondolatjellel (`–`), név nélkül — akkor is, ha hárman beszélgetnek.
@@ -236,7 +273,7 @@ Az állandó HUSZONEGY "szponzori" szöveg az átiratban **három külön bekezd
 
 1. `Böngésszétek a HUSZONEGY folyamatosan fejlődő honlapját, a [huszonegy.world](https://huszonegy.world) címen! Olvassátok a [Bitcoin blog](https://bitcoinmentor.hu/bitcoin-blog/) cikkeit a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon! És szintén itt találtok információt Bitcoin tanácsadási, mentorálási szolgáltatásunkról.` — egy bekezdésben, három mondat.
 2. `**Támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu).**` — **vastagítva**, külön bekezdésben.
-3. `És a [Firefish](https://app.firefish.io/auth/sign-up?ref=HUSZONEGY) 🔥🐟 üzeni, hogy ne adjátok el a bitcoinotokat!` — normál súly, külön bekezdésben, Firefish 🔥🐟 emoji a név után.
+3. `A [Firefish](https://app.firefish.io/auth/sign-up?ref=HUSZONEGY) 🔥🐟 pedig azt üzeni, hogy ne adjátok el a bitcoinotokat!` — normál súly, külön bekezdésben, Firefish 🔥🐟 emoji a név után. (E111-től ez a formula; korábban: „És a Firefish üzeni, hogy…". Az outro szövege változhat — mindig az aktuális feliratból dolgozz.)
 
 ## Szerkesztési szabályok
 
@@ -287,3 +324,19 @@ Egy epizódon belül ebben a sorrendben dolgozz:
 - [ ] Átolvastál furcsa, értelmetlen vagy félrehallásra utaló mondatok után kutatva? A kétséges helyeket jelöld és egyeztesd!
 - [ ] Természetes, podcast-hangvételű maradt?
 - [ ] Ha kétséges egy javítás, egyeztetted?
+
+## Munkamódszer és együttműködés
+
+**Ki a felhasználó:** a felhasználó maga Árpi — a HUSZONEGY egyik házigazdája (a másik Anti), és aki minden epizódot vág, szerkeszt és publikál. Ha „Árpi" szerepel egy átiratban vagy a `podcasts.ts` `members` mezőjében, az maga a felhasználó. A heti munka az ő kézi lépéseivel váltakozik (felvétel-vágás, YouTube-feltöltés, thumbnail-generálás Geminivel, GIMP, Studio-beállítások); a Claude a website-publikálás előkészítését viszi.
+
+**Egyeztetés a darálás helyett:** nem-triviális elágazásnál kérdezz először — konkrét opciók, ajánlással —, ne dolgozz hosszan önállóan olyasmin, amit aztán át kell írni. Hosszabb generálás (átirat, brief, hosszú lista) előtt egy rövid mondatban erősítsd meg a strukturális döntéseket. A kérdezés/ötletelés a kívánatos; a felesleges token-égetés önállóskodással nem. Ha valami nem egyértelmű a dokumentumokból, kérdezz, ne találgass.
+
+**Ne a döntésemet találgasd — kérdezz; amit tudsz, jegyezd fel.** A cél nem az, hogy kevesebbet kérdezz, hanem hogy egyre önállóbban azt csináld, amit együtt csinálunk. Ezért: (1) amit egyszer eldöntöttünk (preferencia, konvenció), azt **feljegyzem ide vagy a `corrections.md`-be**, hogy legközelebb ugyanazt ne kelljen megkérdezni; (2) amit még nem tudok és nem következik a dokumentumokból, azt **megkérdezem — nem próbálom kitalálni, hogyan döntenél**, és főleg nem hozok csendben egy feltételezett döntést (ez vezetett a cold-open téves rövidítéséhez). A rögzített tudást alkalmazom; az ismeretlen döntést kérdezem.
+
+**Effort-szint:** default Opus + `xhigh` (a munka mindkét oldala — aprólékos hosszú-kontextusú átirattisztítás és kreatív cím-/leírásírás — intelligencia-érzékeny). Proaktívan jelezd, ha egy részfeladatnál érdemes változtatni: nehéz kreatív/ítéleti lépésnél feljebb, egyértelműen mechanikusnál lejjebb. Árpi dönt; te csak felszínre hozod.
+
+**Git:** ne ajánlgasd magadtól a commitot, és ne commitolj magadtól — Árpi időzíti a gitet, ő szól, vagy maga commitol. Végezd el a munkát, jelezd röviden, mit érint a working tree, és várd meg az explicit utasítást. (Default branchen előbb branch; commit/push csak kérésre.)
+
+**Build:** ne futtasd a `npm run build`-et minden apró szerkesztés után — csak érdemi ponton (szerkezeti változás, a munka lezárása) vagy ha Árpi kéri. Apró tweak (szöveg, szín, egy-egy sor) után elég maga az Edit; a hibát az úgyis jelzi.
+
+**Önállósodás:** a cél hétről hétre, hogy egyre önállóbban és egyre inkább Árpi ízléséhez illeszkedve dolgozz — minden javításból tanulva. Minden tanulság ebbe a dokumentumba (és a `corrections.md`-be) kerül, nem külön memóriába (lásd a felszíni szöveg elveinél).

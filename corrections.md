@@ -47,6 +47,8 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - Smith Andi → **Schmied Andi** (budapesti képzőművész-építész; a New York-i üres luxuslakásokról szóló projekt szerzője)
 - Argentari / Argentarinak → **Argentarius** (Alfred Lansburgh álneve; a pénzről szóló levelek/könyv szerzője)
 - Toti Robi / Totik Robi → **Tótik Robi** (az Argentarius-könyv magyar fordítója)
+- Lőrinc / Lóri / Lórinc → **l0rinc** (magyar Bitcoin-fejlesztő; a handle nullával írandó, kisbetűvel — mondat elején is; ragozva kötőjellel: **l0rinc-cel**, l0rinc-nek)
+- Hermann → **Hermann Vivier** (a dél-afrikai **Bitcoin Ekasi** projekt vezetője; az STT „Bitcoinzi" alakját javítsd Bitcoin Ekasira)
 
 ## Márka/hely javítások
 
@@ -70,6 +72,17 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - Trezor model T → **Trezor Model T**
 - Szatosi Labs / Satoshi Labs → **SatoshiLabs** (a Trezor mögötti cég, a prágai konferencia szervezője)
 - Sidequest bar / SideQuest bar → **SideQuest Bar** (belvárosi meetup-helyszín)
+- MESCOR / mescor → **MeshCore** (LoRa-alapú titkosított mesh-protokoll; meshcore.io) — ne keverd a **Meshtastic**csal (meshtastic.org)
+- bit chat / bitchat → **BitChat** (Bluetooth/wifi-alapú mesh-üzenetküldő)
+- **LoRa** (rádiótechnológia; helyes írásmód)
+- **Spark** (state chain alapú Bitcoin-skálázó L2, amit a Blink implementált); a fordítatlan **state chain**, **state coin** alak marad
+- Blitz wallet, **Wallet of Satoshi** (önrendelkező Spark-kompatibilis tárcák)
+- **Blink** (önrendelkezővé váló Lightning/Spark-tárca; blink.sv) — az „Blink wallet" alak is jó
+- Budabit / Buda Bit → **BudaBit** (cypherpunk fejlesztői közösség, visszatérő szponzor; budabit.club — emoji: 🔥 tábortűz). **Five projektje** (Nostr-alapú, Git-native fejlesztői közösségi platform; az E108-as adás témája).
+- **FreedomTech Summit** (prágai szabadságtechnológiai konferencia; freedomtechsummit.com)
+- BTC+ / BTC plus plus → **BTC++** (Bitcoin-fejlesztői konferenciasorozat; btcplusplus.dev)
+- Rest Public / Rest Public Project → **RaspiBlitz** (önálló Bitcoin/Lightning node-projekt)
+- MRAL / Misztrál → **Mistral** (francia AI-fejlesztő/modell)
 
 ## Szakkifejezések
 
@@ -134,6 +147,12 @@ Ezeket linkeld be markdown formátumban, ahol a szövegben előfordulnak. Ha nem
 - [bip360.org](https://bip360.org)
 - [perspective-bar.hu](https://perspective-bar.hu/)
 - **SideQuest Bar** (a Perspective Bar új neve, ugyanaz a cím; budapesti meetup-helyszín): [side-quest.bar](https://side-quest.bar/) — a „Side Quest Bar" alakot javítsd SideQuest Bar-ra
+- **Blink**: [blink.sv](https://blink.sv) — letölthető APK / új release: [github.com/blinkbitcoin/blink-mobile/releases](https://github.com/blinkbitcoin/blink-mobile/releases)
+- **MeshCore**: [meshcore.io](https://meshcore.io/) · **Meshtastic**: [meshtastic.org](https://meshtastic.org/)
+- **Ginger Wallet**: [gingerwallet.io](https://gingerwallet.io)
+- **FreedomTech Summit**: [freedomtechsummit.com](https://freedomtechsummit.com/) · program: [program.freedomtechsummit.com](https://program.freedomtechsummit.com/fts2026/schedule/)
+- **BTC++ Berlin**: [btcplusplus.dev/berlin26](https://btcplusplus.dev/berlin26)
+- **BudaBit**: [budabit.club](https://budabit.club)
 
 ### pesz visszajelzés minták
 - noszter.hu és nostr.hu helyes alakok
