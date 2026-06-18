@@ -2,6 +2,70 @@
 
 export const podcasts = [
     {
+        name: "2027 vagy 1984? Igazolvány kell a nethez?",
+        id: "E111",
+        chapters: [
+        {
+                time: "00:00",
+                label: "2027 vagy 1984? (Intro)"
+        },
+        {
+                time: "01:41",
+                label: "Prágai jelentés a FreedomTech-csúcsról"
+        },
+        {
+                time: "05:33",
+                label: "Mesh hálózat: rádió a net helyett"
+        },
+        {
+                time: "08:08",
+                label: "Expo: kézfogások és magyar arcok"
+        },
+        {
+                time: "11:04",
+                label: "„Mindent a biztonság jegyében” — az új 1984"
+        },
+        {
+                time: "14:34",
+                label: "Szabad frekvenciák és a halott készpénz"
+        },
+        {
+                time: "20:58",
+                label: "A Blink önrendelkezővé válik: itt a Spark"
+        },
+        {
+                time: "25:40",
+                label: "State chain: kit kell megbízni?"
+        },
+        {
+                time: "30:32",
+                label: "Díjak és „állapotérmék”"
+        },
+        {
+                time: "33:22",
+                label: "Hat másodperc a boltban"
+        },
+        {
+                time: "37:27",
+                label: "Mi történik most El Salvadorban?"
+        },
+        {
+                time: "40:55",
+                label: "Németország, az underground nagyhatalom"
+        },
+        {
+                time: "43:31",
+                label: "Ki bot, ki nem bot?"
+        }
+        ],
+        img: "/pics/e111.jpg",
+        date: "2026.06.19.",
+        members: ["Anti", "Openoms", "Árpi"],
+        topic: "2027 vagy 1984? (Intro) - Prágai jelentés a FreedomTech-csúcsról - Mesh hálózat: rádió a net helyett - Expo: kézfogások és magyar arcok - „Mindent a biztonság jegyében” — az új 1984 - Szabad frekvenciák és a halott készpénz - A Blink önrendelkezővé válik: itt a Spark - State chain: kit kell megbízni? - Díjak és „állapotérmék” - Hat másodperc a boltban - Mi történik most El Salvadorban? - Németország, az underground nagyhatalom - Ki bot, ki nem bot?",
+        yt: "https://youtu.be/4XcpyQyyiX0",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
         name: "Miért nem jut el a tömeg a Bitcoinig?",
         id: "E110",
         chapters: [
