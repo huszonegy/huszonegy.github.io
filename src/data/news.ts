@@ -5,6 +5,13 @@
 
 export const news = [
     {
+        summary: "Új támogatónk: a BudaBit",
+        date: "2026.06.18.",
+        html: "Mostantól a <a href='https://budabit.club' target='_blank'>BudaBit</a> is támogatja a HUSZONEGY működését. Köszönjük szépen! Ezáltal a magyar nyelvű Bitcoin-tartalom is erősödik.<br /><br />A BudaBit nem szokványos szponzor: egy szoftverfejlesztőknek szánt Nostr-alapú, Git-native közösségi platform — afféle decentralizált, cenzúraálló GitHub-és-Discord-ötvözet, Five fejlesztésében. Róla és erről a projektről szólt a <a href='/podcast/recseg-a-github-epul-a-magyar-nostr-alternativa/'>108. adásunk</a>. A repókat egy helyen böngészheted, és beszélgethetsz is róluk, a projekteket pedig zappelni lehet, vagyis egy Nostr-os Bitcoin-borravalóval a közösség közvetlenül finanszírozhatja az open source munkát.<br /><br />A BudaBit a kódon túl közösség is: rendszeres meetupok fizikai és online térben, valamint Demo Day-ek, ahol szabadságtechnológiai (Freedom Tech) és open source projektek mutatkoznak be. Ismerkedj meg a <a href='https://budabit.club' target='_blank'>budabit.club</a> honlapjával!",
+        img: "/pics/budabit-news-banner.jpg",
+        link: "/link"
+    },
+    {
         summary: "Megújult a támogatás oldal",
         date: "2026.06.05.",
         html: "Teljesen megújult a <a href='/tamogatas/'>támogatás oldalunk</a>: letisztult, áttekinthető, és mostantól világosan elmondja, mire megy a támogatás. A <strong>HUSZONEGY</strong> podcast mögött rengeteg önkéntes munka áll, és a jelenlegi bevételek nem elegendőek a fenntartásához — július-augusztusban szünetet tartunk, és szeptemberben csak akkor tudunk új epizódokon dolgozni, ha addigra elég támogatás jön össze.<br /><br />Több módon is segíthetsz: <strong>rendszeres</strong> havi támogatással (ez adja a valódi fenntarthatóságot), <strong>alkalmi</strong> adománnyal Lightningon vagy on-chain, <strong>szponzorként</strong>, egy gyors zappal a <strong>Nostron</strong>, vagy ha <strong>Fountainön</strong> hallgatsz minket, satok streamelésével. Bármekkora összeget hálásan köszönünk — minden egyes sat a magyar nyelvű Bitcoin-tartalmat erősíti. <a href='/tamogatas/'>Nézz körül!</a>",
