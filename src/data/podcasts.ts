@@ -30,10 +30,6 @@ export const podcasts = [
                 label: "Szabad frekvenciák és a halott készpénz"
         },
         {
-                time: "20:58",
-                label: "A Blink önrendelkezővé válik: itt a Spark"
-        },
-        {
                 time: "25:40",
                 label: "State chain: kit kell megbízni?"
         },
@@ -61,7 +57,7 @@ export const podcasts = [
         img: "/pics/e111.jpg",
         date: "2026.06.19.",
         members: ["Anti", "Openoms", "Árpi"],
-        topic: "2027 vagy 1984? (Intro) - Prágai jelentés a FreedomTech-csúcsról - Mesh hálózat: rádió a net helyett - Expo: kézfogások és magyar arcok - „Mindent a biztonság jegyében” — az új 1984 - Szabad frekvenciák és a halott készpénz - A Blink önrendelkezővé válik: itt a Spark - State chain: kit kell megbízni? - Díjak és „állapotérmék” - Hat másodperc a boltban - Mi történik most El Salvadorban? - Németország, az underground nagyhatalom - Ki bot, ki nem bot?",
+        topic: "2027 vagy 1984? (Intro) - Prágai jelentés a FreedomTech-csúcsról - Mesh hálózat: rádió a net helyett - Expo: kézfogások és magyar arcok - „Mindent a biztonság jegyében” — az új 1984 - Szabad frekvenciák és a halott készpénz - State chain: kit kell megbízni? - Díjak és „állapotérmék” - Hat másodperc a boltban - Mi történik most El Salvadorban? - Németország, az underground nagyhatalom - Ki bot, ki nem bot?",
         yt: "https://youtu.be/4XcpyQyyiX0",
         fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
     },
