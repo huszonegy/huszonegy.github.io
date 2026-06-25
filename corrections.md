@@ -48,7 +48,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - Argentari / Argentarinak → **Argentarius** (Alfred Lansburgh álneve; a pénzről szóló levelek/könyv szerzője)
 - Toti Robi / Totik Robi → **Tótik Robi** (az Argentarius-könyv magyar fordítója)
 - Lőrinc / Lóri / Lórinc → **l0rinc** (magyar Bitcoin-fejlesztő; a handle nullával írandó, kisbetűvel — mondat elején is; ragozva kötőjellel: **l0rinc-cel**, l0rinc-nek)
-- Hermann → **Hermann Vivier** (a dél-afrikai **Bitcoin Ekasi** projekt vezetője; az STT „Bitcoinzi" alakját javítsd Bitcoin Ekasira)
+- Hermann → **Hermann Vivier** (a dél-afrikai **Bitcoin Ekasi** projekt vezetője; a gépi átirat „Bitcoinzi" alakját javítsd Bitcoin Ekasira)
 
 ## Márka/hely javítások
 
@@ -109,12 +109,13 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - anonset → **anonimitási pontszám / anonimitási szint**
 - PSBT → **PSBT** (partially signed Bitcoin transaction, részlegesen aláírt Bitcoin-tranzakció)
 - légrés / air-gap (galvanikusan nincs összekötve az eszköz a számítógéppel)
+- „207-es / 207 hetes mozgóátlag" → **200 hetes mozgóátlag** (200 WMA — a Bitcoin négyéves ciklus-indikátora). A *szó* rendszerint helyes; a gépi átirat a **számot** hallja gyakran 207-nek 200 helyett — ezt egységesítsd **200**-ra.
 
 ## Formázási konvenciók
 
 - **HUSZONEGY** nagybetűvel ahol a podcast nevére utal (21 → HUSZONEGY)
 - 21-es → HUSZONEGY-es
-- a protokoll neve **Nostr**, a toldalékok kötőjellel: Nostr-on, Nostr-ra, Nostr-ba, Nostr-t, Nostr-nak, Nostr-os, Nostr-csoport, Nostr-protokoll (az STT „noszter/noster" alakjait javítsd)
+- a protokoll neve **Nostr**, a toldalékok kötőjellel: Nostr-on, Nostr-ra, Nostr-ba, Nostr-t, Nostr-nak, Nostr-os, Nostr-csoport, Nostr-protokoll (a gépi átirat „noszter/noster" alakjait javítsd)
 - **márka/brand + köznév összetétel: kötőjel NÉLKÜL, külön szóként** (Árpi tudatos stílusa, eltér a szigorú AkH kötőjelezéstől). Pl. *Bitcoin tartalom, Bitcoin közönség, Bitcoin tárca, Bitcoin cím, Bitcoin blog, YouTube csatornatagság* — NEM „Bitcoin-tartalom". **Minden** ilyen összetételre (a technikaiakra is). ⚠️ Ez csak az **összetételre** vonatkozik; a brandre tett **puszta toldalék** marad a saját szabályán: *Bitcoinról, Bitcoinhoz, Bitcoinban* (egybe), *Nostr-on, Nostr-ra* (kötőjellel).
 - `*(nevetés)*` → `(nevetés)` (NEM dőlt formátum)
 - Mondatkezdések nagybetűvel
