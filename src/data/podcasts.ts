@@ -2,6 +2,70 @@
 
 export const podcasts = [
     {
+        name: "A grafikon, ami sosem hazudott — Hol a Bitcoin valódi alja?",
+        id: "E112",
+        chapters: [
+        {
+                time: "00:00",
+                label: "A grafikon, ami sosem hazudott (Intro)"
+        },
+        {
+                time: "01:05",
+                label: "Szocializmus, alapjövedelem és Kína igazi arca"
+        },
+        {
+                time: "05:44",
+                label: "Ingatlan, részvény vagy Bitcoin?"
+        },
+        {
+                time: "07:34",
+                label: "A Bitcoin kognitív küszöbe"
+        },
+        {
+                time: "11:55",
+                label: "200 hetes mozgóátlag: Hol a ciklus alja?"
+        },
+        {
+                time: "17:43",
+                label: "A Strategy egy megtervezett „setup”?"
+        },
+        {
+                time: "22:01",
+                label: "Miért mehet még lejjebb az árfolyam?"
+        },
+        {
+                time: "26:15",
+                label: "A Saylor-féle STRETCH kockázatai"
+        },
+        {
+                time: "32:00",
+                label: "A végén 80% a bankoké?"
+        },
+        {
+                time: "37:25",
+                label: "Jó hír itthon: validátor-törvény és Revolut"
+        },
+        {
+                time: "42:41",
+                label: "A ciklus-chart: mikor jön a mélypont?"
+        },
+        {
+                time: "45:01",
+                label: "Miért örül a bitcoiner az esésnek?"
+        },
+        {
+                time: "48:14",
+                label: "Pénz, fedezet és a jövő nemzedéke"
+        }
+        ],
+        img: "/pics/e112.jpg",
+        date: "2026.06.26.",
+        members: ["Anti", "Tamás", "Árpi"],
+        topic: "A grafikon, ami sosem hazudott (Intro) - Szocializmus, alapjövedelem és Kína igazi arca - Ingatlan, részvény vagy Bitcoin? - A Bitcoin kognitív küszöbe - 200 hetes mozgóátlag: Hol a ciklus alja? - A Strategy egy megtervezett „setup”? - Miért mehet még lejjebb az árfolyam? - A Saylor-féle STRETCH kockázatai - A végén 80% a bankoké? - Jó hír itthon: validátor-törvény és Revolut - A ciklus-chart: mikor jön a mélypont? - Miért örül a bitcoiner az esésnek? - Pénz, fedezet és a jövő nemzedéke",
+        yt: "https://youtu.be/Nw_E1oWXUhA",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
         name: "2027 vagy 1984? Igazolvány kell a nethez?",
         id: "E111",
         chapters: [
@@ -59,7 +123,7 @@ export const podcasts = [
         members: ["Anti", "Openoms", "Árpi"],
         topic: "2027 vagy 1984? (Intro) - Prágai jelentés a FreedomTech-csúcsról - Mesh hálózat: rádió a net helyett - Expo: kézfogások és magyar arcok - „Mindent a biztonság jegyében” — az új 1984 - Szabad frekvenciák és a halott készpénz - State chain: kit kell megbízni? - Díjak és „állapotérmék” - Hat másodperc a boltban - Mi történik most El Salvadorban? - Németország, az underground nagyhatalom - Ki bot, ki nem bot?",
         yt: "https://youtu.be/4XcpyQyyiX0",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/podolysKdyq56BggtgYH"
     },
     {
         name: "Miért nem jut el a tömeg a Bitcoinig?",
