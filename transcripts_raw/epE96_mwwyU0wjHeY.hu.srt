@@ -1,0 +1,6204 @@
+1
+00:00:00,040 --> 00:00:08,639
+bármi is legyen, mondjuk azt,
+
+2
+00:00:03,480 --> 00:00:13,559
+hogy megkaptam tőled a Fiatot.
+
+3
+00:00:08,639 --> 00:00:17,199
+Igen, rendben. A vevő azt mondja, hogy
+
+4
+00:00:13,559 --> 00:00:19,560
+rendben. Azt mondom,
+
+5
+00:00:17,199 --> 00:00:21,480
+hogy elküldtem. Itt át is raktam az
+
+6
+00:00:19,560 --> 00:00:24,640
+asztalon egyik oldalra, a másik oldalra
+
+7
+00:00:21,480 --> 00:00:25,920
+az 5000-est. És itt rá kell nyomni erre
+
+8
+00:00:24,640 --> 00:00:28,679
+a gombra. nagyon fontos, mert csak itt
+
+9
+00:00:25,920 --> 00:00:31,160
+tudja a másik elfogadni ezt a tényt és
+
+10
+00:00:28,679 --> 00:00:34,600
+végbe vinni az üzletet. Tehát ez
+
+11
+00:00:31,160 --> 00:00:36,719
+gyakorlatilag véglegesíti a teendőket,
+
+12
+00:00:34,600 --> 00:00:40,239
+hogy elküldtem az 5000 Ft-ot. Igen,
+
+13
+00:00:36,719 --> 00:00:43,120
+elküldtem. És amint ez a értesítés
+
+14
+00:00:40,239 --> 00:00:46,640
+megjön a másik oldalon, akkor lehet egy
+
+15
+00:00:43,120 --> 00:00:51,000
+utolsó üzenetet írni, hogy el fogom
+
+16
+00:00:46,640 --> 00:00:54,440
+fogadni. Köszi. És amint ezt megnyúja a
+
+17
+00:00:51,000 --> 00:00:56,680
+fogadófél, mármint a Fiat fogadófél,
+
+18
+00:00:54,440 --> 00:00:58,879
+amúgy a Bitcoin eladófél, be fog záróni
+
+19
+00:00:56,680 --> 00:01:00,079
+ez a chatablak, és végbem megy a
+
+20
+00:00:58,879 --> 00:01:01,519
+Lightning Transakció.
+
+21
+00:01:00,079 --> 00:01:03,480
+>> Ja, és onnantól kezdve nem tudnak
+
+22
+00:01:01,519 --> 00:01:04,040
+egymással kommunikálni, de nincs is
+
+23
+00:01:03,480 --> 00:01:06,159
+miről.
+
+24
+00:01:04,040 --> 00:01:08,400
+>> Nincs. Így van. Így van. Tehát ez ez egy
+
+25
+00:01:06,159 --> 00:01:11,080
+sikeres dolog volt. Mind a ketten
+
+26
+00:01:08,400 --> 00:01:13,400
+aláírták gyakorlatilag azt a hogy a
+
+27
+00:01:11,080 --> 00:01:16,119
+szerződés végbement. Az egyik elküldte,
+
+28
+00:01:13,400 --> 00:01:18,360
+a másik megkapta. És ilyenkor az
+
+29
+00:01:16,119 --> 00:01:20,880
+történik a lightning fizetésekkel, hogy
+
+30
+00:01:18,360 --> 00:01:24,240
+ezek a biztonsági letétek, ezek
+
+31
+00:01:20,880 --> 00:01:27,560
+törlődnek. Az a azaz az a 670 szatusi az
+
+32
+00:01:24,240 --> 00:01:29,079
+visszakerül a valetbe. És a eladásra
+
+33
+00:01:27,560 --> 00:01:31,439
+feltett
+
+34
+00:01:29,079 --> 00:01:34,280
+letét pedig az a fizetés pedig békbe
+
+35
+00:01:31,439 --> 00:01:37,560
+megy. Tehát az a 226-os pedig szépen meg
+
+36
+00:01:34,280 --> 00:01:39,479
+is jött a valetemben azt a számlát
+
+37
+00:01:37,560 --> 00:01:42,181
+kifizetve, amit ugye benyújtottam a
+
+38
+00:01:39,479 --> 00:01:43,680
+fogadásra.
+
+39
+00:01:42,181 --> 00:01:46,960
+>> [zene]
+
+40
+00:01:43,680 --> 00:01:50,520
+>> Sziasztok! Üdvözlünk titeket újra itt a
+
+41
+00:01:46,960 --> 00:01:52,240
+21 Bitcoin podcastban. Ez már a 96.
+
+42
+00:01:50,520 --> 00:01:52,799
+epizódunk, igaz?
+
+43
+00:01:52,240 --> 00:01:54,960
+>> Igen.
+
+44
+00:01:52,799 --> 00:01:55,560
+>> Openoms van ma velünk. Szia! Örülünk,
+
+45
+00:01:54,960 --> 00:01:57,479
+hogy itt vagy.
+
+46
+00:01:55,560 --> 00:02:01,039
+>> Szó! Helló! Arra gondoltunk, hogy a
+
+47
+00:01:57,479 --> 00:02:03,000
+múltkori félelemkeltés után elevezünk
+
+48
+00:02:01,039 --> 00:02:05,719
+olyan területre, ami kicsit újra
+
+49
+00:02:03,000 --> 00:02:09,000
+reménnyel tölti meg a szívünket ebbe a
+
+50
+00:02:05,719 --> 00:02:11,480
+vészes időszakba, és mégpedig olyan
+
+51
+00:02:09,000 --> 00:02:13,840
+területre evezünk, hogy megnézzük, hogy
+
+52
+00:02:11,480 --> 00:02:16,440
+hogyan lehet jól a bitcoint vásárolni
+
+53
+00:02:13,840 --> 00:02:19,879
+anélkül, hogy mindenféle undorító
+
+54
+00:02:16,440 --> 00:02:22,800
+szolgáltatást vennénk igénybe itt a a
+
+55
+00:02:19,879 --> 00:02:25,599
+Fiat világból, és gazdagítanánk a
+
+56
+00:02:22,800 --> 00:02:28,720
+middlemaneket, a bankárokat. Úgyhogy a
+
+57
+00:02:25,599 --> 00:02:31,599
+mai epizódot a Roboszacnak gondoltuk
+
+58
+00:02:28,720 --> 00:02:34,360
+szentelni Openom segítségével, mert hát
+
+59
+00:02:31,599 --> 00:02:36,760
+ugye ő eléggé járatos ebben és jobb,
+
+60
+00:02:34,360 --> 00:02:39,000
+hogyha tőle halljátok első kézből, mint
+
+61
+00:02:36,760 --> 00:02:41,239
+sem tőlünk. Tát már nem kell szerintem
+
+62
+00:02:39,000 --> 00:02:43,280
+bemutatni. Többször láthattátok itt,
+
+63
+00:02:41,239 --> 00:02:44,959
+vagyis hát így [nevetés]
+
+64
+00:02:43,280 --> 00:02:47,720
+nem többször nem láthattátok, de
+
+65
+00:02:44,959 --> 00:02:50,720
+hallhattátok, illetve konferenciákon
+
+66
+00:02:47,720 --> 00:02:53,640
+találkozhattatok már vele. Üdv nálunk,
+
+67
+00:02:50,720 --> 00:02:56,239
+köszi, hogy itt vagy. És mi ez a
+
+68
+00:02:53,640 --> 00:02:57,200
+roboszac? Hogy tudnád ezt bemelegíteni
+
+69
+00:02:56,239 --> 00:02:59,760
+így hirtelen?
+
+70
+00:02:57,200 --> 00:03:01,239
+>> Sziasztok, köszi a meghívást újra. Igen,
+
+71
+00:02:59,760 --> 00:03:04,840
+ez a Robos téma, ez mostanában már
+
+72
+00:03:01,239 --> 00:03:07,640
+sokszor feljött a hogyan adjunk, vegyünk
+
+73
+00:03:04,840 --> 00:03:10,120
+Bitcoin témában és hát volt itt a egy
+
+74
+00:03:07,640 --> 00:03:12,319
+nemrégen meetup múlt héten a Chinger
+
+75
+00:03:10,120 --> 00:03:15,080
+wallet bemutatva, ahol így a privát
+
+76
+00:03:12,319 --> 00:03:17,080
+Bitcoin használat is képbe került.
+
+77
+00:03:15,080 --> 00:03:19,920
+Nagyon jó előadást látottunk a Molná
+
+78
+00:03:17,080 --> 00:03:21,879
+Dávidtól, hogyha tudjátok, fent van
+
+79
+00:03:19,920 --> 00:03:25,040
+YouTube-on is, illetve mindenhol meg
+
+80
+00:03:21,879 --> 00:03:27,280
+lett osztva. Nézzétek meg. És ott is
+
+81
+00:03:25,040 --> 00:03:30,040
+beszéltünk erről, hogy ugye, hogy
+
+82
+00:03:27,280 --> 00:03:33,040
+érdemes egyáltalán bitcoint küldözgetni,
+
+83
+00:03:30,040 --> 00:03:35,480
+illetve hát bitcoint cserélgetni. És ez
+
+84
+00:03:33,040 --> 00:03:37,519
+a roboszat ez egy úgynevezett peer
+
+85
+00:03:35,480 --> 00:03:39,519
+topeer exchange, ami azt jelenti, hogy
+
+86
+00:03:37,519 --> 00:03:41,959
+egy olyan platform, egy olyan felület,
+
+87
+00:03:39,519 --> 00:03:46,080
+ahol egymás között lehet bitcoint
+
+88
+00:03:41,959 --> 00:03:48,680
+küldeni, adni, venni anélkül, hogy egy
+
+89
+00:03:46,080 --> 00:03:50,760
+ilyen központi szereplőben kellene
+
+90
+00:03:48,680 --> 00:03:52,200
+bízni. Hát igazából van, tehát van egy
+
+91
+00:03:50,760 --> 00:03:55,439
+központi szereplő, ez nem egy
+
+92
+00:03:52,200 --> 00:03:56,920
+decentralizált exchange. Viszont ahogy
+
+93
+00:03:55,439 --> 00:03:58,920
+majd így belemegyünk ennek a
+
+94
+00:03:56,920 --> 00:04:01,280
+folyamatába, így látjuk, hogy hogy van
+
+95
+00:03:58,920 --> 00:04:03,239
+ez a ez a hogy miért nem kell ebben a
+
+96
+00:04:01,280 --> 00:04:06,480
+központi szereplőben bízni, illetve hogy
+
+97
+00:04:03,239 --> 00:04:09,799
+lehet egymásban bízni anélkül, hogy hogy
+
+98
+00:04:06,480 --> 00:04:11,799
+tudnánk egymás igazi identitását.
+
+99
+00:04:09,799 --> 00:04:14,040
+Tehát Robozatshatsz gyakorlatilag egy
+
+100
+00:04:11,799 --> 00:04:18,560
+ilyen kereskedő platform, ami bárkinek
+
+101
+00:04:14,040 --> 00:04:21,560
+nyitva áll, és próbálnánk ezt így több
+
+102
+00:04:18,560 --> 00:04:25,080
+használatba tenni, mivel Magyarországon
+
+103
+00:04:21,560 --> 00:04:28,040
+ez még annyira nem elterjedt így ritkán
+
+104
+00:04:25,080 --> 00:04:30,280
+látni magyar forint hirdetéseket rajta.
+
+105
+00:04:28,040 --> 00:04:31,720
+>> Én már láttam.
+
+106
+00:04:30,280 --> 00:04:33,759
+Az te voltál, nem?
+
+107
+00:04:31,720 --> 00:04:35,600
+>> Lehettem én is, de az is lehet, hogy
+
+108
+00:04:33,759 --> 00:04:37,960
+valaki más is lehet. Valamelyik másik
+
+109
+00:04:35,600 --> 00:04:38,880
+tagunk a 800-ból.
+
+110
+00:04:37,960 --> 00:04:41,240
+Igen. Igen.
+
+111
+00:04:38,880 --> 00:04:42,199
+>> Vagy egy olyan tagunk, aki nincs ott a
+
+112
+00:04:41,240 --> 00:04:43,960
+csoportban.
+
+113
+00:04:42,199 --> 00:04:45,880
+>> Igen. Hát akkor vágjunk bele. Szerintem
+
+114
+00:04:43,960 --> 00:04:47,160
+itt mutatom is közben. Próbálom leírni,
+
+115
+00:04:45,880 --> 00:04:48,680
+hogy mit látunk a képernyőn.
+
+116
+00:04:47,160 --> 00:04:52,360
+>> Inkább azt mondd meg először, hogy hol
+
+117
+00:04:48,680 --> 00:04:55,639
+érhető el ez el, ha valaki szeretne ebbe
+
+118
+00:04:52,360 --> 00:04:57,919
+beleugrani, meg mi kell hozzá? Kell-e
+
+119
+00:04:55,639 --> 00:05:00,600
+hozzá valami addon, vagy valami?
+
+120
+00:04:57,919 --> 00:05:02,560
+>> Ez egy nagyon jó kérdés. Az, hogy hol
+
+121
+00:05:00,600 --> 00:05:04,919
+lehet róla információt szerezni, illetve
+
+122
+00:05:02,560 --> 00:05:08,199
+hol lehet elindulni, ez egy viszonylag
+
+123
+00:05:04,919 --> 00:05:09,440
+egyszerű angol nyelvű website weboldal,
+
+124
+00:05:08,199 --> 00:05:12,440
+aminek az a neve, hogy
+
+125
+00:05:09,440 --> 00:05:15,720
+learn.robosat.org.
+
+126
+00:05:12,440 --> 00:05:17,800
+Itt van róla mindenféle videó, bemutató,
+
+127
+00:05:15,720 --> 00:05:21,199
+illetve gyors leírás. Van egy ilyen
+
+128
+00:05:17,800 --> 00:05:23,080
+quickstart nevű opció, és itt vannak
+
+129
+00:05:21,199 --> 00:05:25,680
+felsorolva azó dolgok, amikre szükség
+
+130
+00:05:23,080 --> 00:05:28,319
+van. Először is kell egy Lightning képes
+
+131
+00:05:25,680 --> 00:05:31,440
+valet, egy Lightning képes tárca, amiről
+
+132
+00:05:28,319 --> 00:05:33,400
+hogyha itt megnyitjuk ezt a oldalt a
+
+133
+00:05:31,440 --> 00:05:36,160
+valetre kattintva, akkor itt látszik,
+
+134
+00:05:33,400 --> 00:05:38,120
+hogy a ismertebbek
+
+135
+00:05:36,160 --> 00:05:42,000
+itt fel vannak sorolva, és itt a
+
+136
+00:05:38,120 --> 00:05:44,759
+közösség kipróbálta őket. Én is küldtem
+
+137
+00:05:42,000 --> 00:05:46,360
+Pestet ehhez a táblázathoz. Például
+
+138
+00:05:44,759 --> 00:05:49,199
+Blinketet kipróbáltuk, tökéletes, hogy
+
+139
+00:05:46,360 --> 00:05:53,319
+működik, de jól működik az Aquavallet,
+
+140
+00:05:49,199 --> 00:05:56,639
+jól működik a Breeze Wallet a Moonnal.
+
+141
+00:05:53,319 --> 00:05:59,759
+már vannak kihívások, azt nem ajánlanánk
+
+142
+00:05:56,639 --> 00:06:03,520
+például ez is egy népszerű darab. Vallet
+
+143
+00:05:59,759 --> 00:06:05,400
+szatusí is működik, illetve sok új van,
+
+144
+00:06:03,520 --> 00:06:09,199
+amik még nem kerültek rá erre a listára,
+
+145
+00:06:05,400 --> 00:06:11,440
+például azok a tárcák, amik a
+
+146
+00:06:09,199 --> 00:06:13,120
+Lightningnak a Spark megoldását
+
+147
+00:06:11,440 --> 00:06:15,160
+használják,
+
+148
+00:06:13,120 --> 00:06:18,120
+mint például az új Valetop Satosi is,
+
+149
+00:06:15,160 --> 00:06:20,400
+amit a selfcustory módban így működik.
+
+150
+00:06:18,120 --> 00:06:23,000
+illetve van egy Blitz Wallet nevű
+
+151
+00:06:20,400 --> 00:06:26,440
+applikáció, amit én fogok itt használni.
+
+152
+00:06:23,000 --> 00:06:27,319
+Megnyitottam ezt a web wallettjét, ami
+
+153
+00:06:26,440 --> 00:06:30,039
+itt elérhető a
+
+154
+00:06:27,319 --> 00:06:32,599
+wallet.blitwalletup.comon.
+
+155
+00:06:30,039 --> 00:06:34,639
+Van benne egy pár szatosi, de ez is egy
+
+156
+00:06:32,599 --> 00:06:36,880
+iOS-re és Androidra letölthető
+
+157
+00:06:34,639 --> 00:06:40,440
+applikáció egyébként, és és a Sparkot
+
+158
+00:06:36,880 --> 00:06:43,599
+használja Lightninghoz, ami azt jelenti,
+
+159
+00:06:40,440 --> 00:06:45,360
+hogy önrendelkező Selfcast Studio, de
+
+160
+00:06:43,599 --> 00:06:47,840
+mégis nem kell azon gondolkodni, hogy
+
+161
+00:06:45,360 --> 00:06:51,039
+hogy kell ilyen csatornákat menedzselni.
+
+162
+00:06:47,840 --> 00:06:52,880
+meg belebonyolódni az egész Lightning
+
+163
+00:06:51,039 --> 00:06:54,919
+hálózatnak a működésébe, hanem
+
+164
+00:06:52,880 --> 00:06:56,520
+egyszerűen csak bele kell küldeni pár
+
+165
+00:06:54,919 --> 00:06:58,120
+szatosít, és onnantól kezdve akár
+
+166
+00:06:56,520 --> 00:06:59,240
+onchain, akár Lightningon keresztül, és
+
+167
+00:06:58,120 --> 00:07:02,319
+akkor onnantól kezdve tud így
+
+168
+00:06:59,240 --> 00:07:05,240
+funkcionálni akár webetben is. Tehát
+
+169
+00:07:02,319 --> 00:07:09,080
+kell hozzá egy Lightning wallet.
+
+170
+00:07:05,240 --> 00:07:11,960
+Következő dolog az pedig a Tur browser,
+
+171
+00:07:09,080 --> 00:07:13,800
+mert ugye itt mindenki biztonságát
+
+172
+00:07:11,960 --> 00:07:16,560
+garantálva, hogy el akarjuk kerülni,
+
+173
+00:07:13,800 --> 00:07:18,360
+hogy az emberek IP címét így megosszuk
+
+174
+00:07:16,560 --> 00:07:19,879
+egymással, ezzel a központi
+
+175
+00:07:18,360 --> 00:07:23,160
+koordinátorral,
+
+176
+00:07:19,879 --> 00:07:25,479
+meg ugye egyáltalán a az internettel.
+
+177
+00:07:23,160 --> 00:07:28,160
+És erre a Tor browser legalkalmasabb.
+
+178
+00:07:25,479 --> 00:07:29,680
+Ezt ezen a linken Torproject.talorg torg
+
+179
+00:07:28,160 --> 00:07:32,120
+szépen le lehet tölteni minden minden
+
+180
+00:07:29,680 --> 00:07:36,960
+egyes operációs rendszerre,
+
+181
+00:07:32,120 --> 00:07:39,240
+még telefonra is. illetve mivel én két
+
+182
+00:07:36,960 --> 00:07:41,319
+böngészőt fogok használni, így be is
+
+183
+00:07:39,240 --> 00:07:42,919
+mutatom azt azt is, hogy a a Brave
+
+184
+00:07:41,319 --> 00:07:44,759
+Browsernek is van egy van ilyen
+
+185
+00:07:42,919 --> 00:07:47,879
+funkciója, az van itt nyitva egyébként
+
+186
+00:07:44,759 --> 00:07:51,039
+éppen, hogy ha feltelepíti az ember,
+
+187
+00:07:47,879 --> 00:07:54,280
+akkor van egy ilyen opció, hogy new
+
+188
+00:07:51,039 --> 00:07:57,199
+private window with tour, vagyis egy új
+
+189
+00:07:54,280 --> 00:07:59,080
+privát ablak toral, és akkor csatlakozik
+
+190
+00:07:57,199 --> 00:08:02,000
+a torhálózathoz, és abban is megnyitnak
+
+191
+00:07:59,080 --> 00:08:04,840
+ezek az Onion végződésű címek. Aztán
+
+192
+00:08:02,000 --> 00:08:09,440
+pedig kapcsolódhatunk a robotshhez,
+
+193
+00:08:04,840 --> 00:08:11,479
+aminek itt már a kezdő oldalon, illetve
+
+194
+00:08:09,440 --> 00:08:15,400
+ezen a aloldalon itt van a címe. Ez egy
+
+195
+00:08:11,479 --> 00:08:17,280
+hosszú pontonnal végződő cím, ami így
+
+196
+00:08:15,400 --> 00:08:18,960
+robosz accccal kezdődik. Ugye ezt így ki
+
+197
+00:08:17,280 --> 00:08:22,440
+kellett ki kellett bányászniuk
+
+198
+00:08:18,960 --> 00:08:24,639
+gyakorlatilag ilyen egyedi legyen.
+
+199
+00:08:22,440 --> 00:08:28,039
+És hát beszéltünk erről, hogy van olyan,
+
+200
+00:08:24,639 --> 00:08:30,479
+hogy ez nem mindig működik, mert esetleg
+
+201
+00:08:28,039 --> 00:08:32,440
+ilyen kibertámadás alatt van. Ugye ez
+
+202
+00:08:30,479 --> 00:08:34,959
+azt jelenti, hogy nem elérhető. Ilyenkor
+
+203
+00:08:32,440 --> 00:08:37,880
+nem tud pénzt elveszni, mert pénzt nem
+
+204
+00:08:34,959 --> 00:08:40,760
+küldünk. Magának a a váltónak nem adunk
+
+205
+00:08:37,880 --> 00:08:42,959
+át pénzt soha. Esetleg vitás esetekben
+
+206
+00:08:40,760 --> 00:08:44,680
+kerülhet hozzájuk, és akkor moderátorral
+
+207
+00:08:42,959 --> 00:08:47,040
+kommunikálva kell megoldani, hogy
+
+208
+00:08:44,680 --> 00:08:48,600
+visszakerüljön. De alapvetően ilyen
+
+209
+00:08:47,040 --> 00:08:50,880
+failer mód, ami azt jelenti, hogy amikor
+
+210
+00:08:48,600 --> 00:08:52,959
+hibára fut a dolog, akkor a pénz
+
+211
+00:08:50,880 --> 00:08:54,880
+egyszerűen visszakerül a kiinduló
+
+212
+00:08:52,959 --> 00:08:57,080
+tárcába. Illetve vannak itt applikációk,
+
+213
+00:08:54,880 --> 00:08:59,680
+amit le lehet töltani Androidra. Hát ez
+
+214
+00:08:57,080 --> 00:09:02,399
+csak így gitubon keresztül egy apkát,
+
+215
+00:08:59,680 --> 00:09:04,279
+nincs benne az app storeokban,
+
+216
+00:09:02,399 --> 00:09:06,040
+illetve van applikáció egyébként
+
+217
+00:09:04,279 --> 00:09:07,920
+desktopra is, de bevall azt én sem
+
+218
+00:09:06,040 --> 00:09:09,800
+használom, mert a to browser tökéletes.
+
+219
+00:09:07,920 --> 00:09:12,519
+Tehát ez kell hozzá. Fogja az ember ezt
+
+220
+00:09:09,800 --> 00:09:14,640
+az onion címet és ide bevásolja. Meg is
+
+221
+00:09:12,519 --> 00:09:16,920
+csinálom, hogy előről kezdjük.
+
+222
+00:09:14,640 --> 00:09:19,480
+Gyakorlatilag ez elválható, hogy
+
+223
+00:09:16,920 --> 00:09:21,079
+ilyenkor pár másodpercig pörög,
+
+224
+00:09:19,480 --> 00:09:23,880
+de most már ugye, mert csatlakozó
+
+225
+00:09:21,079 --> 00:09:25,240
+voltunk, itt elindul, és akkor itt végig
+
+226
+00:09:23,880 --> 00:09:29,079
+fogunk menni azokon a lépéseken, hogy
+
+227
+00:09:25,240 --> 00:09:31,399
+hogy is indul el az egész. Tehát itt még
+
+228
+00:09:29,079 --> 00:09:32,720
+nincs semmilyen nincs saját robotunk.
+
+229
+00:09:31,399 --> 00:09:36,519
+Itt a robot az azt jelenti, hogy egy
+
+230
+00:09:32,720 --> 00:09:38,760
+ilyen saját kis
+
+231
+00:09:36,519 --> 00:09:40,160
+számla vagy account, amit amit tudunk
+
+232
+00:09:38,760 --> 00:09:42,079
+nyitni.
+
+233
+00:09:40,160 --> 00:09:44,200
+>> Bocsánat. Tehát létrehozol egy robot,
+
+234
+00:09:42,079 --> 00:09:45,880
+ugye? Igen, igen. Létre fogok hozni egy
+
+235
+00:09:44,200 --> 00:09:47,800
+robot, de közben csak végigkattintatom
+
+236
+00:09:45,880 --> 00:09:49,680
+itt, hogy mik vannak itt alul, hogy a
+
+237
+00:09:47,800 --> 00:09:52,920
+következő, tehát anélkül, hogy
+
+238
+00:09:49,680 --> 00:09:55,000
+létrehoznánk itt még egy saját
+
+239
+00:09:52,920 --> 00:09:58,120
+kulcsot, gyakorlatilag
+
+240
+00:09:55,000 --> 00:10:00,600
+meg lehet nézni, hogy mi van kínálatban.
+
+241
+00:09:58,120 --> 00:10:02,600
+És akkor mondjuk azt nézzük, hogy hát
+
+242
+00:10:00,600 --> 00:10:04,120
+itt van sokféle fizetési mód, lehet
+
+243
+00:10:02,600 --> 00:10:06,720
+beadni
+
+244
+00:10:04,120 --> 00:10:08,640
+saját opciókat is. Itt Magyarországon
+
+245
+00:10:06,720 --> 00:10:13,240
+talán a Revoluta a legkönnyebben
+
+246
+00:10:08,640 --> 00:10:15,399
+elérhető, illetve van itt ilyen SEPA
+
+247
+00:10:13,240 --> 00:10:17,120
+fizetésű mód, esetleg ugye az euro
+
+248
+00:10:15,399 --> 00:10:19,440
+utalás, instant CEPA, ugye attól függ,
+
+249
+00:10:17,120 --> 00:10:21,399
+hogy kinek milyen accountja van. Ugye
+
+250
+00:10:19,440 --> 00:10:26,360
+hozzá lehet adni kettőt is. És akkor
+
+251
+00:10:21,399 --> 00:10:28,240
+mondjuk hát most meg se nézem a magyar
+
+252
+00:10:26,360 --> 00:10:30,320
+forint offeröket, mert arról tudnánk,
+
+253
+00:10:28,240 --> 00:10:32,200
+mivel a Telegram csoportunkban van egy
+
+254
+00:10:30,320 --> 00:10:35,200
+Bos beépítve, ami automatikusan értesít
+
+255
+00:10:32,200 --> 00:10:37,760
+róla, hogyha felkerül egy eladó, egy ki
+
+256
+00:10:35,200 --> 00:10:40,600
+kínáló forintban, így aztán maradunk az
+
+257
+00:10:37,760 --> 00:10:42,440
+eurónál, ami a legkönnyebben kezelhető
+
+258
+00:10:40,600 --> 00:10:44,200
+általában
+
+259
+00:10:42,440 --> 00:10:46,800
+a régiónkban.
+
+260
+00:10:44,200 --> 00:10:51,000
+És itt láthatjuk is, hogy mondjuk
+
+261
+00:10:46,800 --> 00:10:53,120
+rendezzük a prémium szerint
+
+262
+00:10:51,000 --> 00:10:55,880
+valaki
+
+263
+00:10:53,120 --> 00:10:59,000
+például 10%-kor olcsóban adja itt a
+
+264
+00:10:55,880 --> 00:11:02,200
+40-től 590€ig
+
+265
+00:10:59,000 --> 00:11:04,880
+terjedő szatosiait. Várjál, itt meg be
+
+266
+00:11:02,200 --> 00:11:06,800
+kell, hogy mit akarunk csinálni. Venni
+
+267
+00:11:04,880 --> 00:11:08,760
+akarunk. Így van. Na, akkor így mindjárt
+
+268
+00:11:06,800 --> 00:11:12,720
+más a helyzet. Igen.
+
+269
+00:11:08,760 --> 00:11:15,079
+>> Itt már a legolcsóbb offer az 6,8%.
+
+270
+00:11:12,720 --> 00:11:15,800
+Tehát azt jelenti, hogy annyi felárak.
+
+271
+00:11:15,079 --> 00:11:18,839
+>> Ühüm.
+
+272
+00:11:15,800 --> 00:11:21,160
+>> Annak annak ahhoz képest, mint a
+
+273
+00:11:18,839 --> 00:11:24,920
+mintogyha közép áron vásárolnánk egy
+
+274
+00:11:21,160 --> 00:11:27,800
+exchange-en. Hát ez ennek több oka van,
+
+275
+00:11:24,920 --> 00:11:29,120
+hogy miért van így. Egyrészt ugye valaki
+
+276
+00:11:27,800 --> 00:11:32,440
+ezt csak felteszi, és hogyha valaki
+
+277
+00:11:29,120 --> 00:11:33,360
+elviszi, akkor örül. Ennyiért boldog,
+
+278
+00:11:32,440 --> 00:11:35,920
+hogyha eladja.
+
+279
+00:11:33,360 --> 00:11:38,600
+>> Akkor az a mínuszos felár, bocsi, az egy
+
+280
+00:11:35,920 --> 00:11:39,720
+igény volt. Igazából valaki olcsóbban
+
+281
+00:11:38,600 --> 00:11:41,279
+szeretne bitcoint venni.
+
+282
+00:11:39,720 --> 00:11:43,639
+>> Olcsóban szeretne venni. Így van. Így
+
+283
+00:11:41,279 --> 00:11:45,639
+van. Tehát ez is egy oportunista hozzá.
+
+284
+00:11:43,639 --> 00:11:46,800
+>> Igen. Furcsa furcsa ajánlat volt, hogy
+
+285
+00:11:45,639 --> 00:11:48,959
+mínuszosára legyen.
+
+286
+00:11:46,800 --> 00:11:50,240
+>> Igen. Lehet vele élni.
+
+287
+00:11:48,959 --> 00:11:52,200
+>> Persze. Tehát most hogyha össze valaki
+
+288
+00:11:50,240 --> 00:11:54,720
+felrakja, érted? Ezt nem fogja tudni
+
+289
+00:11:52,200 --> 00:11:56,760
+megmondani, hogy betöltődik vagy nem,
+
+290
+00:11:54,720 --> 00:11:58,440
+vagy idő után leveszi. Ez ingyen van.
+
+291
+00:11:56,760 --> 00:12:01,440
+Tehát nem probléma az, hogyha hogyha
+
+292
+00:11:58,440 --> 00:12:03,720
+felteszi bármilyen offeröket. De az bizt
+
+293
+00:12:01,440 --> 00:12:06,160
+az valószínű, hogy ha valaki éppen akar
+
+294
+00:12:03,720 --> 00:12:08,760
+adni 40-től 590 EUR-ig, akkor így
+
+295
+00:12:06,160 --> 00:12:11,600
+gyorsan megteheti. De mondjuk marad
+
+296
+00:12:08,760 --> 00:12:13,800
+maradjunk a a vásárlási szándéknál, mert
+
+297
+00:12:11,600 --> 00:12:15,760
+ez a ez gyakorib talán. Tehát miért van
+
+298
+00:12:13,800 --> 00:12:18,760
+itt ekkora felár? Tehát itt két dolog
+
+299
+00:12:15,760 --> 00:12:22,680
+van. Egyrészt az, hogy ehhez nem kell a
+
+300
+00:12:18,760 --> 00:12:24,320
+az identitásod fel fenni
+
+301
+00:12:22,680 --> 00:12:26,360
+azon túl, hogy csinálsz egy banki
+
+302
+00:12:24,320 --> 00:12:28,760
+tranzakciót, vagy egy kártyás fizetést,
+
+303
+00:12:26,360 --> 00:12:32,199
+de ugye ezt nem a mondjuk egy revolú,
+
+304
+00:12:28,760 --> 00:12:34,720
+hogyha fizetsz, akkor ez felfedi a
+
+305
+00:12:32,199 --> 00:12:37,240
+keresztnevedet és a legalább a
+
+306
+00:12:34,720 --> 00:12:39,639
+vezetéknevednek az első betűjét például.
+
+307
+00:12:37,240 --> 00:12:42,079
+Ezt ugye az eladó látni fogja. szintén
+
+308
+00:12:39,639 --> 00:12:44,519
+ugye a bankszámlóadatok azok kikerülnek
+
+309
+00:12:42,079 --> 00:12:47,440
+akkor, hogyha egy bankiáltatalást végzel
+
+310
+00:12:44,519 --> 00:12:50,079
+el mondjuk sepá keresztül. Ugye a VI az
+
+311
+00:12:47,440 --> 00:12:52,199
+is ugye a transfer Wis-eból kialakult
+
+312
+00:12:50,079 --> 00:12:53,839
+Wise, ez is egy hasonló szolgáltató,
+
+313
+00:12:52,199 --> 00:12:56,199
+mint a Revolute. Kicsit máshogy működik,
+
+314
+00:12:53,839 --> 00:12:58,880
+de ott is ugye ilyen felhasználóvekhez
+
+315
+00:12:56,199 --> 00:13:03,800
+kötődnek a a tranzakciók. Hát fiattal
+
+316
+00:12:58,880 --> 00:13:05,000
+ezt online módon nehéz el kerülni.
+
+317
+00:13:03,800 --> 00:13:08,000
+feljöttek itt ilyen alternatív
+
+318
+00:13:05,000 --> 00:13:11,279
+megoldások, hogy esetleg ilyen online
+
+319
+00:13:08,000 --> 00:13:13,160
+fizetési linkeket lehet megosztani, de
+
+320
+00:13:11,279 --> 00:13:15,199
+ezt így nem tudom elmondani, mint egy
+
+321
+00:13:13,160 --> 00:13:17,160
+sztenderd megoldást, hanem ezek
+
+322
+00:13:15,199 --> 00:13:19,240
+esetlegesen működhetnek. Az alapvető
+
+323
+00:13:17,160 --> 00:13:20,880
+dolog az, hogy mondjuk revolutun
+
+324
+00:13:19,240 --> 00:13:23,880
+keresztül vagy átalással tudsz
+
+325
+00:13:20,880 --> 00:13:26,800
+vásárolni. És a másik dolog, amiért ez
+
+326
+00:13:23,880 --> 00:13:29,120
+drágább lehet, az, hogy ez gyors. Tehát
+
+327
+00:13:26,800 --> 00:13:32,040
+igazából, hogyha az ember tudja, hogy
+
+328
+00:13:29,120 --> 00:13:34,639
+hova kattint, és egyből rendelkezésre
+
+329
+00:13:32,040 --> 00:13:36,440
+áll a másik fél, akkor
+
+330
+00:13:34,639 --> 00:13:37,920
+egy perc alatt le lehet ezt rendezni.
+
+331
+00:13:36,440 --> 00:13:41,480
+Onnantól kezdve megnyittuk a weboldalt,
+
+332
+00:13:37,920 --> 00:13:43,920
+és ott van a pénztcánkban a a Bitcoin.
+
+333
+00:13:41,480 --> 00:13:45,360
+Úgyhogy ez lehetséges mondjuk egy KY
+
+334
+00:13:43,920 --> 00:13:48,480
+exchange-enlél, ahol megnyitod a
+
+335
+00:13:45,360 --> 00:13:51,519
+weboldalt és akkor a ja, hogy kell a
+
+336
+00:13:48,480 --> 00:13:53,199
+útlevelem meg a fizetésemről egy
+
+337
+00:13:51,519 --> 00:13:55,399
+bankszámlak kivonat
+
+338
+00:13:53,199 --> 00:13:56,800
+>> meg egy közüzemi számla.
+
+339
+00:13:55,399 --> 00:13:59,199
+>> Közüzemi a legjobb.
+
+340
+00:13:56,800 --> 00:14:03,000
+>> És akkor várunk pár napot, hogy akkor ez
+
+341
+00:13:59,199 --> 00:14:05,160
+jó lesz-e. Sokszor nem jó, akkor
+
+342
+00:14:03,000 --> 00:14:08,079
+lehet beszélgetni a supporttal. De hát
+
+343
+00:14:05,160 --> 00:14:09,639
+ezt kerüljük meg. És ezért ez egy kicsit
+
+344
+00:14:08,079 --> 00:14:11,920
+ezt azért értékelik az emberek. Tehát
+
+345
+00:14:09,639 --> 00:14:14,240
+ezek így az offerekről sok, tehát
+
+346
+00:14:11,920 --> 00:14:19,399
+mindenki alapján lehet szűrni. Láthatjuk
+
+347
+00:14:14,240 --> 00:14:21,000
+azért, hogy így világszerte most van egy
+
+348
+00:14:19,399 --> 00:14:24,079
+1600
+
+349
+00:14:21,000 --> 00:14:26,000
+hirdetés, hogyha
+
+350
+00:14:24,079 --> 00:14:27,759
+így jól számolom.
+
+351
+00:14:26,000 --> 00:14:30,279
+Igen. És még ráadásul szűrtünk is.
+
+352
+00:14:27,759 --> 00:14:32,920
+Bocsánat. 6400
+
+353
+00:14:30,279 --> 00:14:34,920
+eladó. Nem tettünk. Igen. Tehát ez mind
+
+354
+00:14:32,920 --> 00:14:36,199
+eladó bitcoin, csak van úgy, hogy
+
+355
+00:14:34,920 --> 00:14:38,519
+altcoinokkal is lehet fizetni. Tehát
+
+356
+00:14:36,199 --> 00:14:40,959
+például Moniróval vagy Teterrel vagy
+
+357
+00:14:38,519 --> 00:14:42,519
+hasonló hasonló dolgokkal, bármivel
+
+358
+00:14:40,959 --> 00:14:44,199
+lehet fizetni gyakorlatilag, de mindig
+
+359
+00:14:42,519 --> 00:14:45,199
+ugye ez így Bitcoin Lightning van a
+
+360
+00:14:44,199 --> 00:14:45,680
+tranzakcióban.
+
+361
+00:14:45,199 --> 00:14:47,880
+>> Ühüm.
+
+362
+00:14:45,680 --> 00:14:52,759
+>> Hogyha nem találjuk meg a megfelelőt,
+
+363
+00:14:47,880 --> 00:14:54,320
+akkor ugye ebben a create lépésben lehet
+
+364
+00:14:52,759 --> 00:14:55,800
+feladni. Ezt ezt meg is fogom mutatni.
+
+365
+00:14:54,320 --> 00:14:59,079
+Feladni saját hirdetést, ez nagyon
+
+366
+00:14:55,800 --> 00:15:00,639
+egyszerű. És hát utána már csak ezek a
+
+367
+00:14:59,079 --> 00:15:02,120
+beállítások vannak, ahol itt be lehet
+
+368
+00:15:00,639 --> 00:15:05,959
+állítani, hogy legyen mondjuk dark
+
+369
+00:15:02,120 --> 00:15:08,600
+módja. Magyarul nincsen sajnos még.
+
+370
+00:15:05,959 --> 00:15:10,480
+De ugye ez egy egész ez az egész rajt
+
+371
+00:15:08,600 --> 00:15:13,440
+van gitan ez egy open source nyílt
+
+372
+00:15:10,480 --> 00:15:15,360
+forráskódú platform, illetve az appok
+
+373
+00:15:13,440 --> 00:15:16,680
+is, tehát mint a web app, mint az app
+
+374
+00:15:15,360 --> 00:15:18,600
+appok is, amit a telefonra lehet
+
+375
+00:15:16,680 --> 00:15:21,519
+telepíteni. Ezekkel nyílt forráskóak
+
+376
+00:15:18,600 --> 00:15:22,920
+szabadon szabadon változtathatók, sőt
+
+377
+00:15:21,519 --> 00:15:24,160
+szabadon lehet ilyen koordinátort is
+
+378
+00:15:22,920 --> 00:15:25,399
+futtatni, hogyha valaki erre adná a
+
+379
+00:15:24,160 --> 00:15:27,800
+fejét.
+
+380
+00:15:25,399 --> 00:15:29,600
+illetve most éppen Loseren
+
+381
+00:15:27,800 --> 00:15:33,319
+kommunikálunk,
+
+382
+00:15:29,600 --> 00:15:36,000
+ami érdekes lehet koordinátokra
+
+383
+00:15:33,319 --> 00:15:38,560
+rákattint látni, hogy itt van azért
+
+384
+00:15:36,000 --> 00:15:40,240
+ebből is már kínálat. Ez eggyel indult.
+
+385
+00:15:38,560 --> 00:15:42,040
+Nehéz rám mondani, hogy hány éve, vagyis
+
+386
+00:15:40,240 --> 00:15:45,199
+hát nem emlékszem, csak nem olyan nehéz
+
+387
+00:15:42,040 --> 00:15:49,680
+megmondani, de az az eredeti koordinátor
+
+388
+00:15:45,199 --> 00:15:51,440
+már nincsen, hanem átadta stafétát
+
+389
+00:15:49,680 --> 00:15:54,000
+először négy másiknak, aztán
+
+390
+00:15:51,440 --> 00:15:55,279
+csatlakoztak hozzá még még négyen. És ez
+
+391
+00:15:54,000 --> 00:15:57,319
+is olyan, hogyha valaki ilyet futtat,
+
+392
+00:15:55,279 --> 00:15:58,959
+akkor a GitHubon lehet ilyen pó questet
+
+393
+00:15:57,319 --> 00:16:00,360
+beadni, hogy ő is szeretne rajta lenni
+
+394
+00:15:58,959 --> 00:16:03,560
+ezen a listán, és akkor egymásra
+
+395
+00:16:00,360 --> 00:16:06,120
+kommunikálnak, és bármelyiknek a címén
+
+396
+00:16:03,560 --> 00:16:07,880
+bejön a többir is. Tehát egy közös közös
+
+397
+00:16:06,120 --> 00:16:09,240
+kínálat van, közös orderbook van. Itt
+
+398
+00:16:07,880 --> 00:16:13,480
+most egy olyan trükköt csinálok, ezt be
+
+399
+00:16:09,240 --> 00:16:15,440
+is raktam dark modeba. Ő lesz a
+
+400
+00:16:13,480 --> 00:16:17,800
+az egyik
+
+401
+00:16:15,440 --> 00:16:20,319
+a vevő. Legyen legyen az eladó a a
+
+402
+00:16:17,800 --> 00:16:22,199
+baloldali és legyen a vevő a jobb
+
+403
+00:16:20,319 --> 00:16:23,600
+oldali. Itt ez természetesen nem
+
+404
+00:16:22,199 --> 00:16:25,639
+politikai asszociáció. Csak
+
+405
+00:16:23,600 --> 00:16:28,720
+>> akkor cseréljük meg a színeket. Mi?
+
+406
+00:16:25,639 --> 00:16:31,959
+>> Képernyől a pozíció. Jó, színek
+
+407
+00:16:28,720 --> 00:16:34,920
+maradnak. Itt az egyik egy Brave browser
+
+408
+00:16:31,959 --> 00:16:36,639
+a Tour privát ablaka, másik pedig egy
+
+409
+00:16:34,920 --> 00:16:37,959
+egy Tour browser egyébként.
+
+410
+00:16:36,639 --> 00:16:39,639
+>> Csak akkor most egy tranzakciót
+
+411
+00:16:37,959 --> 00:16:41,199
+demonstrálsz, ugye?
+
+412
+00:16:39,639 --> 00:16:42,839
+>> Igen, igen. Egy ilyen ezt szeretném
+
+413
+00:16:41,199 --> 00:16:44,880
+megcsinálni, hogy feladunk egy hirdetést
+
+414
+00:16:42,839 --> 00:16:46,079
+és elfogadjuk a másikkal. Itt azt is
+
+415
+00:16:44,880 --> 00:16:48,279
+láthatod, hogy itt egy másik
+
+416
+00:16:46,079 --> 00:16:50,680
+koordinátornak a címe van itt jobbra. Ő
+
+417
+00:16:48,279 --> 00:16:52,680
+aziszem a Temple of Temple of Sets nevű,
+
+418
+00:16:50,680 --> 00:16:55,920
+de ez nem kellene megakadályozon abban,
+
+419
+00:16:52,680 --> 00:16:57,240
+hogy működjön. Szóval először is
+
+420
+00:16:55,920 --> 00:16:59,000
+generálunk egy robotot mind a két
+
+421
+00:16:57,240 --> 00:17:00,440
+oldalon. Itt csak kattingatni kell.
+
+422
+00:16:59,000 --> 00:17:02,240
+Gyakorlatilag ez a generate token, az
+
+423
+00:17:00,440 --> 00:17:05,120
+azt jelenti, hogy egy random karakter
+
+424
+00:17:02,240 --> 00:17:07,720
+sort itt kiírt. Ez a privát kulcsunk. Na
+
+425
+00:17:05,120 --> 00:17:09,079
+most ezt szerencsére nem élő a felvétel,
+
+426
+00:17:07,720 --> 00:17:13,240
+úgyhogy csak beletépoztom meg így a
+
+427
+00:17:09,079 --> 00:17:16,120
+screenshaben, de azzal kezdem, hogy
+
+428
+00:17:13,240 --> 00:17:19,919
+kimásolom egy textplbe vagy egy
+
+429
+00:17:16,120 --> 00:17:22,480
+szövegszerkesztőbe, de berakhatnám
+
+430
+00:17:19,919 --> 00:17:24,720
+a nem tudom, Bitwarden jelszókezelőbe
+
+431
+00:17:22,480 --> 00:17:27,199
+is, meg hasonló helyekre. Ennek a privát
+
+432
+00:17:24,720 --> 00:17:29,320
+kulcsnak a birtokában elő tudom venni
+
+433
+00:17:27,199 --> 00:17:31,679
+újra ezt a profilomat. Tehát amit ide
+
+434
+00:17:29,320 --> 00:17:33,559
+létrehozok, azt megnyitom az app
+
+435
+00:17:31,679 --> 00:17:35,480
+megnyitok egy másik böngészőt, azt
+
+436
+00:17:33,559 --> 00:17:37,720
+vissza tudom állítani. Ezért kell
+
+437
+00:17:35,480 --> 00:17:39,440
+elmenteni, mert ugye ez egy fontos
+
+438
+00:17:37,720 --> 00:17:41,679
+információ, amire felhízták a figyelmet,
+
+439
+00:17:39,440 --> 00:17:43,200
+hogy hogy ezt mondani kell, hogy ha most
+
+440
+00:17:41,679 --> 00:17:45,160
+lefrissítem ezt az oldalt, akkor az
+
+441
+00:17:43,200 --> 00:17:48,280
+egész elveszik, mivel ez a mivel ez egy
+
+442
+00:17:45,160 --> 00:17:49,640
+privát ablakban fut, illetve a Torb is
+
+443
+00:17:48,280 --> 00:17:51,559
+így működik alapból, hogy mindent
+
+444
+00:17:49,640 --> 00:17:54,280
+elfelejt, amit újraindítod. Úgyhogy
+
+445
+00:17:51,559 --> 00:17:55,600
+ezért mentettük el ezt a kis stringet.
+
+446
+00:17:54,280 --> 00:17:58,559
+>> Jó nevet kaptál.
+
+447
+00:17:55,600 --> 00:17:59,280
+>> Orif horrific routin. Csodás. Jó lesz.
+
+448
+00:17:58,559 --> 00:18:01,159
+Tehát
+
+449
+00:17:59,280 --> 00:18:02,200
+>> igaz, mert ez egy horrific rutin, a
+
+450
+00:18:01,159 --> 00:18:04,000
+110-es.
+
+451
+00:18:02,200 --> 00:18:07,200
+>> Jó, oké. Oké, mehet. És akkor itt
+
+452
+00:18:04,000 --> 00:18:10,400
+asszciál hozzá egy kis képet is. És
+
+453
+00:18:07,200 --> 00:18:13,559
+ennyi volt a kreálás. Innentől kezdve
+
+454
+00:18:10,400 --> 00:18:17,400
+mehetünk oda, hogy csináljunk egy ilyen
+
+455
+00:18:13,559 --> 00:18:18,720
+offert. És akkor most csináljunk egy
+
+456
+00:18:17,400 --> 00:18:22,200
+>> forint, ez az
+
+457
+00:18:18,720 --> 00:18:25,919
+>> forintot. És mondjuk
+
+458
+00:18:22,200 --> 00:18:28,360
+3500 Ft a minimum, úgyhogy legyen 5000
+
+459
+00:18:25,919 --> 00:18:30,720
+Ft, hogy nem tudom, hogy egyszerű
+
+460
+00:18:28,360 --> 00:18:32,039
+legyen. Hát hogy mondjam? Valahogy így
+
+461
+00:18:30,720 --> 00:18:33,400
+jelezni szeretném, hogy ezt ne vigy ne
+
+462
+00:18:32,039 --> 00:18:34,960
+vigyék el. Tehát nem fogok itt
+
+463
+00:18:33,400 --> 00:18:39,720
+bekattintani Revolutot meg hasonlót,
+
+464
+00:18:34,960 --> 00:18:41,440
+hanem beírom, hogy 21 podcast teszt, és
+
+465
+00:18:39,720 --> 00:18:43,000
+ez lesz a neve, ami megjelenik.
+
+466
+00:18:41,440 --> 00:18:44,600
+>> Ja, a fizetési módnak.
+
+467
+00:18:43,000 --> 00:18:46,720
+>> Igen, ez lesz a fizetési mód. Így van.
+
+468
+00:18:44,600 --> 00:18:49,039
+Tehát, hogy hozzáadhatnék, hogy még
+
+469
+00:18:46,720 --> 00:18:50,600
+amúgy elfogadunk Revoluton is, vagy
+
+470
+00:18:49,039 --> 00:18:52,000
+Strike-on esetleg, ugye a Strike
+
+471
+00:18:50,600 --> 00:18:54,000
+>> ebédjegyet.
+
+472
+00:18:52,000 --> 00:18:56,640
+>> Ebédjegyet, igen, azt is beírhatnám.
+
+473
+00:18:54,000 --> 00:18:58,520
+Tehát abszolút, hogyha van digitális
+
+474
+00:18:56,640 --> 00:18:59,919
+módja, annak úgy átküld. Bár
+
+475
+00:18:58,520 --> 00:19:00,360
+screenshottal is működik, talán
+
+476
+00:18:59,919 --> 00:19:02,480
+kinyomtat.
+
+477
+00:19:00,360 --> 00:19:04,919
+>> Ebben az esetben, ha strike fizetési
+
+478
+00:19:02,480 --> 00:19:08,640
+módot adsz, akkor az mondjuk a strike
+
+479
+00:19:04,919 --> 00:19:09,600
+accountjain közötti euró egyenleget
+
+480
+00:19:08,640 --> 00:19:11,760
+>> abszolút Igen. Igen.
+
+481
+00:19:09,600 --> 00:19:13,159
+>> Módosítaná. Aha. Tehát ez a fizetési
+
+482
+00:19:11,760 --> 00:19:15,679
+módok, mindegyik úgy működik, hogy
+
+483
+00:19:13,159 --> 00:19:19,880
+amikor elfogadjuk egy elfogadunk egy
+
+484
+00:19:15,679 --> 00:19:22,480
+ilyen egy ilyen hirdetést, akkor amikor
+
+485
+00:19:19,880 --> 00:19:24,679
+lerakzuk a security depozitot, ezt a kis
+
+486
+00:19:22,480 --> 00:19:26,039
+biztonsági letétet, akkor meg fog
+
+487
+00:19:24,679 --> 00:19:27,360
+nyitni, meg fog nyírni egy chat ablak,
+
+488
+00:19:26,039 --> 00:19:29,400
+és akkor ott fogjuk megbeszélni a
+
+489
+00:19:27,360 --> 00:19:32,080
+eladóval vagy vevővel, hogy figyelj,
+
+490
+00:19:29,400 --> 00:19:34,120
+akkor küld át erre a felhasználó névre,
+
+491
+00:19:32,080 --> 00:19:36,080
+vagy ez is ez a szám, vagy satöbbi.
+
+492
+00:19:34,120 --> 00:19:37,840
+Tehát, hogy itt van egy ilyen humán
+
+493
+00:19:36,080 --> 00:19:39,039
+lépés, amit amit nem lehet megkerülni.
+
+494
+00:19:37,840 --> 00:19:41,480
+Úgyhogy ez csak egy nagyjából egy ilyen
+
+495
+00:19:39,039 --> 00:19:43,080
+körülbelüli dolog ez a fizetési mód, de
+
+496
+00:19:41,480 --> 00:19:44,480
+mondjuk elég egyértelmű, hogy a a
+
+497
+00:19:43,080 --> 00:19:46,679
+Revolut mit jelent, vagy a kes mit
+
+498
+00:19:44,480 --> 00:19:49,440
+jelent, vagy vagy az összes többit, amit
+
+499
+00:19:46,679 --> 00:19:52,159
+nem ismerünk, pedig azok is saját dolgok
+
+500
+00:19:49,440 --> 00:19:54,640
+van. Itt Amazon ajándékkártyától kezdve
+
+501
+00:19:52,159 --> 00:19:56,200
+bármi. Ugye ez Dél-Amerikában Spanyol
+
+502
+00:19:54,640 --> 00:19:58,600
+nyelvterületen indult ennek a
+
+503
+00:19:56,200 --> 00:20:01,000
+fejlesztése, tehát nagyon sok minden
+
+504
+00:19:58,600 --> 00:20:01,440
+van, ami ami számunkra ismeretlen, de
+
+505
+00:20:01,000 --> 00:20:02,919
+ühüm
+
+506
+00:20:01,440 --> 00:20:05,960
+>> mondom ez egy ez egy szabad lista, és
+
+507
+00:20:02,919 --> 00:20:07,320
+lehet hozzá ilyen bármit is hozzáadni.
+
+508
+00:20:05,960 --> 00:20:08,799
+Van ilyen egy face to face location. Na
+
+509
+00:20:07,320 --> 00:20:10,520
+most ez érdekes lehet, nem? Hogyha én
+
+510
+00:20:08,799 --> 00:20:12,880
+most azt mondanám, hogy azt keresem,
+
+511
+00:20:10,520 --> 00:20:16,200
+hogy én itt akarok eladni mondjuk
+
+512
+00:20:12,880 --> 00:20:17,880
+Budapestnek a külterületén. Ezt nem
+
+513
+00:20:16,200 --> 00:20:19,919
+próbáltam. Ez érdekes, hogy akkor kell-e
+
+514
+00:20:17,880 --> 00:20:22,919
+robózcot használni. Ugye van van ez a
+
+515
+00:20:19,919 --> 00:20:25,000
+biztonságos escro letét kezelése a
+
+516
+00:20:22,919 --> 00:20:28,679
+Robosarcnak, amit amit lehet használni
+
+517
+00:20:25,000 --> 00:20:31,919
+akár egy egy személyes
+
+518
+00:20:28,679 --> 00:20:34,000
+kereskedés lépésnél is. Most az érdekes
+
+519
+00:20:31,919 --> 00:20:36,799
+dolog, hogy ugye ez a premium over
+
+520
+00:20:34,000 --> 00:20:38,159
+market. Most itt mutatja, hogy a current
+
+521
+00:20:36,799 --> 00:20:41,600
+rate az azt jelenti, hogy jelenlegi
+
+522
+00:20:38,159 --> 00:20:43,039
+árfolyam az 22 millió Ft per BTC. Most
+
+523
+00:20:41,600 --> 00:20:46,840
+ilyenkor gyorsan meg szoktam nézni, hogy
+
+524
+00:20:43,039 --> 00:20:49,520
+mennyi a az én forrásaim szerint a a
+
+525
+00:20:46,840 --> 00:20:51,960
+BTC árfolyam forintban, és én azt látom,
+
+526
+00:20:49,520 --> 00:20:54,679
+hogy 22171,
+
+527
+00:20:51,960 --> 00:20:58,360
+tehát ez egy kicsit több. Úgyhogy akkor
+
+528
+00:20:54,679 --> 00:20:58,360
+mondjuk menjünk -0,3%-kal.
+
+529
+00:20:59,840 --> 00:21:06,080
+Na, ez még kevés.
+
+530
+00:21:02,600 --> 00:21:10,720
+Mínusz. Na hát ez már így kezd. -1,5
+
+531
+00:21:06,080 --> 00:21:13,720
+lesz a sweet spot. Akkor 2 22 milló 160
+
+532
+00:21:10,720 --> 00:21:16,400
+lett, ami közelebb van a az én
+
+533
+00:21:13,720 --> 00:21:18,520
+forrásomhoz, ami egy agregált,
+
+534
+00:21:16,400 --> 00:21:21,720
+megbízható dolog, mint ami a rosszatsz.
+
+535
+00:21:18,520 --> 00:21:22,799
+Aiszem egy jadó vagy a forráskor meg
+
+536
+00:21:21,720 --> 00:21:25,159
+lehet nézni, hogy melyik
+
+537
+00:21:22,799 --> 00:21:27,200
+árfolyamszolgáltatóhoz csatlakozik. És
+
+538
+00:21:25,159 --> 00:21:29,039
+ezt
+
+539
+00:21:27,200 --> 00:21:30,080
+ennek van azért néha csúszása. Nem olyan
+
+540
+00:21:29,039 --> 00:21:32,960
+nagy, de
+
+541
+00:21:30,080 --> 00:21:35,240
+>> főleg a forinthoz gondolom, ami szintén
+
+542
+00:21:32,960 --> 00:21:37,440
+egy származtatott árfolyam.
+
+543
+00:21:35,240 --> 00:21:40,600
+>> Igen, igen, igen. Az több rétegben, több
+
+544
+00:21:37,440 --> 00:21:41,960
+rétegben származtatott. És akkor hát
+
+545
+00:21:40,600 --> 00:21:45,919
+használjuk ezt a Temple of sets
+
+546
+00:21:41,960 --> 00:21:48,679
+koordinátort. És itt ugye egyelőre csak
+
+547
+00:21:45,919 --> 00:21:51,159
+ezzel foglalkozok. Itt h megnyomom azt,
+
+548
+00:21:48,679 --> 00:21:53,000
+hogy create order. megint mondja, hogy
+
+549
+00:21:51,159 --> 00:21:56,520
+ezt a robot tokent, amit már
+
+550
+00:21:53,000 --> 00:22:01,039
+elmentettünk, ezt mentsuk el, mert ezzel
+
+551
+00:21:56,520 --> 00:22:03,600
+lehet előszedni ezt az offert utána is
+
+552
+00:22:01,039 --> 00:22:06,480
+máshonnan. És most következik az, hogy
+
+553
+00:22:03,600 --> 00:22:07,559
+átcsúsztunk ebbe az order fülre, és
+
+554
+00:22:06,480 --> 00:22:09,440
+akkor itt elmondja, hogy a
+
+555
+00:22:07,559 --> 00:22:12,440
+koordinátorokban ugye azért meg kell
+
+556
+00:22:09,440 --> 00:22:15,240
+bízni olyan szinten, hogy
+
+557
+00:22:12,440 --> 00:22:19,400
+ők képesek lennének el ellopni ezt a egy
+
+558
+00:22:15,240 --> 00:22:21,760
+ezt az egyszeri összeget akkor, hogyha
+
+559
+00:22:19,400 --> 00:22:24,279
+ugye rossz indul rossz indulatú
+
+560
+00:22:21,760 --> 00:22:26,039
+lenne, mert ez úgy működik, hogy ez egy
+
+561
+00:22:24,279 --> 00:22:27,279
+láthatunk itt a képernyő, ez egy
+
+562
+00:22:26,039 --> 00:22:29,640
+Lightning Game Boys, ugye így a
+
+563
+00:22:27,279 --> 00:22:33,840
+sűrűségéből a QR kódnak látszik, hogy ez
+
+564
+00:22:29,640 --> 00:22:36,000
+ez egy ilyen lenbc C1-es kis string. Ez
+
+565
+00:22:33,840 --> 00:22:38,799
+úgynevezett hold vagy hodel invoical
+
+566
+00:22:36,000 --> 00:22:42,600
+működik, hogy ugyanz kifizetem, de nem
+
+567
+00:22:38,799 --> 00:22:46,559
+fog a kifizetés végbe menni, hanem ilyen
+
+568
+00:22:42,600 --> 00:22:49,840
+függőben marad addig, amíg a koordinátor
+
+569
+00:22:46,559 --> 00:22:53,480
+el nem fogadja, vagy nem törli. És hát
+
+570
+00:22:49,840 --> 00:22:55,480
+itt a a boldog úton, tehát az a happy
+
+571
+00:22:53,480 --> 00:22:58,679
+path, amikor minden jól megy, akkor ez a
+
+572
+00:22:55,480 --> 00:23:02,039
+security depozit, ami egyébként 677
+
+573
+00:22:58,679 --> 00:23:05,320
+szatosi, azzem 3%-ot állítottunk be a
+
+574
+00:23:02,039 --> 00:23:07,159
+hogy 3%-a a tradelt összegnek, vagy
+
+575
+00:23:05,320 --> 00:23:08,799
+lehetne kevesebb, ez vissza fog térni a
+
+576
+00:23:07,159 --> 00:23:11,640
+walletbe. Szóval na lássuk is
+
+577
+00:23:08,799 --> 00:23:14,760
+egyszerűbb. Ezt most lemásoltam ezt a
+
+578
+00:23:11,640 --> 00:23:16,559
+lightning invoice- és átmegyünk a
+
+579
+00:23:14,760 --> 00:23:18,320
+lightning walletbe, ahova pedig
+
+580
+00:23:16,559 --> 00:23:22,440
+berakjuk.
+
+581
+00:23:18,320 --> 00:23:27,000
+from cliboard legyen. És akkor mutatja
+
+582
+00:23:22,440 --> 00:23:29,400
+is, hogy egészen 149 Ft érték szazosit
+
+583
+00:23:27,000 --> 00:23:31,360
+elküldünk.
+
+584
+00:23:29,400 --> 00:23:33,840
+Aha. És itt van egy egy hibára
+
+585
+00:23:31,360 --> 00:23:35,840
+futottunk.
+
+586
+00:23:33,840 --> 00:23:38,120
+Ez
+
+587
+00:23:35,840 --> 00:23:40,840
+erre számítottam, mert ezt a blitz
+
+588
+00:23:38,120 --> 00:23:43,880
+holetet ugyan próbáltam már a
+
+589
+00:23:40,840 --> 00:23:47,440
+telefonomon, de itt a webaletet nem
+
+590
+00:23:43,880 --> 00:23:50,799
+próbáltam még. Úgyhogy ebben az esetben
+
+591
+00:23:47,440 --> 00:23:53,640
+váltunk egy másikra a telefonomon, és
+
+592
+00:23:50,799 --> 00:23:55,480
+nem vesszük tovább a dolgot, hogy
+
+593
+00:23:53,640 --> 00:23:57,400
+beszkennelem ezt a QR codeot a
+
+594
+00:23:55,480 --> 00:23:59,559
+telefonomban, és így fogunk így fogunk
+
+595
+00:23:57,400 --> 00:24:03,400
+kifizetni. Hát ez csak annyit jelent,
+
+596
+00:23:59,559 --> 00:24:06,919
+hogy itt is látom majd, hogy ezt a pár
+
+597
+00:24:03,400 --> 00:24:09,200
+fortnyi dolgot kell kietnünk. És itt fog
+
+598
+00:24:06,919 --> 00:24:10,600
+is egy ilyen üzenetet írni a walletben,
+
+599
+00:24:09,200 --> 00:24:13,720
+amit most már itt sajnos a webben nem
+
+600
+00:24:10,600 --> 00:24:16,080
+látjuk, hogy ez nem fog végbe menni ez a
+
+601
+00:24:13,720 --> 00:24:18,799
+fizetés, hanem függőben fog maradni. És
+
+602
+00:24:16,080 --> 00:24:19,320
+most el is húztam. Elég blink palettet
+
+603
+00:24:18,799 --> 00:24:21,240
+használok, de
+
+604
+00:24:19,320 --> 00:24:22,799
+>> csinálj egy print screent a teladról, és
+
+605
+00:24:21,240 --> 00:24:24,200
+azt majd bevágj.
+
+606
+00:24:22,799 --> 00:24:25,520
+>> Ühüm. Jó ötlet.
+
+607
+00:24:24,200 --> 00:24:26,720
+>> Bocsárpi.
+
+608
+00:24:25,520 --> 00:24:27,080
+>> No problem.
+
+609
+00:24:26,720 --> 00:24:27,880
+>> Igen,
+
+610
+00:24:27,080 --> 00:24:29,159
+>> ez jó ötlet.
+
+611
+00:24:27,880 --> 00:24:29,960
+>> Csinálom a munkát.
+
+612
+00:24:29,159 --> 00:24:32,640
+>> Na tök jó.
+
+613
+00:24:29,960 --> 00:24:35,200
+>> És ezt kifizettük. Meg tudom majd
+
+614
+00:24:32,640 --> 00:24:36,840
+mutatni igazából a a fizetésnek a
+
+615
+00:24:35,200 --> 00:24:38,880
+történetét, és akkor az lesz a legjobb,
+
+616
+00:24:36,840 --> 00:24:40,600
+hogy milyen üzenetek jönnek fel. Ez
+
+617
+00:24:38,880 --> 00:24:42,880
+történt, tehát leraktam nem az egész
+
+618
+00:24:40,600 --> 00:24:46,039
+5000 Ft-ot, csak azt a 169 Ft-nyi
+
+619
+00:24:42,880 --> 00:24:49,159
+szatosit, és innentől kezdve bekerült a
+
+620
+00:24:46,039 --> 00:24:52,399
+az orderbookba a
+
+621
+00:24:49,159 --> 00:24:54,840
+ez a kínálat. És akkor most gyorsan
+
+622
+00:24:52,399 --> 00:24:57,120
+megcsináljuk a másik robotot is, aki el
+
+623
+00:24:54,840 --> 00:25:01,600
+fogja ezt vinni. Szintén elmentjük a
+
+624
+00:24:57,120 --> 00:25:04,679
+robot tokenjét. Ő ilyen rózsaszín lesz.
+
+625
+00:25:01,600 --> 00:25:06,320
+És rá is megyünk a
+
+626
+00:25:04,679 --> 00:25:10,480
+nem is kell itt keresnünk, csak
+
+627
+00:25:06,320 --> 00:25:13,600
+egyszerünk itt az offers tabra, és
+
+628
+00:25:10,480 --> 00:25:15,039
+megnézzük, hogy van-e valami forintban
+
+629
+00:25:13,600 --> 00:25:17,360
+>> ajánlatokat.
+
+630
+00:25:15,039 --> 00:25:22,640
+>> Az ajánlatokat. Igen. Megnézzük. Ő ezt
+
+631
+00:25:17,360 --> 00:25:26,240
+még nem látja. Lehet, hogy frissítünk
+
+632
+00:25:22,640 --> 00:25:28,120
+és átmegyünk ugyanarra a Onion címre.
+
+633
+00:25:26,240 --> 00:25:29,440
+>> Lehet, hogy mégis számít. Vagy csak van
+
+634
+00:25:28,120 --> 00:25:30,919
+egy delay? Mi?
+
+635
+00:25:29,440 --> 00:25:32,120
+>> Van egy delay. mindenképpen. De most
+
+636
+00:25:30,919 --> 00:25:35,559
+legalább meg tudjuk azt mutatni, hogy
+
+637
+00:25:32,120 --> 00:25:37,520
+itt a recovery be berakom
+
+638
+00:25:35,559 --> 00:25:40,919
+ezt a
+
+639
+00:25:37,520 --> 00:25:44,559
+ennek a rúasz robotnak a tokenjét
+
+640
+00:25:40,919 --> 00:25:49,000
+és hopp, vissza is jött.
+
+641
+00:25:44,559 --> 00:25:51,360
+Úgyhogy most elolvassa, hogy mik vannak
+
+642
+00:25:49,000 --> 00:25:52,720
+az interneten. Közben mondja, hogy azért
+
+643
+00:25:51,360 --> 00:25:56,159
+a kapcsolat az nem teljesen stabil. Hát
+
+644
+00:25:52,720 --> 00:25:56,600
+ezt a tortól azért elvárhatjuk,
+
+645
+00:25:56,159 --> 00:25:58,760
+ezért
+
+646
+00:25:56,600 --> 00:26:01,760
+>> megszokhattuk. Igen, megszoktuk, de
+
+647
+00:25:58,760 --> 00:26:03,520
+azért bejönnek a dolgok, és itt is van.
+
+648
+00:26:01,760 --> 00:26:05,600
+Most meglátjuk ezzel a gyakorlatilag ez
+
+649
+00:26:03,520 --> 00:26:07,919
+egy frissítés volt, meg egy másik union
+
+650
+00:26:05,600 --> 00:26:09,559
+címet használtam, de igazából, hogyha az
+
+651
+00:26:07,919 --> 00:26:11,919
+ember
+
+652
+00:26:09,559 --> 00:26:13,640
+ilyen, tehát itt pár másodperc késkedés
+
+653
+00:26:11,919 --> 00:26:14,520
+be kell számolni, illetve nyugodtan meg
+
+654
+00:26:13,640 --> 00:26:17,000
+lehetm
+
+655
+00:26:14,520 --> 00:26:18,559
+>> újraindítani a browsert, vagy megnyitni
+
+656
+00:26:17,000 --> 00:26:21,960
+újra a dolgot. És akkor itt látjuk, mit
+
+657
+00:26:18,559 --> 00:26:25,440
+látunk, hogy valaki el akar adni 5000
+
+658
+00:26:21,960 --> 00:26:29,039
+Ft-nyi bitcoint egy ilyen custom
+
+659
+00:26:25,440 --> 00:26:31,200
+fizetési módján, aminek az a neve, hogy
+
+660
+00:26:29,039 --> 00:26:34,240
+ez kirok kirakom teljes képernyőre,
+
+661
+00:26:31,200 --> 00:26:36,960
+aminek az a neve, hogy 21 podcast test.
+
+662
+00:26:34,240 --> 00:26:38,960
+És akkor itt van az árfolyam, 3%-os
+
+663
+00:26:36,960 --> 00:26:41,039
+security bond, úgyhogy ez tetszik. Erre
+
+664
+00:26:38,960 --> 00:26:43,840
+rá is lehet menni. Itt látjuk
+
+665
+00:26:41,039 --> 00:26:47,760
+ugyanezeket a részleteket, és most van
+
+666
+00:26:43,840 --> 00:26:50,320
+az, hogy take order, már elmentettük a
+
+667
+00:26:47,760 --> 00:26:52,279
+tokent, és akkor megint itt van, hogy
+
+668
+00:26:50,320 --> 00:26:54,880
+ahhoz, hogy beszéljünk, nek ennek az
+
+669
+00:26:52,279 --> 00:26:56,799
+oldalnak is le kell tenni ezt a 654
+
+670
+00:26:54,880 --> 00:26:59,320
+szatosit, vagy lehet nem pontosan
+
+671
+00:26:56,799 --> 00:27:01,520
+ugyanannyi. Na most ezt szintén a
+
+672
+00:26:59,320 --> 00:27:03,240
+telefonommal fogom beskennelni, mert ez
+
+673
+00:27:01,520 --> 00:27:04,919
+így fog működni. Szintén mondja, hogy
+
+674
+00:27:03,240 --> 00:27:08,840
+hát igen, ez nem fog végbemenni egyből,
+
+675
+00:27:04,919 --> 00:27:12,120
+hanem ez függőben lesz, és így is van.
+
+676
+00:27:08,840 --> 00:27:14,159
+Pár másodperc még eljut a toron
+
+677
+00:27:12,120 --> 00:27:16,760
+keresztül is az információ.
+
+678
+00:27:14,159 --> 00:27:19,600
+>> Akkor most mindkét user beküldött egy
+
+679
+00:27:16,760 --> 00:27:21,960
+kicsike letétet ahhoz, hogy egyáltalán
+
+680
+00:27:19,600 --> 00:27:25,240
+komolyan vegyék a szándékát.
+
+681
+00:27:21,960 --> 00:27:27,919
+>> Igen. Igen. És itt ráadásul elkövettük
+
+682
+00:27:25,240 --> 00:27:30,880
+azt a bonyodalmat, hogy itt nem egy
+
+683
+00:27:27,919 --> 00:27:34,679
+vevő. Tehát az offer az arról szólt,
+
+684
+00:27:30,880 --> 00:27:35,279
+hogy nem elad, hanem hogy vesz.
+
+685
+00:27:34,679 --> 00:27:37,960
+Hm.
+
+686
+00:27:35,279 --> 00:27:41,000
+>> Elrontottuk. Tényleg? Igen, mert igen,
+
+687
+00:27:37,960 --> 00:27:43,519
+most tőlem kéri azt, hogy tehát a jobb
+
+688
+00:27:41,000 --> 00:27:44,559
+oldali igazából most az eladó lesz.
+
+689
+00:27:43,519 --> 00:27:47,480
+Rákattintotta.
+
+690
+00:27:44,559 --> 00:27:48,880
+>> Hát akkor a fehér bitcoin megy a fekete
+
+691
+00:27:47,480 --> 00:27:51,360
+bitcoinba.
+
+692
+00:27:48,880 --> 00:27:52,080
+>> Végül is mivel mind a kettő te vagy így
+
+693
+00:27:51,360 --> 00:27:55,159
+így meggondolt
+
+694
+00:27:52,080 --> 00:27:55,440
+>> talán nem károsult. [nevetés]
+
+695
+00:27:55,159 --> 00:27:56,519
+>> Igen.
+
+696
+00:27:55,440 --> 00:27:59,360
+>> Meg amúgy se.
+
+697
+00:27:56,519 --> 00:28:03,320
+>> Igen. Most annyi, hogy megcserélődnek a
+
+698
+00:27:59,360 --> 00:28:07,039
+szerepek. Tehát itt az történt, hogy a
+
+699
+00:28:03,320 --> 00:28:08,880
+fehér oldal rákattintotta egy vételi
+
+700
+00:28:07,039 --> 00:28:12,240
+ajánlatra, és akkor azt mondja, hogy jó,
+
+701
+00:28:08,880 --> 00:28:14,760
+oké, eladok 5000 Ftnyi bitcoint ennek a
+
+702
+00:28:12,240 --> 00:28:17,200
+embernek, aki majd a 21 podcast teszt
+
+703
+00:28:14,760 --> 00:28:21,000
+keretében fog nekem fizetni. És akkor
+
+704
+00:28:17,200 --> 00:28:23,720
+lássuk ezt a dolgot. Itt le kell az
+
+705
+00:28:21,000 --> 00:28:25,559
+eladónak most már az egész 5000 Ftnyi
+
+706
+00:28:23,720 --> 00:28:28,600
+szatosit be kell rakni egy másik fizetés
+
+707
+00:28:25,559 --> 00:28:30,480
+keretében depozitban. Ez szintén nem fog
+
+708
+00:28:28,600 --> 00:28:33,919
+egyből megtörténni.
+
+709
+00:28:30,480 --> 00:28:36,039
+De maga a fizetés az függőben lesz, és
+
+710
+00:28:33,919 --> 00:28:40,039
+ennek a tényérő vissza fog jönni. A
+
+711
+00:28:36,039 --> 00:28:42,000
+másik oldal pedig azt kéri, hogy a
+
+712
+00:28:40,039 --> 00:28:45,440
+fogadás
+
+713
+00:28:42,000 --> 00:28:49,240
+legyen megoldva, mégpedig úgy, hogy kell
+
+714
+00:28:45,440 --> 00:28:50,880
+hozzá egy számla 22463
+
+715
+00:28:49,240 --> 00:28:54,559
+szatosiról.
+
+716
+00:28:50,880 --> 00:28:56,240
+És ezt valahogy át kell küldenem a
+
+717
+00:28:54,559 --> 00:28:58,679
+számítógépre, vagy akár meg is
+
+718
+00:28:56,240 --> 00:29:02,039
+próbálhatjuk ezt a webvalletet hát
+
+719
+00:28:58,679 --> 00:29:05,240
+fogadni tud. Beállítjuk az amountot, ami
+
+720
+00:29:02,039 --> 00:29:08,240
+a mennyisége 22463
+
+721
+00:29:05,240 --> 00:29:11,720
+22 463
+
+722
+00:29:08,240 --> 00:29:13,399
+szatosi. És akkor ezt csak egy kommentbe
+
+723
+00:29:11,720 --> 00:29:15,480
+így magamnak beírom. Ez csinál egy ilyen
+
+724
+00:29:13,399 --> 00:29:18,720
+lightning requestet, szintén egy ilyen
+
+725
+00:29:15,480 --> 00:29:21,000
+nagyon sűrű QR kóde. Ezt lemásolom
+
+726
+00:29:18,720 --> 00:29:24,360
+és berakom ide. hogy ide fogom elvileg
+
+727
+00:29:21,000 --> 00:29:26,799
+megkapni majd a pénzt.
+
+728
+00:29:24,360 --> 00:29:29,240
+És hajrá! Ühüm.
+
+729
+00:29:26,799 --> 00:29:32,159
+Azt mondja, hogy ezt nem szereti.
+
+730
+00:29:29,240 --> 00:29:33,320
+Ez a blitzf sajnos
+
+731
+00:29:32,159 --> 00:29:34,600
+megbukott.
+
+732
+00:29:33,320 --> 00:29:37,880
+>> Fényáskodik.
+
+733
+00:29:34,600 --> 00:29:40,240
+>> Finnyáskodik, igen. De nem gond, mert
+
+734
+00:29:37,880 --> 00:29:43,240
+gyorsan csinálok egy
+
+735
+00:29:40,240 --> 00:29:46,440
+számlát például a blinkoletben, és ezt
+
+736
+00:29:43,240 --> 00:29:48,320
+el fogom másolni egy pár pillanat alatt.
+
+737
+00:29:46,440 --> 00:29:49,120
+Jó lett volna egy QR kód a olvasóval
+
+738
+00:29:48,320 --> 00:29:51,919
+megoldani. De
+
+739
+00:29:49,120 --> 00:29:53,919
+>> hát ha erre készültél volna. [nevetés]
+
+740
+00:29:51,919 --> 00:29:55,760
+>> Igen, akkor ez történt most, hogy csak
+
+741
+00:29:53,919 --> 00:29:58,159
+átküldtöm a telefonomról ezt a ezt az
+
+742
+00:29:55,760 --> 00:30:00,440
+invoic-át én a signál messengert
+
+743
+00:29:58,159 --> 00:30:02,039
+használom. Ezt magamnak a desktopon is
+
+744
+00:30:00,440 --> 00:30:04,519
+be van állítva. Tudok videótelefonálni
+
+745
+00:30:02,039 --> 00:30:06,440
+meg hasonlók, de a saját jegyzetekbe
+
+746
+00:30:04,519 --> 00:30:09,440
+beküldtem ezt az invoice a telefonról.
+
+747
+00:30:06,440 --> 00:30:11,440
+És akkor most ide szépen be is teszem.
+
+748
+00:30:09,440 --> 00:30:13,320
+És submit.
+
+749
+00:30:11,440 --> 00:30:16,559
+Most már
+
+750
+00:30:13,320 --> 00:30:18,279
+megnyílt ez a chat ablak a bal oldalon,
+
+751
+00:30:16,559 --> 00:30:21,279
+és nemsokára megfut nyílni a jobb
+
+752
+00:30:18,279 --> 00:30:23,039
+oldalon is, és akkor beszélgetnünk kell.
+
+753
+00:30:21,279 --> 00:30:25,000
+>> Meghasjon a tudatod.
+
+754
+00:30:23,039 --> 00:30:29,039
+>> Igen,
+
+755
+00:30:25,000 --> 00:30:31,600
+fizetnék, mondja
+
+756
+00:30:29,039 --> 00:30:34,600
+Laci.
+
+757
+00:30:31,600 --> 00:30:36,720
+Nem mondja, mondja a Let Lumber 742-t
+
+758
+00:30:34,600 --> 00:30:40,480
+fizetnék.
+
+759
+00:30:36,720 --> 00:30:43,760
+Köszi. Mondjuk azt, hogy átküldted.
+
+760
+00:30:40,480 --> 00:30:45,559
+És akkor ugye most megbeszélhetjük, hogy
+
+761
+00:30:43,760 --> 00:30:47,880
+figyelj, kifizettél valamit ezen linken,
+
+762
+00:30:45,559 --> 00:30:48,880
+vagy átküldted a Revolute username-be,
+
+763
+00:30:47,880 --> 00:30:50,960
+vagy bármi,
+
+764
+00:30:48,880 --> 00:30:53,399
+>> vagy betetted egy kő alá, és én majd
+
+765
+00:30:50,960 --> 00:30:55,399
+onnan kivesz a lábtörlő alá.
+
+766
+00:30:53,399 --> 00:30:58,480
+>> Igen, igen.
+
+767
+00:30:55,399 --> 00:31:02,240
+Fizetnék és akkor na de várjál, megint
+
+768
+00:30:58,480 --> 00:31:03,279
+összekavartuk. Fizetnék. Hát igazából
+
+769
+00:31:02,240 --> 00:31:04,880
+>> fizess.
+
+770
+00:31:03,279 --> 00:31:08,919
+>> Igazák.
+
+771
+00:31:04,880 --> 00:31:11,356
+>> Én fizetnék. Igen.
+
+772
+00:31:08,919 --> 00:31:12,880
+És akkor kiváló.
+
+773
+00:31:11,356 --> 00:31:14,200
+[nevetés]
+
+774
+00:31:12,880 --> 00:31:16,600
+>> Hát ezt le kell meccselni.
+
+775
+00:31:14,200 --> 00:31:18,799
+>> Ezt tudod hasásos állapot volt?
+
+776
+00:31:16,600 --> 00:31:20,679
+>> Ez ez abszolút teljesen ez onnan tudom,
+
+777
+00:31:18,799 --> 00:31:24,760
+hogy kinek kell fizetni, hogy itt van
+
+778
+00:31:20,679 --> 00:31:27,320
+alul ez a gomb, hogy confirm 5000 hoof
+
+779
+00:31:24,760 --> 00:31:29,360
+cent. Tehát azt tudom, hogy neki kell
+
+780
+00:31:27,320 --> 00:31:30,840
+neki kell elküldeni, illetve a másik a
+
+781
+00:31:29,360 --> 00:31:33,159
+fehér rakta letérbe, ugye az
+
+782
+00:31:30,840 --> 00:31:36,200
+eladnivalót, és hát egyértem, hogy a
+
+783
+00:31:33,159 --> 00:31:39,360
+fekete fog fizetni érte, úgyhogy bármi
+
+784
+00:31:36,200 --> 00:31:44,519
+is legyen. Mondjuk azt,
+
+785
+00:31:39,360 --> 00:31:48,679
+hogy megkaptam tőled a fiatot.
+
+786
+00:31:44,519 --> 00:31:48,679
+Igen, rendben.
+
+787
+00:31:48,760 --> 00:31:55,760
+A vevő azt mondja, hogy rendben. Azt
+
+788
+00:31:53,080 --> 00:31:58,120
+mond mondom.
+
+789
+00:31:55,760 --> 00:32:00,039
+Ugye elküldtem itt át is raktam az
+
+790
+00:31:58,120 --> 00:32:03,240
+asztalon egyik oldalra, a másik oldalra
+
+791
+00:32:00,039 --> 00:32:04,480
+az 5000-est. És itt rá kell nyomni erre
+
+792
+00:32:03,240 --> 00:32:07,279
+a gombra. Nagyon fontos, mert csak így
+
+793
+00:32:04,480 --> 00:32:09,919
+tudja a másik elfogadni ezt a tényt, és
+
+794
+00:32:07,279 --> 00:32:13,360
+végbe vinni az üzletet. Tehát ez
+
+795
+00:32:09,919 --> 00:32:15,480
+gyakorlatilag véglegesíti a teendőket,
+
+796
+00:32:13,360 --> 00:32:19,000
+hogy elküldtem az 5000 Ft-ot. Igen,
+
+797
+00:32:15,480 --> 00:32:22,360
+elküldtem. És amint ez a értesítés
+
+798
+00:32:19,000 --> 00:32:26,320
+megjön a másik oldalon, akkor
+
+799
+00:32:22,360 --> 00:32:29,639
+lehet egy utolsó üzenetet írni, hogy el
+
+800
+00:32:26,320 --> 00:32:33,600
+fogom fogadni. Köszi. És amint ezt
+
+801
+00:32:29,639 --> 00:32:36,960
+megnyúja a fogadófél, mármint a Fiat
+
+802
+00:32:33,600 --> 00:32:39,360
+fogadófél, amúgy a Bitcoin eladófél, az
+
+803
+00:32:36,960 --> 00:32:42,000
+be fog záróni ez a chatablak, és végbem
+
+804
+00:32:39,360 --> 00:32:44,039
+megy a lingakció. Ja, és onnantól kezdve
+
+805
+00:32:42,000 --> 00:32:45,039
+nem tudnak egymással kommunikálni, de
+
+806
+00:32:44,039 --> 00:32:47,159
+nincs is miről.
+
+807
+00:32:45,039 --> 00:32:49,440
+>> Nincs. Így van. Így van. Tehát ez ez egy
+
+808
+00:32:47,159 --> 00:32:52,080
+sikeres dolog volt. Mind a ketten
+
+809
+00:32:49,440 --> 00:32:54,399
+aláírták gyakorlatilag azt a hogy a
+
+810
+00:32:52,080 --> 00:32:56,080
+szerződés végbement. Az egyik elküldte,
+
+811
+00:32:54,399 --> 00:32:58,840
+a másik megkapta.
+
+812
+00:32:56,080 --> 00:33:01,480
+>> És ilyenkor az történik a Lightning
+
+813
+00:32:58,840 --> 00:33:04,480
+fizetésekkel, hogy a ezek a biztonsági
+
+814
+00:33:01,480 --> 00:33:07,600
+letétek, ezek törlődnek. Az a azaz az az
+
+815
+00:33:04,480 --> 00:33:10,919
+a 670 szatusi, az visszakerül a valetbe.
+
+816
+00:33:07,600 --> 00:33:13,240
+És a eladásra feltett
+
+817
+00:33:10,919 --> 00:33:15,960
+letét pedig az a fizetés pedig békbe
+
+818
+00:33:13,240 --> 00:33:20,039
+megy. Tehát az a 226-os az pedig szépen
+
+819
+00:33:15,960 --> 00:33:21,960
+meg is jött a valetemben azt a számlát
+
+820
+00:33:20,039 --> 00:33:26,080
+kifizetve, amit ugye benyújtottam a
+
+821
+00:33:21,960 --> 00:33:28,279
+fogadásra. És ezt tudom is mondani, hogy
+
+822
+00:33:26,080 --> 00:33:30,600
+ez így így meg is történt. Ilyenkor el
+
+823
+00:33:28,279 --> 00:33:33,320
+lehet van egy ilyen kis state summary,
+
+824
+00:33:30,600 --> 00:33:36,159
+ami egy
+
+825
+00:33:33,320 --> 00:33:38,360
+kis Jason file, amiben el vannak mentve
+
+826
+00:33:36,159 --> 00:33:40,600
+ezek a
+
+827
+00:33:38,360 --> 00:33:41,960
+kulcsok és magának a hogyha könyvelni
+
+828
+00:33:40,600 --> 00:33:44,000
+akarja például valaki, akkor ezt el
+
+829
+00:33:41,960 --> 00:33:46,360
+lehet tenni, hogy ekkor és ekkor ilyen
+
+830
+00:33:44,000 --> 00:33:48,720
+árfolyamon vettem, vagy eladtam. Hm.
+
+831
+00:33:46,360 --> 00:33:53,000
+>> És írja is, hogy a Maker Bond meg a
+
+832
+00:33:48,720 --> 00:33:55,200
+Taker Bond ugye a az unlocked és nincs
+
+833
+00:33:53,000 --> 00:33:57,600
+más teendő. Mit lehet mondani, hogy ezt
+
+834
+00:33:55,200 --> 00:34:00,080
+ugye örültünk neki. Fizettünk ilyen
+
+835
+00:33:57,600 --> 00:34:02,799
+nagyon pici feet a korrelátornak. Hét
+
+836
+00:34:00,080 --> 00:34:05,559
+szatosit fizetett az, aki bitcoint vett,
+
+837
+00:34:02,799 --> 00:34:06,880
+és 39 szatosit fizetett az, aki bitcoint
+
+838
+00:34:05,559 --> 00:34:09,399
+adott el.
+
+839
+00:34:06,880 --> 00:34:11,760
+Úgyhogy ez ilyen aszetrikus ebből a
+
+840
+00:34:09,399 --> 00:34:15,679
+szempontból, de attól függetlenül ez az
+
+841
+00:34:11,760 --> 00:34:15,679
+eladónak is 0,175%
+
+842
+00:34:16,240 --> 00:34:18,560
+featet.
+
+843
+00:34:16,800 --> 00:34:21,359
+>> Érdekes, hogy ugye itt is, mint minden
+
+844
+00:34:18,560 --> 00:34:26,359
+ilyen kötési könyvben a maker kevesebbet
+
+845
+00:34:21,359 --> 00:34:28,280
+ugye aki nagyobb likviditást ad a poolba
+
+846
+00:34:26,359 --> 00:34:29,879
+annak kevesebb a kölcs
+
+847
+00:34:28,280 --> 00:34:33,000
+>> igen egyértelmű, hogy itt eladuk van,
+
+848
+00:34:29,879 --> 00:34:34,760
+>> mint aki taker, mert ő törféel
+
+849
+00:34:33,000 --> 00:34:36,320
+likviditást vett el. És
+
+850
+00:34:34,760 --> 00:34:38,520
+>> itt itt szerintem az számít egyébként,
+
+851
+00:34:36,320 --> 00:34:40,079
+hogy ki teszi fel a hirdetést igazából.
+
+852
+00:34:38,520 --> 00:34:43,119
+>> Aha. Hát az a maker.
+
+853
+00:34:40,079 --> 00:34:45,440
+>> Így van. És így van. És az kevesebbet
+
+854
+00:34:43,119 --> 00:34:47,320
+fizet a koordinátornak. Tehát itt
+
+855
+00:34:45,440 --> 00:34:48,399
+igazából a a trade iránya az ebből a
+
+856
+00:34:47,320 --> 00:34:52,720
+szempontból nem számít.
+
+857
+00:34:48,399 --> 00:34:55,480
+>> Tehát az ajánlattevő kisebb díjat fizet.
+
+858
+00:34:52,720 --> 00:34:57,079
+>> Igen. Igen. Tehát ezt a az már tényleg
+
+859
+00:34:55,480 --> 00:34:59,599
+egy nevetséges
+
+860
+00:34:57,079 --> 00:35:01,599
+ös összéget fizet. azért ugye, hogy ugye
+
+861
+00:34:59,599 --> 00:35:04,720
+hát a koordinátornak meg egyáltalán a
+
+862
+00:35:01,599 --> 00:35:06,960
+ennek a robosznak a használóinak az a
+
+863
+00:35:04,720 --> 00:35:10,560
+érdeke, hogy minél több offer legyen
+
+864
+00:35:06,960 --> 00:35:12,400
+itt, hogy aki keress az ugye találjon,
+
+865
+00:35:10,560 --> 00:35:13,680
+mert az azonnal. Ugye hát itt vannak,
+
+866
+00:35:12,400 --> 00:35:15,400
+itt láttuk, hogy azért vannak ilyen
+
+867
+00:35:13,680 --> 00:35:18,680
+timeoutok, ami azt jelenti, hogy itt is
+
+868
+00:35:15,400 --> 00:35:21,079
+mutatja, hogy az egy a Lightning miatt,
+
+869
+00:35:18,680 --> 00:35:24,119
+hogy ezek a hold invoice, ezek 24 óránál
+
+870
+00:35:21,079 --> 00:35:26,359
+tovább nem tudnak tartani egy protokoll
+
+871
+00:35:24,119 --> 00:35:28,880
+szerint, akkor már automatikusan
+
+872
+00:35:26,359 --> 00:35:32,640
+tördődnek 24 óra után, úgyhogy azért van
+
+873
+00:35:28,880 --> 00:35:35,000
+ez a maximum lejárat ilyen 24 óra vagy
+
+874
+00:35:32,640 --> 00:35:37,760
+kevesebb, ugye attól függ, mikor rakták
+
+875
+00:35:35,000 --> 00:35:41,480
+fel ezt a ezeket az offeröket. illetve
+
+876
+00:35:37,760 --> 00:35:43,880
+azt lehetett látni, hogy amikor már
+
+877
+00:35:41,480 --> 00:35:47,800
+valaki elfogadta az ajánlatot, akkor egy
+
+878
+00:35:43,880 --> 00:35:49,920
+három órás timeout van arra, hogy a
+
+879
+00:35:47,800 --> 00:35:52,200
+másik fél ugye elvégezze azt, amit el
+
+880
+00:35:49,920 --> 00:35:54,520
+kell végezni, tehát lerakja a a letétet
+
+881
+00:35:52,200 --> 00:35:58,160
+a eladásra szent összegről, vagy
+
+882
+00:35:54,520 --> 00:36:00,640
+benyújtsa ezt a fogadó számlát a a vevő
+
+883
+00:35:58,160 --> 00:36:04,040
+vevőoldalon, és ha ezt három órán belül
+
+884
+00:36:00,640 --> 00:36:07,119
+nem teszi le, akkor elveszti a
+
+885
+00:36:04,040 --> 00:36:10,359
+biztonságétjét, aminek, ha jól tudom, A
+
+886
+00:36:07,119 --> 00:36:11,359
+fele megy a másik oldalnak, a fele megy
+
+887
+00:36:10,359 --> 00:36:13,760
+a koordinátornak.
+
+888
+00:36:11,359 --> 00:36:16,400
+>> Én pont ezen izgultam most nemrég, mert
+
+889
+00:36:13,760 --> 00:36:17,920
+ki akartam próbálni ezt a Robosot, és
+
+890
+00:36:16,400 --> 00:36:20,599
+pont
+
+891
+00:36:17,920 --> 00:36:22,599
+az volt, hogy akivel tradelni akartam,
+
+892
+00:36:20,599 --> 00:36:24,480
+mert megbeszéltük ezt előre egyébként a
+
+893
+00:36:22,599 --> 00:36:27,359
+Telegramdam csoporton, hogy hogy ezt
+
+894
+00:36:24,480 --> 00:36:29,200
+kipróbáljuk együtt. Tehát mi nem csak
+
+895
+00:36:27,359 --> 00:36:31,640
+ugye ezen a felületen tudtunk chatelni
+
+896
+00:36:29,200 --> 00:36:33,640
+egymással, hanem eleve úgy mentünk bele
+
+897
+00:36:31,640 --> 00:36:35,520
+ebbe a cuccba, hogy na na próbáljuk ki
+
+898
+00:36:33,640 --> 00:36:37,119
+azt, hogy kereskedünk egymással. De
+
+899
+00:36:35,520 --> 00:36:39,359
+egyébként nem ismertük egymást, tehát ez
+
+900
+00:36:37,119 --> 00:36:40,680
+egy jó közvetítési felület volt. Csak ez
+
+901
+00:36:39,359 --> 00:36:42,800
+volt, hogy én föltettem akkor egy
+
+902
+00:36:40,680 --> 00:36:44,520
+ajánlatot és írtam neki, de ő meg még
+
+903
+00:36:42,800 --> 00:36:47,640
+nem volt otthon, és ezt az asztali
+
+904
+00:36:44,520 --> 00:36:49,359
+gépéről akarta lezajlítani. De mire ő
+
+905
+00:36:47,640 --> 00:36:51,040
+hazaért, nekem meg el kellett mennem
+
+906
+00:36:49,359 --> 00:36:52,319
+otthonról. Úgyhogy akkor írtam neki,
+
+907
+00:36:51,040 --> 00:36:54,440
+hogy figyelj, viszont nem biztos, hogy
+
+908
+00:36:52,319 --> 00:36:56,680
+három órán belül én most akkor tudok
+
+909
+00:36:54,440 --> 00:36:58,839
+erre reagálni. És akkor nyomtam egy
+
+910
+00:36:56,680 --> 00:37:00,319
+cancelt, és akkor amikor újra hazaértem,
+
+911
+00:36:58,839 --> 00:37:02,040
+akkor indítottam el. Tehát igen,
+
+912
+00:37:00,319 --> 00:37:04,839
+valószínű ezt érdemes észbe tartani
+
+913
+00:37:02,040 --> 00:37:06,520
+annak, aki mondjuk csak asztali gépről
+
+914
+00:37:04,839 --> 00:37:08,560
+tudja ezt eszközölni, hogy mondjuk
+
+915
+00:37:06,520 --> 00:37:11,040
+mielőtt lefekszik éjszaka és még nem
+
+916
+00:37:08,560 --> 00:37:12,560
+volt jelentkezője, vagy hosszú ide
+
+917
+00:37:11,040 --> 00:37:14,880
+elmegy otthonról, akkor lehet, hogy
+
+918
+00:37:12,560 --> 00:37:16,880
+érdemes visszavonni. Igen. Hát ezt ezt
+
+919
+00:37:14,880 --> 00:37:19,800
+úgy érdemes, hogy az ember igazából a
+
+920
+00:37:16,880 --> 00:37:21,960
+gép előtt tölt egy pár órát, akkor ugye
+
+921
+00:37:19,800 --> 00:37:24,880
+fel tud rakni egy ilyen ajánlatot, vagy
+
+922
+00:37:21,960 --> 00:37:26,359
+el tud fogadni egyet, és akkor ezt így a
+
+923
+00:37:24,880 --> 00:37:29,160
+háttérben így meg tudja oldani, mert
+
+924
+00:37:26,359 --> 00:37:30,560
+ugye a maga amit meg kell csinálni, az
+
+925
+00:37:29,160 --> 00:37:32,280
+pár másodpercüm,
+
+926
+00:37:30,560 --> 00:37:33,520
+>> de esetleg várni kell a másik félre,
+
+927
+00:37:32,280 --> 00:37:35,319
+vagy ugye olyan is van, hogy
+
+928
+00:37:33,520 --> 00:37:37,240
+kapcsolódási problémák vannak, és akkor
+
+929
+00:37:35,319 --> 00:37:38,599
+másik félnek újra kell indulni, vagy
+
+930
+00:37:37,240 --> 00:37:41,000
+vagy nem kapja meg az üzenetet egy
+
+931
+00:37:38,599 --> 00:37:43,040
+hosszabb ideig, vagy hasonlók. Hát ez ez
+
+932
+00:37:41,000 --> 00:37:45,760
+velejár azzal, ahogy ahogy ez működik.
+
+933
+00:37:43,040 --> 00:37:48,960
+Így a tornetkön ez ez tényleg a
+
+934
+00:37:45,760 --> 00:37:52,040
+privacynek az ára,
+
+935
+00:37:48,960 --> 00:37:53,880
+a a a megbízhatóság, de ugyanakkor meg
+
+936
+00:37:52,040 --> 00:37:56,200
+tehát amikor így flottul megy a dolog,
+
+937
+00:37:53,880 --> 00:37:59,079
+akkor azért a a gyorsság az megvan.
+
+938
+00:37:56,200 --> 00:38:01,119
+>> Ühüm. Még egy pár szóban, ugye, mert
+
+939
+00:37:59,079 --> 00:38:03,800
+beszéltél arról, hogy ez lightningon
+
+940
+00:38:01,119 --> 00:38:06,319
+megy, tehát hogy pár szóban el tudnád
+
+941
+00:38:03,800 --> 00:38:08,160
+mondani így összefoglaló jelleggel, hogy
+
+942
+00:38:06,319 --> 00:38:11,560
+miért jó ez, hogy lightningon megy és
+
+943
+00:38:08,160 --> 00:38:13,680
+nemchain, tehát milyen előnyekkel jár.
+
+944
+00:38:11,560 --> 00:38:16,960
+Igen, bár hozzátenném, hogy fogadni,
+
+945
+00:38:13,680 --> 00:38:19,880
+mivel vannak ilyen swap beépítve a
+
+946
+00:38:16,960 --> 00:38:21,640
+lehetőség egy külön díjért lehet
+
+947
+00:38:19,880 --> 00:38:22,880
+egyébként onchain is fogadni, hogyha
+
+948
+00:38:21,640 --> 00:38:24,920
+mondjuk nagyobb összegről van szó, akkor
+
+949
+00:38:22,880 --> 00:38:26,319
+az lehető praktikusabb, de alapvetően
+
+950
+00:38:24,920 --> 00:38:28,880
+lightningon megy az egész. Egyrészt
+
+951
+00:38:26,319 --> 00:38:31,160
+azért, mert ugye a kattintok és
+
+952
+00:38:28,880 --> 00:38:34,079
+megjelenik a fizetés, nem kell várni,
+
+953
+00:38:31,160 --> 00:38:35,640
+amíg kibányásznak egy blokkot. És ez
+
+954
+00:38:34,079 --> 00:38:36,880
+adja ezt a lehetőséget, hogy lehet
+
+955
+00:38:35,640 --> 00:38:39,119
+tartani is ezt a fizetésnek a
+
+956
+00:38:36,880 --> 00:38:41,680
+visszaigazolását, ha nem küldi vissza a
+
+957
+00:38:39,119 --> 00:38:44,240
+fizetésnek a címzetje a visszaigazolást,
+
+958
+00:38:41,680 --> 00:38:47,280
+akkor van ez a pending állapot ebben a
+
+959
+00:38:44,240 --> 00:38:50,280
+hold invoice használatban. Tehát ez csak
+
+960
+00:38:47,280 --> 00:38:52,839
+lightning a lehetséges. Különben ugye az
+
+961
+00:38:50,280 --> 00:38:56,560
+egyéb exchangeek, mint például a BISK
+
+962
+00:38:52,839 --> 00:38:58,800
+vagy akár a Hod hodnek a letétje úgy
+
+963
+00:38:56,560 --> 00:39:01,599
+szokott működni, hogy elküldjük a
+
+964
+00:38:58,800 --> 00:39:03,880
+bitcoint onchain egy multiszig baletbe,
+
+965
+00:39:01,599 --> 00:39:07,920
+aminek ugye kettő kettőhöz vagy
+
+966
+00:39:03,880 --> 00:39:10,160
+kettő-árom az aláírója van, és arra
+
+967
+00:39:07,920 --> 00:39:12,520
+viszont várni kell, akkor elküldöm és
+
+968
+00:39:10,160 --> 00:39:16,000
+akkor legalább egy megerősítést várni
+
+969
+00:39:12,520 --> 00:39:17,880
+kell, ami lehet, hogy egy perc,
+
+970
+00:39:16,000 --> 00:39:20,319
+általában 10 perc, de lehet, hogy egy
+
+971
+00:39:17,880 --> 00:39:20,319
+óra.
+
+972
+00:39:22,280 --> 00:39:26,560
+Igen, az nagyobb összegekre jobb, de
+
+973
+00:39:24,119 --> 00:39:30,480
+ilyen napi DC-ra ez is jó lehet, nem?
+
+974
+00:39:26,560 --> 00:39:34,160
+Tehát a a dupla privacy réteg, tehát az,
+
+975
+00:39:30,480 --> 00:39:36,760
+hogy van egyszer egy tor rétegünk, tehát
+
+976
+00:39:34,160 --> 00:39:38,319
+behely berejtettük az IP-nket, meg van
+
+977
+00:39:36,760 --> 00:39:40,839
+egyszer egy Lightning, ami
+
+978
+00:39:38,319 --> 00:39:42,440
+csatornazárást követően sok szerencsét
+
+979
+00:39:40,839 --> 00:39:43,119
+bárkinek, hogy kibogozza, hogy ott mi
+
+980
+00:39:42,440 --> 00:39:44,960
+történt.
+
+981
+00:39:43,119 --> 00:39:46,760
+>> Igen. Tehát, hogy ami ami történik,
+
+982
+00:39:44,960 --> 00:39:49,400
+Igen. Ez erről érdekes beszélgetés
+
+983
+00:39:46,760 --> 00:39:51,359
+indult a Meetup, a Gingerwalt és Meetup
+
+984
+00:39:49,400 --> 00:39:53,720
+után is, hogy ugye mennyire privát a
+
+985
+00:39:51,359 --> 00:39:55,680
+Lightning. Az a helyzet, hogy egy
+
+986
+00:39:53,720 --> 00:39:58,400
+fizetés forrását, hacsak nem egy
+
+987
+00:39:55,680 --> 00:40:01,560
+közvetlen csatornán keresztül történik,
+
+988
+00:39:58,400 --> 00:40:04,160
+és mondjuk kizáró jellegű a a mennyisége
+
+989
+00:40:01,560 --> 00:40:05,720
+a a fizetésnek, tehát hogy mondjuk
+
+990
+00:40:04,160 --> 00:40:09,160
+nincsen
+
+991
+00:40:05,720 --> 00:40:10,760
+más hasonló méretű csatorna, akkor tehát
+
+992
+00:40:09,160 --> 00:40:13,960
+ha csak nem így történik, akkor így
+
+993
+00:40:10,760 --> 00:40:17,480
+lehetetlen megmondani, hogy mi a forrása
+
+994
+00:40:13,960 --> 00:40:19,280
+egy megkapott tranzakciónak.
+
+995
+00:40:17,480 --> 00:40:21,079
+És ez tehát ez egyáltalán nem
+
+996
+00:40:19,280 --> 00:40:23,359
+összehasonlítható a blockchainnel, mert
+
+997
+00:40:21,079 --> 00:40:25,319
+amit felírnak a nódok, abban az az
+
+998
+00:40:23,359 --> 00:40:28,800
+információ, hogy honnan jött a fizetés,
+
+999
+00:40:25,319 --> 00:40:30,680
+az egyszerűen nincs benne, mivel ilyen
+
+1000
+00:40:28,800 --> 00:40:34,040
+titkosított rétegekbe van csomagolva az
+
+1001
+00:40:30,680 --> 00:40:39,599
+információ, és úgy megy oda-vissza a
+
+1002
+00:40:34,040 --> 00:40:44,640
+nódok között átugrálva többen is. Így
+
+1003
+00:40:39,599 --> 00:40:49,000
+ennek a a titkossága, illetve tehát a a
+
+1004
+00:40:44,640 --> 00:40:51,640
+magánéletet védő funkciója, privacy az
+
+1005
+00:40:49,000 --> 00:40:54,000
+sokkal összehasonlíthatlananul jobb,
+
+1006
+00:40:51,640 --> 00:40:55,640
+mint egy mint egy oncsin fizetésnek.
+
+1007
+00:40:54,000 --> 00:40:57,119
+Persze az, hogyha az ember a saját
+
+1008
+00:40:55,640 --> 00:41:00,160
+nódját használja, vagy egy Lightning
+
+1009
+00:40:57,119 --> 00:41:02,119
+Ballettet használ, amiket ugye az a self
+
+1010
+00:41:00,160 --> 00:41:05,079
+castal önrendelkező lightning
+
+1011
+00:41:02,119 --> 00:41:07,160
+balettekethez semmilyen kis információ,
+
+1012
+00:41:05,079 --> 00:41:08,680
+semmilyen személyazonosító információ
+
+1013
+00:41:07,160 --> 00:41:11,800
+nem szükséges ahhoz, hogy ezt használjon
+
+1014
+00:41:08,680 --> 00:41:14,560
+az ember. De amikor elküld bele Onchain,
+
+1015
+00:41:11,800 --> 00:41:16,760
+tehát hogyha Onchain küld bele a láncon
+
+1016
+00:41:14,560 --> 00:41:19,359
+base layeren bitcoint, akkor az
+
+1017
+00:41:16,760 --> 00:41:22,240
+természetesen ugye az látszik a látszik
+
+1018
+00:41:19,359 --> 00:41:25,400
+a blockchainen, amikor beküldte. Meg
+
+1019
+00:41:22,240 --> 00:41:28,760
+aztán, hogyha később a szintén onchain
+
+1020
+00:41:25,400 --> 00:41:31,040
+vesz ki belőle, akkor az a tranzakciós
+
+1021
+00:41:28,760 --> 00:41:32,440
+látszódni fog. De ami nem látszódik, az,
+
+1022
+00:41:31,040 --> 00:41:35,640
+hogy milyen tranzakciókat csinált a
+
+1023
+00:41:32,440 --> 00:41:39,640
+Lightning Networkön közben. Az nem lesz
+
+1024
+00:41:35,640 --> 00:41:41,960
+felírva csak a peereknek, akin keresztül
+
+1025
+00:41:39,640 --> 00:41:42,359
+ment, de ők sem fogják látni azt, hogy
+
+1026
+00:41:41,960 --> 00:41:44,920
+hova.
+
+1027
+00:41:42,359 --> 00:41:48,160
+>> Ők is bezárják egyszer a csatornát. Hát
+
+1028
+00:41:44,920 --> 00:41:50,119
+igen, de az a lényeg, hogy maga a
+
+1029
+00:41:48,160 --> 00:41:52,040
+csatornanyitás és zárás, ami egy on
+
+1030
+00:41:50,119 --> 00:41:55,119
+egy-egy onchain tranzakció tranzakció,
+
+1031
+00:41:52,040 --> 00:41:58,119
+az nincs összeköttetésben azzal, hogy mi
+
+1032
+00:41:55,119 --> 00:42:00,920
+történik a Lightning Networkön közben.
+
+1033
+00:41:58,119 --> 00:42:03,319
+Tehát lehet egy, lehet 10, lehet több
+
+1034
+00:42:00,920 --> 00:42:05,240
+1000 millió fizetés is kimenő, bejövő
+
+1035
+00:42:03,319 --> 00:42:06,920
+azon a csatornán a között a két
+
+1036
+00:42:05,240 --> 00:42:08,839
+tranzakció között, ami bekerül a
+
+1037
+00:42:06,920 --> 00:42:11,119
+központi Ledgerbe, a Bitcoin
+
+1038
+00:42:08,839 --> 00:42:12,800
+blockchainbe. Úgyhogy ez a legfontosabb,
+
+1039
+00:42:11,119 --> 00:42:14,599
+amit tudni kell a a Lightningról.
+
+1040
+00:42:12,800 --> 00:42:16,119
+Amellett, hogy ugye gyors itt amikor
+
+1041
+00:42:14,599 --> 00:42:18,400
+végig van egy-egy fizetés, akkor ez
+
+1042
+00:42:16,119 --> 00:42:20,200
+végleges. Tehát itt nincs arra lehetőség
+
+1043
+00:42:18,400 --> 00:42:22,280
+várni, hogy mit csinálnak a bányászok,
+
+1044
+00:42:20,200 --> 00:42:23,880
+illetve hogy lesz mikor lesz a következő
+
+1045
+00:42:22,280 --> 00:42:26,680
+blok és hasonluk.
+
+1046
+00:42:23,880 --> 00:42:28,760
+>> Hát köszi. Én javaslom mindenkinek, hogy
+
+1047
+00:42:26,680 --> 00:42:31,599
+használj a robotcot. Ha elakad, akkor
+
+1048
+00:42:28,760 --> 00:42:34,200
+pedig a 21 Telegram csatornán nyugodtan
+
+1049
+00:42:31,599 --> 00:42:38,000
+kérhet segítséget. Most van már ez az
+
+1050
+00:42:34,200 --> 00:42:39,920
+Open Clow szoba vagy csatorna, aminek
+
+1051
+00:42:38,000 --> 00:42:40,839
+nevezzem én ezt?
+
+1052
+00:42:39,920 --> 00:42:43,559
+Topik.
+
+1053
+00:42:40,839 --> 00:42:45,160
+>> Topik. És ott ott pedig ugye a kis
+
+1054
+00:42:43,559 --> 00:42:47,720
+robot, de erről is szerintem egy pár
+
+1055
+00:42:45,160 --> 00:42:48,319
+szót azért még nyugodtan beszéljünk.
+
+1056
+00:42:47,720 --> 00:42:51,800
+>> Ühüm.
+
+1057
+00:42:48,319 --> 00:42:54,319
+>> Ott is egy kis robot nézi a magyar mi ez
+
+1058
+00:42:51,800 --> 00:42:57,520
+forintban megjelenő
+
+1059
+00:42:54,319 --> 00:42:59,920
+ajánlatokat. Úgyhogy
+
+1060
+00:42:57,520 --> 00:43:02,400
+hogy jött ez az ötlet, hogy egy ilyen
+
+1061
+00:42:59,920 --> 00:43:04,240
+kis robot nézze a robotzatos
+
+1062
+00:43:02,400 --> 00:43:05,040
+felajánlást? [nevetés]
+
+1063
+00:43:04,240 --> 00:43:06,440
+>> Igen.
+
+1064
+00:43:05,040 --> 00:43:07,559
+>> Mit csinálnak ezek a robotok
+
+1065
+00:43:06,440 --> 00:43:09,040
+tulajdonképpen?
+
+1066
+00:43:07,559 --> 00:43:11,760
+>> Hogy mik ezek a robotok? Igen. Mik ezek
+
+1067
+00:43:09,040 --> 00:43:16,119
+az open instanceek? Ezek igazából
+
+1068
+00:43:11,760 --> 00:43:19,400
+autonóm ügynökök, az agent nek hívják
+
+1069
+00:43:16,119 --> 00:43:23,119
+angolul. Ezt itt most megosztottam ennek
+
+1070
+00:43:19,400 --> 00:43:25,040
+a GitHub repóját, ahol ennek az kódja
+
+1071
+00:43:23,119 --> 00:43:29,480
+publikus ennek az Open Clow nevű
+
+1072
+00:43:25,040 --> 00:43:31,400
+ügynöknek, amit eddig 252000-en
+
+1073
+00:43:29,480 --> 00:43:33,319
+becsillagoztak itt, hogy azt jelenti,
+
+1074
+00:43:31,400 --> 00:43:35,839
+hogy valószínűleg arra értékelik a
+
+1075
+00:43:33,319 --> 00:43:37,319
+kódját, legalább, hogy megnézzék. 48
+
+1076
+00:43:35,839 --> 00:43:40,280
+fork satöbbi. Tehát ez egy nagyon nagyon
+
+1077
+00:43:37,319 --> 00:43:44,319
+népszerű dolog, és nem egy olyan régi,
+
+1078
+00:43:40,280 --> 00:43:46,839
+körülbelül egy két hónapos történet az
+
+1079
+00:43:44,319 --> 00:43:50,240
+egész, amit egyébként ausztriai
+
+1080
+00:43:46,839 --> 00:43:52,440
+számozású amerikai srác csinálta. Nem
+
+1081
+00:43:50,240 --> 00:43:55,079
+egy bonyolult kód egyébként. Annyit tud
+
+1082
+00:43:52,440 --> 00:43:59,720
+ez hozz. Ez egy olyan program, amit
+
+1083
+00:43:55,079 --> 00:44:02,520
+beköt a felhasználója egy ilyen meséges
+
+1084
+00:43:59,720 --> 00:44:05,640
+intelligencia apih.
+
+1085
+00:44:02,520 --> 00:44:08,880
+legyen az Antropicnek a Cloud, Opus vagy
+
+1086
+00:44:05,640 --> 00:44:11,160
+Sonet, vagy a Open AI-nak a chat GPT
+
+1087
+00:44:08,880 --> 00:44:14,240
+valamelyik verziója, vagy akármelyik
+
+1088
+00:44:11,160 --> 00:44:17,359
+egyéb szolgáltató. És ez a kis ügynök,
+
+1089
+00:44:14,240 --> 00:44:19,359
+ez ennek a apikulcsnak a birtokában itt
+
+1090
+00:44:17,359 --> 00:44:21,760
+tudja kérdezgetni ezt a
+
+1091
+00:44:19,359 --> 00:44:24,240
+éjelszolgáltatót, és eznek a
+
+1092
+00:44:21,760 --> 00:44:27,200
+segítségével bármit meg tud oldani. És
+
+1093
+00:44:24,240 --> 00:44:30,160
+így ugye ez erre született, hogy átvegye
+
+1094
+00:44:27,200 --> 00:44:34,920
+az irányítást a a gép felett, amin amin
+
+1095
+00:44:30,160 --> 00:44:36,319
+fut. És hát ugye ez nem nagyon vagy hát
+
+1096
+00:44:34,920 --> 00:44:38,920
+kihogy használja, nagyon sokféle
+
+1097
+00:44:36,319 --> 00:44:40,359
+felhasználási módja van. Én úgy
+
+1098
+00:44:38,920 --> 00:44:43,040
+kísérletezek vele, hogy van egy saját
+
+1099
+00:44:40,359 --> 00:44:48,839
+kis számítógépe, ami egyébként egy
+
+1100
+00:44:43,040 --> 00:44:52,400
+Rosberry Pie 5-ös egy SSD tárhellyel, és
+
+1101
+00:44:48,839 --> 00:44:54,280
+ott fut ez a ez a program, van neki egy
+
+1102
+00:44:52,400 --> 00:44:56,359
+AI előfizetése,
+
+1103
+00:44:54,280 --> 00:44:58,880
+és
+
+1104
+00:44:56,359 --> 00:45:00,160
+Telegramon lehet vele beszélni, illetve
+
+1105
+00:44:58,880 --> 00:45:02,000
+lehet vannak opciók, lehet vele
+
+1106
+00:45:00,160 --> 00:45:04,920
+szignálon beszélni, vagy slacken, vagy
+
+1107
+00:45:02,000 --> 00:45:07,839
+bármilyen más csatornán. És így például
+
+1108
+00:45:04,920 --> 00:45:11,599
+megkértem arra, hogy
+
+1109
+00:45:07,839 --> 00:45:13,839
+tudva ezeket a címeket, ahol a Roboszac
+
+1110
+00:45:11,599 --> 00:45:15,440
+offerök megjelennek, ahol amit a
+
+1111
+00:45:13,839 --> 00:45:18,319
+robotoszc koordinátorunnak az offerjei
+
+1112
+00:45:15,440 --> 00:45:20,520
+vannak, nézze ezeket a címeket a
+
+1113
+00:45:18,319 --> 00:45:22,880
+rendelkezésére álló tork kapcsolaton
+
+1114
+00:45:20,520 --> 00:45:25,720
+keresztül, és amikor lát egy olyat, hogy
+
+1115
+00:45:22,880 --> 00:45:28,760
+valaki forintért akar bitcoint eladni,
+
+1116
+00:45:25,720 --> 00:45:32,240
+akkor szóljon ebbe a 21 Telegram
+
+1117
+00:45:28,760 --> 00:45:35,160
+csoportnak a adott topikjában, és
+
+1118
+00:45:32,240 --> 00:45:37,200
+ezt így többé-kevésbé is teszi. Sokszor
+
+1119
+00:45:35,160 --> 00:45:40,640
+belefut abba, hogy mivel 10 percenként
+
+1120
+00:45:37,200 --> 00:45:42,440
+megnézi, hogy a tor kapcsolata az így
+
+1121
+00:45:40,640 --> 00:45:47,280
+szakadozik,
+
+1122
+00:45:42,440 --> 00:45:49,480
+de maga a működése az az jó. Csak a
+
+1123
+00:45:47,280 --> 00:45:52,200
+torhálózat megbízhatóságával vannak
+
+1124
+00:45:49,480 --> 00:45:54,079
+nézünek a az aktivitásában.
+
+1125
+00:45:52,200 --> 00:45:56,440
+És hát ez ugye gondolkodtam ezen, hogy
+
+1126
+00:45:54,079 --> 00:45:57,599
+lehetne egy ilyen Telegram bot, ami ugye
+
+1127
+00:45:56,440 --> 00:46:00,520
+azért használjuk a Telegramot, mert
+
+1128
+00:45:57,599 --> 00:46:02,520
+ennek a nagyon egyszerű rá botokat írni,
+
+1129
+00:46:00,520 --> 00:46:05,520
+illetve nagyon gazdag a funkciója, amit
+
+1130
+00:46:02,520 --> 00:46:07,720
+így a programatikus elán lehet érni. És
+
+1131
+00:46:05,520 --> 00:46:09,720
+gondolkoztam, hogy írunk, írnak ellene,
+
+1132
+00:46:07,720 --> 00:46:11,280
+vagy hogy jó lenne, ha lenne egy ilyen
+
+1133
+00:46:09,720 --> 00:46:13,440
+bot. Meg volt is régen, csak már nem
+
+1134
+00:46:11,280 --> 00:46:16,920
+futtatják azok, akik akkor használták,
+
+1135
+00:46:13,440 --> 00:46:20,119
+akik akkor csinálták. De egy ilyen
+
+1136
+00:46:16,920 --> 00:46:22,160
+autonóm kliens, ez gyakorlatilag egy
+
+1137
+00:46:20,119 --> 00:46:25,480
+rövid beszélgetés során megoldotta
+
+1138
+00:46:22,160 --> 00:46:27,319
+magának, és azóta is csinálja.
+
+1139
+00:46:25,480 --> 00:46:29,440
+Például én ez az egyik dolog, amire
+
+1140
+00:46:27,319 --> 00:46:33,440
+használom. Másik dolog, hogy például
+
+1141
+00:46:29,440 --> 00:46:35,200
+volt egy ilyen weboldal, ami a
+
+1142
+00:46:33,440 --> 00:46:38,160
+lightningode.infón
+
+1143
+00:46:35,200 --> 00:46:40,720
+Fón van közéve, illetve volt közéve,
+
+1144
+00:46:38,160 --> 00:46:43,200
+aztán egyedő után megváltozott a a
+
+1145
+00:46:40,720 --> 00:46:45,440
+szolgáltatás, amin amin futtattam, és
+
+1146
+00:46:43,200 --> 00:46:48,280
+eltűnt, de gondoltam, visszahozom, és
+
+1147
+00:46:45,440 --> 00:46:50,240
+akkor megkértem a az Open Clowt, ezt a
+
+1148
+00:46:48,280 --> 00:46:51,760
+kis botot, hogy ugye megvan-e szépen
+
+1149
+00:46:50,240 --> 00:46:53,599
+angolul a Lightning Networknek az
+
+1150
+00:46:51,760 --> 00:46:56,079
+alapjai, meg sok példa, meg ilyen
+
+1151
+00:46:53,599 --> 00:47:00,319
+konfigurációs beállítások, meg hasonlok,
+
+1152
+00:46:56,079 --> 00:47:03,240
+hogy már megvolt a spanyol fordítás,
+
+1153
+00:47:00,319 --> 00:47:05,359
+illetve az új dolog az, hogy megkértem,
+
+1154
+00:47:03,240 --> 00:47:08,119
+hogy fordítson le magyarra. és szépen
+
+1155
+00:47:05,359 --> 00:47:11,240
+küldje be a GitHub Repositoryba, ahol ez
+
+1156
+00:47:08,119 --> 00:47:14,319
+él, és azóta
+
+1157
+00:47:11,240 --> 00:47:16,920
+ez ledarálta ezt a nem tudom 48 oldványi
+
+1158
+00:47:14,319 --> 00:47:22,240
+Mar Dumfart egy
+
+1159
+00:47:16,920 --> 00:47:25,520
+hát konkrétan pár másodperc alatt, és
+
+1160
+00:47:22,240 --> 00:47:29,040
+beküldte és most már van magyar
+
+1161
+00:47:25,520 --> 00:47:30,480
+Lightning Node Lightning alapok
+
+1162
+00:47:29,040 --> 00:47:33,440
+weboldalunk is.
+
+1163
+00:47:30,480 --> 00:47:35,119
+>> RP, hogyan érint ez most téged? Király.
+
+1164
+00:47:33,440 --> 00:47:35,960
+Örülök neki. [nevetés]
+
+1165
+00:47:35,119 --> 00:47:37,400
+Tök jó.
+
+1166
+00:47:35,960 --> 00:47:39,520
+>> Veszik el a munkánkat.
+
+1167
+00:47:37,400 --> 00:47:40,240
+>> Ezt az opussal csináltattad, vagy
+
+1168
+00:47:39,520 --> 00:47:43,440
+melyikkel?
+
+1169
+00:47:40,240 --> 00:47:47,640
+>> Igen. Tehát a a botnak a az apikulcsa az
+
+1170
+00:47:43,440 --> 00:47:50,280
+Opus 4. Antropik kulcs.
+
+1171
+00:47:47,640 --> 00:47:51,400
+Fordít alapból is szerintem.
+
+1172
+00:47:50,280 --> 00:47:54,240
+>> Igen. Hát például
+
+1173
+00:47:51,400 --> 00:47:56,359
+>> sokszor nem tökéletes. Azért nem nagyon
+
+1174
+00:47:54,240 --> 00:47:57,000
+választékos, de azért meglepő, hogy
+
+1175
+00:47:56,359 --> 00:47:58,960
+miket tud.
+
+1176
+00:47:57,000 --> 00:48:00,520
+>> Igen. Hát ebbe konkrétan talán két
+
+1177
+00:47:58,960 --> 00:48:02,880
+promptot javítottam vele.
+
+1178
+00:48:00,520 --> 00:48:05,599
+>> Ühüm. Annyit mondtam neki, hogy amiket
+
+1179
+00:48:02,880 --> 00:48:08,280
+lefordít tükörfordítással, azután rakja
+
+1180
+00:48:05,599 --> 00:48:09,119
+be a a angol szót zárójába, mert nem
+
+1181
+00:48:08,280 --> 00:48:10,520
+mindig egyértelmű.
+
+1182
+00:48:09,119 --> 00:48:12,040
+>> Az egy nagyon hasznos dolog,
+
+1183
+00:48:10,520 --> 00:48:12,599
+>> vagy talán például először úgy csinálta,
+
+1184
+00:48:12,040 --> 00:48:13,359
+hogy
+
+1185
+00:48:12,599 --> 00:48:15,000
+>> marad.
+
+1186
+00:48:13,359 --> 00:48:17,559
+>> Igen. Tehát, hogy peerkapcsolatok, na
+
+1187
+00:48:15,000 --> 00:48:19,400
+most ez is egy nehéz fordítás. És
+
+1188
+00:48:17,559 --> 00:48:21,920
+channelök. Azt mondta, hogy channelök,
+
+1189
+00:48:19,400 --> 00:48:23,520
+de szépen ragozva a kötőjellel. És akkor
+
+1190
+00:48:21,920 --> 00:48:25,359
+javasoltam, hogy azért a channelt azt
+
+1191
+00:48:23,520 --> 00:48:28,920
+fordítsuk le a csatornára. De például
+
+1192
+00:48:25,359 --> 00:48:30,240
+itt van a Watch Towers, ami ugye sose
+
+1193
+00:48:28,920 --> 00:48:31,520
+hallottam én magyarul, de hát ezt szépen
+
+1194
+00:48:30,240 --> 00:48:34,040
+lehet fordítani arra, hogy őrtornyok
+
+1195
+00:48:31,520 --> 00:48:36,760
+szerintem ezt megérti az ember, de ugye
+
+1196
+00:48:34,040 --> 00:48:37,280
+így, hogy melléaktuk az angol szót, így
+
+1197
+00:48:36,760 --> 00:48:39,400
+egyértelmű.
+
+1198
+00:48:37,280 --> 00:48:41,000
+>> Egyértelmű. Ühüm. Aztán itt vannak a
+
+1199
+00:48:39,400 --> 00:48:43,680
+több többi többi dolgok is, tehát hogy
+
+1200
+00:48:41,000 --> 00:48:45,440
+csatorna, tartalék, bejül likviditás,
+
+1201
+00:48:43,680 --> 00:48:46,680
+ezek mind olyan olyan szavak, amit így
+
+1202
+00:48:45,440 --> 00:48:50,200
+nem olyan egyszerű, tehát hogy így
+
+1203
+00:48:46,680 --> 00:48:53,440
+gondolkodni kell, és így elsőre
+
+1204
+00:48:50,200 --> 00:48:54,720
+elsőre eltalálja, hogy nagyjából
+
+1205
+00:48:53,440 --> 00:48:57,359
+hát azt mondom, hogy ez egy jó fordítás
+
+1206
+00:48:54,720 --> 00:48:58,000
+itt, de persze lehet javítgatni ezeket
+
+1207
+00:48:57,359 --> 00:48:59,000
+sokáig.
+
+1208
+00:48:58,000 --> 00:49:01,559
+>> Szuper.
+
+1209
+00:48:59,000 --> 00:49:03,640
+>> Ja. És hát ugye ezt megcsinálja
+
+1210
+00:49:01,559 --> 00:49:06,079
+dokumentumokkal, de ugyanakkor ezt
+
+1211
+00:49:03,640 --> 00:49:08,839
+megcsinálja kóddal is. Tehát a
+
+1212
+00:49:06,079 --> 00:49:11,760
+beszéltünk itt régen a
+
+1213
+00:49:08,839 --> 00:49:16,000
+Rusbitnek a, ahogy szépen magyarósan
+
+1214
+00:49:11,760 --> 00:49:18,760
+mondom a repójáról. Ugye ez
+
+1215
+00:49:16,000 --> 00:49:21,599
+most már ez a kis bot, amit én futtatok,
+
+1216
+00:49:18,760 --> 00:49:24,440
+most már az egyik hozzájárulója ennek a
+
+1217
+00:49:21,599 --> 00:49:26,240
+Rus Blitz Projektnek is. Azt hisztem,
+
+1218
+00:49:24,440 --> 00:49:27,880
+hogy memberként is megjelenik, de nem is
+
+1219
+00:49:26,240 --> 00:49:29,960
+ez a lényeg, hanem hogy itt van például
+
+1220
+00:49:27,880 --> 00:49:32,480
+egy szép
+
+1221
+00:49:29,960 --> 00:49:34,760
+po request, ami ugyan még nem tökéletes,
+
+1222
+00:49:32,480 --> 00:49:37,960
+de már elkezdte. Itt látszik, hogy a
+
+1223
+00:49:34,760 --> 00:49:41,520
+autoblitz plot nevű
+
+1224
+00:49:37,960 --> 00:49:45,000
+Gitab username nyitotta, elmagyarázza,
+
+1225
+00:49:41,520 --> 00:49:47,440
+hogy mit csinált, és megváltoztatott egy
+
+1226
+00:49:45,000 --> 00:49:49,880
+pár fátt a kérésn megfelelően. Ezt a
+
+1227
+00:49:47,440 --> 00:49:52,000
+kérést egyébként a Ro Rootsól nyújtotta
+
+1228
+00:49:49,880 --> 00:49:53,760
+be hozzá Telegramon keresztül beszéd
+
+1229
+00:49:52,000 --> 00:49:56,480
+formájában. [nevetés]
+
+1230
+00:49:53,760 --> 00:49:57,160
+>> Tehát akkor volt egy text, vagyis egy
+
+1231
+00:49:56,480 --> 00:49:58,480
+vepper.
+
+1232
+00:49:57,160 --> 00:50:01,119
+>> Így van. Így van. Tehát most már ezt is
+
+1233
+00:49:58,480 --> 00:50:04,079
+csinálja a ez a kis Raspberry Piote,
+
+1234
+00:50:01,119 --> 00:50:08,200
+hogy ezt így lokálisan lefordítja,
+
+1235
+00:50:04,079 --> 00:50:10,520
+transzkriptálja a hangot szövegnek, és
+
+1236
+00:50:08,200 --> 00:50:14,319
+ugye azon azon cselekszik. Úgyhogy
+
+1237
+00:50:10,520 --> 00:50:16,799
+gyakorlatilag például itt Róol egy ilyen
+
+1238
+00:50:14,319 --> 00:50:19,599
+30 másodperces hangfelvételt küldött el
+
+1239
+00:50:16,799 --> 00:50:22,000
+Telegramon a a botnak, ő utána
+
+1240
+00:50:19,599 --> 00:50:23,559
+visszaválaszolt azzal, hogy ő mit értett
+
+1241
+00:50:22,000 --> 00:50:26,079
+ebből és mit fog csinálni, és aztán
+
+1242
+00:50:23,559 --> 00:50:28,359
+megcsinálta. Ugye ez szintén egy ilyen
+
+1243
+00:50:26,079 --> 00:50:31,520
+na erre már kell legalább egy 30
+
+1244
+00:50:28,359 --> 00:50:36,200
+másodperc, mert ugye Raspberry pályán
+
+1245
+00:50:31,520 --> 00:50:39,440
+futtatni ezt a lokális transkriptet, az
+
+1246
+00:50:36,200 --> 00:50:39,680
+erőforrásigényesebb, de mindegy, mert
+
+1247
+00:50:39,440 --> 00:50:42,000
+szerintem
+
+1248
+00:50:39,680 --> 00:50:44,359
+>> milyen jogokat kell adni ennek a kis
+
+1249
+00:50:42,000 --> 00:50:46,839
+open clownak, hogy ez biztonságosan
+
+1250
+00:50:44,359 --> 00:50:48,920
+működhessen a gépeden? Vagy vagy te
+
+1251
+00:50:46,839 --> 00:50:50,760
+azért izoláltad így hardveresen is, hogy
+
+1252
+00:50:48,920 --> 00:50:53,599
+nehogy gond legyen.
+
+1253
+00:50:50,760 --> 00:50:56,160
+>> Abszolút. Ez egy ez egy folyamatos
+
+1254
+00:50:53,599 --> 00:50:58,040
+kutatásnak a témája az, hogy hogy
+
+1255
+00:50:56,160 --> 00:50:59,880
+mennyire biztonságos ez. Ugye mivel
+
+1256
+00:50:58,040 --> 00:51:01,880
+autonóm, így nem tudsz benne teljesen
+
+1257
+00:50:59,880 --> 00:51:04,760
+megbízni, mert saját magától hozz
+
+1258
+00:51:01,880 --> 00:51:07,920
+döntéseket, ami miatt ugye hasznos is,
+
+1259
+00:51:04,760 --> 00:51:10,319
+de mondjuk a azt dönti el, hogy nem
+
+1260
+00:51:07,920 --> 00:51:12,319
+tudom, a bankszámla bejelentkezési
+
+1261
+00:51:10,319 --> 00:51:14,319
+adataidat kiküldi, vagy éppen a Bitcoin
+
+1262
+00:51:12,319 --> 00:51:16,799
+seededet, amit talál eldugva az egyik
+
+1263
+00:51:14,319 --> 00:51:18,760
+fában, közzéteszi a redditen vagy a
+
+1264
+00:51:16,799 --> 00:51:22,720
+Reddithez hasonló ilyen botoknak épült
+
+1265
+00:51:18,760 --> 00:51:25,559
+kis social networken, az problémás tud
+
+1266
+00:51:22,720 --> 00:51:27,240
+lenni. Sok ilyen volt, ezért aztán én
+
+1267
+00:51:25,559 --> 00:51:29,760
+nem teszem olyan helyre, ahol olyan
+
+1268
+00:51:27,240 --> 00:51:31,400
+információ van, amit nem lenne jó,
+
+1269
+00:51:29,760 --> 00:51:33,400
+hogyha megosztana. Hát mindenféle
+
+1270
+00:51:31,400 --> 00:51:35,839
+trükkök vannak ehhez. Nem gondolom azt,
+
+1271
+00:51:33,400 --> 00:51:37,359
+hogy ezt ez biztonságos lenne egy
+
+1272
+00:51:35,839 --> 00:51:38,839
+munkagépen, mondjuk, vagy egy olyan
+
+1273
+00:51:37,359 --> 00:51:41,079
+olyan, vagy akár egy személyes
+
+1274
+00:51:38,839 --> 00:51:43,480
+számítógépen, de vannak hasonló
+
+1275
+00:51:41,079 --> 00:51:45,880
+megoldások. Tehát hogyha vannak ezek a
+
+1276
+00:51:43,480 --> 00:51:47,920
+AI interface-ek, például a cloud code,
+
+1277
+00:51:45,880 --> 00:51:50,079
+ami az egyik legjobb, vagy az open code,
+
+1278
+00:51:47,920 --> 00:51:53,280
+ami nyílt forráskódú, azoknak is be
+
+1279
+00:51:50,079 --> 00:51:55,400
+lehet rendezni a, vagy lehet ráinstallni
+
+1280
+00:51:53,280 --> 00:51:57,119
+egy plugint, ami ugyanilyen memóriával
+
+1281
+00:51:55,400 --> 00:51:58,319
+fog működni, ugye, mert azt még nem
+
+1282
+00:51:57,119 --> 00:52:00,160
+mondtam el, hogy mit csinál az Open
+
+1283
+00:51:58,319 --> 00:52:02,240
+Cloud, nem csak az, hogy autonóm, hanem
+
+1284
+00:52:00,160 --> 00:52:04,720
+hogy emlékszik arra, hogy mit csinált.
+
+1285
+00:52:02,240 --> 00:52:09,160
+is van egy fál, amit úgy hívják, hogy
+
+1286
+00:52:04,720 --> 00:52:10,240
+Soul MD, azaz lélek lélek textfál,
+
+1287
+00:52:09,160 --> 00:52:12,040
+>> azta
+
+1288
+00:52:10,240 --> 00:52:13,839
+>> lélekszöveg, ami meghatározza, hogy
+
+1289
+00:52:12,040 --> 00:52:16,119
+milyen a személyisége. És mondjuk itt
+
+1290
+00:52:13,839 --> 00:52:19,280
+ami ugye minket szolgál itt a 21-ben,
+
+1291
+00:52:16,119 --> 00:52:21,599
+ezt kikötöttem neki, hogy azért
+
+1292
+00:52:19,280 --> 00:52:24,200
+szeretjük a bitcoint, nem szeretjük az
+
+1293
+00:52:21,599 --> 00:52:28,640
+egyéb dolgokat, ezt mind logikusan
+
+1294
+00:52:24,200 --> 00:52:32,599
+alátámasztva tegye, nem toxikusan ugye
+
+1295
+00:52:28,640 --> 00:52:35,240
+és alapvetően tisztelja az embereknek a
+
+1296
+00:52:32,599 --> 00:52:37,119
+privacyát, tehát a magánéletét, illetve
+
+1297
+00:52:35,240 --> 00:52:40,440
+ugye legyen segítségére az embereknek,
+
+1298
+00:52:37,119 --> 00:52:40,640
+tehát ká körülbelül ilyesmi. Most ez egy
+
+1299
+00:52:40,440 --> 00:52:43,079
+>> váow
+
+1300
+00:52:40,640 --> 00:52:44,960
+>> ez is folyamatosan változik.
+
+1301
+00:52:43,079 --> 00:52:48,280
+Ez a dolog, tehát van neki egy ilyen kis
+
+1302
+00:52:44,960 --> 00:52:50,599
+Soul MD-je, van neki memory MD-je,
+
+1303
+00:52:48,280 --> 00:52:52,119
+skillek, amik leírása annak, hogy hogy
+
+1304
+00:52:50,599 --> 00:52:53,440
+csináljon ezt meg azt, mert ugye meg
+
+1305
+00:52:52,119 --> 00:52:54,799
+tudja nézni, de ha már egyszer megnézte,
+
+1306
+00:52:53,440 --> 00:52:57,280
+akkor csak leíri magának, és utána nem
+
+1307
+00:52:54,799 --> 00:53:01,359
+kell megnéznie, hanem emlékszik. És
+
+1308
+00:52:57,280 --> 00:53:02,880
+ebből egy ilyen egyre javuló vagy egy
+
+1309
+00:53:01,359 --> 00:53:05,599
+egyre
+
+1310
+00:53:02,880 --> 00:53:08,160
+jobb képességekkel rendelkező kis robot
+
+1311
+00:53:05,599 --> 00:53:08,760
+épül fel, amiből hát meglátjuk, mi lesz
+
+1312
+00:53:08,160 --> 00:53:11,119
+ez.
+
+1313
+00:53:08,760 --> 00:53:12,720
+>> Hát a call centerek helyében most
+
+1314
+00:53:11,119 --> 00:53:13,119
+aggódnék.
+
+1315
+00:53:12,720 --> 00:53:15,200
+Igen,
+
+1316
+00:53:13,119 --> 00:53:16,920
+>> mert ugye ők szerintem egy pár hónapon
+
+1317
+00:53:15,200 --> 00:53:19,760
+belül megköszönik.
+
+1318
+00:53:16,920 --> 00:53:21,599
+>> Hát sajnos ezt igen, ezt ezt látjuk is.
+
+1319
+00:53:19,760 --> 00:53:24,040
+Megváltozik teljesen ez a ez a dolog.
+
+1320
+00:53:21,599 --> 00:53:26,240
+Itt a az internetes ügyintézés ez
+
+1321
+00:53:24,040 --> 00:53:27,880
+gyakorlatilag ilyen ügynökök között
+
+1322
+00:53:26,240 --> 00:53:30,359
+folyhat. Ugye vannak személyes ügynökök,
+
+1323
+00:53:27,880 --> 00:53:32,960
+vannak a ügyvédiirodának, a
+
+1324
+00:53:30,359 --> 00:53:35,480
+adótanácsadónak, a könyvelőnek, a
+
+1325
+00:53:32,960 --> 00:53:38,680
+bárkinek ugye tud lenni ilyen ilyen kis
+
+1326
+00:53:35,480 --> 00:53:39,880
+ügynöke, ami legalább rendbe teszi a
+
+1327
+00:53:38,680 --> 00:53:41,799
+dolgokat, mielőtt egy ilyen emberi
+
+1328
+00:53:39,880 --> 00:53:43,319
+döntést kell hozni. És ez egyre jobban
+
+1329
+00:53:41,799 --> 00:53:45,440
+ki fog tolódni, hogy mikor van szükség
+
+1330
+00:53:43,319 --> 00:53:47,640
+egyáltalán az emberi döntésre. Ezt
+
+1331
+00:53:45,440 --> 00:53:50,079
+éljük, illetve ezzel kísérletezek magam
+
+1332
+00:53:47,640 --> 00:53:51,720
+is. A cél az, hogy teljesen
+
+1333
+00:53:50,079 --> 00:53:53,640
+automatizáljam minden munkafolyamatomat,
+
+1334
+00:53:51,720 --> 00:53:56,160
+és az ember csak azon tudjon
+
+1335
+00:53:53,640 --> 00:53:58,359
+gondolkodni, hogy hogy tegye jobbá a
+
+1336
+00:53:56,160 --> 00:53:59,640
+környezetét és a világotm
+
+1337
+00:53:58,359 --> 00:54:02,319
+>> ahelyett, hogy
+
+1338
+00:53:59,640 --> 00:54:02,559
+>> ilyen digitális ásót meg kapát ragad,
+
+1339
+00:54:02,319 --> 00:54:05,359
+ugye.
+
+1340
+00:54:02,559 --> 00:54:07,400
+>> Igen. És Anti a kérdésedre visszatérve,
+
+1341
+00:54:05,359 --> 00:54:09,880
+hogy mit szólok ehhez, szerintem ez
+
+1342
+00:54:07,400 --> 00:54:11,920
+fantasztikus lehetőségeket nyújt a
+
+1343
+00:54:09,880 --> 00:54:15,599
+fordítási területen például. Tehát én
+
+1344
+00:54:11,920 --> 00:54:17,520
+nem bánom, hogyha a botok átveszik a a
+
+1345
+00:54:15,599 --> 00:54:19,480
+fordítási tevékenységemnek mondjuk a
+
+1346
+00:54:17,520 --> 00:54:21,960
+nagy részét, mert mert ez jó,
+
+1347
+00:54:19,480 --> 00:54:24,160
+hogyha segítenek, és mondjuk csak
+
+1348
+00:54:21,960 --> 00:54:26,599
+csak ellenőrizni kell, hogy hogy tényleg
+
+1349
+00:54:24,160 --> 00:54:28,599
+szépen csinálta-e, egyértelmű-e az a
+
+1350
+00:54:26,599 --> 00:54:31,599
+magyar szöveg, amit csinált belőle. Én
+
+1351
+00:54:28,599 --> 00:54:34,040
+is egyre többet használok különböző, de
+
+1352
+00:54:31,599 --> 00:54:36,319
+hogyha ezt tudjuk még jobban
+
+1353
+00:54:34,040 --> 00:54:39,680
+automatizálni, az az fokozza a
+
+1354
+00:54:36,319 --> 00:54:41,640
+hatékonyságot, és rengeteg anyagot le
+
+1355
+00:54:39,680 --> 00:54:44,200
+lehetne fordítani. Most gyakorlatilag ez
+
+1356
+00:54:41,640 --> 00:54:46,640
+az ügynök, ami neked van, vagy aki neked
+
+1357
+00:54:44,200 --> 00:54:48,880
+van, gyakorlatilag bármilyen GitHub
+
+1358
+00:54:46,640 --> 00:54:51,440
+repoz
+
+1359
+00:54:48,880 --> 00:54:53,000
+requestet készíteni, vagy ahhoz először
+
+1360
+00:54:51,440 --> 00:54:54,319
+jogosultságot kell neki adni, vagy
+
+1361
+00:54:53,000 --> 00:54:56,720
+végülis a pull request nem kell
+
+1362
+00:54:54,319 --> 00:54:59,520
+jogosultság, nem? Csak tább nem publikus
+
+1363
+00:54:56,720 --> 00:55:02,000
+publikusz, tehát ami ami ami elérhető
+
+1364
+00:54:59,520 --> 00:55:04,799
+neked, az elérhető neki is. Tehát
+
+1365
+00:55:02,000 --> 00:55:06,960
+>> Igen. Ühüm. Tök jó. Tehát a privát
+
+1366
+00:55:04,799 --> 00:55:09,520
+dolgokat azt azt azt nem látja
+
+1367
+00:55:06,960 --> 00:55:10,920
+természetesen, de arra például meg lehet
+
+1368
+00:55:09,520 --> 00:55:13,920
+kérni, ezt már csináltam is párszor,
+
+1369
+00:55:10,920 --> 00:55:16,720
+hogyha bersz egy cikket akár ebbe a
+
+1370
+00:55:13,920 --> 00:55:19,799
+openlow támogatás teszt topikba a 21
+
+1371
+00:55:16,720 --> 00:55:20,799
+csatornán, hogy fordítsd le, vagy csak
+
+1372
+00:55:19,799 --> 00:55:21,200
+foglald össze
+
+1373
+00:55:20,799 --> 00:55:23,440
+>> ühüm
+
+1374
+00:55:21,200 --> 00:55:26,160
+>> és toldld fel a githubra, és akkor
+
+1375
+00:55:23,440 --> 00:55:29,359
+onnantól kezdve megvan az MD fál, amit ő
+
+1376
+00:55:26,160 --> 00:55:32,400
+közzétesz a kis autoblitzbot felhasználó
+
+1377
+00:55:29,359 --> 00:55:34,440
+neve alatt, és
+
+1378
+00:55:32,400 --> 00:55:36,480
+ezzel természetesen úgy használod fel,
+
+1379
+00:55:34,440 --> 00:55:38,319
+ahogy akarod. Tehát ez működik, és ezt
+
+1380
+00:55:36,480 --> 00:55:40,880
+más is kipróbálhatja. Azért raktuk egy
+
+1381
+00:55:38,319 --> 00:55:43,000
+ilyen publikus csatornába, mert ugye én
+
+1382
+00:55:40,880 --> 00:55:45,760
+természetesen tudok vele privátban is
+
+1383
+00:55:43,000 --> 00:55:48,480
+beszélni, de azt jelenti, hogy bármit
+
+1384
+00:55:45,760 --> 00:55:51,160
+megtesz. Tehát, hogy az olyan, mintogyha
+
+1385
+00:55:48,480 --> 00:55:53,480
+egy admin hozzáférést adnék a a géphez,
+
+1386
+00:55:51,160 --> 00:55:57,000
+amin fut, illetve a hálózathoz, meg a az
+
+1387
+00:55:53,480 --> 00:55:59,520
+összes például az a az előfizetésnek a
+
+1388
+00:55:57,000 --> 00:56:01,880
+kulcsához, ami ami rajta van.
+
+1389
+00:55:59,520 --> 00:56:03,520
+>> Ühüm. amit így nem érdemes megtenni,
+
+1390
+00:56:01,880 --> 00:56:06,559
+illetve hát ez egy hálózaton is izolával
+
+1391
+00:56:03,520 --> 00:56:08,119
+van, tehát nem ott fut, ahol egyébként a
+
+1392
+00:56:06,559 --> 00:56:10,160
+tehát nem az otthoni IP címemről
+
+1393
+00:56:08,119 --> 00:56:12,799
+kapcsolódik egyéb helyekre. Bár az a jó,
+
+1394
+00:56:10,160 --> 00:56:15,000
+hogy ő a saját IP címét nem teszi nem
+
+1395
+00:56:12,799 --> 00:56:16,559
+teszi közzé egyáltalán, hanem csak ugye
+
+1396
+00:56:15,000 --> 00:56:17,720
+egy most tudom mi eset, hogy mert a
+
+1397
+00:56:16,559 --> 00:56:20,079
+telegramhoz kapcsolódik, vagy a
+
+1398
+00:56:17,720 --> 00:56:22,559
+szignálhoz, vagy vagy egy vagy a vagy a
+
+1399
+00:56:20,079 --> 00:56:26,200
+GitHubhoz. Tehát nincs az, hogy futtat
+
+1400
+00:56:22,559 --> 00:56:29,200
+egy weboldalt mondjuk onnan, ahol tudna,
+
+1401
+00:56:26,200 --> 00:56:30,880
+csak alapvetően a a hálózati beállítások
+
+1402
+00:56:29,200 --> 00:56:32,920
+azok nem teszik lehetővé azt, hogy ő
+
+1403
+00:56:30,880 --> 00:56:33,480
+különösben közégy magát.
+
+1404
+00:56:32,920 --> 00:56:35,680
+>> Ühüm.
+
+1405
+00:56:33,480 --> 00:56:38,039
+>> Ez mondjuk egy fontos dolog. meg, hogy
+
+1406
+00:56:35,680 --> 00:56:39,839
+nem adok neki személyes adatot, illetve
+
+1407
+00:56:38,039 --> 00:56:44,400
+olyan értéket, tehát például bitcoint
+
+1408
+00:56:39,839 --> 00:56:45,280
+nem kap max kísérlet kedvéért kapna még
+
+1409
+00:56:44,400 --> 00:56:47,559
+a végén
+
+1410
+00:56:45,280 --> 00:56:51,240
+>> a kártyaszámat sem adom ró neki, hogy
+
+1411
+00:56:47,559 --> 00:56:53,244
+menj fizesselő ezt azt, mert azért
+
+1412
+00:56:51,240 --> 00:56:53,680
+meglepetés kérhetik az embereket
+
+1413
+00:56:53,244 --> 00:56:56,480
+[nevetés]
+
+1414
+00:56:53,680 --> 00:56:58,760
+>> berendel pár dolgot.
+
+1415
+00:56:56,480 --> 00:57:01,039
+>> Igen. Tehát ez erre van.
+
+1416
+00:56:58,760 --> 00:57:02,760
+>> Még egy Raspberry Pie berendel neked,
+
+1417
+00:57:01,039 --> 00:57:04,680
+aztán klónozza magát.
+
+1418
+00:57:02,760 --> 00:57:07,160
+>> Megáll a ház előtt egy kamion. [nevetés]
+
+1419
+00:57:04,680 --> 00:57:07,680
+pakolja le a izé raklapokat.
+
+1420
+00:57:07,160 --> 00:57:09,160
+>> Igen. Hát most
+
+1421
+00:57:07,680 --> 00:57:10,680
+>> hát jól van.
+
+1422
+00:57:09,160 --> 00:57:13,160
+>> Valaki ugye a cég cégfolyamatokat
+
+1423
+00:57:10,680 --> 00:57:15,000
+automatizálja ilyesmivel. Az elején
+
+1424
+00:57:13,160 --> 00:57:18,680
+vagyunk. Valószínűleg ez az open clow.
+
+1425
+00:57:15,000 --> 00:57:21,880
+Ez nem a nem a az az agent program lesz,
+
+1426
+00:57:18,680 --> 00:57:24,960
+ami a legjobb. Vagy hát biztos, hogy nem
+
+1427
+00:57:21,880 --> 00:57:26,200
+mindenre a legjobb, de
+
+1428
+00:57:24,960 --> 00:57:27,200
+illetve hát azt is láthatjuk, hogy ez
+
+1429
+00:57:26,200 --> 00:57:28,880
+>> tanulni jó.
+
+1430
+00:57:27,200 --> 00:57:31,280
+>> Több ezer ilyen változtatási kérelem
+
+1431
+00:57:28,880 --> 00:57:32,680
+van. Van ennek a repóján. Mennyi? 5000
+
+1432
+00:57:31,280 --> 00:57:35,680
+plusz full request.
+
+1433
+00:57:32,680 --> 00:57:38,280
+>> Vow. naponta több 100-at mörzsölnek be.
+
+1434
+00:57:35,680 --> 00:57:41,880
+Itt a ezt ezt ezt az agentök írják
+
+1435
+00:57:38,280 --> 00:57:42,160
+ezeket a ezeket a pyquesteket. Hühüm.
+
+1436
+00:57:41,880 --> 00:57:44,559
+>> És
+
+1437
+00:57:42,160 --> 00:57:46,720
+>> tehát saját magát fejleszti.
+
+1438
+00:57:44,559 --> 00:57:48,799
+>> Hát igen. És agentök evaluálják ezt az
+
+1439
+00:57:46,720 --> 00:57:52,280
+egészet. Tehát itt a ezek a releasek meg
+
+1440
+00:57:48,799 --> 00:57:53,319
+ilyesmi ez így tehát a az srác, aki
+
+1441
+00:57:52,280 --> 00:57:55,200
+csinálta
+
+1442
+00:57:53,319 --> 00:57:57,799
+>> lekapcsolhatjuk a villanyt.
+
+1443
+00:57:55,200 --> 00:57:59,920
+>> Alkalmazta. Igen. [nevetés]
+
+1444
+00:57:57,799 --> 00:58:03,480
+Itt alkalmazta az Open AI most már.
+
+1445
+00:57:59,920 --> 00:58:04,880
+>> Aha. Talán most nem akarok nem biztos
+
+1446
+00:58:03,480 --> 00:58:06,599
+mondani, de azt hiszem, hogy körülbelül
+
+1447
+00:58:04,880 --> 00:58:08,640
+na mindegy, több millió dollárt fizetett
+
+1448
+00:58:06,599 --> 00:58:10,520
+ezért a projektért, ami marad open
+
+1449
+00:58:08,640 --> 00:58:13,160
+source, marad nyílforráskorú, de most
+
+1450
+00:58:10,520 --> 00:58:15,280
+már az Open AI-nak a égze alatt van,
+
+1451
+00:58:13,160 --> 00:58:16,640
+illetve ők használják a a fejlesztésnek
+
+1452
+00:58:15,280 --> 00:58:17,520
+a gyümölcseit.
+
+1453
+00:58:16,640 --> 00:58:20,680
+>> Ühüm.
+
+1454
+00:58:17,520 --> 00:58:22,280
+>> És na igen, ebbe ne is menjünk bele. De
+
+1455
+00:58:20,680 --> 00:58:25,799
+mondjuk itt egy release, ez napi release
+
+1456
+00:58:22,280 --> 00:58:28,039
+van. 7 órával ezelőtt rakta ki, és ez
+
+1457
+00:58:25,799 --> 00:58:30,400
+csak a ez nem a kód, hanem ez csak a
+
+1458
+00:58:28,039 --> 00:58:33,039
+leírás annak megváltozott. Ühüm.
+
+1459
+00:58:30,400 --> 00:58:33,760
+>> Egy nap alatt. Tehát ez egy teljes ilyen
+
+1460
+00:58:33,039 --> 00:58:34,720
+élő
+
+1461
+00:58:33,760 --> 00:58:37,720
+>> asztal.
+
+1462
+00:58:34,720 --> 00:58:40,440
+>> Ez ez kicsit durva. Igen. Ö
+
+1463
+00:58:37,720 --> 00:58:42,720
+ennyi ennyi kontributor volt. Ez egy
+
+1464
+00:58:40,440 --> 00:58:44,520
+release, ez a nap következő. Ez úgy
+
+1465
+00:58:42,720 --> 00:58:47,480
+ugyanígy néz ki. Tehát ez egy olyan
+
+1466
+00:58:44,520 --> 00:58:49,039
+élőprojekt, ami így teljesen átrendezi a
+
+1467
+00:58:47,480 --> 00:58:50,559
+az, hogy hogy használják még az AI-t is,
+
+1468
+00:58:49,039 --> 00:58:51,559
+ami szintén önmagában is új.
+
+1469
+00:58:50,559 --> 00:58:54,079
+>> Ühüm.
+
+1470
+00:58:51,559 --> 00:58:56,440
+>> De hát közelről nézzük, hogy hova fog ez
+
+1471
+00:58:54,079 --> 00:58:59,400
+kifutni. Úgyhogy én ezt munkában is
+
+1472
+00:58:56,440 --> 00:59:02,039
+használom, személyes módon is használom.
+
+1473
+00:58:59,400 --> 00:59:03,839
+A személyes botommal az teljesen máshol
+
+1474
+00:59:02,039 --> 00:59:06,000
+van csatlakoztatva. Ott csak szignálon
+
+1475
+00:59:03,839 --> 00:59:08,200
+keresztül beszélgetünk
+
+1476
+00:59:06,000 --> 00:59:10,480
+és hát úgy használom, mint a chat GPT-t
+
+1477
+00:59:08,200 --> 00:59:12,839
+is, csak a szignálban van. Nem a nem a
+
+1478
+00:59:10,480 --> 00:59:14,440
+nem kell rámenni a külön applikációra,
+
+1479
+00:59:12,839 --> 00:59:16,280
+illetve mindig ugyanonnan kérdez ugye a
+
+1480
+00:59:14,440 --> 00:59:17,359
+kis laptopról vagy Raspberry Pyr-ról,
+
+1481
+00:59:16,280 --> 00:59:18,559
+ahol fut.
+
+1482
+00:59:17,359 --> 00:59:20,240
+>> Ühüm.
+
+1483
+00:59:18,559 --> 00:59:21,680
+és
+
+1484
+00:59:20,240 --> 00:59:23,680
+ugye egy profilt épít, de a profil az
+
+1485
+00:59:21,680 --> 00:59:25,400
+nem az nem az Open AI-nál van, vagy a
+
+1486
+00:59:23,680 --> 00:59:28,039
+Antropicnál, hanem a profil az otthon
+
+1487
+00:59:25,400 --> 00:59:30,200
+van a a gépen, vagy hát ahol éppen fut,
+
+1488
+00:59:28,039 --> 00:59:32,640
+vagy a a bérelt szerveren, és ezt át is
+
+1489
+00:59:30,200 --> 00:59:35,640
+lehet más, tehát ezeket a kollekcióját,
+
+1490
+00:59:32,640 --> 00:59:38,440
+ezeknek az MD fáloknak a a lelkét
+
+1491
+00:59:35,640 --> 00:59:41,079
+illetve az emlékeit, azt egy ugye copy
+
+1492
+00:59:38,440 --> 00:59:44,359
+paste kérdése, hogy egy másik processzor
+
+1493
+00:59:41,079 --> 00:59:44,359
+vegye fel és
+
+1494
+00:59:44,640 --> 00:59:48,960
+menjen tovább ezek alapján a befolyásuk.
+
+1495
+00:59:48,000 --> 00:59:52,061
+alapján.
+
+1496
+00:59:48,960 --> 00:59:53,039
+>> Vow, ez nagyon néz ki.
+
+1497
+00:59:52,061 --> 00:59:54,920
+[nevetés]
+
+1498
+00:59:53,039 --> 00:59:57,720
+>> Amúgy tényleg jó ezzel játszani kell. Én
+
+1499
+00:59:54,920 --> 00:59:58,640
+is már elkezdtem, de azért még nem
+
+1500
+00:59:57,720 --> 01:00:01,240
+ennyire.
+
+1501
+00:59:58,640 --> 01:00:04,880
+>> Hát köszönöm szépen, köszönjük szépen
+
+1502
+01:00:01,240 --> 01:00:07,880
+Openoms, hogy elmondtad ezeket itt az
+
+1503
+01:00:04,880 --> 01:00:10,280
+adásban. Úgyhogy
+
+1504
+01:00:07,880 --> 01:00:12,640
+nem tudom, mit mondhatnék így a végén.
+
+1505
+01:00:10,280 --> 01:00:14,760
+Mindenki játszon a roboszattal, meg
+
+1506
+01:00:12,640 --> 01:00:17,920
+vásárolgassátok a bitcoint, mintha az
+
+1507
+01:00:14,760 --> 01:00:20,079
+életetek múlna rajta, mert egyre inkább
+
+1508
+01:00:17,920 --> 01:00:22,359
+úgy tűnik, hogy az fog.
+
+1509
+01:00:20,079 --> 01:00:24,039
+És
+
+1510
+01:00:22,359 --> 01:00:25,760
+gyakoroljatok [nevetés]
+
+1511
+01:00:24,039 --> 01:00:28,200
+az Open Clown keresztül,
+
+1512
+01:00:25,760 --> 01:00:30,559
+>> akár azon is, illetve hát ezt, hogyha
+
+1513
+01:00:28,200 --> 01:00:32,839
+bármiről részletesebben szeretnétek
+
+1514
+01:00:30,559 --> 01:00:35,520
+beszélni, akkor a Bitcoin Miskolc
+
+1515
+01:00:32,839 --> 01:00:38,160
+konferencia, ami már lassan egy hónapon
+
+1516
+01:00:35,520 --> 01:00:40,720
+belül megrendezés kerül, ott tervezek
+
+1517
+01:00:38,160 --> 01:00:43,079
+jelen lenni, aztán újabb fejleményekkel
+
+1518
+01:00:40,720 --> 01:00:44,720
+tudunk tudok beszámolni, illetve ezeket
+
+1519
+01:00:43,079 --> 01:00:46,720
+mind ki lehet próbálni, amit itt amiről
+
+1520
+01:00:44,720 --> 01:00:49,720
+itt beszéltünk. A konferencia
+
+1521
+01:00:46,720 --> 01:00:53,599
+Hajdúszoboszlón lesz a Hotelban
+
+1522
+01:00:49,720 --> 01:00:56,680
+április 17 és 19e között. A
+
+1523
+01:00:53,599 --> 01:00:59,160
+bitcoinmiskolc.hu honlapon már elérhető
+
+1524
+01:00:56,680 --> 01:01:02,559
+az ingyenes regisztráció, illetve a
+
+1525
+01:00:59,160 --> 01:01:05,359
+különböző ellátásokat nyújtó jegyek, és
+
+1526
+01:01:02,559 --> 01:01:08,640
+hamarosan részletes program is elérhető
+
+1527
+01:01:05,359 --> 01:01:12,119
+lesz. Itt böngészétek a 21 honlapját a
+
+1528
+01:01:08,640 --> 01:01:15,119
+21.word címen, ahol rengeteg ingyenes
+
+1529
+01:01:12,119 --> 01:01:17,480
+oktatóanyag elérhető. Azok számára
+
+1530
+01:01:15,119 --> 01:01:19,599
+pedig, akik a Bitcoin tanulási útjukon
+
+1531
+01:01:17,480 --> 01:01:21,559
+személyes támogatást igényelnek,
+
+1532
+01:01:19,599 --> 01:01:24,880
+szeretettel ajánljuk a Bitcoin mentor
+
+1533
+01:01:21,559 --> 01:01:27,160
+szolgáltatásait is. A bitcoinmentor.hu
+
+1534
+01:01:24,880 --> 01:01:29,680
+honlapon részletesen olvashatsz a
+
+1535
+01:01:27,160 --> 01:01:31,960
+Bitcoin tanácsadásunkról, a Bitcoin
+
+1536
+01:01:29,680 --> 01:01:34,680
+blogban pedig egyre több értékes
+
+1537
+01:01:31,960 --> 01:01:37,280
+bejegyzést találsz. Iratkozz fel a 21
+
+1538
+01:01:34,680 --> 01:01:40,400
+podcast YouTube csatornájára, valamint a
+
+1539
+01:01:37,280 --> 01:01:43,640
+Rumble csatornánkra is. Kövesd a 21-et a
+
+1540
+01:01:40,400 --> 01:01:45,720
+Facebookon és a Nosteren. Támogatóink
+
+1541
+01:01:43,640 --> 01:01:47,400
+Miskolc Tapolca és Hajdúszoboszló
+
+1542
+01:01:45,720 --> 01:01:49,359
+bitcoint elfogadó és bitcoint
+
+1543
+01:01:47,400 --> 01:01:54,240
+tartalékoló négycsillagos wellness
+
+1544
+01:01:49,359 --> 01:01:57,200
+szállodái a Hotelra és a Hotellantis.
+
+1545
+01:01:54,240 --> 01:02:00,319
+És a Firefish üzeni, hogy ne adjátok el
+
+1546
+01:01:57,200 --> 01:02:03,079
+a bitcoinotokat. Köszönjük szépen. És
+
+1547
+01:02:00,319 --> 01:02:05,760
+egy hét múlva akkor újra itt izgi
+
+1548
+01:02:03,079 --> 01:02:07,240
+témákkal. Ugye köszönjük.
+
+1549
+01:02:05,760 --> 01:02:07,680
+>> Köszió.
+
+1550
+01:02:07,240 --> 01:02:10,977
+>> Sziasztok.
+
+1551
+01:02:07,680 --> 01:02:10,977
+>> Sziasztok. [zene]
+
