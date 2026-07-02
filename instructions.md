@@ -95,38 +95,39 @@ Kritériumok: 45–60 karakter; **a hook és az elsődleges kulcsszó az első ~
 
 **Résztvevők:** a vendég/résztvevők nevei (pl. „Anti, Openoms, Árpi") a `podcasts.ts` `members` mezőjébe kerülnek; ezt a 0. lépésben **rákérdezéssel** szerzem meg (a vágás előtti Riverside-inputnál még nincs feltöltött YouTube-leírás, amiből kiolvashatnám — Árpinak így nem is kell beírnia a résztvevőket a leírásba). A **végleges YouTube-leírásba NEM** írok külön „Résztvevők:" sort.
 
-**Szekció-fejlécek:** a leírás blokkjai **CSUPA NAGYBETŰS szekciócímkét** kapnak a scannelhetőségért — pl. `FEJEZETEK:`, `FORRÁSOK:`, `HUSZONEGY KÖZÖSSÉG:`, `MENTORÁLÁS & BLOG:`, `SZPONZOROK:`, `RELAI:`, `FIREFISH:`, `ÁTIRAT:`. Az adásban elhangzott linkek/források blokkja a **`FORRÁSOK:`** fejléc alá kerül; a soroknál nincs „(chart)"/„(blog)"/„előadás"-szerű utótag, sem gondolatjel — csak a tömör címke + `➡` + URL (pl. `Jack Mallers BTC Prague ➡ <URL>`). Az átirat-blokk is fejlécet kap (`ÁTIRAT:`), és az `Inkább olvasnád?` a link barátságos címkéje: `Inkább olvasnád? ➡ <átirat-URL>`. A YouTube fejezet-detektálását a `FEJEZETEK:` fejléc nem zavarja, amíg a `00:00` az első időbélyeg a leírásban. (E111-től kaptak fejlécet a blokkok; **E113-tól a link-forrás-blokk fejléce `LINKEK ÉS FORRÁSOK:`-ról `FORRÁSOK:`-ra rövidült**.)
+**Szekció-fejlécek:** a leírás blokkjai **CSUPA NAGYBETŰS szekciócímkét** kapnak a scannelhetőségért — pl. `FEJEZETEK:`, `FORRÁSOK:`, `HUSZONEGY KÖZÖSSÉG:`, `MENTORÁLÁS & BLOG:`, `SZPONZOROK:`, `AJÁNLJUK:`, `ÁTIRAT:`. Az adásban elhangzott linkek/források blokkja a **`FORRÁSOK:`** fejléc alá kerül; a soroknál nincs „(chart)"/„(blog)"/„előadás"-szerű utótag, sem gondolatjel — csak a tömör címke + `➡` + URL (pl. `Jack Mallers BTC Prague ➡ <URL>`). Az átirat-blokk is fejlécet kap (`ÁTIRAT:`), és az `Inkább olvasnád?` a link barátságos címkéje: `Inkább olvasnád? ➡ <átirat-URL>`. A YouTube fejezet-detektálását a `FEJEZETEK:` fejléc nem zavarja, amíg a `00:00` az első időbélyeg a leírásban. (E111-től kaptak fejlécet a blokkok; **E113-tól a link-forrás-blokk fejléce `LINKEK ÉS FORRÁSOK:`-ról `FORRÁSOK:`-ra rövidült**; **E113-tól a Relai és a Firefish egy közös `AJÁNLJUK:` fejléc alá került (az affiliate-ref az URL-ben, pl. `?ref=HUSZONEGY`), a Relai a leírás aljára, a támogatás-CTA pedig YouTube-csatornatag [join] + satok bontásra állt**.)
 
 **Click-through elv:** a blurb-szövegek ne ismételjék azt az infót, ami a célokon (a linkelt oldalon) már ott van (pl. konkrét kedvezmény százalék a Relai oldalán).
 
-A jelenlegi blokkos felépítés (nincs bebetonozva — jobbító javaslat mindig jöhet):
+A jelenlegi blokkos felépítés (nincs bebetonozva — jobbító javaslat mindig jöhet). **E113-tól az alábbi az érvényes szabvány:**
 
-1. **Bevezető** (3 mondat, egy bekezdésben)
-2. **Támogatáskérő link** a bevezető és a fejezetek közé így:
-🧡 Támogasd a podcastot:
-Minden támogatási mód egy helyen ➡ https://huszonegy.world/tamogatas
-(Ha az adásban szóban a pesz.hu-ra utalunk, akkor föléje még egy sor: `Forráshiánnyal küzdünk — részletek itt ➡ https://pesz.hu`. A `/tamogatas` a teljes támogatási hub — ne ismételjük a HUSZONEGY-blokkban.)
-3. **Relai affiliate link** a támogatáskérés és a fejezetek közé így:
-Relai 🇨🇭 Bitcoin-only megtakarítási app:
-Önrendelkező svájci bicska ➡ https://bitcoinmentor.hu/relai
-4. **Fejezetcímek időbélyeggel** (lásd 3. lépés)
-5. **Az adásban elhangzott link(ek) + kapcsolódó cikk** — opcionális. Ide az adásban szóba kerülő, **nem evergreen** linkek mennek (pl. vendég projektje, hivatkozott külső cikk vagy korábbi HUSZONEGY Bitcoin blog-poszt). Az evergreen linkeket a HUSZONEGY-/Mentorálás-/Szponzorok-blokk hozza, ne itt. Minden adásnál rákérdezek, van-e ilyen, mielőtt beleteszem.
-6. **HUSZONEGY:**
+1. **(Opcionális) rövid felütő sor legfelül** — kampány-/évadzáró-specifikus támogatás-hook (pl. „Segíts, hogy ősszel folytathassuk!"). Nem állandó elem; csak ha van aktuális kampány.
+2. **Bevezető** (2–3 mondat, egy bekezdésben)
+3. **Támogatás-CTA blokk** a bevezető után:
+🧡 Támogasd a folytatást!
+🆕 Legyél csatornatag! Havi támogatás egy kattintással ➡ https://www.youtube.com/@huszonegy-bitcoin-podcast/join
+⚡ Inkább satokkal? ➡ https://huszonegy.world/tamogatas
+(A YouTube-csatornatagság [join] és a satok [`/tamogatas`, a teljes támogatási hub] a két fő út. Ha az adásban szóban a pesz.hu-ra utalunk, föléje még egy sor: `Forráshiánnyal küzdünk — részletek itt ➡ https://pesz.hu`.)
+4. **(Opcionális) új szponzor reflektorfény** — amikor új szponzor csatlakozik, egy soros kiemelés (pl. `🔥 Új szponzorunk a BudaBit! Cypherpunk fejlesztői közösség havi meetupokkal ➡ https://budabit.club`); az állandó helye ettől függetlenül a SZPONZOROK-blokk is.
+5. **FEJEZETEK:** (lásd 3. lépés)
+6. **FORRÁSOK:** — az adásban elhangzott, **nem evergreen** linkek (vendég projektje, hivatkozott külső cikk, korábbi HUSZONEGY Bitcoin blog-poszt). Az evergreen linkek a lenti blokkokba valók, ne ide. Opcionális; minden adásnál rákérdezek, van-e ilyen.
+7. **HUSZONEGY KÖZÖSSÉG:**
    - Csak Bitcoinról, magyarul ➡ https://huszonegy.world
    - Meetup ➡ https://huszonegy.world/meetup
    - Telegram ➡ https://t.me/huszonegy
    - Nostr ➡ https://nostr.hu/huszonegy
-7. **Mentorálás & blog:**
+8. **MENTORÁLÁS & BLOG:**
    - Bitcoin mentorálás ➡ https://bitcoinmentor.hu
    - Bitcoin blog ➡ https://bitcoinmentor.hu/bitcoin-blog
-8. **Szponzorok:**
-   - Hotel Aurora ⚡ Miskolctapolca ➡ https://hotelaurora.hu
+9. **SZPONZOROK:**
+   - BudaBit 🔥 cypherpunk fejlesztői közösség ➡ https://budabit.club
    - Hotel Atlantis ⚡ Hajdúszoboszló ➡ https://hotelatlantis.hu
-9. **Firefish 🔥🐟 Bitcoin fedezetű kölcsön:**
-   - Magyar platform ➡ https://app.firefish.io/auth/sign-up
-   - Ajánlókód: HUSZONEGY
-10. **Inkább olvasnád?**
-   - `Itt az átirat ➡ https://huszonegy.world/podcast/<slug>/`
+   - Hotel Aurora ⚡ Miskolctapolca ➡ https://hotelaurora.hu
+10. **AJÁNLJUK:** (affiliate — a hivatkozó-kód az URL-ben, nem külön „Ajánlókód:" sorban)
+   - Relai 🇨🇭 Bitcoin-only megtakarítási app ➡ https://bitcoinmentor.hu/relai
+   - Firefish 🔥🐟 Bitcoin fedezetű kölcsön ➡ https://app.firefish.io/auth/sign-up?ref=HUSZONEGY
+11. **ÁTIRAT:**
+   - `Inkább olvasnád? ➡ https://huszonegy.world/podcast/<slug>`
    - **Slug-szabály:** a végleges címből származtatva — kisbetűs, ékezetmentes (`ő → o`, `é → e`, `á → a`, `í → i`, `ú → u`, `ü → u`, `ö → o`); brand-nevek és számok ASCII-kisbetűre (`MicroStrategy` → `microstrategy`, `BIP-110` → `bip-110`); írásjelek (`,`, `?`, `!`, `:`, `;`, `'`, em-dash) **eltűnnek nyom nélkül** (nem kerül a helyükre kötőjel); meglévő belső kötőjelek megmaradnak (`Nostr-alternatíva`, `BIP-110`); szavak között egyetlen `-`. Pl. *„Recseg a GitHub — épül a magyar Nostr-alternatíva"* → `recseg-a-github-epul-a-magyar-nostr-alternativa`.
 
 ### 5. Indexkép
@@ -307,6 +308,12 @@ Az állandó HUSZONEGY "szponzori" szöveg az átiratban **három külön bekezd
 **Beszélőváltás:** gondolatjellel (`–`). Utána nem kell név. Nem kell minden megszólalást jelölni – ha egyértelmű, ki beszél, elhagyható.
 
 **Nevetés:** `(nevetés)` formátumban, csak ahol humoros kontextust ad.
+
+**Helyesírás (visszatérő buktatók):**
+- Átvitt értelmű összetétel **egybe**, ha csekély/elhanyagolható jelentésű (pl. *aprópénz*).
+- Idegen kifejezés + magyar toldalék **kötőjellel** (pl. *all-time high-on*).
+- A gép által **különírt összetételt egybe** javítom, ahol a helyesírás azt kívánja (pl. *többfajta*).
+- A beszélt nyelv miatt **elcsúszó ragot/vonzatot** a helyes alakra javítom (pl. helyhatározónál a köznyelvbe becsúszó `-ba/-be` helyett a pontos `-nál/-nél`, ahol az a helyes).
 
 **Elírások, nevek, linkek:** lásd `corrections.md`.
 
