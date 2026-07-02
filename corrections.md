@@ -100,6 +100,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - multi-sig → **multisig**
 - Mika → **MiCA** (európai kriptoszabályozás)
 - MMB → **MNB** (Magyar Nemzeti Bank)
+- STHF / SZTHF → **SZTFH** (Szabályozott Tevékenységek Felügyeleti Hatósága; a magyar hatóság, ami a kriptoszabályozásban előjön — a gépi átirat „STHF"-nek hallja)
 - kantilon hatás → **Cantillon-hatás**
 - zep / zeppek → **zap / zapek** (Nostr borravaló)
 - mit törm → **midterm**

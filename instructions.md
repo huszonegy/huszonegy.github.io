@@ -17,6 +17,8 @@ Minden héten egy új epizód. Árpi Riverside-ban felveszi és megvágja a besz
 
 **A tanulságok helye:** minden új tanulság ebbe a dokumentumba (és a `corrections.md`-be) kerül — sosem külön, gépfüggő jegyzetbe vagy az asszisztens saját memóriájába —, hogy másik gépen és más szerkesztőnek is ugyanúgy elérhető és hasznos legyen. (Kivétel: a tisztán **gépspecifikus, nem hordozható** harness-/munkakörnyezeti preferenciák — pl. az engedély-promptok csökkentése Árpi gépén — az asszisztens memóriájában élhetnek, mert nem a projekt hordozható tudásához tartoznak.) **Csak valódi, visszatérő tanulság/korrekció kerüljön be** — ne foltozzam vele az egyszeri tévedéseimet. A `corrections.md` a visszatérő név-/szakkifejezés-/linkjavítások és tartós tények tára, nem hibanapló.
 
+**A tanulságot tiszta, önmagában is érthető irányelvként fogalmazom meg — NEM epizód-specifikus példákkal** (konkrét epizódszám, konkrét cím, egyszeri szófordulat), mert azokat kontextus nélkül később nem érteném, és félre is vihetnek. A szempont/elv legyen általános és önhordó; ha illusztráció kell, az legyen absztrakt és magától érthető.
+
 ### 0. Teaser/hook kiválasztása — VÁGÁS ELŐTT
 - **Input:** a Riverside-export — a megvágott, de teaser nélküli adás teljes magyar TXT-átirata, időbélyegekkel — a `transcripts_raw/` mappában, `huszonegys-studio_eXXX.txt` néven (lásd „Fájlok helye").
 - Végigolvasom az egész átiratot, és készítek egy **tématérképet**: a fő témák, mindegyikhez az időtartomány és nagyjából a hossz, plusz az epizód hangulata/üzenete. Ez alapozza meg a teasert, a címet, a bevezetőt és a fejezeteket, és ez teszi auditálhatóvá, hogy mi lényegi és mi marginális.
@@ -28,7 +30,7 @@ Minden héten egy új epizód. Árpi Riverside-ban felveszi és megvágja a besz
 - **Vágás + feltöltés után:** `yt-dlp`-vel letöltöm a kész videó magyar auto-feliratát a `transcripts_raw/` mappába — a **végső fejezetidőkhöz** (a teaser előrevágása eltol mindent).
 
 ### 0/b. Reklám- és támogatás-bevágások helye — VÁGÁS ELŐTT
-Még a Riverside-export alapján (a teaser-vágással egy menetben) megjelölöm, hova kerüljenek a hangsávba/videóba illesztett bevágások. Ez **nem** a leírásba/átiratba írt szövegblokk (az a 8. lépés és az Adásszerkezet) — itt a **vágási pozíciókat** adom meg.
+**Ez a 0. lépés (teaser-választás) utáni ÁLLANDÓ, automatikus következő lépés — nem kérdezem meg, hogy csináljam-e.** Amint a teaser megvan és Árpi vágni kezd, rögtön, magamtól megadom a bevágás-helyeket (a cím/bevezető/fejezetek elé). Még a Riverside-export alapján (a teaser-vágással egy menetben) megjelölöm, hova kerüljenek a hangsávba/videóba illesztett bevágások. Ez **nem** a leírásba/átiratba írt szövegblokk (az a 8. lépés és az Adásszerkezet) — itt a **vágási pozíciókat** adom meg.
 - **Mit jelölök:** **2 rövid reklámblokk** + **1 támogatáskérő bevágás az adás elején**. (Ha Árpi mást kér — más darabszám vagy típus —, ahhoz igazodom.)
 - **A jó hely elve:** mindig **lezárt gondolat után, új szegmens előtt** — sosem mondat vagy érv közepén. Ideális, ha a bevágás **elé egy lekerekített/megnyugtatott beat** esik, **utána pedig egy kíváncsiság-kapu** (új téma hookja, pl. egy „de van jó hír is" típusú mondat) — így a néző átlép a megszakításon, nem lemorzsolódik.
 - **Eloszlás:** a két reklám nagyjából az adás **1/3 és 2/3** pontjára kerüljön; egyik se zsúfolódjon a teaserhez vagy a záráshoz. A támogatáskérő az **elején**, az első tiszta témavarratnál (a nyitó felvezetés lekerekedése után, az első érdemi blokk előtt).
@@ -57,7 +59,7 @@ Még a Riverside-export alapján (a teaser-vágással egy menetben) megjelölöm
 - **Búvárkodó** — konkrét témára kereső (SEO-bejövő); keresési kulcsszó + konkrét ígéret kell
 
 Egy epizód értelemszerűen egy elsődleges közönséget céloz; a változatok ezt különböző oldalakról közelítik.
-Kritériumok: 45–60 karakter; **a hook és az elsődleges kulcsszó az első ~40 karakterben** — a mobil- és ajánló-csempék kb. itt vágják le a címet, asztali kereső/ajánló ~70-nél, szóval ami a reflektorfénybe szánt lényeg, az kerüljön balra (em-dash használatakor is: a lényeg az em-dash bal oldalára, a részletezés jobbra); konkrét ígéret (mit kap a néző, ha rákattint); ha van benne szám, az emeli a CTR-t; kérdésforma is emeli; kerüld az elvont, filozofikus megfogalmazást; ne legyen „remix"/„újrahasznosított tartalom" jellegű előtag; magyar helyesírás — csak az első szó és a tulajdonnevek nagybetűsek; a cím a tematikát fedje, ne egy egyperces részt; **vendég vagy állandó résztvevő neve ne kerüljön a címbe** — a résztvevőket a `podcasts.ts` `members` mezője tartja nyilván; **em-dash (`—`) szóközökkel megengedett** egy fő szerkezeti törésnél (állítás → részletezés), több em-dash egy címen belül nem.
+Kritériumok: 45–60 karakter; **a hook és az elsődleges kulcsszó az első ~40 karakterben** — a mobil- és ajánló-csempék kb. itt vágják le a címet, asztali kereső/ajánló ~70-nél, szóval ami a reflektorfénybe szánt lényeg, az kerüljön balra (em-dash használatakor is: a lényeg az em-dash bal oldalára, a részletezés jobbra); konkrét ígéret (mit kap a néző, ha rákattint); ha van benne szám, az emeli a CTR-t; kérdésforma is emeli; kerüld az elvont, filozofikus megfogalmazást; ne legyen „remix"/„újrahasznosított tartalom" jellegű előtag; magyar helyesírás — csak az első szó és a tulajdonnevek nagybetűsek; a cím a tematikát fedje, ne egy egyperces részt; **vendég vagy állandó résztvevő neve ne kerüljön a címbe** — a résztvevőket a `podcasts.ts` `members` mezője tartja nyilván; **em-dash (`—`) szóközökkel megengedett** egy fő szerkezeti törésnél (állítás → részletezés), több em-dash egy címen belül nem. Ha az em-dash utáni rész **önálló kérdés/tagmondat, nagybetűvel** kezdődik.
 
 ### 2. Bevezető — 2–3 mondat a leíráshoz
 
@@ -67,6 +69,8 @@ Kritériumok: 45–60 karakter; **a hook és az elsődleges kulcsszó az első ~
 - **2. mondat — részletezés**: konkrétan mit kap a néző (projekt-név, személy, témák). Itt fejtem ki, amit a 1. mondat felvillantott.
 - **3. mondat — tonális hook vagy másodlagos meglepetés** (opcionális): nem catch-all („még mit említek"), hanem ízt vagy mélyebb gondolatot ad. Azt is megfogja, aki nem a fő témáért jött. Ha nincs ilyen természetes 3. mondat, ne erőltessük — maradjon 2 mondat.
 - **Cím–bevezető-kapcsolat:** a bevezető a címet *kifejti*, nem ismétli és nem mossa el. A cím provokál, a bevezető felold + mélyít.
+- **Nincs gondolatjel a bevezetőben:** a bevezető prózában is em-dash-mentes — **vesszőt/kettőspontot** használok helyette. (A *videócím* egy em-dashe marad megengedett.)
+- **Hűség és attribúció:** a bevezető egyetlen állítása se **túlozza**, amit a vendég ténylegesen mondott — sem a mértéket, sem az időzítést. A véleményt attribúcióval hozom („X szerint"), és **minden állítást a végső felirathoz mérek**, mielőtt beírom.
 - **SEO:** az **elsődleges** keresési kulcsszó az **első 1–2 mondatba** kerüljön (a leírás ~157. karaktere után minden a „továbbiak" mögé csukódik, és a YouTube a fold előtti, látható szöveget erősebben súlyozza); további 1–2 másodlagos kulcsszó természetesen szétszórva a bekezdésben. **Ne másold be a címet szó szerint** a leírás első sorába (papagáj-hatás; a szemantikus keresésnél nincs extra ereje, és a nézőnek természetellenes) — a cím fő kulcsszavait **természetes folyószövegbe ágyazva** hozd. Ez az első 1–2 sor egyben a Google/YouTube találati **snippet** is.
 - **Hossz:** teljes bekezdés ~200–450 karakter (a 2-mondatos lakonikus változat természetesen rövidebb).
 - **Formátum:** **egy bekezdésben**, folyószövegként (nem számozott lista).
@@ -79,6 +83,11 @@ Kritériumok: 45–60 karakter; **a hook és az elsődleges kulcsszó az első ~
 - **Scare-quote árnyalás**: egyetlen szó idézőjelben („támogatás", „demokrácia") árnyalt véleményt jelez egy szón belül. Mértékkel, ne minden fejezeten.
 - Csak akkor önálló fejezet, ha a téma legalább 2–3 percen át ki van fejtve.
 - Az időbélyegeket a felirat időzítéséből állítom elő.
+- **Nincs gondolatjel a fejezetcímekben:** kettőspontot vagy vesszőt használok em-dash helyett (a *videócím* egy em-dashe rendben; a fejezetcímeké nem).
+- **Változatos hossz és ritmus:** a fejezetcímek ne legyenek egyöntetűen hosszúak/teltek — legyen köztük néhány **rövid, ütős** (~20–30 karakteres) is a hosszabbak mellett. Ha az összes cím a felső hossz-sávba zsúfolódik, rövidítek párat.
+- **A cím a szakasz TÉNYLEGES, érdemi tartalmát tükrözze:** a fejezethatárok és -címek a **végső felirat valós tartalmából** készülnek, nem előzetes tématérkép-vázlatból. **A fejezetek véglegesítése előtt átolvasom a teljes átiratot.** Minden fejezet érdemi részét (a bulk-ját) ellenőrzöm, mielőtt címet adok — a cím a szakasz **fő témáját** adja vissza, ne a nyitó pár mondatot/horgot, se egy futólag említett apró elemet.
+- **Ne ismétlődjön a szomszédos címek kezdete/szerkezete** (pl. két egyforma nyitókérdés közvetlenül egymás után).
+- **Fejezetszám:** hosszabb (~50–55 perces) adásnál a gyakorlati kadencia ~**13–14 fejezet** (~4 perc/fejezet); a 8–12 az alsó irány, a hosszabbaknál a 13–14 is rendben.
 
 ### 4. YouTube-leírás összeállítása
 
@@ -86,7 +95,7 @@ Kritériumok: 45–60 karakter; **a hook és az elsődleges kulcsszó az első ~
 
 **Résztvevők:** a vendég/résztvevők nevei (pl. „Anti, Openoms, Árpi") a `podcasts.ts` `members` mezőjébe kerülnek; ezt a 0. lépésben **rákérdezéssel** szerzem meg (a vágás előtti Riverside-inputnál még nincs feltöltött YouTube-leírás, amiből kiolvashatnám — Árpinak így nem is kell beírnia a résztvevőket a leírásba). A **végleges YouTube-leírásba NEM** írok külön „Résztvevők:" sort.
 
-**Szekció-fejlécek:** a leírás blokkjai **CSUPA NAGYBETŰS szekciócímkét** kapnak a scannelhetőségért — pl. `FEJEZETEK:`, `LINKEK ÉS FORRÁSOK:`, `HUSZONEGY KÖZÖSSÉG:`, `MENTORÁLÁS & BLOG:`, `SZPONZOROK:`, `RELAI:`, `FIREFISH:`, `ÁTIRAT:`. Az átirat-blokk is fejlécet kap (`ÁTIRAT:`), és az `Inkább olvasnád?` a link barátságos címkéje: `Inkább olvasnád? ➡ <átirat-URL>`. A YouTube fejezet-detektálását a `FEJEZETEK:` fejléc nem zavarja, amíg a `00:00` az első időbélyeg a leírásban. (E111-től így; korábban fejléc nélkül álltak a blokkok — a preferencia változott.)
+**Szekció-fejlécek:** a leírás blokkjai **CSUPA NAGYBETŰS szekciócímkét** kapnak a scannelhetőségért — pl. `FEJEZETEK:`, `FORRÁSOK:`, `HUSZONEGY KÖZÖSSÉG:`, `MENTORÁLÁS & BLOG:`, `SZPONZOROK:`, `RELAI:`, `FIREFISH:`, `ÁTIRAT:`. Az adásban elhangzott linkek/források blokkja a **`FORRÁSOK:`** fejléc alá kerül; a soroknál nincs „(chart)"/„(blog)"/„előadás"-szerű utótag, sem gondolatjel — csak a tömör címke + `➡` + URL (pl. `Jack Mallers BTC Prague ➡ <URL>`). Az átirat-blokk is fejlécet kap (`ÁTIRAT:`), és az `Inkább olvasnád?` a link barátságos címkéje: `Inkább olvasnád? ➡ <átirat-URL>`. A YouTube fejezet-detektálását a `FEJEZETEK:` fejléc nem zavarja, amíg a `00:00` az első időbélyeg a leírásban. (E111-től kaptak fejlécet a blokkok; **E113-tól a link-forrás-blokk fejléce `LINKEK ÉS FORRÁSOK:`-ról `FORRÁSOK:`-ra rövidült**.)
 
 **Click-through elv:** a blurb-szövegek ne ismételjék azt az infót, ami a célokon (a linkelt oldalon) már ott van (pl. konkrét kedvezmény százalék a Relai oldalán).
 

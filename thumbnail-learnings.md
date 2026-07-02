@@ -36,4 +36,13 @@ Minden negyedéves elemzés egy szakaszként kerül be — dátummal, top/bottom
 
 ## Bejegyzések
 
-*(Első bejegyzés a 2026 Q2 végén, 2026.06.30-án — a cím-tanulással egy időben.)*
+## 2026 Q2 — előzetes (E112 adatpont, 2026.06.30)
+
+> **Megjegyzés:** a teljes negyedéves top3/bottom3 még Árpi YouTube Studio quarter-exportjára vár. Addig az E112 friss adatpontját rögzítem — más epizódhoz CTR-t nem tippelek.
+
+**E112 thumbnail** — vendég-arc **igen** (Tamás karikatúra, bal harmad, jobbra néz); motívum: eső piros gyertyák + aranyló 200 hetes támaszvonal + **nagyító a koccanási ponton**; kicker **felül** („MÉG LEJJEBB?"); paletta **sötét navy** + amber/arany/piros; magas kontraszt, egyfókuszú.
+- **CTR 6,1%** (23,4 E megjelenítés) · harangértesítés-CTR 2,6% (a tipikus 0,5–2,5% fölött)
+
+**Megfigyelt mintázat (előzetes):** vendég-arc + felső kicker + sötét, visszafogott paletta + egyetlen tiszta fókuszpont (a koccanás-glow) → kiemelkedik a kripto-feedben, 6%+ CTR. A recommended-feed sanity check megtörtént a brief-fázisban.
+
+**Javaslat a kritériumokra:** egyetlen adatpontból nincs változtatás — megerősíti az 5. szakaszt (vendég-arc, felső kicker, sötét visszafogott paletta, egyfókuszú motívum). A teljes Q2-vel véglegesítjük.
