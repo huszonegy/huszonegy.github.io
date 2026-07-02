@@ -2,6 +2,74 @@
 
 export const podcasts = [
     {
+        name: "Ingyen intelligencia jön: Mit ér majd az ember?",
+        id: "E113",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Ingyen intelligencia (Intro)"
+        },
+        {
+                time: "00:31",
+                label: "Hogyan építsünk vagyont a bizonytalan időkben?"
+        },
+        {
+                time: "07:44",
+                label: "Enyhül a szabályozás: szót emeltünk érte"
+        },
+        {
+                time: "09:58",
+                label: "„Nyári kiárusítás” a Bitcoinban"
+        },
+        {
+                time: "13:30",
+                label: "Árfolyam vs. valódi érték: Ne ess pánikba!"
+        },
+        {
+                time: "18:11",
+                label: "Nostr: a hang, amit nem lehet elnyomni"
+        },
+        {
+                time: "20:47",
+                label: "Miért jó, ha támadják a Bitcoint?"
+        },
+        {
+                time: "24:13",
+                label: "A lassú forradalom előnye"
+        },
+        {
+                time: "27:07",
+                label: "Bitcoin és a természetes kiválasztódás"
+        },
+        {
+                time: "34:06",
+                label: "Elon Musk futurisztikus alapjövedelme"
+        },
+        {
+                time: "39:30",
+                label: "Miért jöttünk a Földre? Mit ér az ember?"
+        },
+        {
+                time: "43:14",
+                label: "A robotok ára: semmi sincs ingyen"
+        },
+        {
+                time: "46:16",
+                label: "Strike MiCA-engedélye: mi van itthon?"
+        },
+        {
+                time: "49:19",
+                label: "Évadzáró: nyári szünet és meetup-felhívás"
+        }
+        ],
+        img: "/pics/e113.jpg",
+        date: "2026.07.03.",
+        members: ["Anti", "Feri", "Árpi"],
+        topic: "Ingyen intelligencia (Intro) - Hogyan építsünk vagyont a bizonytalan időkben? - Enyhül a szabályozás: szót emeltünk érte - „Nyári kiárusítás” a Bitcoinban - Árfolyam vs. valódi érték: Ne ess pánikba! - Nostr: a hang, amit nem lehet elnyomni - Miért jó, ha támadják a Bitcoint? - A lassú forradalom előnye - Bitcoin és a természetes kiválasztódás - Elon Musk futurisztikus alapjövedelme - Miért jöttünk a Földre? Mit ér az ember? - A robotok ára: semmi sincs ingyen - Strike MiCA-engedélye: mi van itthon? - Évadzáró: nyári szünet és meetup-felhívás",
+        yt: "https://youtu.be/Z7boKcDGsvY",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
         name: "A grafikon, ami sosem hazudott — Hol a Bitcoin valódi alja?",
         id: "E112",
         chapters: [
@@ -63,7 +131,7 @@ export const podcasts = [
         members: ["Anti", "Tamás", "Árpi"],
         topic: "A grafikon, ami sosem hazudott (Intro) - Szocializmus, alapjövedelem és Kína igazi arca - Ingatlan, részvény vagy Bitcoin? - A Bitcoin kognitív küszöbe - 200 hetes mozgóátlag: Hol a ciklus alja? - A Strategy egy megtervezett „setup”? - Miért mehet még lejjebb az árfolyam? - A Saylor-féle STRETCH kockázatai - A végén 80% a bankoké? - Jó hír itthon: validátor-törvény és Revolut - A ciklus-chart: mikor jön a mélypont? - Miért örül a bitcoiner az esésnek? - Pénz, fedezet és a jövő nemzedéke",
         yt: "https://youtu.be/Nw_E1oWXUhA",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/XRkq1NLmkxdYs4dUnKwQ"
     },
     {
         name: "2027 vagy 1984? Igazolvány kell a nethez?",
