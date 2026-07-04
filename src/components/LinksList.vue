@@ -158,10 +158,6 @@ const chipIcon = (kind: string) =>
 
 .links-sponsors .links-category {
     text-align: center;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-    font-size: 1.35rem;
-    margin-bottom: 1.8rem;
 }
 
 .links-wide {
@@ -222,6 +218,10 @@ const chipIcon = (kind: string) =>
     font-weight: 700;
     letter-spacing: -0.3px;
     color: #fff;
+}
+
+.links-hero + .links .links-category {
+    margin-top: 0.5rem;
 }
 
 .sponsor-grid {
