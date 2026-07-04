@@ -11,7 +11,7 @@
                 <div class="meetup-hero-text">
                     <h1 class="meetup-hero-title">bitcoin <span class="meetup-hero-accent">meetup</span></h1>
                     <p class="meetup-hero-lead">
-                        A meetup portálon láthatók az aktuális találkozók.
+                        Az aktuális találkozókat a HUSZONEGY meetup portálján tartjuk naprakészen.
                     </p>
                 </div>
             </div>
@@ -19,21 +19,24 @@
         <div class="row">
             <div class="col-12 col-lg-10 mx-auto center py-2">
                 <div class="center mt-2 mb-4">
-                    <a href="https://portal.huszonegy.world/hu/meetups" target="_blank" class="btn btn-custom">
+                    <a href="https://portal.huszonegy.world/hu/meetups" target="_blank" rel="noopener noreferrer" class="btn btn-custom">
                         Irány a meetup portál
                     </a>
+                    <p class="portal-note mx-auto mt-3">
+                        A portál a HUSZONEGY nyílt, Nostr-alapú eseménykezelője, ahol a közösség maga szervezi a meetupokat. Ezért külön oldalon él, nem itt a honlapon.
+                    </p>
                 </div>
             </div>
             <div class="col-12 col-lg-10 mx-auto center">
-                <div class="card py-4 px-5 my-3 mx-auto" style="max-width: 760px;">
-                    <div style="text-align: left;">
-                        <h5 class="mb-3" style="font-weight: 700; color: #fff;">Szeretnél meetupot szervezni?</h5>
+                <div class="card meetup-card py-4 px-5 my-3 mx-auto">
+                    <div class="meetup-card-body">
+                        <h5 class="meetup-card-title mb-3">Szeretnél meetupot szervezni?</h5>
                         <ul class="meetup-steps">
                             <li>válassz egy alkalmas helyszínt!</li>
-                            <li>jelentkezz be a <a href="https://portal.huszonegy.world/hu/meetups" target="_blank">meetup portálra</a> Nostr vagy Lightning azonosítóval!</li>
+                            <li>jelentkezz be a <a href="https://portal.huszonegy.world/hu/meetups" target="_blank" rel="noopener noreferrer">meetup portálra</a> Nostr vagy Lightning azonosítóval!</li>
                             <li>a 'Meetupok' oldalon a 'Meetup létrehozása' gombbal hozz létre új meetupot!</li>
-                            <li>a konkrét meetup alatt tudsz hozzárendelni új eseményt.</li>
-                            <li>oszd meg a telegram csoportban is az esemény részleteit!</li>
+                            <li>a konkrét meetup alatt rendelj hozzá új eseményt!</li>
+                            <li>oszd meg a Telegram csoportban is az esemény részleteit!</li>
                         </ul>
                         <p class="meetup-note">
                             A közzétett események automatikusan megjelennek Nostr-en és a Club Orange appban is.
@@ -41,22 +44,18 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-lg-10 mx-auto center">
-                <div class="meetup-gallery mx-auto my-5">
-                    <p class="meetup-note mb-2">Meetup minta:</p>
-                    <a href="https://portal.huszonegy.world/hu/meetups" target="_blank">
-                        <img src="/pics/meetup-portal-list1.png" class="meetup-img rounded" />
-                    </a>
-                    <a href="https://portal.huszonegy.world/hu/meetups" target="_blank">
-                        <img src="/pics/meetup-portal-map.jpg" class="meetup-img-small rounded" />
-                    </a>
-                </div>
-            </div>
         </div>
     </main>
 </template>
 
 <style scoped>
+/* Rövid oldal: nagy képernyőn ne kerüljön függőlegesen középre a flexes .centerpage-ben
+   (a globális main { margin: auto } különben felfelé is középre húzná a heroval együtt) */
+main {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
 .meetup-hero {
     padding: 3.5rem 1rem 1.5rem;
     max-width: 780px;
@@ -124,33 +123,24 @@
     margin-bottom: 0;
 }
 
-.meetup-gallery {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 1rem;
+.portal-note {
+    font-size: 0.9rem;
+    opacity: 0.65;
+    max-width: 520px;
+    line-height: 1.6;
+}
+
+.meetup-card {
     max-width: 760px;
 }
 
-.meetup-img,
-.meetup-img-small {
-    height: auto;
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
-    border: 1px solid transparent;
-    transition: border-color 0.2s ease;
+.meetup-card-body {
+    text-align: left;
 }
 
-.meetup-img {
-    width: 100%;
-}
-
-.meetup-img-small {
-    max-width: 400px;
-}
-
-.meetup-img:hover,
-.meetup-img-small:hover {
-    border-color: #f7931a;
+.meetup-card-title {
+    font-weight: 700;
+    color: #fff;
 }
 
 @media (max-width: 576px) {
