@@ -32,14 +32,14 @@ export const routes: RouteRecordRaw[] = [
     }
   },
   {
-    path: '/forum/',
-    name: 'forum',
+    path: '/kozosseg/',
+    name: 'kozosseg',
     component: () => import('../views/ForumView.vue'),
     meta: {
-      title: 'Bitcoin fórum - HUSZONEGY közösség',
+      title: 'Bitcoin közösség - HUSZONEGY',
       metaTags: [
-        { name: 'description', content: 'Magyar Bitcoin közösség fóruma. Csatlakozz a beszélgetéshez, tedd fel kérdéseidet és ossz meg tapasztalatokat más magyar bitcoinerekkel!' },
-        { name: 'keywords', content: 'bitcoin fórum, magyar bitcoin közösség, bitcoin beszélgetés, telegram csoport' }
+        { name: 'description', content: 'Magyar Bitcoin közösség. Csatlakozz a HUSZONEGY Telegram csoportjához, tedd fel kérdéseidet és találkozz más magyar bitcoinerekkel személyesen a meetupokon!' },
+        { name: 'keywords', content: 'magyar bitcoin közösség, bitcoin telegram csoport, bitcoin beszélgetés, bitcoin meetup' }
       ]
     }
   },
@@ -163,6 +163,8 @@ export const routes: RouteRecordRaw[] = [
     meta: { title: 'Bitcoin Pizza Nap - HUSZONEGY' }
   },
   { path: '/support', redirect: '/tamogatas/' },
+  // Régi /forum/ útvonal (átnevezve /kozosseg/-re) → megosztott linkek ne 404-eljenek
+  { path: '/forum/', redirect: '/kozosseg/' },
   // E105 régi slugja (címváltozás előtt) → új URL, hogy a megosztott linkek ne 404-eljenek
   { path: '/podcast/3-ok-amiert-a-bitcoin-veri-az-etikus-jegybanki-penzt/', redirect: '/podcast/lejaratos-penz-vagy-szabad-penz-etikus-jegybank-kontra-bitcoin/' },
   {

@@ -467,7 +467,7 @@ export const news = [
     },
     {
         summary: "Elindult a HUSZONEGY telegram csatorna",
-        html: "2023 májusában elindult a <a href='/forum'>HUSZONEGY telegram csatorna</a>, amely azóta több tucat magyar bitcoiner nyüzsgő találkozási pontjává vált.",
+        html: "2023 májusában elindult a <a href='/kozosseg/'>HUSZONEGY telegram csatorna</a>, amely azóta több tucat magyar bitcoiner nyüzsgő találkozási pontjává vált.",
         date: "2023.05.11."
     }
 ]

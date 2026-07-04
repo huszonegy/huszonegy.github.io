@@ -49,7 +49,7 @@ function extractYoutubeId(url: string): string | null {
 const routeSourceFiles: Record<string, string[]> = {
   '/':             ['src/views/HomeView.vue'],
   '/cikk/':        ['src/views/ArticlesView.vue',  'src/data/articles.ts'],
-  '/forum/':       ['src/views/ForumView.vue'],
+  '/kozosseg/':    ['src/views/ForumView.vue'],
   '/hir/':         ['src/views/NewsView.vue',       'src/data/news.ts'],
   '/podcast/':     ['src/views/PodsView.vue',       'src/data/podcasts.ts'],
   '/konyv/':       ['src/views/BooksView.vue',      'src/data/books.ts'],
@@ -124,7 +124,7 @@ export default defineConfig({
     includedRoutes(paths: any, _routes: any) {
       // Kiszűrjük a paraméterezett útvonalakat (pl. :slug, :pathMatch),
       // a redirecteket (pl. /support), és a statikus fájl útvonalakat (pl. /books/)
-      const kizart = ['/support', '/books', '/404/']
+      const kizart = ['/support', '/forum', '/books', '/404/']
       const staticPaths = (paths as string[]).filter(p =>
         !p.includes(':') && !kizart.some(k => p === k || p.startsWith(k + '/'))
       )

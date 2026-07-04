@@ -8,18 +8,18 @@
                 <i class="bi bi-chat-dots"></i>
             </div>
             <div class="forum-hero-text">
-                <h1 class="forum-hero-title">bitcoin <span class="forum-hero-accent">fórum</span></h1>
+                <h1 class="forum-hero-title">bitcoin <span class="forum-hero-accent">közösség</span></h1>
                 <p class="forum-hero-lead">
-                    A HUSZONEGY Telegram csoportban beszélgetünk a Bitcoinról magyarul.
+                    A HUSZONEGY Telegram csoportjában beszélgetünk a Bitcoinról magyarul, és személyesen is találkozunk a meetupokon.
                 </p>
             </div>
         </div>
         <div class="forum-cta center mt-4">
-            <a href="https://t.me/huszonegy" target="_blank" class="btn btn-custom mt-2">
+            <a href="https://t.me/huszonegy" target="_blank" rel="noopener noreferrer" class="btn btn-custom mt-2">
                 Csatlakozz a Telegram csoporthoz
             </a>
             <div class="mt-5 mb-4">
-                <img src="/pics/qr_21_tgram.png" width="140" class="qr-code" />
+                <img src="/pics/qr_21_tgram.png" width="140" class="qr-code" alt="HUSZONEGY Telegram csoport QR-kódja" />
             </div>
         </div>
     </div>
@@ -72,11 +72,6 @@
     line-height: 1.6;
     max-width: 560px;
     margin-bottom: 0.6rem;
-}
-
-.forum-hero-rule {
-    font-size: 0.95rem;
-    margin-bottom: 0.5rem;
 }
 
 .qr-code {

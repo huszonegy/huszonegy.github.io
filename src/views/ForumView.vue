@@ -11,6 +11,7 @@ import ForumExplain from '../components/ForumExplain.vue'
                 <ForumExplain />
             </div>
         </div>
+        <div class="bottom-space no-response"><!-- empty --></div>
     </main>
 </template>
 
