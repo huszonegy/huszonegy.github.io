@@ -2,6 +2,46 @@
 
 export const podcasts = [
     {
+        name: "Digitális euró és társadalmi pontrendszer: Mi vár ránk?",
+        id: "R08",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Mindent a biztonság jegyében"
+        },
+        {
+                time: "03:03",
+                label: "A digitális euró öngólja"
+        },
+        {
+                time: "05:06",
+                label: "3500 euró: ennyit tarthatsz?"
+        },
+        {
+                time: "06:22",
+                label: "Az algoritmus börtöne"
+        },
+        {
+                time: "08:37",
+                label: "Chat control: véd vagy megfigyel?"
+        },
+        {
+                time: "09:44",
+                label: "Jön a társadalmi pontrendszer"
+        },
+        {
+                time: "10:24",
+                label: "Van mozgástered: a Bitcoin a kiút"
+        }
+        ],
+        img: "/pics/r08.jpg",
+        date: "2026.07.10.",
+        members: ["Anti", "Openoms", "Robi", "Lorry", "HenkyPenky", "Feri", "Árpi"],
+        topic: "Mindent a biztonság jegyében - A digitális euró öngólja - 3500 euró: ennyit tarthatsz? - Az algoritmus börtöne - Chat control: véd vagy megfigyel? - Jön a társadalmi pontrendszer - Van mozgástered: a Bitcoin a kiút",
+        yt: "https://youtu.be/YzEOxKMGciU",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
         name: "Ingyen intelligencia jön: Mit ér majd az ember?",
         id: "E113",
         chapters: [
@@ -67,7 +107,7 @@ export const podcasts = [
         members: ["Anti", "Feri", "Árpi"],
         topic: "Ingyen intelligencia (Intro) - Hogyan építsünk vagyont a bizonytalan időkben? - Enyhül a szabályozás: szót emeltünk érte - „Nyári kiárusítás” a Bitcoinban - Árfolyam vs. valódi érték: Ne ess pánikba! - Nostr: a hang, amit nem lehet elnyomni - Miért jó, ha támadják a Bitcoint? - A lassú forradalom előnye - Bitcoin és a természetes kiválasztódás - Elon Musk futurisztikus alapjövedelme - Miért jöttünk a Földre? Mit ér az ember? - A robotok ára: semmi sincs ingyen - Strike MiCA-engedélye: mi van itthon? - Évadzáró: nyári szünet és meetup-felhívás",
         yt: "https://youtu.be/Z7boKcDGsvY",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/giemqEPXXWXSt1wx1uYo"
     },
     {
         name: "A grafikon, ami sosem hazudott — Hol a Bitcoin valódi alja?",
