@@ -2,6 +2,54 @@
 
 export const podcasts = [
     {
+        name: "Nyári Bitcoin leértékelés: miért jó a zuhanás?",
+        id: "R09",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Nyári leértékelés: az optimális DCA (Intro)"
+        },
+        {
+                time: "01:12",
+                label: "Az októberi csúcs: elmaradt az eufória"
+        },
+        {
+                time: "02:11",
+                label: "Ahol az esés mindig megállt"
+        },
+        {
+                time: "04:43",
+                label: "A négyéves ciklus: tényleg megszűnt?"
+        },
+        {
+                time: "10:33",
+                label: "Bikapiac medvehangulatban"
+        },
+        {
+                time: "13:23",
+                label: "200 hetes mozgóátlag: itt az alja?"
+        },
+        {
+                time: "14:57",
+                label: "A közelgő supply shock"
+        },
+        {
+                time: "15:50",
+                label: "Árfolyam, érték, hálózat: nem ugyanaz"
+        },
+        {
+                time: "18:19",
+                label: "Kinek jó, ha esik az árfolyam?"
+        }
+        ],
+        img: "/pics/r09.jpg",
+        date: "2026.07.17.",
+        members: ["Anti", "Tamás", "Robi", "B Zoli", "Feri", "Árpi"],
+        topic: "Nyári leértékelés: az optimális DCA (Intro) - Az októberi csúcs: elmaradt az eufória - Ahol az esés mindig megállt - A négyéves ciklus: tényleg megszűnt? - Bikapiac medvehangulatban - 200 hetes mozgóátlag: itt az alja? - A közelgő supply shock - Árfolyam, érték, hálózat: nem ugyanaz - Kinek jó, ha esik az árfolyam?",
+        yt: "https://youtu.be/zIElaDntVgI",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
         name: "Digitális euró és társadalmi pontrendszer: Mi vár ránk?",
         id: "R08",
         chapters: [
@@ -39,7 +87,7 @@ export const podcasts = [
         members: ["Anti", "Openoms", "Robi", "Lorry", "HenkyPenky", "Feri", "Árpi"],
         topic: "Mindent a biztonság jegyében - A digitális euró öngólja - 3500 euró: ennyit tarthatsz? - Az algoritmus börtöne - Chat control: véd vagy megfigyel? - Jön a társadalmi pontrendszer - Van mozgástered: a Bitcoin a kiút",
         yt: "https://youtu.be/YzEOxKMGciU",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/AcWF4DpqIqGVqU5KX4Lw"
     },
     {
         name: "Ingyen intelligencia jön: Mit ér majd az ember?",
