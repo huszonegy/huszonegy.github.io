@@ -2,6 +2,58 @@
 
 export const podcasts = [
     {
+        name: "Ezért olvad el a pénzed, amit félreteszel",
+        id: "R10",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Egy zsák pénz, ami nullát ér (Intro)"
+        },
+        {
+                time: "01:48",
+                label: "A nagyi megtakarítása elpárolgott"
+        },
+        {
+                time: "03:33",
+                label: "Egy havi fizetés: ma 2 kiló kenyér"
+        },
+        {
+                time: "04:49",
+                label: "Miért került 3x annyiba a lakás?"
+        },
+        {
+                time: "06:19",
+                label: "A lakáshitel a semmiből készül"
+        },
+        {
+                time: "08:42",
+                label: "Ezért eszünk egyre rosszabb kaját"
+        },
+        {
+                time: "09:20",
+                label: "A kávé, amit folyton felhígítanak"
+        },
+        {
+                time: "10:38",
+                label: "Üres luxuslakások: hová gyűlik a pénz"
+        },
+        {
+                time: "12:21",
+                label: "Az egyetlen érték: az időd"
+        },
+        {
+                time: "13:02",
+                label: "Infláció: az életed leértékelése"
+        }
+        ],
+        img: "/pics/r10.jpg",
+        date: "2026.07.24.",
+        members: ["Zoli", "Robi", "Anti", "Feri", "Tamás", "Kata", "Lorry", "Hajnal", "Mordai", "Árpi"],
+        topic: "Egy zsák pénz, ami nullát ér (Intro) - A nagyi megtakarítása elpárolgott - Egy havi fizetés: ma 2 kiló kenyér - Miért került 3x annyiba a lakás? - A lakáshitel a semmiből készül - Ezért eszünk egyre rosszabb kaját - A kávé, amit folyton felhígítanak - Üres luxuslakások: hová gyűlik a pénz - Az egyetlen érték: az időd - Infláció: az életed leértékelése",
+        yt: "https://youtu.be/y5OczMnoRXo",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
         name: "Nyári Bitcoin leértékelés: miért jó a zuhanás?",
         id: "R09",
         chapters: [
@@ -47,7 +99,7 @@ export const podcasts = [
         members: ["Anti", "Tamás", "Robi", "B Zoli", "Feri", "Árpi"],
         topic: "Nyári leértékelés: az optimális DCA (Intro) - Az októberi csúcs: elmaradt az eufória - Ahol az esés mindig megállt - A négyéves ciklus: tényleg megszűnt? - Bikapiac medvehangulatban - 200 hetes mozgóátlag: itt az alja? - A közelgő supply shock - Árfolyam, érték, hálózat: nem ugyanaz - Kinek jó, ha esik az árfolyam?",
         yt: "https://youtu.be/zIElaDntVgI",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/Kv6or8ZmSolMWrXSiaXp"
     },
     {
         name: "Digitális euró és társadalmi pontrendszer: Mi vár ránk?",
