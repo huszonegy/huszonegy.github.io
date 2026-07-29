@@ -2,6 +2,62 @@
 
 export const podcasts = [
     {
+        name: "„A Bitcoin túl bonyolult, lekéstem, úgyis betiltják” — tényleg?",
+        id: "R11",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Ne győzködj, oszlasd a ködöt (Intro)"
+        },
+        {
+                time: "02:00",
+                label: "Ahogy én is félrelapoztam"
+        },
+        {
+                time: "03:06",
+                label: "Nem kell maratont futnod hozzá"
+        },
+        {
+                time: "05:15",
+                label: "A gyógymasszőr, aki nem ér rá"
+        },
+        {
+                time: "06:33",
+                label: "A jó pénzből nem lehet elkésni"
+        },
+        {
+                time: "07:34",
+                label: "Noé nem várta meg az esőt"
+        },
+        {
+                time: "09:06",
+                label: "Esik az ára? Nézd a 80-szorost"
+        },
+        {
+                time: "09:43",
+                label: "Buborék, átverés, piramisjáték"
+        },
+        {
+                time: "11:00",
+                label: "Se betiltani, se elavulni"
+        },
+        {
+                time: "11:37",
+                label: "Inkább aranyban hiszel?"
+        },
+        {
+                time: "14:55",
+                label: "Matek vagy egy ígéret?"
+        }
+        ],
+        img: "/pics/r11.jpg",
+        date: "2026.07.31.",
+        members: ["Anti", "Five", "Kata", "Robi", "Lorry", "D Tamás", "Optout", "Feri", "Dávid", "Árpi"],
+        topic: "Ne győzködj, oszlasd a ködöt (Intro) - Ahogy én is félrelapoztam - Nem kell maratont futnod hozzá - A gyógymasszőr, aki nem ér rá - A jó pénzből nem lehet elkésni - Noé nem várta meg az esőt - Esik az ára? Nézd a 80-szorost - Buborék, átverés, piramisjáték - Se betiltani, se elavulni - Inkább aranyban hiszel? - Matek vagy egy ígéret?",
+        yt: "https://youtu.be/Z68z3IQRsVU",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
         name: "Ezért olvad el a pénzed, amit félreteszel",
         id: "R10",
         chapters: [
@@ -51,7 +107,7 @@ export const podcasts = [
         members: ["Zoli", "Robi", "Anti", "Feri", "Tamás", "Kata", "Lorry", "Hajnal", "Mordai", "Árpi"],
         topic: "Egy zsák pénz, ami nullát ér (Intro) - A nagyi megtakarítása elpárolgott - Egy havi fizetés: ma 2 kiló kenyér - Miért került 3x annyiba a lakás? - A lakáshitel a semmiből készül - Ezért eszünk egyre rosszabb kaját - A kávé, amit folyton felhígítanak - Üres luxuslakások: hová gyűlik a pénz - Az egyetlen érték: az időd - Infláció: az életed leértékelése",
         yt: "https://youtu.be/y5OczMnoRXo",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/lKmNPWL0zJuPYzzvI5Zh"
     },
     {
         name: "Nyári Bitcoin leértékelés: miért jó a zuhanás?",
