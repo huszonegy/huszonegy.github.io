@@ -129,11 +129,16 @@ export const wallets = {
                 "van benne \"secure element\" hardver"
             ],
             items: [
+                // {
+                //     name: "COLDCARD",
+                //     text: "Az egyik legbiztonságosabb, legsokrétűbb eszköz az egyik legelső gyártótól (Coinkite), a \"hardvertárcák Rolls-Royce-a\". \
+                // Több haladó opciója van, profiknak ajánlott, kezdőknek nem feltétlenül a legjobb választás.",
+                //     link: "https://coldcard.com/"
+                // },
                 {
-                    name: "COLDCARD",
-                    text: "Az egyik legbiztonságosabb, legsokrétűbb eszköz az egyik legelső gyártótól (Coinkite), a \"hardvertárcák Rolls-Royce-a\". \
-Több haladó opciója van, profiknak ajánlott, kezdőknek nem feltétlenül a legjobb választás.",
-                    link: "https://coldcard.com/"
+                    name: "Trezor",
+                    text: "Egy népszerű eszköz az egyik első hardvertárca-gyártó cégtől, Csehországból.",
+                    link: "https://trezor.io/"
                 },
                 {
                     name: "Jade",
@@ -160,14 +165,11 @@ Mindez egy nagyobacska kavics kinézetű, érdekes kis eszközben.",
                     name: "Specter",
                     text: "Csináld-magad hardver eszköz, nagy érintőképernyővel, kiegészítőkkel és sokoldalú szoftverrel.",
                     link: "https://specter.solutions/hardware/index.html"
-                },
-                {
-                    name: "Trezor",
-                    text: "Egy népszerű eszköz az egyik első hardvertárca-gyártó cégtől, Csehországból.",
-                    link: "https://trezor.io/"
                 }
             ],
-            outro: "Amit NEM AJÁNLUNK új vásárlásra: Ledger, Tangem. Az ok: különböző korábbi biztonsági problémák. Aki ilyen használ, használja tovább, de fontoljon meg alternatívákat. Ledger esetében egy ajánlott lépés a LedgerLive app mellőzése, és az eszköz használata egy független tárcával, pl. Sparrow-val."
+            outro: "Amit NEM AJÁNLUNK új vásárlásra: \
+            | Coldcard: 2026. júliusban kiderült egy katasztrofális kulcs generálási hiba, ez aláásta a bizalmat ezzel a gyártóval szemben. \
+            | Ledger: különböző korábbi biztonsági problémák. Aki ilyen használ, használja tovább, de fontoljon meg alternatívákat; egy ajánlott lépés a LedgerLive app mellőzése, és az eszköz használata egy független tárcával, pl. Sparrow-val."
         },
         {
             name: "Bitcoin csomópontok (node)",
