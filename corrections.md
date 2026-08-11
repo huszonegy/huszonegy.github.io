@@ -49,11 +49,25 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - Toti Robi / Totik Robi → **Tótik Robi** (az Argentarius-könyv magyar fordítója)
 - Lőrinc / Lóri / Lórinc → **l0rinc** (magyar Bitcoin-fejlesztő; a handle nullával írandó, kisbetűvel — mondat elején is; ragozva kötőjellel: **l0rinc-cel**, l0rinc-nek)
 - Hermann → **Hermann Vivier** (a dél-afrikai **Bitcoin Ekasi** projekt vezetője; a gépi átirat „Bitcoinzi" alakját javítsd Bitcoin Ekasira)
+- Gláziranita / Glazer Anita → **Glaser Anita** (jogász; a blokkláncon való nyomozásról tart előadást) — ⚠️ **NEM azonos Katával**
+- Kata teljes neve **Dr. Stier Kata** (jogász; az ő előadása a „Szabadság ostroma"; a Bitcoin-tanácsadását is „Dr. Stier Kata" néven indítja)
+- Joni Apple / Johnny Apple → **Ioni Appelberg** (svédországi orvos-bitcoiner)
+- Récs Gel / Récsel → **Rachel** (a **Terra** projekt vezetője; a **Les Femmes Orange** — „narancsnők" — alapítója) ⚠️ vezetéknév egyelőre nincs meg
+- Alex Gletin → **Alex Gladstein** (a *Hidden Repression* / *Rejtett elnyomás* szerzője)
+- Alexi / Alex (a Satlantis kapcsán) → **Alex Svetski** (*Az Antikommunista Kiáltvány*, *Bitcoin Bushido*, **Satlantis**)
 
 ## Márka/hely javítások
 
 - Vangu Guard → **Vanguard**
 - Micro Strategy → **MicroStrategy**
+- BTC Hel / BTC Hell → **BTC Hell** (a helsinki Bitcoin konferencia)
+- Bitcoiners Prities / Prities → **Bitcoiner's Pretties** (Kata Bitcoin-lifestyle márkája)
+- Szatlantis → **Satlantis** (Nostr-alkalmazás)
+- **OneKey** (hardvertárca-gyártó)
+- Galaxi → **Balaxi** (a [mivagyunk.hu](https://mivagyunk.hu) társalapítója Katával)
+- Plepstyle → **Plebstyle** (német Bitcoin-merch márka)
+- Lefem Orzs → **Les Femmes Orange**
+- 21 Energy (osztrák cég; bányász-fűtőradiátor)
 - Hotel & More → **Hotel Atlantis** / **Hotel Aurora** (kontextus szerint)
 - Miskolctapolca (egy szó)
 - El Salvador (egységesen)
@@ -118,6 +132,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - 21-es → HUSZONEGY-es
 - a protokoll neve **Nostr**, a toldalékok kötőjellel: Nostr-on, Nostr-ra, Nostr-ba, Nostr-t, Nostr-nak, Nostr-os, Nostr-csoport, Nostr-protokoll (a gépi átirat „noszter/noster" alakjait javítsd)
 - **márka/brand + köznév összetétel: kötőjel NÉLKÜL, külön szóként** (Árpi tudatos stílusa, eltér a szigorú AkH kötőjelezéstől). Pl. *Bitcoin tartalom, Bitcoin közönség, Bitcoin tárca, Bitcoin cím, Bitcoin blog, YouTube csatornatagság* — NEM „Bitcoin-tartalom". **Minden** ilyen összetételre (a technikaiakra is). ⚠️ Ez csak az **összetételre** vonatkozik; a brandre tett **puszta toldalék** marad a saját szabályán: *Bitcoinról, Bitcoinhoz, Bitcoinban* (egybe), *Nostr-on, Nostr-ra* (kötőjellel).
+- **A felszíni szövegben (cím, bevezető, fejezetcím) a Bitcoin árára az „árfolyam" szót használjuk, nem az „ár"-t** (Árpi preferenciája). ⚠️ Ez csak az általunk írt reflektorfény-szövegre vonatkozik; az **átiratban** a beszélő szóválasztását („ár", „ára") NEM írjuk át.
 - `*(nevetés)*` → `(nevetés)` (NEM dőlt formátum)
 - Mondatkezdések nagybetűvel
 - „ne adjátok el a bitcoinotokat!" — felkiáltójellel

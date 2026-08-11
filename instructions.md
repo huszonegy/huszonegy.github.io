@@ -101,32 +101,30 @@ Kritériumok: 45–60 karakter; **a hook és az elsődleges kulcsszó az első ~
 
 A jelenlegi blokkos felépítés (nincs bebetonozva — jobbító javaslat mindig jöhet). **E113-tól az alábbi az érvényes szabvány:**
 
-1. **(Opcionális) rövid felütő sor legfelül** — kampány-/évadzáró-specifikus támogatás-hook (pl. „Segíts, hogy ősszel folytathassuk!"). Nem állandó elem; csak ha van aktuális kampány.
-2. **Bevezető** (2–3 mondat, egy bekezdésben)
-3. **Támogatás-CTA blokk** a bevezető után:
+1. **Bevezető** (2–3 mondat, egy bekezdésben)
+2. **Támogatás-CTA blokk** a bevezető után:
 🧡 Támogasd a folytatást!
 🆕 Legyél csatornatag! Havi támogatás egy kattintással ➡ https://www.youtube.com/@huszonegy-bitcoin-podcast/join
 ⚡ Inkább satokkal? ➡ https://huszonegy.world/tamogatas
-(A YouTube-csatornatagság [join] és a satok [`/tamogatas`, a teljes támogatási hub] a két fő út. Ha az adásban szóban a pesz.hu-ra utalunk, föléje még egy sor: `Forráshiánnyal küzdünk — részletek itt ➡ https://pesz.hu`.)
-4. **(Opcionális) új szponzor reflektorfény** — amikor új szponzor csatlakozik, egy soros kiemelés (pl. `🔥 Új szponzorunk a BudaBit! Cypherpunk fejlesztői közösség havi meetupokkal ➡ https://budabit.club`); az állandó helye ettől függetlenül a SZPONZOROK-blokk is.
-5. **FEJEZETEK:** (lásd 3. lépés)
-6. **FORRÁSOK:** — az adásban elhangzott, **nem evergreen** linkek (vendég projektje, hivatkozott külső cikk, korábbi HUSZONEGY Bitcoin blog-poszt). Az evergreen linkek a lenti blokkokba valók, ne ide. Opcionális; minden adásnál rákérdezek, van-e ilyen.
-7. **HUSZONEGY KÖZÖSSÉG:**
+
+3. **FEJEZETEK:** (lásd 3. lépés)
+4. **FORRÁSOK:** — az adásban elhangzott, **nem evergreen** linkek (vendég projektje, hivatkozott külső cikk, korábbi HUSZONEGY Bitcoin blog-poszt). Az evergreen linkek a lenti blokkokba valók, ne ide. Opcionális; minden adásnál rákérdezek, van-e ilyen.
+5. **HUSZONEGY KÖZÖSSÉG:**
    - Csak Bitcoinról, magyarul ➡ https://huszonegy.world
    - Meetup ➡ https://huszonegy.world/meetup
    - Telegram ➡ https://t.me/huszonegy
    - Nostr ➡ https://nostr.hu/huszonegy
-8. **MENTORÁLÁS & BLOG:**
+6. **MENTORÁLÁS & BLOG:**
    - Bitcoin mentorálás ➡ https://bitcoinmentor.hu
    - Bitcoin blog ➡ https://bitcoinmentor.hu/bitcoin-blog
-9. **SZPONZOROK:**
+7. **SZPONZOROK:**
    - BudaBit 🔥 cypherpunk fejlesztői közösség ➡ https://budabit.club
    - Hotel Atlantis ⚡ Hajdúszoboszló ➡ https://hotelatlantis.hu
    - Hotel Aurora ⚡ Miskolctapolca ➡ https://hotelaurora.hu
-10. **AJÁNLJUK:** (affiliate — a hivatkozó-kód az URL-ben, nem külön „Ajánlókód:" sorban)
+8. **AJÁNLJUK:** (affiliate — a hivatkozó-kód az URL-ben, nem külön „Ajánlókód:" sorban)
    - Relai 🇨🇭 Bitcoin-only megtakarítási app ➡ https://bitcoinmentor.hu/relai
    - Firefish 🔥🐟 Bitcoin fedezetű kölcsön ➡ https://app.firefish.io/auth/sign-up?ref=HUSZONEGY
-11. **ÁTIRAT:**
+9. **ÁTIRAT:**
    - `Inkább olvasnád? ➡ https://huszonegy.world/podcast/<slug>`
    - **Slug-szabály:** a végleges címből származtatva — kisbetűs, ékezetmentes (`ő → o`, `é → e`, `á → a`, `í → i`, `ú → u`, `ü → u`, `ö → o`); brand-nevek és számok ASCII-kisbetűre (`MicroStrategy` → `microstrategy`, `BIP-110` → `bip-110`); írásjelek (`,`, `?`, `!`, `:`, `;`, `'`, em-dash) **eltűnnek nyom nélkül** (nem kerül a helyükre kötőjel); meglévő belső kötőjelek megmaradnak (`Nostr-alternatíva`, `BIP-110`); szavak között egyetlen `-`. Pl. *„Recseg a GitHub — épül a magyar Nostr-alternatíva"* → `recseg-a-github-epul-a-magyar-nostr-alternativa`.
 
@@ -209,14 +207,6 @@ Build-ellenőrzés (a sitemap build-időben magától frissül a `podcasts.ts`-b
 
 ### 9. Publikálás utáni teendők
 - **Fountain-link frissítése:** a `podcasts.ts` `fountain` mezője eleinte a show-URL; a publikálás után órákkal, amikor az epizód saját Fountain-linkje generálódik, frissítem rá.
-- **Pinned komment:** publikálás után kitűzött komment a videóhoz (a YouTube a komment-aktivitást engagement-jelként jutalmazza). Sablon:
-  ```
-  🧡 Támogasd a HUSZONEGY működését, hogy folytathassuk az edukatív tartalmakat: ➡ https://huszonegy.world/tamogatas
-  📖 Inkább olvasnád? Itt a teljes, csiszolt átirat: ➡ https://huszonegy.world/podcast/<slug>/
-
-  👇 <epizódra szabott, provokatív kérdés>
-  ```
-  A záró kérdés **mindig epizódra szabott** (konkrét tét, amire könnyű reagálni — több hozzászólást hoz, mint a generikus „Ti mit gondoltok?"). Minden adáshoz **2–3 kérdés-javaslatot adok**, Árpi választ és pinnel.
 
 ## Negyedéves cím- és thumbnail-tanulás
 
@@ -234,6 +224,20 @@ A naptári negyedév végén (március 31, június 30, szeptember 30, december 3
 - **Kész videó felirata (végső fejezetidőkhöz):** a `transcripts_raw/` mappában, `epE{NN}_{id}.hu.srt` néven (yt-dlp).
 - **Szépített átiratok:** a `public/transcripts_clean/` mappában, E01 esetén `epE01_` kezdetű néven.
 - **corrections.md** a gyökérben.
+- **mondatbank.md** a gyökérben.
+
+## Mondatbank — folyamatos gyűjtés
+
+A `mondatbank.md` a repó gyökerében gyűjti a műsorból kiemelhető **ütős egymondatosokat** és a **visszatérő témákat**. Nem külön feladat: **minden epizód- és válogatás-munka melléktermékeként bővül.**
+
+Három szekciója van:
+1. **„Mikor esett le?"** — narancs-pillanatok (konkrét történetek, nem definíciók).
+2. **„Mi az a Bitcoin?"** — egymondatos válaszok, a *tévhit → tény → rendszer → ember → felismerés* ív szerint rendezve.
+3. **Visszatérő témák** — amit több adás, több vendég is kifejt. Ez nem csak montázs-nyersanyag: **megmutatja a műsor valódi, ismétlődő témáit, és fogódzó az új adások tervezéséhez.**
+
+**Amikor átiratot vagy vágási munkalapot készítek, a végén mindig kiemelem az adott adás(ok) legerősebb, önmagában is megálló mondatait**, és felviszem a megfelelő szekcióba: **idézet + adás + időbélyeg + résztvevők**. ⚠️ Az átirat gondolatjellel vált beszélőt, nevet nem ír — ezért a mondathoz az **adást és a résztvevőket** jegyzem fel, a konkrét arcot/hangot Árpi párosítja a videóból.
+
+Ugyanezek a mondatok a **short-form klipek** (vertikális vágások) nyersanyagai is.
 
 Kész videó forrásfelirata: a YouTube-azonosító a `src/data/podcasts.ts` `yt:` mezőjében van. A magyar auto-feliratot yt-dlp-vel töltsd le a `transcripts_raw/` mappába `epE{NN}_{id}.hu.srt` néven:
 `yt-dlp --write-auto-subs --sub-langs hu --sub-format srt --convert-subs srt --skip-download -o "epE{NN}_%(id)s.%(ext)s" <url>`
@@ -245,7 +249,7 @@ A legutóbbi szépített átirat az etalon — onnan veszem az aktuális konvenc
 
 **corrections.md elsőbbsége:** ha a `corrections.md` és az etalon ütközik egy konkrét helyesírásban vagy konvencióban, a `corrections.md` dönt — az etalon csak a minőség és a stílus referenciája.
 
-**Referencia-átiratok:** E94, E95, E96 referencia-fájlok (E95 a minőségi etalon) — ezeket sosem szerkesztem.
+**Referencia-átiratok:** E95 és E96 referencia-fájlok (**E96 a minőségi etalon**) — ezeket sosem szerkesztem.
 
 **„Hol tartunk":** a `podcasts.ts` epizód-id-jeit vetem össze a `public/transcripts_clean/` `.md` fájljaival; amelyik epizódhoz nincs szépített `.md`, az a backlog.
 
@@ -357,6 +361,8 @@ Egy epizódon belül ebben a sorrendben dolgozz:
 
 **Egyeztetés a darálás helyett:** nem-triviális elágazásnál kérdezz először — konkrét opciók, ajánlással —, ne dolgozz hosszan önállóan olyasmin, amit aztán át kell írni. Hosszabb generálás (átirat, brief, hosszú lista) előtt egy rövid mondatban erősítsd meg a strukturális döntéseket. A kérdezés/ötletelés a kívánatos; a felesleges token-égetés önállóskodással nem. Ha valami nem egyértelmű a dokumentumokból, kérdezz, ne találgass.
 
+**Érthetően, a tényleges tartalommal — ne rövidítés-utalásokkal.** Árpi NEM olvasta az összes átiratot; a Claude viszont igen. Amikor bármit bemutatok, ami az átiratokból merít (válogatás-terv, szegmens-javaslat, kifogás-lista), a puszta adásszám-hivatkozás („E107 hobbifutó") és a szakzsargon (bookend, reframe, passzus-lock) számára átláthatatlan. Ezért: nevezd meg a beszélőt egyszerűen (Robi, Kata, Mordai…), és **mondd el, MI hangzik el — a tényleges idézettel vagy egyszerű leírással**, ne csak címkével utalj rá. A tömörség itt nem erény: inkább magyarázd végig, mint hogy kódolt hivatkozásokat adj.
+
 **Ne a döntésemet találgasd — kérdezz; amit tudsz, jegyezd fel.** A cél nem az, hogy kevesebbet kérdezz, hanem hogy egyre önállóbban azt csináld, amit együtt csinálunk. Ezért: (1) amit egyszer eldöntöttünk (preferencia, konvenció), azt **feljegyzem ide vagy a `corrections.md`-be**, hogy legközelebb ugyanazt ne kelljen megkérdezni; (2) amit még nem tudok és nem következik a dokumentumokból, azt **megkérdezem — nem próbálom kitalálni, hogyan döntenél**, és főleg nem hozok csendben egy feltételezett döntést (ez vezetett a cold-open téves rövidítéséhez). A rögzített tudást alkalmazom; az ismeretlen döntést kérdezem.
 
 **Effort-szint:** default Opus + `xhigh` (a munka mindkét oldala — aprólékos hosszú-kontextusú átirattisztítás és kreatív cím-/leírásírás — intelligencia-érzékeny). Proaktívan jelezd, ha egy részfeladatnál érdemes változtatni: nehéz kreatív/ítéleti lépésnél feljebb, egyértelműen mechanikusnál lejjebb. Árpi dönt; te csak felszínre hozod.
@@ -366,3 +372,24 @@ Egy epizódon belül ebben a sorrendben dolgozz:
 **Build:** ne futtasd a `npm run build`-et minden apró szerkesztés után — csak érdemi ponton (szerkezeti változás, a munka lezárása) vagy ha Árpi kéri. Apró tweak (szöveg, szín, egy-egy sor) után elég maga az Edit; a hibát az úgyis jelzi.
 
 **Önállósodás:** a cél hétről hétre, hogy egyre önállóbban és egyre inkább Árpi ízléséhez illeszkedve dolgozz — minden javításból tanulva. Minden tanulság ebbe a dokumentumba (és a `corrections.md`-be) kerül, nem külön memóriába (lásd a felszíni szöveg elveinél).
+
+## Tanulságok a válogatás-tervezésből (2026.07.14.)
+
+Ezek a hibák egyetlen munkamenetben, egymásra épülve fordultak elő a nyári válogatások tervezésekor. Mind ugyanabból a gyökérből nőtt ki.
+
+**1. Előbb olvass, aztán rangsorolj.** Árpi tíz témát és rangsort kért; én legyártottam — a mondatbankból és részleges olvasásból —, ahelyett hogy azt mondtam volna: *ezt nem tudom rangsorolni, amíg el nem olvastam.* Onnantól minden erre az alapra épült, és minden Árpi-kérdés egy újabb darabot hozott a felszínre az adósságból. **Ha a tudás hiányzik, ne tervet gyárts, hanem szólj.**
+
+**2. Mutatóból ne következtess tartalomra.** Ez a hiba háromszor is megismétlődött, három szinten:
+- az eredeti nyári tervet **törött átiratokból** számolt témarangsor vitte félre;
+- Hajnalt azért neveztem „a legfontosabb kimaradónak", mert **két adása van és ő az egyetlen női vendég Katán kívül** — pedig az E90 jórészt használhatatlan;
+- az E74-et azért neveztem „az archívum legjobb narancs-pirula pillanatának", mert **így állt a mondatbankban** — olvasás nélkül.
+Retenció, CTR, adásszám, nemek aránya, egy korábbi jegyzet: ezek **mind proxyk.** A forrás maga a szöveg.
+
+**3. „Tudom, miről szól" ≠ „tudom, mi van benne."** Az E82 (D Tamás, a kávés) és az E78 (Dani) — a két adás, amiről a legkevesebbet tudtam — gazdagabbnak bizonyult, mint a tervezett darabok fele. Az egysoros összefoglaló nem helyettesíti a szöveget.
+
+**4. Előbb fájl, aztán beszélgetés.** A hatos terv köröken át csak a chatben élt, így minden korrekció után emlékezetből építettem újra — a javítások nem halmozódtak, hanem felülírták egymást. **A tudás a fájlban él, nem a kontextusban.** Hosszú olvasásnál 3–4 adásonként azonnal jegyzetelj fájlba; a kontextus elveszhet, a fájl nem.
+Ehhez tartozik: **a saját múltbeli munkám összefoglalóját ugyanúgy kezeltem, mint a mondatbankot — úgy, mintha maga a dolog lenne.** („27 átirat újraírva" ≠ „27 átiratot ismerek.")
+
+**5. Ha nem tudsz valamit, mondd ki.** Ne csomagold magabiztosan hangzó prózába. A díszítés (táblázat, félkövér, figyelmeztető jel, hatásvadász mondattöredék) **a bizonytalanság tünete** — amikor nem biztos a tartalom, azt a munkát végzi, amit a tartalomnak kellene. Árpi ezt előbb vette észre, mint én: *„nagyon furcsa stílusban fogalmazol… sokkal érthetőbben szoktál máskor írni."* Írj összefüggő, teljes mondatokban; táblázat csak felsorolható tényekhez.
+
+**Mit jelent a „kerüld a politikát" a válogatásokban (Árpi, 2026.07.27.):** a kerülendő az a **magyar párt-specifikum** — konkrét párt/politikus, választás, „a magyar kormány tenyere", Fidesz-plakát és hasonló. A tágabb, nem-párti rendszerkritika **NEM ebbe a körbe tartozik, és bent maradhat:** WEF/Davos, „nem megválasztott vezetőink", „tücsökevő klub", jegybank-kritika, elit-túlköltés. Ha bizonytalan egy részlet, jelöld és kérdezz — de alapból ne minősíts politikának minden rendszerkritikát.
