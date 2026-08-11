@@ -2,6 +2,54 @@
 
 export const podcasts = [
     {
+        name: "Nem a tiéd a Bitcoin, amíg nincs nálad a kulcs",
+        id: "R12",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Csak egy cetli a tőzsdén (Intro)"
+        },
+        {
+                time: "01:07",
+                label: "Utald ki saját tárcába!"
+        },
+        {
+                time: "02:35",
+                label: "Mi van, ha összedől a bankod?"
+        },
+        {
+                time: "04:47",
+                label: "Van mozgástered"
+        },
+        {
+                time: "07:07",
+                label: "Legyél a saját bankod"
+        },
+        {
+                time: "09:16",
+                label: "A szabadságnak ára van"
+        },
+        {
+                time: "11:10",
+                label: "Nincs, aki visszacsinálja"
+        },
+        {
+                time: "12:14",
+                label: "Nem halat, hanem hálót"
+        },
+        {
+                time: "13:29",
+                label: "A magad tempójában"
+        }
+        ],
+        img: "/pics/r12.jpg",
+        date: "2026.08.07.",
+        members: ["Anti", "Tamás", "Kata", "D Tamás", "Openoms", "Feri", "Dani", "Zoli", "Five", "Dávid", "B Zoli", "Árpi"],
+        topic: "Csak egy cetli a tőzsdén (Intro) - Utald ki saját tárcába! - Mi van, ha összedől a bankod? - Van mozgástered - Legyél a saját bankod - A szabadságnak ára van - Nincs, aki visszacsinálja - Nem halat, hanem hálót - A magad tempójában",
+        yt: "https://youtu.be/shc1H66-FXE",
+        fountain: "https://fountain.fm/episode/IrAzwHqHuSHoQtJqAk74"
+    },
+    {
         name: "„A Bitcoin túl bonyolult, lekéstem, úgyis betiltják” — tényleg?",
         id: "R11",
         chapters: [
@@ -55,7 +103,7 @@ export const podcasts = [
         members: ["Anti", "Five", "Kata", "Robi", "Lorry", "D Tamás", "Optout", "Feri", "Dávid", "Árpi"],
         topic: "Ne győzködj, oszlasd a ködöt (Intro) - Ahogy én is félrelapoztam - Nem kell maratont futnod hozzá - A gyógymasszőr, aki nem ér rá - A jó pénzből nem lehet elkésni - Noé nem várta meg az esőt - Esik az ára? Nézd a 80-szorost - Buborék, átverés, piramisjáték - Se betiltani, se elavulni - Inkább aranyban hiszel? - Matek vagy egy ígéret?",
         yt: "https://youtu.be/Z68z3IQRsVU",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/tJvCzifp166YSuHIZMRx"
     },
     {
         name: "Ezért olvad el a pénzed, amit félreteszel",
