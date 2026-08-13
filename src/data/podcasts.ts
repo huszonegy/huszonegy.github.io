@@ -2,6 +2,58 @@
 
 export const podcasts = [
     {
+        name: "Miért várjuk, hogy fentről megmondják, mit tegyünk?",
+        id: "R13",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Ki mondja meg a farkasnak? (Intro)"
+        },
+        {
+                time: "01:35",
+                label: "Ez a káosz valójában a rend"
+        },
+        {
+                time: "05:00",
+                label: "Mindennek van következménye"
+        },
+        {
+                time: "06:27",
+                label: "Tiltsák be a rollereket!"
+        },
+        {
+                time: "08:01",
+                label: "Nem javíthatod meg belülről"
+        },
+        {
+                time: "10:45",
+                label: "Az önzés mint erőforrás"
+        },
+        {
+                time: "11:48",
+                label: "Szabály van, főnök nincs"
+        },
+        {
+                time: "15:18",
+                label: "A legtöbb ember vezetőt akar"
+        },
+        {
+                time: "17:00",
+                label: "Nincs, aki eldöntse, mi a tiszta"
+        },
+        {
+                time: "19:56",
+                label: "Vidd a tankot a háborúba!"
+        }
+        ],
+        img: "/pics/r13.jpg",
+        date: "2026.08.14.",
+        members: ["l0rinc", "Anti", "Optout", "Boka", "Robi"],
+        topic: "Ki mondja meg a farkasnak? (Intro) - Ez a káosz valójában a rend - Mindennek van következménye - Tiltsák be a rollereket! - Nem javíthatod meg belülről - Az önzés mint erőforrás - Szabály van, főnök nincs - A legtöbb ember vezetőt akar - Nincs, aki eldöntse, mi a tiszta - Vidd a tankot a háborúba!",
+        yt: "https://youtu.be/r5DCSX6VDTg",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
         name: "Nem a tiéd a Bitcoin, amíg nincs nálad a kulcs",
         id: "R12",
         chapters: [
