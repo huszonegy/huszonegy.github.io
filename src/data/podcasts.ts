@@ -2,6 +2,58 @@
 
 export const podcasts = [
     {
+        name: "Mi az a Nostr? A Bitcoin testvérprotokollja",
+        id: "R14",
+        chapters: [
+        {
+                time: "00:00",
+                label: "A nyugalom, amit a Nostr ad (Intro)"
+        },
+        {
+                time: "01:47",
+                label: "A zap: pénzküldés egy gombnyomással"
+        },
+        {
+                time: "03:14",
+                label: "A Bitcoin testvérprotokollja"
+        },
+        {
+                time: "04:35",
+                label: "Cenzúra: amit nem lehet elhallgattatni"
+        },
+        {
+                time: "08:02",
+                label: "Nostr magyarul: nostr.hu és a Köztér"
+        },
+        {
+                time: "10:39",
+                label: "Kliensek: melyiket válaszd?"
+        },
+        {
+                time: "15:58",
+                label: "Budabit: közösség és fejlesztés a Nostr hálózatán"
+        },
+        {
+                time: "20:13",
+                label: "A te kulcsod, a te adatod"
+        },
+        {
+                time: "23:41",
+                label: "A Nostr mint az internet felfedező rétege"
+        },
+        {
+                time: "27:49",
+                label: "Git a Nostr protokollon, GitHub nélkül"
+        }
+        ],
+        img: "/pics/r14.jpg",
+        date: "2026.08.21.",
+        members: ["Boka", "Lez", "HenkyPenky", "Anti", "Five"],
+        topic: "A nyugalom, amit a Nostr ad (Intro) - A zap: pénzküldés egy gombnyomással - A Bitcoin testvérprotokollja - Cenzúra: amit nem lehet elhallgattatni - Nostr magyarul: nostr.hu és a Köztér - Kliensek: melyiket válaszd? - Budabit: közösség és fejlesztés a Nostr hálózatán - A te kulcsod, a te adatod - A Nostr mint az internet felfedező rétege - Git a Nostr protokollon, GitHub nélkül",
+        yt: "https://youtu.be/EI_11AURye4",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
         name: "Miért várjuk, hogy fentről megmondják, mit tegyünk?",
         id: "R13",
         chapters: [
@@ -51,7 +103,7 @@ export const podcasts = [
         members: ["l0rinc", "Anti", "Optout", "Boka", "Robi"],
         topic: "Ki mondja meg a farkasnak? (Intro) - Ez a káosz valójában a rend - Mindennek van következménye - Tiltsák be a rollereket! - Nem javíthatod meg belülről - Az önzés mint erőforrás - Szabály van, főnök nincs - A legtöbb ember vezetőt akar - Nincs, aki eldöntse, mi a tiszta - Vidd a tankot a háborúba!",
         yt: "https://youtu.be/r5DCSX6VDTg",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/T9zxJihTgoZfu4CdOHga"
     },
     {
         name: "Nem a tiéd a Bitcoin, amíg nincs nálad a kulcs",
