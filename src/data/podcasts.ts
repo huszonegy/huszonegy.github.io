@@ -2,6 +2,78 @@
 
 export const podcasts = [
     {
+        name: "Hiába váltasz kormányt, a pénzt tovább nyomtatják",
+        id: "R15",
+        chapters: [
+        {
+                time: "00:00",
+                label: "1600-ban ezen még nevettek"
+        },
+        {
+                time: "01:44",
+                label: "Csak a pelenkát cserélik"
+        },
+        {
+                time: "02:44",
+                label: "Amit a jegybank maga ismert be"
+        },
+        {
+                time: "04:20",
+                label: "Oktatásra, egészségügyre sosem jut"
+        },
+        {
+                time: "07:24",
+                label: "Ki gondolkodik a dobozon kívül?"
+        },
+        {
+                time: "11:41",
+                label: "Nem a pénz a rossz"
+        },
+        {
+                time: "12:02",
+                label: "Amit senki nem tud nyomtatni"
+        },
+        {
+                time: "14:48",
+                label: "Az állam dönti el, mi az etikus"
+        },
+        {
+                time: "16:00",
+                label: "Én lennék a legkorruptabb"
+        },
+        {
+                time: "17:38",
+                label: "Etikus pénz: amiben nincs bizalom"
+        },
+        {
+                time: "19:09",
+                label: "Gumiszalaggal mérünk mindent"
+        },
+        {
+                time: "21:38",
+                label: "Ár nem egyenlő érték"
+        },
+        {
+                time: "23:49",
+                label: "Miért nem szólok rád a buszon?"
+        },
+        {
+                time: "25:43",
+                label: "Kié legyen a Bitcoin?"
+        },
+        {
+                time: "27:42",
+                label: "Járjál példával!"
+        }
+        ],
+        img: "/pics/r15.jpg",
+        date: "2026.08.28.",
+        members: ["Robi", "Anti", "Árpi", "Dani", "Tamás", "Roli", "Feri"],
+        topic: "1600-ban ezen még nevettek - Csak a pelenkát cserélik - Amit a jegybank maga ismert be - Oktatásra, egészségügyre sosem jut - Ki gondolkodik a dobozon kívül? - Nem a pénz a rossz - Amit senki nem tud nyomtatni - Az állam dönti el, mi az etikus - Én lennék a legkorruptabb - Etikus pénz: amiben nincs bizalom - Gumiszalaggal mérünk mindent - Ár nem egyenlő érték - Miért nem szólok rád a buszon? - Kié legyen a Bitcoin? - Járjál példával!",
+        yt: "https://youtu.be/RAmP8lq0a_A",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
         name: "Mi az a Nostr? A Bitcoin testvérprotokollja",
         id: "R14",
         chapters: [
@@ -51,7 +123,7 @@ export const podcasts = [
         members: ["Boka", "Lez", "HenkyPenky", "Anti", "Five"],
         topic: "A nyugalom, amit a Nostr ad (Intro) - A zap: pénzküldés egy gombnyomással - A Bitcoin testvérprotokollja - Cenzúra: amit nem lehet elhallgattatni - Nostr magyarul: nostr.hu és a Köztér - Kliensek: melyiket válaszd? - Budabit: közösség és fejlesztés a Nostr hálózatán - A te kulcsod, a te adatod - A Nostr mint az internet felfedező rétege - Git a Nostr protokollon, GitHub nélkül",
         yt: "https://youtu.be/EI_11AURye4",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/Lu5PNodQbX5ml6JnSbVW"
     },
     {
         name: "Miért várjuk, hogy fentről megmondják, mit tegyünk?",
