@@ -164,7 +164,7 @@ Mindez egy nagyobacska kavics kinézetű, érdekes kis eszközben.",
                 {
                     name: "Specter",
                     text: "Csináld-magad hardver eszköz, nagy érintőképernyővel, kiegészítőkkel és sokoldalú szoftverrel.",
-                    link: "https://specter.solutions/hardware/index.html"
+                    link: "https://specter.solutions/hardware/"
                 }
             ],
             outro: "Amit NEM AJÁNLUNK új vásárlásra: \
