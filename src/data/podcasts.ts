@@ -2,6 +2,66 @@
 
 export const podcasts = [
     {
+        name: "Mit tud a Bitcoin, amit az állampapírod nem?",
+        id: "E114",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Az állampapír-csapda (Intro)"
+        },
+        {
+                time: "02:08",
+                label: "Vége a validátortörvénynek"
+        },
+        {
+                time: "05:38",
+                label: "Hol vehetsz ma bitcoint?"
+        },
+        {
+                time: "11:40",
+                label: "Gyengülő forint, hulló kamatok"
+        },
+        {
+                time: "15:17",
+                label: "Miért drágul így a lakhatás?"
+        },
+        {
+                time: "20:17",
+                label: "Az MNB szerint ez már engedélyköteles"
+        },
+        {
+                time: "26:03",
+                label: "Minden idők legnagyobb gyertyája"
+        },
+        {
+                time: "31:01",
+                label: "Megvár-e a Bitcoin?"
+        },
+        {
+                time: "33:40",
+                label: "Amit a 200 hetes mozgóátlag mutat"
+        },
+        {
+                time: "37:50",
+                label: "40 billió dollár, és még nő"
+        },
+        {
+                time: "41:49",
+                label: "A következő bankmentés"
+        },
+        {
+                time: "44:25",
+                label: "Mit hozzunk nektek az új évadban?"
+        }
+        ],
+        img: "/pics/e114.jpg",
+        date: "2026.09.04.",
+        members: ["Tamás", "Feri", "Árpi"],
+        topic: "Az állampapír-csapda (Intro) - Vége a validátortörvénynek - Hol vehetsz ma bitcoint? - Gyengülő forint, hulló kamatok - Miért drágul így a lakhatás? - Az MNB szerint ez már engedélyköteles - Minden idők legnagyobb gyertyája - Megvár-e a Bitcoin? - Amit a 200 hetes mozgóátlag mutat - 40 billió dollár, és még nő - A következő bankmentés - Mit hozzunk nektek az új évadban?",
+        yt: "https://youtu.be/nsP4kSi7MAo",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
         name: "Hiába váltasz kormányt, a pénzt tovább nyomtatják",
         id: "R15",
         chapters: [
