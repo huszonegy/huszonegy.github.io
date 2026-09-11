@@ -40,6 +40,8 @@ Minden héten egy új epizód. Árpi Riverside-ban felveszi és megvágja a besz
 ### 1. Cím
 **3–5 változat**, lehetőleg **különböző szögekből** (kérdés / szám / konkrét értékígéret / meglepő állítás / tét), de **az erő veri a változatosságot**: jobb 3 valóban ütős változat 2 szögből, mint 5 erőltetett változat 5 szögből. Ha egy szögnek nincs jó változata az adott epizódhoz, hagyjuk ki. Mindegyiknél: karakterszám, **klikk-erő (1–5)** egy mondat érveléssel, **curiosity-gap (1–3)** — mennyire hagy nyitva egy kérdést, amit csak a kattintás old fel (de csak ha valódi tartalom van mögötte; üres tátongás = clickbait, az nem ér pontot) —, **melyik 0. lépésbeli keresési kulcsszót fedi** (vagy egyik se), **kit céloz elsősorban** (fan / új tech-érdeklődő / búvárkodó), miért működik, melyik epizódrész fedezi. A klikk-erő **összehasonlító** (nem abszolút): a felkínált halmazon belül adok rangsort. Az ajánlott változat a legmagasabb klikk-erővel + a stratégiai szempontoknak (lényegi, izgalmas, hiteles) is megfelelő — és ha lehet, **legalább egy keresési kulcsszót is fed**.
 
+**Mért adat a becslés előtt:** a változatok összeállítása előtt ránézek a [`title-learnings.md`](title-learnings.md) bejegyzéseire, és a mért CTR-jegyeket (kérdésforma, curiosity-gap, brand-kulcsszó a hook első ~40 karakterében) beleszámolom a klikk-erő-rangsorba. A saját ízlés-alapú becslésem másodlagos a valós adathoz képest, és ha egy szög mérhetően hozott, a back-katalógus-ütközés önmagában nem érv ellene — a majdnem-klón szerkezetet kerüljük, nem a működő szöget.
+
 **Back-katalógus-ütközés:** a cím véglegesítése előtt ránézek a `podcasts.ts` közelmúltbeli, hasonló témájú adásaira. Ha egy korábbi cím már elhasználta ugyanazt a szöget vagy szerkezetet, a feedben ne legyen majdnem-klón — az új adás a friss, még le nem fedett szögre menjen. (Pl. E110-nél kiderült, hogy az E105 már vitte a „…etikus jegybank kontra Bitcoin" felállást, ezért lett E110 a „Miért nem jut el a tömeg a Bitcoinig?".)
 
 **Klikk-erő skála** (HUSZONEGY-kontextusra kalibrálva — hiteles edukáció, nem általános clickbait CTR-re):
@@ -95,17 +97,15 @@ Kritériumok: 45–60 karakter; **a hook és az elsődleges kulcsszó az első ~
 
 **Résztvevők:** a vendég/résztvevők nevei (pl. „Anti, Openoms, Árpi") a `podcasts.ts` `members` mezőjébe kerülnek; ezt a 0. lépésben **rákérdezéssel** szerzem meg (a vágás előtti Riverside-inputnál még nincs feltöltött YouTube-leírás, amiből kiolvashatnám — Árpinak így nem is kell beírnia a résztvevőket a leírásba). A **végleges YouTube-leírásba NEM** írok külön „Résztvevők:" sort.
 
-**Szekció-fejlécek:** a leírás blokkjai **CSUPA NAGYBETŰS szekciócímkét** kapnak a scannelhetőségért — pl. `FEJEZETEK:`, `FORRÁSOK:`, `HUSZONEGY KÖZÖSSÉG:`, `MENTORÁLÁS & BLOG:`, `SZPONZOROK:`, `AJÁNLJUK:`, `ÁTIRAT:`. Az adásban elhangzott linkek/források blokkja a **`FORRÁSOK:`** fejléc alá kerül; a soroknál nincs „(chart)"/„(blog)"/„előadás"-szerű utótag, sem gondolatjel — csak a tömör címke + `➡` + URL (pl. `Jack Mallers BTC Prague ➡ <URL>`). Az átirat-blokk is fejlécet kap (`ÁTIRAT:`), és az `Inkább olvasnád?` a link barátságos címkéje: `Inkább olvasnád? ➡ <átirat-URL>`. A YouTube fejezet-detektálását a `FEJEZETEK:` fejléc nem zavarja, amíg a `00:00` az első időbélyeg a leírásban. (E111-től kaptak fejlécet a blokkok; **E113-tól a link-forrás-blokk fejléce `LINKEK ÉS FORRÁSOK:`-ról `FORRÁSOK:`-ra rövidült**; **E113-tól a Relai és a Firefish egy közös `AJÁNLJUK:` fejléc alá került (az affiliate-ref az URL-ben, pl. `?ref=HUSZONEGY`), a Relai a leírás aljára, a támogatás-CTA pedig YouTube-csatornatag [join] + satok bontásra állt**.)
+**Szekció-fejlécek:** a leírás blokkjai **CSUPA NAGYBETŰS szekciócímkét** kapnak a scannelhetőségért — pl. `FEJEZETEK:`, `FORRÁSOK:`, `HUSZONEGY KÖZÖSSÉG:`, `MENTORÁLÁS & BLOG:`, `SZPONZOROK:`, `AJÁNLJUK:`, `ÁTIRAT:`. Az adásban elhangzott linkek/források blokkja a **`FORRÁSOK:`** fejléc alá kerül; a soroknál nincs „(chart)"/„(blog)"/„előadás"-szerű utótag, sem gondolatjel — csak a tömör címke + `➡` + URL (pl. `Jack Mallers BTC Prague ➡ <URL>`). Az átirat-blokk is fejlécet kap (`ÁTIRAT:`), és az `Inkább olvasnád?` a link barátságos címkéje: `Inkább olvasnád? ➡ <átirat-URL>`. A YouTube fejezet-detektálását a `FEJEZETEK:` fejléc nem zavarja, amíg a `00:00` az első időbélyeg a leírásban. (E111-től kaptak fejlécet a blokkok; **E113-tól a link-forrás-blokk fejléce `LINKEK ÉS FORRÁSOK:`-ról `FORRÁSOK:`-ra rövidült**; **E113-tól a Relai és a Firefish egy közös `AJÁNLJUK:` fejléc alá került (az affiliate-ref az URL-ben, pl. `?ref=HUSZONEGY`), a Relai a leírás aljára, a támogatás-CTA pedig YouTube-csatornatag [join] + satok bontásra állt; **E114-től a CTA egyetlen csatornatag-sorra rövidült**.)
 
 **Click-through elv:** a blurb-szövegek ne ismételjék azt az infót, ami a célokon (a linkelt oldalon) már ott van (pl. konkrét kedvezmény százalék a Relai oldalán).
 
 A jelenlegi blokkos felépítés (nincs bebetonozva — jobbító javaslat mindig jöhet). **E113-tól az alábbi az érvényes szabvány:**
 
 1. **Bevezető** (2–3 mondat, egy bekezdésben)
-2. **Támogatás-CTA blokk** a bevezető után:
-🧡 Támogasd a folytatást!
-🆕 Legyél csatornatag! Havi támogatás egy kattintással ➡ https://www.youtube.com/@huszonegy-bitcoin-podcast/join
-⚡ Inkább satokkal? ➡ https://huszonegy.world/tamogatas
+2. **Támogatás-CTA** a bevezető után — **E114-től egyetlen sor.** A satos link, a „Támogasd a folytatást!" fejléc és a szponzor-kiemelő sor kikerült innen; a szponzorok a `SZPONZOROK:` blokkban maradnak:
+🧡 Legyél Te is csatornatag! ➡ https://www.youtube.com/@huszonegy-bitcoin-podcast/join
 
 3. **FEJEZETEK:** (lásd 3. lépés)
 4. **FORRÁSOK:** — az adásban elhangzott, **nem evergreen** linkek (vendég projektje, hivatkozott külső cikk, korábbi HUSZONEGY Bitcoin blog-poszt). Az evergreen linkek a lenti blokkokba valók, ne ide. Opcionális; minden adásnál rákérdezek, van-e ilyen.
@@ -159,7 +159,7 @@ A briefet az alábbi sorrendben építem fel — **az érzelmi/emberi pillanatt�
    - **Alsó-bal sáv kerülése**: itt fut a YouTube-időtartam-bar és a play-overlay — fontos elemet ne tegyünk ide.
    - **Kontraszt**: a fő rétegek között **magas kontraszt** — kis méretben (120×68 px) is tisztán elválnak. Praktikus check: hunyorgós szemmel nézve még felismerhetők-e a rétegek?
    - **Mindig számolok a 260×146-os kicsinyítéssel** — a sziluettek és a kicker kis méretben is jól olvashatóak maradjanak.
-   - **Split / „vs" kompozíció összehasonlító adásnál:** ha az epizód magja egy szembeállítás (régi rendszer vs. új, GitHub vs. Nostr, centralizált vs. decentralizált), érdemes a képet vizuálisan kettéosztani — a két oldal két motívuma a feszültséget azonnal kommunikálja a csempén. Ez a „max 3–4 réteg" keretbe fér (két motívum + kicker + háttér), és csak akkor használjuk, ha a tartalom valóban összehasonlító.
+   - **Split / „vs" kompozíció: NE.** Árpi kifejezetten nem szereti a kettéosztott képet, akkor sem, ha az adás magja egy szembeállítás. A feszültséget egyetlen összefüggő jelenetben kell megoldani: a két pólus közül az egyik legyen a látható motívum, a másik a jelenet kontextusa vagy hiánya. Ha egy koncepció csak kettéosztással működne, keress másikat.
 
 6. **Mit NE legyen** — epizódra szabva + általános brand-tilalmak:
    - Védjegy-kockázatos logók literálisan (pl. konkrét GitHub Octocat, ha a cím GitHubot tartalmaz).
@@ -224,20 +224,6 @@ A naptári negyedév végén (március 31, június 30, szeptember 30, december 3
 - **Kész videó felirata (végső fejezetidőkhöz):** a `transcripts_raw/` mappában, `epE{NN}_{id}.hu.srt` néven (yt-dlp).
 - **Szépített átiratok:** a `public/transcripts_clean/` mappában, E01 esetén `epE01_` kezdetű néven.
 - **corrections.md** a gyökérben.
-- **mondatbank.md** a gyökérben.
-
-## Mondatbank — folyamatos gyűjtés
-
-A `mondatbank.md` a repó gyökerében gyűjti a műsorból kiemelhető **ütős egymondatosokat** és a **visszatérő témákat**. Nem külön feladat: **minden epizód- és válogatás-munka melléktermékeként bővül.**
-
-Három szekciója van:
-1. **„Mikor esett le?"** — narancs-pillanatok (konkrét történetek, nem definíciók).
-2. **„Mi az a Bitcoin?"** — egymondatos válaszok, a *tévhit → tény → rendszer → ember → felismerés* ív szerint rendezve.
-3. **Visszatérő témák** — amit több adás, több vendég is kifejt. Ez nem csak montázs-nyersanyag: **megmutatja a műsor valódi, ismétlődő témáit, és fogódzó az új adások tervezéséhez.**
-
-**Amikor átiratot vagy vágási munkalapot készítek, a végén mindig kiemelem az adott adás(ok) legerősebb, önmagában is megálló mondatait**, és felviszem a megfelelő szekcióba: **idézet + adás + időbélyeg + résztvevők**. ⚠️ Az átirat gondolatjellel vált beszélőt, nevet nem ír — ezért a mondathoz az **adást és a résztvevőket** jegyzem fel, a konkrét arcot/hangot Árpi párosítja a videóból.
-
-Ugyanezek a mondatok a **short-form klipek** (vertikális vágások) nyersanyagai is.
 
 Kész videó forrásfelirata: a YouTube-azonosító a `src/data/podcasts.ts` `yt:` mezőjében van. A magyar auto-feliratot yt-dlp-vel töltsd le a `transcripts_raw/` mappába `epE{NN}_{id}.hu.srt` néven:
 `yt-dlp --write-auto-subs --sub-langs hu --sub-format srt --convert-subs srt --skip-download -o "epE{NN}_%(id)s.%(ext)s" <url>`
@@ -362,6 +348,8 @@ Egy epizódon belül ebben a sorrendben dolgozz:
 **Egyeztetés a darálás helyett:** nem-triviális elágazásnál kérdezz először — konkrét opciók, ajánlással —, ne dolgozz hosszan önállóan olyasmin, amit aztán át kell írni. Hosszabb generálás (átirat, brief, hosszú lista) előtt egy rövid mondatban erősítsd meg a strukturális döntéseket. A kérdezés/ötletelés a kívánatos; a felesleges token-égetés önállóskodással nem. Ha valami nem egyértelmű a dokumentumokból, kérdezz, ne találgass.
 
 **Érthetően, a tényleges tartalommal — ne rövidítés-utalásokkal.** Árpi NEM olvasta az összes átiratot; a Claude viszont igen. Amikor bármit bemutatok, ami az átiratokból merít (válogatás-terv, szegmens-javaslat, kifogás-lista), a puszta adásszám-hivatkozás („E107 hobbifutó") és a szakzsargon (bookend, reframe, passzus-lock) számára átláthatatlan. Ezért: nevezd meg a beszélőt egyszerűen (Robi, Kata, Mordai…), és **mondd el, MI hangzik el — a tényleges idézettel vagy egyszerű leírással**, ne csak címkével utalj rá. A tömörség itt nem erény: inkább magyarázd végig, mint hogy kódolt hivatkozásokat adj.
+
+**Természetes, emberi magyar nyelven — AI-zsargon nélkül.** Úgy írok, ahogy egy tapasztalt magyar szerkesztő vagy újságíró fogalmaz: folyékonyan, közvetlenül, tisztán és olvasmányosan. Ez a válaszaimra ugyanúgy vonatkozik, mint a leadott szövegre (cím, bevezető, fejezetek, leírás, átirat). Tilos az angol AI-zsargon és a túlformalizált, gépszerű magyar fordulat — a „feladat végrehajtva", „a kérés alapján elvégeztem", „az alábbi lépéseket hajtottam végre" típusú mondatok, az agent- és tool-szótár, a folyamat gépies leltározása. Nem magyarázkodom túl és nem mentegetőzöm: elmondom, mi történt és mi az, amiről Árpinak döntenie kell. A hangnem közvetlen és emberi — ember írjon, ne „AI-agent".
 
 **Ne a döntésemet találgasd — kérdezz; amit tudsz, jegyezd fel.** A cél nem az, hogy kevesebbet kérdezz, hanem hogy egyre önállóbban azt csináld, amit együtt csinálunk. Ezért: (1) amit egyszer eldöntöttünk (preferencia, konvenció), azt **feljegyzem ide vagy a `corrections.md`-be**, hogy legközelebb ugyanazt ne kelljen megkérdezni; (2) amit még nem tudok és nem következik a dokumentumokból, azt **megkérdezem — nem próbálom kitalálni, hogyan döntenél**, és főleg nem hozok csendben egy feltételezett döntést (ez vezetett a cold-open téves rövidítéséhez). A rögzített tudást alkalmazom; az ismeretlen döntést kérdezem.
 

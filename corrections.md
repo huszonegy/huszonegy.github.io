@@ -55,6 +55,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - Récs Gel / Récsel → **Rachel** (a **Terra** projekt vezetője; a **Les Femmes Orange** — „narancsnők" — alapítója) ⚠️ vezetéknév egyelőre nincs meg
 - Alex Gletin → **Alex Gladstein** (a *Hidden Repression* / *Rejtett elnyomás* szerzője)
 - Alexi / Alex (a Satlantis kapcsán) → **Alex Svetski** (*Az Antikommunista Kiáltvány*, *Bitcoin Bushido*, **Satlantis**)
+- Scott Besent / Bessz → **Scott Bessent** (amerikai pénzügyminiszter; a kötvény-visszavásárlások kapcsán jön elő)
 
 ## Márka/hely javítások
 
@@ -97,6 +98,12 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - BTC+ / BTC plus plus → **BTC++** (Bitcoin-fejlesztői konferenciasorozat; btcplusplus.dev)
 - Rest Public / Rest Public Project → **RaspiBlitz** (önálló Bitcoin/Lightning node-projekt)
 - MRAL / Misztrál → **Mistral** (francia AI-fejlesztő/modell)
+- relay / relayed / relei / réli → **Relai** (svájci Bitcoin-only megtakarítási app; a gépi átirat rendszeresen „relay"-nek hallja)
+- Filefish / Fáilfis → **Firefish**
+- Coinkash / Koénkes / coin cash → **CoinCash** (magyar szolgáltató; övé az első magyar MiCA-engedély)
+- likvid / liquidábé / lickvid → **Liquid** (a Blockstream oldallánca). A teljes, hivatalos név **Liquid Network**, toldalék kötőjellel: Liquid Network-ből. ⚠️ A teljes alakot a **felszíni szövegben** (cím, bevezető, leírás) használjuk; az **átiratban** a beszélő „Liquid" alakja marad, azt nem nevezzük át. A rajta kibocsátott bitcoin-token: **L-BTC**.
+- Blockstam / blogstream / Blockstream nevű cég → **Blockstream** (Adam Back cége; a Liquid Network és a Core Lightning fejlesztője)
+- Kaduc / Cadó Ecus / Kaduceus → **Caduceus** (a megszűnt állami validátorcég; C-vel)
 
 ## Szakkifejezések
 
@@ -118,12 +125,16 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - kantilon hatás → **Cantillon-hatás**
 - zep / zeppek → **zap / zapek** (Nostr borravaló)
 - mit törm → **midterm**
+- bullmet / bmarket / bermket / bell market → **bull market** / **bear market** (kontextus szerint; az angol alak marad, nem fordítjuk)
+- premission / premisszion → **permissionless** (engedélymentes; az angol alak marad)
+- travel rule (angolul, kisbetűvel; a pénzmosás elleni utalási szabály)
 - represszálás → **reprocesszálás**
 - konzin / consoint / conjoint / „coin join" → **CoinJoin** (ragozva: CoinJoinol, CoinJoinnal, átCoinJoinol)
 - manpool → **mempool** (mempool.space)
 - anonset → **anonimitási pontszám / anonimitási szint**
 - PSBT → **PSBT** (partially signed Bitcoin transaction, részlegesen aláírt Bitcoin-tranzakció)
 - légrés / air-gap (galvanikusan nincs összekötve az eszköz a számítógéppel)
+- „57-es / 57 hetes mozgóátlag" → **ötven hetes mozgóátlag** (50 WMA; a bull/bear market elválasztására használt heti mozgóátlag). A gép az „ötven hetes" kimondott alakot hallja „57-es"-nek.
 - „207-es / 207 hetes mozgóátlag" → **200 hetes mozgóátlag** (200 WMA — a Bitcoin négyéves ciklus-indikátora). A *szó* rendszerint helyes; a gépi átirat a **számot** hallja gyakran 207-nek 200 helyett — ezt egységesítsd **200**-ra.
 
 ## Formázási konvenciók
@@ -132,6 +143,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - 21-es → HUSZONEGY-es
 - a protokoll neve **Nostr**, a toldalékok kötőjellel: Nostr-on, Nostr-ra, Nostr-ba, Nostr-t, Nostr-nak, Nostr-os, Nostr-csoport, Nostr-protokoll (a gépi átirat „noszter/noster" alakjait javítsd)
 - **márka/brand + köznév összetétel: kötőjel NÉLKÜL, külön szóként** (Árpi tudatos stílusa, eltér a szigorú AkH kötőjelezéstől). Pl. *Bitcoin tartalom, Bitcoin közönség, Bitcoin tárca, Bitcoin cím, Bitcoin blog, YouTube csatornatagság* — NEM „Bitcoin-tartalom". **Minden** ilyen összetételre (a technikaiakra is). ⚠️ Ez csak az **összetételre** vonatkozik; a brandre tett **puszta toldalék** marad a saját szabályán: *Bitcoinról, Bitcoinhoz, Bitcoinban* (egybe), *Nostr-on, Nostr-ra* (kötőjellel).
+- **A „Bitcoin hálózat" (protokoll, nagy B) és a „bitcoin" (fizetőeszköz, kis b) két külön dolog** — a felszíni szövegben sem cserélhető fel a kettő. Ha egy mondatban mindkettő szerepel, az NEM szóismétlés, hanem a pontosság feltétele: rövidítéskor tilos az egyiket a másikkal összevonni, akkor is, ha a cím így pár karakterrel hosszabb lesz.
 - **A felszíni szövegben (cím, bevezető, fejezetcím) a Bitcoin árára az „árfolyam" szót használjuk, nem az „ár"-t** (Árpi preferenciája). ⚠️ Ez csak az általunk írt reflektorfény-szövegre vonatkozik; az **átiratban** a beszélő szóválasztását („ár", „ára") NEM írjuk át.
 - `*(nevetés)*` → `(nevetés)` (NEM dőlt formátum)
 - Mondatkezdések nagybetűvel
