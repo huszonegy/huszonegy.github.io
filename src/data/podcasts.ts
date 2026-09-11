@@ -2,6 +2,66 @@
 
 export const podcasts = [
     {
+        name: "A Bitcoin hálózat atombiztos, mégis lenyúltak több ezer bitcoint",
+        id: "E115",
+        chapters: [
+        {
+                time: "00:00",
+                label: "4000 bitcoin egy tranzakcióval (Intro)"
+        },
+        {
+                time: "01:26",
+                label: "A spamvadászat, amiből háború lett"
+        },
+        {
+                time: "04:52",
+                label: "Csak az Ocean mondott igent"
+        },
+        {
+                time: "09:58",
+                label: "Tíz éve már láttuk ezt a filmet"
+        },
+        {
+                time: "12:46",
+                label: "Így bukik el egy rossz szereplő"
+        },
+        {
+                time: "15:19",
+                label: "Ami leszakadt, az már nem Bitcoin"
+        },
+        {
+                time: "19:55",
+                label: "Egy atom a világegyetemben"
+        },
+        {
+                time: "24:02",
+                label: "Öt éve lapult a kódban a hiba"
+        },
+        {
+                time: "27:36",
+                label: "Saját entrópia: 204 kockadobás"
+        },
+        {
+                time: "32:29",
+                label: "Ellopta, visszaadta, és jött az AI"
+        },
+        {
+                time: "37:28",
+                label: "Aki odaadta a kulcsát, az bukott"
+        },
+        {
+                time: "43:12",
+                label: "Mit mutat az ötven hetes átlag?"
+        }
+        ],
+        img: "/pics/e115.jpg",
+        date: "2026.09.11.",
+        members: ["Tamás", "Feri"],
+        topic: "4000 bitcoin egy tranzakcióval (Intro) - A spamvadászat, amiből háború lett - Csak az Ocean mondott igent - Tíz éve már láttuk ezt a filmet - Így bukik el egy rossz szereplő - Ami leszakadt, az már nem Bitcoin - Egy atom a világegyetemben - Öt éve lapult a kódban a hiba - Saját entrópia: 204 kockadobás - Ellopta, visszaadta, és jött az AI - Aki odaadta a kulcsát, az bukott - Mit mutat az ötven hetes átlag?",
+        yt: "https://youtu.be/u7y4bjnWiyU",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
         name: "Mit tud a Bitcoin, amit az állampapírod nem?",
         id: "E114",
         chapters: [
@@ -59,7 +119,7 @@ export const podcasts = [
         members: ["Tamás", "Feri", "Árpi"],
         topic: "Az állampapír-csapda (Intro) - Vége a validátortörvénynek - Hol vehetsz ma bitcoint? - Gyengülő forint, hulló kamatok - Miért drágul így a lakhatás? - Az MNB szerint ez már engedélyköteles - Minden idők legnagyobb gyertyája - Megvár-e a Bitcoin? - Amit a 200 hetes mozgóátlag mutat - 40 billió dollár, és még nő - A következő bankmentés - Mit hozzunk nektek az új évadban?",
         yt: "https://youtu.be/nsP4kSi7MAo",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/ghunSSqBWWTE153W9YMD"
     },
     {
         name: "Hiába váltasz kormányt, a pénzt tovább nyomtatják",
@@ -131,7 +191,7 @@ export const podcasts = [
         members: ["Robi", "Anti", "Árpi", "Dani", "Tamás", "Roli", "Feri"],
         topic: "1600-ban ezen még nevettek - Csak a pelenkát cserélik - Amit a jegybank maga ismert be - Oktatásra, egészségügyre sosem jut - Ki gondolkodik a dobozon kívül? - Nem a pénz a rossz - Amit senki nem tud nyomtatni - Az állam dönti el, mi az etikus - Én lennék a legkorruptabb - Etikus pénz: amiben nincs bizalom - Gumiszalaggal mérünk mindent - Ár nem egyenlő érték - Miért nem szólok rád a buszon? - Kié legyen a Bitcoin? - Járjál példával!",
         yt: "https://youtu.be/RAmP8lq0a_A",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/MlteFQUYwU8Oz3Cmr0XE"
     },
     {
         name: "Mi az a Nostr? A Bitcoin testvérprotokollja",
