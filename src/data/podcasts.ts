@@ -1578,15 +1578,15 @@ export const podcasts = [
         id: "E94",
         chapters: [
         {
-                time: "0:00",
+                time: "00:00",
                 label: "Mi a szabad pénz mellett tesszük le a voksunkat"
         },
         {
-                time: "5:11",
+                time: "05:11",
                 label: "Bitcoin 70x vs. arany 5x, 2017 óta"
         },
         {
-                time: "8:22",
+                time: "08:22",
                 label: "36% adó eladás nélkül: ez történt Hollandiában"
         },
         {
@@ -1730,7 +1730,7 @@ export const podcasts = [
                 label: "A nyugalom forrása - zene, Bitcoin és életmód"
         },
         {
-                time: "1:06:36",
+                time: "01:06:36",
                 label: "Meetup és lemezbemutató koncert"
         }
 ],
@@ -1998,7 +1998,7 @@ export const podcasts = [
                 label: "Hogyan indíts Bitcoin meetupot?"
         },
         {
-                time: "1:00:26",
+                time: "01:00:26",
                 label: "Pozitív társadalmi mozgalom"
         }
         ],
@@ -2014,15 +2014,15 @@ export const podcasts = [
         id: "E86",
         chapters: [
         {
-                time: "0:00",
+                time: "00:00",
                 label: "Bitcoin Educators Academy - Torinó"
         },
         {
-                time: "4:34",
+                time: "04:34",
                 label: "&quot;Imposztor szindróma&quot; és proof-of-work"
         },
         {
-                time: "9:50",
+                time: "09:50",
                 label: "TEBx-díj és a mesterterv"
         },
         {
@@ -2062,11 +2062,11 @@ export const podcasts = [
                 label: "Bitcoiner&#39;s Pretties - Ingyenes kiszállítás worldwide"
         },
         {
-                time: "1:03:47",
+                time: "01:03:47",
                 label: "Bitcoin Mentor és budapesti meetup élmények"
         },
         {
-                time: "1:14:13",
+                time: "01:14:13",
                 label: "Pécsi meetup előzetes"
         }
 ],
@@ -2290,7 +2290,7 @@ export const podcasts = [
                 label: "Decentralizáció: a nép pénze, nem a kormányé"
         },
         {
-                time: "1:05:01",
+                time: "01:05:01",
                 label: "Miből lesz a mokambogár?"
         }
 ],
@@ -5672,23 +5672,23 @@ export const podcasts = [
                 label: "Arany, ingatlan, bér"
         },
         {
-                time: "1:00:27",
+                time: "01:00:27",
                 label: "Központilag irányított gazdaság"
         },
         {
-                time: "1:01:52",
+                time: "01:01:52",
                 label: "Megvan a hunyó"
         },
         {
-                time: "1:03:28",
+                time: "01:03:28",
                 label: "Inflációs kosár trükk"
         },
         {
-                time: "1:06:17",
+                time: "01:06:17",
                 label: "Kagylózó politikus"
         },
         {
-                time: "1:09:24",
+                time: "01:09:24",
                 label: "Következő El Salvador?"
         }
 ],
@@ -6024,7 +6024,7 @@ export const podcasts = [
                 label: "Vállalkozási lehetőségek"
         },
         {
-                time: "1:01:16",
+                time: "01:01:16",
                 label: "Ráadás"
         }
 ],
@@ -6068,8 +6068,8 @@ export const podcasts = [
                 label: "Kína mutatja az irányt"
         },
         {
-                time: "1:00:40",
-                label: "Az abszolút kontroll nagyon fontos\n\nA Bitcoin egy páratlan technológiai eszköz, mely lehetőséget nyújt az emberiség számára, hogy emberhez méltó módon újítsa meg pénzügyi, gazdasági rendszereit, kifejtve jótékony hatásait további társadalmi rendszereinkre is.\n\nA HUSZONEGY csoport kizárólag Bitcoinnal foglalkozik, és fő célja a magyar nyelvű Bitcoin témájú tájékoztatás mennyiségének, minőségének, közérthetőségének és valóságtartalmának intenzív javítása.\n\nHonlapunkon találsz magyar nyelvű bevezető cikkeket, a magyar nyelven elérhető Bitcoin könyvek bővülő listáját, melyek nagy része ingyenesen elérhető az interneten keresztül:\nhttps://huszonegy.world\n\nBitcoinBázis shop:\nhttps://shop.bitcoinbazis.hu\n\nUmbrel node:\nhttps://umbrel.com\n\nBitcoin kontra CBDC avagy &quot;Szabadok legyünk, s ne rabok&quot; előadás:\nhttps://youtu.be/1aSoRf17WRg\n\nBitcoin kontra CBDC avagy &quot;Szabadok legyünk, s ne rabok&quot; előadás oktató slidejai indítható videókkal és linkekkel:\nhttps://www.canva.com/design/DAFcjVY0X7o/dsedk4RAJ5ikeG0gNBPyVw/view\n\nPécsi Bitcoin meetup:\nhttps://bitcoinpecs.hu\n\nTovábbi meetupokról infó a telegram csoportban:\nhttps://t.me/huszonegy\n\nTamás youtube csatornája:\nhttps://youtube.com/@tamaskolossvary1165\n\nAz adásban hivatkozott MNB-BME előadás:\nhttps://www.bme.hu/hirek/20240308/A_jovo_penze_a_penz_jovoje_digitalizacio_es_gazdasag\n\n***\n\nTalálkozzunk júniusban a prágai bitcoin konferencián!\n10% kedvezménnyel kapsz BTC Prague jegyet a HUSZONEGY kuponkóddal, illetve az alábbi linkre kattintva:\nhttps://www.btcprague.com/?promo_id=18796&amp;key=88341594e72889cc7ebf8364da9da2d9\n\n***\n\nKérünk, támogasd tevékenységünket!\n\nBármilyen összegű támogatást hálásan köszönünk, és minden egyes satot magyar nyelvű bitcoin oktatássá konvertálunk.\n\nLightning Network cím:\nhuszonegy@blink.sv\n\nNyilvános kulcs:\nbc1pzv8afe5l4tv392uhuqasyypl6tpdrc024s9m6ckyw0z8348ukayqudrydd\n\n***\n\nAz elhangzottak nem minősülnek pénzügyi tanácsnak. \n\nAzt javasoljuk, hogy tanulj a Bitcoinról, és bármilyen pénzügyi eszközbe csak annyit fektess, amennyire érted! Ez támogatja a nyugodt alvást és meggondolt cselekvést.\n\nA Bitcoin megértéséhez nem kell géniusznak lenni, elég elhatározni, hogy rendszeresen foglalkozol vele, és kitartó munkával, fokról fokra bárki fel tudja fogni, hogy mi az a Bitcoin.\n\nTanulj a Bitcoinról!\nhttps://huszonegy.world"
+                time: "01:00:40",
+                label: "Az abszolút kontroll nagyon fontos"
         }
 ],
         img: "/pics/mi-az-a-bitcoin-s01e06.jpg",
@@ -6184,19 +6184,19 @@ export const podcasts = [
                 label: "Az arany marad egy nyaklánc vagy egy fogtömés"
         },
         {
-                time: "1:00:27",
+                time: "01:00:27",
                 label: "Bitcoin alapú világban nem lesz ennyi háború"
         },
         {
-                time: "1:02:09",
+                time: "01:02:09",
                 label: "A harmadik világbeli országok kizsákmányolása"
         },
         {
-                time: "1:04:24",
+                time: "01:04:24",
                 label: "Meetup-ok Miskolcon és Pécsett is"
         },
         {
-                time: "1:05:13",
+                time: "01:05:13",
                 label: "Bitcoin konferencia Miskolcon"
         }
 ],
