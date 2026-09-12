@@ -1,0 +1,5556 @@
+1
+00:00:00,199 --> 00:00:04,839
+Sokan mondják, hogy most Európában az
+
+2
+00:00:02,040 --> 00:00:07,200
+üzemanyag el fog fogyni. Igazából nem az
+
+3
+00:00:04,839 --> 00:00:09,040
+üzemanyag fogy el, hanem azon az áron,
+
+4
+00:00:07,200 --> 00:00:12,120
+amin sok nemzet bevezette hasonlóan az
+
+5
+00:00:09,040 --> 00:00:14,360
+ársapkát, ahogy mi is, valaki pedig nem.
+
+6
+00:00:12,120 --> 00:00:15,839
+Az ársapkás áron fog elfogyni a benzin
+
+7
+00:00:14,360 --> 00:00:18,160
+és az üzemanyag. Hogyha hagyjuk a
+
+8
+00:00:15,839 --> 00:00:20,320
+szabályat piacot működni, akkor az árak
+
+9
+00:00:18,160 --> 00:00:22,119
+addig emelkednek, míg az a valós
+
+10
+00:00:20,320 --> 00:00:24,359
+keresett kínálatba be nem fog állni. És
+
+11
+00:00:22,119 --> 00:00:26,119
+igen, a fogyasztók mi is meg vagyunk
+
+12
+00:00:24,359 --> 00:00:29,279
+vezetve, mert sokan abban a hiszemben
+
+13
+00:00:26,119 --> 00:00:31,480
+élnek, hogy 40 Ft a kil ára jelenleg
+
+14
+00:00:29,279 --> 00:00:33,520
+Magyarországon annyi az előállítási ára.
+
+15
+00:00:31,480 --> 00:00:35,320
+Pedig lehet, hogy messze nem. És így nem
+
+16
+00:00:33,520 --> 00:00:36,879
+tudok racionális és gazdasági döntést
+
+17
+00:00:35,320 --> 00:00:38,239
+hozni még magánszemélyként sem, mert meg
+
+18
+00:00:36,879 --> 00:00:40,039
+vagyok vezetve, mert nem mindenki tud
+
+19
+00:00:38,239 --> 00:00:41,360
+utána járni annak, hogy valóban mennyi
+
+20
+00:00:40,039 --> 00:00:43,120
+az áramára. És még azt is
+
+21
+00:00:41,360 --> 00:00:44,960
+megkérdőjelezik kétszer a politikai
+
+22
+00:00:43,120 --> 00:00:47,320
+narratívákban, hogy most az-e vagy nem
+
+23
+00:00:44,960 --> 00:00:49,079
+az. És a valóság igazából szürke, mert
+
+24
+00:00:47,320 --> 00:00:51,280
+valamikor sokkal több, valamikor sokkal
+
+25
+00:00:49,079 --> 00:00:53,239
+kevesebb. Ugyanígy az üzemanyagnál is
+
+26
+00:00:51,280 --> 00:00:54,600
+egy család akkor tud felelősségteljesen
+
+27
+00:00:53,239 --> 00:00:57,399
+dönteni, hogy most leugrok-e mondjuk
+
+28
+00:00:54,600 --> 00:00:59,480
+Debrecenbe fürdeni egy 100 kmre egy
+
+29
+00:00:57,399 --> 00:01:01,120
+Hajdúszobózó városba, mondjuk, hogy
+
+30
+00:00:59,480 --> 00:01:03,000
+megérje neki, hogyha tudja, hogy
+
+31
+00:01:01,120 --> 00:01:04,920
+mennyibe kerül az üzemanyag. De ha nem
+
+32
+00:01:03,000 --> 00:01:06,880
+tudja a valós árat, csak azt az árat
+
+33
+00:01:04,920 --> 00:01:08,400
+látja, ami kedvező számára, és akkor
+
+34
+00:01:06,880 --> 00:01:10,520
+hirtelen azt mondják neki, hogy ja bocs,
+
+35
+00:01:08,400 --> 00:01:12,240
+hát ennyire elfogyott, akkor mindenki
+
+36
+00:01:10,520 --> 00:01:14,080
+meglepődik, és nekimegy a társadalom a
+
+37
+00:01:12,240 --> 00:01:15,759
+falnak. Ahelyett, hogy észerűen
+
+38
+00:01:14,080 --> 00:01:17,240
+kommunikálnánk azt, hogy srácok, ez
+
+39
+00:01:15,759 --> 00:01:18,920
+folyamatosan emelkedik, mert most kicsit
+
+40
+00:01:17,240 --> 00:01:20,320
+kevesebb van belőle, és többen akartok
+
+41
+00:01:18,920 --> 00:01:21,920
+utazni. Ez egy kicsit drágább. Akkor
+
+42
+00:01:20,320 --> 00:01:24,079
+mindenkinek el tudná dönteni, hogy mire
+
+43
+00:01:21,920 --> 00:01:26,159
+fordítja azokat a kilométereket, és nem
+
+44
+00:01:24,079 --> 00:01:27,360
+pedig azt kéne hallgatnunk Fondentől,
+
+45
+00:01:26,159 --> 00:01:29,040
+hogy hát most már akkor mindenki
+
+46
+00:01:27,360 --> 00:01:31,119
+szorítkozzon meg, és akkor ne utazzon
+
+47
+00:01:29,040 --> 00:01:33,680
+sehova. hadd döntse el mindenki maga,
+
+48
+00:01:31,119 --> 00:01:34,640
+hogy az ő útja mennyire fontos. És ezt
+
+49
+00:01:33,680 --> 00:01:36,200
+pedig úgy tudod eldönteni, hogy
+
+50
+00:01:34,640 --> 00:01:38,159
+gazdasági számításokat végzel, hogy
+
+51
+00:01:36,200 --> 00:01:39,840
+nekem megéri elenni vagy nem, mert
+
+52
+00:01:38,159 --> 00:01:41,759
+valakinek lehet, hogy megéri 1000 km-t
+
+53
+00:01:39,840 --> 00:01:43,840
+is utazni egy héten keresztül minden
+
+54
+00:01:41,759 --> 00:01:45,560
+nap, mert olyan fontos családot vagy
+
+55
+00:01:43,840 --> 00:01:47,399
+személyt látogat meg, ami neki
+
+56
+00:01:45,560 --> 00:01:49,000
+kifejezetten kritikusan fontos, mert
+
+57
+00:01:47,399 --> 00:01:50,880
+akit a kórházba látogat, és oda vissza
+
+58
+00:01:49,000 --> 00:01:53,040
+kell utazgálnia. Azt mondja, hogy neki
+
+59
+00:01:50,880 --> 00:01:55,320
+megéri. Viszont hogyha mindenki egyforma
+
+60
+00:01:53,040 --> 00:01:57,000
+áron kapja az üzemanyagot és mindenki
+
+61
+00:01:55,320 --> 00:01:58,920
+lóti futizik oda, ahova egyébként neki
+
+62
+00:01:57,000 --> 00:02:01,320
+nem érné, azt se fog kapni, akinek
+
+63
+00:01:58,920 --> 00:02:04,506
+kifejezetten megérné és szüksége lenne
+
+64
+00:02:01,320 --> 00:02:04,506
+rá. [zene]
+
+65
+00:02:04,759 --> 00:02:10,560
+Sziasztok! Újra itt a 21 podcast. Ez a
+
+66
+00:02:07,840 --> 00:02:12,840
+103. epizódunk és a tegnapi nappal
+
+67
+00:02:10,560 --> 00:02:14,879
+zárult a negyedik Bitcoin Miskolc
+
+68
+00:02:12,840 --> 00:02:16,599
+konferencia Hajdúszoboszlón. Úgyhogy a
+
+69
+00:02:14,879 --> 00:02:19,040
+mai adást gondoltuk, hogy ennek
+
+70
+00:02:16,599 --> 00:02:21,400
+szenteljük, illetve az E kapcsán ébredő
+
+71
+00:02:19,040 --> 00:02:23,599
+gondolatoknak. Ennek megfelelően mai
+
+72
+00:02:21,400 --> 00:02:24,480
+vendégem Feri. Szervusz Feri.
+
+73
+00:02:23,599 --> 00:02:27,160
+>> Sziasztok.
+
+74
+00:02:24,480 --> 00:02:29,760
+>> Mi van most benned? Szúmáztál-e valamit
+
+75
+00:02:27,160 --> 00:02:32,280
+a konferencia kapcsán, mint házigazda?
+
+76
+00:02:29,760 --> 00:02:33,560
+Hogyan értékeled a rendezvényt? Mi
+
+77
+00:02:32,280 --> 00:02:36,400
+önmagunkkal kapcsolatban mindig
+
+78
+00:02:33,560 --> 00:02:38,040
+kritikusak vagyunk, viszont rengeteg sok
+
+79
+00:02:36,400 --> 00:02:40,319
+visszajelzést kaptunk már konferencia
+
+80
+00:02:38,040 --> 00:02:42,319
+közben is, és most utólag pont egy órátt
+
+81
+00:02:40,319 --> 00:02:44,200
+egy nagyon-nagyon hosszú üzenet, amiben
+
+82
+00:02:42,319 --> 00:02:46,400
+megköszönték a munkánkat, és nagyon
+
+83
+00:02:44,200 --> 00:02:48,319
+profinak ítélték meg a teljes csapatot,
+
+84
+00:02:46,400 --> 00:02:50,280
+illetve az előadókat is, és örültek
+
+85
+00:02:48,319 --> 00:02:52,560
+annak, hogy mennyire változatos témákat
+
+86
+00:02:50,280 --> 00:02:55,480
+hoztunk be. És tényleg ez volt a célom
+
+87
+00:02:52,560 --> 00:02:57,120
+is vele, hogy ne csak a alapdolgokat
+
+88
+00:02:55,480 --> 00:02:59,239
+mondjuk el, hanem mélységet is adjunk
+
+89
+00:02:57,120 --> 00:03:01,040
+neki. Sok olyan téma is volt, én úgy
+
+90
+00:02:59,239 --> 00:03:02,800
+gondolom, ami feszegette a
+
+91
+00:03:01,040 --> 00:03:04,480
+tudáskorláthatárokat,
+
+92
+00:03:02,800 --> 00:03:05,680
+de természetesen ez is volt a cél, hogy
+
+93
+00:03:04,480 --> 00:03:07,519
+mindenkinek megmutassuk azt, hogy
+
+94
+00:03:05,680 --> 00:03:09,480
+mennyire mély még a nyúlöreg, és
+
+95
+00:03:07,519 --> 00:03:11,280
+tudatosítsuk bennük azokat a lépéseket,
+
+96
+00:03:09,480 --> 00:03:13,040
+amik mindenképpen szükségesek ahhoz,
+
+97
+00:03:11,280 --> 00:03:15,959
+hogy egy egészségesebb világban tudjuk
+
+98
+00:03:13,040 --> 00:03:17,959
+majd felnőni. Javítsd meg a pénzt, és
+
+99
+00:03:15,959 --> 00:03:20,519
+megjavul a világ. Erre a témára le
+
+100
+00:03:17,959 --> 00:03:22,720
+felfűzve a teljes hétvége, és azt
+
+101
+00:03:20,519 --> 00:03:24,560
+mutattuk meg, hogy miért fontos ez,
+
+102
+00:03:22,720 --> 00:03:27,360
+hogyan tudják ezt elérni, hogyan tudják
+
+103
+00:03:24,560 --> 00:03:29,599
+a saját kezükbe venni a sorsukat az
+
+104
+00:03:27,360 --> 00:03:32,400
+emberek, hogyan tudnak a vállalkozások
+
+105
+00:03:29,599 --> 00:03:34,200
+segíteni az embereknek abban, hogy még
+
+106
+00:03:32,400 --> 00:03:37,040
+elterjedtebb legyen ezen a hálózat és
+
+107
+00:03:34,200 --> 00:03:38,840
+még stabilabb legyen. És a utolsó napon,
+
+108
+00:03:37,040 --> 00:03:41,120
+a vasárnap pedig ezt mélyítettük el
+
+109
+00:03:38,840 --> 00:03:42,680
+gyakorlati tanácsatokkal akár opsekkel,
+
+110
+00:03:41,120 --> 00:03:46,159
+tehát
+
+111
+00:03:42,680 --> 00:03:48,159
+security, biztonsági kérdésekkel, és
+
+112
+00:03:46,159 --> 00:03:49,720
+vasárnap délben pedig én zártam az
+
+113
+00:03:48,159 --> 00:03:51,959
+előadássorozatokat.
+
+114
+00:03:49,720 --> 00:03:53,560
+Remélhetőleg egy motivációs
+
+115
+00:03:51,959 --> 00:03:55,720
+előadással is.
+
+116
+00:03:53,560 --> 00:03:57,959
+>> Én úgy gondolom, átjött mindenkinek,
+
+117
+00:03:55,720 --> 00:03:59,480
+amit szerettünk volna adni.
+
+118
+00:03:57,959 --> 00:04:01,079
+Pont ma reggel vettem fel egy videót,
+
+119
+00:03:59,480 --> 00:04:03,360
+majd valószínűleg hamarabb kikerült ez a
+
+120
+00:04:01,079 --> 00:04:04,200
+podcast, de abban is azt mondtam el,
+
+121
+00:04:03,360 --> 00:04:06,079
+hogy nekem az volt a legnagyobb
+
+122
+00:04:04,200 --> 00:04:09,040
+boldogság, hogy egyrészül mindenkivel
+
+123
+00:04:06,079 --> 00:04:11,319
+tudtam beszélgetni, közel 80-120-an
+
+124
+00:04:09,040 --> 00:04:13,319
+voltunk, és lehet, hogy valakivel csak
+
+125
+00:04:11,319 --> 00:04:15,200
+egy öt percet, lehet, hogy valakivel egy
+
+126
+00:04:13,319 --> 00:04:17,799
+fél órát, órát is, vagy akár órákat
+
+127
+00:04:15,200 --> 00:04:19,400
+beszélgettünk számomra előtte ismeretlen
+
+128
+00:04:17,799 --> 00:04:21,600
+emberekkel.
+
+129
+00:04:19,400 --> 00:04:22,880
+És nagyon jó érzés volt az, hogy viszont
+
+130
+00:04:21,600 --> 00:04:25,199
+nem csak én beszélgettem, amikor
+
+131
+00:04:22,880 --> 00:04:26,919
+körbementem a szállodában, bármelyik
+
+132
+00:04:25,199 --> 00:04:29,960
+helyen, ott azt láttam, hogy a 21-es
+
+133
+00:04:26,919 --> 00:04:32,199
+csoportti, illetve az új emberek, akik
+
+134
+00:04:29,960 --> 00:04:33,919
+még most ismertek meg titekete élőben,
+
+135
+00:04:32,199 --> 00:04:35,600
+vagy először voltak, vagy másodszor is
+
+136
+00:04:33,919 --> 00:04:37,000
+voltak konferencián, hogy beszélgettek,
+
+137
+00:04:35,600 --> 00:04:38,560
+hogy segítetek egymásnak, hogy
+
+138
+00:04:37,000 --> 00:04:40,320
+kapcsolódtok, de mélyebben, nem csak
+
+139
+00:04:38,560 --> 00:04:42,160
+úgy, hogy sziasztok, hanem tényleg
+
+140
+00:04:40,320 --> 00:04:43,960
+láttam azt, hogy elmélyülten tudnak
+
+141
+00:04:42,160 --> 00:04:46,360
+eszmét cserélni az emberek, és mindenki
+
+142
+00:04:43,960 --> 00:04:48,080
+megtalálta a kapcsolódását. Szerintem
+
+143
+00:04:46,360 --> 00:04:50,120
+sok új barátság és új kapcsolat is
+
+144
+00:04:48,080 --> 00:04:52,120
+született a konferencián résztvevők
+
+145
+00:04:50,120 --> 00:04:56,520
+között is. Volt egy nagyon érdekes
+
+146
+00:04:52,120 --> 00:04:59,199
+dolog. Például eljött egy magyar Peruból
+
+147
+00:04:56,520 --> 00:05:01,520
+a családjával, aki hozta a feleségét és
+
+148
+00:04:59,199 --> 00:05:03,960
+a kisfiát, és a felesége egy perui
+
+149
+00:05:01,520 --> 00:05:06,039
+sámánt. És már beszélgettem vele egy
+
+150
+00:05:03,960 --> 00:05:07,440
+15-20 percet. Elmondta úgy a
+
+151
+00:05:06,039 --> 00:05:09,039
+élettörténetétnek, hogy hogyan
+
+152
+00:05:07,440 --> 00:05:11,160
+kapcsolódik ő a bitcoinhoz, meg hogy mit
+
+153
+00:05:09,039 --> 00:05:12,720
+szerette megtudni. És egy pont egy másik
+
+154
+00:05:11,160 --> 00:05:14,160
+emberrel beszélgettem egy óra múlva, aki
+
+155
+00:05:12,720 --> 00:05:16,479
+mondta, hogy őt meg érdekli ez a perui
+
+156
+00:05:14,160 --> 00:05:18,000
+sámános dolog, és hogy ebbe szerette
+
+157
+00:05:16,479 --> 00:05:19,479
+tudatosságban, meg a spiritualitásba
+
+158
+00:05:18,000 --> 00:05:20,919
+szeretne kicsit fejlődni, és a bitcoint
+
+159
+00:05:19,479 --> 00:05:24,280
+hogyan tudnád bevinni. És akkor mondtam,
+
+160
+00:05:20,919 --> 00:05:26,560
+hogy figyelj, te vele beszélj.
+
+161
+00:05:24,280 --> 00:05:29,199
+Összekötöttem őket, és én úgy gondolom,
+
+162
+00:05:26,560 --> 00:05:31,720
+hogy kaptok egy használható és egy
+
+163
+00:05:29,199 --> 00:05:34,639
+értékes kapcsolatot. Úgyhogy a Bitcoin
+
+164
+00:05:31,720 --> 00:05:36,800
+konferencia, ahogy a ma reggeli
+
+165
+00:05:34,639 --> 00:05:38,520
+üzenetben is megkaptam egy hölgytől, nem
+
+166
+00:05:36,800 --> 00:05:40,360
+csak egy tudástranszfer volt, egy jó
+
+167
+00:05:38,520 --> 00:05:42,639
+konferencia, hanem egy nagyon jó esemény
+
+168
+00:05:40,360 --> 00:05:44,479
+is. egy olyan hely, ahol nekem is nagyon
+
+169
+00:05:42,639 --> 00:05:45,840
+élvezetes volt itt lenni, mert új
+
+170
+00:05:44,479 --> 00:05:47,360
+emberekkel tudtam megismerkedni,
+
+171
+00:05:45,840 --> 00:05:48,720
+kapcsolódni tudtunk, és nem csak
+
+172
+00:05:47,360 --> 00:05:51,600
+bitcoinról volt szó, hanem erről az
+
+173
+00:05:48,720 --> 00:05:53,560
+életről, merthogy a pénzen túl, a
+
+174
+00:05:51,600 --> 00:05:54,720
+funkción túl ott van az élet is, és
+
+175
+00:05:53,560 --> 00:05:57,199
+szerintem ebben is kell egy kis
+
+176
+00:05:54,720 --> 00:05:59,400
+iránymutatás, de ebben tud nekünk
+
+177
+00:05:57,199 --> 00:06:02,240
+segíteni a Bitcoin, hogy legyen egy
+
+178
+00:05:59,400 --> 00:06:04,280
+olyan fix hely, ahova azt a megtermelt
+
+179
+00:06:02,240 --> 00:06:05,720
+energiát és értéket félre tudjuk tenni,
+
+180
+00:06:04,280 --> 00:06:07,360
+ami után már nem kell ezzel
+
+181
+00:06:05,720 --> 00:06:09,520
+foglalkoznunk, és az életünkre tudunk
+
+182
+00:06:07,360 --> 00:06:11,080
+koncentrálni. Úgyhogy nagyon nagyon
+
+183
+00:06:09,520 --> 00:06:13,160
+nekem abszolút nagyon pozitív volt az
+
+184
+00:06:11,080 --> 00:06:14,720
+egész. Egy picit talán kevesebben
+
+185
+00:06:13,160 --> 00:06:17,319
+voltunk, szűkebben voltunk, de nagyon
+
+186
+00:06:14,720 --> 00:06:19,479
+elhivatott csoport volt. Ahogy mondtam,
+
+187
+00:06:17,319 --> 00:06:21,880
+80-10 fő volt körülbelül péntektől
+
+188
+00:06:19,479 --> 00:06:24,199
+vasárnapig változó intenzitással.
+
+189
+00:06:21,880 --> 00:06:26,360
+Szombaton vannak mindig a legtöbben.
+
+190
+00:06:24,199 --> 00:06:28,680
+Lehet ez a a kicsit a visszaesésnek is,
+
+191
+00:06:26,360 --> 00:06:31,039
+az ár árnak a visszaesésének is
+
+192
+00:06:28,680 --> 00:06:32,840
+köszönhető, hogy kevesebb volt az a
+
+193
+00:06:31,039 --> 00:06:35,319
+hogyan gazdagodjak meg típusú ember,
+
+194
+00:06:32,840 --> 00:06:37,160
+inkább csak az elhívatottabb része jött.
+
+195
+00:06:35,319 --> 00:06:38,759
+viszont nagyon sok visszatérő volt.
+
+196
+00:06:37,160 --> 00:06:40,360
+Volt, aki már negyedszer voltunk, tehát
+
+197
+00:06:38,759 --> 00:06:41,840
+mindegyikel részt vett. Volt olyan, aki
+
+198
+00:06:40,360 --> 00:06:44,039
+másodszor is.
+
+199
+00:06:41,840 --> 00:06:46,039
+>> De hogy volt az a jelenség, hogy hozta
+
+200
+00:06:44,039 --> 00:06:47,680
+mindenki a barátját, a fiatalabb
+
+201
+00:06:46,039 --> 00:06:48,240
+családtagokat, a gyerekeit.
+
+202
+00:06:47,680 --> 00:06:50,479
+>> Ühüm.
+
+203
+00:06:48,240 --> 00:06:52,360
+>> Idősebbek is voltak. De megjelent
+
+204
+00:06:50,479 --> 00:06:57,599
+például az a korosztály, amit korábban
+
+205
+00:06:52,360 --> 00:07:00,520
+kevesebbet láttunk. Ez a 14-től 22 éves
+
+206
+00:06:57,599 --> 00:07:02,280
+korig. Ez a fiatal fiatal generáció, ez
+
+207
+00:07:00,520 --> 00:07:03,960
+korábban ez nem volt. Most én több
+
+208
+00:07:02,280 --> 00:07:05,520
+szülőnél is láttam, hogy el tudta hozni
+
+209
+00:07:03,960 --> 00:07:07,840
+a gyerekeit. volt olyan szülő, aki abból
+
+210
+00:07:05,520 --> 00:07:09,560
+kért segítséget tőlünk, hogy hogyan
+
+211
+00:07:07,840 --> 00:07:11,280
+hozhatnám el én a gyerekemet, mert hát
+
+212
+00:07:09,560 --> 00:07:13,440
+elmondtam neki, de nem értette annyira.
+
+213
+00:07:11,280 --> 00:07:15,560
+Nem annyira vonódott be. Próbáltunk ide
+
+214
+00:07:13,440 --> 00:07:17,560
+is tippeket adni. Nagyon nehéz az egy
+
+215
+00:07:15,560 --> 00:07:18,960
+személyes és egyéni feladat. Többen
+
+216
+00:07:17,560 --> 00:07:20,639
+mondták, hogy van egy üzlettársuk
+
+217
+00:07:18,960 --> 00:07:22,080
+például, aki nem érti a bitcoint, de
+
+218
+00:07:20,639 --> 00:07:23,960
+szeretnének elfogadni bitcoint a
+
+219
+00:07:22,080 --> 00:07:25,720
+vállalkozásban, mit mondjon nekik. És
+
+220
+00:07:23,960 --> 00:07:27,199
+nehéz erre mit mondani, mert igazából
+
+221
+00:07:25,720 --> 00:07:29,240
+meg kell érteni, hogy mi ez az egész
+
+222
+00:07:27,199 --> 00:07:31,000
+dolog, és ezzel időt kell eltölteni. De
+
+223
+00:07:29,240 --> 00:07:33,039
+hogyha el tudják hozni az emberek a
+
+224
+00:07:31,000 --> 00:07:34,160
+családtagjaikat és ezeket a barátokat a
+
+225
+00:07:33,039 --> 00:07:35,960
+konferenciánkra, akkor
+
+226
+00:07:34,160 --> 00:07:39,720
+megtapasztalhatják szerintem azt, hogy
+
+227
+00:07:35,960 --> 00:07:41,160
+itt azért van más is, mint a numbers go
+
+228
+00:07:39,720 --> 00:07:42,680
+up, meg hogy gazdagok leszünk, mint
+
+229
+00:07:41,160 --> 00:07:44,919
+hanem sokkal többről szól, mint a
+
+230
+00:07:42,680 --> 00:07:47,879
+személyes meggazdagodásról. Egy még egy
+
+231
+00:07:44,919 --> 00:07:49,520
+érdekes szöszönet, mielőtt még téged is
+
+232
+00:07:47,879 --> 00:07:51,039
+szóhoz juttatlak, csak így benne vagyok
+
+233
+00:07:49,520 --> 00:07:52,400
+a flowban, és még van egy volt egy
+
+234
+00:07:51,039 --> 00:07:53,800
+érdekes résztvevő, nagyon-nagyon sok
+
+235
+00:07:52,400 --> 00:07:55,120
+résztvevő volt, akit most nem tudok
+
+236
+00:07:53,800 --> 00:07:56,919
+megemlíteni, mert vagy kicsit
+
+237
+00:07:55,120 --> 00:07:58,840
+elfelejtettem azóta felgyülemlet
+
+238
+00:07:56,919 --> 00:08:00,479
+emlékektől, vagy pedig nem tudok
+
+239
+00:07:58,840 --> 00:08:02,240
+mindenkit felsorolni, mert rengetegen
+
+240
+00:08:00,479 --> 00:08:04,240
+voltak. Viszont volt egy érdekesség, nem
+
+241
+00:08:02,240 --> 00:08:06,599
+tudom ezt mondtam-e neked akkor, hogy
+
+242
+00:08:04,240 --> 00:08:08,639
+volt egy MMB-s kolléga is, aki ott volt
+
+243
+00:08:06,599 --> 00:08:10,720
+a széksorok között, közönség sorai
+
+244
+00:08:08,639 --> 00:08:13,919
+között, és ő azt mondta, hogy
+
+245
+00:08:10,720 --> 00:08:15,840
+magánszemélyként volt ott, de hát láttam
+
+246
+00:08:13,919 --> 00:08:18,080
+rajta a szakmai elhivatottságot,
+
+247
+00:08:15,840 --> 00:08:21,560
+merthogy ő mondta, hogy az MMB-ben is
+
+248
+00:08:18,080 --> 00:08:25,319
+támogatja a kriptoeszközöket, de azon
+
+249
+00:08:21,560 --> 00:08:27,479
+belül már elkezdte a 21 csoportnak a
+
+250
+00:08:25,319 --> 00:08:29,879
+edukációja alapján külön választani,
+
+251
+00:08:27,479 --> 00:08:31,560
+hogy van a Bitcoin és van minden más. És
+
+252
+00:08:29,879 --> 00:08:33,240
+ő mondta, hogy ő soha nem gondolta, hogy
+
+253
+00:08:31,560 --> 00:08:35,360
+ez egy ilyen rendezvény lesz, mert eddig
+
+254
+00:08:33,240 --> 00:08:37,560
+mindenhol, ahol járt, ott mindenhol a
+
+255
+00:08:35,360 --> 00:08:40,120
+árfolyammozgások, hogy mit vegyél, mikor
+
+256
+00:08:37,560 --> 00:08:41,919
+add el, különböző tippek voltak nálunk.
+
+257
+00:08:40,120 --> 00:08:43,800
+Ugye itt egy előadás szólt erről, és
+
+258
+00:08:41,919 --> 00:08:45,320
+igazából az én előadásom sem arról
+
+259
+00:08:43,800 --> 00:08:47,760
+szólt, és nem az volt a célja, hogy
+
+260
+00:08:45,320 --> 00:08:50,399
+bárki pozicionálja magát, hanem az, hogy
+
+261
+00:08:47,760 --> 00:08:52,040
+elhelyezzük a képbe, lássuk azt a képet,
+
+262
+00:08:50,399 --> 00:08:54,120
+hogy mi mozgatja a Bitcoin árfolyamát,
+
+263
+00:08:52,040 --> 00:08:56,839
+nem pedig konkrétan a eladási vagy
+
+264
+00:08:54,120 --> 00:08:59,440
+értékesítési tippek. És mondtam az MMB-s
+
+265
+00:08:56,839 --> 00:09:01,399
+kollégának is, hogy látod, ez az a
+
+266
+00:08:59,440 --> 00:09:03,040
+különbség, hogy itt nem csak pénzről
+
+267
+00:09:01,399 --> 00:09:04,079
+szól, nem csak rólad, rólam van szó,
+
+268
+00:09:03,040 --> 00:09:06,200
+vagy rólad van szó, az egész
+
+269
+00:09:04,079 --> 00:09:08,480
+társadalmunkról, és hogy ezt vigye be.
+
+270
+00:09:06,200 --> 00:09:10,680
+E, ez az eszme, hogyha valaki jót akar
+
+271
+00:09:08,480 --> 00:09:12,600
+tenni a jelenkori társadalmakkal, akkor
+
+272
+00:09:10,680 --> 00:09:14,920
+egy olyan pénzrendszert ad nekik, ami
+
+273
+00:09:12,600 --> 00:09:16,200
+ami értékálló és stabil. És ogy így
+
+274
+00:09:14,920 --> 00:09:17,040
+nagyon röviden nekem ez volt a
+
+275
+00:09:16,200 --> 00:09:19,920
+megélésem.
+
+276
+00:09:17,040 --> 00:09:21,959
+>> Tök jó. ilyen fantasztikus emberekkel
+
+277
+00:09:19,920 --> 00:09:24,440
+meg az egész energia, ami így
+
+278
+00:09:21,959 --> 00:09:26,440
+körbelengte a teret, fantasztikus volt.
+
+279
+00:09:24,440 --> 00:09:28,680
+Én is nagyon sok új embert ismertem, meg
+
+280
+00:09:26,440 --> 00:09:31,040
+egy kicsit sajnáltam is, hogy hogy a
+
+281
+00:09:28,680 --> 00:09:33,200
+régiekhez, a régebbi ismeretségekhez,
+
+282
+00:09:31,040 --> 00:09:35,399
+barátokhoz kevésbé tudtam csatlakozni,
+
+283
+00:09:33,200 --> 00:09:38,160
+mert folyton folyton dumáltam valakivel,
+
+284
+00:09:35,399 --> 00:09:40,279
+és így szinte tervezni se tudtam, hogy
+
+285
+00:09:38,160 --> 00:09:42,240
+ki lesz a következő, akivel beszélek,
+
+286
+00:09:40,279 --> 00:09:44,040
+mert valahogy egy ilyen egy ilyen flowba
+
+287
+00:09:42,240 --> 00:09:46,000
+belekerültem, és akkor így csak így
+
+288
+00:09:44,040 --> 00:09:49,120
+hagytam azt, hogy izé éppen azzal
+
+289
+00:09:46,000 --> 00:09:51,760
+karatysoljak, aki aki a az utamban esik.
+
+290
+00:09:49,120 --> 00:09:54,200
+És voltak nagyon jó olyan újítások, amit
+
+291
+00:09:51,760 --> 00:09:55,920
+így a a szervezésből kiemelnék, amik
+
+292
+00:09:54,200 --> 00:09:58,320
+szerintem kifejezetten jól tettek meg,
+
+293
+00:09:55,920 --> 00:10:00,320
+profibbá tették a rendezvényt. Például
+
+294
+00:09:58,320 --> 00:10:03,320
+az, hogy a panelbeszélgetéseknek
+
+295
+00:10:00,320 --> 00:10:06,880
+néhol a moderációját kiszervezted, tehát
+
+296
+00:10:03,320 --> 00:10:09,279
+delegáltad és és nem nem maradt rajtad
+
+297
+00:10:06,880 --> 00:10:12,240
+úgymond az a feladat is. Az az is
+
+298
+00:10:09,279 --> 00:10:14,839
+szerintem tök izgi volt, illetve, hogy a
+
+299
+00:10:12,240 --> 00:10:16,880
+gyerekek számára is szervesztettek ilyen
+
+300
+00:10:14,839 --> 00:10:18,880
+animációs programokat. Szerintem az is
+
+301
+00:10:16,880 --> 00:10:20,959
+tök jó volt, hogy ott a vizes vizes
+
+302
+00:10:18,880 --> 00:10:23,320
+blokban is kicsit szórakoztak, meg ilyen
+
+303
+00:10:20,959 --> 00:10:26,240
+kézműves foglalkozások. A lányom is
+
+304
+00:10:23,320 --> 00:10:29,040
+részt vett néhányan és tök jókat
+
+305
+00:10:26,240 --> 00:10:30,959
+alkotott ott a fiatal lányokkal. Úgyhogy
+
+306
+00:10:29,040 --> 00:10:33,600
+szerintem szerintem egyre profibb ez a
+
+307
+00:10:30,959 --> 00:10:35,560
+rendezvény. És ezt valakiktől így vissza
+
+308
+00:10:33,600 --> 00:10:38,279
+is hallottam, akik így visszajárnak,
+
+309
+00:10:35,560 --> 00:10:41,079
+hogy hogy azért úgy úgy csiszolódik, meg
+
+310
+00:10:38,279 --> 00:10:43,399
+látszik az, hogy így tanul a csapat, a
+
+311
+00:10:41,079 --> 00:10:46,040
+korábbi dolgokból, levonjuk a a
+
+312
+00:10:43,399 --> 00:10:48,240
+tanulságokat, meg főleg a főleg a te
+
+313
+00:10:46,040 --> 00:10:51,560
+csapatod, akik ugye az a az operatív
+
+314
+00:10:48,240 --> 00:10:54,000
+szervezést végzik veled, és
+
+315
+00:10:51,560 --> 00:10:57,200
+tényleg olyan egyre egyre profibb maga a
+
+316
+00:10:54,000 --> 00:10:58,959
+rendezvény, meg a talán az előadók is
+
+317
+00:10:57,200 --> 00:11:00,720
+ugye egyre rutinosabbak vagyunk.
+
+318
+00:10:58,959 --> 00:11:02,240
+>> Így van. Én abszolút, tehát én
+
+319
+00:11:00,720 --> 00:11:04,360
+nagyon-nagyon köszönöm nektek, meg a
+
+320
+00:11:02,240 --> 00:11:06,200
+minden résztvevőnek is, minden
+
+321
+00:11:04,360 --> 00:11:08,440
+előadónak, hogy eljött és ránk szállta
+
+322
+00:11:06,200 --> 00:11:10,480
+az idejét, és hogy felkészült, meg hogy
+
+323
+00:11:08,440 --> 00:11:12,360
+velünk töltötte az egész hétvégét. Ugye
+
+324
+00:11:10,480 --> 00:11:15,000
+szerintem nem csak az az érték, amikor
+
+325
+00:11:12,360 --> 00:11:16,680
+elmondod a színpadon a a mondandódat és
+
+326
+00:11:15,000 --> 00:11:19,000
+a az üzenetedet, hanem az is, amikor
+
+327
+00:11:16,680 --> 00:11:20,760
+utána mondasz a közönség soraiban a
+
+328
+00:11:19,000 --> 00:11:23,320
+beszélgetéseken. Szerintem ez egy
+
+329
+00:11:20,760 --> 00:11:25,079
+hatalmas élmény mindenkinek. Én is
+
+330
+00:11:23,320 --> 00:11:27,839
+kevesebbet tudtam kapcsolódni a meglévő
+
+331
+00:11:25,079 --> 00:11:29,680
+tagokkal. volt, akivel sokkal többet meg
+
+332
+00:11:27,839 --> 00:11:31,560
+két napot el tudnánk beszélgetni, mert
+
+333
+00:11:29,680 --> 00:11:33,600
+annyira jó a társaság, főleg a kemény
+
+334
+00:11:31,560 --> 00:11:35,079
+mag része. De tudod, volt egy ilyen
+
+335
+00:11:33,600 --> 00:11:38,399
+gondolat most benne, majd meg akartam
+
+336
+00:11:35,079 --> 00:11:40,040
+vetakoztani, hogy én már úgy érzem, hogy
+
+337
+00:11:38,399 --> 00:11:41,720
+nem elköszönünk egymástól egy-egy
+
+338
+00:11:40,040 --> 00:11:43,480
+konferencián, és ezért nem annyira fáj,
+
+339
+00:11:41,720 --> 00:11:44,920
+hogyha mondjuk pont mondjuk Lőrincől nem
+
+340
+00:11:43,480 --> 00:11:46,399
+tudtam személyesen elköszönni még
+
+341
+00:11:44,920 --> 00:11:48,440
+vasárnap délután, mert reggel még
+
+342
+00:11:46,399 --> 00:11:50,240
+találkoztunk, merthogy egyébként
+
+343
+00:11:48,440 --> 00:11:51,720
+találkozunk folyamatosan és és
+
+344
+00:11:50,240 --> 00:11:54,040
+összefutunk, és nem elköszönünk
+
+345
+00:11:51,720 --> 00:11:55,360
+egymástól, hanem csak ideglenség
+
+346
+00:11:54,040 --> 00:11:57,639
+intenjünk egymásnak, hogy szia, majd
+
+347
+00:11:55,360 --> 00:11:59,560
+legközelebb is találkozunk. Ugyanis
+
+348
+00:11:57,639 --> 00:12:01,519
+valahol mindannyian kollégák vagyunk,
+
+349
+00:11:59,560 --> 00:12:02,920
+mert Bitcoin dolgozunk. a Bitcoin
+
+350
+00:12:01,519 --> 00:12:04,720
+dolgozunk, és soha nem köszönünk el
+
+351
+00:12:02,920 --> 00:12:06,200
+egymástól, mindig folytatjuk, fel tudjuk
+
+352
+00:12:04,720 --> 00:12:08,480
+venni a fonat, ugye ott vagyunk az
+
+353
+00:12:06,200 --> 00:12:10,399
+online térben egymással. Tehát ezért ezt
+
+354
+00:12:08,480 --> 00:12:12,200
+én egy ilyen folyamként élem meg.
+
+355
+00:12:10,399 --> 00:12:13,639
+>> Ühüm. mintogyha már nagyon régóta
+
+356
+00:12:12,200 --> 00:12:15,040
+ismernénk egymást, és sose köszönnénk
+
+357
+00:12:13,639 --> 00:12:17,320
+el, mert hát mindig szembe jön szembe
+
+358
+00:12:15,040 --> 00:12:19,760
+jöttök velünk, meg egymásra köszönünk
+
+359
+00:12:17,320 --> 00:12:21,160
+online térben is. Úgyhogy nekem ez egy
+
+360
+00:12:19,760 --> 00:12:23,079
+nagyon jó megtapasztalás volt, szerintem
+
+361
+00:12:21,160 --> 00:12:25,320
+a résztvevőknek is, hogy tudtuk meg
+
+362
+00:12:23,079 --> 00:12:27,680
+tudtak velünk ismerkedni élőbe, mert az
+
+363
+00:12:25,320 --> 00:12:29,880
+mindig egy plusz benyomás még, hogy
+
+364
+00:12:27,680 --> 00:12:32,639
+vajon oké ez az ember így kommunikál
+
+365
+00:12:29,880 --> 00:12:33,800
+online, de meg látod videón, de milyen a
+
+366
+00:12:32,639 --> 00:12:35,440
+milyen élőben?
+
+367
+00:12:33,800 --> 00:12:36,560
+>> Igen.
+
+368
+00:12:35,440 --> 00:12:39,399
+>> Igen, mert az a telegramos
+
+369
+00:12:36,560 --> 00:12:41,199
+kapcsolattartás, ez ez a semminél sokkal
+
+370
+00:12:39,399 --> 00:12:43,279
+jobb. Ugyanakkor meg mégse ugyanaz,
+
+371
+00:12:41,199 --> 00:12:45,800
+mintogyha személyesen találkoznánk. De
+
+372
+00:12:43,279 --> 00:12:49,240
+tök jó, hogy igen, ez át tudja hatni meg
+
+373
+00:12:45,800 --> 00:12:52,240
+átívelni a a az az óriási távolságokat,
+
+374
+00:12:49,240 --> 00:12:54,160
+akár hogy külön földrészekről is így
+
+375
+00:12:52,240 --> 00:12:56,680
+össze tudunk kapcsolódni, de de úgy az
+
+376
+00:12:54,160 --> 00:12:58,839
+országnak is a különböző pontjain ott
+
+377
+00:12:56,680 --> 00:13:02,120
+vagyunk még, hogyha nem nem is nem is
+
+378
+00:12:58,839 --> 00:13:04,000
+teljesen szétszóródva a világban. Aztán
+
+379
+00:13:02,120 --> 00:13:06,760
+megemlítette például Gláer Anita is,
+
+380
+00:13:04,000 --> 00:13:08,360
+hogy így a 21 csoport meg mi is mekkora
+
+381
+00:13:06,760 --> 00:13:10,279
+nyomot hagyunk a magyar Bitcoin
+
+382
+00:13:08,360 --> 00:13:12,920
+közösségben, egyáltalán társadalman.
+
+383
+00:13:10,279 --> 00:13:14,279
+Ugye még csak most kezdtük el. Én Én ezt
+
+384
+00:13:12,920 --> 00:13:18,120
+tényleg úgy gondolom, hogy ez egy 10
+
+385
+00:13:14,279 --> 00:13:20,120
+éves projekt legalább, amíg amíg komoly
+
+386
+00:13:18,120 --> 00:13:22,519
+elis elismertséget vagy láthatóságot
+
+387
+00:13:20,120 --> 00:13:24,440
+kapunk a társadalomban, de ez, amit
+
+388
+00:13:22,519 --> 00:13:25,480
+csinálunk, ez tényleg őszinte, tényleg
+
+389
+00:13:24,440 --> 00:13:28,160
+hiszünk benne, és ezt szerintem
+
+390
+00:13:25,480 --> 00:13:29,600
+mindenkinek átjön, aki lát minket. És ez
+
+391
+00:13:28,160 --> 00:13:31,720
+egy abszolút jó dolog. Itt a
+
+392
+00:13:29,600 --> 00:13:33,880
+konferencián többször is hangoztattam,
+
+393
+00:13:31,720 --> 00:13:35,480
+illetve Dávid is mondta, hogy az
+
+394
+00:13:33,880 --> 00:13:37,920
+előadásában, hogy ahhoz, hogy
+
+395
+00:13:35,480 --> 00:13:39,279
+változtatni tudj valamin, ahhoz sajnos
+
+396
+00:13:37,920 --> 00:13:41,519
+ki kell jönni a fényre, azt nem lehet
+
+397
+00:13:39,279 --> 00:13:44,000
+rejtőzködbe. Nagyon sokan ugye segítik
+
+398
+00:13:41,519 --> 00:13:45,639
+úgy a hálózatot, hogy nem szeretnék
+
+399
+00:13:44,000 --> 00:13:47,680
+vállalni az arcokat, és teljesen rendben
+
+400
+00:13:45,639 --> 00:13:49,720
+is abszolút érthető. Mi a másik részt
+
+401
+00:13:47,680 --> 00:13:51,160
+tudjuk megtenni. Mi nem tudunk kódolni
+
+402
+00:13:49,720 --> 00:13:52,759
+úgy, mi nem értünk annyira technikai
+
+403
+00:13:51,160 --> 00:13:55,160
+részéhez, viszont el tudjuk mondani azt
+
+404
+00:13:52,759 --> 00:13:57,120
+az arcunkra és a és a meggyőződésünkkel,
+
+405
+00:13:55,160 --> 00:13:59,399
+a történetünkkel felvállalva a teljes
+
+406
+00:13:57,120 --> 00:14:00,839
+személyiségünket, hogy hát ez tényleg
+
+407
+00:13:59,399 --> 00:14:02,959
+így van srácok, és érdemes erre a
+
+408
+00:14:00,839 --> 00:14:05,240
+Bitcoinra odafigyelni. Ésogy mindenkinek
+
+409
+00:14:02,959 --> 00:14:07,959
+köszönöm, mindenki rendkívül hasznos és
+
+410
+00:14:05,240 --> 00:14:10,199
+értékes tagja a 21 csoportnak, azok is,
+
+411
+00:14:07,959 --> 00:14:13,600
+akik most nem léptek fel.
+
+412
+00:14:10,199 --> 00:14:16,000
+És visszatérve a szervezésre, valóban
+
+413
+00:14:13,600 --> 00:14:17,839
+mindig próbálunk fejleszteni. Most már
+
+414
+00:14:16,000 --> 00:14:19,360
+az utolsó előadások alatt megmondom
+
+415
+00:14:17,839 --> 00:14:20,720
+őszintén, már írtam is a kollégáimnak,
+
+416
+00:14:19,360 --> 00:14:23,839
+hogy mit szeretnék másként majd a
+
+417
+00:14:20,720 --> 00:14:26,160
+következő időszakban. Szeretnénk kicsit
+
+418
+00:14:23,839 --> 00:14:27,680
+hamarabb bepromótálni, hamarabb leütni
+
+419
+00:14:26,160 --> 00:14:29,399
+bőven a programot, hogy legyen
+
+420
+00:14:27,680 --> 00:14:31,639
+mindenkinek ideje készülni. Most már
+
+421
+00:14:29,399 --> 00:14:33,720
+ugye nyilvános a következő rendezvény
+
+422
+00:14:31,639 --> 00:14:36,880
+időpontja is. Május közepétől lehet is
+
+423
+00:14:33,720 --> 00:14:38,959
+rájelentkezni, hogy mindenki, aki tud,
+
+424
+00:14:36,880 --> 00:14:40,839
+el tudjon jönni. Most sokan időzavarban
+
+425
+00:14:38,959 --> 00:14:43,720
+is voltak. Szeretnénk jobban bemutatni
+
+426
+00:14:40,839 --> 00:14:46,199
+az előadókat majd, aki aki szeretné
+
+427
+00:14:43,720 --> 00:14:48,040
+felfedni esetleg magát képpel, kis
+
+428
+00:14:46,199 --> 00:14:49,880
+történettel szeretnénk a
+
+429
+00:14:48,040 --> 00:14:53,160
+rendezvényszervezésbé. Például felmerült
+
+430
+00:14:49,880 --> 00:14:55,959
+egy olyan gondolat, az a tudjátok,
+
+431
+00:14:53,160 --> 00:14:57,440
+Bitcoin körrel kezdünk pénteken 10-kor a
+
+432
+00:14:55,959 --> 00:14:59,720
+konferenciákon és Bitcoin körrel
+
+433
+00:14:57,440 --> 00:15:01,680
+záródunk, így bezárul a kör. És az
+
+434
+00:14:59,720 --> 00:15:03,639
+utolsó körben már arról van szó, hogy ki
+
+435
+00:15:01,680 --> 00:15:05,800
+mit szeretne esetleg látni a következő
+
+436
+00:15:03,639 --> 00:15:08,079
+konferencián. is volt egy nagyon jó
+
+437
+00:15:05,800 --> 00:15:10,440
+megjegyzés és teljesen jogos, hogyha
+
+438
+00:15:08,079 --> 00:15:11,759
+szervezünk szaunaszeokat, mert lesz a
+
+439
+00:15:10,440 --> 00:15:14,000
+kóci szállodában, és akkor azt ne
+
+440
+00:15:11,759 --> 00:15:15,399
+napközbe tegyük, hogy mindenki részt
+
+441
+00:15:14,000 --> 00:15:17,800
+tudjon venni a konferencián, hanem
+
+442
+00:15:15,399 --> 00:15:20,800
+estére tegyük, mert akkor akkor ott is
+
+443
+00:15:17,800 --> 00:15:22,560
+ott is el tudnak tölteni kiváló órákat a
+
+444
+00:15:20,800 --> 00:15:25,320
+résztvevők, úgyhogy ezt mindenképpen
+
+445
+00:15:22,560 --> 00:15:26,480
+bevezetjük. A gyerekanimáció továbbra is
+
+446
+00:15:25,320 --> 00:15:28,240
+megmarad,
+
+447
+00:15:26,480 --> 00:15:30,319
+>> és esetleg egy olyan programcsomag is
+
+448
+00:15:28,240 --> 00:15:31,920
+lesz az egyik estére, amikor
+
+449
+00:15:30,319 --> 00:15:35,160
+körasztalokhoz gyűlünk, és egy ilyen
+
+450
+00:15:31,920 --> 00:15:37,440
+kicsit moderált beszélgetéssel, ilyen
+
+451
+00:15:35,160 --> 00:15:39,319
+nem is kifejezetten ültetéssel, hanem
+
+452
+00:15:37,440 --> 00:15:40,800
+egy ilyen kérdéssorozatot teszünk fel a
+
+453
+00:15:39,319 --> 00:15:43,480
+kis csoportoknak, és mindenki be tud
+
+454
+00:15:40,800 --> 00:15:45,759
+mutatkozni a kis asztalánál, el tudja
+
+455
+00:15:43,480 --> 00:15:48,959
+mondani a véleményet a témáról, és ez
+
+456
+00:15:45,759 --> 00:15:51,319
+egy ilyen kis üzleti klubos formátum, de
+
+457
+00:15:48,959 --> 00:15:53,680
+a résztvevőknek ez ez egy jó ötlete
+
+458
+00:15:51,319 --> 00:15:54,800
+volt, amikor amikor felvetett a körbe,
+
+459
+00:15:53,680 --> 00:15:57,240
+úgyhogy lehet, hogy azt is be fogjuk
+
+460
+00:15:54,800 --> 00:15:58,040
+majd hozni. Ühüm. Ez is a záró körből
+
+461
+00:15:57,240 --> 00:15:58,880
+innovációkkal
+
+462
+00:15:58,040 --> 00:16:00,560
+>> egy ötlet.
+
+463
+00:15:58,880 --> 00:16:02,199
+>> Ez zárókörből. Igen, igen, igen.
+
+464
+00:16:00,560 --> 00:16:03,639
+>> Jó, sajnos azt most én kihagytam, mert a
+
+465
+00:16:02,199 --> 00:16:05,680
+család már nagyon nyüzsgött, hogy
+
+466
+00:16:03,639 --> 00:16:08,040
+pakoljunk és induljunk haza, úgyhogy
+
+467
+00:16:05,680 --> 00:16:10,480
+azzal most nem tudtam ott lenni. De tök
+
+468
+00:16:08,040 --> 00:16:13,240
+jó, hogy a a fő pontjait így behozod
+
+469
+00:16:10,480 --> 00:16:15,279
+annak, ami Igen, mert olyankor egy csomó
+
+470
+00:16:13,240 --> 00:16:16,920
+tök jó visszajelzés szokott jönni. Nem
+
+471
+00:16:15,279 --> 00:16:19,360
+csak az, hogy mi volt a jó, hanem milyen
+
+472
+00:16:16,920 --> 00:16:21,639
+ötletek, hogy hogy mit mivel lehetne még
+
+473
+00:16:19,360 --> 00:16:23,600
+tovább fejleszteni, fűszerezni a a
+
+474
+00:16:21,639 --> 00:16:25,519
+programot. Nagyon jó vizualizációkkal is
+
+475
+00:16:23,600 --> 00:16:27,759
+fogunk majd készülni. Megjegyezték, hogy
+
+476
+00:16:25,519 --> 00:16:29,759
+a Bitcoin bányászáték, vagy a
+
+477
+00:16:27,759 --> 00:16:33,199
+vizualizáció, amit mutattam az
+
+478
+00:16:29,759 --> 00:16:34,800
+előadásba, az az átjött sokaknak. Az
+
+479
+00:16:33,199 --> 00:16:36,759
+egyébként majd mind nyilvános lesz,
+
+480
+00:16:34,800 --> 00:16:39,880
+illetve a prezentációkat is nyilvános
+
+481
+00:16:36,759 --> 00:16:41,880
+formában majd el tudják érni a nézők,
+
+482
+00:16:39,880 --> 00:16:44,440
+hogy hol azt majd bejelentjük a Telegram
+
+483
+00:16:41,880 --> 00:16:46,360
+csatornán meg a közösségi média
+
+484
+00:16:44,440 --> 00:16:47,360
+platformokon, de a sajátjaimat egyébként
+
+485
+00:16:46,360 --> 00:16:49,480
+az a saját oldalamon a
+
+486
+00:16:47,360 --> 00:16:51,600
+ferenckovács.com-on el fogjátok tudni
+
+487
+00:16:49,480 --> 00:16:53,319
+érni szerintem a hétvége fele.
+
+488
+00:16:51,600 --> 00:16:55,759
+Átpakolgatom oda is, hogy elérhető
+
+489
+00:16:53,319 --> 00:16:57,480
+legyen. és végigkattintható akár a
+
+490
+00:16:55,759 --> 00:16:59,319
+Bitcoin bányász vizualizáció is, tehát
+
+491
+00:16:57,480 --> 00:17:00,880
+amit láttatok az előadásban, ott
+
+492
+00:16:59,319 --> 00:17:02,319
+mindenki szépen el tudja indítani a kis
+
+493
+00:17:00,880 --> 00:17:03,920
+bányász blokkját, és akkor tud vele
+
+494
+00:17:02,319 --> 00:17:04,919
+játszani, hátha egy kicsit a megértést
+
+495
+00:17:03,920 --> 00:17:07,120
+tudja fokozni.
+
+496
+00:17:04,919 --> 00:17:08,880
+>> Tök jó. Szerintem abban is nagyon jók
+
+497
+00:17:07,120 --> 00:17:11,079
+ezek a rendezvények, hogy mindig azt
+
+498
+00:17:08,880 --> 00:17:12,799
+érzem utána, hogy hogy így töltődöm.
+
+499
+00:17:11,079 --> 00:17:14,679
+Gyakorlatilag egymást inspiráljuk
+
+500
+00:17:12,799 --> 00:17:16,880
+azokkal a visszajelzésekkel, új
+
+501
+00:17:14,679 --> 00:17:19,839
+ötletekkel, meg az az ezekkel az
+
+502
+00:17:16,880 --> 00:17:22,120
+rengeteg új kapcsolódási ponttal.
+
+503
+00:17:19,839 --> 00:17:25,600
+Valahogy így könnyű ezekből töltekezni
+
+504
+00:17:22,120 --> 00:17:28,720
+és azt érezni, hogy újult erővel új
+
+505
+00:17:25,600 --> 00:17:31,160
+ötletek mentén tudunk aztán hasznára
+
+506
+00:17:28,720 --> 00:17:34,120
+lenni a társadalomnak úgymond, vagy úgy
+
+507
+00:17:31,160 --> 00:17:36,120
+úgy kifejteni a pozitív hatást, ahogy
+
+508
+00:17:34,120 --> 00:17:38,320
+eddig még sose volt, mert ezek az új
+
+509
+00:17:36,120 --> 00:17:40,480
+arcok is igen, akik így így
+
+510
+00:17:38,320 --> 00:17:42,600
+bemutatkoznak ilyenkor nekünk meg mi
+
+511
+00:17:40,480 --> 00:17:44,480
+nekik, és összekapcsolódunk többféle
+
+512
+00:17:42,600 --> 00:17:47,440
+pékképpen. Tök jó, hogy kiderül, hogy
+
+513
+00:17:44,480 --> 00:17:49,000
+igazából ők is a a háttérben valaki már
+
+514
+00:17:47,440 --> 00:17:51,160
+csinál valamit. Most például az egyik
+
+515
+00:17:49,000 --> 00:17:53,520
+srác, lehet, hogy az, aki akit
+
+516
+00:17:51,160 --> 00:17:55,320
+említettél Peru kapcsán, mert mert nekem
+
+517
+00:17:53,520 --> 00:17:57,760
+egy egy srác mesélte, hogy ő volt
+
+518
+00:17:55,320 --> 00:18:00,000
+Peruban valamilyen önismereti
+
+519
+00:17:57,760 --> 00:18:03,400
+tréningszerűségen, ahol tök jó
+
+520
+00:18:00,000 --> 00:18:05,440
+bátorítást meg ötleteket kapott ahhoz,
+
+521
+00:18:03,400 --> 00:18:07,480
+hogy mit csináljon, és így már elkezdett
+
+522
+00:18:05,440 --> 00:18:10,320
+szervezkedni, hogy milyen hazai
+
+523
+00:18:07,480 --> 00:18:12,320
+spirituális tanítókkal beszélget
+
+524
+00:18:10,320 --> 00:18:13,840
+kifejezetten így a pénz és a Bitcoin
+
+525
+00:18:12,320 --> 00:18:16,880
+témájában. és ugye az egy ilyen
+
+526
+00:18:13,840 --> 00:18:18,440
+célkitűzése, hogy becsatornázza őket,
+
+527
+00:18:16,880 --> 00:18:21,240
+vagy legalábbis
+
+528
+00:18:18,440 --> 00:18:23,159
+az ismereteik közé azt, hogy a Bitcoin
+
+529
+00:18:21,240 --> 00:18:25,039
+az nem egyszerűen csak egy pénz meg egy
+
+530
+00:18:23,159 --> 00:18:27,159
+meggazdagodási lehetőség, hanem hogy
+
+531
+00:18:25,039 --> 00:18:29,720
+milyen világjobbítási
+
+532
+00:18:27,159 --> 00:18:32,440
+törekvés van emögött a a mozgalom
+
+533
+00:18:29,720 --> 00:18:35,240
+mögött, hogy a hogy mi mi az, amit
+
+534
+00:18:32,440 --> 00:18:37,039
+igazából mi is itt csinálunk azon túl,
+
+535
+00:18:35,240 --> 00:18:40,400
+hogy hogy mindenkit megpróbálunk
+
+536
+00:18:37,039 --> 00:18:41,880
+rábeszélni, hogy vegyetek bitcoint.
+
+537
+00:18:40,400 --> 00:18:43,679
+>> Így van. meg, hogy értsétek meg, hogy mi
+
+538
+00:18:41,880 --> 00:18:46,200
+a Bitcoin és hogy mi a pénz és mi a
+
+539
+00:18:43,679 --> 00:18:47,799
+probléma. Ugye a vállalatok, a céges
+
+540
+00:18:46,200 --> 00:18:49,240
+elfogadás azért nagyon fontos, ezt
+
+541
+00:18:47,799 --> 00:18:50,880
+elmondtam a konferencián is, de hogy
+
+542
+00:18:49,240 --> 00:18:52,080
+kontextus legyen a hallgatóknak.
+
+543
+00:18:50,880 --> 00:18:55,159
+>> Ühüm.
+
+544
+00:18:52,080 --> 00:18:57,159
+>> Hogy lehessen hol költeni a bitcoint, és
+
+545
+00:18:55,159 --> 00:19:00,120
+beinduljon az egész körkörös gazdaság,
+
+546
+00:18:57,159 --> 00:19:03,400
+ami nem tud tervezett és kapcsolómódjára
+
+547
+00:19:00,120 --> 00:19:05,480
+beindulni, csak alapokról felépítve
+
+548
+00:19:03,400 --> 00:19:08,000
+elindulni. Jelezte például nekem egy
+
+549
+00:19:05,480 --> 00:19:10,559
+kertépítő cég, ami Nyugatdunán túlon
+
+550
+00:19:08,000 --> 00:19:12,080
+tevékenykedik, hogy ő szeretne bitcoint
+
+551
+00:19:10,559 --> 00:19:13,880
+elfogadni.
+
+552
+00:19:12,080 --> 00:19:16,360
+Aztán volt egy másik srác, aki
+
+553
+00:19:13,880 --> 00:19:17,679
+mezőgazdasággal foglalkozik szintén, aki
+
+554
+00:19:16,360 --> 00:19:19,000
+jelezte, hogy szeretne bitcoint
+
+555
+00:19:17,679 --> 00:19:20,880
+elfogadni. Volt egy
+
+556
+00:19:19,000 --> 00:19:23,080
+égszerüzlettulajdonos, aki szintén
+
+557
+00:19:20,880 --> 00:19:26,400
+jelezte, hogy ő is szívesen elfogadna
+
+558
+00:19:23,080 --> 00:19:28,159
+bitcoint. És mondtam nekik, illetve
+
+559
+00:19:26,400 --> 00:19:29,400
+mindenki másnak mondom, most másokhoz
+
+560
+00:19:28,159 --> 00:19:32,440
+szólok, akik nem voltak ott a
+
+561
+00:19:29,400 --> 00:19:34,360
+konferencián, hogyha vállalkozók vagytok
+
+562
+00:19:32,440 --> 00:19:35,799
+és hisztek a Bitcoin, vagy tudjátok,
+
+563
+00:19:34,360 --> 00:19:38,280
+hogy mi a Bitcoin, nem hinni kell benne,
+
+564
+00:19:35,799 --> 00:19:40,559
+hanem don't trust verify, ismerd meg, és
+
+565
+00:19:38,280 --> 00:19:43,000
+úgy gondolod, hogy te bitcoin vagy,
+
+566
+00:19:40,559 --> 00:19:46,080
+akkor azért is érdemes elfogadni
+
+567
+00:19:43,000 --> 00:19:47,720
+bitcoint, hogy mutasd a vállalkozásod
+
+568
+00:19:46,080 --> 00:19:50,240
+keresztül, hogy te támogatod ezt az
+
+569
+00:19:47,720 --> 00:19:51,919
+egész eszmét. Nem valószínű, nem
+
+570
+00:19:50,240 --> 00:19:53,960
+valakinek egyébként abszolút nem
+
+571
+00:19:51,919 --> 00:19:57,480
+realitás, hogy rendszeres bevétel legyen
+
+572
+00:19:53,960 --> 00:19:59,159
+bitcoinból. Valakinek még az 1% is sok.
+
+573
+00:19:57,480 --> 00:20:01,640
+Valószínű, hogy annyian fognak nála
+
+574
+00:19:59,159 --> 00:20:03,880
+vásárolni bitcoinnal. Viszont a nulláról
+
+575
+00:20:01,640 --> 00:20:05,520
+az egyre lépünk. A Bitcoin elfogadás
+
+576
+00:20:03,880 --> 00:20:07,039
+valahol még nulla volt, és utána pedig
+
+577
+00:20:05,520 --> 00:20:09,640
+egy lett és fogad el bitcoint. És a
+
+578
+00:20:07,039 --> 00:20:11,880
+lehetőség megadása már egy hatalmas
+
+579
+00:20:09,640 --> 00:20:14,440
+lépés. Nem kell arra számolnia semmelyik
+
+580
+00:20:11,880 --> 00:20:16,080
+vállalkozó kollégának, hogy itt azonnal
+
+581
+00:20:14,440 --> 00:20:17,280
+beindul, és akkor mindenki bitcoinba fog
+
+582
+00:20:16,080 --> 00:20:18,760
+vásárolni, és akkor mit fogok majd
+
+583
+00:20:17,280 --> 00:20:20,919
+csinálni a Cash Pro-val, és akkor hogyan
+
+584
+00:20:18,760 --> 00:20:22,480
+fogom átváltani. Semmi erről nincsen
+
+585
+00:20:20,919 --> 00:20:24,960
+szó. Viszont, hogyha növekszik a Bitcoin
+
+586
+00:20:22,480 --> 00:20:27,280
+elfogadó vállalkozásoknak a térképe,
+
+587
+00:20:24,960 --> 00:20:29,240
+akkor egyszer csak egy hólabda mintájára
+
+588
+00:20:27,280 --> 00:20:31,360
+be fog indulni a lavina. És most itt
+
+589
+00:20:29,240 --> 00:20:34,039
+Magyarországon ezt a lavinát elkezdtük.
+
+590
+00:20:31,360 --> 00:20:35,960
+És milyen érdekes az élet, amikor pont
+
+591
+00:20:34,039 --> 00:20:38,480
+ez a panelbeszélgetés volt, vagy ez a
+
+592
+00:20:35,960 --> 00:20:40,600
+bemutatás, amikor a Bálin Zolit is
+
+593
+00:20:38,480 --> 00:20:42,520
+felhívtuk a Giganetnek a tulajdonosát és
+
+594
+00:20:40,600 --> 00:20:44,559
+ügyvezetőjét, akik szintén fogadnak el
+
+595
+00:20:42,520 --> 00:20:47,000
+Bitcoint egy nagy regionális
+
+596
+00:20:44,559 --> 00:20:49,120
+telekommunikációs cég, és rendesen a TV
+
+597
+00:20:47,000 --> 00:20:50,640
+előfizetésére tudod fizetni bitcoinnal.
+
+598
+00:20:49,120 --> 00:20:52,600
+Tehát egy szerintem egy egészen jó
+
+599
+00:20:50,640 --> 00:20:54,400
+konzumer termék, illetve szervereket
+
+600
+00:20:52,600 --> 00:20:56,039
+tudsz tőle bérelni, vagy bérelt vonalat
+
+601
+00:20:54,400 --> 00:20:57,919
+is, akár internetvonalat is tudsz tőle
+
+602
+00:20:56,039 --> 00:21:00,039
+bérelni, és tudsz fizetni bitcoinért. Ez
+
+603
+00:20:57,919 --> 00:21:01,039
+egy hatalmas dolog szerintem. És amikor
+
+604
+00:21:00,039 --> 00:21:03,840
+ő is feljött, ő is mondta, hogy
+
+605
+00:21:01,039 --> 00:21:05,039
+körülbelül 1% a bevételüknek Bitcoin.
+
+606
+00:21:03,840 --> 00:21:07,480
+Ezt egyébként én is meg tudom erősíteni
+
+607
+00:21:05,039 --> 00:21:09,559
+a szállodáinkban is körülbelül 1%. És
+
+608
+00:21:07,480 --> 00:21:12,120
+valahol itt is tart az adoptáció, tehát
+
+609
+00:21:09,559 --> 00:21:14,840
+még cégként sem vagy lekésve, sem nem
+
+610
+00:21:12,120 --> 00:21:17,120
+hogy bitcoinként. És a amikor ez a panel
+
+611
+00:21:14,840 --> 00:21:20,600
+volt, előtte odalépett hozzám egy srác,
+
+612
+00:21:17,120 --> 00:21:23,520
+és mondta, hogy szia, Feri, XY vagyok,
+
+613
+00:21:20,600 --> 00:21:25,039
+és mondta, hogy csináltam egy újdonságot
+
+614
+00:21:23,520 --> 00:21:26,520
+az interneten, egy térképet, ami
+
+615
+00:21:25,039 --> 00:21:28,080
+mutatja, hogy a bitco a magyar Bitcoin
+
+616
+00:21:26,520 --> 00:21:29,640
+elfogadóhelyek hol vannak, és hogy
+
+617
+00:21:28,080 --> 00:21:31,200
+hogyan lehet őket elérni.
+
+618
+00:21:29,640 --> 00:21:34,159
+Bitcointérkép.hu
+
+619
+00:21:31,200 --> 00:21:35,440
+ez a neve, úgyhogy keressétek fel. Nem
+
+620
+00:21:34,159 --> 00:21:37,720
+hallottam még előtte sose, de
+
+621
+00:21:35,440 --> 00:21:40,200
+kivetítettük egyből a színpadra a
+
+622
+00:21:37,720 --> 00:21:41,320
+bemutatások után, és nagyon szépen
+
+623
+00:21:40,200 --> 00:21:43,600
+köszönöm neki azúton is, hogy
+
+624
+00:21:41,320 --> 00:21:45,960
+elkészítette ezt a térképet, mert ugye
+
+625
+00:21:43,600 --> 00:21:48,200
+van nekünk btcmap.org
+
+626
+00:21:45,960 --> 00:21:50,120
+meg hasonló rendszerek, de az angol
+
+627
+00:21:48,200 --> 00:21:51,440
+nyelvű kicsit nehézkes be kerülni, mert
+
+628
+00:21:50,120 --> 00:21:53,240
+én is regisztráltam, már oda nem
+
+629
+00:21:51,440 --> 00:21:54,720
+egyszerű a regisztráció. Viszont nekünk
+
+630
+00:21:53,240 --> 00:21:56,720
+magyaroknak mi mindig speciálisak
+
+631
+00:21:54,720 --> 00:21:59,080
+vagyunk egy picit önmagunknak, mert más
+
+632
+00:21:56,720 --> 00:22:01,039
+a nyelvünk, magyarul értünk, mert miért
+
+633
+00:21:59,080 --> 00:22:03,120
+ne lehetne egy magyar Bitcoin térkép?
+
+634
+00:22:01,039 --> 00:22:04,760
+Szóval itt tudtok regisztrálni, hogyha
+
+635
+00:22:03,120 --> 00:22:06,840
+ti fogadtok el bitcoint. És én azt tudom
+
+636
+00:22:04,760 --> 00:22:08,679
+ígérni nektek, minden vállalkozónak, aki
+
+637
+00:22:06,840 --> 00:22:10,840
+elindítja a Bitcoin elfogadást, annak
+
+638
+00:22:08,679 --> 00:22:12,480
+helye lesz, és egy legalább egy rövid
+
+639
+00:22:10,840 --> 00:22:15,520
+bemutatkozási időt fog kapni a
+
+640
+00:22:12,480 --> 00:22:18,039
+konferenciá keretein belül. Úgyhogy aki
+
+641
+00:22:15,520 --> 00:22:20,600
+regisztrál és jelzi nekünk is, azt
+
+642
+00:22:18,039 --> 00:22:23,360
+szeretettel várjuk az őszi konferencián,
+
+643
+00:22:20,600 --> 00:22:24,880
+ami soron következő lesz Miskolcon a
+
+644
+00:22:23,360 --> 00:22:28,440
+Hotelurában
+
+645
+00:22:24,880 --> 00:22:31,240
+2026. november 20 és 22 között. Úgyhogy
+
+646
+00:22:28,440 --> 00:22:33,799
+már fog tudni jelentkezni kábé egy hónap
+
+647
+00:22:31,240 --> 00:22:36,120
+múlva május közepe fele. Viszont a céges
+
+648
+00:22:33,799 --> 00:22:39,360
+elfogadást ugye egyrészől mi is fogjuk
+
+649
+00:22:36,120 --> 00:22:41,200
+támogatni a Bitcoin Vision Kft-vel, amit
+
+650
+00:22:39,360 --> 00:22:44,320
+én indítottam elrebber rendeltem egy
+
+651
+00:22:41,200 --> 00:22:46,600
+régebbi vállalkozásomat és abban tudunk
+
+652
+00:22:44,320 --> 00:22:48,760
+segíteni a vállalkozásoknak, hogyha az
+
+653
+00:22:46,600 --> 00:22:51,240
+ingyenes tájékoztatónkat, amit hogyha
+
+654
+00:22:48,760 --> 00:22:53,080
+feliratkoznak a Bitcoinvision 21.hu H
+
+655
+00:22:51,240 --> 00:22:54,520
+oldalunkon azt megkapják. És ez a
+
+656
+00:22:53,080 --> 00:22:56,320
+hatoldalas tájékoztató, ami
+
+657
+00:22:54,520 --> 00:22:58,159
+vállalkozóknak és a jogászoknak és a
+
+658
+00:22:56,320 --> 00:23:00,679
+könyvelőknek is íródott egyszerre
+
+659
+00:22:58,159 --> 00:23:02,760
+mindenkinek a saját nyelvezetében. Ha az
+
+660
+00:23:00,679 --> 00:23:05,120
+nem elég esetleg, akkor mi tudunk
+
+661
+00:23:02,760 --> 00:23:06,480
+segíteni. Tehát mi ingyen adunk tudást,
+
+662
+00:23:05,120 --> 00:23:08,279
+olyan használható tudást fogunk
+
+663
+00:23:06,480 --> 00:23:10,120
+hamarosan publikálni, amiben azért van
+
+664
+00:23:08,279 --> 00:23:12,320
+munkaóránk, amit komoly jogászok és
+
+665
+00:23:10,120 --> 00:23:14,200
+könyvelő szakemberek néztek át, de azt
+
+666
+00:23:12,320 --> 00:23:16,720
+oda odaadjuk a közösségnek. Nem az a
+
+667
+00:23:14,200 --> 00:23:18,039
+lényeg, hogy mi konzultációs díjat
+
+668
+00:23:16,720 --> 00:23:20,080
+szedjünk be, hanem az a lényeg, hogy
+
+669
+00:23:18,039 --> 00:23:20,559
+minél több bitcoin elfogadóhely legyen.
+
+670
+00:23:20,080 --> 00:23:22,400
+>> Szuper.
+
+671
+00:23:20,559 --> 00:23:24,640
+>> Úgyhogy minden minden segítséget meg
+
+672
+00:23:22,400 --> 00:23:27,000
+szeretnék adni a kis vállalkozásnak és
+
+673
+00:23:24,640 --> 00:23:28,880
+nagy vállalkozásoknak is ahhoz, hogy el
+
+674
+00:23:27,000 --> 00:23:30,799
+tudjanak fogadni bitcoint. Tehát pont az
+
+675
+00:23:28,880 --> 00:23:32,880
+egyik mai napi, tegnapi hír, hogy az
+
+676
+00:23:30,799 --> 00:23:34,480
+egyik nagy élelmiszerű üzletláncban most
+
+677
+00:23:32,880 --> 00:23:36,480
+már elfogadnak ugye a bitcoint, meg
+
+678
+00:23:34,480 --> 00:23:38,640
+régebben is elfogadtak már például azzem
+
+679
+00:23:36,480 --> 00:23:40,720
+a spárba meg Müllerbe is,
+
+680
+00:23:38,640 --> 00:23:43,000
+Nyugat-Európába. Én nagyon szívesen
+
+681
+00:23:40,720 --> 00:23:44,320
+látnám egyébként a következő ilyen
+
+682
+00:23:43,000 --> 00:23:46,159
+hírbejelentést, hogy egy magyar
+
+683
+00:23:44,320 --> 00:23:47,120
+élelmiszerű üzletlánc esetleg elfogad
+
+684
+00:23:46,159 --> 00:23:49,480
+bitcoint, mert hogy ez egy
+
+685
+00:23:47,120 --> 00:23:51,919
+infrastruktúra ott van, nem vagyonokba
+
+686
+00:23:49,480 --> 00:23:54,039
+kerül, hanem alapvetően szinte ingyenes,
+
+687
+00:23:51,919 --> 00:23:55,760
+főleg egy akár több 100 milliós vagy
+
+688
+00:23:54,039 --> 00:23:58,080
+milliárdos vállalkozásnak ezek ingyen
+
+689
+00:23:55,760 --> 00:23:59,880
+lépések, de mégis egy hatalmas gesztus
+
+690
+00:23:58,080 --> 00:24:02,159
+és egy hatalmas kitörési lehetőség
+
+691
+00:23:59,880 --> 00:24:04,520
+marketing területén. Úgyhogy mi ebben
+
+692
+00:24:02,159 --> 00:24:06,159
+tudunk segíteni a továbblépésben, azon
+
+693
+00:24:04,520 --> 00:24:07,200
+túl, hogy konferenciákat fogjuk továbbra
+
+694
+00:24:06,159 --> 00:24:09,520
+is szervezni.
+
+695
+00:24:07,200 --> 00:24:11,640
+>> Tök jó. Ez szerintem ez is nagyon
+
+696
+00:24:09,520 --> 00:24:14,000
+szuper. Régóta vakartam a fejem, hogy
+
+697
+00:24:11,640 --> 00:24:15,919
+hogy fogunk eljutni oda, hogy hogyha
+
+698
+00:24:14,000 --> 00:24:18,600
+valaki vagy valakik ugye már képben
+
+699
+00:24:15,919 --> 00:24:20,679
+vannak, hogy hogyan lehet üzletileg úgy
+
+700
+00:24:18,600 --> 00:24:22,159
+elfogadni bitcoint, hogy ugye az jogilag
+
+701
+00:24:20,679 --> 00:24:25,000
+is rendben legyen meg minden
+
+702
+00:24:22,159 --> 00:24:27,240
+szempontból, hogy azt miért mindenhol
+
+703
+00:24:25,000 --> 00:24:29,720
+csak pénzért lehet hozzáférni. Úgyhogy
+
+704
+00:24:27,240 --> 00:24:31,840
+ez tök állat, hogy ti ennek az alapjait
+
+705
+00:24:29,720 --> 00:24:34,000
+ingyen megosztjátok, és aki mondjuk
+
+706
+00:24:31,840 --> 00:24:36,360
+mélyebbre akar ebben menni, akkor azt
+
+707
+00:24:34,000 --> 00:24:38,279
+meg lehet egy fizetőszolgáltatásban
+
+708
+00:24:36,360 --> 00:24:40,799
+konkretizálni, meg akár konkrét
+
+709
+00:24:38,279 --> 00:24:42,200
+lépésekkel támogatni, de szerintem
+
+710
+00:24:40,799 --> 00:24:44,799
+nagyon bomba, hogy hogy az
+
+711
+00:24:42,200 --> 00:24:47,440
+alapinformációk azok hozzáférhetőek
+
+712
+00:24:44,799 --> 00:24:49,320
+lesznek ingyenesen. Ezt a feliratkozott,
+
+713
+00:24:47,440 --> 00:24:51,600
+tehát hogyha emailben feliratkoznak
+
+714
+00:24:49,320 --> 00:24:53,399
+nálatok, akkor emailben külditek majd
+
+715
+00:24:51,600 --> 00:24:55,760
+ki. Tehát érdemes föliratkozni egy
+
+716
+00:24:53,399 --> 00:24:57,840
+hírlevélre. Igen, a weboldalon van a
+
+717
+00:24:55,760 --> 00:24:59,600
+hírlevélnek a feliratkozási ikonja, és
+
+718
+00:24:57,840 --> 00:25:01,320
+hát ez egy jó kommunikációs csatorna,
+
+719
+00:24:59,600 --> 00:25:03,320
+mert így tömegével tudunk tájékoztatni
+
+720
+00:25:01,320 --> 00:25:05,080
+embereket. Úgyhogy eze a ennek a
+
+721
+00:25:03,320 --> 00:25:07,360
+dokumentumnak pageernek hívom, de
+
+722
+00:25:05,080 --> 00:25:08,960
+alapvetően ez egy hatoldalas dokumentum
+
+723
+00:25:07,360 --> 00:25:12,200
+nagyon sűrűn szedett szöveggel, tehát
+
+724
+00:25:08,960 --> 00:25:13,600
+elég alapos is. Ezt ki fogjuk küldeni a
+
+725
+00:25:12,200 --> 00:25:15,000
+feliratkozók számra, illetve szoktunk
+
+726
+00:25:13,600 --> 00:25:16,880
+kommunikálni mást is. Például a
+
+727
+00:25:15,000 --> 00:25:19,480
+konferenciának a ennek a konferenciának
+
+728
+00:25:16,880 --> 00:25:21,720
+is a videófelvételeit, prezentációit,
+
+729
+00:25:19,480 --> 00:25:24,240
+azt nyilvánosságra fogjuk hozni. több
+
+730
+00:25:21,720 --> 00:25:26,720
+előadó jelezte talán mindegyikük, hogy a
+
+731
+00:25:24,240 --> 00:25:28,240
+prezentációi elérhetőek ingyenesen az
+
+732
+00:25:26,720 --> 00:25:30,320
+interneten keresztül, úgyhogy azokat is
+
+733
+00:25:28,240 --> 00:25:31,640
+majd összegyűjtjük tőletek is, meg hát
+
+734
+00:25:30,320 --> 00:25:34,159
+saját magunktól is, amiket mi
+
+735
+00:25:31,640 --> 00:25:35,640
+tartottunk. És egy ilyen tájékoztató
+
+736
+00:25:34,159 --> 00:25:37,679
+emailbbe ot is ki fog menni, hogy ott
+
+737
+00:25:35,640 --> 00:25:39,760
+legyen nektek, és meg tudjátok nézni
+
+738
+00:25:37,679 --> 00:25:41,520
+utólag is. Szuper.
+
+739
+00:25:39,760 --> 00:25:43,240
+>> És akik már így megkerestek most a
+
+740
+00:25:41,520 --> 00:25:45,840
+konferencián, hogy ők is akarnak
+
+741
+00:25:43,240 --> 00:25:48,200
+elfogadni, ők ilyen szempontból kerestek
+
+742
+00:25:45,840 --> 00:25:51,480
+meg, hogy őket is érdekli, hogy hogy
+
+743
+00:25:48,200 --> 00:25:53,320
+mondjuk ez hogy lehet minden szempontból
+
+744
+00:25:51,480 --> 00:25:56,520
+jog jogilag is meg adminisztráció
+
+745
+00:25:53,320 --> 00:25:58,640
+szempontjából megfelelően vezetni, meg a
+
+746
+00:25:56,520 --> 00:25:59,880
+helyére tenni a dolgokat. Abszolút.
+
+747
+00:25:58,640 --> 00:26:01,240
+Tehát elmondtam nekik azt, amit
+
+748
+00:25:59,880 --> 00:26:03,159
+egyébként nyilvánosan már többször
+
+749
+00:26:01,240 --> 00:26:05,120
+elmondtunk, hogy ez hogyan működik, de
+
+750
+00:26:03,159 --> 00:26:07,000
+ahhoz, hogy ez mélységébe bevezethető
+
+751
+00:26:05,120 --> 00:26:09,000
+legyen, ehhez kellenek jogszabályi
+
+752
+00:26:07,000 --> 00:26:10,679
+hivatkozások, könyvelői sorok, hogy mit
+
+753
+00:26:09,000 --> 00:26:12,799
+hogyan könyvelsz el, hogyan értékelsz
+
+754
+00:26:10,679 --> 00:26:14,520
+újra. Ezeket a legjobb az, hogyha az
+
+755
+00:26:12,799 --> 00:26:15,919
+ember írásba leírja és akkor úgy mondja
+
+756
+00:26:14,520 --> 00:26:17,919
+el, mert egyrészt ha szóban elmondom,
+
+757
+00:26:15,919 --> 00:26:19,960
+nem emlékszel rá, másrészről meg ezt át
+
+758
+00:26:17,919 --> 00:26:21,600
+kell tudni adni általában a kollégáknak
+
+759
+00:26:19,960 --> 00:26:23,399
+meg a meg a szakmának, a könyvelőknek
+
+760
+00:26:21,600 --> 00:26:26,080
+vagy a jogászoknak, hogyha ez érintett
+
+761
+00:26:23,399 --> 00:26:27,960
+jogi területet. És alapvetően
+
+762
+00:26:26,080 --> 00:26:29,279
+én mindenkit arra bátorítottam, hogy
+
+763
+00:26:27,960 --> 00:26:31,039
+első körben iratkozzon föl a
+
+764
+00:26:29,279 --> 00:26:32,720
+hírlevélben, ingyenesen kiküldjük,
+
+765
+00:26:31,039 --> 00:26:34,360
+hogyha ott esetleg megakad, mert abban
+
+766
+00:26:32,720 --> 00:26:36,279
+van egyébként technikai segítség is.
+
+767
+00:26:34,360 --> 00:26:39,000
+Tehát ez egy olyan dokumentum lesz,
+
+768
+00:26:36,279 --> 00:26:41,159
+amivel ingyenesen el tudsz indulni. De
+
+769
+00:26:39,000 --> 00:26:42,679
+tényleg, mert a technikai lehetőség is
+
+770
+00:26:41,159 --> 00:26:44,000
+olyan, hogyha egy kisvállalkozóról van
+
+771
+00:26:42,679 --> 00:26:45,320
+szó, akkor nem kell bonyolult
+
+772
+00:26:44,000 --> 00:26:47,120
+rendszereket építeni, akkor a
+
+773
+00:26:45,320 --> 00:26:48,679
+legegyszerűbb, legkönnyebb rendszerrel
+
+774
+00:26:47,120 --> 00:26:51,000
+tud indulni teljesen ingyenes. Nem
+
+775
+00:26:48,679 --> 00:26:52,720
+kellünk hozzá, de hogyha valakinek
+
+776
+00:26:51,000 --> 00:26:54,799
+nagyobb igénye van, nagyobb tranzakciós
+
+777
+00:26:52,720 --> 00:26:57,279
+szám, esetleg webshopja is van, amivel
+
+778
+00:26:54,799 --> 00:26:58,799
+integrálni kell esetleg az elfogadást,
+
+779
+00:26:57,279 --> 00:27:00,679
+akkor azt szeretnénk, hogy tudja, hogy
+
+780
+00:26:58,799 --> 00:27:02,440
+ez létezik, ez megoldható. Ak le is
+
+781
+00:27:00,679 --> 00:27:03,799
+írtuk egyébként a technikai megoldását,
+
+782
+00:27:02,440 --> 00:27:05,720
+hogyha valaki nagyon akarja, mert
+
+783
+00:27:03,799 --> 00:27:07,200
+mondtak már jelezték, hogy ott van olyan
+
+784
+00:27:05,720 --> 00:27:08,960
+informatikai szakember, aki ez ért,
+
+785
+00:27:07,200 --> 00:27:11,520
+akkor csodálatos, ez nagyon jó. Hát ott
+
+786
+00:27:08,960 --> 00:27:13,960
+van a BTCP szerver, open source ingyenes
+
+787
+00:27:11,520 --> 00:27:15,760
+szoftver, be is írtuk a leírásba,
+
+788
+00:27:13,960 --> 00:27:17,080
+tudjátok használni, tudjátok integrálni,
+
+789
+00:27:15,760 --> 00:27:18,720
+tehát semmi különleges dolog nincs
+
+790
+00:27:17,080 --> 00:27:20,240
+benne. Viszont akinek nincsen
+
+791
+00:27:18,720 --> 00:27:21,960
+kapcsolata, vagy szeretné, hogyha
+
+792
+00:27:20,240 --> 00:27:23,840
+konformosabb lenne, hogy valaki olyasmit
+
+793
+00:27:21,960 --> 00:27:25,679
+csinálja, aki már ezt már egyszerűen
+
+794
+00:27:23,840 --> 00:27:27,640
+ezen végigment, akkor természetesen
+
+795
+00:27:25,679 --> 00:27:29,840
+valamilyen konzultációs díj fejében ezt
+
+796
+00:27:27,640 --> 00:27:31,240
+tudjuk is vállalni. De tényleg mindez
+
+797
+00:27:29,840 --> 00:27:33,080
+csak azért, hogy segítsük az
+
+798
+00:27:31,240 --> 00:27:35,440
+előrehaladást. Nem ebből fogunk
+
+799
+00:27:33,080 --> 00:27:37,080
+meggazdagodni, nem ez a cégprofilunk.
+
+800
+00:27:35,440 --> 00:27:39,279
+Ezt csak tényleg azért csináljuk, hogy
+
+801
+00:27:37,080 --> 00:27:41,000
+minél többen fogadjanak el bitcoint, és
+
+802
+00:27:39,279 --> 00:27:43,200
+ne legyen az a probléma, hogy hogyan
+
+803
+00:27:41,000 --> 00:27:45,039
+váltom át egy tőzsdén, utána hogyan
+
+804
+00:27:43,200 --> 00:27:46,720
+küldöm ki egy bankba, a bank az
+
+805
+00:27:45,039 --> 00:27:49,000
+elfogadja-e vagy nem, és utána pedig
+
+806
+00:27:46,720 --> 00:27:50,880
+megint jutalékokért, és különböző fíken
+
+807
+00:27:49,000 --> 00:27:52,559
+keresztül tudjam csak elkölteni a
+
+808
+00:27:50,880 --> 00:27:55,000
+bitcoinomat, hanem egyből közvetlenül
+
+809
+00:27:52,559 --> 00:27:57,760
+tudjál bitcoint küldeni, költeni is.
+
+810
+00:27:55,000 --> 00:28:00,240
+>> Szuper. És volt néhány olyan részevev a
+
+811
+00:27:57,760 --> 00:28:02,200
+konferenciának, mint például Köböl
+
+812
+00:28:00,240 --> 00:28:06,679
+Anita, a műsorvezető, aki ugye egy
+
+813
+00:28:02,200 --> 00:28:10,120
+tévésszemélyiség, meg a a Tót Edu
+
+814
+00:28:06,679 --> 00:28:11,480
+nak a a szolgáltatását is már többször
+
+815
+00:28:10,120 --> 00:28:14,240
+vettük így igénybe, ugye, a
+
+816
+00:28:11,480 --> 00:28:15,720
+konferenciákon, mint mint standup comedy
+
+817
+00:28:14,240 --> 00:28:18,039
+előadó, vagy nem is tudom ezt, hogy
+
+818
+00:28:15,720 --> 00:28:20,679
+mondjam pontosan, hogy az ő részükről
+
+819
+00:28:18,039 --> 00:28:23,320
+van-e valami olyan feedbacked, hogy ők
+
+820
+00:28:20,679 --> 00:28:25,519
+hogy látják azt, amibe így bele tudtak
+
+821
+00:28:23,320 --> 00:28:28,039
+eddig pillantani így ezen a társ
+
+822
+00:28:25,519 --> 00:28:30,519
+társaságon vagy ugye az Anita végigülte
+
+823
+00:28:28,039 --> 00:28:32,039
+gyakorlatilag a az előadásokat meg
+
+824
+00:28:30,519 --> 00:28:33,919
+panelbeszélgetéseket,
+
+825
+00:28:32,039 --> 00:28:36,880
+hogy esetleg tőlük kaptál-e valami olyan
+
+826
+00:28:33,919 --> 00:28:39,120
+visszajelzést, ami nekik így
+
+827
+00:28:36,880 --> 00:28:40,320
+szöget ütött a fejükben, vagy vagy ami
+
+828
+00:28:39,120 --> 00:28:42,480
+meglepte őket?
+
+829
+00:28:40,320 --> 00:28:45,480
+>> Hát az EURól kezdem vele, mert ő
+
+830
+00:28:42,480 --> 00:28:47,240
+rövidebb lesz. Ő ugye kevesebbet van
+
+831
+00:28:45,480 --> 00:28:48,279
+velünk, ő csak általában standupra
+
+832
+00:28:47,240 --> 00:28:50,279
+szoktuk hívni,
+
+833
+00:28:48,279 --> 00:28:51,760
+>> és elég egy oldalú a kapcsolódás, mert
+
+834
+00:28:50,279 --> 00:28:53,720
+folyton beszél.
+
+835
+00:28:51,760 --> 00:28:56,000
+Igen, és Dadog is, de ez nyilván ez a
+
+836
+00:28:53,720 --> 00:28:57,480
+poén része, illetve Fülöp Viktor is
+
+837
+00:28:56,000 --> 00:28:58,760
+egyébként szokott szerepelni a
+
+838
+00:28:57,480 --> 00:29:00,480
+rendezvényeket. Ők őt is nagyon
+
+839
+00:28:58,760 --> 00:29:01,960
+szeretjük, de ő most nem ért rá. Hát
+
+840
+00:29:00,480 --> 00:29:03,000
+annyit biztos, hogy az Edu megtanulta
+
+841
+00:29:01,960 --> 00:29:05,200
+azt, hogy mi a Bitcoin, mert már
+
+842
+00:29:03,000 --> 00:29:07,039
+legalább egyszer kiejtette a a száján,
+
+843
+00:29:05,200 --> 00:29:08,919
+úgyhogy szerintem valamennyire tisztában
+
+844
+00:29:07,039 --> 00:29:10,919
+lehet vele. Nagyon kedves, nagyon jó
+
+845
+00:29:08,919 --> 00:29:12,600
+személyiség. Én szeretem nagyon, úgyhogy
+
+846
+00:29:10,919 --> 00:29:14,679
+visszavárjuk legközelebb is, fogunk vele
+
+847
+00:29:12,600 --> 00:29:16,200
+kontaktálni. Úgyhogy ilyen programok is
+
+848
+00:29:14,679 --> 00:29:17,960
+továbbra is lesznek egyébként a
+
+849
+00:29:16,200 --> 00:29:19,279
+következő konferencián. Tehát én azt
+
+850
+00:29:17,960 --> 00:29:21,120
+kértem, hogy legalább még egy quizt
+
+851
+00:29:19,279 --> 00:29:22,840
+szervezzünk majd egy másik estére is,
+
+852
+00:29:21,120 --> 00:29:24,200
+mert most ugye egy este volt quíz, és
+
+853
+00:29:22,840 --> 00:29:26,919
+azt nagyon szerette a csapat, én azt
+
+854
+00:29:24,200 --> 00:29:29,480
+láttam és nagyon jó volt. Annyit viszont
+
+855
+00:29:26,919 --> 00:29:31,240
+megígérhetek, hogy legközelebb én is
+
+856
+00:29:29,480 --> 00:29:33,279
+bele fogok majd nyúlni a quiz
+
+857
+00:29:31,240 --> 00:29:35,000
+szervezésbe, hogy a legprofi BTI
+
+858
+00:29:33,279 --> 00:29:37,200
+szakembereknek is egy olyan kérdést majd
+
+859
+00:29:35,000 --> 00:29:39,880
+dobjak oda, ami nem kifejezetten IT vagy
+
+860
+00:29:37,200 --> 00:29:41,919
+Bitcoin jellegű, hanem hanem mondjuk egy
+
+861
+00:29:39,880 --> 00:29:44,480
+egy ilyen Bitcoin gazdasági kérdés, amit
+
+862
+00:29:41,919 --> 00:29:46,360
+esetleg kevésbé tudnak ők is. Bár így
+
+863
+00:29:44,480 --> 00:29:48,200
+sem a legjobb szakemberek nyerték a quíz
+
+864
+00:29:46,360 --> 00:29:50,279
+kérdéseket. Lehet, hogy aranyosok is
+
+865
+00:29:48,200 --> 00:29:50,960
+voltak, és egy picit azért hagyták a
+
+866
+00:29:50,279 --> 00:29:52,799
+többieket nyerni.
+
+867
+00:29:50,960 --> 00:29:54,840
+>> Hát persze, az kell szerintem.
+
+868
+00:29:52,799 --> 00:29:56,960
+>> Így van, így van. De jó volt, mert azért
+
+869
+00:29:54,840 --> 00:29:58,880
+komolyan vette mindenki. Na, úgyhogy
+
+870
+00:29:56,960 --> 00:30:00,679
+visszatérve egyébként Köb Anita, őt
+
+871
+00:29:58,880 --> 00:30:02,720
+pedig ugye a bizalmi körből ismerem, és
+
+872
+00:30:00,679 --> 00:30:04,519
+egy nagyon kedves, nagyon intelligens
+
+873
+00:30:02,720 --> 00:30:06,600
+személyiség, és ezért is kértem fel,
+
+874
+00:30:04,519 --> 00:30:08,760
+hogy legyen ő a házigazdán
+
+875
+00:30:06,600 --> 00:30:11,559
+műsorvezetőnk. Szerintem neki volt
+
+876
+00:30:08,760 --> 00:30:13,240
+kialakult képe már a Bitcoinról, vagy
+
+877
+00:30:11,559 --> 00:30:14,679
+legalábbis hallott már róla, szerintem a
+
+878
+00:30:13,240 --> 00:30:17,240
+tévében is lehet, hogy beszéltek már
+
+879
+00:30:14,679 --> 00:30:20,200
+róla. viszont ilyen mélységvé abszolút
+
+880
+00:30:17,240 --> 00:30:22,840
+nem folyt bele. Tehát a amit a tévében
+
+881
+00:30:20,200 --> 00:30:25,480
+ugye hallanak az emberek általában a
+
+882
+00:30:22,840 --> 00:30:27,720
+Bitcoinról meg ő mint műsorvezető az
+
+883
+00:30:25,480 --> 00:30:30,000
+csak a felszínt kaporgatja. Viszont most
+
+884
+00:30:27,720 --> 00:30:32,640
+rendes ellement a mélyére. Tehát sokszor
+
+885
+00:30:30,000 --> 00:30:35,080
+mondta, hogy ő figyelt, próbált. Nyilván
+
+886
+00:30:32,640 --> 00:30:36,919
+a mélyebb kontextus szerintem amikor a
+
+887
+00:30:35,080 --> 00:30:38,600
+az Openoms, illetve a Lőrinc beszél
+
+888
+00:30:36,919 --> 00:30:41,640
+technikai dolgokról, akkor lehet, hogy a
+
+889
+00:30:38,600 --> 00:30:43,080
+sokan nem is értették így ő sem. viszont
+
+890
+00:30:41,640 --> 00:30:45,279
+aktívan érdeklődött egyébként a
+
+891
+00:30:43,080 --> 00:30:47,799
+Bitcoinról, úgyhogy bízom benne, hogy
+
+892
+00:30:45,279 --> 00:30:49,600
+esetleg ő is majd hosszabb időn
+
+893
+00:30:47,799 --> 00:30:51,559
+keresztül, vagy tovább jobban is részese
+
+894
+00:30:49,600 --> 00:30:53,720
+lesz a csapatnak. Őt is majd egyébként
+
+895
+00:30:51,559 --> 00:30:55,240
+várjuk vissza természetesen. Meglátjuk
+
+896
+00:30:53,720 --> 00:30:57,320
+még egyezthetünk vele, hogy neki
+
+897
+00:30:55,240 --> 00:30:58,880
+megfelelő az időpont vagy nem. Bízom
+
+898
+00:30:57,320 --> 00:31:00,519
+benne, hogy igen. Illetve azt is
+
+899
+00:30:58,880 --> 00:31:02,639
+remélem, hogy máshol is majd esetleg
+
+900
+00:31:00,519 --> 00:31:04,159
+visszi a hírünket, vagy találkozunk
+
+901
+00:31:02,639 --> 00:31:06,639
+máshol is, hogy esetleg eljön egy ma
+
+902
+00:31:04,159 --> 00:31:08,880
+ilyen podcastbe. Meglátjuk.
+
+903
+00:31:06,639 --> 00:31:11,000
+>> Ja, izgi lenne. Tök jó. Igen, te amúgy
+
+904
+00:31:08,880 --> 00:31:14,120
+is viszonylag sok olyan emberrel
+
+905
+00:31:11,000 --> 00:31:17,240
+találkozol, akiket így üzleti
+
+906
+00:31:14,120 --> 00:31:19,080
+szempontból valahogy így szóba jön a
+
+907
+00:31:17,240 --> 00:31:21,880
+Bitcoin, és úgy tudom tőled, hogy
+
+908
+00:31:19,080 --> 00:31:24,240
+viszonylag rendszeres az, amikor elkezdi
+
+909
+00:31:21,880 --> 00:31:27,080
+érdekelni ezeket az üzleti vagy
+
+910
+00:31:24,240 --> 00:31:31,039
+cégvezető emberkéket az, hogy hogy nem
+
+911
+00:31:27,080 --> 00:31:33,159
+csak mint befektetési lehetőség lehet
+
+912
+00:31:31,039 --> 00:31:35,120
+foglalkozni a bitcoinnal, hanem ez
+
+913
+00:31:33,159 --> 00:31:38,559
+valamivel több annál. Úgyhogy szerintem
+
+914
+00:31:35,120 --> 00:31:40,399
+ebben ebben nagyon nagy erő van, hogy te
+
+915
+00:31:38,559 --> 00:31:42,679
+rendszeresen megjelensz ilyen
+
+916
+00:31:40,399 --> 00:31:45,240
+társaságban, ilyen közegben, és
+
+917
+00:31:42,679 --> 00:31:47,799
+felvállalod azt, hogy erről rendszeresen
+
+918
+00:31:45,240 --> 00:31:49,639
+beszélsz nekik velük, vagy válaszolsz
+
+919
+00:31:47,799 --> 00:31:51,919
+olyan kérdésekre, amik őket
+
+920
+00:31:49,639 --> 00:31:53,720
+foglalkoztatják. A magyar üzleti életben
+
+921
+00:31:51,919 --> 00:31:55,960
+egyébként azt látom, amit te is mondtál,
+
+922
+00:31:53,720 --> 00:31:57,440
+ez egy jó meglátás volt, hogy egyébként
+
+923
+00:31:55,960 --> 00:31:59,159
+már sokan ismerik a bitcoint, és
+
+924
+00:31:57,440 --> 00:32:00,919
+többeknek van is Bitcoinja, vagy így,
+
+925
+00:31:59,159 --> 00:32:02,880
+vagy úgy. Viszont igazából, ahogy
+
+926
+00:32:00,919 --> 00:32:04,360
+mondtad, ez egy nagyon fontos pont, hogy
+
+927
+00:32:02,880 --> 00:32:06,960
+inkább mondjuk a pénzt látják benne, és
+
+928
+00:32:04,360 --> 00:32:09,559
+az értékpapírt és azt, hogy numbers go
+
+929
+00:32:06,960 --> 00:32:11,039
+up. Én egyre többet mesélek nekik arról,
+
+930
+00:32:09,559 --> 00:32:13,480
+hogy nem csak erről szól, és akik
+
+931
+00:32:11,039 --> 00:32:15,760
+eljönnek hozzánk, mert többük volt már
+
+932
+00:32:13,480 --> 00:32:17,720
+most is egyébként a konferencián és
+
+933
+00:32:15,760 --> 00:32:19,320
+korábban is, ők azért megérték, hogy ez
+
+934
+00:32:17,720 --> 00:32:21,039
+többről szól, és jobban is
+
+935
+00:32:19,320 --> 00:32:23,039
+kötelezettebbek.
+
+936
+00:32:21,039 --> 00:32:25,480
+Ez irányban viszont most már odzal is
+
+937
+00:32:23,039 --> 00:32:27,320
+fogom őket kicsit majd pingelni, nem
+
+938
+00:32:25,480 --> 00:32:29,760
+nyomulni, de pingelni, hogy mi lenne,
+
+939
+00:32:27,320 --> 00:32:31,360
+hogyha elfogadának a bitcoint, mondjuk,
+
+940
+00:32:29,760 --> 00:32:32,000
+hátha egy kicsit közelebb kerülnek ez az
+
+941
+00:32:31,360 --> 00:32:33,840
+egészhez. Igen.
+
+942
+00:32:32,000 --> 00:32:36,519
+>> Igen. És hogyha esetleg elkezdenek
+
+943
+00:32:33,840 --> 00:32:39,080
+kifogásokat sorolni, akkor még még arra
+
+944
+00:32:36,519 --> 00:32:41,159
+is arra is tudsz
+
+945
+00:32:39,080 --> 00:32:43,279
+információt szolgáltatni, hogy miért nem
+
+946
+00:32:41,159 --> 00:32:45,880
+kell aggódni mondjuk valami miatt, és
+
+947
+00:32:43,279 --> 00:32:48,320
+akár így megvillantani a onepageedet,
+
+948
+00:32:45,880 --> 00:32:50,760
+hogy figyelj már, ezt ezt ezt olvasd el.
+
+949
+00:32:48,320 --> 00:32:52,600
+>> Be lesz töltve a One Pageer. Így van.
+
+950
+00:32:50,760 --> 00:32:54,799
+Képzeld el, legközelebb egyébként pont a
+
+951
+00:32:52,600 --> 00:32:55,480
+bizalmi körhöz fogok elő elmenni előadni
+
+952
+00:32:54,799 --> 00:32:56,720
+bitcoinról.
+
+953
+00:32:55,480 --> 00:32:58,240
+>> Ezt akartam kérdezni, hogy van-e a
+
+954
+00:32:56,720 --> 00:33:01,679
+terítékem, valami ilyesmi.
+
+955
+00:32:58,240 --> 00:33:03,159
+>> Igen. 2026. június 10-11 Balotonfüreden
+
+956
+00:33:01,679 --> 00:33:05,000
+lesz a Trust Summit. Ezt érdemes
+
+957
+00:33:03,159 --> 00:33:07,039
+megnézni. Trust Summit. Érdemes
+
+958
+00:33:05,000 --> 00:33:08,200
+egyébként eljönni, hogyha vállalkozó
+
+959
+00:33:07,039 --> 00:33:10,159
+vagy, akkor egy nagyon jó
+
+960
+00:33:08,200 --> 00:33:12,679
+előadássorozatot fogsz tudni hallgatni
+
+961
+00:33:10,159 --> 00:33:15,000
+talán több színpadon és vállalkozói
+
+962
+00:33:12,679 --> 00:33:16,279
+témában. magánszemélyként is érdekes
+
+963
+00:33:15,000 --> 00:33:19,000
+lehet, de nyilván ez egy inkább egy
+
+964
+00:33:16,279 --> 00:33:21,120
+üzleti közösség, de itt egy 800 fős,
+
+965
+00:33:19,000 --> 00:33:23,120
+tehát komoly létszámmal lesznek jelenni.
+
+966
+00:33:21,120 --> 00:33:25,919
+És én is kaptam egy órát, képzeld el,
+
+967
+00:33:23,120 --> 00:33:28,960
+egy saját előadás megtartására a Bitcoin
+
+968
+00:33:25,919 --> 00:33:30,480
+témában. Ezen a második egyébként, amit
+
+969
+00:33:28,960 --> 00:33:32,360
+amikor lehetőséget kapok, illetve a
+
+970
+00:33:30,480 --> 00:33:34,159
+harmadik, de ezen a helyen második.
+
+971
+00:33:32,360 --> 00:33:38,039
+Korábban is voltak egy olyan durván
+
+972
+00:33:34,159 --> 00:33:39,200
+40-50 fő a teremben, nem kevés.
+
+973
+00:33:38,039 --> 00:33:40,880
+akkor is sikerült szemeket
+
+974
+00:33:39,200 --> 00:33:42,960
+felnyitogatni, sőt azok közül, akik
+
+975
+00:33:40,880 --> 00:33:45,120
+akkor hallgattak, többük már eljött
+
+976
+00:33:42,960 --> 00:33:47,080
+konferenciára azóta hozzánk, ősszel is
+
+977
+00:33:45,120 --> 00:33:48,799
+és most is, tavasszal. És megyünk előre.
+
+978
+00:33:47,080 --> 00:33:51,679
+Tényleg ez a Bitcoin téma, ez egy olyan
+
+979
+00:33:48,799 --> 00:33:54,960
+dolog, amit bárkor, bármikor elő tudok
+
+980
+00:33:51,679 --> 00:33:57,120
+hozni. Például a konferencia előtti
+
+981
+00:33:54,960 --> 00:34:00,360
+napon volt a Káv Holmes az építőipari
+
+982
+00:33:57,120 --> 00:34:02,440
+márkánknak a bemutatója és az országos
+
+983
+00:34:00,360 --> 00:34:04,200
+bemutatója is. És ott is a hogy
+
+984
+00:34:02,440 --> 00:34:07,840
+elmondtuk a technológiát meg, hogy mi
+
+985
+00:34:04,200 --> 00:34:09,839
+hogyan épül fel. A legutolsó slide-om az
+
+986
+00:34:07,840 --> 00:34:12,040
+volt, hogy van morting, hogy még egy
+
+987
+00:34:09,839 --> 00:34:14,079
+dolog, hogy engem az borzasztóan
+
+988
+00:34:12,040 --> 00:34:15,000
+motivál, hogy lakásokat tudunk eladni
+
+989
+00:34:14,079 --> 00:34:15,560
+bitcoinért.
+
+990
+00:34:15,000 --> 00:34:17,720
+>> Ühüm. Üm,
+
+991
+00:34:15,560 --> 00:34:20,000
+>> és nem csak nem csak Magyarországon majd
+
+992
+00:34:17,720 --> 00:34:22,760
+terve szerint, hanem Európában is,
+
+993
+00:34:20,000 --> 00:34:24,879
+globálisan is, tehát lakást Bitcoinért.
+
+994
+00:34:22,760 --> 00:34:26,599
+Úgyhogy ezt elmondtam a kifejezetten
+
+995
+00:34:24,879 --> 00:34:28,320
+szakmai közönségnek, kifejezetten a
+
+996
+00:34:26,599 --> 00:34:30,879
+banki közösségnek, kifejezetten a
+
+997
+00:34:28,320 --> 00:34:32,679
+hivatali közönségnek is. És én ott is
+
+998
+00:34:30,879 --> 00:34:34,480
+vállalom azt, hogy ez a Bitcoin ez egy
+
+999
+00:34:32,679 --> 00:34:37,200
+olyan dolog, amiért tényleg érdemes
+
+1000
+00:34:34,480 --> 00:34:39,200
+harcolni és feltűzni a zászlóra, hogy
+
+1001
+00:34:37,200 --> 00:34:40,359
+igenis én elfogadok bitcoint, igen, én
+
+1002
+00:34:39,200 --> 00:34:42,320
+hiszek abban, hogy lehet jobb a
+
+1003
+00:34:40,359 --> 00:34:45,079
+társadalom, hiszen egy politikamentes
+
+1004
+00:34:42,320 --> 00:34:47,440
+eszköz. A bitcoinnál nem kell senki felé
+
+1005
+00:34:45,079 --> 00:34:50,399
+elköteleződnöd, hogy én szeretem a
+
+1006
+00:34:47,440 --> 00:34:52,480
+Michael Sailert, vagy vagy nem szeretem,
+
+1007
+00:34:50,399 --> 00:34:55,159
+vagy szeretem a Trumpot azért, mert ő
+
+1008
+00:34:52,480 --> 00:34:57,480
+lesz állítólag az első kriptoprezident,
+
+1009
+00:34:55,159 --> 00:34:58,599
+vagy Bitcoin prezident, pedig nem is.
+
+1010
+00:34:57,480 --> 00:35:00,560
+Tehát nem kell a politikával
+
+1011
+00:34:58,599 --> 00:35:02,040
+foglalkoznod, nem kell egy nem kell egy
+
+1012
+00:35:00,560 --> 00:35:03,400
+cégben hinned. Nem, nem olyan, mint a
+
+1013
+00:35:02,040 --> 00:35:04,839
+Tesla, hogy szeretem az elektromos
+
+1014
+00:35:03,400 --> 00:35:08,040
+autókat, akkor nekem a Teslát is
+
+1015
+00:35:04,839 --> 00:35:10,520
+szeretnem kell. A Bitcoin az vállalatok,
+
+1016
+00:35:08,040 --> 00:35:13,560
+cégek és politikamentes, pénzügyi,
+
+1017
+00:35:10,520 --> 00:35:15,200
+digitális rendszer. És ezt érdemes a
+
+1018
+00:35:13,560 --> 00:35:17,680
+zászlóra tűzni. Úgyhogy ezért kérem
+
+1019
+00:35:15,200 --> 00:35:19,960
+minden egyes vállalkozótársamat, hogy
+
+1020
+00:35:17,680 --> 00:35:22,240
+igenis kezdjük el elfogadni a bitcoint.
+
+1021
+00:35:19,960 --> 00:35:24,599
+Ingyenes. Adom a lehetőséget, adom a
+
+1022
+00:35:22,240 --> 00:35:26,760
+tudást. Teljesen ingyen a te nyelveden
+
+1023
+00:35:24,599 --> 00:35:28,520
+meg lesz fogalmazva, a könyvelő nyelvén
+
+1024
+00:35:26,760 --> 00:35:31,000
+meg lesz fogalmazva jogszabályokkal és
+
+1025
+00:35:28,520 --> 00:35:33,079
+hivatkozásokkal. a jogászod részére meg
+
+1026
+00:35:31,000 --> 00:35:34,359
+lesz fogalmazva és minden Magyarországon
+
+1027
+00:35:33,079 --> 00:35:36,320
+legális lehetőség meg van arra, hogy
+
+1028
+00:35:34,359 --> 00:35:37,800
+elfogadj bitcoint és mindezt ingyen. Ha
+
+1029
+00:35:36,320 --> 00:35:39,800
+nagyobb a tétel, akkor természetesen
+
+1030
+00:35:37,800 --> 00:35:42,000
+érdemes egy BTCP szerver beállítani,
+
+1031
+00:35:39,800 --> 00:35:44,079
+vagy bármilyen más nagyipari eszközt
+
+1032
+00:35:42,000 --> 00:35:45,440
+erre, akár mondjuk az OSAN is
+
+1033
+00:35:44,079 --> 00:35:47,680
+elfogadhatna bitcoint például
+
+1034
+00:35:45,440 --> 00:35:49,680
+Magyarországon már holnap, már holnap
+
+1035
+00:35:47,680 --> 00:35:52,119
+után, mert a technológia és a rendszer
+
+1036
+00:35:49,680 --> 00:35:54,599
+képes rá, és ezek nem milliós bevezetési
+
+1037
+00:35:52,119 --> 00:35:56,520
+összegek, hanem ezek sokkal kisebbek. Ez
+
+1038
+00:35:54,599 --> 00:35:58,079
+az egyetlen üzenetem egyébként, amit így
+
+1039
+00:35:56,520 --> 00:36:00,319
+tényleg pluszba kihangsúlyoztam a
+
+1040
+00:35:58,079 --> 00:36:02,640
+korábbi konferenciákhoz képest.
+
+1041
+00:36:00,319 --> 00:36:04,359
+>> Még a bizalmi körhöz visszatérve az
+
+1042
+00:36:02,640 --> 00:36:06,720
+szerintem még azért is tök jó, hogy ott
+
+1043
+00:36:04,359 --> 00:36:08,480
+megjelensz és beszélsz erről, mert az
+
+1044
+00:36:06,720 --> 00:36:10,400
+egy dolog, hogy mondjuk ott azon a
+
+1045
+00:36:08,480 --> 00:36:12,640
+konferencián tudom én nem nem egy
+
+1046
+00:36:10,400 --> 00:36:13,880
+iszonyú széles kör, akikkel beszélsz, de
+
+1047
+00:36:12,640 --> 00:36:16,079
+úgy emlékszem, hogy a legutóbbi
+
+1048
+00:36:13,880 --> 00:36:18,960
+előadásod is, amit ott rögzítettek
+
+1049
+00:36:16,079 --> 00:36:20,960
+videóra, meg hangfelvétel készült, aztán
+
+1050
+00:36:18,960 --> 00:36:23,599
+az a YouTube-on tök jó nézettségre
+
+1051
+00:36:20,960 --> 00:36:26,720
+tetszet. valami több 100zres nézettsége
+
+1052
+00:36:23,599 --> 00:36:30,000
+volt, ami a Bizalmi körös akár az összes
+
+1053
+00:36:26,720 --> 00:36:32,520
+előadáshoz képest tök jól teljesített.
+
+1054
+00:36:30,000 --> 00:36:35,160
+Szerintem az is egy szuper dolog ebben,
+
+1055
+00:36:32,520 --> 00:36:37,560
+hogy egy újabb platform, ahol hiteles
+
+1056
+00:36:35,160 --> 00:36:39,720
+információhoz juthatnak olyan emberkék a
+
+1057
+00:36:37,560 --> 00:36:42,640
+Bitcoinról, akiknek lehet, hogy eszükbe
+
+1058
+00:36:39,720 --> 00:36:45,160
+se jut erről tájékozódni. Te mondjuk
+
+1059
+00:36:42,640 --> 00:36:47,480
+azon a platformon körülnéz, hogy milyen
+
+1060
+00:36:45,160 --> 00:36:50,440
+előadások vannak, és akkor belebotlik,
+
+1061
+00:36:47,480 --> 00:36:53,480
+és lehet, hogy így így jön rá, hogy
+
+1062
+00:36:50,440 --> 00:36:55,520
+akkor ez nem nem is egy piramisrendszer
+
+1063
+00:36:53,480 --> 00:36:57,920
+meg mit tudom én. És hogy lehet, hogy
+
+1064
+00:36:55,520 --> 00:37:00,880
+így így így kerül a helyére a puzzlenak
+
+1065
+00:36:57,920 --> 00:37:03,000
+egy olyan darabja, amitől azt érzi, hogy
+
+1066
+00:37:00,880 --> 00:37:05,400
+hogy ezzel neki valamiféle dolga van,
+
+1067
+00:37:03,000 --> 00:37:07,760
+mert ugye nem titkoltan, mindannyian nem
+
+1068
+00:37:05,400 --> 00:37:10,079
+első hallomásra
+
+1069
+00:37:07,760 --> 00:37:12,880
+kattantunk be a bitcointól, nem állt
+
+1070
+00:37:10,079 --> 00:37:14,880
+össze elsőre, hogy mi van. Nekem is a az
+
+1071
+00:37:12,880 --> 00:37:16,520
+első találkozásom, amikor így igazán
+
+1072
+00:37:14,880 --> 00:37:18,760
+intenzíven találkoztam vele, az olyan
+
+1073
+00:37:16,520 --> 00:37:21,319
+volt, hogy egy barátom írt egy
+
+1074
+00:37:18,760 --> 00:37:23,079
+köremailt, és akkor abban nagyon nagyon
+
+1075
+00:37:21,319 --> 00:37:24,880
+lelkesen írta azt, hogy mennyire
+
+1076
+00:37:23,079 --> 00:37:27,680
+fantasztikus ez, és hogy ezt is
+
+1077
+00:37:24,880 --> 00:37:30,040
+megoldja, meg arra is jó, és akármi. És
+
+1078
+00:37:27,680 --> 00:37:32,200
+ez nekem így elsőre ez túl sok volt, és
+
+1079
+00:37:30,040 --> 00:37:33,920
+így ugye azt gondoltam, hogy á itt
+
+1080
+00:37:32,200 --> 00:37:36,200
+valami nem stimmel, és így
+
+1081
+00:37:33,920 --> 00:37:38,920
+félrelapoztam, és nem tettem föl neki
+
+1082
+00:37:36,200 --> 00:37:41,280
+kérdéseket se, meg ilyesmi. És sok évvel
+
+1083
+00:37:38,920 --> 00:37:43,520
+később, amikor más vonalon találkoztam a
+
+1084
+00:37:41,280 --> 00:37:45,599
+bitcoinnal, akkor eszembe jutott, hogy a
+
+1085
+00:37:43,520 --> 00:37:47,480
+srácnak az emailje, akkor az lehet, hogy
+
+1086
+00:37:45,599 --> 00:37:49,800
+nem teljesen volt hülyeség, és akkor
+
+1087
+00:37:47,480 --> 00:37:51,680
+átze nekem az, hogy ezzel érdemes lehet
+
+1088
+00:37:49,800 --> 00:37:54,520
+foglalkozni, legalább olyan szinten az
+
+1089
+00:37:51,680 --> 00:37:57,240
+elején, hogy hogy elkezdek én magam
+
+1090
+00:37:54,520 --> 00:37:59,480
+utána olvasni, utána nézni
+
+1091
+00:37:57,240 --> 00:38:01,160
+információknak, hogy akkor konkrétan mi
+
+1092
+00:37:59,480 --> 00:38:03,680
+is ez, és nem egyszerűen arra
+
+1093
+00:38:01,160 --> 00:38:05,720
+támaszkodom, amit valakitől hallottam,
+
+1094
+00:38:03,680 --> 00:38:07,599
+és mindent elhiszek neki, hanem
+
+1095
+00:38:05,720 --> 00:38:09,920
+utánanézek magam, és beleteszem az
+
+1096
+00:38:07,599 --> 00:38:12,960
+energiát át, mert ugye attól lesz igazán
+
+1097
+00:38:09,920 --> 00:38:15,040
+a a miénk a egy tudás, hogyha azzal
+
+1098
+00:38:12,960 --> 00:38:17,480
+intenzíven foglalkozunk, és a Bitcoin
+
+1099
+00:38:15,040 --> 00:38:20,520
+meg kifejezetten egy ilyen téma, ami
+
+1100
+00:38:17,480 --> 00:38:22,560
+persze nem könnyű megérteni, de aki
+
+1101
+00:38:20,520 --> 00:38:25,119
+elkezd vele foglalkozni és a mélyére
+
+1102
+00:38:22,560 --> 00:38:28,800
+ásni, hogy mi is ez, azért fokról fokra
+
+1103
+00:38:25,119 --> 00:38:30,359
+egyre jobban meg tudjuk ezt érteni. És
+
+1104
+00:38:28,800 --> 00:38:32,720
+nem azt mondom, hogy az a cél, hogy egy
+
+1105
+00:38:30,359 --> 00:38:35,160
+szép napon teljesen megértsük, mert úgy
+
+1106
+00:38:32,720 --> 00:38:37,520
+tűnik, hogy ez nem igazán lehetséges.
+
+1107
+00:38:35,160 --> 00:38:40,319
+viszont minden egyes belefektetett
+
+1108
+00:38:37,520 --> 00:38:43,040
+munkaóra, vagy vagy minden minden 1000
+
+1109
+00:38:40,319 --> 00:38:45,200
+óra, amit beleftetünk, az is az is
+
+1110
+00:38:43,040 --> 00:38:48,640
+megtérül, mert tényleg egyre
+
+1111
+00:38:45,200 --> 00:38:51,440
+komplexebben, egyre tisztábban látunk rá
+
+1112
+00:38:48,640 --> 00:38:53,000
+erre a tényleg eszméletlen összetett
+
+1113
+00:38:51,440 --> 00:38:54,680
+információhalmaz
+
+1114
+00:38:53,000 --> 00:38:57,839
+meg nem is tudom minek lehet ezt
+
+1115
+00:38:54,680 --> 00:38:59,480
+nevezni. talán egy újfajta világképet is
+
+1116
+00:38:57,839 --> 00:39:01,200
+adem azt gondolom
+
+1117
+00:38:59,480 --> 00:39:03,359
+>> abszolút. Tehát teljesen ugye maga a
+
+1118
+00:39:01,200 --> 00:39:05,040
+pénz irányítja a világot és ez nem
+
+1119
+00:39:03,359 --> 00:39:06,960
+meglepő egyébként ez nem egy pejoratív
+
+1120
+00:39:05,040 --> 00:39:07,880
+dolog, hogy hát persze a pénz irányítja
+
+1121
+00:39:06,960 --> 00:39:09,920
+a vélet nem. Hát ez teljesen
+
+1122
+00:39:07,880 --> 00:39:11,119
+természetes. Ugye az emberi koordinációt
+
+1123
+00:39:09,920 --> 00:39:13,079
+bármit, amit látsz, azt nem tudsz
+
+1124
+00:39:11,119 --> 00:39:15,319
+egyedül előállítani szinte semmit, amit
+
+1125
+00:39:13,079 --> 00:39:17,720
+megfogsz. Egy ember nem tud önmaga
+
+1126
+00:39:15,319 --> 00:39:19,560
+előállítani semmilyen fejlettebb dolgot.
+
+1127
+00:39:17,720 --> 00:39:22,200
+Ehhez emberi koordináció kell. És
+
+1128
+00:39:19,560 --> 00:39:24,880
+sokszor nemhogy városhatárokon, hanem
+
+1129
+00:39:22,200 --> 00:39:27,359
+globálisan átévelő koordináció. Most már
+
+1130
+00:39:24,880 --> 00:39:29,319
+amiről beszélünk, és a koordinációnak a
+
+1131
+00:39:27,359 --> 00:39:31,400
+nyelve, a kommunikációs nyelve, a
+
+1132
+00:39:29,319 --> 00:39:33,960
+protokolja az a pénz. És most van egy
+
+1133
+00:39:31,400 --> 00:39:35,560
+olyan protokoll, ami nem jól működik és
+
+1134
+00:39:33,960 --> 00:39:37,079
+díszfunkcionális.
+
+1135
+00:39:35,560 --> 00:39:38,599
+Gondold el, hogyha olyan, mintogyha az
+
+1136
+00:39:37,079 --> 00:39:40,480
+AI-nak mondasz valamit, de össze
+
+1137
+00:39:38,599 --> 00:39:41,720
+összekeverés hülyeségeket beszél. Most
+
+1138
+00:39:40,480 --> 00:39:43,800
+ilyen ilyen rendszert használunk,
+
+1139
+00:39:41,720 --> 00:39:46,200
+ahelyjett, hogy a tiszta szó és a
+
+1140
+00:39:43,800 --> 00:39:47,839
+őszinte egyenes és valódi szót használ,
+
+1141
+00:39:46,200 --> 00:39:50,760
+az igaz szót használnák, ami pedig a
+
+1142
+00:39:47,839 --> 00:39:52,680
+Bitcoin. Úgyhogy ez nem meglepő, hogy
+
+1143
+00:39:50,760 --> 00:39:55,040
+hogy ennyire össze vagyunk kavarodva.
+
+1144
+00:39:52,680 --> 00:39:56,960
+Úgyhogy ez a ez az útunk, ez az útja
+
+1145
+00:39:55,040 --> 00:39:59,440
+mindenkinek. Igen, mert szerintem tök
+
+1146
+00:39:56,960 --> 00:40:02,200
+nagy tök nagy erő rejlik abban, hogy
+
+1147
+00:39:59,440 --> 00:40:04,839
+minél több ember rálásson arra, hogy
+
+1148
+00:40:02,200 --> 00:40:08,440
+igazából a világban levő problémáknak
+
+1149
+00:40:04,839 --> 00:40:11,280
+egy jelentős része a a rossz rosszul
+
+1150
+00:40:08,440 --> 00:40:13,640
+operáló pénzügyi rendszerrel és a rossz
+
+1151
+00:40:11,280 --> 00:40:15,440
+tulajdonságokkal rendelkező pénzzel
+
+1152
+00:40:13,640 --> 00:40:18,400
+kapcsolódik össze. És nem úgy
+
+1153
+00:40:15,440 --> 00:40:20,599
+állíthatjuk meg mondjuk a a fölösleges
+
+1154
+00:40:18,400 --> 00:40:23,000
+fogyasztást, hogy visszafolytjuk, meg
+
+1155
+00:40:20,599 --> 00:40:26,160
+túlszabályozzuk a rendszereket és
+
+1156
+00:40:23,000 --> 00:40:29,200
+betiltjuk a különböző dolgokat. hanem a
+
+1157
+00:40:26,160 --> 00:40:31,760
+korrumpálható pénzt kezdjük el egyre
+
+1158
+00:40:29,200 --> 00:40:33,680
+kevesebb területen használni, és egyre
+
+1159
+00:40:31,760 --> 00:40:36,319
+egyre jobban áthatja mondjuk a a
+
+1160
+00:40:33,680 --> 00:40:38,640
+rendszereinket egy olyan átlátható
+
+1161
+00:40:36,319 --> 00:40:40,480
+pénzrendszer, amit senki nem tud
+
+1162
+00:40:38,640 --> 00:40:43,160
+önkényesen manipulálni
+
+1163
+00:40:40,480 --> 00:40:44,680
+>> valóban. Tehát például itt egy tipikus
+
+1164
+00:40:43,160 --> 00:40:46,599
+eset most ezzel fogunk lehet
+
+1165
+00:40:44,680 --> 00:40:48,119
+szembesülni, lehet, hogy nem. Sokan
+
+1166
+00:40:46,599 --> 00:40:50,880
+mondják, hogy most Európában az
+
+1167
+00:40:48,119 --> 00:40:53,200
+üzemanyag el fog fogyni. Igazából nem az
+
+1168
+00:40:50,880 --> 00:40:55,079
+üzemanyag fogy el, hanem azon az áron,
+
+1169
+00:40:53,200 --> 00:40:58,119
+amin sok nemzet bevezette hasonlóan az
+
+1170
+00:40:55,079 --> 00:41:00,359
+ársapkát, ahogy mi is, valaki pedig nem.
+
+1171
+00:40:58,119 --> 00:41:01,880
+Az ársapkás áron fog elfogyni a benzin
+
+1172
+00:41:00,359 --> 00:41:04,160
+és az üzemanyag. Hogyha hagyjuk a
+
+1173
+00:41:01,880 --> 00:41:06,760
+szabályat piacot működni, akkor az árak
+
+1174
+00:41:04,160 --> 00:41:08,760
+addig emelkednek, míg az a valós kereset
+
+1175
+00:41:06,760 --> 00:41:10,839
+kínálatba be nem fog állni. És igen, a
+
+1176
+00:41:08,760 --> 00:41:12,839
+fogyasztók mi is meg vagyunk vezetve,
+
+1177
+00:41:10,839 --> 00:41:15,880
+mert sokan abban a hiszemben élnek, hogy
+
+1178
+00:41:12,839 --> 00:41:18,160
+40 Ft a kW ára jelenleg Magyarországon
+
+1179
+00:41:15,880 --> 00:41:19,839
+anny az előállítási ára. Pedig lehet,
+
+1180
+00:41:18,160 --> 00:41:21,640
+hogy messze nem. És így nem tudok
+
+1181
+00:41:19,839 --> 00:41:22,920
+racionális és gazdasági döntést hozni
+
+1182
+00:41:21,640 --> 00:41:24,280
+még magánszemélyként sem, mert meg
+
+1183
+00:41:22,920 --> 00:41:26,119
+vagyok vezetve, mert nem mindenki tud
+
+1184
+00:41:24,280 --> 00:41:27,440
+utána járni annak, hogy valóban mennyi
+
+1185
+00:41:26,119 --> 00:41:29,200
+az áramára, és még azt is
+
+1186
+00:41:27,440 --> 00:41:31,000
+megkérdőjelezik kétszer a politikai
+
+1187
+00:41:29,200 --> 00:41:33,359
+narratívákban, hogy most az-e vagy nem
+
+1188
+00:41:31,000 --> 00:41:35,119
+az. És a valóság igazából szürke, mert
+
+1189
+00:41:33,359 --> 00:41:37,319
+valamikor sokkal több, valamikor sokkal
+
+1190
+00:41:35,119 --> 00:41:39,280
+kevesebb. Ugyanígy az üzemanyagnál is
+
+1191
+00:41:37,319 --> 00:41:40,640
+egy család akkor tud felelősségteljesen
+
+1192
+00:41:39,280 --> 00:41:43,440
+dönteni, hog most leugrok-e mondjuk
+
+1193
+00:41:40,640 --> 00:41:45,520
+Debrecenbe fürdeni egy 100 km-re egy
+
+1194
+00:41:43,440 --> 00:41:47,200
+Hajdúszobószó városba, mondjuk, hogy
+
+1195
+00:41:45,520 --> 00:41:49,079
+megérje neki, hogyha tudja, hogy
+
+1196
+00:41:47,200 --> 00:41:50,960
+mennyibe kerül az üzemanyag. De ha nem
+
+1197
+00:41:49,079 --> 00:41:52,960
+tudja a valós árat, csak azt az árat
+
+1198
+00:41:50,960 --> 00:41:54,440
+látja, ami kedvező számára, és akkor
+
+1199
+00:41:52,960 --> 00:41:56,599
+hirtelen azt mondják neki, hogy ja bocs,
+
+1200
+00:41:54,440 --> 00:41:58,280
+hát ennyire elfogyott, akkor mindenki
+
+1201
+00:41:56,599 --> 00:42:00,119
+meglepődik és nekimegy a társadalom a
+
+1202
+00:41:58,280 --> 00:42:01,839
+falnak. Ahelyett, hogy észerűen
+
+1203
+00:42:00,119 --> 00:42:03,319
+kommunikálnánk azt, hogy srácok, ez
+
+1204
+00:42:01,839 --> 00:42:05,000
+folyamatosan emelkedik, mert most kicsit
+
+1205
+00:42:03,319 --> 00:42:06,359
+kevesebb van belőle, és csoben akartok
+
+1206
+00:42:05,000 --> 00:42:08,000
+utazni, ez így kicsit drágább, akkor
+
+1207
+00:42:06,359 --> 00:42:10,160
+mindenképp el tudná dönteni, hogy mire
+
+1208
+00:42:08,000 --> 00:42:11,680
+fordítja azokat a kilométereket, és nem
+
+1209
+00:42:10,160 --> 00:42:13,040
+pedig azt kéne hallgatnunk Fondá
+
+1210
+00:42:11,680 --> 00:42:14,680
+Leentől, hogy hát most már akkor
+
+1211
+00:42:13,040 --> 00:42:16,880
+mindenki szorítkozzon meg, és akkor ne
+
+1212
+00:42:14,680 --> 00:42:19,559
+utazzon sehova. Hadd döntse el mindenki
+
+1213
+00:42:16,880 --> 00:42:20,720
+maga, hogy az ő útja mennyire fontos. És
+
+1214
+00:42:19,559 --> 00:42:22,520
+ezt pedig úgy tud eldönteni, hogy
+
+1215
+00:42:20,720 --> 00:42:24,599
+gazdasági számításokat végz, hogy nekem
+
+1216
+00:42:22,520 --> 00:42:26,559
+megéri el menni vagy nem, mert valakinek
+
+1217
+00:42:24,599 --> 00:42:28,559
+lehet, hogy megéri 1000 km-t is utazni
+
+1218
+00:42:26,559 --> 00:42:30,400
+egy héten keresztül minden nap, mert
+
+1219
+00:42:28,559 --> 00:42:32,240
+olyan fontos családot vagy személyt
+
+1220
+00:42:30,400 --> 00:42:34,119
+látogat meg, ami neki kifejezetten
+
+1221
+00:42:32,240 --> 00:42:36,280
+kritikusan fontos, mert akit a kórházba
+
+1222
+00:42:34,119 --> 00:42:37,880
+látogat, és oda vissza kell utazgálnia.
+
+1223
+00:42:36,280 --> 00:42:39,800
+Azt mondja, hogy neki megéri. Viszont
+
+1224
+00:42:37,880 --> 00:42:42,119
+hogyha mindenki egyforma áron kapja az
+
+1225
+00:42:39,800 --> 00:42:43,960
+üzemanyagot, és mindenki lóti futizik
+
+1226
+00:42:42,119 --> 00:42:45,559
+oda, ahova egyébként neki nem érné, azt
+
+1227
+00:42:43,960 --> 00:42:48,280
+se fog kapni, akinek kifejezetten
+
+1228
+00:42:45,559 --> 00:42:50,319
+megérné és szüksége lenne rá. Hát
+
+1229
+00:42:48,280 --> 00:42:52,680
+ilyenek és sorolhatnánk, hogy hány ilyen
+
+1230
+00:42:50,319 --> 00:42:55,400
+példát lehetne hozni a szabadpiac
+
+1231
+00:42:52,680 --> 00:42:56,359
+megsértéséből adódó társadalmi
+
+1232
+00:42:55,400 --> 00:42:58,440
+problémákra.
+
+1233
+00:42:56,359 --> 00:43:00,729
+>> Ja, ja, mert lehet, hogy ezt már
+
+1234
+00:42:58,440 --> 00:43:01,160
+100-szor elmondtuk, csak másképp.
+
+1235
+00:43:00,729 --> 00:43:02,760
+[nevetés]
+
+1236
+00:43:01,160 --> 00:43:04,880
+>> Mindig ugyanarról beszélünk, a törtelem
+
+1237
+00:43:02,760 --> 00:43:06,839
+mindig ismétlőmagát, tehát nincs új nap
+
+1238
+00:43:04,880 --> 00:43:08,160
+alatt. ugyanezt lejátszották már több
+
+1239
+00:43:06,839 --> 00:43:10,240
+100 évvel ezelőtt is különböző
+
+1240
+00:43:08,160 --> 00:43:12,520
+korszakokban, csak más volt a háttér,
+
+1241
+00:43:10,240 --> 00:43:15,319
+más volt a technika, de a napvégén az
+
+1242
+00:43:12,520 --> 00:43:18,079
+ember és az igényei és a hajlíthatósága
+
+1243
+00:43:15,319 --> 00:43:20,079
+az embernek, hogy meg tud feledkezni
+
+1244
+00:43:18,079 --> 00:43:22,520
+önmagáról és nem mindig a közösség
+
+1245
+00:43:20,079 --> 00:43:24,319
+érdekeiben dönt, ez ez örök. Ezért kell
+
+1246
+00:43:22,520 --> 00:43:25,520
+rendszerekben megbíznunk, és nem pedig
+
+1247
+00:43:24,319 --> 00:43:27,319
+emberekben, bármennyire is
+
+1248
+00:43:25,520 --> 00:43:30,599
+kontraproduktívnak tűnik, vagy nem
+
+1249
+00:43:27,319 --> 00:43:33,000
+humánosnak, de a nap végén a természet
+
+1250
+00:43:30,599 --> 00:43:34,960
+nem az emberekből indul ki. A föld nem
+
+1251
+00:43:33,000 --> 00:43:37,800
+azért teremtett szerintem, hogy az
+
+1252
+00:43:34,960 --> 00:43:39,920
+emberiséget elviselje, hanem egyszerűen
+
+1253
+00:43:37,800 --> 00:43:41,280
+csak van, és mi vagy igazodunk hozzá,
+
+1254
+00:43:39,920 --> 00:43:42,800
+vagy nem. Viszont, hogyha nem a
+
+1255
+00:43:41,280 --> 00:43:44,880
+valóságot látjuk, akkor előbb-utóbb
+
+1256
+00:43:42,800 --> 00:43:46,599
+nekimegyünk a falnak. És amikor a
+
+1257
+00:43:44,880 --> 00:43:48,319
+kormányok és a politika torzítja ezt a
+
+1258
+00:43:46,599 --> 00:43:50,280
+valóságot, akkor nem tudjuk eldönteni,
+
+1259
+00:43:48,319 --> 00:43:52,440
+hogy nekünk megéri-e valójában az, amit
+
+1260
+00:43:50,280 --> 00:43:54,440
+csinálunk, vagy nem. Ha viszont a
+
+1261
+00:43:52,440 --> 00:43:56,200
+szabadpiacot látjuk, akkor egyértelműen
+
+1262
+00:43:54,440 --> 00:43:58,440
+kijönnek
+
+1263
+00:43:56,200 --> 00:44:00,760
+kiütköznek egyből a tünetek, és nem nem
+
+1264
+00:43:58,440 --> 00:44:03,839
+kendőzzük el őket. Igen. Erről jut
+
+1265
+00:44:00,760 --> 00:44:05,480
+eszembe az a az a gesztus, vagy az a
+
+1266
+00:44:03,839 --> 00:44:07,200
+momentum, amit ugye rendszeresen
+
+1267
+00:44:05,480 --> 00:44:09,520
+szoktunk még mondani, hogy ehhez fontos
+
+1268
+00:44:07,200 --> 00:44:12,119
+az egyéni felelősségvállalás, hogy mi
+
+1269
+00:44:09,520 --> 00:44:14,400
+kifejezzük azt a pénzhasználatunkkal,
+
+1270
+00:44:12,119 --> 00:44:16,400
+hogy mi mire tesszük le a voksunkat, és
+
+1271
+00:44:14,400 --> 00:44:19,240
+nem egyszerűen csak azt várjuk, hogy
+
+1272
+00:44:16,400 --> 00:44:21,920
+valaki ezt lehetővé, meg azt
+
+1273
+00:44:19,240 --> 00:44:24,280
+legalizálják, meg azt promotálják, hanem
+
+1274
+00:44:21,920 --> 00:44:27,960
+mi kifejezzük azt, hogy mi mit tartunk
+
+1275
+00:44:24,280 --> 00:44:29,960
+egy etikus és jó dolognak. Aztán persze
+
+1276
+00:44:27,960 --> 00:44:32,319
+lehet, hogy ennek elsőre úgy tűnik, hogy
+
+1277
+00:44:29,960 --> 00:44:34,119
+semmi hatása nincsen, vagy túl kicsi, de
+
+1278
+00:44:32,319 --> 00:44:36,800
+ugye ezt mi minél többen, minél
+
+1279
+00:44:34,119 --> 00:44:39,079
+rendszeresebben végezzük, törvényszerűen
+
+1280
+00:44:36,800 --> 00:44:41,800
+a társadalomban látszania kell a
+
+1281
+00:44:39,079 --> 00:44:43,559
+hatásának. Meg ugye, hogyha egyre jobban
+
+1282
+00:44:41,800 --> 00:44:45,640
+összekapcsolódunk, és ahogy ez a
+
+1283
+00:44:43,559 --> 00:44:47,760
+konferencia is lehetővé teszi azt, hogy
+
+1284
+00:44:45,640 --> 00:44:49,920
+így rájöjjünk arra, hogy még még még
+
+1285
+00:44:47,760 --> 00:44:51,640
+vannak köztünk olyan új arcok, akikről
+
+1286
+00:44:49,920 --> 00:44:54,440
+nem is gondoltuk volna, hogy ez így
+
+1287
+00:44:51,640 --> 00:44:56,520
+foglalkoztatja őket, és olyan pontjáról
+
+1288
+00:44:54,440 --> 00:44:59,040
+jönnek a társadalomnak, vagy olyan
+
+1289
+00:44:56,520 --> 00:45:01,880
+szakmabeli embert is érdekel a Bitcoin,
+
+1290
+00:44:59,040 --> 00:45:03,720
+amiről eddig nem is gondoltuk volna, ez
+
+1291
+00:45:01,880 --> 00:45:06,400
+így egyre jobban át tudja szőni a
+
+1292
+00:45:03,720 --> 00:45:08,880
+társadalmat, és nem szimplán annak lesz
+
+1293
+00:45:06,400 --> 00:45:12,440
+egyik napról a másikra egy hirtelen
+
+1294
+00:45:08,880 --> 00:45:14,680
+hatása. a hogy egy döntéshozó egyetért
+
+1295
+00:45:12,440 --> 00:45:17,359
+azzal, hogy a bitcoinerek mit akarnak,
+
+1296
+00:45:14,680 --> 00:45:20,119
+hanem egyszerűen ezt mi szép lassan
+
+1297
+00:45:17,359 --> 00:45:22,520
+szinte észrevétlenül a háttérben
+
+1298
+00:45:20,119 --> 00:45:25,040
+végezzük napról napra, és ez fokról
+
+1299
+00:45:22,520 --> 00:45:27,119
+fokra ki tudja fejteni a hatását. És
+
+1300
+00:45:25,040 --> 00:45:29,599
+aztán ehhez meg előbb-utóbb igazodnia
+
+1301
+00:45:27,119 --> 00:45:31,800
+kell akár a politikai vezetőknek is,
+
+1302
+00:45:29,599 --> 00:45:34,079
+mert ugye ami érdekli az embereket, meg
+
+1303
+00:45:31,800 --> 00:45:36,760
+amivel foglalkoznak, arról ők is
+
+1304
+00:45:34,079 --> 00:45:39,319
+előbb-utóbb elkezdenek beszélni, és egy
+
+1305
+00:45:36,760 --> 00:45:41,640
+szűk csoportnak az érdekeit is már
+
+1306
+00:45:39,319 --> 00:45:43,200
+megpróbálják képviselni, mert rájönnek
+
+1307
+00:45:41,640 --> 00:45:43,760
+arra, hogy nem is olyan szűk ez a
+
+1308
+00:45:43,200 --> 00:45:45,480
+csoport.
+
+1309
+00:45:43,760 --> 00:45:46,280
+>> Egyre vastagabb lesz ez a csoport. Én
+
+1310
+00:45:45,480 --> 00:45:48,079
+úgy gondolom
+
+1311
+00:45:46,280 --> 00:45:50,240
+>> egy gondolat még így a végére, mert
+
+1312
+00:45:48,079 --> 00:45:53,280
+lassan most már a podcastnak a végére
+
+1313
+00:45:50,240 --> 00:45:55,119
+érünk. volt egy nagyon különleges
+
+1314
+00:45:53,280 --> 00:45:57,760
+panelbeszélgetés ugye a konferencián, ez
+
+1315
+00:45:55,119 --> 00:45:59,440
+a generációk panelje, ahol most már a
+
+1316
+00:45:57,760 --> 00:46:01,280
+fiatalok, mert az idősebb generáció is
+
+1317
+00:45:59,440 --> 00:46:04,200
+helyet kapott, és Tamás is a színpadon
+
+1318
+00:46:01,280 --> 00:46:07,160
+volt, aki 81 éves,
+
+1319
+00:46:04,200 --> 00:46:08,839
+és egyrészről nagyon megható volt,
+
+1320
+00:46:07,160 --> 00:46:11,040
+amiket mondott. Üm,
+
+1321
+00:46:08,839 --> 00:46:13,520
+>> másrész pedig az jutott róla eszembe,
+
+1322
+00:46:11,040 --> 00:46:15,720
+hogy amikor azt mondta, hogy 56-ban
+
+1323
+00:46:13,520 --> 00:46:17,559
+11 éves korában megtapasztalt először,
+
+1324
+00:46:15,720 --> 00:46:19,200
+hogy milyen a szabadság, és ugye
+
+1325
+00:46:17,559 --> 00:46:21,559
+mindannyian tudjuk, hogy 56-os események
+
+1326
+00:46:19,200 --> 00:46:22,960
+milyenek voltak, és mi történt akkor, és
+
+1327
+00:46:21,559 --> 00:46:25,520
+én úgy gondolom, hogy most ugyanazokban
+
+1328
+00:46:22,960 --> 00:46:29,240
+a években járunk, csak más a díszlet,
+
+1329
+00:46:25,520 --> 00:46:30,880
+más a technika, más a köntös. Viszont
+
+1330
+00:46:29,240 --> 00:46:32,119
+amit Szatosinak a Moto elindított a
+
+1331
+00:46:30,880 --> 00:46:34,000
+Bitcoin hálózatával, az egy
+
+1332
+00:46:32,119 --> 00:46:36,119
+történeljelentőségű tett, én úgy
+
+1333
+00:46:34,000 --> 00:46:38,440
+gondolom. Úgyhogy úgy úgy gondoljatok a
+
+1334
+00:46:36,119 --> 00:46:40,200
+tetteitekre és a arra, hogy milyen
+
+1335
+00:46:38,440 --> 00:46:42,559
+nyomot tudtok hagyni a világban, hogy ti
+
+1336
+00:46:40,200 --> 00:46:44,800
+most igazából a nulla évhez nagyon
+
+1337
+00:46:42,559 --> 00:46:46,680
+nagyon közel álltok. Ugyanis ez az egész
+
+1338
+00:46:44,800 --> 00:46:49,400
+mozgalom, ez az egész Bitcoin hálózat,
+
+1339
+00:46:46,680 --> 00:46:52,440
+ez még csak 17 éves, és ez most indult
+
+1340
+00:46:49,400 --> 00:46:54,520
+még csak be szinte. És ki, ha nem ti
+
+1341
+00:46:52,440 --> 00:46:55,920
+tudjátok alakítani a Bitcoinnak az
+
+1342
+00:46:54,520 --> 00:46:57,760
+életét és a társadalomnak a
+
+1343
+00:46:55,920 --> 00:46:59,760
+megjavítását, akik már tudjátok, hogy mi
+
+1344
+00:46:57,760 --> 00:47:01,040
+a Bitcoin és hogy miért fontos. Én úgy
+
+1345
+00:46:59,760 --> 00:47:03,160
+gondolom, már több 100 ember tudja
+
+1346
+00:47:01,040 --> 00:47:05,359
+Magyarországon. Ez egy nagyon erős mag
+
+1347
+00:47:03,160 --> 00:47:07,160
+és nagyon erős réteg. És ha tudod, ha
+
+1348
+00:47:05,359 --> 00:47:08,839
+látod, ha érzed, hogy miről van szó,
+
+1349
+00:47:07,160 --> 00:47:11,319
+akkor szerintem próbáld meg elmondani
+
+1350
+00:47:08,839 --> 00:47:13,680
+melletted lévőnek, és tényleg fogadjatok
+
+1351
+00:47:11,319 --> 00:47:15,480
+el bitcoint ti is fizetésképpen, hogy ez
+
+1352
+00:47:13,680 --> 00:47:17,640
+a hálózat tovább tudjon növekedni, és ki
+
+1353
+00:47:15,480 --> 00:47:18,599
+tudja fejteni az áldásos társadalmi
+
+1354
+00:47:17,640 --> 00:47:22,400
+hatásait.
+
+1355
+00:47:18,599 --> 00:47:24,720
+>> Ó, je, szuper, köszönöm szépen. Örülök,
+
+1356
+00:47:22,400 --> 00:47:26,440
+hogy a végén ezeket is behoztad. Akkor
+
+1357
+00:47:24,720 --> 00:47:29,119
+köszi szépen neked is, meg a
+
+1358
+00:47:26,440 --> 00:47:31,839
+hallgatóknak, nézőknek a figyelmet. És
+
+1359
+00:47:29,119 --> 00:47:34,839
+akkor jövő héten megjelentkezünk egy
+
+1360
+00:47:31,839 --> 00:47:38,079
+újabb epizóddal. Ide majd bevágjuk, amit
+
+1361
+00:47:34,839 --> 00:47:42,760
+még érdemes tudni. Böngészétek a 21
+
+1362
+00:47:38,079 --> 00:47:45,960
+folyamatosan fejlődő honlapját a 21.
+
+1363
+00:47:42,760 --> 00:47:47,640
+címen. Olvassátok a Bitcoin blog cikkeit
+
+1364
+00:47:45,960 --> 00:47:50,280
+a bitcoinmentor.hu
+
+1365
+00:47:47,640 --> 00:47:52,960
+honlapon, és szintén itt találtok
+
+1366
+00:47:50,280 --> 00:47:56,040
+információt Bitcoin tanácsadási,
+
+1367
+00:47:52,960 --> 00:47:57,960
+mentorállási szolgáltatásunkról.
+
+1368
+00:47:56,040 --> 00:48:00,520
+Támogatóink Miskolc Tapolca és
+
+1369
+00:47:57,960 --> 00:48:02,559
+Hajdúszoboszló bitcoint elfogadó és
+
+1370
+00:48:00,520 --> 00:48:05,880
+Bitcoint tartalékoló négy csillagos
+
+1371
+00:48:02,559 --> 00:48:07,599
+wellness szállodái, a Hotel Aurora és a
+
+1372
+00:48:05,880 --> 00:48:10,559
+Hotellantis,
+
+1373
+00:48:07,599 --> 00:48:12,760
+és a Firefish üzeni, hogy ne adjátok el
+
+1374
+00:48:10,559 --> 00:48:14,319
+a bitcoinotokat.
+
+1375
+00:48:12,760 --> 00:48:16,440
+illetve ismételjük meg azt, hogy és
+
+1376
+00:48:14,319 --> 00:48:19,359
+akkor a következő az ötödik Bitcoin
+
+1377
+00:48:16,440 --> 00:48:21,559
+Miskolc konferencia az most már újra
+
+1378
+00:48:19,359 --> 00:48:23,040
+Miskolcon lesz, mert ugye ebből szokott
+
+1379
+00:48:21,559 --> 00:48:24,920
+lenni egy kis képzavar, hogy ez a
+
+1380
+00:48:23,040 --> 00:48:25,800
+Bitcoin Miskolc de tavasszal
+
+1381
+00:48:24,920 --> 00:48:27,319
+Hajdúszobosztól
+
+1382
+00:48:25,800 --> 00:48:28,520
+>> legább jobban figyeltek.
+
+1383
+00:48:27,319 --> 00:48:31,079
+>> Igen.
+
+1384
+00:48:28,520 --> 00:48:34,280
+>> 2026. november 20 és 22 között lesz
+
+1385
+00:48:31,079 --> 00:48:37,040
+Miskolcon a Hotel Aurórában Miskolc
+
+1386
+00:48:34,280 --> 00:48:40,040
+Tapolcán. Következő Bitcoin Miskolc.
+
+1387
+00:48:37,040 --> 00:48:42,160
+Szuper. Köszi szépen még egyszer, és
+
+1388
+00:48:40,040 --> 00:48:46,160
+akkor mindenkinek minden jót.
+
+1389
+00:48:42,160 --> 00:48:46,160
+>> Köszönöm szépen. Sziasztok. Sziasztok.
+

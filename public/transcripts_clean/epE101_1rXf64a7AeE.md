@@ -1,205 +1,381 @@
-Ez egy újabb szolgáltatása a Krakennek, ahol lehet ilyen kis fizikai bankkártyát igényelni, teljesen ingyen. Alapból ennek is nulla az egyenlege, és át kell tölteni a fő Krakenes tárcánkból. Áttettem a Krakenből 0,0087 bitcoint, aztán átmentem a Spárba, és így vásároltam vele 18 eurónyit – kaptam még 0.5% visszatérítést is. Kiszámoltam az aznapi árfolyamokkal: középárfolyamon számolta át a forintot euróba.
+Ez egy újabb szolgáltatása a Krakennek, ahol lehet ilyen kis fizikai bankkártyát igényelni, teljesen ingyen. Úgy működik, hogy alapból ennek is nulla az egyenlege, és át kell tölteni a fő krakenes tárcánkból. Föl lehet tölteni befizetéssel, akár bitcoint.
+
+Nemrég kezdtem használni. Először áttettem a Krakenből — itt mutatja, 50 eurót, ami 49,96 lett a végén; de igazából bitcoint tettem át, tehát 0,0087 bitcoint. Aztán átmentem a Spárba, és vásároltam vele 18 eurónyit — és kaptam még 1% visszatérítést is.
+
+Kiszámoltam az aznapi árfolyamokkal: középárfolyamon számolta át a forintot euróba.
 
 – Az barátságos.
 
-– Tehát abban a pillanatban, hogy fizetsz ezzel a Krak kártyával, a háttérben középárfolyamon eladja a bitcoint, és úgy fizeti ki. Először euróra, aztán forintra váltódik.
+– Tehát abban a pillanatban, hogy fizetsz ezzel a Krak-kártyával, akkor ő a háttérben középárfolyamon eladja a bitcoint, és úgy fizeti ki.
 
-Sziasztok! Üdv mindenkinek! Ez itt a 101. epizód, a HUSZONEGY Bitcoin Podcast. Mai vendégünk Tamás.
+– Igen. Először euróra, aztán forintra váltódik.
 
-– Sziasztok! Helló!
+---
 
-– Nem is vendég, állandó tagunk. Mai nap arra gondoltunk, hogy belemegyünk, mert Tamás hozott egy nagyon jó megoldást a kisháztartások számára elérhető on és off ramp megoldáshoz. Én se hallottam róla, úgyhogy ez nagyon új dolog – ezt szeretnénk bemutatni, illetve majd elmegyünk adóbevallás irányba is, azt elég jól tudom már, mint te is.
+Sziasztok! Üdv mindenkinek! Ez itt a 101. epizód. A HUSZONEGY Bitcoin Podcast — már el is felejtettem, hogy hívnak minket. (nevetés) A mai vendégünk Tamás.
 
-A Bitcoin árfolyam körülbelül ugyanannyi, mint amikor legutoljára itt jártam.
+– Sziasztok!
 
-– Pedig próbáltad pumpálni.
+– Helló! Nem is vendég, állandó tagunk, nem? Szóval itt nem kell vendégeskedni.
+
+Ma arra gondoltunk, hogy belemegyünk egy dologba, mert Tamás hozott egy nagyon jó megoldást: a kis hazánk lakói számára elérhető on- és off-ramp megoldást. Én se hallottam róla, úgyhogy ez nagyon új dolog. Illetve majd elmegyünk olyan irányokba is, hogy mit lehet, mit nem — adóbevallás, ilyenek.
+
+Mi újság veletek?
+
+– Hát nem történik semmi.
+
+– Semmi. A Bitcoin-árfolyam kábé ugyanannyi, mint amikor legutoljára itt jártam, ha jól emlékszem.
+
+– Pedig próbáltad pumpálni. (nevetés)
 
 – Akkor biztos a világ tök nyugodt.
 
-– Igen, a káosz az állandósult.
+– Igen. A káosz az állandósult.
 
-– A 21 millió az 21 millió. Annak az akárhányad része ugyanannyi. Ez a lényeg. Egy dolgot tapasztalok: amióta decemberben megszűnt a Revolut, amiről itt legutóbb beszéltem, illetve januárban a Strike is beszüntette magyarországi működését, azóta legalább négy ember megkeresett privátban, hogy hol vegyen most bitcoint, mit csináljon. Mindenkinek azt javasoltam, hogy van egy tőzsde, amit én 2017 óta használok, és azóta tök jól elvagyok vele, még nem volt vele semmi probléma. Ezt úgy hívják, hogy [Kraken](https://kraken.com).
+– A 21 millió akárhányad része az ugyanannyi. Ez a lényeg.
+– Egy dolgot tapasztalok, amióta decemberben megszűnt a Revolut — amiről itt legutóbb beszéltem —, illetve aztán januárban a Strike is beszüntette a magyarországi működését, sajnos. Azóta legalább négy ember megkeresett privátban, hogy akkor most hol vegyenek bitcoint, mit csináljanak.
 
-Az egy igazi, teljes körű kriptotőzsde, tehát tele van a shitcoin kaszino résszel is.
+És akkor én mindenkinek azt javasoltam, hogy van egy tőzsde, amit én 2017 óta használok, és azóta tök jól elvagyok vele, még nem volt vele semmi probléma. Ezt úgy hívják, hogy Kraken. A kraken.com.
 
-– Ettől el kell tekinteni, mert egyébként ezen kívül nincs vele semmi baj. A 2018-as meg a 2022-es rettenetes események idején sem volt vele soha egy pillanatig se baj, nem ment csődbe, és nem szivárogtak ki adatok – legalábbis nem tudunk róla, hogy kiszivárgott volna onnan felhasználói adat.
+Az egy igazi fullos kriptotőzsde, tehát tele van shitcoin-kaszinó résszel is — ettől el kell tekinteni.
 
-– Tehát nagyjából nyugodt szívvel tudom ajánlani mindenkinek. A helyzet az, hogy ők eléggé fejlesztenek mostanában új szolgáltatásokat, és gyakorlatilag már majdnem ugyanazt tudja mindenben, mint a Revolut. Például már tokenizált részvényekkel is lehet rajta kereskedni. Illetve tavaly megjelentek egy alkalmazással, aminek nem Kraken, hanem csak Krak a neve.
+– Mert egyébként ezen kívül nincs vele semmi baj.
 
-Ez arra jó, hogy adnak egy fizikai kártyát is – teljesen ingyen. Ugyanolyan, mint a Revolut kártya.
+– A 2018-as meg 2022-es rettenetes események idején sem volt vele soha egy pillanatig se baj. Nem ment csődbe, meg nem szivárogtak onnan ki adatok — legalábbis nem tudunk róla, hogy kiszivárgott volna onnan felhasználói adat. Tehát ezt nagyjából nyugodt szívvel tudom ajánlani mindenkinek.
 
-– Színváltós? Bear marketben piros, bullba zöld?
+És az a helyzet, hogy ők eléggé fejlesztenek mostanában, új szolgáltatásokkal. Gyakorlatilag azt lehet mondani, hogy már majdnem ugyanazt tudja mindenben, mint a Revolut. Például már tokenizált részvényekkel is lehet rajta kereskedni. Illetve tavaly megjelentettek egy alkalmazást, aminek nem Kraken, hanem csak Krak a neve.
+
+– Elég jó a kamera. (nevetés)
+
+– És ehhez egy fizikai kártyát is lehet tőlük kérni, teljesen ingyen. Tehát ez ugyanolyan, mint a Revolut-kártya.
+
+– Színváltós?
+
+– Már úgy értem, hogy bear marketben piros, bullban meg zöld? (nevetés)
 
 – Nem, mindig piros.
 
-– Mindig piros.
+– Mindig piros. (nevetés)
 
-– Ígérik, hogy lesz valami fullosabb metálkártyájuk is, de az még nincs. Az majd pénzbe fog kerülni. Ez is hasonlít a Revoluthoz. A kártya mögé lehet tenni egy bitcoin vagy euro alszámlát – hogyha valaki nem akar az árfolyamváltozással vacakolni, akkor euro alszámla is lehet mögötte. Elvégeztem némi teszteket, meg is mutatom a képernyőmegosztáson.
+– De ígérik, hogy lesz valami fullosabb, metálkártyájuk is — de az még nincs; azt hiszem, az már pénzbe fog kerülni. Ez is hasonlít a Revoluthoz.
 
-Tehát hogyha az ember rákeres arra, hogy Kraken, ez az alapalkalmazás a lila hátterű fehér polip. Azt kell föltelepíteni először, mert azzal lehet regisztrálni. Ez ugyanolyan regisztráció, mint egy banki számlanyitás – sajnos itt KYC van, meg kell mutatni a személyit, a lakcímkártyát, bele kell nézni a kamerába, jobbra nézni, balra nézni. Szokásos dolog. Egyébként a Kraken MiCA engedéllyel rendelkezik Európában, tehát annyira nem kell tőle félni jogilag. Az MNB honlapján is fel van tüntetve mint európai engedélyes kriptotőzsde. És nem csak kriptotőzsde, hanem euro elektronikus pénz kibocsátó szolgáltató is, ami azt jelenti, hogy euró számlát tud vezetni, és saját IBAN bankszámlaszámod van, amire tudsz fogadni. Annyi kötöttség van, azt hiszem, hogy csak a saját nevedre szóló bankszámládról utalhatsz rá, mondjuk az OTP-ből.
+És ez arra jó, hogy mögé lehet tenni egy Bitcoin- vagy euró-alszámlát. Hogyha valaki nem akar az árfolyamváltozással vacakolni, akkor euró-alszámla is lehet mögötte.
+– Akkor kezdjük az elején, ne a legvégén. Itt van nekem egy képernyőmegosztásom.
 
-– De az egy saját bankszámlaszám, tehát kevésbé lesz ilyen probléma vele, hogy az OTP megállítja a pénzmosás gyanúja miatt, mert nem lesz rajta semmilyen listán.
+Ha az ember rákeres arra, hogy Kraken — ez az alapalkalmazás, ez a lila hátterű, fehér polipos valami. Azt kell föltelepíteni először, mert azzal lehet regisztrálni.
 
-– Az IBAN-ra nem nagyon állítgatják. Volt valamikor két évvel ezelőtt problémám az OTP-vel, és akkor többször fordultam az ügyfélszolgálathoz – először kedvesen, aztán nem annyira kedvesen.
+Ez ugyanolyan regisztráció, mint egy banki számlanyitás. Tehát sajnos itt KYC van: meg kell mutatni a személyidet, a lakcímkártyádat, bele kell nézni a kamerába, jobbra nézni, balra nézni. Szokásos dolog.
+
+Egyébként ez a Kraken MiCA-engedéllyel rendelkezik Európában, tehát annyira nem kell tőle félni jogilag. Az MNB honlapján is fel van tüntetve, mint európai engedélyes kriptotőzsde. És nem csak hogy kriptotőzsde, hanem euró elektronikuspénz-kibocsátó szolgáltató is — ami azt jelenti, hogy eurószámlát tud vezetni neked, és saját, nemzetközi bankszámlaszámod van, amire tudsz fogadni.
+
+Annyi kötöttség van, azt hiszem, hogy csak a saját nevedre szóló bankszámládról utalhatsz rá — mondjuk az OTP-ből, Magyarországról, eurót.
+
+– De egyébként egy saját bankszámlaszám, tehát kevésbé lesz olyan probléma vele, hogy az OTP megállítja pénzmosás miatt — mert nem lesz rajta semmilyen listán.
+
+– Ja, a Krakenre nem nagyon állítgatják. Volt valamikor két évvel ezelőtt problémám az OTP-vel, és akkor többször fordultam az ügyfélszolgálathoz — először kedvesen, aztán nem annyira kedvesen. És akkor megtanulták.
 
 – Melyik működött?
 
-– Hát a második. Nem akarták megmondani, hogy miért nem utalhatok oda, ahova egyébként már évekkel ezelőtt is utaltam – 2017 óta használom ezt a tőzsdét. Csak egyszer csak nem mentek el a havi utalásaim, a havi megtakarításomnak az átutalása a Krakenbe. Telefonon azt mondták, hogy nem mondhatják el, be kellett mennem személyesen. Ott az ügyfélszolgálatos ilyenről még nem hallott, hogy valamit telefonon nem akarnak elmondani – elkezdett vadul telefonálni fél óráig legalább. Végül eljutott a compliance osztályig, és annyit mondtak neki, hogy mondja nekem azt, hogy üzletpolitikai jogból nem volt az utalás.
+– Hát a második. (nevetés)
 
-Mondtam nekik: jó, hát akkor feltöltöm a pénzt a Revolut-ra, és a Revolut-ról átutalom – akkor az mennyivel jobb nekik? Ráadásul rosszabb is, mert ott elesnek az utalási költségtől, ami ilyen pár száz forint. Aztán következő hónaptól már engedték, és azóta nincs vele baj. Ez valamikor két éve volt.
+Ez érdekes történet volt, mert nem akarták megmondani, hogy miért nem utalhatok oda, ahova egyébként már évekkel ezelőtt is utalhattam — hiszen 2017 óta használom ezt a tőzsdét. Csak egyszer csak nem mentek el az utalások: a havi megtakarításomnak az átutalása a Krakenbe.
 
-– Szóval vannak ilyen történetek, de szerintem most már egyre kevésbé fog előfordulni, mert ezért van az európai szabályozás, ha másért nem.
+És akkor azt mondták telefonon, hogy nem mondhatják el.
 
-Tehát lényeg a lényeg: ezzel a Kraken applikációval az ember beregisztrál. Az egyenlegem most 750 EUR – nem titok. Ennek körülbelül a fele bitcoin. Van egy kis Pax Gold. Na jó, lebuktam. Ez ilyen tokenizált arany.
+– Be kellett menned személyesen?
 
-– Az arany az nem shitcoin.
+– Be kellett mennem személyesen. Na most, ott az ügyfélszolgálatos ilyenről még nem hallott, hogy valamit telefonon nem akarnak elmondani. De elkezdett vadul telefonálni, legalább fél óráig. Neki is nagyon nem akarták elmondani — de végül eljutott szerintem a compliance-osztályig, és annyit mondtak neki, hogy mondja nekem azt, hogy üzletpolitikai okból nem ment el az utalás.
 
-– Hát ez arany. Valamikor sok évvel ezelőtt vettem 100 euróért, azóta adogattam el belőle, ahogy ment föl az arany, és most is 111-et ér, tehát majd egyszer elfogy. Illetve van még euróm – az euró számla 298 jelenleg. A Krak is mutatja az egyenleget, ami egy külön alkalmazás, de ugyanazzal a jelszóval lépsz be, meg ugyanazzal az autentikációval.
+És akkor mondtam nekik — talán meg is írtam —, hogy jó, hát akkor feltöltöm a pénzt a Revolutra (akkor még működött), és a Revolutról átutalom. Akkor most az mennyivel jobb nekik? Vagy rosszabb? Hát rosszabb is, mert elesnek az utalási költségtől, ami pár száz forint.
 
-Na most nagyon fontos dolog: hogyha idáig eljut valaki, még nyilván nulla egyenleggel, akkor nehogy véletlenül azt csinálja nagy nekibuzdulásban, ami a legegyszerűbbnek tűnik – hogy kártyával vásárol bitcoint. Az ismerőseim ráfutottak erre: kártyával vásárolnak bitcoint, aminek az a baja, hogy kártyásvásárlásnál 10% költséget levon a Kraken. Azt nem szabad.
+Aztán végül is a következő hónaptól már engedték, és azóta nincs vele baj. Ez valamikor két éve volt.
 
-– Az tűnik a legegyszerűbbnek az elején, de nem szabad.
+– Szóval vannak ilyen történetek.
 
-– A megoldás az, hogy be kell utalni eurót. Eurót, mert ez eurószámla – itt a befizetésnél megad egy bankszámlaszámot, és oda az OTP-ből vagy akármelyik bankból simán át lehet utalni devizaátutalással. Annak a költsége ugyanannyi, mint egy belföldi forint átutalás – erre is van európai törvény. Én mondjuk ilyen néhány száz eurót ha utalok, akkor 3-400 Ft szokott lenni az utalási költség. Kisebb összegeknél kisebb – mondjuk 100 EUR-nál kb. 100 Ft. Aztán meg kell várni azt a fél napot vagy egy napot, amíg beér az euró, és akkor lesz euroegyenlege az embernek, és lehet vásárolni belőle bitcoint.
+– De szerintem ez egyre kevésbé fog előfordulni, mert ezért van az európai szabályozás — elvileg. Ha másért nem, ennyi előnye van.
+– Lényeg a lényeg: ezzel a Kraken-appal az ember beregisztrál. Most talán meg is nyithatjuk. Itt látszani fog az egyenlegem, de szerintem annyira nem nagy titok.
 
-– Ez nem instant SEPA, mint a Strike-nál?
+– 1500 bitcoin! (nevetés)
 
-– A magyar bankok nem tudnak instant eurót átutalni. Revolut-on keresztül lehet azonnal – az is egy megoldás, ha valakinek sürgős.
+– Nem, hát mert innen majd jön a mese végén az, hogy nem tartjuk itt a bitcoint. Ez fontos — mert az nem igazi Bitcoin, az csak egy IOU.
 
-– Miben bonyolultabb a Revolut-tól?
+– Tartozom neked, cetli.
 
-– Hát, hogy először a Revolut-ra teszed át, ha Revolut-on van már pénzed, akkor nem. Pláne, hogy a Revolut is már fog adni magyar bankszámlaszámot, valószínűleg sokan fogják csak azt használni.
+– Hát 750 euró most az egyenlegem, nem titok.
 
-Tehát ez egy nagyon fontos dolog: előbb átutaljuk az eurót, és abból vásárolunk. És akkor mit tegyünk, ha van bitcoinunk? Akár vásárlásból, akár elfogadtuk munkáért – mondjuk fodrász vagy autószerelő fogadott el bitcoint, van bitcoinja.
+– Így kell megtakarítani! Látjátok, ahogy a Tamás csinálja. (nevetés)
 
-– Fizessünk vele!
+– Ennek kábé a fele bitcoin. Van egy kis PAX Gold is. Na jó, lebuktam — ez ilyen tokenizált arany. (nevetés)
 
-– Akkor lép életbe a Krak nevű alkalmazás – nem tudom, miért így hívták el, lehagyták róla az E-t meg az N-t. Ez egy újabb szolgáltatása a Krakennek, ahol lehet szép kis fizikai bankkártyát igényelni, teljesen ingyen. Alapból ennek is nulla az egyenlege, és át kell tölteni a fő Krakenes accountból. Be lehet küldeni Lightningon is, vagy sima átutalással. Illetve a Kraken portfolióból is át lehet húzni ide – ezt úgy hívja, hogy Everyday, vagyis napi költési számla. Át lehet küldeni akár eurót vagy bitcoint is.
+– Állítsuk itt meg! (nevetés) Ja, azér' az arany, az nem shit… vagy nem tudom.
 
-Ilyenkor nem adja el az ember a bitcoinját azonnal, hanem csak akkor, amikor éppen elkölti. És be lehet állítani azt, hogy ha lenne euróm meg bitcoinom mögötte, milyen sorrendbe költse el őket. Hát ezt mindenki maga el tudja dönteni: ha nem akarja az árfolyamkockázatot vállalni, tegyen bele eurót, az nem nagyon változik forintban. Ha Bitcoin standardon él, akkor bitcoinja legyen mögötte.
+– Hát ez arany. Na mindegy, ezt majd kikockázzuk. (nevetés) De hát valamikor sok évvel ezelőtt vettem ezt 100 euróért, és azóta adogattam el belőle, ahogy ment föl az arany — és most is 111-et ér. Majd egyszer elfogy.
 
-Elvégeztem némi teszteket – itt látszik a tevékenységem. Először áttettem a Krakenből 0,0087 bitcoint, ami 49,96 euró lett a végén. Aztán átmentem a Spárba, és így vásároltam vele 18 eurónyit – kaptam még 0.5% visszatérítést is. Kiszámoltam az aznapi árfolyamokkal: középárfolyamon számolta át a forintot euróba.
+Illetve van még eurón: az eurószámlám 298 jelenleg.
 
-– Na az barátságos.
+– USDC is van náluk, meg USDT is.
 
-– Tehát abban a pillanatban, hogy fizetsz ezzel a Krak kártyával, a háttérben középárfolyamon eladja a bitcoint, és úgy fizeti ki. Először euróra, aztán forintra váltódik.
+– Van, de csak nagyon kicsi.
+– Na most, nagyon-nagyon fontos dolog. Hogyha idáig eljut valaki — még nulla egyenleggel —, akkor nehogy véletlenül azt csinálja nagy nekibuzdulásban, ami a legegyszerűbb.
 
-Aztán vásároltam még egyszer a BioTechUSA-nál is, teljesen jól működik. Direkt elraktam a blokköt, ebből számoltam ki, hogy középárfolyamon váltotta. Ilyen 6700 Ft-ot fizettem, és abból ez lett.
+Hol is van a vásárlás? Bitcoin-vásárlás. Az ember rányom a Bitcoin-vásárlásra, és akkor itt van valahol, hogy kártyás. Nem is tudom, hol, mert én azt sose csináltam — de mindenki ráfut, az ismerőseim ráfutottak: hogy kártyával vásárolnak bitcoint először, amikor még nincs bent egyenlegük.
 
-– Nagyon állat. Pont ez kell. Ilyen nekem is kell.
+Csak azzal az a baj, hogy a kártyás vásárlásnál 10% költséget levon a Kraken. Szóval azt nem szabad!
 
-– Hát akkor örülök, hogy sikerült beletrafálni. Ezt úgy lehet igényelni, hogy letöltöm a Krak applikációt, és azon belül kártyát igényelni. Szerintem ez nagyon hasonlít a Revolut-hoz – aki a Revolut-ot tudja használni, ezt is tudja.
+– Az tűnik a legegyszerűbbnek az elején.
 
-– Van virtual kártyájuk is, mert azt ugye egyből be lehetne rakni a mobilba.
+– De nem szabad. A megoldás az, hogy be kell utalni eurót. Itt, a befizetésnél megad egy bankszámlaszámot, és oda az OTP-ből vagy akármelyik bankból simán át lehet utalni egy devizaátutalással — annak a költsége ugyanannyi, mint egy belföldi forintátutalásé. Erre is van európai törvény, tehát ettől se kell félni.
 
-– Van. Azt is mutatja. Ugyanazzal kell belépni, nem kell még egyszer regisztrálni. Tehát egy cégnek vagy egy ügyfele, csak két különböző app.
+Én mondjuk, ha néhány száz eurót utalok, akkor 3-400 forint szokott lenni az utalási költség; kisebb összegeknél kisebb. Nagyságrendileg mondjuk 100 eurónál 100 forint, ilyesmi.
+
+És akkor meg kell várni azt a fél napot vagy egy napot, amíg beér az euró — és akkor lesz euróegyenlege az embernek, és már lehet vásárolni euróból.
+
+– Tehát ezek szerint ez nem instant SEPA, mint a Strike-nál?
+
+– Nekem az OTP-vel van tapasztalatom: ott a magyar bankok nem tudnak instant eurót átutalni. De egyébként a Revoluton keresztül lehet azonnal, tehát az is egy megoldás — csak kicsit bonyolultabb.
+
+– És miben bonyolultabb a Revoluttal?
+
+– Hát, hogy először a Revolutra teszed át. Ha Revoluton van már pénzed, akkor nem. Pláne, hogy most a Revolut is már fog adni magyar bankszámlaszámot, valószínűleg sokan fogják csak azt használni.
+– Tehát ez egy nagyon fontos dolog: előbb átutaljuk az eurót, és abból vásárolunk.
+
+És akkor mit tegyünk, ha van bitcoinunk? Vagy akár nem is vásárlásból van, hanem mondjuk elfogadtuk munkáért — mondjuk bitcoint elfogadó fodrász vagy autószerelő vagyok. Akkor lép életbe a Krak nevű alkalmazás. (Azt nem tudom, miért így hívták el; lehagyták róla az E-t meg az N-t.)
+
+Ez egy újabb szolgáltatása a Krakennek, ahol lehet fizikai bankkártyát igényelni, teljesen ingyen. Alapból ennek is nulla az egyenlege, és át kell tölteni a fő krakenes tárcánkból. Föl lehet tölteni befizetéssel, akár bitcoint — be lehet küldeni Lightningon is, vagy sima befizetéssel.
+
+Meg a Kraken-portfólióból is át lehet húzni ide; ezt úgy hívja, hogy *everyday*, tehát ez a napi költési számla. Át lehet küldeni akár eurót, akár bitcoint.
+
+Tehát ilyenkor nem adja el az ember a bitcoinját azonnal, hanem csak akkor, amikor éppen elkölti.
+
+És itt be lehet állítani azt, hogyha van eurónk is meg bitcoinunk is, akkor milyen sorrendben költse el őket. Ezt mindenki maga el tudja dönteni: hogy szeretne-e úgy elmenni a boltba, hogy nem tudja, mennyiért tud vásárolni — akkor bitcoinja legyen, és Bitcoin-sztenderden él. Vagy ha nem akarja ezt a kockázatot vállalni, akkor tegyen bele eurót, és az nem nagyon változik forintban.
+– És akkor elvégeztem némi teszteket. Itt látszik a tevékenységem.
+
+Először áttettem a Krakenből — itt mutatja, 50 eurót, ami 49,96 lett a végén; de igazából bitcoint tettem át, tehát 0,0087 bitcoint. Aztán átmentem a Spárba, és vásároltam vele 18 eurónyit — és kaptam még 1% visszatérítést is.
+
+Kiszámoltam az aznapi árfolyamokkal: középárfolyamon számolta át a forintot euróba.
+
+– Az barátságos.
+
+– Tehát abban a pillanatban, hogy fizetsz ezzel a Krak-kártyával, akkor ő a háttérben középárfolyamon eladja a bitcoint, és úgy fizeti ki.
+
+– Igen. Először euróra, aztán forintra váltódik.
+
+Aztán vásároltam még egyszer, a BioTech USA-ban; ott is kaptam visszatérítést. Úgyhogy teljesen jól működik.
+
+– Nagyon király!
+
+– És a BioTechnél is offline vásároltál? Tehát fizikai boltban?
+
+– Igen. Ennek is megvan a cetlije — direkt elraktam, meg ebből számoltam ki, hogy középárfolyamon váltotta. 6700 forintot fizettem, és abból ez lett itt. A forint már nem is látszik, itt már euró látszik.
+
+– Menő. Nagyon állat. Pont ez kell.
+
+– Ilyen nekem is kell!
+
+– Na, akkor örülök, hogy véletlenül sikerült beletrafálni. Ezt úgy lehet igényelni, hogy letöltöd azt a Krak-applikációt, és azon belül kártyát kérsz.
+
+Szerintem ez nagyon hasonlít a Revoluthoz. Aki a Revolutot tudja használni, ezt is tudja.
+
+– Csak ha jól értettem, akkor mondtál olyat, hogy ezt a krakos számlaszámomat mondjuk nem adhatom meg akárkinek, hogy utaljon rá eurót?
+
+– Hát figyelj, ezt tesztelni kell. Lehet, hogy ebből akad probléma. De én bitcoinnal töltöttem föl, ott nincsenek ilyen problémák. Sőt, Lightningon is lehet a Krakot feltölteni — ez elég gyors náluk.
+
+– Mennyi idő alatt küldik ki a kártyát?
+
+– Nem tudom már, mert ez már vagy fél éve volt. Nem volt sok.
+
+– És virtuális kártyáik is vannak? Mert azt ugye egyből be lehetne rakni a mobilba.
+
+– Van, az is van. Itt látszik.
+
+– Az tök jó.
+
+– Mondtad még adás előtt, hogy ezt a Krak-applikációt a krakenes accounttal, ugyanazzal a loginnal lehet használni.
+
+– Ugyanazzal kell belépni, igen. Tehát nem kell még egyszer regisztrálni.
+
+– Tehát egy cégnek egy ügyfele vagy, csak két különböző app.
+
+– Ühüm. És ugyanazzal a jelszóval lépsz be, ugyanazzal az autentikálással.
 
 – Nagyon praktikus. Jó, hogy van már ilyen. Volt mondjuk korábban is, csak mindig lelőtték.
 
-– Hát voltak ilyenek. A Coinbase-nek is van ilyen, csak a Coinbase az nem nagyon szimpatikus.
+– Egyébként a Coinbase-nek is van ilyen — csak a Coinbase az nem nagyon szimpatikus.
 
-– Azt azért ne használjuk.
+– Azt azért ne használjuk. Nekem is volt még ilyen Coinbase-accountom, rég, de föl is mondtam. A Kraken az még megvan.
 
-– Ja, meg van ilyen referálkód is: ha valaki meghívja a barátját, aki még nincs a Krakenen, akkor ilyen 10 eurót kap. Ezt majd megosztjuk.
+– Meg van ilyen „hívd meg a barátaidat" is, és akkor 10 eurót kapsz, azt hiszem.
 
-– És erről jutott eszembe, hogy ezekből a költésekből a magyar adótörvény szerint évente 10 darabot, ami kevesebb, mint a minimálbér tizedrésze, nem kell bevallani. Hát a 10 darab nem sok, de az is van. Egy évre egy minimálbér tizede lehet egy vásárlás.
+– Csak olyat tudsz meghívni, aki még nincs a Krakenen regisztrálva, ugye?
 
-– Hát igen. És akkor ezeket nem kell bevallani az adóbevallásba. Egyébként adóbevallást is csináltam – locsolkodás helyett nem bombát kerestem, hanem adóbevallást csináltam, mert ezt húsvét után vesszük föl az adást. Ott az az érdekesség, amit gondoltam megemlítek: eddig a magyar adótörvény szerint ha bitcoint vettél fiat pénzből, vagy bitcoint eladtál fiat pénzért, ezeknek az egyenlegét kellett bevallani. Hogyha pozitívban voltál fiat pénzben, tehát több bitcoint adtál el, mint amennyit vettél a tárgyévben, akkor 15%-ot kell befizetni – de az előző két évben ha veszteséged volt, azt le lehetett vonni belőle.
+– Igen. De hát van 500 000 magyar Revolut-károsult, állítólag — akkor az most mindig hívja meg a barátját. (nevetés)
 
-Na most idére megváltozott ez a törvény: már az adóbevalló appba is az van beírva, hogy nem csak az előző két év, hanem az előző akárhány év eddig el nem számolt veszteségét be lehet írni. Ez egy könnyítés.
+– Ilyen referral-kódot nem tudsz itt bemutatni a népeknek?
 
-– Javulás.
+– De, itt van valahol. Ezt akkor beletesszük.
 
-– Nekem is segített most egy kicsit. Azt jelenti, hogy mondjuk nekem össze volt írva 2017 óta az előző évek adóbevallásaiba, hogy mennyiért vettem bitcoint – amit össze tudtam szedni a banki kivonatokból. Aztán tavaly – újabb lebukás a vérgiliszta ábra alapján – egy kicsit eladtam nyáron, mert nem valami luxus dologra költöttem, csak kifizettem belőle egy adósságot. Emiatt a tavalyi évem adózási szempontból pluszos volt, és jól jött, hogy le tudtam vonni visszamenőleg 2017-ig az összes veszteségemet, mert így jóval kevesebb adót kellett fizetnem, mintha csak két évet tudtam volna.
+– Ha beleteszitek, akkor köszi. (nevetés)
+– Erről jutott eszembe, hogy egyébként ezekből a költésekből — úgy van a magyar adótörvény, hogy évente 10 darab olyan ügylet, ami kevesebb, mint a minimálbér tized része, azt nem kell bevallani.
 
-– Tehát ez egy pozitív dolog.
+– Hát az nem sok.
 
-– Hát kedves felajánlás. Mondjuk túl sokat visszamenni az időbe nem nagyon tud mindenki, mert öt év után kábé mindenki pluszban van.
+– Mert ugye ez adózási esemény. De ezek talán beleférnek.
 
-– Hacsak nagyon rosszul tradelt.
+– Egy évben vagy egy hónapban?
 
-– Egyébként nem kell félni ettől az adóbevallástól, mert aki képes bitcoinnal kereskedni, az ezt is meg tudja csinálni. Inkább az a hosszadalmas, hogy sok bankszámla-kivonatot kell átnézni és összebogarászni, hogy mentek-jöttek az utalások.
+– Egy évben. És összesen egy havi minimálbérig.
 
-– Van olyan cég, aki erre árul fizetős Excel-táblát. Tudom. Azzal biztos könnyebb egy fokkal, de én anélkül is meg tudtam csinálni.
+– Az nem tudom, mennyi — 200-300 000 forint körül van?
 
-– El kell olvasni a kis betűs részeket, meg ami hibára fut. Van benne ilyen ellenőrző dolog, amit nem sikerül teljesen kihoznom figyelmeztetésmentesre – de attól még elfogad, hiba nem volt benne, csak néhány figyelmeztetés.
+– És akkor annak a tizede lehet egy vásárlás.
 
-– Sárga még átmegy.
+És akkor ezeket nem kell bevallani az adóbevallásban. Merthogy egyébként adóbevallást is csináltam — locsolkodás helyett nem tojást kerestem, hanem adóbevallást csináltam (nevetés), mert ezt most így húsvét után vesszük fel, ezt az adást.
 
-Vannak még hírek, van még érdekes hír. Látjátok, amit én látok: partnereink. Kedvenc Caduceus Zrt-nk új partnerrel gazdagodott. A múltkor már volt a Bit Panda. Egyébként a Kraken nincs itt, ami két dolgot jelenthet: valószínűleg ezért jóval olcsóbb ott a Bitcoin-vásárlás, másrészt meg látszik, hogy olyan szinten irreális a magyar szabályozás, hogy komoly nagy cégek közül van, aki úgy döntött, hogy kivonul Magyarországról, van aki meg úgy dönt, hogy nem foglalkozik az egésszel.
+És ott az az érdekesség, amit gondoltam, hogy megemlítek: hogy eddig úgy nézett ki a magyar adótörvény, hogy ha bitcoint vettél fiat pénzből, vagy bitcoint eladtál fiat pénzért — ugye az kiadás vagy bevétel a fiat oldalról. Ezeknek az egyenlegét kellett bevallani. És hogyha pozitívban voltál fiat pénzben — tehát több bitcoint adtál el, mint amennyit vettél a tárgyévben —, akkor annak a 15%-át kellett befizetni. De az előző két évben, ha veszteséged volt, akkor azt le lehetett vonni belőle.
 
-Nézzünk vérgilisztát is – egyelőre semmi nem nagyon történt. Amióta nem jártam itt, azóta kitört egy háború, egy újabb háború, de a Bitcoin azóta inkább olyan kicsit emelkedős-oldalazós állapotban van.
+Na most az idére megváltozott ez a törvény: már nem csak az előző két év, hanem az előző akárhány év eddig el nem számolt vesztesége beírható.
 
-A Krakennek van normál számítógépes alkalmazása is, ami a Revolut-nak nincs – ebből a szempontból jobb, mint a Revolut. Például itt látszik, hogy DCA-zok naponta a Krakenen. A Krakennek van programozói interfésze is, API-ja, és azon futatok egy scriptet, ami naponta vesz jelenleg 11 euróért bitcoint. Egyébként most már van a Kraken appban is ilyen napi DCA lehetőség – amit eddig csak a Strike tudott, azt most már tudja a Kraken is.
+– Ez egy könnyítés.
 
-Ezen a grafikonon nagyon szépen meg lehet látni, hogy ahol ezek a kis zöld pöttyök látszanak, ott szoktam venni – és ebből látszik a DCA-nak az ereje. Elég sokszor sikerül eltalálni egy dip alját. Ez hajnali egykor fut. Alul a kék a 200-as mozgóátlag, amire mondtam, hogy négy évente, amikor van a bear market alja, el szokta érni. Egyelőre nem értük el idén, amiből bármi következhet: az is, hogy ez nem egy olyan durva bear market, vagy az is, hogy még lejjebb fog menni.
+– Javulás. Nekem is segített most egy kicsit.
 
-– De az biztos, hogy nagyon hasonlít a 2022-es fejleményekhez – ezek a vonalak, ha összehasonlítjuk, eléggé hasonlítanak. És utána itt meglátható, hogy mi történt: egy olyan egy éves, másfél éves oldalazás, majd indult el elég jól fölfelé.
+Ugye ez azt jelenti, hogy nekem össze volt írva 2017 óta — az előző évek adóbevallásaiba beírtam, hogy mennyiért vettem bitcoint, amennyit össze tudtam szedni a banki kivonatokból.
 
-– Hát a Bitcoin ezt szokta csinálni. De most ugye ki tudja, mi lesz a dollárral. Egy kis történelmi kitekintőre gondoltam a dollárral kapcsolatban, hogyha már ahhoz hasonlítjuk a bitcoint.
+És tavaly — újabb lebukás — a vérgiliszta-ábra alapján egy kicsit eladtam nyáron. (nevetés) Nem valami luxusdologra költöttem, csak kifizettem belőle egy adósságot. És emiatt a tavalyi évem pluszos volt adózási szempontból. És jól jött, hogy le tudtam vonni visszamenőleg 2017-ig az összes veszteségemet — mert így jóval kevesebb adót kellett fizetnem, mintha csak két évet tudtam volna.
 
-A 70-es években, amikor Nixon elnök 1971-ben beszüntette az aranystandardot és óriási infláció lett Amerikában, kitalálták az úgynevezett petrodollár rendszert – megegyeztek a közel-keleti olajtermelő országokkal, hogy ők mindenkinek dollárért adhatják csak el az olajat, cserébe Amerika hadserege megvédi őket. Ez továbbra is biztosította a dollárnak a világpénzszerepét és az amerikai hadseregnek a világ rendőrszerepét. Hát most a hormozi szoros körüli bonyodalmakkal ez a rendszer is kezd egy kicsit recsegni-ropogni, mert hallunk olyan híreket, hogy az irániak elfogadnak kínai pénzt, indiai pénzt, meg kriptót is – ami valószínűleg Bitcoin lehet –, hogy egy hajó átjuthasson azon a szoroson.
+– Kedves felajánlás. (nevetés) Mondjuk túl sokat vissza nem tudunk menni az időbe, mert ugye akkor már mindenki pluszban van, ilyen öt év után kábé.
 
-A legviccesebb hír, amit ezzel kapcsolatban olvastam: Oroszország Indiának adott el olajat, és az indiaiak fizettek indiai pénzzel. Az oroszok egy idő után rájöttek, hogy ők nem tudnak semmit kezdeni azzal az indiai pénzzel, ott áll nekik halomban, legfeljebb Indiában tudnák elkölteni. Egyébként az sehol a világon nem érvényes, és nem ér semmit. Tehát mintha az országvezetők most tanulnák meg, hogy is működik a pénz – amit a Bitcoinból bárki megtanul azonnal, az az első lecke. Mitől van a pénznek értéke, meg hol van a pénznek értéke.
+– Hacsak nem nagyon rosszul tradelt. (nevetés)
 
-Ezért is elég nehéz leváltani a dollárt: két kereskedő fél között egy olyan pénz, amit az egyik korlátlan mennyiségben tud nyomtatni, az elég hülyén hangzik a másik fél részére, ha van egy kis esze. Olyan pénzt kellene használni, amit senki nem tud nyomtatni. De jelenleg olyan pénzt használ a világ, amit Amerika tud nyomtatni, és ebből származnak talán a világ nagy problémái.
+Egyébként nem kell félni ettől az adóbevallástól szerintem. Mert aki képes bitcoinnal kereskedni, az ezt is meg tudja csinálni — ez egy egyszerű tábla. Csak inkább az, hogy hosszadalmas: sok bankszámlakivonatot kell átnézni, és összebogarászni, hogy hogy mentek, jöttek az utalások.
 
-– Ez még Amerikának se jó annyira, mert ez okozza a hatalmas kereskedelmi deficitet és az amerikai ipar leépülését.
+– Van olyan cég, aki erre árul fizetős Excel-táblát.
 
-– De hát érdekes időket élünk. Ez még nem azt jelenti, hogy a dollárnak a világpénzszerep megrendült volna komolyan, az amerikai államkötvények kamatai sem szálltak el különösebben emiatt. Csak érdekes fejlemények. Tudjuk, hogy van egy olyan fajta pénz, amit egyik ország sem tud nyomtatni – de ezt még kevesen ismerték fel, és túl kicsi a piaci kapitalizációja ahhoz, hogy egy nagyobb olajüzlet ne borítaná meg nagyon a vásárlóerejét. De ha növekedni tud tovább a Bitcoin teljes piaci kapitalizációja, akkor egyre inkább alkalmas lesz arra, hogy egyre nagyobb kereskedelmi ügyleteket is ebben számoljanak el.
+– Tudom. Azzal biztos könnyebb egy fokkal, de én anélkül is meg tudtam csinálni. El kell olvasni a kis betűs részeket, meg ami hibára fut.
+– Vannak még hírek. A kedvenc Caduceus Zrt.-nk új partnerrel gazdagodott. A múltkor beszéltünk róla, hogy már van a Bitpanda. Egyébként a Kraken az nincs itt — ami két dolgot jelenthet: valószínűleg ezért jóval olcsóbb ott a Bitcoin-vásárlás, illetve a tranzakciós díj. Másrészt ebből is látszik, hogy olyan szinten irreális ez a magyar szabályozás, hogy igen komoly nagy cégek közül van, aki úgy döntött, hogy kivonul Magyarországról; van, aki meg úgy dönt, hogy ezzel nem foglalkozik.
 
-Most jelenleg még talán az arany az, amit az országok tudnak használni, meg használnak is. De annak is most úgy változik az árfolyama, hogy képes pár nap alatt 20%-ot zuhanni vagy emelkedni.
+A Kraken láthatóan nem foglalkozik ezzel.
+– Ha már a Krakenről beszéltünk: a Krakennek van normál számítógépes alkalmazása is — ami egyébként a Revolutnak nincs. Tehát mint kriptotőzsde, ebből a szempontból jobb, mint a Revolut.
 
-– Azzal simán lebonyolítanak ilyen ügyleteket fizikai arannyal?
+Itt látszik, hogy hogy DCA-zok naponta a Krakenen. A Krakennek van programozói interfésze, API-ja, és én azon futtatok egy scriptet, ami naponta vesz jelenleg 11 euróért bitcoint.
 
-– Persze, simán. Most azt is olvastam tegnap, hogy a Franciaországnak például az állami aranytartaléka New Yorkban volt, és rájöttek, hogy jobb lenne, hogyha otthon lenne, legalább ők tudják, hogy megvan. Végül nem szállították haza, hanem valami olyasmi volt, hogy hivatalosan eladták Amerikában, Amerika adott érte dollárt, és ők dollárért Londonban vettek másik aranyat, és azt szállították Franciaországba, mert az közelebb volt. Ez ugye egyáltalán nem bizonyítja, hogy megvolt az az arany New Yorkban. De jól csinálták, ha ezt csinálták, mert legalább most náluk van.
+Egyébként most már van a Kraken-appban is ilyen napi DCA-alkalmazás, amit én nem próbáltam ki. Tehát amit eddig csak a Strike tudott — amit most szintén nem tudunk használni —, azt most már tudja a Kraken is.
 
-Az aranyat magánszemély szintjén igazából nem nagyon lehet kis mértékben használni – olyan óriási a különbség az adási meg a vételi árfolyam között, hogy szerintem csak nagyon hosszútávú vagyonőrzésre alkalmas. Ezért jó a Bitcoin, ott ilyen probléma nincs.
+És itt ezen a grafikonon nagyon szépen meg lehet látni, ahol ezek a kis zöld pöttyök látszanak: ott szoktam venni. És akkor ebből látszik a DCA-nak az ereje. És elég sokszor sikerül eltalálni elég jól egy dipnek az alját. Ez nekem hajnali egykor fut — most például ez a legutolsó is elég jól eltalált egy dipet.
 
-Azt még gondoltam, hogy ha valaki véletlenül a mai kis bemutatóm alapján beregisztrált a Kraken tőzsdére és elkezdi használni, akkor kommenteljen alá, hogy lássam, van értelme az ilyen bemutatóknak.
+Ez az euró-Bitcoin árfolyam volt. Ezek a bizonyos mozgóátlagok; alul a kék a 200 hetes mozgóátlag, amiről mondtam, hogy azt négyévente általában, amikor van a bear market alja, akkor el szokta érni, meg egy kicsit alá is szokott menni.
 
-– Hogyha használják a kódodat, arról biztos kapsz értesítést.
+Hát egyelőre nem értük el idén — amiből bármi következhet. Az is, hogy ez nem egy olyan durva bear market; de az is, hogy még lejjebb fog menni.
 
-– Hogyha valakinek tetszett a kis bemutatóm és kedvet kapott hozzá, beregisztrált a Krakenre és elkezdte használni, akkor erről tudjak, mert olyan jó érzéssel tölt el, hogy volt értelme dumálni. Tudok már pár embert, akit így rávezettem, de ha minél többen vannak, annál jobb – akkor azt érzem, hogy valami jót tettem a közösségért.
+De az biztos, hogy nagyon hasonlít a 2022-es fejleményekhez. Itt ezek a vonalak, ha összehasonlítjuk, azért eléggé hasonlítanak. És utána itt meglátható, hogy mi történt: egy olyan egyéves, másfél éves oldalazás után indult el elég jól fölfelé. Hát a Bitcoin ezt szokta csinálni.
+– De hát most ugye ki tudja, mi lesz a dollárral. Szóval egy kis történelmi kitekintőre gondoltam még a dollárral kapcsolatban, ha már ahhoz hasonlítjuk a bitcoint.
 
-A hallgatóknak mondom, hogy közben Antit sajnos elveszítettük technikai malőrök miatt, úgyhogy nélküle fogjuk lezárni az adást. Talán arról is beszéljünk röviden, hogy közel már a [Bitcoin Miskolc](https://bitcoinmiskolc.hu), ami Hajdúszoboszlón lesz, április 17-e és 19-e között, és ha jól tudom, te is ott leszel.
+Ugye a 70-es években, amikor 1971-ben Nixon elnök beszüntette az aranystandardot, és óriási infláció lett emiatt Amerikában — akkor kitalálták az úgynevezett petrodollár-rendszert. Ami azt jelentette, hogy megegyeztek ezekkel a közel-keleti olajtermelő országokkal, hogy ők mindenkinek csak dollárért adhatják el az olajat — és cserébe Amerika a hadseregével megvédi őket.
 
-– Igen. Leginkább arról szoktam ott diskurálni az emberekkel, hogy hogyan lehet vállalkozásokban bitcoint elfogadni, mi ennek a technikai megoldása – ezzel szeretek foglalkozni. Szívesen, hogyha ott valakit ez érdekel, hátha még üzletet is kötünk. Az volna a lényeg: szeretném, hogyha több Bitcoin elfogadóhely lenne Magyarországon, mert még kicsit kevés van. De most már az infrastruktúra Bitcoin oldaláról teljesen létezik hozzá. Ma is bemutattam egy olyan megoldást, hogy hogyha valaki hirtelen kap bitcoint, ne kelljen pánikba esni, mit kezdjen vele – gyorsan el is lehet költeni. Aki hosszú távon tart, azokat is szoktuk biztatni, hogy ahol lehet bitcoinnal fizetni, tegye meg.
+– Nem tudom, ki ellen.
 
-Mondjuk ez a Krak kártyás fizetés nem arra példa, mert itt gyakorlatilag nem bitcoinban kapja a kereskedő a fizetséget – de mégis egy hasznos eszköznek tűnik.
+– Egymás ellen. (nevetés) De lényeg az, hogy ez továbbra is biztosította a dollárnak a világpénz-szerepét, és az amerikai hadseregnek a világrendőr-szerepét.
 
-Még valami jut eszembe – ezt majd lehet, hogy a befejezés elé kéne vágni. Hogyha valaki a Krakenen vagy bármilyen más tőzsdén bitcoint vesz, ott azért nincs vége a történetnek. Hogyha nem azonnal elkölti, akkor azt nagyon érdemes kiutalni a tőzsdéről, saját tárcába, saját privát kulcs alá.
+És hát most, ezekkel a Hormuzi-szoros körüli bonyodalmakkal, ez a rendszer is kezd egy kicsit recsegni-ropogni. Mert hallunk olyan híreket, hogy az irániak elfogadnak kínai pénzt, indiai pénzt — meg „kriptót" is, így szokták mondani a hírekben, ami valószínűleg Bitcoin lehet —, azért, hogy mondjuk egy hajó átjuthasson azon a szoroson.
 
-– Általában ez szokott lenni az a momentum, amit elsőre magától senki nem tud megtenni. Nagyon félelmetes dolognak hangzik, és nyilván lehet benne hibázni. De hogyha a filozófiai oldalát nézzük: ez az a mozzanat, amikor a saját tárcámba kiveszem a bitcoint – amikor valóban én bitcoint vettem, valóban tuti, biztossá vált, hogy nekem bitcoinom van, és nem csak egy szám a képernyőn. Egy számot bárki ki tud írni a képernyőre, a Kraken is ki tudja írni. Hogyha mögötte sejthető is, hogy van Bitcoin – de az a 100%-os, az az enyém, hogyha kiutalom egy saját tárcába.
+De a legviccesebb hír, amit ezzel kapcsolatban olvastam — persze nem tudom, mennyire igaz —, hogy Oroszország Indiának adott el olajat. Ugye Oroszország is le van tiltva a dollárrendszerről egy ideje, és az indiaiak fizettek indiai pénzzel Oroszországnak az olajért.
 
-Egy javaslat erre a [Ginger Wallet](https://gingerwallet.io) – egy magyar gyártmányú wallet. Én is most kezdtem el használni nem olyan rég. Azelőtt hardware walletet használtam. A Krakenből kiküldtem bele bitcoint, ami utána el is lett küldve a hardware walletbe, egy coinjoin tranzakción keresztül. Hozzá lehet kötni a Ginger Wallethez a hardware walletet, és azt be lehet állítani a coinjoin kimenetének – és akkor eltűnik: a Gingerben nem sokáig van benne, csak néhány óráig a Bitcoin, és utána megy tovább a hardware walletbe. Közben keresztülmegy egy coinjoin tranzakción, ami azért jó, mert onnantól követhetetlenné válik, merre ment a Bitcoinom. Nem mondhatja azt nekem egy adóhivatal, hogy látják, hogy ott van az a Bitcoin – én meg mondhatom azt, hogy de hát az már rég nincs ott. Ők meg nem tudják, és egyikünk sem tudja bebizonyítani, hogy nálam van-e vagy nincs. Ez nem bizonyíték. Ez csak arra jó, hogy követhetetlenné válik a Bitcoin útja.
+Majd az oroszok egy idő után rájöttek arra, hogy de hát ők nem tudnak semmit kezdeni azzal az indiai pénzzel! Ott áll nekik halomban; legfeljebb Indiában tudnák elkölteni. Egyébként sehol a világon nem érvényes, és nem ér semmit.
 
-Annyit látnak csak, hogy én 2026 márciusában kiküldtem magamnak egy kis bitcoint, de hogy az még az én tulajdonomban van-e, azt ez alapján már nem lehet megmondani.
+Tehát mintha ilyen országvezetők most tanulnák meg, hogy hogy is működik a pénz. Azt, amit a Bitcoinból bárki megtanul azonnal — az az első lecke.
 
-– Ez egy kicsit jobb, mintha egyértelműen azt mondanák, hogy dehát ott van a hardware walletemen, látszik.
+– Ühüm.
 
-– Így van. Ez nyilván nem egy napnak az útja, hogy valaki eljusson onnan, hogy letölti a Kraken appot, odáig, hogy egy coinjoinnal hardware walletbe küldi a bitcoinját. De hogyha valaki ezen az úton végigmegy, egyrészt gratulálok neki, másrészt nagyon sokat tett a saját pénzügyi szuverenitásáért. Volt itt egy kis filozófia is a végére.
+– Hogy mitől van a pénznek értéke, meg hol van a pénznek értéke.
 
-– De így terveztem, csak ma elfelejtettem, de az adás közben eszembe jutott.
+Ez azt is mutatja, hogy elég nehéz leváltani a dollárt. Mert két kereskedő fél között egy olyan pénz, amit az egyik korlátlan mennyiségben tud nyomtatni — az elég hülyén hangzik a másik részére; ha van egy kis esze, akkor azt nem fogadja el. Tehát olyan pénzt kellene használni, amit senki nem tud nyomtatni. De hát jelenleg olyan pénzt használ a világ, amit Amerika tud nyomtatni — és ebből származnak talán a világnak a nagy problémái.
 
-– Oké. Király.
+És ez még Amerikának se annyira jó, mert ugye ez okozza a hatalmas kereskedelmi deficitet, és az amerikai iparnak a leépülését.
 
-A konferencia Hajdúszoboszlón lesz a [Hotel Atlantisban](https://hotelatlantis.hu), április 17-e és 19-e között. A [bitcoinmiskolc.hu](https://bitcoinmiskolc.hu) honlapon elérhetők a különböző ellátásokat nyújtó jegyek, és hamarosan a részletes program is elérhető lesz. Érdemes időben regisztrálni, mert az ingyenes jegyek csak március 26-áig érhetők el, utána csak Halving és Whale jegyeket lehet vásárolni.
+De hát érdekes időket élünk most. Ez még nem azt jelenti, hogy a dollárnak a világpénz-szerepe komolyan megrendült volna — az amerikai államkötvények kamatai se szálltak el különösebben emiatt. Csak érdekes fejlemények.
 
-Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik a Bitcoin tanulási útjukon személyes támogatást igényelnek, szeretettel ajánljuk a Bitcoin Mentor szolgáltatásait is. A [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon részletesen olvashatsz a Bitcoin tanácsadásunkról, a Bitcoin blogban pedig egyre több értékes bejegyzést találsz.
+És hát tudjuk, hogy van egy olyan fajta pénz, amit egyik ország sem tud nyomtatni — de ezt még kevesen ismerték föl. És még túl kicsi a piaci kapitalizációja ahhoz, hogy egy nagyobb olajüzlet ne borítaná meg nagyon a vásárlóerejét.
 
-Iratkozz fel a HUSZONEGY podcast YouTube csatornájára, valamint a Rumble csatornánkra is! Kövesd a HUSZONEGY-et a Facebookon és a [Nosteren](https://noszter.hu)! Támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái: a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). És a Fish üzeni: ne adjátok el a bitcoinotokat!
+De hát szépen lassan növekszik. És hogyha tovább tud növekedni a Bitcoin teljes piaci kapitalizációja, akkor egyre inkább alkalmas lesz arra, hogy minél nagyobb kereskedelmi ügyleteket ebben számoljanak el.
 
-– Köszönjük szépen. Köszönöm, hogy itt lehettem.
+Most jelenleg még talán az arany az, amit tudnak használni az országok — meg használnak is. De hát annak is úgy változik az árfolyama az utóbbi időben, hogy képes pár nap alatt 20%-ot zuhanni vagy emelkedni.
 
-– Akkor folyt köv, és dumálunk Hajdúszoboszlón is.
+– De azzal szerinted simán lebonyolítanak ilyen ügyleteket? Fizikai arannyal?
 
-– Főleg meg bulizunk, meg wellnessezünk.
+– Persze, simán. Most azt is olvastam épp tegnap — ugye az aranynál az is érdekes, hogy nem nagyon auditálható —, hogy Franciaországnak az állami aranytartaléka New Yorkban volt, és rájöttek arra, hogy jobb lenne, hogyha az otthon lenne, akkor legalább ők tudják, hogy megvan.
 
-– Azért is lehet jönni, hogy valaki wellnessezzen ott, és csak nem kell minden előadást meghallgatni. Én se szoktam.
+De végül is nem szállították haza. Hanem valami olyasmi volt, hogy hivatalosan eladták Amerikában; Amerika adott érte dollárt, ők meg dollárért Londonban vettek másik aranyat, és azt szállították végül Franciaországba — mert az közelebb volt.
 
-– Az is egy műfaj. És ott nagyon jó medence is van, meg szemben van egy nagy óriási élményfürdő.
+De ez ugye egyáltalán nem bizonyítja azt, hogy valaha megvolt egyáltalán az az arany ott, New Yorkban.
 
-– Jó hely.
+– De igazából jól csinálták, ha ezt csinálták — mert így legalább náluk van.
 
-– A hallgatókat pedig jövő héten egy újabb izgalmas adással várjuk. Köszi mindenkinek! Helló! Sziasztok!
+– És ezek a dolgok most látszanak is az arany árfolyamában, hogy az is eléggé volatilis. De az aranyat igazából kis mértékben, magánszemély szintjén nem nagyon lehet használni: ott olyan óriási a különbség az adási meg a vételi árfolyam között, hogy szerintem alkalmatlan. Csak nagyon hosszú távú vagyonőrzésre alkalmas.
+
+Ezért jó a Bitcoin — ott ilyen probléma nincs.
+– Még az jutott eszembe, hogy ha valaki véletlenül a mai kis bemutatóm alapján beregisztrált a Kraken tőzsdére, és elkezdi használni — akkor kommenteljen már ide alá, hogy lássam, hogy van értelme az ilyen bemutatóknak. Mert ez olyan jó érzéssel töltene el, hogy volt értelme dumálni.
+
+– Tudok már pár embert, akit így rávezettem.
+
+– Ha minél többen vannak, annál jobb. Akkor úgy érzem, hogy valami jót tettem a közösségért.
+
+– Simán. Tök jó. Hát köszönjük szépen. Van még valamid mára, vagy kerekítsük le?
+
+– Még valami most jut eszembe. Ezt lehet, hogy elé kéne vágnod — a befejezés elé.
+
+Ugye hogyha valaki a Krakenen vagy bármi más tőzsdén bitcoint vesz, akkor ott azért nincs vége a történetnek. Tehát hogyha nem azonnal elköltené, akkor azt nagyon érdemes kiutalni a tőzsdéről. Saját tárcába, saját privát kulcs alá.
+
+És általában ez szokott lenni az a momentum, amit elsőre magától senki nem tud megtenni. Nagyon félelmetes dolognak hangzik, meg nyilván lehet is benne hibázni.
+
+De hogyha a filozófiai oldalát nézzük a dolognak: tulajdonképpen az az a mozzanat, amikor a saját tárcámba kiveszem a bitcoint — akkor vált valóban biztossá, hogy nekem bitcoinom van. És nem csak egy szám a képernyőn.
+
+Mert ugye egy számot bárki ki tud írni a képernyőre; a Kraken is ki tudja írni. Mögötte sejthetjük, hogy azért van is bitcoin — de az a tuti, az a 100%-os, és akkor az enyém, hogyha én azt kiutalom egy saját tárcába.
+
+Például egy javaslat erre — amiről pár héttel ezelőtt csináltunk egy tök jó videót a meetupon, ott én voltam az operatőr: a Ginger Wallet, ami egy magyar gyártmányú wallet.
+
+Ezt a Ginger Walletet én is most kezdtem el használni, nem olyan rég; azelőtt hardveres walletet használtam. És itt látszik, hogy a Krakenből kiküldtem bele bitcoint, ami utána el is lett küldve a hardveres walletbe — egy CoinJoinon keresztül. Ami külön érdekes történet.
+
+Ugye hozzá lehet kötni a Ginger Wallethez a hardveres walletet is, és azt be lehet állítani a CoinJoin kimenetének. És akkor a Gingerben nem sokáig van benne a bitcoin, csak néhány óráig, és utána megy tovább a hardveres walletbe. De közben keresztülmegy egy CoinJoin-tranzakción — ami azért jó, mert onnantól követhetetlenné válik, hogy merre ment a bitcoinom.
+
+És nem mondhatja azt nekem senki — mondjuk egy adóhivatal —, hogy „hát látjuk, hogy ott van az a bitcoin, kiutaltad magadnak a hardveres walletedbe, akkor neked ott van vagyonod, és azt meg kéne adóztatni, mert fizessenek a gazdagok". Én meg mondhatom azt, hogy de hát az már rég nincs ott. És ők nem tudják, és akkor egyikünk se tudja bebizonyítani, hogy az nálam van vagy nincs nálam.
+
+Tehát ez nem bizonyíték. Ez csak arra jó, hogy követhetetlenné válik a Bitcoin útja. Annyit látnak csak, hogy én márciusban kiküldtem magamnak egy kis bitcoint — de hogy az még az én tulajdonomban van-e, azt ez alapján már nem lehet megmondani. És ez egy kicsit jobb, mintha egyértelműen azt mondhatnák, hogy „de hát ott van a hardveres walletben, meg látszik".
+
+Úgyhogy ez a teljes történet. Ez nyilván nem egy napnak az útja: hogy valaki eljusson onnan, hogy letölti a Kraken-appot, odáig, hogy egy CoinJoinnal a hardveres walletbe küldje a bitcoinját. De hogyha valaki ezen az úton végigmegy, akkor egyrészt gratulálok neki — másrészt nagyon sokat tett a saját pénzügyi szuverenitásáért.
+
+És akkor volt itt egy kis filozófia is a végére. (nevetés)
+
+– Ezt így tervezted?
+
+– Így terveztem, csak ma elfelejtettem — de közben, adás közben eszembe jutott. (nevetés)
+A konferencia Hajdúszoboszlón lesz, a Hotel Atlantisban, április 17. és 19. között. A [bitcoinmiskolc.hu](https://bitcoinmiskolc.hu) honlapon elérhetők a különböző ellátásokat nyújtó jegyek, és hamarosan a részletes program is elérhető lesz. Érdemes időben regisztrálni, mert az ingyenes jegyek csak március 26-áig érhetőek el.
+
+Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik a Bitcoin tanulási útjukon személyes támogatást igényelnek, szeretettel ajánljuk a Bitcoin Mentor szolgáltatásait is: a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon részletesen olvashatsz a Bitcoin tanácsadásunkról, a Bitcoin blogban pedig egyre több értékes bejegyzést találsz. Iratkozz fel a HUSZONEGY Podcast YouTube-csatornájára, valamint a Rumble-csatornánkra is! Kövesd a HUSZONEGY-et a Facebookon és a Nostron!
+
+Támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). És a [Firefish](https://firefish.io) üzeni, hogy ne adjátok el a bitcoinotokat!
+
+– A hallgatóknak mondom, hogy közben Antit sajnos elveszítettük technikai malőr miatt, úgyhogy nélküle fogjuk lezárni az adást.
+
+Még talán arról beszéljünk röviden, hogy közel van már a Bitcoin Miskolc — ami Hajdúszoboszlón lesz, április 17. és 19. között. És ha jól tudom, te is ott leszel, tehát veled is tudunk személyesen találkozni.
+
+– Igen. Én leginkább arról szoktam diskurálni ezeken a konferenciákon az emberekkel, hogy hogyan lehet vállalkozásokban bitcoint elfogadni, mi ennek a technikai megoldása — mert ezzel szeretek, meg szoktam is foglalkozni.
+
+Az volna a lényeg, hogy szeretném, hogyha több Bitcoin-elfogadóhely lenne Magyarországon — mert még kevés van. De most már az infrastruktúra Bitcoin-oldaláról teljesen létezik hozzá.
+
+Itt ma is bemutattam egy olyan megoldást, hogy hogyha valaki hirtelen kap bitcoint, akkor ne kelljen pánikba esni, hogy mit kezdjen vele. Tehát gyorsan el is lehet költeni — mert nyilván nem mindenki azért vesz vagy szerez bitcoint, hogy azt elrakja 10 évre. Nem muszáj.
+
+– El is lehet költeni azonnal a boltban.
+
+– Meg ugye aki hosszú távon tart, őket is szoktuk biztatni arra, hogy használják: ahol lehet bitcoinnal fizetni, ott tegye meg. Mondjuk ez a Krak-kártyás fizetés, ez nem erre példa — mert itt gyakorlatilag nem bitcoinban kapja a kereskedő a fizetséget. De mégis egy hasznos eszköznek tűnik.
+
+– Akkor folyt. köv., és akkor dumálunk Hajdúszoboszlón is.
+
+– Főleg meg bulizunk, meg wellnessezünk. (nevetés)
+
+– Azért is lehet jönni egyébként, hogy valaki wellnessezzen ott — nem kell minden előadást meghallgatni. Én se szoktam. (nevetés)
+
+– Az is egy műfaj. És nagyon jó medence is van ott. Meg ott szemben van egy nagy, óriási élményfürdő. Úgyhogy jó hely.
+
+– Akkor köszi még egyszer. A hallgatókat pedig jövő héten egy újabb izgalmas adással várjuk. Köszi mindenkinek! Helló!
+
+– Sziasztok!

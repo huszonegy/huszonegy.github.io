@@ -1,347 +1,661 @@
-Engem eléggé sokkolt ez a decemberi történet, pláne úgy, hogy találkoztam pár emberrel, aki odajött és semmit nem tudott. Kérdezte tőlem, hogy mi ez az egész – betiltották a kriptót Magyarországon? Megyünk a börtönbe? Te még szabadlábon vagy? (nevetés)
+Engem eléggé sokkolt egyébként ez a decemberi történet — pláne úgy, hogy találkoztam pár emberrel, aki így jött oda, és semmit nem tudott, és így kérdezte tőlem, ha már sejtette, hogy én többet tudok róla, hogy akkor most mi van? Mi ez az egész? Betiltották a kriptót Magyarországon? Megyünk a börtönbe? Te még szabadlábon vagy? (nevetés)
 
-– Jézusom. Azért ez elég sok embert megmozgatott, a Revolut miatt mindenképpen. Úgyhogy le lehet vonni a tanulságot:
+– Jézusom. Azért ez elég sok embert megmozgatott most, a Revolut miatt mindenképpen. Úgyhogy azzal le lehet vonni a tanulságot, hogy…
 
 – Not your keys, not your coins.
 
-[zene]
+---
 
-– Sziasztok, üdvözlünk mindenkit! Ez itt a HUSZONEGY Bitcoin Podcast ez évi első adása. Mai vendégünk Tamás, üdvözlünk! Mindenkinek boldog új évet kívánunk – nagyon jó kis évnek ígérkezik az idei. A tavalyi meg lett fejelve így év végén, úgyhogy a mai témát arra gondoltuk – mivel mindkettőnk feje üres – Tamás hozná be a legújabb témát, ami foglalkoztatja a köznépet, mégpedig a validátor és az őt körülvevő felhőmaszlagot kívánja eloszlatni. Szia Tamás, jól teltek az ünnepek?
+Sziasztok, üdvözlünk mindenkit! Ez itt a HUSZONEGY Bitcoin Podcast ez évi első adása. A mai vendégünk Tamás — üdvözlünk!
 
-– Szó! Boldog új évet kívánok én is mindenkinek. Nem történt semmi, tök nyugalom volt, beigli…
+És mindenkinek, akinek még nem tettem, boldog új évet kívánunk. Nagyon jónak ígérkezik ez az idei; a tavalyi az meg lett fejelve így év végén. Úgyhogy a mai témát arra gondoltuk — mivel mindkettőnk feje üres —, hogy Tamás hozná be a legújabb témát, ami foglalkoztatja itt a köznépet: mégpedig a validátort és az őt körülvevő felhőmaszlagot kívánja eloszlatni.
 
-– …az egész országban mindenki csak ünnepelt. Természetesen nem ez történt. Tudunk egy céget, ahol nagyon sokat dolgoztak az ünnepek alatt, de nem sajnáljuk őket – majd erről részletesebben mesélek. Utoljára novemberben voltam itt, úgyhogy pláne régen. Akkor még az volt az állás ezzel a törvényi szabályozással, hogy nincs validátor – ugyan életbe léptek a törvények, illetve december 27-től lépnek majd életbe –, de nincs validátor, akkor nem lehet bűncselekményt elkövetni. Mindenki nyugodjon le, nem lesz itt semmi, jönnek az ünnepek. Na hát ebbe a kellemes állapotba december 19-én, egy pénteki napon beütött a villám: a Szabályozott Tevékenységek Felügyeleti Hatósága kijelölt egy kriptováltásokat validáló vállalkozást, aminek a nevét azóta nem tudtam megjegyezni.
+Szia, Tamás! Jól teltek az ünnepek?
+
+– Szia! Boldog új évet kívánok én is mindenkinek. Hát így nem történt semmi, tök nyugalom volt. Beigli.
+
+– Az egész országban mindenki csak ünnepelt.
+
+– Hát nem, természetesen nem ez történt. Tudunk egy céget, ahol nagyon sokat dolgoztak az ünnepek alatt — de nem sajnáljuk őket. Majd erről kicsit részletesebben mesélek.
+
+Ugye én utoljára, ha jól emlékszem, novemberben voltam itt valamikor. És akkor még az volt az állás ezzel a törvényi szabályozással, hogy hát nincs validátor. Ugyan életbe léptek a törvények — illetve december 27-től lép majd életbe a törvény —, de nincs validátor, akkor nem lehet bűncselekményt elkövetni. Mindenki nyugodjon le, nem lesz itt semmi. Jönnek az ünnepek, ünneplünk.
+
+Na, hát ebbe a kellemes állapotba december 19-én — ha jól emlékszem, egy pénteki nap volt — beütött a villám: hogy a Szabályozott Tevékenységek Felügyeleti Hatósága hivatalosan kijelölt egy kriptováltásokat validáló vállalkozást. Aminek a nevét azóta sem tudtam megjegyezni, pedig elég… érdekes neve is van.
 
 – Valami Caduceus Zrt.?
 
-– Caduceus Zrt., igen. Be is vághatjuk a honlapjukat, mert arról beszélnék egy kicsit. Örülhetünk, hogy látjuk ezt a weboldalt, mert december 19-én reggel, amikor futótűzként elterjedt a hír, ennek a cégnek nem volt honlapja. Igaz ugyan, hogy a hatóság saját rendelete alapján a cég honlapján közzé kell tenni az árlistát meg a szolgáltatási feltételeket – tehát valószínűleg ezt a bűncselekményt sem lehet elkövetni, ha nincs honlapja a cégnek. (nevetés) Próbálok majd jogászkodós poénokba belemenni.
+– Caduceus Zrt., igen. Be is vághatjuk akár a honlapjukat, mert a honlapjukról beszélnék egy kicsit. Megosztottam a képernyőmet.
+
+Na most, örülhetünk, hogy látjuk ezt a weboldalt — mert december 19-én reggel, amikor futótűzként elterjedt a hír, hogy a hatóság kijelölt egy céget, ennek a cégnek nem volt honlapja. Igaz ugyan, hogy a feltételek között szerepel — a hatóság saját rendelete alapján —, hogy a cég honlapján közzé kell tenni az árlistát meg a szolgáltatási feltételeket. Tehát valószínűleg ezt a bűncselekményt sem lehet elkövetni akkor, ha nincs honlapja a cégnek. (nevetés) Próbálok majd ilyen jogászkodós poénokba belemenni Kata nélkül.
 
 – Én majd nevetni fogok.
 
-– A Kata meg majd megint legközelebb. Na, van még pár ilyen dolog.
+– Majd nevettek, a Kata meg majd legközelebb. (nevetés) Na, van még pár ilyen dolog.
 
-– Csak föl ne jelentsenek! (nevetés)
+– Csak föl ne jelentsenek!
 
-– Délutánra, aznap délutánra valószínűleg valamelyik AI-jal összedobtak fél óra alatt egy honlapot, amin tök általános dolgok voltak. A főoldal még mindig ugyanolyan, de akkor még nem volt rajta se adatvédelmi irányelv, se szabályzat, se cookie popup – az még máig nincs.
+– Hát azért mondtam, hogy sokat dolgoztak egyébként. Mert aznap délutánra — valószínűleg, mert sokan megjegyezték, hogy hogy lehet valaki validátor cég úgy, hogy még honlapja sincs — aznap délutánra valamelyik AI-jal összedobtak fél óra alatt egy honlapot, amin ilyen tök általános dolgok voltak. A főoldal az még mindig ugyanolyan. De akkor még mindig nem volt rajta se adatvédelmi irányelv, se szabályzat, se cookie-popup. Az még máig nincs.
 
-– Hidd el, ez így volt néhány napig.
+– Pedig ha megnézi valaki… az archive.org-ot nézem éppen. Nincs rajta.
 
-– Én is emlékszem. Ugye ez péntek este volt már karácsony előtt, amikor senkinek semmi dolga. És akkor kiderült, hogy megváltozik a jogi állás, mert innentől kezdve december 27-től valóban csak úgy lehet Bitcoint vagy kriptót – ez az összes kriptóra vonatkozik, mert jogi dolog, ezért sajnos kriptót kell mondanom – szóval Magyarországon úgy lehet kriptót váltani, hogy ezt a váltást validálja a szolgáltató ennél a cégnél. Bármit is jelentsen ez, mivel továbbra sem volt semmilyen technikai információ. Volt egy e-mail címük, arra aki írt, annak válaszoltak valami sablonszöveget. Közben megjelentek oknyomozó újságcikkek is arról, hogy kik a cég tulajdonosai, milyen összefüggésben vannak. Erről nem akarok beszélni, mert nem az én dolgom, meg azokat mindenki olvasta.
+– Hát hidd el nekem, hogy ez így volt egy pár napig.
 
-– Attól nem vagyunk okosabbak, hogy akkor most mi van a Bitcoin-váltásokkal.
+– Én is emlékszem.
 
-– Gondoltuk, hogy nem lesz kormánytól távoli érdekszférából ez a cég.
+– És hát ugye ez péntek este volt már, karácsony előtt, amikor senkinek semmi dolga, mindenki már tök nyugodt. És akkor kiderült az, hogy valószínűleg megváltozik a jogi állás. Mert innentől kezdve, december 27-től valóban csak úgy lehet bitcoint vagy kriptót — tehát ez az összes kriptóra vonatkozik, mert ez jogi dolog, ezért sajnos most kriptót kell mondanom néha —, szóval úgy lehet Magyarországon kriptót váltani, hogy ezt a váltást validálja a szolgáltató ennél a cégnél. Bármit is jelentsen ez — mivel még továbbra se volt semmilyen technikai információ arról, hogy mi ez.
 
-– Ezt én nem tudhatom.
+Volt egy e-mail-címük, arra aki írt, annak válaszoltak valami sablonszöveget. De azért dolgoztak keményen.
 
-– Gondoltuk – mert nektek piszkos a fantáziátok. Én itt se vagyok, elhatárolódom. (nevetés) Mivel Zrt., nem nyilvános a tulajdonos. Néhány vezető és cégviselő neve nyilvános, abból lehet következtetni kapcsolati hálókra. De hát ez az egész cég tevékenysége az, hogy kapcsolati hálókra következtet – erről kicsit később. Teltek-múltak az ünnepek, és december 27-ére fölkerült a honlapra egy 105 oldalas szolgáltatási feltételek nevű dokumentum, meg adatvédelmi irányelvek is.
+Közben megjelentek újságcikkek is, ilyen oknyomozó újságíróktól, hogy ki a cégnek a tulajdonosa, kivel milyen összefüggésben van. Erről nem akarok beszélni, mert ez nem az én dolgom, meg már megjelentek ilyen cikkek, szerintem azokat mindenki olvasta.
 
-– Ez a dokumentum végre valahára legalább egy kis fényt gyújt a sötétségbe, mert hosszú és részletes. Én voltam olyan szerencsétlen, hogy többé-kevésbé végigolvastam – ha nem is minden betűjét, mert ilyen jogi szöveg és mindent háromszor megismételt.
+– Csak attól nem vagyunk okosabbak, hogy akkor most mi van a Bitcoin-váltásokkal kapcsolatban. Meg hát gondoltuk, hogy nem lesz kormánytól távoli érdekszférából ez a cég.
 
-– Nem is lehet lassan olvasni, mert az ember megőrül tőle.
+– Hát ezt én nem tudhatom.
 
-– Ez már a Katának a szakmája, ő nem őrül meg tőle. Ebből az derül ki – és itt kezdődnek az újabb problémák –, hogy ez a cég a váltótól, vagy akár magánszemélytől, kap egy forrás és egy cél blokklánc-címet, praktikusan Bitcoin-címet. Egyszerűbb esetben egy óra alatt, bonyolultabb esetben 48 órán belül megpróbál erre egy háromfokozatú skálán mérhető minősítést adni. Az első fokozat: okés, ugyan kripto, de rendben. A második: figyelmet igényel. A harmadik: a minősített eset, ami nagyon-nagyon gyanús. Ezt egy PDF-dokumentumban e-mailben visszaküldi.
+– Logikailag gondoltuk…
 
-– Az adatfogadást is e-mailen lehet megtenni? Nincs nekik API-juk?
+– Mert nektek piszkos a fantáziátok. Én itt se vagyok, elhatárolódom.
 
-– Fax lehetőség sincs leírva. Nem, ők már modernek, elektronikusan kommunikálnak e-mailben, és PDF-et küldenek vissza. Ha esetleg nagyon elhúzódna a dolog, szólnak – akár két e-mailt is nagyon udvariasan váltanak. Na de ugye az SZTFH-rendeletben az van, hogy minden egyes fiat és kriptó közti váltást validálni kell a tőzsdéknek – bárkinek, aki magyarországi ügyfélnek szolgáltat, vagy Magyarországon lévő nem magyar ügyfélnek. Nagyon jól le lett fedve, mire vonatkozik – mondhatjuk, hogy mindenre.
+– Ott se voltam.
 
-Ja, az elején kellett volna mondanom, hogy ma január 6-a van, tehát a január 6-ai állapotról beszélek. A komolyabb tőzsdéken a váltás – veszek euróból Bitcoint vagy Bitcoinból eurót – csak egy adatbázis-művelet, semmilyen Bitcoin-cím nem szerepel benne. Ahol szerepel küldő és fogadó cím, az az eset, amikor beküldöm a tőzsdére vagy kiszedem onnan a saját tárcámba. De az nem váltás, hanem beküldés vagy kiküldés – nem arra vonatkozik a törvény. Ez az érthetetlen ellentmondás, ami a cég felhasználási feltételei és a törvények között feszül. Ráadásul egy ügyfél egy tőzsdén napi több ezer váltást is megcsinálhat, ha van valami robotja.
+– Ja, hogy mivel Zrt., nem nyilvános a tulajdonos. Néhány cégjegyzésre jogosult vezetőnek a neve nyilvános, és hát abból lehet következtetni kapcsolati hálókra, ugye. De hát ennek az egész cégnek a tevékenysége az, hogy következtetnek kapcsolati hálókra — de erről kicsit később.
 
-– Miközben egy ilyen validálás akár 48 óra is lehet.
+Aztán teltek-múltak az ünnepek. Pontosan nem emlékszem, melyik nap, de valahogy pont úgy volt, hogy december 27-ére — tehát mire elmúlt a karácsony —, addigra fölkerült erre a csodálatos honlapra egy ilyen 105 oldalas Szolgáltatási feltételek nevű dokumentum. Meg adatvédelmi irányelvek is vannak itt már, látom.
 
-– Bár ott nincs mit validálni. Persze még nincs vége, mert a törvényben az is benne van, hogy csak validált kriptováltásból származó fiat pénzt lehet magyar bankszámlára utalni. A cég szabályzatában meg az van, hogy ők nem kezelnek semmilyen személyes adatot – kizárólag a két Bitcoin-címet kezelik. Hogy ki az ügyfél, mi a neve, hol lakik – ezt határozottan visszautasítják, mindenféle törvényekre és GDPR-ra hivatkozva. Ha valaki ilyet küld nekik, felmondják a szerződést. Ők kizárólag Bitcoin-címeket akarnak minősíteni kockázati besorolás alapján, különféle blokklánc-nyomozó szoftverek segítségével.
+Itt látható ez a dokumentum, ami végre valahára legalább egy kis fényt gyújt a sötétségbe, mert ez tényleg hosszú és részletes. És én voltam olyan szerencsétlen, hogy többé-kevésbé végigolvastam — ha nem is minden betűjét, mert ez ilyen jogi szöveg, és mindent háromszor megismétel.
 
-A röhej az, hogy a MiCA-szabályozás szerint ezt a tőzsdéknek maguknak is meg kell csinálniuk, pontosan ugyanilyen módszerekkel, ugyanazokból az adatforrásokból. Tehát szakmailag sem ad hozzá semmi különöset, azon kívül, hogy van egy igazolás, hogy az információ megjárta a validátort, és ki van fizetve a díja – gondolom, talán ez a legnagyobb motiváció. Ráadásul a PDF-et a váltó kapja meg, nem a bank. A bank nem kérhet ilyet, a bank nem foglalkozik kriptóval. Itt van egy hatalmas fekete lyuk a különféle szereplők között, nincs köztük kapcsolat.
+– Tehát nem is lehet lassan olvasni, mert az ember megőrül tőle.
 
-– Nekem az a határozott érzésem, hogy amikor fél évvel vagy egy évvel ezelőtt kitalálták ezt a törvényt, aztán az SZTFH megírta a rendeletet, meg valaki megírta a cég felhasználási feltételeit – az nem ugyanaz az ember volt. Ezek csak futólag beszélték meg egymással, hogy mit csinálnak. Az egyik ezt értette alatta, a másik azt, és még azóta sem sikerült egyeztetniük. Arról nem hallottam, hogy bárki is végrehajtott volna ilyen validálást. Az nem nyilvános dolog, de senki nem is dicsekedett vele. Egyébként magánszemélyek is regisztrálhatnak a weboldalra és validáltathatják a saját váltásukat.
+– Na, ez már a Katának a szakmája.
 
-– Nem kérlek, hogy most küldjünk be egyet nekik – nem lenne elég a műsoridő. (nevetés)
+– Katának való, ő nem őrül meg tőle.
 
-– Szerintem ne próbáljuk meg. De miért is jött ez a téma: az ünnepek alatt több régebbi ismerősemmel találkoztam, akik arról számoltak be, hogy a Revolut jól megszívatta őket. Ugyanaznap, december 19-én szüntette be a Revolut a magyarországi ügyfelek számára a kriptószolgáltatásokat. Nyilván nem véletlenül – ők valószínűleg már előre látták, hogy ez valami teljesíthetetlen dolog lesz, és inkább nem kérnek belőle.
+– Hát ebből az derül ki — és akkor itt kezdődnek az újabb problémák, amikre eddig nem nagyon gondoltunk —, hogy ez a cég azt akarja csinálni, hogy ő a váltótól, vagy akár egy magánszemélytől is, aki kriptót akar váltani, kap egy forrás- és egy cél-blokklánccímet. Tehát mondjuk Bitcoin-címet, praktikusan a mi esetünkben.
 
-– Ráadásul a Bitcoin-árfolyam pont december 19-én volt a lokális mélypontján, ilyen kéthónapos mélypontján. És pont aznap váltotta át az összes magyar Revolutosnak a Bitcoinját forintra. Én is kaptam valami háromszáz forintot, mert ott volt valahol eldugva a Revolutomon. Jó pár emberrel találkoztam, aki zokon vette – aki nem nagyon figyelte, mi történik, karácsony előtt kapott valami Revolut-üzeneteket, hogy csináljon valamit. Egy ismerősöm azt mondta, hogy ő nem érti az egészet. Ott volt a Bitcoinja a Revoluton, ott jó volt. Nem tudja, mi az a kiutalás. Szerintem nagyon kevesen jutottak el odáig, hogy Revolutból kivegyék a bitcoinjukat egy saját hardware walletbe.
+És akkor ez a cég egyszerűbb esetben egy óra alatt, bonyolultabb esetben 48 órán belül megpróbál erre egy háromfokozatú skálán mérhető minősítést adni. Ahol a három fokozat az, hogy: ez ilyen okés — kriptó ugyan, de okés, valahogy így van leírva. A következő fokozat, hogy figyelmet igényel. A legfölső fokozat meg az a minősített esete a kriptováltásnak, ami nagyon gyanús, nagyon-nagyon gyanús.
 
-– Én olyan levelet kaptam a Revoluttól, amiben nem említettek kiutalást, csak azt, hogy váltsam át. Bár nekem már nem volt semennyi bitcoinom.
+Tehát ezt az 1-2-3-at egy PDF-dokumentumban, e-mailben visszaküldi. Magát az adatfogadást is e-mailen lehet megtenni.
 
-– Ki is lehetett utalni, de szerintem a Revolut levelében nem volt szó kiutalásról. Állítólag 500 000 embernek volt Revoluton kriptója – a többség valószínűleg nem sok.
+– Nincs nekik API-juk vagy valami? Az komoly?
 
-– Nem tudom, igaz-e ez a szám, de ha csak a fele, az is nagyon nagy. Tekintettel a podcastunk nézettségére, valószínűleg nagyon kevés ember jutott el odáig Magyarországon, hogy legyen saját, önrendelkező Bitcoin-tárcája, amibe ki tudja utalni. Vagy egy másik tőzsdére – ott is azért kevesebb ügyfél van. A Revolut volt abszolút a legnagyobb, mert ott volt a legegyszerűbb hozzájutni. Most sajnos kicsit resetelődött az egész helyzet Magyarországon, kezdhetjük elölről – de nem baj, mi itt vagyunk és toljuk. Aki ránk hallgatott, az nem járt rosszul.
+– Fax lehetőség nincs leírva. Hát fax sincs. Nem, ők már modernek, ők elektronikusan kommunikálnak, e-mailben, és utána PDF-et küldenek vissza.
+
+– Elektronikusan.
+
+– E-mailben. De hogyha esetleg nagyon elhúzódna ez a dolog, akkor ők azért szólnak, hogy ez el fog húzódni. Tehát akár lehet, hogy két e-mailt is írnak, így nagyon udvariasan.
+
+Na de ugye közben az SZTFH-rendeletben meg az van, hogy minden egyes fiat és kriptó közti váltást validálni kell a tőzsdéknek. Bármilyen tőzsdének, aki magyarországi ügyfélnek szolgáltat — vagy a Magyarországon lévő nem magyar ügyfélnek; hogyha már magyar internetszolgáltató igénybe van véve ebben a történetben, akkor már vonatkozik rá ez a kötelezettség. Tehát ott nagyon jól le lett fedve, hogy ez mire vonatkozik. Tehát így mondhatjuk, hogy mindenre.
+
+De hát ezzel az a nagy baj — ezt már mondjuk elmondták előttem többen is —, és elfelejtettem, az elején kellett volna mondani, hogy ma január 6-a van, tehát ez a január 6-ai állapot, amiről beszélek… szóval a komolyabb tőzsdéken a váltás — veszek euróból bitcoint, vagy bitcoinból eurót — az csak egy adatbázisművelet. Tehát ott semmilyen Bitcoin-cím nem szerepel ebben a váltásban.
+
+Ahol szerepel bitcoinküldő meg -fogadó cím, az az az eset, amikor én beküldöm a tőzsdére a valamimet — az eurómat vagy a bitcoinomat —, vagy kiszedem onnan, kiküldöm a saját tárcámba vagy a saját bankszámlámra. De az nem váltás, az egy ki- és beküldés, tehát nem arra vonatkozik az egész törvény.
+
+Tehát ez most az az érthetetlen ellentmondás, ami itt feszül ennek a kiváló cégnek a felhasználói feltételei és a törvények meg a rendeletek között.
+
+És hát nyilván ilyen váltásokból egy ügyfél egy tőzsdén akár napi több ezret is megcsinálhat — miért ne, hogyha van neki valami robotja. Vagy ha csak nyomkodja sokat a gombot, akkor is megcsinálhat jó sokat. Miközben egy ilyen validálás az meg akár 48 óra is lehet.
+
+Egyébként persze még nincs vége a dolognak, mert a törvényben ugye az is benne van, hogy csak validált kriptováltásból származó fiat pénzt lehet magyar bankszámlára utalni. Nem így van megfogalmazva, de ez a lényege.
+
+De ugye a cég szabályzatában meg az van, hogy ő nem kezel semmilyen személyes adatot. Ő kizárólag a két darab Bitcoin-címet kezeli, semmi mást. Esetleg a tranzakció többi adatát — mondjuk a mennyiséget, az időpontot. De személyes adatot, hogy ki az ügyfél, mi a neve, hol lakik, satöbbi, ezt ők nem kezelik. És ezt ők határozottan visszautasítják, mindenféle törvényekre, GDPR-ra hivatkozva: hogyha valaki ilyet küld nekik e-mailben, akkor felmondják vele a szerződést. Nem, nem, azt nem szabad!
+
+Ők kizárólag Bitcoin-címeket akarnak minősíteni, kockázati besorolás alapján, különféle ilyen erre szakosodott blokklánc-nyomozó szoftverek segítségével.
+
+Na most, az a röhej, hogy egyébként a MiCA-szabályozás szerint ezt a tőzsdéknek maguknak is, vagy a váltóknak maguknak is meg kell csinálniuk — pontosan ugyanilyen módszerekkel, ugyanazokból az adatforrásokból. Tehát még szakmailag sem ad hozzá ez semmi különöset azon kívül, hogy van egy igazolás, hogy megjárta az információ ezt a validátort. És persze ki van neki fizetve a díja. Gondolom, talán ez lehet a legnagyobb motiváció az egész mögött.
+
+Ilyen módon: hogyan tudna egy ilyen Bitcoin-cím-minősítő PDF-okirat a magyar banknak bármit is igazolni arról, hogy az az euró, amit én átutalok — mert ugye az már euró, amit utalok a bankszámlámra —, az validált kriptováltásból származik? Ráadásul ezt a PDF-et a váltó kapja meg, nem a bank. A bank nem is kérhet ilyet, a bank nem foglalkozik kriptóval.
+
+Tehát itt van egy hatalmas fekete lyuk a különféle szereplők között, és nincs köztük kapcsolat. Én úgy érzem.
+
+Nekem az a határozott érzésem, hogy amikor fél évvel vagy egy évvel ezelőtt kitalálták ezt az egész törvényt, aztán az SZTFH-rendeletet utána valaki megírta — meg aki megírta ennek a kedves vállalatnak a felhasználói feltételeit —, az nem ugyanaz az ember volt. És ezek csak nagyon futólag beszélték meg egymással, hogy ők most mit csinálnak: hogy jó, kriptováltás, kriptováltás, oké. És akkor az egyik ezt értette alatta, a másik meg azt. És még azóta sem sikerült egyeztetniük, hogy akkor most illeszkedjenek ezek a dolgok egymásba.
+
+Úgyhogy most nagyjából így tartunk. Arról még nem hallottam információt, hogy bárki is ilyen validálást végrehajtott volna. De hát persze nyilván nem is kell tudni, az nem nyilvános dolog — de senki nem is dicsekedett vele, hogy neki van egy ilyen minősítése bármiről.
+
+Egyébként magánszemélyek is regisztrálhatnak a weboldalra. Tehát elvileg, hogyha az ember maga intéz valami váltást, azt is validáltathatja. Hát hogyha valaki kalandvágyó, megpróbálhatja.
+
+– Nem kérlek, hogy most küldjünk be egyet nekik. (nevetés)
+
+– Nem lenne elég a műsoridő. De megpróbálhatjuk.
+
+– Hát szerintem ne próbáljuk meg. (nevetés)
+
+– De hogy miért is jött ez az egész, miért gondoltam, hogy beszéljünk erről: mert az ünnepek alatt több régebbi ismerősömmel, bitcoinerrel is találkoztam, akik arról számoltak be, hogy hát őket a Revolut jól megszívatta.
+
+Ugyanaznap, egyébként december 19-én szüntette be a Revolut a magyarországi ügyfelek számára a kriptoszolgáltatásokat. Nyilván nem véletlenül, mert ők ezt valószínűleg már előre látták, hogy ez valami teljesíthetetlen dolog lesz, és ők ebből inkább nem kérnek. Vagy megmondták nekik, hogy nem kérnek.
+
+És ugye az történt — ráadásul, hogyha megnézi az ember a Bitcoin-grafikont, akkor pont 19-én volt a Bitcoin-árfolyam lokális mélypontja, ilyen kéthavi. És pont aznap váltotta át az összes magyar revolutosnak a bitcoinját forintra. Én is kaptam valami 300 forintot, mert ott volt valahol még eldugva a Revolutomon.
+
+És hát jó pár emberrel találkoztam, aki ezt eléggé zokon vette. Aki nem nagyon figyelte ezt az egészet, hogy mi történik itt — meg jó, karácsony előtt elkezdte neki üldözgetni a Revolut az üzeneteket, hogy csináljon valamit, átválthatja, kiutalhatja. Arra azt mondta egy ismerősöm, hogy „de mi az?" Ő ezt az egészet nem érti. Neki ott volt a bitcoinja a Revoluton, ott jó volt. Ő nem tudja, mi az, hogy kiutalás.
+
+Tehát szerintem nagyon-nagyon kevesen jutottak el odáig, hogy a Revolutból az akkor rendelkezésre álló néhány hét alatt kivegye a bitcoinját, mondjuk egy saját hardveres tárcába.
+
+– Igazából én olyan levelet kaptam a Revoluttól, amiben nem is említettek olyat, hogy kiutalni is lehet — csak azt, hogy váltsam át. Bár nekem már ott nem volt semennyi bitcoinom, csak régebben. De nekem egyértelműen az volt a hírük, hogy váltsam át, vagy majd december 18-án talán akkor ők átváltják.
+
+– Nekem úgy rémlik, hogy mindenhol az volt — bár én konkrétan nem a Revoluttal társalogtam, hanem újságcikkeket olvastam, és ott az volt, hogy kiutalni lehet. Meg ki is lehetett.
+
+– Igen, de szerintem a Revolut levelében nem volt szó kiutalásról.
+
+– Na de azért legyünk őszinték: állítólag 500 000 embernek volt Revoluton kriptója, valamennyi.
+
+– Nem tudom, hogy ez a szám igaz-e, de hát ha csak a fele, akkor is nagyon nagy szám.
+
+– De hát tekintettel mondjuk a mi podcastunk nézettségére is: valószínűleg abból nagyon-nagyon kevés ember jutott még el sajnos odáig Magyarországon, hogy legyen saját Bitcoin-tárcája, önrendelkező tárcája, amibe ki tudja utalni. Vagy esetleg egy másik tőzsdére — ott is azért kevesebb ügyfél van. A Revolut volt abszolút a legnagyobb, mert ott volt a legegyszerűbb ehhez hozzájutni.
+
+Hát most már sajnos kicsit reszetelődött ez az egész dolog Magyarországon, kezdhetjük előlről. De nem baj, hát mi itt vagyunk és toljuk. Aki ránk hallgatott, az nem járt rosszul.
+
+– Az nem sérült nagyon szerintem.
 
 – Annak ugyanannyi bitcoinja van. Maximum vett még hozzá.
 
-– Az én DCA robotomnak jól jött ez a december – végig vásárolgattam olcsón. Azóta már emelkedtünk, az idei év ebből a szempontból jobban kezdődik.
+– Hát az én DCA-robotomnak jól jött ez a december. Végigvásárolgattam olcsón. Most azóta már emelkedtünk — az idei év ebből a szempontból jobban kezdődik.
 
-– Örült a robotod, vagy csak az eredményét látod?
+– Örült a robotod, vagy csak az eredményét látod, hogy ugyanannyi euróból több bitcoint tudtál?
 
-– Minden nap küld egy e-mailt, hogy mennyit vettem. Én örülök neki.
+– Hát igen, igen.
 
-– Akkor e-mailben kommunikáltok ti is – az előbb meg lefikáztad! (nevetés)
+– Küldte a smiley-kat? (nevetés)
 
-– Nem PDF-ben. A robot API-n beszélget a tőzsdével, csak utána küld nekem egy e-mailt, mert én nem vagyok API-olvasó. Azt küldi el, amit visszakapott – a JSON-t.
+– Nem, hát nem olyan intelligens. Küld minden nap egy e-mailt, hogy mennyit vettem. Hát én örülök neki.
 
-– Köszi, hogy fókuszba hoztad. Én nem tudtam, hogy ennyi téma van róla, mert kicsit eltávolodtam az elmúlt három hétben a valóságtól. (nevetés) Próbáltam lazítani.
+– Akkor e-mailben kommunikáltok ti is! Látod, az előbb meg lefikáztad. (nevetés)
 
-– Attól a valóságtól, amit a neten keresztül érzékelsz. Az a valóság, nem az, amit scrollozás közben látsz.
+– Hát de nem PDF-ben. Maga a robot az API-n beszélget a tőzsdével, csak utána küld nekem egy e-mailt, mert én nem vagyok API-olvasó. Azt küldi el egyébként, amit visszakapott, ezt a JSON-t.
 
-– Szerintem kevésbé szór, mint a karácsonyfa. (nevetés)
+– Ja.
 
-– Szerintem a validátor még nem is működik technikailag.
+– Úgyhogy nem igaz, nem PDF-ben kommunikálunk. (nevetés)
 
-– Vicces ez a differenciálás, amit mondasz. Erről sokan sokat beszéltek korábban, hogy így jelölik majd a coinokat, melyik milyen ügyből származik – ha ezt eléri a rendszer, már nyert. A 105 oldalban erről is ír elég részletesen, mi alapján minősítik a címeket. Érdekes, hogy a legkockázatosabb kategóriában van a CoinJoin.
+– Hát akkor köszi, hogy felhívtad erre a figyelmünket, mert én vakrepülésben voltam, bevallom őszintén. Ez annyira úgyse érint, mert nem gondolom, hogy érinti a bitcoint — de sokan úgy gondolják, hogy igen. Nyilván ez személyes kérdés.
 
-– Ezzel nekem az a bajom jogilag, hogy a CoinJoinnal gyakorlatilag eltünteted a coin történetét. Tehát azért vagy bűnös, mert nem lehet bizonyítani, hogy ártatlan vagy. De a jogban ez általában fordítva szokott lenni – az a bűnös, akiről bebizonyítják.
+Szóval akkor van egy validátorunk Magyarországon.
 
-– A modern jogban biztos nem. De amúgy ezt még senki nem mondta így.
+– Hát van. Én szerintem még nem működik egyébként technikailag.
 
-– Errefelé viszik az irányt. A fordított jogrendszer hogyan működik itt?
+– Vicces egyébként ez a differenciálás, amit mondasz. Erről nagyon sokat volt szó korábban, hogy így jelölik majd a coinokat, hogy melyik milyen ügyből származik — hogy meg lehessen különböztetni. Mert akkor már nyert a rendszer, ha ezt eléri.
 
-– Ráadásul a fiat pénzrendszerben egyáltalán nincs ilyen, hogy története lenne a pénznek, pláne a készpénznek. Itt bele lehet kapaszkodni, és mindjárt hoztak rá egy teljesen értelmetlen szabályt.
+– Igen. Egyébként a 105 oldalban erről is ír elég részletesen: hogy mi alapján klasszifikálják, minősítik ezeket a címeket. És ott például érdekes, hogy a legkockázatosabbra minősített kategóriában van a CoinJoin.
 
-– Egyértelműen az adoptációt akarják nehezíteni és lassítani.
+– Egyértelmű volt, hogy…
 
-– Neked kell bizonyítanod, hogy ártatlan vagy – mindjárt abból indulunk ki, hogy gyanús.
+– Ezzel nekem meg megint az a bajom, így jogilag, hogy a CoinJoinnal gyakorlatilag eltünteted a coinnak a történetét — tehát akkor gyakorlatilag azért vagy bűnös, mert nem lehet bizonyítani, hogy ártatlan vagy. Tehát akkor bűnös vagy. De szerintem a jogban ez általában fordítva szokott lenni: az a bűnös, akiről bebizonyítják.
 
-– Az életben azért nem így működik. Al Capónét is csak adócsalással tudták lecsukni, pedig súlyosabb bűnöket is elkövetett. Van egy konkrét példa: a világ legnagyobb bankrablása, ami nem olyan rég történt egy közeli országban – a központi bankból olyan kétmilliárd dollárnyi pénz tűnt el, és nem tudják senkire rábizonyítani.
+– Igen, csak a modern jogban biztos nem. De ez majd Kata.
 
-– A legnagyobb bankrablás minden nap történik.
+– Igen. És ezt még senki nem mondta így szerintem.
 
-– De ez egy konkrét eset. Ettől senki nem gondolja komolyan, hogy azért, mert Bitcoint veszünk – vagy ne adj isten eladunk –, azért bűnre fogunk kerülni. Ne röhögtessen már senki, hogy ettől kellene félni.
+– Hát errefelé viszik az irányt. A szabályozó az a fordított jogrendszer, az hogy működik itt?
 
-– Aki nagyon félni akar, azt nem menthetjük meg, de a realitás talaján maradva ne féljünk ettől.
+– Ráadásul a fiat pénzrendszerben meg egyáltalán nincs olyan, hogy története lenne a fiat pénznek. Pláne a készpénznek, de a banki fiat pénznek se nagyon. Tehát itt bele lehet ebbe kapaszkodni, és akkor mindjárt hoztak rá egy ilyen teljesen értelmetlen hozzáállású szabályt.
 
-– Ennek bíróság előtt is át kell mennie, meg csak ötmillió forint fölött szoktak ilyen dolgokat mondani, akik értenek hozzá. Szerintem annyi volt a lényeg, hogy kihozzanak valamit, amit majd utána lehet finomítani. Nem siet senki sehova.
+– Hát mert egyértelműen az adoptációt akarják nehezíteni meg lassítani.
 
-– Nem gondolom, hogy ez adóbevétel szempontjából lényeges, inkább kontroll. Egy ilyen SZTFH-t összedobni meg egy ilyen honlapot – az biztos nem sokba került.
+– Na jó, de neked kell bizonyítanod, hogy ártatlan vagy. Mindjárt abból indulunk ki, hogy biztos… De hát az életben ez azért nem így működik. Tehát Al Caponét is csak adócsalással tudták lecsukni, nem? Pedig hát ennél súlyosabb bűnöket is elkövetett.
 
-– Tuti milliókból hozták ki ezt a profi munkát. (nevetés) Privát cég, nem állami. Aki konkrétan megcsinálta, biztos nem kapott sokat, mert az csak egy promptot írt – a honlapra gondolok.
+És van például: a világ legnagyobb bankrablása megtörtént nem olyan rég egy közeli országban, ahol a központi bankból, azt hiszem, olyan kétmilliárd dollárnyi pénz tűnt el — és nem tudják senkire rábizonyítani, hogy ő lenne a bűnös, és ezért szabadlábon mászkál mindenki.
 
-– Tetszik a logója. Nem tudtam, hogy ez gyógyszerészeti weboldal vagy valami újabb shitcoin. De nem akarom fikázni őket – majd biztos beindulnak, egyre több szakértő lesz benne, jogász, technológiai szakember, és nem PDF-ben fog menni. A lényeg, hogy elkezdtünk erre lépkedni. Magyarország szívatja az állampolgárait, de melyik kormány nem.
+– Hát a legnagyobb bankrablás az minden nap történik.
 
-– Nagyon nagy erőkkel kell keresni olyat, aki nem szívat. Például El Salvador – bár ott is rosszul nézel, és mész a fal mellé.
+– Tudom, de ez egy konkrét.
 
-– Vannak Magyarországnál rosszabb helyek, ezt kijelenthetjük, de jobbak is ebből a szempontból. Ez szubjektív, mint az érték – kinek milyen. Mi történt még a Bitcoin háza táján ez alatt az időszak alatt?
+– Ja, jó. Hát igen. Csak lehet, hogy a híre nem ment el odáig felétek.
 
-– Nézzünk chartokat!
+– Jó, de ez inkább ilyen félelemgenerálás, ez az egész. Most ezt senki nem gondolja komolyan, hogy csak azért, mert mi bitcoint veszünk vagy ne adj isten eladunk, ezért börtönbe fogunk kerülni — mert olyan szolgáltatónál csináltuk, aki még nem regisztrált be a validátornál. Most ne röhögtessen már bárki, hogy ettől kéne félni.
 
-– Van valami friss ábrád?
+– Aki nagyon félni akar, azt nem menthetjük meg ettől. De azért a realitás talaján: ne már, most ne féljünk már ettől.
 
-– A kígyó például már a saját farkába harapott. Megdőlt a zöld-zöld-zöld-piros ciklus.
+– Ennek egy bíróság előtt is még át kell mennie. Meg csak 5 millió forint fölött — valami ilyesmiket szoktak mondani, akik értenek hozzá.
 
-– Ezt elmondod azok kedvéért, akik nem ismerik?
+– Hát szerintem itt csak annyi volt a lényeg, hogy kihozzanak valamit, amit majd utána lehet finomítani. Ez szépen lassan… nem siet senki sehova. Igazából nem gondolom, hogy nagyon lépéskényszerben lenne itt a jogalkotó ebben.
 
-– Ez a körábra az éveket mutatja, egy kör négy év, 2009-től indul. A Bitcoin-árfolyam logaritmikus skálán – a középponttól való távolság az árfolyam. A szín, hogy milyen színű a görbe, a rövidtávú spekulánsok átlagárától való eltérést mutatja, negatív vagy pozitív irányba, piros vagy zöld. De ez most kevésbé érdekes. A lényeg, hogy ez a görbe négyévente megy körbe-körbe, és még soha nem harapott bele a saját farkába – tehát még sosem ért össze. Most eléggé megközelítették egymást, de mivel logaritmikus a skála, azért messze vannak – a többszörös ott mindig a duplája.
+– Tehát hogyha be akarják szedni a sok pénzt…
 
-Ez az időszak szokott lenni – 2026 és 2010, vagy 2022 és 2018 –, ahol az eddigi tapasztalatok alapján egy 80%-os zuhanásba kezdett a Bitcoin-árfolyam. Viszont előtte, az előző év végén általában volt egy exponenciális növekedés, eufórikus állapot. Ez tavaly év végén nagyjából elmaradt. Októberben volt egy all-time high 126 000-en, de senki nem volt euforikus.
+– Hát én nem gondolom, hogy ez adóbevétel, inkább kontroll, nem? Most őszintén, nyilván nincs még jelentősége adóként ennek az államháztartásban; én nem gondolom, hogy ez ilyen befizető pozícióban lenne még.
 
-– Az csak egy kis all-time high-ocska volt. Nem olyan volt, mint négy meg nyolc évvel ezelőtt.
+– Hát egy ilyen SZTFH-t összedobni — meg egy ilyen honlapot — az biztos, hogy nagyon sokba kerül.
 
-– Csak dollárban volt all-time high, ráadásul közben annyi infláció is volt. Ezért arra következtetnék, hogy nem lesz akkora zuhanás az idén, de egy oldalazós, semmilyen évre számíthatunk, 100 000 környékén.
+– Az tuti, hogy milliókból hozták ki ezt a profi munkát. (nevetés) De mondjuk privát cég, nem állami, tehát lehet, hogy van benne egy kis kompetíció. Hát aki konkrétan megcsinálta, az biztos nem kapott sokat érte, mert az csak egy promptot írt — a honlapra gondolok.
 
-– Ideje visszamenni dolgozni – vagy téli álomba vonulni. Décázásra jó lesz ez.
+– De tetszik a logója! Nem tudtam, hogy ez most egy gyógyszerészeti weboldal vagy valami újabb shitcoin. De nem baj, nem akarom fikázni őket, majd biztos beindulnak, meg majd egyre több szakértő lesz benne, meg jogász. Meg biztos majd technológiai szakembereket is vesznek föl, hogy ez ne PDF-ben menjen.
 
-– A téli álom közben kisebb a rezsi. (nevetés) De a bányász hashpower is csökkengetett október óta.
+Lényeg az, hogy elkezdtünk erre lépkedni. Hát Magyarország szivatja az állampolgárait — de hát melyik kormány nem? Igazából én nem tudok egyet se.
 
-– Nézzünk olyat is, az is érdekes.
+– Tényleg nagyon nagy erőkkel kell keresni, hogy olyat találj, aki nem szivat. Nem tudom, például El Salvador…
 
-– A Mempool-on meg lehet nézni. Itt volt valahol az all-time high, és látszik, hogy azóta a bányászok is visszafogták magukat. A bányászati nehézség is csökkent – akinek van bányagépe, az örülhet, mert többet tud bányászni. Aki nem kapcsolta ki.
+– Ott is, ha rosszul nézel, akkor mész a 8000 mellé a kaptárba. (nevetés)
 
-– De ez azt jelenti, hogy néhányan kikapcsolták. Valakinek már nem érte meg. Azokkal nem értek egyet, akik azt mondják, hogy a négyéves ciklusok megszűntek. Eddig történik valami hasonló, csak nem olyan nagy amplitúdóval.
+– Vannak Magyarországnál szarabb helyek, ezt kijelenthetjük — de jobbak is. Meg ez szubjektív, olyan, mint az érték: kinek milyen.
+
+Hát jó, köszi, hogy így fókuszba hoztad. Én nem tudtam, hogy erre ennyi téma van, mert én egy kicsit eltávolodtam itt az elmúlt három hétben a valóságtól. (nevetés) Próbáltam egy kicsit lazítani.
+
+– Jó neked.
+
+– Már attól a valóságtól, amit a neten keresztül érzel. Hát az a valóság — nem az a valóság, amit scrollozol.
+
+Mi történt még itt a Bitcoin háza táján ez alatt az időszak alatt? Nézzünk még valami chartokat is.
+
+– Nézzünk chartokat. Van valami friss ábrád?
+
+– A kígyó például már a saját farkába harapott. Volt egy csomó mém, hogy ugye megdőlt a zöld-zöld-zöld-piros ciklus.
+
+– Az meg ez is.
+
+– Most próbálom megosztani.
+
+– Elmondod azok kedvéért, hogy az micsoda?
+
+– Hát a zöld-zöld-zöld-piros, azt majd itt a charton megmutatjuk. Sőt, olyan chart hirtelen nincs. Hát tudunk rá hivatkozni: a kör negyedeiben lévő pöttyök, azok voltak az évek, ugye. Hogy a nyitó és a záró árfolyam közötti gyertya színe milyen — mert a gyertya, ha fölfelé megy, akkor az zöld.
+
+– Igen, de ezen az ábrán, amit most látunk, ezen nem azt jelentik a színek.
+
+– Akkor elmondom egy kicsit, hogy ez most micsoda, amit megosztok — mert közben rájöttem, hogy biztos vannak új nézőink is.
+
+Ez a körábra az éveket mutatja, és egy kör az négy év, 2009-től indul. És a Bitcoin-árfolyam logaritmikus skálán mutatva. A középponttól való távolság az az árfolyam.
+
+Az meg, hogy milyen színű éppen ott azon a ponton a görbe: az a rövid távú spekulánsok — akik 155 napnál rövidebb ideje tartják a bitcoint —, azoknak az átlagárától, a cost basisüktől való eltérés negatív vagy pozitív irányba. Azt mutatja a piros vagy a zöld — de ez most kevésbé érdekes.
+
+Az a lényeg, hogy ez a görbe úgy megy körbe-körbe négyévente, hogy még soha nem harapott bele a saját farkába. Tehát még sose ért össze. Bár itt most eléggé megközelítették egymást. Bár mivel logaritmikus a görbe, azért azok ott messze vannak.
+
+– Csak elég közelinek látszik.
+
+– Tehát ami többszörösnek látszik, az meg mindig a duplája. Kábé ott, ahol majdnem összeér. És ez az időszak szokott lenni — 2014 meg 2018 meg 2022 volt —, ahol az eddigi tapasztalatok alapján egy ilyen 80%-os zuhanásba kezdett a Bitcoin árfolyama.
+
+Viszont azt is kell tudni, hogy előtte, az előtte lévő év végén pedig általában volt egy ilyen 80 vagy akárhány százalékos emelkedés — attól függ, honnan számoljuk. Tehát egy exponenciális növekedés, egy eufórikus állapot. Na, ez most egyébként tavaly év végén nagyjából elmaradt. Ugye októberben volt egy all-time high 126 000-en, amikor senki nem volt már eufórikus.
+
+– Az csak a kis all-time-high-ocska volt. Nem olyan volt, mint négy meg nyolc évvel ezelőtt.
+
+– Igen, mert csak dollárban meg ilyen fiatokban volt all-time high, ráadásul. Meg közben annyi infláció is volt. Ezért én arra következtetnék továbbra is — és ezt már mondtam a múltkor is —, hogy szerintem nem is lesz akkora zuhanás az idén. De mondjuk egy ilyen oldalazós, valamilyen-semmilyen évre számíthatunk azért. Egy 100 000 környékén.
+
+– Ideje visszamenni dolgozni. Vagy téli álmot aludni.
+
+– Hát DCA-zásra jó lesz ez.
+
+– Mert a téli álom közben kisebb a rezsi. (nevetés) Nem az, hanem tudod, most a McDonald's-os mém, hogy ilyen crab marketben visszamegy melózni.
+
+– Ja, csak a téli álmot használta a Tamás. Ott meg a rezsiköltség csökken, mert a fűtésed is lemegy, mert kevesebbet kajálsz, amikor téli álmot alszol. (nevetés)
+
+– De ezzel együtt egyébként még a bányász hash power is csökkengetett azóta, október óta. Néztem.
+
+– Na, tényleg nézzünk olyat. Az is érdekes.
+
+– A mempoolon meg lehet nézni. Itt látszik, hogy itt volt valahol az all-time high, nem tudom már, hányadikán. És látszik, hogy azóta a bányászok is kissé visszafogták magukat. A piros csík, az a bányászati nehézség — az is csökkent azóta.
+
+– Tehát akinek van bányagép, az örülhet, mert többet tud bányászni, aki nem kapcsolta ki. De ez azt jelenti, hogy páran kikapcsolták.
+
+– Hát biztos valakinek már nem érte meg tovább bányászgatni, és leállította.
+
+Úgyhogy én azokkal nem értek egyet, akik azt mondják — és vannak sokan —, hogy ezek a négyéves ciklusok most már megszűntek, ennek vége. Hát eddig azért történik valami hasonló, csak nem olyan nagy amplitúdóval.
+
+– Tök másképp.
+
+– De szerintem ugyanaz történik.
 
 – Nyilván jelen van, csak egyéb hatások felülírják.
 
-– Majd meglátjuk, meddig megy ez így. A nyár általában nem szokott erős lenni – de az messze van, esik a hó.
+– Igen. Majd meglátjuk, meddig fog ez így zajlani. Általában a nyár eleve nem szokott erős lenni.
 
-– Ne öntsd belénk a lelket. (nevetés)
+– Jó, még a nyár messze van. Esik a hó. Ne öntsd belénk a lelket! (nevetés)
 
-– Ősszel szerintem már jó lesz. Akkor jön megint az Uptober.
+– De ősszel szerintem már jó lesz.
 
-– És akkor indul az új bull market – és lehet nézni megint, hogy mennyi ér. Décázásra nagyon jó időszak, meg vagyonépítésre – hogyha valakinek van miből.
+– Őszre jó lehet. Akkor jön majd az október megint.
 
-– Itt látszik a rövidtávú spekulánsok átlagára grafikon. Az szokott lenni a mondás, hogy ha az árfolyam alatta van, bear market, macipiac, fölötte bull market. Most alatta vagyunk jó ideje, de közeledünk – ez megy fölfelé, az meg jön lefelé, hamarosan találkozni fog a kettő.
+– Az most is volt végül is. (nevetés)
 
-– Az elmúlt héten összekaparta magát. Jönnek a hírek, ki mennyit vett.
+– És akkor indul az új bull market. És akkor lehet nézni megint, hogy mennyit ér.
 
-– Volt, aki 8888,88-at vett.
+– Ez jó, mert többet lehet belőle venni. Azt akartam mondani, hogy ez DCA-zásra nagyon jó időszak, meg vagyonépítésre.
+
+– Igen. Hogyha valakinek van miből.
+
+– Mit nézzünk még? Itt látszik ez a bizonyos rövid távú spekulánsoknak az átlagár-grafikonja, ami alapján a spirálnak a színezése is zajlik. Itt az szokott lenni a mondás, hogy hogyha az árfolyam alatta van, akkor bear market van, macipiac; ha fölötte vagyunk, akkor van bull market. Hát most alatta vagyunk már jó ideje, de közeledünk — mert ez megy fölfelé, az meg jön lefelé, úgyhogy hamarosan találkozni fog a kettő valahol.
+
+– Igen, most összekaparta magát az elmúlt héten, néztem is. Az idei év jól kezdődik. Meg ugye jönnek azért a hírek, hogy ki mennyit vett. Itt volt, aki 888,88-at vett.
 
 – Tényleg? Azt nem hallottam.
 
-– Meg a Saylor mindig vesz. Valamit tudnak.
+– Meg a Saylor, az mindig vesz. Hát valamit tudnak, nem tudom.
 
-– Saylor októberben bevezette az USD tartalékot is a cégében, elkezdett óvatosabb lenni. De azért van, mert csinált dolláros osztalékot fizető elsőbbségi részvényt, és annak osztalékot kell fizetnie.
+– De Saylor, az egy pár hónapja bevezette már az USD-tartalékot is a cégében, úgyhogy elkezdett óvatosabb duhaj lenni.
 
-– Kezd összecsapni a hullám a feje fölött.
+– De hát ez azért van, mert csinált ilyen dollárosztalékot fizető részvényeket is. És azok után osztalékot kell fizetnie, és hát most elkezd egy kicsit összecsapni a hullám a feje fölött.
 
-– Az osztalékkamat 10,5%-ról 11%-ra ment. De követek egy podcastot, a True North-öt, ahol olyan bitcoinerek vannak, akik a Strategy részvényeivel is képben vannak. Ők heti szinten kielemzik, milyen árfolyamra kellene bezuhannia a Bitcoinnak, és mennyi ideig kellene ott maradnia ahhoz, hogy bajba legyen a MicroStrategy. Nagyon durva számokat szoktak mondani – valami olyasmi, hogy évekig kellene 19 000 dolláros árfolyamon maradnia a Bitcoinnak ahhoz, hogy ne tudjon osztalékot fizetni.
+– Hát igen — aminek egyébként 10,5%-ról 11%-ra ment föl az osztaléka.
 
-– Addig azért lenne vevő. Vannak tartalékaik dollárban is, nem kell a Bitcoint eladni.
+– Igen, de hát az elég soknak tűnik.
 
-– Eddig a bejövő részvényvásárlóktól bejövő dollárból fizetett osztalékot, ami kezd hajazni az államkötvényponzira.
+– Ugyanakkor meg én követek egy olyan podcastot, az a True North. Olyan bitcoinerek vannak benne, akik a Strategyvel is képben vannak, ezekkel az elsőbbségi részvényeivel, meg hogy mit hogy csinálnak és miért. És ők rendszeresen, heti szinten kielemzik azt, hogy milyen árfolyamra kéne bezuhanni a Bitcoinnak ahhoz, és hány hónapig vagy évig kéne ott maradni ahhoz, hogy bajban legyen a Strategy. És valami nagyon durva számokat szoktak mondani. Nem tudok pontosat idézni, de valami olyasmit mondanak, hogy tényleg évekig kéne mondjuk 19 000 dolláros árfolyamon maradni a Bitcoinnak ahhoz, hogy ne tudjon előbb-utóbb osztalékot fizetni. Tehát azért úgy nincsenek ők olyan nagyon durván…
 
-– De azért termel némi profitot az a szoftvercég is, aminek a dollármillióiból szoktak Bitcoint venni.
+– De addig azért lenne vevő, nem? Ha olyan irányt venne.
 
-– A Strategy nem volt kiemelkedő szoftveres, de nyereséges. Nem fényezni akarom, nem is azért, mert vannak részvényeim, de ezért vagyok képben. Nem érdemes fikázni a jó céget.
+– Meg hát azért vannak tartalékaik most már dollárban is, és akkor nem kell a bitcoint eladni. Ha van már dollártartaléka, akkor könnyű osztalékot fizetni.
 
-– Nekem is van még néhány MicroStrategy részvényem, de bevallom, tavaly adogattam el belőle, amikor nagyon ment fölfelé.
+– Igen, mert eddig a bejövő részvényvásárlóktól bejövő dollárból fizetett osztalékot, ami eléggé kezd hajazni az államkötvényre.
 
-– Te is vettél belőle, hogy legyen huszonegyed? (nevetés)
+– Meg azért termel némi profitot az a szoftvercég, aminek a dollármillióiból is szoktak néha bitcoint venni.
 
-– Nem. Szoktam venni teljesen átlagos, unalmas osztalékrészvényeket, amiknek semmi közük a Bitcoinhoz. Egy kis része a portfóliómnak abban van – hogyha nagyon behalna a Bitcoin, fordítva tudom csinálni: az osztalékokból tudok venni még Bitcoint vagy Bitcoin ETF-et. Ilyen 10% alatti, minimalista kockázatkezelés.
+– Ja, úgy tudom, azért a Strategy nem volt olyan kiemelkedő szoftveres.
+
+– Nem kiemelkedő persze, de azért nyereséges. Én se fényezni akarom, és nem is azért, mert vannak részvényeim — de ezért vagyok képben. Tehát az egy nyereséges cég.
+
+– Hát érdemes tudni arról, amid van.
+
+– Persze. Meg nem érdemes fikázni a jó céget.
+
+– Meg egy rosszat sem, mert beperel. (nevetés)
+
+– Egyébként nekem is van még egy pár MicroStrategy-részvényem, de bevallom, tavaly adogattam el belőle, amikor ment nagyon fölfelé.
+
+– És te is CEP-et vettél, hogy aztán legyen XXI-ed?
+
+– Nem, nem. Én egyébként szoktam venni ilyen teljesen átlagos, unalmas osztalékrészvényeket, aminek semmi köze a bitcoinhoz.
+
+– Hoppá!
+
+– Egy kis része abban van a portfóliómnak.
+
+– Buffettet utánzod?
+
+– Hogyha nagyon behalna a Bitcoin, akkor meg fordítva tudom csinálni: akkor az osztalékokból tudok venni még bitcoint vagy bitcoin-ETF-et. Ott az a stratégiám. De csak ilyen kicsi, ilyen 10% alatti.
 
 – Én mindig csodáltam, aki ezt megcsinálja.
 
 – Miért csoda?
 
-– Idézőjelben mondtam. (nevetés)
+– Hát ez ilyen teljesen… idézőjelben mondtam ezt. (nevetés)
 
-– Hedgingként minimális kockázatkezelés. Azért részvény is bezuhanhat. Államkötvényt ebből a célból nem vennék – odáig nem süllyedünk. (nevetés)
+– Ez ilyen hedgingként, ilyen minimalista kockázatkezelés.
 
-– Hát nem fog bezuhanni.
+– Már a részvény is bezuhan egyébként. Tehát mondjuk államkötvényt ebből a célból nem vennék azért. Tehát odáig azért nem süllyedünk. (nevetés)
 
-– Szerintem már be van zuhanva. Ez a bezuhantság, ami most van.
+– Mindennek határa van.
 
-– Ismerve azt, hogy hogyan működik a fiat rendszer, lassan be kell indítaniuk a pénznyomtatókat.
+– Hát azért csak nem fog bezuhanni.
 
-– Beindították – ilyen éjszakai repók vannak. Fogunk mi itt még emelkedést látni.
+– Szerintem már be van zuhanva.
 
-– A nemesfémek is nagyon emelkednek – azok emelkedtek, amikor a Bitcoin nem. Az arany meg az ezüst előre jelzi a pénznyomtatást, mert az egy olyan nagy eszköz – az aranynak a market capje talán 40 000 milliárd dollár.
+– Nem, én úgy értem, hogy addig a szintig, amíg… szerintem képtelenség. Tehát szerintem ez a bezuhantság, ami most van. De persze egyikünk se ismeri pontosan a jövőt. De mondjuk ismerve azt, hogy hogy működik a fiatrendszer, azért lassan be kell, hogy indítsák azokat a pénznyomtatókat.
 
-– Most már ott tartunk. A Bitcoin market capje viszont úgy 2000 milliárd dollár – sokkal kisebb eszköz még. A nemzetállamok meg a jegybankok aranyból vannak jól beshoppingolva, valószínűleg azt veszik most is. Az aranyígérvényekből meg talán tíz az egyhez az aránya a fizikai aranyhoz, aztán mindenki mutogatja, hol az övé. Szoktak felcsapni olyan hírek, melyik ország kéri honnan az aranyát.
+– Beindították. Ilyen repók vannak, éjszakaiak.
 
-– Jó lesz. Vagy nem tudom, jó lesz-e, ha ez kidurran. Lehet, soha nem durran ki, mert úgy van megcsinálva – mint ahogy az adósságot sem arra találták ki, hogy visszafizessék.
+– Úgyhogy fogunk mi itt még emelkedést látni.
+
+– Hát a nemesfémek is nagyon emelkednek egyébként most. Azok emelkedtek, amikor a Bitcoin nem. Arany, ezüst.
+
+– A Jack Mallers most azt mondta erre a tegnapi podcastjában, hogy ugye az arany meg az ezüst az előre jelzi a pénznyomtatást. Mert ugye az egy olyan nagy eszköz, ami már 40 000 milliárdos a market capje az aranynak, azt hiszem, talán. Ott tartunk már.
+
+– Igen, ott tartunk. Nagyságrendileg — aztán lehet, hogy picit alatta.
+
+– De ugye az a „picit" meg lehet, hogy az a 2000 milliárd dollár, ami mondjuk a Bitcoinnak az össz market capje. Tehát ugye egy sokkal kisebb eszköz még a Bitcoin. És a nemzetállamok meg a jegybankok ugye aranyból vannak jól beshoppingolva, meg valószínű azt veszik elsősorban most is.
+
+– Aranyígérvényekből.
+
+– Hát olyan is van, igen.
+
+– Mert annak, azt hiszem, tíz az egyhez az aránya a valóságos fizikai aranyhoz. Aztán mindenki mutogat, hogy hol az övé. Nem szoktak ilyen hírek felcsapni, hogy melyik ország kéri honnan az aranyát? Aztán az így nem szokott átszállításra kerülni.
+
+Na mindegy. Jó lesz. Vagy hát nem tudom, hogy jó lesz-e, ha ez majd kidurran. Lehet, soha nem durran ki, mert ugye az így van megcsinálva, hogy ne durranjon ki — mint ahogy az adósságot se arra találták ki, hogy vissza legyen fizetve. Tehát az se lesz szerintem visszafizetve.
 
 – Mármint reálértéken.
 
-– Eddig mennyi adósságot fizetett vissza bármelyik nemzet?
+– Eddig eddig mennyi adósságot fizetett vissza bármelyik nemzet?
 
-– Visszafizetik – csak azt hiperinflációnak hívják. Amikor hiperinfláció van, eltűnnek az adósságok.
+– Hát amúgy visszafizetik, csak azt hiperinflációnak hívják. Amikor hiperinfláció van, akkor eltűnnek az adósságok.
 
-– Gondolom erre gyúrnak, de még nem láttunk ilyet.
+– Ja, az a visszafizetés. Tehát ott akár lehet azt is mondani, hogy visszafizették. Sőt, vissza is fizethetik, amikor már semmit nem ér.
 
-– Dehogy nem. Legutóbb Magyarországon 1946-ban. Képzeld el, hogy az összes államkötvényed annyit ér, amennyi egy doboz gyufa. Elmész a kincstárhoz és kikéred a dobozgyufádat, vagy legyintesz rá.
+– Én is visszafizetném.
 
-– Ha államkötvényt veszel, ezt előre látod, és elkezdenek növekedni a kamatok. A magyar alapkamat most 6,5%. Vagy azt kezelik, hogy elkezdenek pénzt nyomtatni, megjön a hiperinfláció, és megoldódik az adósságvisszafizetés. Aztán kitalálnak egy új pénzt.
+– Egy doboz gyufát se ér. (nevetés)
 
-– Megváltozik a rendszer – jön a kommunizmus vagy valami, katonai junta mindig bőségesen rendelkezésre áll. Egyszer olyan pénzt kellene bevezetni, ami szűkös.
+– Hát gondolom, hogy erre gyúrnak, de még nem láttunk ilyet.
 
-– Lehet, hogy ezek a CBDC-k olyanok lesznek? Azért a pénzért mindenkinek keményen kellene dolgoznia, és nem tudnák osztogatni – ez a probléma vele.
+– Hát dehogynem! Legutóbb Magyarországon 1946-ban.
 
-– Sokat gondolkodok a CBDC-n. A következő tíz évet CBDC nélkül hogyan lehetne megoldani?
+– És akkor visszafizették az államadósságot. Hát most ez egy olyan dolog… Egyébként mondjuk képzeld el azt, hogy ér az összes államkötvényed annyit, amennyi egy doboz gyufa. Akkor azt hogy tekinted? Elmész a Kincstárhoz, és kikéred a doboz gyufádat, vagy legyintesz rá egyet? És akkor az ugyanaz.
 
-– De a CBDC nem oldja meg ezeket a problémákat. A CBDC azt oldja meg, hogy a magánbankrendszert ki lehet iktatni az állam és az emberek közül – ez csak technikai dolog. Az inflációt, az államkötvények és a kamatok problémáját nem oldja meg.
+– Lepapírozzák, hogy oké.
 
-– Tuti valami AI-jal megoldják.
+– Csak hát ezzel az a baj, hogy az államkötvény-befektetők — akik elég sokan vannak a világon, azért, máig, valamilyen érthetetlen okból — azok ezt előre látják. És akkor ugye először elkezdenek növekedni a kamatok. Most például a magyar alapkamat 6,5%.
 
-– Megoldják, hogy energiabefektetés nélkül legyen. Muszáj megoldani, mert az egész rendszer arra van kitalálva. Nem elfogadható, hogy szűkösségen alapuló pénzt hozzanak be – az állam szemszögéből nézve ez naiv gondolat. Akkor működhetne, ha az államnak lenne belőle nagyon sok tartaléka, és nem kellene félnie, hogy kifogy – de a Bitcoinnál ez jelenleg egyik államnak sem áll fenn.
+– Most annyi. Ezt ki is mondtam. (nevetés)
 
-– Az USA azért képez tartalékot, sok bányász hub van Amerikában.
+– És akkor először a kamat száll el. Aztán azt úgy kezelik, hogy elkezdenek pénzt nyomtatni, és akkor megjön a hiperinfláció, és akkor megoldódik az adósság-visszafizetés része. Csak akkor kitalálnak egy új pénzt valahogy.
 
-– El is tudja tőlük venni. El is fogja. És itt jön be a privacy feladata és szerepe – miért van támadva, miért kell validálni a váltásodat, mindent KYC-zni, minden egyes UTXO-ról tudni akarják, hogy kinél van.
+– Megváltozik a rendszer, mit tudom én, jön a kommunizmus vagy valami. Katona mindig bőségesen rendelkezésre áll. Egyszer olyan pénzt kéne már bevezetni, ami szűkös.
 
-– Jönnek a Bitcoinért.
+– Hát igen. Lehet, hogy most olyat csinálnak, nem? Ezek a CBDC-k nem olyanok lesznek?
+
+– Azért a pénzért mindenkinek keményen kéne dolgoznia, és nem tudnák osztogatni. Az a probléma vele.
+
+– Nem tudom, én nagyon sokat gondolkodom ezen a CBDC-dolgon. A közeljövőt — vagy nem tudom, ez közeljövő vagy középjövő, mennyi ez, a következő tíz év — azt CBDC nélkül hogyan lehetne szerinted megoldani?
+
+– De ezt nem oldja meg a CBDC. A CBDC azt oldja meg, hogy a magánbankrendszert ki lehet golyózni az állam és az emberek közül. Tehát szerintem ez csak egy technikai dolog. De az infláció kérdését, az államkötvények problémáit, az államkötvény-kamatok problémáját, azt nem oldja meg.
+
+– Tuti valami AI-jal megoldják ezt, olyan okosan. (nevetés)
+
+– Az matematikai dolog. Hát megoldják, hogy energiabefektetés nélkül legyen.
+
+– Hát muszáj megoldani, mert az egész rendszer arra van kitalálva. Tehát az nem elfogadható, hogy egy szűkösségen alapuló pénzt behoznak. Szerintem ez tök naiv gondolat — nyilván most az állam szemszögéből nézve.
+
+– Ez akkor működhetne, ha valahogy az államnak lenne belőle nagyon sok tartaléka, és nem kéne attól félnie, hogy kifogy belőle. De a bitcoinnál ez jelenleg egyik államnak sem áll fönn.
+
+– Hát szerintem azért az USA az képez tartalékot. Meg tök sok bányász hub van Amerikában.
+
+– Hát el tudja tőlük venni.
+
+– El is fogja tőlük venni.
+
+– Kizárt, hogy nem. És akkor itt jön be a privacy feladata meg szerepe, és hogy miért van támadva. Hogy miért kell validálni a váltásodat, meg mindent KYC-zni, meg minden egyes UTXO-ról tudni akarják, hogy kinél van és kié.
+
+– Jönnek a bitcoinért.
 
 – Nagyon elmentünk összeesküvés-elméletbe.
 
-– Szerintem nem elméleti.
+– Nem, ez nem elméleti szerintem. Vagy hát: szándék.
 
-– Nem találom a fóliasapkámat. (nevetés) De szerintem mi jobban értjük ezt, mint a politikusok – ők még nem tartanak itt.
+– Bocs, nem találom már a fóliasapkámat. (nevetés) De szerintem ezt mi jobban értjük, mint a politikusok, tehát ők még nem tartanak itt.
 
-– Értik azok, csak más az erkölcsi beállítottságuk. Ők inkább ott tartanak, hogy ez adóelkerülés meg pénzmosás.
+– Hát szerintem értik azok, csak… fú, inkább nem mondom el. (nevetés) Szerintem más az erkölcsi beállítottságuk.
 
-– Egy transzparens rendszer – és azt csak ők csinálhatják, nehogy már más is csinálhassa. Ezért kell rátenni a kezüket.
+– Ők még inkább ott tartanak, hogy ez, mit tudom én, adóelkerülésre meg pénzmosásra meg ilyenekre is esetleg jó szerintük.
 
-– Annyit hadd hozzak be, hogy meglepődtem: van olyan magyar politikus, aki érti, miről szól a Bitcoin, és nyíltan beszélt róla. A Robi 21 Millió csatornáján van egy remek beszélgetés – belinkeljük a leírásba. Nagyon kellemesen meglepődtem, milyen jót beszélgettek a Bitcoinról egy képviselővel.
+– Pedig egy transzparens rendszer.
 
-– Pont egy olyan párt képviselőjével, aki nem indul a következő választáson. (nevetés)
+– És azt csak ők csinálhatják, azt nehogy már más csinálhassa.
 
-– De legalább valaki a politikusok közül nyíltan beszél erről, és ez beindíthat egy lavinát. Ezúton is gratulálok a Robinak – nagyon frankón összehozta.
+– Hát az biznisz, ezért kell rátenni a kezüket.
 
-– Majdnem olyan jó, mint a mieink. Főleg a mostani. (nevetés)
+– Annyit hadd hozzak be, hogy én meglepődtem, hogy van olyan magyar politikus, aki érti, hogy miről szól a Bitcoin, és nyíltan beszélt róla. Most nemrég a Robinak a 21 millió csatornáján van egy remek beszélgetés, azt majd belinkeljük a leírásba. Én azon nagyon-nagyon kellemesen meglepődtem, hogy milyen jót beszélgettek a Bitcoinról egy képviselővel.
 
-– Még van két nézőnk. Én a not your keys, not your coins filozófia alapján, amikor bejött a Revolutba a kriptó fül, megnéztem, mi a kiutalás menete, és láttam, hogy na jó, akkor ezt nem fogom használni.
+– Pont egy olyan párt képviselőjével, aki nem indul a következő választáson.
 
-– Az elején nem is volt jó a kiutalás, és onnan nem nyerte el a tetszésemet – volt egy előítéletem velük kapcsolatban. Már csak ilyen old school vagyok.
+– Hát de legalább valaki már a politikusok közül erről nyíltan beszél. És ez már valamit okozhat, beindít egy lavinát.
 
-– Én kipróbáltam, vettem náluk, aztán reklamáltam, hogy mikor oldják meg a kiutalást, mert volt olyan ország, ahol már lehetett, de Magyarországon még nem működött. Biztos sokan piszkáltuk őket, és néhány héten belül megoldották – igaz, viszonylag magas minimális kiutalási díjjal.
+– Hát legyen úgy.
 
-– Arra is lehetett használni, hogy Revoluton belül valakinek fizettél Bitcoinnal. Bitcoin-tárcából valakinek a Revolutos címére fizettél, és ő egy gombnyomással átválthatta mondjuk forintra.
+– Sok kicsi sokra megy. Figyelj, egy lépésnek tök jó. Úgyhogy ezúton is gratulálok a Robinak ehhez, mert szerintem ezt nagyon frankón összehozta. Jó beszélgetés volt. Majdnem olyan jó, mint a mieink.
 
-– De ez túl jó szolgáltatás ahhoz, hogy fennmaradjon.
+– Főleg a mostani. (nevetés) Még van két nézőnk.
 
-– Marad a rendes Bitcoin wallet közötti tranzakció. A saját tárcádból utalsz be a saját Revolutodba, ott magadnak átváltod, és a fiat pénzt átküldheted. A teljes kontroll megmarad a bankrendszernél.
+– Hát engem eléggé sokkolt egyébként ez a decemberi történet — pláne úgy, hogy találkoztam pár emberrel, aki így jött oda, és semmit nem tudott, és így kérdezte tőlem, ha már sejtette, hogy én többet tudok róla, hogy akkor most mi van? Mi ez az egész? Betiltották a kriptót Magyarországon? Megyünk a börtönbe? Te még szabadlábon vagy? (nevetés)
 
-– Ennek a validálási mizériának is ez az értelme és a lényege – megnehezíteni ezt. Majd a bankok kínálnak Bitcoin-alapú szolgáltatást, de annak soha nem lesz köze valódi Bitcoinhoz. Majd csak úgy hívja a terméket, hogy Bitcoin fedezetű bankbetét, és azért kamatozik 3%-ot évente, mert lekötötted egy Bitcoin betétbe. Gyere, kapsz egy Bitcoin-matricát, menj haza. (nevetés)
+– Jézusom. Azért ez elég sok embert megmozgatott most, a Revolut miatt mindenképpen. Úgyhogy azzal le lehet vonni a tanulságot, hogy…
 
-– Amikor elterjedt a hír, hogy a Revolut bejön Magyarországra és lesznek rajta magyar bankszámlaszámok, az OTP-től kaptam egy részletes kérdőívet – miért használom a Revolutot, mi jó benne, mi nem jó az OTP-ben. Benne volt a kripto is persze.
+– Not your keys, not your coins.
 
-– Biztos foglalkoztatja őket. Verseny van. Nem csodálkoznék, ha az OTP kijönne valami hasonló szolgáltatással, amit a Revolut csinált eddig – a Revolutnak meg megtiltották.
+Én a not your keys, not your coins filozófia alapján — most nem akarok nekik reklámot csinálni —, de amikor még a legelején bejött, hogy kripto fül, akkor megnéztem, hogy mi a kiutalás menete és mit jelent. És akkor láttam, hogy na jó, akkor ezt nem fogom használni.
 
-– Náluk van valami bit. Ha vásárolsz, ilyen bit jóváírást lehet kapni az OTP Simpli-ben.
+– Hát eleinte nem volt jó.
 
-– Hát jó, a Supershop kártya évtizedek óta létezik, az ugyanaz. Elinflálták – egyre kevesebb pontot kapott az ember. Én se használom régóta.
+– És onnan nem is nyerte el a tetszésemet, mert volt egy ilyen előítéletem velük kapcsolatban. Én már csak ilyen old school vagyok.
+
+– Én meg kipróbáltam, én vettem náluk, és aztán reklamáltam náluk, és kérdeztem, hogy mikor oldják meg azt, hogy ki lehessen utalni. Merthogy akkor már volt olyan ország, ahol lehetett hallani, hogy a Revolutból már ki lehet utalni, de itt Magyarországon még nem működött. És szerintem biztos sokan piszkáltuk őket azért, és egy pár hét, és megoldották azt, hogy ki lehessen utalni — csak hát egy viszonylag magas minimális kiutalási díja volt. De legalább már működött.
+
+– De arra is lehetett használni, hogy valaki másnak fizettél bitcoinnal, simán.
+
+– Revoluton belül?
+
+– Nem, kívülről. Tehát Bitcoin-tárcából valakinek a revolutos Bitcoin-címére fizettél, és ő azt ott egy gombnyomással eladhatta mondjuk forintba.
+
+– Ilyenre én is használtam régebben.
+
+– De hát ez túl jó szolgáltatás ahhoz, hogy fennmaradjon.
+
+– Hát akkor marad a rendes Bitcoin-wallet és Bitcoin-wallet közötti tranzakció. Illetve az, hogy csak a saját tárcádból utalhatsz be a saját Revolutodba — mondjuk ha Revolut lenne, de mindegy, az csak egy példa —, és akkor ott magadnak átválthatod, és a fiat pénzt átküldheted. Tehát a teljes kontroll az így megmarad a bankrendszernél.
+
+– Igen. És szerintem ennek a validálási mizériának is ez az értelme és a lényege: hogy megnehezítsék ezt. És akkor majd a bankok kínálnak ilyen Bitcoin-alapú szolgáltatást — de ugye annak soha nem lesz ténylegesen köze valódi bitcoinhoz.
+
+– Mondjuk azt mondják, hogy emögött van valami. Meg lehet, hogy amögött tényleg lesz — de az ügyfélnek soha nem lesz köze ahhoz. Majd csak úgy hívja azt a terméket, hogy ez egy Bitcoin-fedezetű, mit tudom én, bankbetét, és hogy azért kamatozik 3%-ot neki évente, mert azt lekötötte egy Bitcoin-betétbe. Gyere, kapsz egy Bitcoin-matricát (nevetés), aztán menjél haza, jó lesz neked.
+
+– Egyébként amikor elterjedt a hír, hogy a Revolut bejön Magyarországra, és lesznek rajta magyar bankszámlaszámok, akkor az OTP-től kaptam egy ilyen elég részletes kérdőívet, hogy én miért használom a Revolutot, miért jó az, mi jó ott abban, ami nem jó az OTP-ben — hasonlítsuk össze. Ilyen nagyon sok kérdésen mentünk végig. Benne volt a kriptó is, persze.
+
+– Úgyhogy biztos, hogy foglalkoztatja őket ez a dolog.
+
+– Hát verseny van.
+
+– És én nem csodálkoznék nagyon, ha az OTP kijönne valami olyasmi szolgáltatással, amit a Revolut csinált eddig — a Revolutnak meg megtiltották.
+
+– Náluk van valami „bit", nem? Hogyha vásárolsz. Múltkor láttam, valamit vettem online, és akkor ilyen bit-jóváírást lehet. Az OTP Simple-ben van.
+
+– Van ilyen, igen. És bitnek hívják.
+
+– Hát most, a Supershop-kártya évtizedek óta létezik. Az ugyanaz.
+
+– Először csak elinflálták, mert egyre kevesebb pontot kapott az ember. Én már régóta nem használom.
 
 – Szegények, nincsenek könnyű helyzetben.
 
-– Nem szegények. Ha valakik nem szegények, akkor ezek a rettentően gazdag, sok pénzt kereső cégek. Csak kevés bitcoinjuk van, ezért hívom őket szegényeknek. Meg fiatban denominálnak.
+– De nem szegények. Hát ha valakik nem szegények, akkor az ők. (nevetés) Ezek rettentő gazdag, sok pénzt kereső cégek.
 
-– Abból akármennyit tudnak nyomtatni. Sajnálod őket, mert versenyezniük kell. Na mindegy, majd megjön az eszük.
+– Csak hát kevés bitcoinjuk van, ezért hívom őket szegényeknek.
 
-– Beszéljünk kicsit a nyereményjátékról!
+– Ja, úgy igen. Meg fiatban denominálnak.
 
-– A YouTube egyszerűen nem mutatta az összes kommentet. Alapból a legrelevánsabb kommenteket mutatja – a „top" nézetet –, és én azt végigpörgettem, megnéztem, melyik ötleten hány lájk van, és megneveztem a győztest. De aztán néhány élelmes követőnk fölhívta a figyelmünket, hogy nem is így van. Kiderült, hogyha a legújabb kommenteket választom, ott van egy komment, ami több lájkot gyűjtött be. Úgyhogy most a helyzet: a titánium lapkát, amit a Mordá felajánlott, megnyerte Kuc, és rögtönöztünk egy megoldást – Mordá gyorsan készített még egyet. Azt megnyerte a Hódító Hodl nevű felhasználó, aki ténylegesen a legtöbb lájkot kapta.
+– Meg sajnálod őket, mert versenyezniük kell. Na mindegy, majd megjön az eszük.
 
-– Gratulálunk nekik! Hamarosan küldöm a nyereményeket, és elnézést kérek a maceráért – köszönöm, hogy korrigáltátok a tévedésemet.
+– Akkor beszéljünk kicsit a nyereményjátékról, ami a múltkor volt — mert azt nem értettem, hogy a YouTube-nak a rangsorolója hogy mutatja a topokat.
 
-– Mi volt a nyertes ötlet?
+– Lehet, hogy inkább én. A YouTube egyszerűen nem mutatta nekem az összes kommentet, amikor kiértékeltem.
 
-– A Hódító Hodl ötlete az volt, hogy hívjuk meg a Passzív Milliomóst az adásba, és beszélgessünk vele a Bitcoinról. Kuc kommentje technikai jellegű volt: csináljunk olyan wallet-visszaállítást, ahol mondjuk egy Trezor wallet seed phrase-ét állítjuk vissza egy Coldcardon vagy másik hardware walleten. Ő még sosem próbálta, és bár elméletben tudja, hogy működik, szeretne megnyugodni, hogy a jövőben is működni fog, ha az ő Trezorja bedöglik.
+– Igen, mert alapból a legjobbakat mutatja, hogy „top", és akkor nem mindig az…
 
-– Tök jó ötlet mindkettő, és még több jó ötlet is érkezett – köszönjük az összeset, mindegyikkel kezdünk valamit. A lényeg, hogy kicsit megpezsdültünk, fölébredtünk a téli álomból. Mordá is nagyon jó fej volt – köszönjük neki is, meg rendeljetek tőle, betesszük a leírásba a linket.
+– Igen, az az alapértelmezett, hogy a legrelevánsabb kommenteket mutatja. És én azt így végigpörgettem, megnéztem, hogy melyik ötleten hány lájk van, és akkor nemes egyszerűséggel megneveztem, hogy a Kutsi nevű user a győztes, a lájkjai alapján.
 
-– Ha már játék: a jövő heti adásban készülünk egy játékkal. Egy Nostr-alapú játékot fogunk meghirdetni, és az egész adás a Nostr-ról fog szólni. Izzítsátok a Nostr-profiljaitokat! A jövő heti adást először a Nostr-on fogjuk publikálni – valószínűleg egy nappal korábban –, a többi platformon egy nappal később.
+De aztán nagyon élelmes volt a YouTube-on néhány követőnk, meg olyanok, akik szavaztak is szerintem. És akkor fölhívta a figyelmet az egyik hölgy, hogy ez nem is így van. És akkor kiderült, hogyha nem azt a nézetet választom, hanem a legújabb kommenteket, akkor már én is láttam, hogy tényleg ott van egy komment — amire emlékeztem, hogy volt ilyen komment —, és az tényleg több lájkot begyűjtött.
 
-– Nem titkoltan az a cél, hogy megpezsdítsük az életet a Nostr-on, és behúzzunk oda podcast-hallgatókat, akik még nincsenek ott, vagy van már profiljuk, de nem nagyon használgatják. Mire minden cenzúrázott lesz, addigra legyetek profik benne. Én olyan jókat szoktam ott filmezni – van ilyen movie archives, föl vannak töltve filmek, és le lehet streamelni. Tök jó kis experiment.
+Úgyhogy most az a lényeg, hogy amilyen nyereményt ígértünk — ugye az a titániumlapka a Mordaitól, amit erre a célra fölajánlott —, azt most megnyerte a Kutsi. És rögtönöztünk a Mordaival egy olyan megoldást, hogy gyorsan készített még egyet erre a célra, hogy még egy nyeremény legyen. És akkor azt megnyerte a HódítóHodl nevű user, aki ténylegesen a legtöbb lájkot kapta az ötletére.
 
-– A honlapunkon is vannak friss tartalmak. Optout-nak köszönhetően van egy új menüpont, a Meetup. Egy nagyon jó kis szoftver érhető el ott, amibe be lehet vinni meetupokat – magyarországi vagy akármilyen országból. Igyekszünk rászoktatni magunkat, hogy bármilyen meetupot szervezünk, berögzítsük ide, és legyen végre egy platform, ahol mindig látszik, hol mi történik.
+Úgyhogy gratulálunk nekik! Hamarosan küldöm a két nyereményt, és elnézést kérek ezért a maceráért. És köszönöm, hogy korrigáltátok a tévedésemet.
 
-– Akkor tudjuk promózni is – lehet, hogy valaki nem olvassa, de nézi vagy hallgatja, és értesül róla időben.
+– Na, és mi is volt a vállalás? Az ötlet. Mit kell most csinálnunk?
 
-– Nézzétek a [huszonegy.world](https://huszonegy.world)-ön a Meetup menüpontot! Ha ezt az adást hónapokkal vagy évekkel később nézitek, akkor is aktuális információt mutat.
+– A HódítóHodl ötlete lényegében az volt, hogy hívjuk meg az adásba a Passzív Milliomost, és hogy fényezzük vele, vagy istenítsük a bitcoint.
 
-– Új év, szervezzünk új meetupokat! A budapestit most konkretizáljuk – január 8-án 7 órakor a Five-nál. Februárra is szervezünk az Orsival, Optout-tal a Perspective Baros-ba egy újabbat. A terv az, hogy CoinJoin-bemutató lesz – a múltkori meetupon a [Ginger Wallet](https://gingerwallet.io) bemutatása volt, és ott felmerült, hogy a CoinJoint is részletesebben meg kellene ismerni. Gyakorlatilag annak a folytatása lesz a februári meetup.
+– Egyébként az jó lenne.
 
-– Hívjuk meg a Caduceus Zrt.-t is, hogy megtudják, kiket kell hármasra minősíteni! (nevetés) CoinJoin – veszélyes bűnözők lesznek ott, személyesen, névvel, arccal. A bűnözők keresik a bűnözőket – klasszikus vadnyugat.
+– És a másik, a Kutsinak a kommentje, az meg egy technikaibb jellegű téma volt. Azt kérte, illetve ötletelte, hogy csináljunk olyan wallet-visszaállítást, hogy mondjuk egy Trezor walletnek a seed phrase-ét állítsuk vissza mondjuk egy Coldcardon, vagy egy mit tudom én, milyen másik hardveres walleten. Merthogy ő ezt még sose próbálta, és bár elméletben tudja, hogy ez működik, de szeretne megnyugodni, hogy ez valóban így van — hogyha mondjuk az ő Trezor walletje bedöglik, és addigra eltűnik a Trezor, és csak másfajta walleteket lehet kapni, akkor ez majd a jövőben tényleg működni fog.
 
-– Nagyon klassz a [huszonegy.world](https://huszonegy.world)-ön a térkép, az összes HUSZONEGY szervezet összesítése.
+– Ja, ez jó.
 
-– Ezt a szoftvert is a Gigi csinálta, ahogy az egész HUSZONEGY eredetéhez elég sok köze van, a magyarhoz is, mert ő inspirálta, hogy beinduljon ez a magyar fork.
+– Szerintem tök jó ötlet mind a kettő. Meg még több jó ötlet is érkezett be, és köszönjük az összeset — majd mindegyikkel kezdünk valamit.
 
-– Eldugott kis helyek is rajta vannak – nézzétek meg a térképet! Nézzétek, a németek mennyien vannak!
+De a lényeg az, hogy kicsit itt megpezsdültünk, meg fölébredtünk a téli álomból. Meg hogy a Mordai is nagyon jó fej volt, hogy alkalmazkodott a helyzethez, úgyhogy nagyon köszi neki is egyrészt az első felajánlást, meg a másodikat is. Úgyhogy rendeljetek is tőle, majd betesszük újra a leírásba a linket, ahol lehet rendelni ilyen titániumlapkát. És akkor talán a nyereményjátékról ennyit.
 
-– A német nyelvű területek a legaktívabbak. Csehország miért nincs rajta? Ott is van egy rakás.
+– Jók ezek a játékok.
 
-– Valószínűleg még nem csatornázódtak bele ebbe a szoftverbe. De a cseh jegybank vett egymillió dollárért Bitcoint!
+– És ha már játék: a jövő heti adásban is készülünk egy játékkal. Nevezetesen egy Nostr-alapú játékot fogunk meghirdetni a következő adásban, és az egész adás a Nostrról fog szólni. Azt kérte Optout, hogy harangozzam be így előre, hogy izzítsátok a Nostr-profiljaitokat. És a jövő heti adást először a Nostron fogjuk publikálni — valószínű egy nappal korábban ott fog megjelenni, és akkor a többi platformon meg egy nappal később. És ezzel kapcsolatban lesz egy játék, amit a Nostron jövő héten meg lehet majd tudni abból az adásból. Meg hát gondolom, majd azért a Telegram-csoportba beírjuk ennek a lényegét, meg azt a Nostr-linket, ahol már akkor elérhető lesz.
 
-– Csak teszt alapon, nem?
+– Na, az nagyon tetszik.
 
-– Mindegy. Te is kicsiben szoktad tesztelni. (nevetés) Egymillió dollár – az semmi.
+– Valami kis izgalom a Nostr háza táján. Hát nem titkoltan az a célja, hogy kicsit megpezsdítse ott is az életet, meg hogy behúzzuk oda azokat a podcast-hallgatóinkat, nézőinket, akik még nincsenek a Nostron — vagy már van egy profiljuk, de nem nagyon használgatják.
 
-– De a Lagarde meg is szólalt utána, hogy a Bitcoin nem való központi bankok tartalékába.
+– Javasoljuk a használgatását, hogy mire minden cenzúrázott lesz, addigra profik legyetek benne. Meg hát mi is nőjünk vele együtt.
+
+– Én olyan jókat szoktam ott filmezni! Mert van ilyen is, nem tudom, azt néztétek: ilyen movie archives, és föl vannak töltve filmek, és azokat kajak le lehet streamelni. Nem tudom, mennyire legit, gondolom, nagyon. (nevetés) De például az is tök jó, ilyen kis experiment.
+
+– Már a kutyuska azt üzeni, hogy vége az adásnak, kér ebédet. (nevetés)
+
+– Az ennyit még nem. Jól van, nyomjunk még itt valami témát. Mondjuk azt nyomjuk még be, hogy a honlapunkon vannak friss tartalmak — többek közt, Optoutnak köszönhetően, van egy új menüpont, ami a Meetup névre hallgat. Egy nagyon jó kis szoftver érhető ott el, amibe be lehet vinni azt, hogyha valaki szervez egy magyarországi meetupot. Illetve hát ez egy nemzetközi cucc, tehát bármilyen ország bármilyen városában lévő meetupot be lehet vinni, és akkor ezt tök jól nyomon lehet követni, hogy hol mi történik a világban.
+
+És erre igyekszünk rászoktatni magunkat meg egymást, hogy bármilyen meetupot szervezünk, azt berögzítsük ide. És lesz végre egy platform, ahol mindig látszik.
+
+– Meg akkor tudjuk promózni — mert lehet, hogy valaki nem olvassa, de nézi vagy hallgatja, és akkor legalább értesül róla időben.
+
+– Igen. Úgyhogy promózzuk is, bár még most kevés aktuális tartalom van ott. De azt azért mondjuk most akkor be, hogy nézzétek a [huszonegy.world](https://huszonegy.world)-ön a Meetup menüpontot — akkor is, ha ezt az adást mit tudom én, hány hónappal vagy évvel később nézitek meg esetleg, mert az mindig aktuális információt mutat. A leírásba betesszük a linkjét, meg megmutatjuk majd itt a képernyőn, miközben dumálunk, utólag idevágjuk. A lényeg az, hogy ott lehet fölvenni új meetupot is, meg meglátni a már fölvitteket.
+
+És hát új év: szervezzünk új meetupokat! A budapestit azt most kezdjük konkretizálni.
+
+– Az január 8., 7 óra.
+
+– Igen. Úgyhogy az csütörtök — az már elmúlt, mire publikáljuk az adást. Csütörtökön jön ki, vagy pénteken.
+
+De a lényeg az, hogy februárra is fog szervezni biztos Five is, meg mi is szervezünk az Orsival meg Optouttal a Perspective Barba egy újabbat. Csak még annak most van egyeztetés alatt az időpontja és a programja. Az a terv, hogy CoinJoin-bemutató lesz.
+
+Ugye a múltkori meetupon több előadás volt, és az egyik a Ginger Wallet bemutatásáról szólt. És ott fölmerült az, hogy jó, most megismertük a Gingert, és többen mondták, hogy de hogy CoinJoinolni így-úgy — és ott nem úgy készültünk eleve, sem időben, sem terjedelemben, hogy érinthetnénk. De gyakorlatilag annak a folytatása lesz ez a februári perspective-báros meetup, ahol egy részletes CoinJoin-bemutató vár.
+
+– Hívjuk meg a Caduceus Zrt.-t is, hogy tanuljon! (nevetés) Kiket kell hármasra minősíteni.
+
+– A legkockázatosabbnak.
+
+– Hát de honnan fogják tudni, hogy milyenek ezek a veszélyes arcok itt a bitcoinban?
+
+– Hát CoinJoin. (nevetés) Veszélyes bűnözők lesznek ott, simán, személyesen, névvel, arccal.
+
+– Tehát a bűnözők keresik a bűnözőket. Klasszikus vadnyugat.
+
+– Nagyon klassz ez a HUSZONEGY portálon lévő térkép, mert ugye ez az összes 21-es szervezetnek a… ó, még itt minden itt van.
+
+Szerintem amúgy ezt a szoftvert is a Gigi csinálta — ahogy az egész HUSZONEGY eredetéhez elég sok köze van, meg a magyarhoz is, mert ő inspirálta, hogy beinduljon ez a magyar fork. Úgy tudom, hogy ezt a szoftvert is személyesen, legalábbis többek közt a Gigi hegesztgeti.
+
+– Állíthatom, hogy jó, mert eldugott kis helyek is rajta vannak. Nézzétek meg a térképet!
+
+– Meg is oszthatod. Valamit mutatunk belőle, csak itt nem akartam élőben bénázgatni, gondoltam, majd utólag bevágom.
+
+– És hol látsz kis helyeket? (nevetés)
+
+– Például itt Svédországban, meg Budapesten, Szófiában, mindenhol. Nézzétek, a németek mennyien vannak!
+
+– Igen, azért a német nyelvterületek, azok rendesek. Ott a legpopulárisabb.
+
+– A csehek miért nincsenek rajta? Hát ott is van egy rakás.
+
+– Hát valószínű, hogy ők még nem csatornázódtak bele ebbe a szoftverbe.
+
+– Igen, mert a cseh jegybank vett 1 millió dollárért bitcoint.
+
+– De csak teszt alapon, nem?
+
+– Te is kicsiben szoktad tesztelni. (nevetés) Hát 1 millió dollár…
+
+– Az semmi.
+
+– De a Lagarde az meg is szólalt utána, hogy az nem való központi bankok tartalékába, mert nagyon…
 
 – Lagarde meg nem való a központi bankba. (nevetés) Menjen vissza az IMF-be.
 
-– Egy követ fújnak.
+– Hát odavaló. Egyívásúak ezek, egy követ fújnak.
 
-– Köszi szépen a figyelmet, Tamásnak a jóságokat!
+– Jól van. Köszi szépen a figyelmet. Tamásnak meg a jóságokat, az évindító pezsdítő kis beszélgetést.
 
 – Szívesen.
 
-– Évindító, pezsdítő kis beszélgetés volt. Egyébként mással is készültünk, de máskor jelentkezünk azzal – addig maradjunk titokzatosak.
+– Beszélhettünk volna másról is — egyébként már mással készültünk, ezt elárulhatjuk. De máskor jelentkezünk azzal.
 
-Gigatonnányi magyar nyelvű Bitcoin oktatóanyagot osztunk meg a HUSZONEGY honlapján. A [huszonegy.world](https://huszonegy.world) címen található anyagok bárki számára ingyenesen hozzáférhetők. Akik személyes támogatást igényelnek, szeretettel ajánljuk a Bitcoin Mentor szolgáltatásait. A [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon részletesen olvashatsz a Bitcoin tanácsadásról, a [Bitcoin blogban](https://bitcoinmentor.hu/bitcoin-blog/) pedig egyre több értékes bejegyzést találsz. Iratkozz fel a HUSZONEGY Podcast YouTube-csatornájára, valamint a Rumble-csatornánkra is! Kövesd a HUSZONEGY-et a Facebookon és a Nostr-on! Támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). A Firefish üzeni: ne adjátok el a bitcoinotokat! Mindenkit üdvözlünk, és vásárolgassátok a Bitcoint!
+– Addig meg maradjunk titokzatosak.
+
+Gigatonnányi magyar nyelvű Bitcoin oktatóanyagot osztunk meg a HUSZONEGY honlapján. Ezek a [huszonegy.world](https://huszonegy.world) címen található anyagok bárki számára ingyenesen hozzáférhetők. Azok számára pedig, akik személyes támogatást igényelnek, szeretettel ajánljuk a Bitcoin Mentor szolgáltatásait: a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon részletesen olvashatsz a Bitcoin tanácsadásról, a Bitcoin blogban pedig egyre több értékes bejegyzést találsz. Iratkozz fel a HUSZONEGY Podcast YouTube-csatornájára, valamint a Rumble-csatornánkra is! Kövesd a HUSZONEGY-et a Facebookon és a Nostron!
+
+Támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). És a [Firefish](https://firefish.io) üzeni, hogy ne adjátok el a bitcoinotokat!
+
+– Mindenkit üdvözlünk, és vásárolgassátok a bitcoint!
 
 – Ez most tanácsadás volt?
 
-– Nem, csak egy tipp, ötlet, szórakoztatás.
+– Nem, csak egy tipp, ötlet.
+
+– Szórakoztatás.
+
+– Na, helló!
+
+– Sziasztok!
 
 – Sziasztok!

@@ -1,228 +1,447 @@
-Ez egy titánium ötvözet, 30 x 45 mm x 4 mm. Be van ütve egy raszter, és abba kell bepontozni a szavakat. Ez még beütve nincsen, de itt látszik a vastagsága. Ezt a villamos alá is rakhatod, elég strapabíró. Ez meg a másik oldal, ez egy kétoldalas cucc. A titán hőálló, korrózióálló, masszív anyag, olyan 1600 fok környékén van az olvadáspontja, úgyhogy egy lakástűz se fog benne.
+Ez egy titániumötvözet. 30 x 45 mm x 4 mm. Gyakorlatilag úgy kell elképzelni — nem tudom, majd bevágjátok képbe.
+
+– Meg fölmutatom itt közben, csak nem nagyon tudom közel vinni. Be van ütve?
+
+– Ez még beütve nincsen, csak egy ilyen raszter van rajta.
+
+– Miért nem ütöttétek be? Nagyobb lenne az érdeklődés. (nevetés) Szép darab. Itt látszik a vastagsága. Ezt a villamos alá is rakhatod.
+
+– Igen, elég strapabíró. Az meg a másik oldal — ez egy kétoldalas cucc.
+
+– És miért ezt az anyagot választottad? Mert mondtad, hogy titániumötvözet.
+
+– Mivel a titán eléggé hőálló, korrózióálló, masszív anyag. Olyan 1600 fok környékén van az olvadáspontja, úgyhogy egy lakástűz se fog benne.
+
 – Akkor ezt még a jet fuel sem égeti el, nem? (nevetés)
 
-Sziasztok, üdvözlünk titeket! Ez a HUSZONEGY Bitcoin Podcast 85. epizódja. Mai vendégünk Mordá, akit már ismerhettek a Telegram csoportból, de a Bitcoinnal való megismerkedés történetét mostanra tartogattuk nektek. Őt most nem láthatjátok privacy okok miatt, de ezt már megszokhattátok nálunk, hogy nem mindenkit lehet arccal látni. Üdvözlünk itt nálunk ebben a virtuális stúdióban, örülünk, hogy itt vagy.
+---
+
+Sziasztok, üdvözlünk titeket! Ez itt a legújabb epizódja a HUSZONEGY Bitcoin Podcastnak — szerintem a 85. A mai vendégünk Mordai, akit már ismerhettek többen a Telegram-csoportból; de a Bitcoinnal való megismerkedésének a történetét azt mostanra tartogattuk nektek.
+
+Őt most nem láthatjátok, privacy okok miatt — de ezt már szintén megszokhattátok nálunk, hogy nem mindenkit lehet arccal látni. Üdvözlünk itt nálunk, ebben a virtuális stúdióban! Örülünk, hogy itt vagy.
 
 – Sziasztok! Üdvözlök mindenkit.
 
-– Majd fogunk arról is beszélni, hogy van egy nagyszerű kis dolog, amit bevezettél a magyar Bitcoin térbe, egy ilyen megmentő eszköz, de először beszéljünk arról, hogyan jött be az életedbe a Bitcoin. Mi az, ami miatt te most itt vagy?
+– Majd fogunk arról is beszélni, hogy van egy nagyszerű kis dolog, amit bevezettél a magyar Bitcoin-térbe, egy ilyen megmentő eszköz. De inkább először beszéljünk arról, hogy hogyan jött be az életedbe a Bitcoin. Mi az, ami miatt te most itt vagy?
 
-– Lényegében mindig is egy megtakarítós, spórolós ember voltam, a céljaimra mindig félreraktam. De a COVID alatti inflációs hullámnál, pont amikor megszületett a kislányom, vettem észre, hogy hónapról hónapra ég el az a megtakarított összeg, amit összespóroltunk az életünk során. Gyakorlatilag egy-két év alatt elinflálták az 50-60%-át, alsó hangon. Akkor döntöttem el, hogy ezzel valamit kezdeni kell, és elkezdtem a pénzügyekbe beleásni magam.
+– Lényegében mindig is egy ilyen megtakarítós, spórolós emberke voltam, a céljaimra mindig félreraktam. De a Covid alatti inflációs hullámnál — pont amikor megszületett a kislányom — akkor vettem észre, hogy igazából hónapról hónapra ég el az a megtakarított összeg, amit összespóroltunk az életünk során. És gyakorlatilag egy-két év alatt elinflálták az 50-60%-át, alsó hangon.
 
-Először részvények, ETF-ek, ilyen témába mentem bele, de egy-két hónapig csináltam az egyedi részvényválogatást. Amint egyre jobban beleástam magam, ráeszméltem, hogy az emberek 90%-a nem fogja tudni kiválasztani hosszú távon, hogy melyik az a részvény, ami majd jó lesz. Akkor jöttek be az ETF-ek, mindenki ezt mondta a podcastekben, videókban. Én is utánamentem – jó, oké, legyen ez. Csináltam körülbelül két éven keresztül.
+Akkor döntöttem el, hogy ezzel valamit kezdeni kell, és elkezdtem a pénzügyekbe beleásni magam. Először nyilván részvények, ETF-ek ilyen témába mentem bele. Egy-két hónapig csináltam az egyedi részvényválogatást; aztán amint egyre jobban beleástam magam, ráeszméltem, hogy igazából az emberek 90%-a nem fogja tudni kiválasztani hosszú távon, hogy most éppen melyik az a részvény, ami majd jó lesz.
 
-Még a COVID alatt is bejött a Bitcoin, de akkor még csak annyit tudtam róla, ami a mainstream médiából jött: ez fölmegy, lemegy, volatilis, ne foglalkozz vele, mert csak gambling, és elveszted mindenedet – szokásos FUD-ok. Aztán 2024 közepe felé egy befektetős videóban ismét szóba került a Bitcoin, akkor volt 50 000 dollár környékén. Olvasgattam róla, és megtetszett, amit hallottam. A feleségemnek is meséltem már róla, de aztán valahogy elment a fókusz, és nem foglalkoztam vele. (nevetés)
+Akkor jöttek be az ETF-ek — mindenki ezt mondta a podcastokban, videókban, hogy tudod, 100 évre visszamenőleg ez milyen jó. És persze én is utánamentem, néztem: jó, oké, legyen ez. Csináltam körülbelül két éven keresztül.
 
-Fél évvel később észrevettem, hogy mindjárt 100 000 dollár, az előbb meg még 50 000 volt. Akkor fogalmazódott meg bennem, hogy álljunk meg egy percre – hogy van az, hogy a mainstream médiából mindenhonnan az jön, hogy ez egy lufi, ez kipukkad, ennek nincs értéke, a szokásos dolgok –, és mégis ott tartunk, hogy 100 000 dollárt fizet érte valaki? Akkor itt valaminek lennie kell.
+És akkor már régebben is, még a Covid alatt is bejött a Bitcoin — de akkor még csak annyit tudtam róla, ami a mainstream médiából jött: hogy ez így fölmegy, lemegy, volatilis, ne foglalkozz vele, mert csak gambling, és elveszted mindenedet. A szokásos FUD-ok.
 
-Viszonylag hamar ezután rátok találtam a HUSZONEGY csatornára, meg mellette Feri videóira. Ez volt a szerencsém, mert így a Bitcoin lényegét kezdtem el megérteni, és nem a fiat hasznosítását, hogy majd ebből mekkora profitot realizál az ember, mert nem ez a lényege. Elkezdtem olvasgatni azokat a könyveket, amiket ti is ajánlotok, podcasteket hallgatni – titeket is, meg külföldieket is. A munkám olyan, hogy napi 8 órában be van dugva a fülem, és tudom hallgatni.
+És akkor '24 közepe felé egy ilyen befektetős videóban ismét szóba került a Bitcoin, és akkor volt ilyen 50 000 dollár környékén. Aztán olvasgattam róla, és megtetszett, amit hallottam róla, kifejezetten. A feleségemnek is már meséltem róla — de aztán valahogy így elment a fókusz róla, és egyszer csak már nem foglalkoztam vele.
+
+Aztán egy fél évvel később észrevettem, hogy mindjárt 100 000 dollár — az előbb meg még 50 000 volt. És akkor fogalmazódott meg bennem, hogy álljunk meg egy percre: mert hogy van az, hogy a mainstream médiából mindenhonnan az jön, hogy ez egy lufi, ez kipukkan, ennek nincs értéke, a sok szokásos dolog, amit hall róla az ember — és mégis már ott tartunk, hogy 100 000 dollárt fizet érte valaki? Akkor itt valaminek lennie kell.
+
+És viszonylag hamar ezután rátaláltam a HUSZONEGY csatornára. Meg mellette a Feri videóira. És akkor hát ez volt a szerencsém szerintem, mert így gyakorlatilag a Bitcoin lényegét kezdtem el megérteni — és nem pedig a fiat-hajhászást, hogy majd ebből mekkora profitot realizál az ember. Mert nem ez a lényege.
+
+És akkor elkezdtem olvasgatni azokat a könyveket, amiket ti is ajánlotok, podcastokat hallgatni, titeket is, meg főleg külföldieket is. És hát a munkám olyan, hogy napi 8 órában be lehet dugni a fülem, és tudok hallgatni.
 
 – Szerencsés ember. (nevetés)
 
-– Végtelen mennyiségű anyagot, hangoskönyvet, mindent hallgattam az elmúlt egy év alatt. Egyre jobban mentem le a nyúlüregbe, és egyre inkább éreztem, hogy ez az, amit igazából kerestem. Egyre jobban átláttam, hogy hiába nézek más gazdasági podcasteket, befektetős videókat, amiben megemlítik a Bitcoint és olyan dolgokat mondanak róla, ami egy kis utánajárással megcáfolható. Ott van minden, le van írva, el van mondva, és mégis ugyanazokat a dolgokat harsogják róla. Azóta is egyre jobban beleásom magam, és szeretnék tanulni róla mindenféle aspektusával együtt.
+– Úgyhogy ilyen végtelen mennyiségű anyagot meg hangoskönyvet meg mindent hallgattam meg az elmúlt egy év alatt is. És akkor egyre jobban mentem le a nyúlüregbe, és egyre inkább éreztem azt, hogy ez az, amit igazából kerestem.
 
-– Azért mennyire jelentős az az időszak, amíg az ember ezzel a feltöltődéssel tölti az idejét! Én is így voltam, rengeteg podcastot hallgattam. Egy idő után az ember képes arra, hogy a konfliktusba kerülő dolgokat kielemezze, és eldobjon olyanokat, amik nem valók arra, hogy ott maradjanak az információs zsákunkban. Te hogyan szűrted, hogy milyen podcastot hallgatsz? Gondolom találkoztál olyannal, ami kihegyeződött a piaci elemzésre meg a grafikonrajzolásra, meg behozott más kriptókat is. Hogyan találtad meg mégis a hangot?
+És egyre jobban átláttam, hogy hiába nézek más gazdasági podcastokat, befektetős videókat, amikben megemlítik a bitcoint, és olyan dolgokat mondanak róla, ami szimplán egy kis utánajárással megcáfolható — mert ott van, minden le van írva, el van mondva —, és mégis ugyanazokat a dolgokat harsogják róla.
 
-– Az első kritérium az volt, hogy csak Bitcoin, nem kell mással foglalkozni. Onnantól kezdve, hogy van egy központi szereplő, egy cég, egy fejlesztő, aki holnap dönthet úgy, hogy teljesen mások a szabályok vagy a kód, nincs miről beszélni, mert az ugyanaz, mint a fiat, nem old meg semmit. A chartelemzés, grafikonok – azokat sose nézegettem, abba az irányba nem mentem el.
+És azóta is igazából egyre jobban beleásom magam, és tanulni szeretnék róla, mindenféle aspektusával együtt.
 
-Ez volt a fő kritérium: csak Bitcoin, és olyan embereket néztem, akiket ti is ajánlottatok. Ők is ajánlottak másokat, és így mentem utánuk. Akiről úgy gondoltam, hogy nem jó szemszögből közelíti meg a témakört, azt nem néztem. Sok olyan volt az elmúlt egy évben, akit az elején néztem, aztán fél év, egy év után már nem, mert hiába nagy név a Bitcoinon belül, nem gondolom, hogy jól látja a dolgokat. Azt a nézőpontot is meg kell hallgatni, csak az ember szelektál.
+– Kerek azért mennyire jelentős az az időszak, amíg az ember ezzel a feltöltődéssel tölti az idejét. Én is így voltam, hogy rengeteg podcastot hallgattam. És egy idő után az ember képes arra, hogy a konfliktusba kerülő dolgokat kielemezze, és eldobjon olyanokat, amik nem valósak — vagyis nem valók arra, hogy ott maradjanak az információs zsákunkban.
 
-– Szerintem tök nagy dolog, hogy valaki eljut oda, hogy nem megmondják neki, mit hallgasson, hanem személyes preferencia alapján választ, mert nagyon sokan csak tömegkövetésből nyomják. Tényleg a munkahelyed az, hogy ott van, aki már hülyének néz, vagy még nem?
+Egyébként te hogyan szűrted azt, hogy milyen podcastot hallgatsz? Mert gondolom, találkoztál olyannal, ami kihegyeződött a piaci elemzésre meg a grafikonrajzolásra, vagy ami mellé ment, mert behozott más kriptókat, satöbbi. Tehát szerintem azért elég sok olyan van. Hogyan találtad meg mégis a hangot? Most nem az, hogy azt szeretném hallani, hogy a HUSZONEGY — nem ez volt a kérdés, hanem hogy te hogy szelektáltál?
 
-– Amikor beleástam magam a Bitcoinba még az elején, beszéltem róla többet, téma volt. Az egyik munkatársam elkezdte vásárolni is. Nem tudom, azóta folytatja-e vagy abbahagyta, de azt tudom, hogy eljutott addig, hogy rendelt egy Jade-et. Segítettem neki, hogy honnan.
+– Hát az első kritérium az volt, hogy csak Bitcoin, és nem kell mással foglalkozni. Mert tényleg onnantól kezdve, hogyha van egy központi szereplő, egy cég, egy fejlesztő, akárki, aki dönthet úgy holnap, hogy teljesen mások a szabályai vagy a kód — akkor onnantól kezdve nincs miről beszélni. Mert akkor ugyanaz, mint a fiat, akkor az nem old meg semmit.
 
-– Neki is be van dugva a füle. (nevetés)
+És az ilyen chartelemzést meg grafikonokat, azt sose nézegettem, olyan irányba nem mentem el. Ez volt egy fő kritérium: hogy csak Bitcoin. Meg olyan embereket, akiket mondjuk ti is ajánlottatok, és akkor ők is ajánlottak másokat, és akkor így mentem utána.
 
-– Azóta nem beszélgettem vele róla, mert nem akarom ráerőltetni. Inkább azokkal beszélek róla, akik számomra fontosak, és azt szeretném, hogy ők is lássák meg. Ha nem, nem erőltetem, mert anélkül, hogy az ember saját maga észrevenné a problémát és meglátná, hogy mi ez, nagyon nehéz elmagyarázni.
+Akiről meg úgy gondoltam, hogy kicsit nem jó szemszögből közelíti meg ezt az egész témakört, azt meg szimplán nem néztem. Sok olyan volt az elmúlt egy évben, akit az elején néztem, aztán most, fél év után, egy év után már nem. Mert hiába nagy név a Bitcoinon belül meg az egész ökoszisztémában, de úgy nem hiszem, hogy jól látja a dolgokat.
 
-– Téged az fogott meg, hogy az irányíthatatlansága, hogy nincs fölötte kontroll? Nem az van, hogy valaki javasol egy jogszabálymódosítást és mindenki ugrik, attól függetlenül, hogy etikus vagy etikátlan.
+– És persze azt a nézőpontot is meg kell hallgatni.
 
-– Alapvetően az egész pénzüggyel azt akartam elérni, hogy ne egy politikus, hatalmi elit, akárki döntse el, hogy az én és a családom biztonsága hogyan áll. Ne az legyen, hogy holnap kinyomtatják a forintkészlet 50%-át, és ott vagyok, hogy dolgoztam évekig a semmiért. Ezt valahogy ki kell küszöbölni. Arra jutottam, hogy erre a Bitcoin lesz a legmegfelelőbb megoldás, ami ezen tud segíteni, meg egyéb más dolgokon is nagyon pozitív az ember életére, ha beleássa magát.
+– Persze. Csak az ember szelektál.
 
-– Nem volt rémisztő, amikor az orange pill elkezdte kifejteni a hatását? Nekem emlékszem, olyan volt, hogy mentem és néztem az embereket meg az utcát – úristen, mi lesz itt? Rájönnek, hogy ez a fiat hogyan áll össze, a pénzrendszer, akkor itt minden lámpán fog lógni egy akasztott ember.
+– Igen, egyébként szerintem ez tök nagy dolog, hogy valaki eljut oda, hogy nem az, hogy megmondják neki, mit hallgasson — hanem tényleg személyes preferencia alapján. Mert nagyon sokan csak ilyen tömegkövetésből nyomják, hogy akkor a munkahelyen hallja.
 
-– Nekem az volt az egyik legmeghatározóbb pillanat, amikor melóban voltam, dolgoztam és titeket hallgattam – már nem tudom, melyik adás –, arról beszéltetek, hogy magát a háborúkat is hogyan finanszírozzák. Amikor leesett, hogy 1971-től kezdve a semmiből előállított pénzzel gyártanak fegyvert, ami miatt milliók halnak meg adott esetben, és csak annyi dolguk van, hogy utána az inflációval elszámoljanak az emberek felé, meg adjanak nekik valami bűnbakot – most éppen ő miatta van, e miatt van –, de gyakorlatilag nincs felelősség. Amikor ez leesett, megállítottam a podcastet, kihúztam a fülhallgatót, és úgy néztem magam elé, hogy úristen. Belegondoltam, hogy ez nagyon sok mindent megmagyaráz.
+Tényleg, a munkahelyeden hogy van? Ott van, aki már hülyének néz, vagy még nem?
 
-A másik ilyen dolog az infláció maga volt. Mi az infláció? Sose kérdeztem meg soha, csak elfogadtam, hogy ez van, a gazdaság velejárója, így működött mindig. Amikor összekapcsoltam, hogy maga az infláció lényegében az emberi idő, energia és élet elértéktelenítése – ez súlyos kimondani, hogy megvan a lehetősége embereknek arra, hogy más életét leértékeljék egy gombnyomással.
+– Hát amikor így beleástam magam a bitcoinba, még az elején, akkor beszéltem róla inkább többet, akkor volt téma. Az egyik munkatársam el is kezdte vásárolni.
+
+– Ó!
+
+– Nem tudom, hogy azóta folytatja-e vagy abbahagyta, mert azóta nem beszéltem vele. De azt tudom, hogy eljutott addig, hogy rendelt egy Jade-et — segítettem neki, hogy honnan.
+
+– Neki is be van dugva a füle?
+
+– Igen. (nevetés) Azóta nem beszélgettünk, mert nem akarom rájuk erőltetni. Már inkább azokkal beszélgetek róla, akik számomra fontosak, és azt akarom, hogy ők lássák ezt meg. Ha nem, akkor meg nem erőltetem — mert anélkül, hogy az ember saját maga észrevenné a problémát, és meglátná, hogy mi is ez, anélkül nagyon nehéz elmagyarázni, sajnos.
+
+– És akkor téged ez fogott meg? Az irányíthatatlansága, kvázi, hogy nincs fölötte kontroll? Tehát nem az van, hogy valaki javasol egy jogszabály-módosítást, és akkor mindenki ugrik — attól függetlenül, hogy az etikus vagy etikátlan.
+
+– Igen. Alapvetően az egész pénzüggyel azt akartam elérni, hogy ne egy politikus, hatalmi elit, akármi döntse el, hogy az én és a családom biztonsága hogy áll. Hogy ne az legyen, hogy holnap kinyomtatják a forintkészlet 50%-át, és akkor ott vagyok, hogy dolgoztam évekig a semmiért. Hogy ezt valahogy kiküszöböljem.
+
+És arra jutottam, hogy erre a Bitcoin lesz a legmegfelelőbb megoldás, ami ezen tud segíteni. Meg még egyéb más dolgokon is — nagyon pozitív az ember életére, ha beleássa magát.
+
+– Nem volt az rémisztő számodra, amikor az orange pill, vagyis a narancspirula elkezdte kifejteni a hatását az agyadban? Tehát nekem emlékszem, hogy olyan volt, hogy tényleg így mentem, és néztem az embereket meg az utcát, és: úristen, mi lesz itt?
+
+– Igen. Ha rájönnek, hogy ez a fiat hogy áll össze, a pénzrendszer, akkor itt minden lámpán lakni fog egy akasztott ember.
+
+Nekem az volt az egyik legmeghatározóbb pillanat, amikor éppen melóban voltam, dolgoztam, és titeket hallgattalak. Már nem tudom, melyik adás — csak hogy arról beszéltetek, hogy magukat a háborúkat is hogyan finanszírozzák. És amikor ez így leesett, hogy '71-től kezdve a semmiből előállított pénzzel gyártanak fegyvert, ami miatt milliók halnak meg adott esetben. És csak annyi dolguk van, hogy utána az inflációval elszámoljanak az emberek felé, és adjanak nekik valami bűnbakot, hogy most éppen őmiatta van, meg emiatt van, meg amiatt van — de gyakorlatilag nincs felelősség.
+
+És amikor ez így leesett, akkor emlékszem, megállítottam a podcastet, kihúztam a fülemből a fülhallgatót, és így néztem magam elé, hogy úristen. És belegondoltam, hogy hát ez nagyon-nagyon sok mindent megmagyaráz.
+
+A másik ilyen dolog volt még maga az infláció: hogy mi az infláció. Mert sose kérdeztem meg, csak úgy elfogadtam, hogy ez van, ez a gazdaság velejárója, ez így működött mindig. Csak amikor összekapcsoltam, hogy maga az infláció az lényegében az emberi idő, energia és élet elértéktelenítése… És ez így súlyos azért kimondani: hogy megvan a lehetősége embereknek arra, hogy más életét egyszerűen leértékelje egy gombnyomással, gyakorlatilag.
 
 – De csak 2%-kal, az egy jó cél, nem? Az pont annyi, ami motivál téged, hogy jobban dolgozz. (nevetés)
 
 – Ők megpróbálják, csak nem sikerül. (nevetés) Sokat fogyaszt a private jet, még ha állami is.
 
-– Ezek vérlázító dolgok. Ahogyan mondod, a háborúk direkt ölik az embereket, az infláció meg indirekt. Ha egy ember életét levetíted munkaórák számára, több milliárd óra jön ki, és nagyon sok ember munkája fölösleges ebben a gazdasági színjátékban, amit ma gazdaságnak neveznek.
+Ezek ilyen vérlázító dolgok. És ahogyan mondod is: a háborúk direkt is ölik az embereket, az infláció meg indirekt — mert a munkaóra, az életóra. Nem is tudom, melyik emberke volt itt a nagy Bitcoin-térben, aki kiszámolta ezt, hogy az amerikai kormány évente az inflációval mennyi embert öl meg.
 
-– Én is mindig ezen gondolkodok, hogy nekem is milyen jó lenne egy olyan pénztárca, amiben leértékelgethetek. Tudnék gazdálkodni tök jól. Közben beadom jegybankárnak is, hátha sikerül. (nevetés)
+– Mert gyakorlatilag, hogyha egy emberéletet levetítesz órákra, és akkor kijön több millió óra, több milliárd óra — akkor nagyon sok embernek a munkája fölösleges ebben a gazdasági színjátékban, amit hát gazdaságnak neveznek manapság.
 
-– Hallom, már nem menő, leáldozóban van nekik. De nyilván még fognak ragaszkodni hozzá egy darabig. Beszéljünk most mást, mert tudom, hogy van neked egy hobbid. Frissiben szeretném felhozni, hogy a csoporton belül már egy ideje felbukkant ez a kis eszköz. Mondanál erről valamit, miért tartottad fontosnak? Mi ez?
+– Hát akkor ez egy nagyon szép találkozás. Örülök neki, hogy hozzá tudtunk mi is tenni azzal, hogy hallgattál minket.
 
-– Amikor eljutottam oda, hogy el kéne kezdeni biztonságosan tárolni, megnéztem a lehetőségeket. Mivel ez a szakmám, úgy voltam vele, hogy ilyet bármikor tudok készíteni, akár egyedit is, különböző típusúakat. Csináltam magamnak egyet, mert van itthon egy kis CNC gépem. Elkészítettem, és megfogalmazódott bennem, hogy igazából értéket tudok előállítani mások számára, cserébe meg egy kis szatosit is tudok gyűjteni – win-win szituáció.
+Na és most, hogy ismered a bitcoint, mit gondolsz? Szerinted lehet ez megoldás a jövőben a világ problémáira? Hogyan állsz ehhez most?
 
-Elkezdtem, az elején egy-két darabot csináltam, bedobtam a HUSZONEGY csoportba, egy-két ember érdeklődött, csináltam nekik. Ők mondták, min lehetne javítani, azokat a kis módosításokat megcsináltam. Most itt van, viszonylag kompakt.
+– Egyrészről nagyon pozitívan és reménytelien. Mert tényleg rengeteg problémát tudna megoldani az, hogyha az embereknek az értékeit nem tüntetnék el. Tényleg, az élelmiszertől elkezdve az egészségen át — mi mindenre hatással van!
 
-– Tulajdonképpen ez egy fémlapka, ami a seed mentésre való?
+Csak akkor döbben rá az ember, amikor tényleg beleássa magát, mélyebbre megy, és akkor ráeszmél, hogy gyakorlatilag mindenre kiterjed ez a témakör. És hogy mennyi mindent tudna megoldani. Hogy a háború csak egy aspektusa: hogy az államoknak ötször meg kéne gondolniuk azt, hogy harcba akarnak-e lépni a szomszéddal — mert véges az erőforrásuk, és ha elszámolnak valamit, akkor azzal el kell számolniuk az emberek előtt is.
 
-– Ez egy titánium ötvözet, 30 x 45 mm x 4 mm. Majd bevágjátok képbe. Itt közben fölmutatom, csak nem nagyon tudom közel vinni. Be van ütve egy raszter.
+De rengeteg olyan dolog van, amin tudna javítani. Nem is keveset.
 
-– Miért nem ütöttétek be? Nagyobb lenne az érdeklődés. (nevetés)
+– Igen. Én is mindig ezen gondolkodom, hogy nekem is milyen jó lenne egy olyan pénztárca, amiben így néha túlmegy, aztán alatta elkopik, leértékelgetem. (nevetés) Tudnék vele gazdálkodni én is tök jól, szerintem. Meg szerintem minden ember.
 
-– Szép darab, ott látszik a vastagsága is. Ezt a villamos alá is rakhatod, elég strapabíró. (nevetés) Ez meg a másik oldal, ez egy kétoldalas cucc. Miért ezt az anyagot választottad?
+Közben jegybankárnak — hátha sikerül. (nevetés)
 
-– A titán hőálló, korrózióálló, masszív anyag, olyan 1600 fok környékén van az olvadáspontja, úgyhogy egy lakástűz se fog benne.
+– Úgy hallom, már nem menő.
+
+– Már leáldozóban van nekik. Nyilván azért még fognak hozzá ragaszkodni egy darabig, hallani ilyeneket.
+– Beszéljünk most ne ilyen általános dolgokról! Tudom, hogy van neked egy hobbid — aztán majd persze elmehetünk megint ilyen filozofikus irányba, de ezt még szeretném most frissiben felhozni. Itt a csoporton belül már egy ideje felbukkant ez a kis eszköz. Mondanál erről valamit — hogy ezt miért tartottad fontosnak, meg mi ez? Közben majd itt megmutatjuk.
+
+– Amikor eljutottam oda, hogy jó, hát akkor már lassan el kéne kezdeni ezt biztonságosan tárolni, akkor megnézegettem a lehetőségeket. És hát mivel nekem ez a szakmám, úgy voltam vele, hogy ilyet bármikor tudok készíteni — akár egyedit is, különböző típusúakat is.
+
+És akkor csináltam magamnak egyet, mert van itthon egy ilyen kis CNC-gépem. Elkészítettem egyet, és akkor megfogalmazódott bennem, hogy ez tök jó: igazából értéket tudok előállítani mások számára, cserébe meg akár egy kis szatosit is tudok gyűjteni — és akkor ilyenkor win-win szituáció van.
+
+Akkor elkezdtem; az elején egy-két darabot csináltam, bedobtam a HUSZONEGY csoportba, egy-két ember érdeklődött is, csináltam nekik. És ők mondták, hogy min lehetne még javítani rajta, esetleg mit hozzátenni — és akkor azokat a kis módosításokat megcsináltam.
+
+– Tulajdonképpen ez egy acéllap, nem? Ami a seed mentésére való.
+
+– Igen. Ez egy titániumötvözet. 30 x 45 mm x 4 mm. Gyakorlatilag úgy kell elképzelni — nem tudom, majd bevágjátok képbe.
+
+– Meg fölmutatom itt közben, csak nem nagyon tudom közel vinni. Be van ütve?
+
+– Ez még beütve nincsen, csak egy ilyen raszter van rajta.
+
+– Miért nem ütöttétek be? Nagyobb lenne az érdeklődés. (nevetés) Szép darab. Itt látszik a vastagsága. Ezt a villamos alá is rakhatod.
+
+– Igen, elég strapabíró. Az meg a másik oldal — ez egy kétoldalas cucc.
+
+– És miért ezt az anyagot választottad? Mert mondtad, hogy titániumötvözet.
+
+– Mivel a titán eléggé hőálló, korrózióálló, masszív anyag. Olyan 1600 fok környékén van az olvadáspontja, úgyhogy egy lakástűz se fog benne.
 
 – Akkor ezt még a jet fuel sem égeti el, nem? (nevetés)
 
-– Megmunkálni kicsit nehezebb, mint egy rozsdamentes acél, de annyit megér, jó választás volt. Úgy kell elképzelni, hogy függőlegesen a rácsozás mellett vannak a számok egytől 24-ig: az első oldalon egytől 12-ig, hátul 13-tól 24-ig. Fölül van egy sor, amiben az 1, 2, 4, 8 értékek vannak, 2048-ig a BIP39-es lista szerint. Minden vízszintes sor egy-egy szót jelöl, és a szavak sorszámát binárisan kell beütni. Ehhez van egy pontozós lista, ahol ki vannak gyűjtve, hogy melyik szónak mi a pontozása. Ezt azért érdemes visszaellenőrizni.
+– Úgyhogy ezért választottam. Megmunkálni kicsit nehezebb, mint egy rozsdamentes acélt, de annyit megér — viszonylag jó választás volt szerintem.
 
-– Hogy nehogy elküldje valahova. (nevetés) Annak kicsi az esélye, de hogy nehogy valami félremenjen.
+Úgy kell elképzelni, hogy függőlegesen, a rácsozás mellett vannak a számok 1-től 24-ig: mindegyik, az első oldalon 1-től 12-ig, hátul meg a 24-ig. És akkor fölül van egy sor, amiben vannak az 1, 2, 4, 8… így 2048-ig, a BIP39-es lista szerint vannak az értékek. És akkor minden egyes vízszintes sor egy szót jelöl, és gyakorlatilag a szavaknak a sorszámát binárisan kell beütni.
 
-– Nem kell az összes szó betűnként beütögetni, mert az volt az első megoldásom, de az elég fárasztó 24 szóval.
+De ezt nem kell magadnak átkonvertálni, mert van ehhez egy ilyen pontozós lista, ahol ki vannak gyűjtögetve, hogy melyik szónak mi a pontozása. Ezt így érdemes azért visszaellenőrizni — én is, amikor letöltöttem ezt a cuccot, azért megnéztem.
 
-– Ez a klasszikus alátétes módszer. Eléggé fárasztó, főleg ha rozsdamentes anyagba üti bele az ember, az még keményebb.
+– Egyről legyen szó.
 
-– Akkor jött az ötlet, hogy valami kényelmesebb módszert keresni. Van hozzá egy automata központozó, amit az ember rátesz, kalapács se kell hozzá, csak lenyomod, van benne egy rugó, és beüti a pöttyöt. Egy párszor le kell nyomni, háromszor-négyszer, de akkor jól látszik, mert elő van központozva. Minden rubrikában van egy kis előpontozás, precízen bele lehet tenni. Viszonylag hamar, kényelmesen meg lehet oldani.
+– Igen. Hogy nehogy valahova elküldje. (nevetés) Mondjuk annak kicsi az esélye — de hogy nehogy valami félremenjen.
 
-– Annyira nem elterjedt még. Egy laikus ránéz, nem feltétlen fogja tudni, hogy mi ez. Ha már hallott a Bitcoinról, össze tudja rakni, hogy 12-24 szót egy cetlin elgondolkodhat rajta. Meg lehet keresni, de ha erre még teszel egy matricát vagy bevonod akármivel, már annyira se feltűnő, el lehet rejteni. Téged is beszippantott ez a rejtegetési mánia?
+És akkor ennyi, hogy nem kell az összes szót betűnként beütögetni. Mert ez volt az első, amit megcsináltam — de hát ez elég fárasztó azért, 24 szó.
 
-– Hogy hova lehet elrejteni – nem adok ötleteket, mert ezt mindenkinek saját magának kell kitalálnia, mert akkor igazi a védelem. Utána lehet nézni, de mindenkinek más, és ki kell dolgozni egy stratégiát, hogy milyen eshetőségekkor hogyan férhet hozzá az ember maga vagy egy hozzátartozója.
+– Hát ez a klasszikus alátétes módszer, ugye?
 
-– Ehhez érdemes egy 25. vagy 13. szót is beállítani.
+– Igen. És hogy eléggé fáraszt, főleg ha rozsdamentes anyagba üti bele az ember, azért az még keményebb, mint egy sima alátét. Akkor jött az ötlet, hogy valami kényelmesebb módszert keresni rá.
 
-– Amiről mintáztam, ott volt egy 25. szó is. Nélküle utána fölösleges.
+És ez viszonylag egyszerű, mert van hozzá egy ilyen automata központozó, amit az ember csak rátesz — és akkor még kalapács se kell hozzá, csak lenyomod, van benne egy rugó, és akkor beüti a pöttyöt. Egy párszor le kell nyomni, egy háromszor-négyszer.
 
-– Én nagyon örülök, hogy végre van egy magyar gyártója ennek, úgyhogy ezt majd linkeljük is. Te vagy Nostr-on?
+– De akkor már jól látszik, nem? Mert elő van központozva neki.
 
-– Vagyok Nostr-on is. Ott a legegyszerűbb: üzenet, zap, és megy a rendelés. Nem akarok itt webshopot nyitni, de ugye Kata a Bitcoin Spritz-cel hasonló módon oldotta meg. Elég sokan, akik kisebb mennyiségben előállított dolgokat árulnak, a Nostr-on simán tudják értékesíteni.
+– Igen, minden egyes rublikában van egy kis előpontozás, és akkor azt precízen bele lehet tenni. És viszonylag hamar, kényelmesen meg lehet vele oldani.
 
-– Én biztos fogok rendelni, de szerintem érdemes lenne egy nyereményjátékot is csinálni, ki lehetne sorsolni egy ilyet, és szépen elterjedne.
+– Annyira nem is elterjedt még szerintem.
 
-– Fel is ajánlottam egyet a HUSZONEGY csatornának. Ha lehetőség adódik, nyugodtan ki lehetne sorsolni. Valaki meg tudná nyerni és biztonságosan el tudná tárolni. Azért se ütöttem bele még semmit, mert ez lesz az. (nevetés)
+– Hát több ilyen megoldás is van. De egy laikus most ránéz, nem feltétlen fogja tudni, hogy mi ez. Ha meg már hallott a bitcoinról, akkor azért össze tudja rakni, hogy 12-24 szót, egy cetlin, akármin — elgondolkozhat.
 
-– Majd ha fölmegy a nézettségünk, lehet olyat, hogy előre beütött, és tartalmaz 100 000 vagy 1 millió szatot. (nevetés) De addig várjuk a felajánlásokat.
+– Jó, hát ezt is meg lehet keresni, csak…
 
-– Nekem tetszik minden, ami ilyen. Lőrincnek is volt egy ilyen Bitcoin metódja, az is nagyon klassz volt, egy otthon előállítható módszer. Szerintem minél több van, és minél inkább játszunk a kulcsokkal – nem felelőtlenül, de térképezgetjük a palettát, hogy miket lehet a kulcsokkal meg a backup módszerekkel elérni –, annál inkább megszerezzük azt a jártasságot, ami egyre elengedhetetlenebb ebben a térben. Jók a hardware walletek, de tönkre tudnak menni.
+– Ha erre még teszel egy matricát, vagy bevonod akármivel, akkor már annyira se feltűnő, és el lehet rejteni igazából.
 
-Hallottam olyat, hogy Dél-Koreában a rendőrség házkutatást tartott valakinél és lefoglalta a hardware walletet. Attól függően, hogy mennyire bonyolult az összeépítésük, lehet ezeket törni. Az újakat nem lehet, mert ott már el vannak rejtve a biztonsági elemek. Asszem Trezor 3 fölött, meg a 2020-21-es évek után már úgy csinálják a litografikus marások alkalmával, hogy mindig véletlenszerűen vagy több helyen rejtik el a titkos elemeket, és ne lehessen adatvisszaállítási módszerekkel sem kinyerni belőlük semmit.
+– Akkor téged is beszippantott ez a rejtegetési mánia? Hogy hova lehet…
 
-Nem vagyok a téma nagy szakértője, inkább felhasználó. Valamikor erről tarthatnánk egy adást, mert sok embert érdekelhet. Openoms biztos el tudná szépen magyarázni, mi a különbség az állapotos meg az állapot nélküli hardware eszközök között, és milyen technológiákkal gyártják ezeket. Ahogyan a Bitcoin népszerűsödik és egyre inkább mainstream – bár most kaptunk egy kis árcsökkentő demoralizálást (nevetés), köszönjük –, annál inkább lesz köztudatban, hogy mi az az eszköz, amit ha átviszel egy reptéren, egy vámos kivehet. Nyilván a fejedben át tudsz menni bárhol, de nem mindenki képes 12 szó megjegyzésére.
+– Nem adok ötleteket, mert ezt mindenkinek tényleg saját magának kell — mert akkor igazi védelem a védelem.
 
-– Azért nem is biztos, hogy egy fémdarabkával akarnék elmenni reptérre. De a tárolási és backup technológia annyira válik ismertté. Szerintem nagyon sokan tudják már, hogy a Bitcoin nem úgy van, hogy bemész és nyitsz egy számlát, hanem ilyen módokon tárolod.
+– Persze. Utána lehet nézni, de rá kell jönni, hogy mindenkinek más. Ki kell dolgoznia mindenkinek magának egy stratégiát, hogy milyen eshetőségekkor hogy férhet hozzá az ember saját maga vagy egy hozzátartozója, satöbbi. Ehhez még érdemes azért egy 25., meg egy 13. szót beállítani.
 
-– A konferenciáról van valami megosztandód, Mordá? Ott találkoztunk veled, kicsit beszélgettünk is. Mi volt, ami igazán élményszámba ment, az előadások vagy személyes találkozások közül?
+– Igen, igen. Amiről mintáztam, ott volt egy 25.
 
-– Volt több pozitív esemény is, a feleségemmel mentem. Az előadások zömét ismertem, de voltak nagyon hasznos előadások. Főleg Openoms a biztonság terén, az nagyon sokat hozzátett a tudásomhoz, meg Kata előadása is nagyon tetszett. Csak a szombati napon voltam, de volt egy olyan élményem, hogy Kata előadása alatt a feleségem megbökte az oldalam és mondja: nézek jobbra – mellettünk a srác épp a telefonján nézte azt a seed tárolót, amiről az enyémet mintáztam.
+– Csak mondom — ugye azt utána fölösleges ide, mert akkor nincs értelme.
 
-Gondoltam is, odamegyek és bepromózom a lapkát. Nem sokkal később zizzent a telefonom, de nem foglalkoztam vele, mert hallgattam az előadást. Amikor volt egy kis szünet, elővettem, megnéztem, és írt nekem valaki, hogy itt vagyok a konferencián, tudunk-e beszélni a lapkáról. Ő már hónapokkal ezelőtt kérdezett róla, de annyiban maradt. Mondja, itt vagyok csíkos pólóban, szemüveggel. Mondom, oké, szerintem melletted vagyok. (nevetés) Felnézett, nézett, és elfutotta a nevetés. Vicces volt.
+– Fejbe.
 
-– Az király.
+– Én nagyon örülök, hogy végre van egy magyar gyártója ennek, úgyhogy ezt majd ide is linkeljük. Hol a jobb? Te vagy Nostron?
 
-– A másik, hogy Openomsszal akartam beszélni, mert még év elején segített egy családtagomnak egy technikaibb dologban, és szerettem volna megköszönni. Nap folyamán nem találtam rá lehetőséget, mert mindig beszélt valakivel, nem akartam zavarni. Az esti kvízjátéknál pont mellém ült le, bemutatkoztam, és megdumáltuk a dolgot. Jó volt.
+– Vagyok Nostron is.
 
-Az előadások is nagyon jók voltak, meg az egésznek a hangulata, ahogy az emberek egymáshoz viszonyulnak. Egészen más, mint amikor más emberekkel találkozol. Még ha régebben ismered is őket, kevésbé tudsz elmélyedten beszélgetni egy ismerősöddel, mint itt egy random emberrel, akivel belebonyolódsz egy beszélgetésbe.
+– Ott a legegyszerűbb. Üzenet, zap, és akkor megy a rendelés. Nem akarok itt webshopot kinyírni — csak ugye Katáé, a Bitcoiner's Pretties is hasonló módon oldotta meg. Meg szerintem elég sokan, akik ilyen kisebb mennyiségben állítanak elő dolgokat, azok a Nostron ezt simán tudják árusítani.
 
-– Emiatt olyan érzésed van, mintha ezer éve ismernéd a bitcoiner pajtásokat. Nem a nulláról kell kezdeni. Ismersz-e olyan embereket, akik hozzád hasonlóan nem a 2010-es évek elején, hanem a 2020-as évek elején csöppentek bele a Bitcoinba? Akik veled egyszerre indultak, mert te a fiatal bitcoinerek közé tartozol, nemcsak életkorilag, hanem a ciklusokat tekintve is. Téged hogyan érint – elment hajónak, lekésett vonatnak tartod? Vagy látod értelmét az egésznek? Mert nagyon sok barátom azt mondja, hogy ez már elment.
+Én biztos fogok rendelni. De szerintem érdemes lenne majd egy ilyen nyereményjátékot is csinálni egy-egy adásba, ki lehetne sorsolni egy ilyet, és akkor szépen elterjedne.
 
-Milyen érdekes, hogy te is mondod, 2024 végén kezdtél mélyen foglalkozni vele. Egy barátommal pont tavaly nyáron beszélgettem erről, egy unokatestvéremmel meg tavalyelőtt nyáron, és mindkettő lesújtóan bólogatott: tök jó, meg minden, érti, de már elment a hajó. Én mondtam, nem ment el a hajó, nem tud elmenni. Most születsz meg, akkor most kell elindítanod. Mit tudnál mondani azoknak, akik ezt mondják?
+– Igen, fel is ajánlottam egyet a HUSZONEGY csatornának, hogyha majd lehetőség adódik rá, akkor nyugodtan ki lehetne egy ilyet sorsolni. Azt majd kitaláljátok, hogy milyen formában, és akkor valaki ezt meg tudná nyerni, aztán biztonságosan el tudná tárolni. Konkrétan ezt. Azért se ütöttem még bele semmit, mert ez lesz az. (nevetés)
 
-– Ha csak az árfolyam részét nézzük, mivel a fiatnak nincs alja, a Bitcoinnak nincs teteje. Igaz, hogy egy bitcoin az egy bitcoin, ez egy lineáris vonal, és ahhoz képest a fiat megy lefelé, csak az emberek még nem látják, mert fiatban gondolkodnak, ahhoz mérnek mindent.
+– Jó. Na majd ha fölmegy a nézettségünk, akkor lehet olyat, hogy előreütött. (nevetés) Egy kicsit sugallva, hogy 100 000 szatot tartalmaz, vagy 1 millió szatot.
 
-Az, hogy ez már elment, azért nem igaz, mert ez érvényes volt két évvel ezelőtt is, meg öt évvel ezelőtt is. Az ember mindig arra döbben rá, hogy persze rövid távon csinálhat akármit, de hosszú távon fölfelé menő dolog. Hogy öt évvel ezelőtt hány Bitcoinba került egy ház, meg most mennyibe – elkezdeni a legjobb pillanat a most. Lehet rajta sopánkodni, hogy milyen jó lett volna öt-tíz évvel ezelőtt, de mindenkinek akkor jön el, amikor kell és szüksége van rá. Valójában akkor érti meg igazán az ember, amikor tényleg szüksége van rá, legyen az fenyegetés vagy bármi más. Ezért van az, hogy afrikai országokban előnyben részesítik, mert ott relatív stabilnak számít, hogy „csak" 30%-ot esik pár nap alatt a saját valutájukhoz képest.
+– Csak még várjuk a felajánlásokat. (nevetés)
 
-A legjobb elkezdeni piciben, rendszeresen, és ki lehet küszöbölni a hullámzást. Én 2024 vége felé kezdtem, és nem sokkal utána visszaesett 70-75 000-ig. Akkor úgy voltam, jó, vegyük végig az esést. Mindig, amikor csináltam eszközöket – mert nemcsak lapkákat csináltam, az egyik hobbim a kávézás, fából készült kávés eszközöket, kapszulatartókat csináltam –, ami ebből bejött, azt egyből beleforgattam Bitcoinba.
+– Tök jó. Nekem minden tetszik, ami ilyen. Lőrincnek is volt ez a [BitCan](https://bitcan.world) metódus, az is egy nagyon klassz volt — ugye az egy otthon előállítható módszer. De szerintem minél több van, és minél inkább játszunk így a kulcsokkal — már nem úgy, hogy felelőtlenül, de hogy térképezgetjük föl a palettát, hogy miket lehet ezekkel a kulcsokkal meg backup-módszerekkel elérni —, annál inkább megszerezzük ezt a jártasságot. Ami egyre inkább elengedhetetlen ebben a térben. Mert jók a hardveres walletek, de ugye tönkre tudnak menni.
 
-– A múltkori adásban jól is jött.
+Illetve hallottam olyat — most nem tudom, hogy erről ti hallottatok-e —, hogy Dél-Koreában volt egy eset, ez már egy pár hete volt, hogy a rendőrség házkutatást tartott valakinél, és lefoglalta a hardveres walletet. És hát attól függően, hogy ezek mennyire bonyolult összeépítésűek, attól függően lehet ezeket törni.
 
-– Néztem, hogy 75 000-ről felment 110-115 000-re, és amit akkor elmentettem, az időben mennyivel többet ér. Nemcsak megmaradt az értéke, hanem nőtt is. Már az is elég lenne, ha csak megmaradna, az is előny, ha tíz évre meg tudom tartani valaminek az értékét, és nem azzal kell számolnom, hogy folyamatosan egyre kevesebbet ér.
+Ugye az újakat nem lehet, mert ott már el vannak rejtve ezek a biztonsági elemek. Tehát azt hiszem, Trezor 3 fölött, meg így a 2020-2021-es évek után, azokat már úgy csinálják, az ilyen litografikus marások alkalmával, hogy ezeket úgy rejtik el, hogy mindig véletlenszerűen, vagy több helyen vannak elrejtve ezek a titkos elemek — hogy ne lehessen adat-visszaállítási módszerekkel sem kinyerni belőlük semmit.
 
-Most ez a beszakadás jó tapasztalat volt, mert könnyű azt mondani, hogy akkor kell vásárolni, amikor vér folyik az utcákon, de amikor ez megvalósul, nem olyan egyszerű.
+De nem vagyok a téma nagy szakértője, inkább azt mondanám, hogy csak felhasználó. Valamikor egyébként erről tarthatnánk majd egy adást, mert szerintem nagyon sok embert érdekel. Openoms biztos el tudná szépen magyarázni, hogy mi a különbség az állapotos meg az állapot nélküli hardveres eszközök között, illetve hogy milyen technológiákkal gyártják ezeket.
+
+Szerintem érdekes, mert ugye ahogyan a Bitcoin népszerűsödik, és egyre inkább mainstream ismét — bár most kaptunk egy kis árcsökkentő demoralizálást (nevetés), de ez nem tölt el minket, köszönjük —, annál inkább lesz ez a köztudatban: hogy mi az az eszköz, amit hogyha esetleg átviszel egy reptéren, azt mondjuk egy vámos kivegye, nem? Mondjuk nyilván a fejedben át tudsz menni bárhol, hogyha a fejedben vannak a kódjaid, vagyis a szavaid — de hát nem mindenki képes 12 szó megjegyzésére.
+
+– Ja, de azért nem is biztos, hogy egy ilyen fémdarabkával akarnék elmenni reptérre.
+
+– Nem, csak mondom, hogy a tárolási technológia meg a backup-technológia mennyire válik ismertté. Most már szerintem nagyon sokan tudják, hogy a Bitcoin hol tárolódik — nem az, hogy bemész és nyitsz egy számlát, hanem ilyen módokon.
+– Jól van. Konferenciáról van valami megosztandód, Mordai? Ugye ott találkoztunk veled, és kicsit beszélgettünk is. Neked mi volt ott, ami igazán élményszámba ment? Az előadások vagy a személyes találkozások közül volt-e valami olyan, amit megemlítenél?
+
+– Volt több olyan esemény is, ami kifejezetten pozitív volt. Ugye én a feleségemmel mentem. Magukat az előadásokat — hát ezt zömében azért én már tudom —, de voltak nagyon-nagyon hasznos előadások. Főleg Openoms, a biztonság terén, az nagyon-nagyon sokat hozzátett a tudásomhoz. Meg a Katának az előadása is nagyon tetszett.
+
+Én csak a szombati napon voltam. De volt egy olyan élményem, hogy a Kata előadása alatt a feleségem megbökte az oldalam, és mondja, hogy nézzek jobbra: mellettünk a srác épp a telefonját nézte, és azt a seed-tárolót nézte, amiről én mintáztam az enyémet. És gondoltam is, hogy hát majd talán odamegyek, aztán kicsit bepromózom a lapkát.
+
+És nem sokkal később zizzent a telefonom — de nem foglalkoztam vele, mert hallgattam az előadást. Aztán éppen amikor volt egy kis lélegzetvételnyi szünet, akkor elővettem, megnéztem, és hát írt nekem valaki, hogy figyu, itt vagyok a konferencián, tudunk-e beszélni a lapkáról. Ő már hónapokkal ezelőtt kérdezett róla, de aztán annyiban maradt, nem vett tőlem. És akkor mondja, hogy itt vagyok, csíkos pólóban, szemüveg. És mondom: oké, akkor itt vagyok szerintem melletted. (nevetés)
+
+És akkor így felnézett, meredt maga elé, és elfordította a fejét. (nevetés) Úgyhogy ez így vicces volt.
+
+– Az király!
+
+– Az tényleg jó. Hát kicsi világ — főleg a bitcoinos világ kicsi.
+
+– Igen. Meg volt még egy másik: hogy Openomsszal akartam még beszélni, mert még év elején segített egy ismerősömnek, családtagomnak ilyen technikaibb dologban, és szerettem volna megköszönni. Aztán a nap folyamán nem találtam rá lehetőséget, mert mindig vagy beszélt valakivel, vagy valahol volt, és nem akartam zavarni. És az esti kvíz során, a kvízjátéknál pont mellém ült le, és akkor bemutatkoztam, meg megdumáltuk a dolgot — úgyhogy jó volt.
+
+Meg az előadások is nagyon jók voltak. Meg az egésznek a hangulata: hogy az emberek ahogy egymáshoz viszonyulnak, az egészen más, mint amikor más emberekkel találkozol. Még hogyha régebb óta ismersz valakit, akkor is kevésbé tudsz elmélyedten beszélgetni mondjuk egy ismerősöddel, mint itt egy random emberrel, akivel elkezdesz belebonyolódni a beszélgetésbe.
+
+– Igen, emiatt olyan érzésed van, mintha már ezer éve ismernéd, ugye — a bitcoiner pajtikat.
+
+– Igen. Nem a nulláról kell kezdeni.
+– Ismersz-e még olyan embereket, akik hozzád hasonlóan nem a 10-es évek elején, hanem a 20-as évek elején csöppentek bele a bitcoinba? Tehát akik veled egyszerre indultak — mert ugye te így a fiatal bitcoinerek közé tartozol, bár nem csak életkorilag, hanem szerintem a ciklusokat is tekintve.
+
+Téged ez hogy érint — hogy elment hajónak, lekésett hajónak vagy vonatnak tartod-e ezt? Vagy látod-e értelmét ennek az egésznek? Mert nagyon sok barátom azt mondja, hogy ez már elment.
+
+És milyen érdekes, hogy te is mondod, hogy itt '24 végén kezdtél mélyen foglalkozni vele. Én meg emlékszem, hogy egy barátommal pont tavaly nyáron beszélgettem erről, egy unokatestvéremmel meg tavalyelőtt nyáron — és mind a kettő így lesújtóan bólogatott, hogy figyelj, tök jó, meg mindent ért, de már elment a hajó.
+
+És én mondtam, hogy nem ment el a hajó. Hát nem tud elmenni a hajó! Tehát ha olyan most születsz meg, akkor már most kell elindítanod.
+
+Tehát ezt hogy érzed? Vagy mit tudnál mondani azoknak, akik ezt mondják?
+
+– Hát ha csak az árfolyam részét nézzük, akkor — mivel ugye a fiatról azt szokták mondani, hogy a fiatnak nincsen alja, ezért a Bitcoinnak nincsen teteje. Mert igaz, hogy egy Bitcoin az egy Bitcoin, és ez egy lineáris vonal — és ahhoz képest a fiat megy lefelé. Csak az emberek még nem látják, mert fiatban gondolkodnak, és ahhoz mérnek mindent.
+
+És hogy ez már elment, szerintem azért nem igaz, mert ez — ahogy te is mondod — érvényes volt két évvel ezelőtt is, meg öt évvel ezelőtt is. És mindig arra döbben rá az ember, ha igazából megnézi: hogy persze rövid távon csinálhat akármit, de hosszú távon ez egy felfelé menő dolog. És hogy öt évvel ezelőtt hány bitcoinba került egy ház, meg most mennyibe kerül egy ház, vagy egy autó, vagy akármi más.
+
+És igazából elkezdeni a legjobb pillanat: az a most. Mert lehet rajta sopánkodni, hogy fú, de jó lett volna öt-tíz évvel ezelőtt — de mindenkinek akkor jön el, amikor kell és szüksége van rá. És valójában akkor érti meg igazán az ember, amikor tényleg szüksége van rá valami miatt. Most lehet az egy fenyegetés vagy bármilyen dolog. Ezért van az, hogy afrikai országokban előnyben részesítik — mert ott relatív stabilnak számít, hogy csak 30%-ot esik pár nap alatt a saját valutájukhoz képest.
+
+És a legjobb szerintem elkezdeni picibe, rendszeresen — és akkor teljesen ki lehet küszöbölni ezeket a le-fel menő hullámokat.
+
+Én amikor amúgy elkezdtem, '24 vége felé, akkor nem sokkal utána egyből beszakadt, visszaesett 70-75 000-ig. És akkor úgy voltam, hogy na jó, hát akkor vegyük végig az esést, meg végig, végig, végig.
+
+És mindig, amikor csináltam eszközöket — mert nem csak ilyen lapkákat csináltam, hanem az egyik hobbim a kávézás…
+
+– Jó! A múltkori adás jól is jött. (nevetés)
+
+– …és csináltam fából készült kávés eszköztartókat, ilyen kapszulatartót meg ilyeneket. És akkor ami ebből bejött, azt egyből beleforgattam Bitcoinba. És akkor néztem, hogy igazából utána 75-ről felment nem tudom, 110-re, 115-re — hogy az, amit akkor éppen elmentettem, az az érték, amit előállítottam időben, az mennyivel többet ér.
+
+És nem csak az, hogy megmaradt az értéke, hanem tovább is nőtt. Még az is elég lenne, ha csak megmaradna, mert az is már egy előny: hogyha mondjuk tíz évre előre meg tudom valaminek tartani az értékét, és nem azzal kell számolnom, hogy folyamatosan egyre kevesebbet ér.
+
+Most meg ugye ez a beszakadás kvázi egy jó tapasztalat volt számomra. Mert könnyű azt mondani — van ez a mondás, hogy akkor kell vásárolni, amikor vér folyik az utcákon. De amikor ez megvalósul, azt azért nem olyan egyszerű, amikor minden oldalról…
 
 – Utólag egyszerűnek tűnik.
 
-– Minden oldalról a negatív dolgok jönnek, hogy még ez is van, még az is van. Élesben érzi meg az ember, hogyan is viselkedik. Számomra pozitív volt, hogy egyáltalán nem rémültem meg – oké, hát most megint több esélyem van gyűjteni belőle. Sokkal rosszabbul érezném magam, ha kilőtt volna mondjuk 1 millió dollárra, és úgy érezném, hiába értem, de elmegy előttem.
+– Igen. Amikor minden oldalról a negatív dolog jön, hogy: úú, még ez is van, még az is van, még az is van. És ezt így élesben érzi meg az ember, hogy hogy is viselkedik.
 
-– Vagyis kisebb lett a kanalad, amivel szeded rá.
+Számomra tök pozitív volt, hogy egyáltalán nem remegtem meg, hogy oké, hát akkor most végre úgy érzem, hogy megint egy kicsit több esélyem van gyűjteni belőle. Mert sokkal rosszabbul érezném magam, hogyha most kilőtt volna, teszem azt, 1 millió dollárra — hogy akkor tényleg úgy érezném, hogy hiába értem, de akkor így elmegy előttem.
 
-– Az ember hajlamos arra, amikor elszáll az ár, nagyon örülni, hogy visszaigazolta. De rá kell ébredni, hogy jobb, ha visszább megy. Nyilván megvan, amikor rizikós, ha nagyon nagyot esik és az embernek hitele van rajta, azért meg lehet izzadni. De alapvetően mindig meg fogja érni venni, tartani. A végcél szerintem az, hogy Bitcoin standardon élni, mert sokkal előrébb jut vele az ember, mintha olyan eszközben tartaná az értékét, amit folyamatosan elinflálnak.
+– Vagyis hogy kisebb lett a kanalad, amivel szeded.
 
-– Te is napi szinten DCA-zol?
+– Igen.
 
-– A Strike-ot használom rá, bevált módszer. Ezt akkor is meg fogja érni, amikor 1 millió lesz meg 2 millió, mert egyáltalán nem az számít.
+– Az ember hajlamos arra tényleg, hogy amikor elszáll az ár, akkor nagyon örül, hogy visszaigazolta. Viszont rá kell ébredni arra, hogy jobb, ha visszább megy.
 
-– A hitel kapcsán annyit mondanék, hogy ahhoz egy combos zuhanás kell, hogy likvidálódjon. De már egy közepes zuhanás is elgondolkodtatja az embert. Mindig megvan a lehetőség növelni a letétet, és akkor nagyobb biztonságban van a hitel. Akár Firefish, akár bármelyik másik, a lényeg a túlbiztosított letét, ami pont azért van, hogy mondjuk egy 50%-os bezuhanást is likvidálódás nélkül átvészeljen az ember, ha Bitcoin fedezetű kölcsöne van. Nyilván kockázatokkal járó dolgok.
+Jó, nyilván megvan az, amikor rizikós lehet: hogyha nagyon nagyot esik, és az embernek hitele van rajta, akkor azért meg lehet izzadni benne szerintem.
 
-– A legkockázatmentesebb az, amikor bevarrod egy cold storage-ba és odagyűjtöd. Aztán ha az ember bátor, nekimehet a hiteleknek.
+– De igen, alapvetően ezt mindig meg fogja érni venni, tartani. És tényleg, igazából a végcél szerintem, hogy Bitcoin-sztenderden élni — mert sokkal előrébb jut vele az ember, mintha egy olyan eszközt tartana, vagy abból tartaná az életét, energiáját, amit folyamatosan elinflálnak igazából.
 
-– A sopánkodásról az jutott eszembe – ismerősöktől is hallom, hogy milyen jó lett volna, ha öt évvel ezelőtt vettem volna Bitcoint. Ez kicsit olyan, mint amikor készülsz egy nagy utazásra, amihez komoly meló bepakolni. Mintha azt mondanád, milyen jó lett volna, ha két héttel ezelőtt elkezdtem volna pakolni. De ha el akarsz utazni csomaggal, mit tudsz tenni a sopánkodáson kívül? Elkezdesz bepakolni, amikor eszedbe jutott. Ha elakadsz ott, hogy „de kár, hogy nem két héttel ezelőtt kezdtem, akkor inkább el se megyek nyaralni" – az szívás.
+– Te is ilyen napi szinten DCA-zol, gondolom? Vagy heti?
 
-– Nagyon sokan ebben élnek. Ezért mondom, hogy ez röhélyes. Vagy csak kifogás, és azt érzékelteti az ember, hogy ezzel nem akar foglalkozni, csak nem mondja ki, mert ciki lenne egy fekete öves bitcoiner mellett azt mondani, hogy nekem nem kell Bitcoin. De kicsit ez az üzenet: lemaradtam róla, csókolom. Nagyon sokszor gondolkodok azon, hogy vajon a tömeg beismeri-e majd valaha, hogy az egóját rakta minden elé.
+– A Strike-ot használom rá.
 
-– Most kiről beszélsz? A tömeg attól még nem érti, hogy ez micsoda.
+– Az bevált módszer.
 
-– Igen, de nagyon sokan értik, és az „elment hajó" analógiát nyomják.
+– És ez akkor is meg fogja érni, amikor 1 millió lesz, meg 2 millió — mert nem az számít. Egyáltalán nem az számít.
 
-– Róluk beszélsz? Figyelj, ki nem úgy kezdi, hogy belerakom egy ház árát? Hanem megtakarít. Van egy 5000 forint a Revolut-on, kiküldöm a Strike-ra, nézegetem, szeretgetem egy évig, olvasgatok, ha van időm. Ezt sose értettem. Ez a bepakolás rohadt jó analógia.
+– A hitel kapcsán annyit mondanék, hogy azért ahhoz egy combos zuhanás kell, hogy likvidálódjon a hiteled. De persze már egy közepes zuhanás is elgondolkodtatja az embert, hogy vajon az megtörténhet-e. Ott mindig megvan a lehetőség rá, hogy növelje az ember a letétet, és akkor még nagyobb biztonságban lesz a hitele.
 
-Tényleg olyan értelmes barátaim vannak, és mindig mondják, hogy elment. Régen kint volt Saifedean könyve, én is adogattam, és mondták: jó volt a könyv, de ez már megtörtént. Ez 2021-ben volt. Mi változott meg? Most is olcsó – nem tudom, mennyi ma, 85, 88 vagy mennyi lesz addigra.
+Csak ilyen kis kiegészítésképp: a Firefishnél — vagy akármelyik másiknál — gyakorlatilag ott egy fontos dolog a túlbiztosított letét. És az pont azért van, hogy mondjuk akár egy 50%-os árfolyamra való bezuhanást is likvidálódás nélkül átvészelje az ember, hogyha valamiféle kölcsöne vagy hitele van, ami Bitcoin-fedezetű. Ugye nyilván ezek kockázatokkal járó dolgok.
 
-– 70. (nevetés)
+– De a legkockázatmentesebb az, amikor bevarrod egy ilyen kis cold storage-be, és odagyűjtöd.
 
-– Nem baj. Ezek mind beszállók annak, aki hajlandó vele foglalkozni. Több év után azt látom, hogy aki hajlandó, az meg van jutalmazva, és nem feltétlenül a számok birodalmában – de ott is –, hanem abban, hogy érti, mi történik, és sokkal felelősebb döntéseket tud hozni a pénzügyei terén. A számok világában meg az is fontos, hogy anyagi biztonságban érzi magát az ember, visszaigazolódik, hogy jó helyen tartja az értékét.
+– Aztán ha az ember már bátor, akkor nekimehet az ilyen hiteleknek.
 
-– Feri szokott ilyen példákat hozni, hogy ha stackelt volna valaki... Most nem mondom el, mert ez az ő szortja, de ha ezeket a DCA grafikonokat nézed – szokták beposztolgatni Nostr-on meg X-en ilyen siralmas időkben is –, kik vannak pluszban. Aki öt plusz évig tartja, az mindig pluszban van, minden adott időpillanatban.
+A sopánkodásról meg az jutott eszembe — én is szoktam ezt hallani ismerősöktől, hogy igen, de jó lett volna, ha öt évvel ezelőtt vettem volna bitcoint. Ez kicsit olyan, hasonlattal élve, mint amikor készülsz egy nagy utazásra, amire ugye nagyon komoly meló bepakolni. És ez kicsit olyan, mintha azt mondanád, hogy de jó lett volna, ha már két héttel ezelőtt elkezdtem volna pakolni.
 
-A rövid távú dipeket ne számoljuk. Ha találtál a fiat világban valamit, amiről gondolod, hogy elviszed a jövőbe és ne rohadjon meg, azt most meg tudod tenni. Persze olyat is látni, hogy a strúc áll a gödör alján, hogy „ez az alja", és aztán kibukkan egy strúcfej – megyünk még lejjebb. (nevetés) Utólag könnyű megmondani. Ha nem megy utána az ember a mélyére, nem tartja meg 2-3-10x-nél, hanem azt látja, hogy felment 50%-ot, és fú, de jó, kerestem egy kis fiatot vele. Ha tíz évvel ezelőtt vettél hobbiból, de nem érdekelt a téma, biztos nem tartottad meg tíz évig.
+De ugye hogyha el akarsz utazni úgy, hogy csomagod van, ahhoz mit tudsz tenni a sopánkodáson kívül? Hogy elkezdesz bepakolni akkor, amikor eszedbe jutott. És ha ott elakadsz egy „de kár, hogy nem kezdtem el két héttel ezelőtt bepakolni", akkor már inkább el se megyek nyaralni? Az szerintem egy szívás.
 
-– Milyen sztorik vannak. A klasszikus poszt, hogy 80 centért vette és eladta 283-nál, ilyen tizenvalahány éves poszt, hogy eleget keresett rajta. (nevetés) Ezeket az embereket megkeresik, és azóta vagy újra bitcoinerek századannyi Bitcoinnal, vagy jól röhögnek rajta.
+– Jó, de nagyon sokan ebben élnek.
 
-– Sok mindent megoldana, ha mindenki látná. Valószínűleg ez hosszabb idő, de aki látja, annak jó. Piciben kell elkezdeni mindent, mert akkor tud organikusan kinőni. Az üzletek is úgy vannak, hogy ha egy ötlet piciben életképes, nagyban föl tudod skálázni. De ha valaki belekezd valamibe nagy immel-ámmal, az általában nem szokott bejönni.
+– Igen. Ezért mondom, hogy ez röhejes. Vagy csak egy kifogás. Az is lehet, hogy azt érzékelteti olyankor az ember, hogy ő ezzel most nem is akar annyira foglalkozni — csak ezt nem mondja meg pacekba, mert lehet, hogy ciki lenne esetleg.
 
-– A múltkor Tamás mutatott chartokat, és volt egy mélypont a görbén, ahonnan elkezdett DCA-zni. Valaki kommentelte, hogy milyen jó pillanatban szálltál be, Tamás, mert onnantól lényegében csak fölfelé ment az árfolyam. Ugyanakkor ha azt a pillanatot nézzük, amikor bármelyikünk kezdett el DCA-zni évekkel ezelőtt, az is jól néz ki távolról, az is jó pillanat volt. Évekre visszamenőleg nehéz olyan pillanatot mutatni, amikor nem volt jó elkezdeni. Visszagondolva mindig az a legjobb pillanat, ami éppen most van.
+– Hát de onnan meg egoharc.
 
-– Mindenkit bátorítok, még azt is, aki nem tudja, hol kezdje. Nagyon sokat lehet tanulni mindenkitől, aki olyan tartalmat ad, ami nem tekint ki a Bitcoinon kívülre, mert ahogy te is mondtad, az tök más terület. A kripto az fiat. Eddig kell eljutni, hogy a Bitcoint szeretném megérteni, mert onnan kezdődött, és megérti, mire jött létre, mi a probléma, amire megoldást ad.
+– Egy fekete öves bitcoiner mellett ilyet mondani, hogy nekem már nem is kell bitcoin — de kicsit ez az üzenete: hogy én már lemaradtam róla, csókolom.
 
-– Ha az ember elkezd vele foglalkozni, annyi szeletét az életnek megérti, annyi mindenbe bele kell ásnia magát, hogy tényleg hasznos, mert olyan dolgokat is megért, amilyen kérdéseket fel se tett. Mi az, hogy pénz? Miért fogadjuk el, hogy ezt a papírpénzt meg a bankszámlán lévő számot használjuk? Senki nem tudja igazából, hogyan működik, miért ezt használjuk, mit használtunk előtte, hogyan alakult ki. Mindenki elfogadja, beleszületünk. De ha az ember helyrakja magában, hogy mi is az, hogy érték, és ne a pénzhez kössük, mert nem egyszer megtörtént a történelem során, hogy egyik napról a másikra volt meg nem volt értéke, és ott maradtak az emberek.
+Egyébként nagyon sokszor téma, meg morfondírozok én is ezen, hogy vajon a tömeg valaha beismeri-e majd azt, hogy hülye volt, hogy az egóját rakta minden elé?
 
-– Neked a megértésben mi volt a legnehezebb? Amivel több időt töltöttél?
+– Most kiről beszélsz? Mert a tömeg attól még nem érti, hogy ez micsoda.
 
-– Viszonylag hamar ment, de annak néztem inkább utána, hol van a buktatója. Valaminek lennie kell, mert mindig van valami kiskapu, valami, amivel ráhúzzák az emberre a vizes lepedőt. Megérteni, hogy tényleg mi az a decentralizáltság, hogyan tud úgy működni, hogy senki nem tudja cenzúrázni. Hiába tiltják be egy országban, miért megy át a bányászat egy másik országba, miért fognak az emberek node-ot futtatni. Ezt elfogadni, hogy tényleg működhet.
+– Igen, de nagyon sokan értik, és az „elment a hajó" analógiát nyomják.
 
-Az elején, amikor a feleségemmel beszélgettünk erről, nagyon sokáig tartott, és egy fél év volt, amíg mindig mondtam neki, megértette, látta, hogy van benne ráció. Nála is fél év után jött el a fordulat: hazafelé munkából jövet hallgatott egy Bitcoinnal kapcsolatos podcastet, hazajött, és este beszélgettünk róla. Mondta: várjál, ez akkor tényleg így működik? Láttam rajta, hogy leesett.
+– Ja, hogy róluk beszélsz.
 
-Nálam is az volt, hogy elkezdtem olyan videókat, hanganyagokat keresni, amik kritikusak – közgazdászok, politikusok –, hogy mondják el, miért nem fog működni. Ezzel párhuzamosan megolvastam a könyveket, akár a Bitcoin Standardot is, amiben ki vannak tárgyalva a szokásos FUD-ok és félreértelmezések. Bármilyen kritikát fogalmaztak meg, láttam, hogy ott a válasz, és bizonyított is. Hiába mondogatják öt éve ugyanazt, amikor már régen megválaszolták. Akkor jöttem rá, hogy hiába hallgatok azokra, akikre eddig hallgattam. Ha inkább hallgattam volna a hoodis Jack Mallers-re egy üres gardróbszobából, mennyivel előrébb lennék, mintha a csilivili közgazdászt hallgattam volna.
+– Róluk. Figyeljél, szerintem ki nem úgy kezdi el, hogy belerakom én egy ház árát? Hanem megtakarít. Tehát van egy 5000 forint a Revoluton, kiküldöm a Strike-ra, és akkor nézegetem, szeretgetem egy évig, olvasgatok, ha van időm, ha van rá igényem.
 
-Ezzel küzdöttem az elején, hogy megtaláljam, hol van a gyenge pont. Vannak részei, amik kockázatot jelentenek a jövőben, de hogy programozható és csak konszenzus alapján működik – ennél jobb nincs és nem is volt. Azért nem hiszik el az emberek, mert ilyen sose volt. Nem egy király vagy politikus mondja meg, most ezt a pénzt kell használnod, és kényük-kedvük szerint begyűjtik, újraolvasztják, újra verik. Most tényleg ott van bárki számára: letöltesz egy appot, tőzsdén is vehetsz, peer-to-peer is. A lehetőség ott van, csak ez még nem volt eddig.
+Én ezt sose értettem. Tényleg, ez a bepakolás, ez rohadt jó analógia.
 
-Ezért nehéz megérteni, aki nem foglalkozik vele, hogy mekkora dolog az államtól elválasztani a pénznyomtatás lehetőségét. Ez beleívódott az emberekbe évezredek során, hogy mindig is így volt. Csak jött a Bitcoin és megváltoztatta a helyzetet.
+– Ezt nagyon eltaláltad.
 
-– Egy lépcsőfok az emberiség történetében. Előbb-utóbb el kell ide jutni. Láttunk már egyéb módokat is – egyház-állam elválasztás és a többi. Most a pénzé van itt.
+– De tényleg olyan értelmes barátaim vannak, és ők is mindig mondják, hogy elment. Már régen kint volt a Saifedean könyve, egy pár éve, és akkor én ezeket így adogattam. És hát jó volt a könyv, de: „hát igen, jó volt, de hát most már ez már megtörtént." És ez ilyen 2021.
 
-– Az egyéb kriptók felé nem is kacsingattál? Mert az egy tipikus dolog, hogy azt gondolja az ember, a Bitcoin már drága, és biztos lecseréljük valami újabb, innovatívabb termékkel.
+Tehát mi változott meg? Most is olcsó ez a — nem tudom, mennyi ma. 85, 88, vagy mit tudom én, mennyi lesz addigra. 70. (nevetés) Nem baj — csak hogy ezek mind beszállók annak, aki hajlandó vele foglalkozni.
 
-– Mindig is megtakarítós, spórolós ember voltam, a tipikus magyar, aki kerüli a kockázatot. Ami ott van a bankszámlán, azt nem veszítheted el. Eleve egy lépcsőfok volt, hogy részvényekkel foglalkoztam. Amikor megismerkedtem a Bitcoinnal és titeket néztelek, egyből leesett, hogy hiába foglalkozom mással, mert ott ugyanúgy megvan a lehetősége, hogy kirántják az ember elől. Lehet, hogy egy-két altcoinban nagyobb potenciál van rövid távon, de mindegyik a nullába tart, ha Bitcoinban mérjük.
+És én azt látom így több év után, hogy aki hajlandó vele, az meg van jutalmazva. És nem feltétlenül a számok birodalmában — bár ott is —, hanem abban, hogy érti, hogy mi történik, és sokkal felelősebb döntéseket tud hozni a pénzügyei terén.
 
-Nem éri meg egész nap elemezni a chartokat, keresni a következő lehetőséget – pont ugyanaz, mintha megjósolnád, öt év múlva melyik startupból lesz Google szintű vállalat. Nem tudod megjósolni, innentől gambling, amit nem csináltam és nem is fogok. A Bitcoin az, aminél szinte nulla a rizikó, mert amíg a rendszer működik, jönnek a blokkok – ahogy 16 éve megy –, addig működni fog. Csak fenn kell tartani, el kell mesélni más embereknek, mindenki használja, fejlessze, és tegyen hozzá egyénileg is. Ha csak annyit tesz, hogy elmeséli egy ismerősének, az már sokat jelent.
+– A számok világában meg azért szerintem az is egy fontos vonatkozása, hogy anyagi biztonságban érzi magát az ember. Meg visszaigazolódik az, hogy amivel foglalkozik, az tényleg értékálló — sőt, hogy jó helyen tartja azt az értéket.
 
-– Nem tudom, hogyan hozzuk be, Árpi, amivel már készülünk egy ideje.
+– Feri szokott ilyen példákat hozni, hogyha stackelt volna valaki. Most nem mondom el, mert ez az ő reszortja — de tényleg, hogyha ezeket a DCA-grafikonokat nézed… meg szokott ugye lenni, ilyen siralmas idők idején is szokták beposztolgatni Nostron meg X-en, hogy kik vannak pluszban. Aki öt plusz évig tartja, az mindig pluszban van. Minden adott időpillanatban — és most az ilyen időszakos, rövid távú dipeket ne számoljuk.
 
-– Ebbe a megértetésbe olyan szinten álltunk bele az előző adásban, hogy az orange pillinget podcast szintre emeltük. A közösségen keresztül szeretnénk ebben tovább menni, és azt találtuk ki, hogy csinálunk egy formát, amivel személyesebbé tudjuk tenni azt a folyamatot, amivel mindenki megérti a Bitcoint. Ha valaki elakadt valahol, tudjon személyes segítséget kérni. Ezt nem lehet podcast formában folytatni, és mivel a távolságok nagyok, arra gondoltunk, hogy nyitunk egy tanácsadó platformot cégeknek és magánszemélyeknek, akik elakadtak a Bitcoin megértésével, alkalmazásával vagy elfogadásával. Legyen az számviteli, adózási, jogi, bevezetési vagy oktatási kérdés, szívesen segítünk. Ezt [Bitcoin Mentor](https://bitcoinmentor.hu) néven hoztuk létre.
+Ez tök jó arra, hogyha találtál még a fiat világban valamilyen elemet, amit úgy gondolsz, hogy elviszel a jövőbe, ne rohadjon meg — akkor azt most meg tudod tenni.
 
-– Kifejezetten Bitcoin tanácsadással foglalkozunk. Azért szerettük volna elindítani, mert többen megkerestek minket, hogy a cégeikkel elakadtak és nem tudják, honnan induljanak el. Üzleti alapokra kellett hozni, mert itt az értékadás értékért történik. Nézze meg az oldalt mindenki, aki vállalkozó és szeretne Bitcoint elfogadni.
+Persze olyat is látni, hogy a strucc áll a gödör alján, hogy „ez az alja" — és akkor följön egy struccfej. Azt láttátok? Hogy ez már az alja, és kibukkan egy struccfej: hogy megyünk még lejjebb. (nevetés) Szóval utólag könnyű megmondani ezeket.
 
-– A konferencián is több emberrel beszélgettem, akik mondták, hogy tök jó a podcast, rátaláltak a Bitcoinra, de nincs annyi idejük, hogy kiválogassák, milyen forrásokból érdemes tanulni. Ők is megfogalmazták, hogy szívesen fizetnének egy szolgáltatásért, ami az elején gyorsabb eligazodást ad. Mondtam nekik is, hogy éppen ilyennel készülünk nyár óta.
+– Meg ugye ezt könnyű mondani, hogyha ekkor meg ekkor vettem volna, akkor most milyen jó lenne. De hogyha nem megy utána az ember a mélyére, akkor nem tartja meg 2-3-10x-nél. Hanem azt látja, hogy felment 50%-ot, és: fú, de jó, kerestem egy kis fiatot vele. És nem tudod megtartani.
 
-Részben tanácsadásról van szó, részben vannak blogbejegyzések, ahol a Bitcoin témában jelentős cikkeket jelenítünk meg – más írásokból fordítjuk le vagy összegyűjtjük. Olvasnivaló is van bőven. A kapcsolat oldalon föl lehet venni velünk a kapcsolatot egy egyszerű űrlap kitöltésével és e-mail cím megadásával. Fölvesszük a kapcsolatot, leegyeztetjük, mi érdekli, és milyen keretek között tudjuk kialakítani a tanulási folyamatot.
+Arról ne is beszéljünk, hogyha 10 évvel ezelőtt vettél, csak úgy hobbiból vagy kíváncsiságból, de nem érdekelt annyira a téma — akkor biztos, hogy nem tartotta meg az ember 10 évig.
 
-– Minden területnek megvan a szakértője. A cél az, hogy a magyar Bitcoin közösségen belül egy irányítót hozzunk létre az igényt elmagyarázó és megvalósító entitások között. Bátran használjátok: vállalkozók, magánszemélyek, bárki – szívesen segítünk.
+– Hát ja, milyen sztorik vannak! Tudod, ez a klasszikus poszt, hogy — már nem is emlékszem, hogy mennyi —, de ilyen 80 centért vette, és hogy eladta 283-nál. De ilyen tizenvalahány éves poszt, és hogy „eleget keresett rajta". (nevetés) És így ezeket az embereket megkeresik, és hát kész — vagy azóta újra bitcoinerek, de mondjuk századannyi bitcoinnal, vagy jól röhögnek rajta.
 
-– Mi most ketten kezdünk bele az elején, amit mi tudunk, abban támogatjuk az érdeklődőket. Ha bejönnek olyan kérdések, ami meghaladja a képességeinket, szívesen keresünk konkrét személyeket a HUSZONEGY közösségen belül, akiknek kedve van ebbe a mentorálási tevékenységbe beszállni. A [Bitcoin Mentor](https://bitcoinmentor.hu) nevet amikor kiválasztottuk, utána esett le, hogy Kanadában csinálnak ilyet. Megpróbáltam velük fölvenni a kapcsolatot, de nem válaszoltak. Megtartottuk a nevet, mert nem kopizni akarjuk, amit ők csinálnak, ez tényleg találó név, és a magyar igényekre akarunk megoldást adni.
+Sok mindent megoldana, ha mindenki látná. Valószínűleg ez hosszabb idő — de aki látja, annak jó.
 
-– Van egy pár ember, aki már indulna, de nem tudja, hol. Itt most lehet. Röviden ennyit erről, majd jobban kivesézzük, milyen területek alatt mit is értünk. Ezekre képesnek érezzük magunkat, és képesek is vagyunk. Mordá, van-e még valami, amit szívesen elmondanál?
+Úgyhogy picibe kell elkezdeni, mert akkor tud organikusan kinőni, nem? Tehát nézd meg, az üzletek is úgy vannak, hogyha valami ötlet picibe életképes, akkor azt nagyba föl tudod skálázni. De hogyha valaki belekezd valamibe nagy hirtelen, akkor az általában nem szokott bejönni.
 
-– Hallgassanak titeket (nevetés), olvassanak sokat! Legyen kíváncsi az ember, tegyen fel kérdéseket, és keresse meg a válaszokat, mert ott vannak. Csak bele kell tenni az időt és az energiát, és ha idáig eljut, meg fogja hálálni az idő. Még annyit, hogy a konferencia után felbuzdulva megnéztem, hogy a Telegram csoportban Győr meg Dunántúl környékén nincs nagyon meetup, úgyhogy szervezek egyet. Igaz, amire kijön az adás, addigra már lezajlott, most csütörtökön lesz, de a későbbiekben is, ha valakinek kedve van bitcoinerekkel találkozni és beszélgetni, a Telegram csoportban meg tudja találni.
+Múltkor a Tamás mutogatott ilyen chartokat, két adással ezelőtt — és akkor mutatta azt is, hogy volt egy mélypont a görbén, és hogy innentől kezdve kezdett el DCA-zni. És akkor valaki kommentelte, vagy a Telegramon jött egy üzenet, hogy „de jó pillanatban szálltál be, Tamás" — merthogy onnantól lényegében, kizoomolva, az látszik, hogy csak fölfelé ment az árfolyama a Bitcoinnak.
 
-– Klassz kezdeményezés. Én is mindenkit arra sarkalok, hogy a környékén, ha nincs ilyen, vegye kézbe a kezdeményezést és valósítson meg meetupokat, mert az értékes emberek így kerülnek egy halmazba.
+Ugyanakkor meg, hogyha azt a pillanatot nézzük meg, amikor akár valamelyikünk kezdett el DCA-zni, évekkel ezelőtt — az is jól néz ki távolról. Tehát az is egy jó pillanat volt igazából. Tehát évekre visszamenőleg nehéz olyan pillanatot mutatni, amikor nem volt jó elkezdeni a DCA-zást. Visszagondolva arra, hogy mindig az a legjobb pillanat, ami akkor van, amikor leesik az embernek a tantusz: hogy jó, lehet, hogy jó lett volna elkezdeni korábban, de most van most.
 
-Szeretettel invitálunk minden érdeklődőt a decemberi pécsi meetupunkra, ami december 12-én, pénteken lesz a Reggeli nevű helyen. Az esemény részleteit a Facebook-, illetve Telegram csoportunkban találjátok. Lesz egy előadás „Mi a probléma, mire ad megoldást a Bitcoin?" címmel, és nagyon jó beszélgetések is várhatóak.
+Úgyhogy el kell kezdeni. Mindenkit bátorítok — még azt is, aki nem tudja, hogy hol kezdje el. Mert nagyon sokat lehet tanulni mindenkitől, aki olyan tartalmat ad, ami nem tekint ki a Bitcoinon kívülre. Mert ahogy te is mondtad: az tök más terület, a kriptó az fiat. És eddig kell eljutni, hogy az ember azt mondja, hogy én a bitcoint szeretném megérteni — mert egyrészt onnan kezdődött, és akkor megérti azt, hogy mire jött létre, mi a probléma, mi a megoldása. És akkor nem megy át máshova.
 
-Iratkozzatok fel a YouTube csatornánkra, kövessétek be a vadiúj Rumble csatornánkat! Kövessétek a HUSZONEGY-et a Nostr-on is! Aki nyüzsgésre vágyik, jöjjön a Telegram csoportunkba! Olvasgassátok, böngésszétek a [Bitcoin Mentor blogbejegyzéseit](https://bitcoinmentor.hu/bitcoin-blog/)! A [honlapunk](https://huszonegy.world) link oldalán megtaláljátok támogatóinkat, a [Hotel Aurorát](https://hotelaurora.hu) és a [Hotel Atlantist](https://hotelatlantis.hu) – négycsillagos wellness szállodák, Bitcoin-elfogadó és Bitcoint tartalékoló szállodák. Nem utolsósorban ők szervezik évről évre a magyarországi Bitcoin konferenciákat. A Firefish pedig üzeni: ne adjátok el a bitcoinotokat!
+– Meg ha az ember elkezd vele foglalkozni, akkor az életnek annyi szeletét meg fogja érteni, és annyi mindenbe bele kell ásnia magát, hogy tényleg tök hasznos az ember számára. Mert olyan dolgokat is megért, amilyen kérdéseket mondjuk fel se tett — pedig egy tök hasznos dolog: hogy mi az, hogy pénz? Hogy miért fogadjuk el, hogy használjuk ezt a papírpénzt meg a bankszámlán egy számot?
 
-Köszönjük szépen, Mordá, hogy eljöttél hozzánk és beszámoltál. Kíváncsi lennék, mi lesz a győri meetupon, szívesen látunk majd ezzel kapcsolatban is, meg bármivel mással. Kitesszük a leírásba, hogyan lehet téged megtalálni és hogyan lehet Titán Lapkát beszerezni. Köszönjük a figyelmet, egy hét múlva újra találkozunk a YouTube-on meg a többi platformon. Sziasztok!
+De senki nem tudja igazából. Most egy utcaembert megkérdezel, hogy hogy működik, miért ezt használjuk, mit használtunk előtte, hogy alakult ez ki — csak úgy mindenki elfogadja, és használjuk, és beleszületünk. De tök hasznosak ezek is, amikor megérti az ember, hogy hogy működnek.
+
+Nyilván nem lehet teljesen átlátni, mert azért az egy elég kesze-kusza dolog tud lenni; el is lehet tévedni a fiatrendszer útvesztőjében. De az ilyen általános dolgokat nagyon hasznos, ha az ember helyrerakja magában: hogy mi is az, hogy érték. Hogy valaminek értéke van — és ne a pénzhez kössük azt, hogy valaminek értéke van. Mert az már nem egyszer megtörtént a történelem során, hogy egyik napról a másikra volt, meg nem volt értéke, és ott maradtak az emberek, hogy fú, most akkor mi lesz velünk?
+
+– Egyébként neked a megértésében mi volt a legnehezebb? Mi volt az, amivel — nem az, hogy küzdöttél, de amivel több idő volt? Vagy egyből leesett? Mert van olyan is.
+
+– Viszonylag hamar. De annak néztem inkább utána, hogy hol van a buktatója ennek. Hogy valaminek lennie kell — mert mindig van valami kiskapu, valami, amivel ráhúzzák az emberre a vizes lepedőt.
+
+És azt megérteni, hogy tényleg, hogy mi az, hogy decentralizáltság, és hogy tud ez úgy működni, hogy senki nem tudja cenzúrázni. Hogy hiába tiltják be egy országban, miért fog átmenni akár a bányászat egy másik országba, vagy miért fognak az emberek node-ot futtatni. És ezt elfogadni, hogy tényleg, hogy ez működhet.
+
+Az elején, amikor a feleségemmel beszélgettünk erről — nagyon sokáig beszélgettünk róla —, hát egy ilyen fél év volt, amíg mindig mondtam neki, és meg is értette, és tényleg végül is van benne ráció, amit én mondok. De nála is például egy fél év után jött el, hogy amikor hazafelé jött a munkából, ő is hallgatott egy bitcoinnal kapcsolatos podcastet. És akkor hazajött, és este beszélgettünk róla, és mondta, hogy „várj, várjál — most ez akkor tényleg így működik? Ez tényleg így van?" És akkor láttam rajta, hogy na, most esett le.
+
+És nálam is ez volt. Az elején elkezdtem olyan videókat, hanganyagokat keresni, akik a kritikusai: közgazdászok, politikusok, ez-az. Hogy akkor mondják el, hogy ez miért nem fog működni, miért nem jó. Ezzel párhuzamosan meg olvastam a könyveket, akár a Bitcoin-sztenderdet is, amiben ugye ki vannak tárgyalva ezek a szokásos FUD-ok meg félreértelmezések.
+
+És igazából bármilyen kritikát fogalmaztak meg, láttam, hogy de erre ott a válasz — és hogy ez már bizonyított is. Hiába mondogatják öt éve ugyanazt, amikor ezt már rég megválaszolták.
+
+És akkor jöttem rá, hogy hiába hallgatok azokra az emberekre, akikre eddig hallgattam — mert előtte is érdekelt a pénzügyi világ, és hallgattam ezzel kapcsolatos dolgokat. De rájöttem, hogy ha inkább hallgattam volna a hoodie-s Jack Mallersre egy üres gardróbszobából, akkor mennyivel előrébb lennék az életben, mintha a csilivili, nem tudom, milyen közgazdászt hallgattam meg a beszélgetéseikben.
+
+És ez volt, amivel az elején küzdöttem: hogy tényleg megtalálni azt, hogy hol van az a gyenge pont. És nyilván vannak olyan részei, ami kockázat a jövőben — de hogy ez programozható, és csak konszenzus alapján működik. Ez egy olyan dolog, ami szerintem ennél jobb igazából nincs, meg nem is volt. És azért nem is hiszik el szerintem az emberek, mert ilyen sose volt.
+
+– Igen. Hogy nem egy király vagy politikus vagy akárki mondja meg, hogy éppen neked most ezt a pénzt vagy azt a pénzt kell használnod — és kényük-kedvük szerint begyűjtik, és újraolvasztják a királyok, és újraverik, és odaadják a kezedbe, hogy mostantól ezt használod.
+
+És hogy most tényleg ott van bárki számára: letöltesz egy appot, és most tőzsdén is vehetsz, meg peer-to-peer is, akárhogy. Ott van mindenkinek a lehetőség igazából. Csak ez még nem volt eddig — és ezért is nehéz szerintem megérteni annak, aki nem foglalkozik ezzel, hogy ez mekkora dolog igazából: hogy az államtól elválasztani a pénznyomtatás lehetőségét.
+
+És ez így beleivódott szerintem az emberekbe, évezredek során: hogy ez mindig is így volt, ennek így kell működnie, mindenki fogadja el. Csak hát jött a Bitcoin, és megváltoztatta a helyzetet.
+
+– Szerintem is ez egy ilyen lépcsőfok az emberiség történetében, hogy előbb-utóbb el kell ide jutnia, nem? Tehát láttunk már egyéb módokat is — egyházszétválasztás, satöbbi. Most a pénzé van itt.
+– Az egyéb kriptók felé te nem is kacsingattál egyáltalán? Mert ugye az egy tipikus dolog, hogy azt gondolja az ember, hogy jó, de most a Bitcoin ilyen sikeres, ez már kellően drága, és biztos, hogy ezt majd lecseréljük valami ennél újabb, innovatívabb termékkel.
+
+– Mondtam, hogy mindig is egy megtakarító, spórolós ember voltam — de az a tipikus magyar, hogy kerüljük a kockázatot. Hogy ami ott van a bankszámlán, az ott van, azt nem veszítheted el. És eleve már egy lépcsőfok volt az, hogy részvényekkel foglalkoztam, amik azért szintén kockázatosak, főleg rövid távon.
+
+És amikor megismerkedtem a bitcoinnal, akkor — mivel titeket néztelek — egyből leesett az, hogy hiába foglalkozok mással, mert egyszerűen nem szabad. Mert ott ugyanúgy megvan a lehetősége, hogy kirántják az ember elől a lehetőséget.
+
+És lehet, hogy egy-két ilyen coinban nagyobb potenciál van rövid távon — de mindegyik a nullába tart, ha bitcoinban mérjük. Egyszerűen nem éri meg egész nap elemezni a chartokat meg keresgetni a következő lehetőséget. Ez pont ugyanaz, mint hogy az ember most jósolja meg, hogy öt év múlva melyik startupból lesz egy Google-szintű vállalat. Nem tudod megjósolni. És innentől kezdve gambling — amit meg nem csináltam soha, és nem is fogok.
+
+És a Bitcoin az, ami igazából úgy érzem, hogy szinte nulla rizikó. Mert amíg a rendszer működik, és jönnek a blokkok, és ez tényleg megy — ahogy 16 éve megy —, addig ez működni is fog.
+
+Csak ugye ezt fenn kell tartani, és el kell mesélni más embereknek. És mindenki használja, tartsa fenn, hagyja fejlődni, és tegyen hozzá — mindenkinek szerintem egyénileg is érdemes. Ha csak annyit, hogy elmeséli egy ismerősének, már az sokat jelent. Ha meg kicsit mélyebbre is megy, akkor meg pláne jó.
+– Igen, fontos a megértés, és mindenki más szinten áll benne. Nem tudom, hogy hozzuk be azt most, Árpi — azt, amivel itt már készülünk egy ideje.
+
+– Igen.
+
+– Ebbe a megértetésbe olyan szinten álltunk be az előző adásban, hogy elmondtuk: az orange pillinget ilyen podcast-szintre emeltük. Nyilván a közösségen keresztül szeretnénk ebben tovább menni. És azt találtuk ki, hogy csinálunk erre egy olyan formát, amivel személyesebbé tudjuk tenni mindenki számára azt a folyamatot, amivel megérti a bitcoint. Illetve ha valaki elakadt valahol, az tud személyes segítséget kérni. Viszont ezt nem lehet ilyen podcast-formában folytatni.
+
+És mivel a távolságok ugye nagyok a mai világunkban, arra gondoltunk, hogy nyitunk egy ilyen tanácsadó platformot — mondjuk így: cégeknek, magánszemélyeknek, akik elakadtak a Bitcoin megértésével vagy a Bitcoin alkalmazásával, elfogadásával. Legyen az számviteli kérdés, adózási kérdés, jogi kérdés, bevezetési kérdés, oktatási kérdés, vagy még ki tudja, milyen — abban nagyon szívesen segítünk.
+
+És ezt Bitcoin Mentor néven létrehoztunk, egy ilyen platformot, amibe szeretnénk bevonni mindenkit, minden oldalon. Megosztom a képernyőmet, és akkor mutatom.
+
+– Tehát kifejezetten Bitcoin-tanácsadással foglalkozunk. És azért szerettük volna ezt elindítani, mert többen megkerestek minket, hogy a cégeikkel elakadtak, és nem tudják, hogy honnan induljanak el. Úgyhogy ebben szeretnénk segíteni. Nyilván ezt üzleti alapokra kellett hozni, hiszen itt most már az értékadás értékért történik. Nézze meg mindenki az oldalt, aki vállalkozó, és szeretne bitcoint elfogadni.
+
+– Meg a konferencián is például én több olyan emberkével beszélgettem, aki azt mondta, hogy tök jó, hogy ez a podcast, meg tök jó, hogy végre rátalált a Bitcoinra — de valahogy neki nincs annyi ideje, hogy most kiválogassa, hogy milyen forrásokból érdemes tanulnia. Ők is azt fogalmazták meg igazából, hogy tök jó lenne egy olyan szolgáltatás, amiért tök szívesen fizetnének is, ami az elején valahogy ad neki egy gyorsabb eligazodást: hogy azt, amit ő el akar érni, vagy meg akar tanulni, hol érdemes elkezdenie tapogatózni.
+
+És mondtam nekik is, hogy most éppen ilyennel készülődünk már nyár óta. Elkezdtük már nyáron készíteni ezt a honlapot, hogy kirajzolódjon számunkra is, hogy mit akarunk itt megjeleníteni.
+
+És akkor talán azt érdemes elmondani, hogy itt részben van a tanácsadásról szó, illetve van több olyan blogbejegyzés, ahol olyan cikkeket jelenítünk meg, amiket a Bitcoin témában jelentősnek gondolunk, vagy éppen valami aktualitásuk van. Ezeket vagy más írásokból fordítjuk le angol nyelvről, vagy összeollózzuk innen-onnan. A lényeg az, hogy olvasnivaló is van itt bőven.
+
+Illetve a kapcsolat oldalon föl lehet velünk venni a kapcsolatot egy egyszerű űrlap kitöltésével, egy e-mail-cím megadásával, meg hogy milyen téma érdekel alapvetően. Fölvesszük aztán e-mailben a kapcsolatot minden érdeklődővel, és akkor leegyeztetjük azt, hogy mi az, ami igazán érdekli, és hogy azt milyen keretek között tudjuk aztán kialakítani, egy együttműködésben, ezt a tanulási folyamatot.
+
+– Így van. Mindennek megvan a saját kis szakértője, minden területnek. Úgyhogy ezzel az volt a cél, hogy a magyar Bitcoin-közösségen belül egy ilyen kis ide-oda irányítót hozzunk létre az igényt elmagyarázó és megvalósító entitások között. Úgyhogy bátran használjátok — vállalkozók, akár magánszemélyek, bárki. Nagyon szívesen segítünk ilyen formában is.
+
+– Még talán azt érdemes ezzel kapcsolatban elmondani, hogy ebben mi most ketten kezdünk bele, így az elején: amit mi tudunk megosztani, abban támogatjuk az érdeklődőket. Aztán onnantól kezdve, hogyha majd bejönnek olyan kérdések vagy kérések, ami meghaladja a mi képességeinket, akkor majd szívesen keresünk erre konkrét személyeket a HUSZONEGY közösségen belül, hogy van-e kedvetek ebben partnernek lenni, és beszállni ebbe a mentorálási tevékenységbe.
+
+A Bitcoin Mentor név — amikor ezt kiválasztottuk, utána esett le a tantusz, hogy így csinálnak ilyet Kanadában. Megpróbáltam velük fölvenni a kapcsolatot, hogy mit szólnának ehhez, hogyha mi hasonló néven indítanánk egy ilyen mentorálást, de szigorúan csak a magyar piacon, magyar nyelven. De aztán nem válaszoltak rá, vagy legalábbis nem jutott el hozzám a válasz. És akkor azt gondoltuk, hogy megtartjuk mi ezt a nevet — mert igazából nem kopizni akarunk semmit, amit ők a tengerentúlon csinálnak, és ez tényleg egy találó név.
+
+– Igen, mert felmerültek ezek az igények. Tényleg van egy pár ember, aki már indulna, de nem tudja, hogy hol, és bátortalan. Hát itt most lehet. Úgyhogy röviden ennyit erről.
+
+– Szerintem ezt azért majd lehet, hogy jobban kivesézzük, hogy milyen szolgáltatási területek alatt mit is értünk. De ezekre képesnek érezzük magunkat, illetve képesek is vagyunk.
+
+Esetleg Mordai, van-e még valami, amit szívesen elmondanál? Jó tanácsok, hogy hogy kell kitartónak lenni?
+
+– Hallgassanak titeket! (nevetés) Olvassanak sokat. Tényleg, legyen kíváncsi az ember, és tegyen fel kérdéseket, és keresse meg rájuk a válaszokat — mert ott vannak. Csak bele kell tenni az embernek az idejét és az energiáját, hogy megtalálja ezeket a válaszokat. És ha eddig eljut az ember, akkor meg fogja hálálni neki az idő, hogy beletette ezt az energiát és időt ebbe az egészbe.
+
+Meg még annyit esetleg, hogy a konferencia után felbuzdulva néztem meg, hogy a Telegram-csoportban itt Győr meg a Dunántúl környékén nincs nagyon meetup. Aztán most szervezek egyet. Igaz, hogy mire kijön, addigra már lemegy — most csütörtökön lesz. De a későbbiekben is, hogyha valakinek kedve van bitcoinerekkel találkozni, beszélgetni ebben a témakörben, akkor ott a Telegram-csoportban meg tudja találni.
+
+– Tök jó, klassz kezdeményezés! Tényleg, én is mindenkit arra sarkallok, hogy a környékén, ha nincs ilyen, akkor vegye a kezébe a kezdeményezést, és valósítson meg ilyen meetupokat. Mert az értékes emberek így kerülnek egy halmazba mindig.
+Szeretettel invitálunk minden érdeklődőt a decemberi pécsi meetupunkra, ami december 12-én, pénteken lesz, a Reggeli nevű helyen. Az esemény részleteit a Facebook-csoportunkban, illetve a Telegram-csoportunkban találjátok. Lényegében lesz itt egy előadás *Mi a probléma, mire ad megoldást a Bitcoin* címmel. Nagyon jó beszélgetések is várhatóak.
+
+Iratkozzatok fel a YouTube-csatornánkra! Kövessétek be a vadiúj Rumble-csatornánkat! Kövessétek a HUSZONEGY-et a Nostron is! Aki nyüzsgésre vágyik, jöjjön a Telegram-csoportunkba! Olvasgassatok, böngésszetek a Bitcoin Mentor blogbejegyzései között.
+
+A honlapunk Linkek oldalán megtaláljátok támogatóinkat, akik a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu) — négycsillagos wellness szállodák, bitcoint elfogadó és bitcoint tartalékoló szállodák. Nem utolsósorban pedig ők szervezik évről évre a magyarországi Bitcoin-konferenciákat. A [Firefish](https://firefish.io) pedig üzeni, hogy ne adjátok el a bitcoinotokat!
+
+– Köszönöm szépen, hogy eljöttél hozzánk, és beszámoltál. Kíváncsi lennék majd, hogy mi lesz ezen a győri meetupon, úgyhogy szerintem majd utána valamikor még nagyon szívesen látunk ezzel kapcsolatosan is, meg bármi mással.
+
+Kitesszük majd ide a leírásba, hogy hogyan lehet téged megtalálni, és hogyan lehet ilyen kis — mi ennek a neve?
+
+– Lapka.
+
+– Lapkát. Titánlapkát beszerezni.
+
+Köszönjük a figyelmet, és egy hét múlva újra találkozunk itt a YouTube-on meg a többi platformon. Köszönjük. Sziasztok!
+
+– Sziasztok!
