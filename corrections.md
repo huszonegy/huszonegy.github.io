@@ -20,7 +20,9 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - Ludwig von Misses/Mizes → **Ludwig von Mises**
 - André Kosztolányi → **André Kostolany**
 - Max Skyer → **Max Keiser**
-- Sveckytől → **Svetskitől** (Aleksandar Svetski)
+- Sveckytől → **Svetskitől** (Aleksandar / Alex Svetski)
+- Szuncu → **Sun Tzu**
+- Gandi → **Gandhi**
 - SFID → **Saifedean** (Ammous)
 - Parker Lois → **Parker Lewis**
 - Árti → **Árpi**
@@ -54,7 +56,10 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - Joni Apple / Johnny Apple → **Ioni Appelberg** (svédországi orvos-bitcoiner)
 - Récs Gel / Récsel → **Rachel** (a **Terra** projekt vezetője; a **Les Femmes Orange** — „narancsnők" — alapítója) ⚠️ vezetéknév egyelőre nincs meg
 - Alex Gletin → **Alex Gladstein** (a *Hidden Repression* / *Rejtett elnyomás* szerzője)
-- Alexi / Alex (a Satlantis kapcsán) → **Alex Svetski** (*Az Antikommunista Kiáltvány*, *Bitcoin Bushido*, **Satlantis**)
+- Alexi / Alex (a Satlantis kapcsán) → **Alex Svetski** (*Az Antikommunista Kiáltvány*, *The Bushido of Bitcoin*, **Satlantis**)
+- NS Fan Holm → **Knut Svanholm** (svéd bitcoiner szerző; a *Praxeology: The Invisible Hand That Feeds You* és a *Bitcoin: Sovereignty Through Mathematics* írója)
+- Lina → **Lyn Alden** · Parker Lois → **Parker Lewis** · „a Librarynek a softwarja" → **Lowery *Softwar*ja**
+- Adam Blive / Adam Bay → **Adam Livingston** (tőle a „szintetikus felezés" fogalma)
 - Scott Besent / Bessz → **Scott Bessent** (amerikai pénzügyminiszter; a kötvény-visszavásárlások kapcsán jön elő)
 
 ## Márka/hely javítások
@@ -103,6 +108,28 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - Coinkash / Koénkes / coin cash → **CoinCash** (magyar szolgáltató; övé az első magyar MiCA-engedély)
 - likvid / liquidábé / lickvid → **Liquid** (a Blockstream oldallánca). A teljes, hivatalos név **Liquid Network**, toldalék kötőjellel: Liquid Network-ből. ⚠️ A teljes alakot a **felszíni szövegben** (cím, bevezető, leírás) használjuk; az **átiratban** a beszélő „Liquid" alakja marad, azt nem nevezzük át. A rajta kibocsátott bitcoin-token: **L-BTC**.
 - Blockstam / blogstream / Blockstream nevű cég → **Blockstream** (Adam Back cége; a Liquid Network és a Core Lightning fejlesztője)
+- Genree / Genrehez → **JAN3** (Samson Mow cége; nemzetállami bitcoin-stratégiákat tanácsol) · gensre póló → **Green-es póló**
+- Az Inteza → **Intesa** (Intesa Sanpaolo, a CIB anyabankja)
+- Money Medals → **Money Matters** (Jack Mallers műsora)
+- MVE Index → **MOVE Index** (kötvénypiaci volatilitási index)
+- Reverse Report → **reverse repo**
+- Center Fe Gerald → **Cantor Fitzgerald** (a Cantor Equity Partners, CEP ticker mögötti cég)
+- Rasp Blitz / Rubits / Ruspit / resplit → **RaspiBlitz** · főfejlesztő: **rootzoll** (a gépi átirat „Rot szól"-t hall; DJ-ként is fellép a konferenciákon)
+- Start N / Starest → **Start9** · Umbrella / Umbrel → **Umbrel** (node-készülékek)
+- Per a Bitcoin notes → **Bitcoin Knots** · lip Bitcoin → **libbitcoin** · ABC Core → **Bitcoin ABC**
+- CGNS → **CJDNS** · i2P → **I2P** (Invisible Internet Project)
+- Roboss → **RoboSats** · Albi → **Alby**
+- Jeff Boost: *Rise of Tomorrow* → **Jeff Booth: *The Price of Tomorrow*** — magyarul **A holnap ára** (Scolar Kiadó)
+- Bitcoin CA Black Fish → **Bitcoin Kebab** (magyar podcast; a HUSZONEGY válogatás szekciójában szerepel)
+- hellónak a kártelemzése → **Yellow-nak a chartelemzése** (poénos videó)
+- OTP szimpion → **OTP SimplePay** · a szekre → **SEC** (amerikai tőzsdefelügyelet)
+- BTCre / Bitcoin térkép → **BTC Map**
+- Bitex / Bitax / beatbox → **Bitaxe** (nyílt forráskódú kis szólóbányász)
+- Mity Age / Emity Age → **Amity Age** (Dušan Matuška szlovén Bitcoin-oktató cége; kalózhajós stand)
+- Lawrence Lapard → **Lawrence Lepard** (*The Big Print* szerzője) · Markoss / Mark most → **Mark Moss**
+- Adam Touring → **Alan Turing** · Adam Beck → **Adam Back** · Jack Dorsak → **Jack Dorsey** (Bitkey)
+- alt BG → **ALTBG** (The Blockchain Group, francia Bitcoin treasury cég) · Prospera / Proszpera → **Prospera** (Honduras)
+- Có cep 2.0 / cok point → **Chokepoint 2.0**
 - Kaduc / Cadó Ecus / Kaduceus → **Caduceus** (a megszűnt állami validátorcég; C-vel)
 
 ## Szakkifejezések
@@ -170,6 +197,9 @@ Ezeket linkeld be markdown formátumban, ahol a szövegben előfordulnak. Ha nem
 - **Firefish** (szövegben mindig linkelve): [app.firefish.io/auth/sign-up?ref=HUSZONEGY](https://app.firefish.io/auth/sign-up?ref=HUSZONEGY) — a `?ref=HUSZONEGY` paraméter automatikusan beviszi az ajánlókódot
 
 ### Eszközök, szolgáltatások (szövegtörzs)
+- **Mi a probléma?** (magyar dokumentumfilm a pénzrendszerről): [youtube.com/watch?v=YtFOxNbmD38](https://www.youtube.com/watch?v=YtFOxNbmD38)
+- **TwentyOne Capital**: [xxi.money](https://xxi.money)
+- **nostr.hu**: [nostr.hu](https://nostr.hu)
 - [bitcoin.clarkmoody.com/dashboard](https://bitcoin.clarkmoody.com/dashboard/)
 - [learn.robosats.org](https://learn.robosats.org)
 - [gingerwallet.io](https://gingerwallet.io)
