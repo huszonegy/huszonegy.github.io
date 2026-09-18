@@ -2,7 +2,71 @@
 
 export const podcasts = [
     {
-        name: "A Bitcoin hálózat atombiztos, mégis lenyúltak több ezer bitcoint",
+        name: "Megépült egy új internet, amihez nem kell engedély",
+        id: "E116",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Egy új internetet hoztam (Intro)"
+        },
+        {
+                time: "02:33",
+                label: "Kiürült a Nostr, jöttek a Monerósok"
+        },
+        {
+                time: "05:37",
+                label: "A Monero privát, de pénz-e?"
+        },
+        {
+                time: "11:10",
+                label: "A cím, amit nem vehetnek el tőled"
+        },
+        {
+                time: "16:33",
+                label: "A Telegram egy napra eltűnt"
+        },
+        {
+                time: "20:11",
+                label: "BitChat: üzenet Bluetooth-on, net nélkül"
+        },
+        {
+                time: "24:48",
+                label: "A platformok lenyelik, a Nostr-on nem"
+        },
+        {
+                time: "27:16",
+                label: "Nostr meetup, Armada a Discord helyett"
+        },
+        {
+                time: "31:41",
+                label: "A megszokás erősebb a technológiánál"
+        },
+        {
+                time: "36:15",
+                label: "Saját AI a pincében"
+        },
+        {
+                time: "41:15",
+                label: "Kártyát nem, bitcoint igen"
+        },
+        {
+                time: "44:27",
+                label: "Megfogtuk az alját 60 ezernél?"
+        },
+        {
+                time: "50:41",
+                label: "A szabadság nem cél, hanem út"
+        }
+        ],
+        img: "/pics/e116.jpg",
+        date: "2026.09.17.",
+        members: ["HenkyPenky", "Lez", "Feri"],
+        topic: "Egy új internetet hoztam (Intro) - Kiürült a Nostr, jöttek a Monerósok - A Monero privát, de pénz-e? - A cím, amit nem vehetnek el tőled - A Telegram egy napra eltűnt - BitChat: üzenet Bluetooth-on, net nélkül - A platformok lenyelik, a Nostr-on nem - Nostr meetup, Armada a Discord helyett - A megszokás erősebb a technológiánál - Saját AI a pincében - Kártyát nem, bitcoint igen - Megfogtuk az alját 60 ezernél? - A szabadság nem cél, hanem út",
+        yt: "https://youtu.be/gzVeNGFKpXs",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
+        name: "Nem a Bitcoint törték fel – mégis eltűnt 4000 bitcoin",
         id: "E115",
         chapters: [
         {
@@ -15,7 +79,7 @@ export const podcasts = [
         },
         {
                 time: "04:52",
-                label: "Csak az Ocean mondott igent"
+                label: "Miért nem álltak be a bányászok"
         },
         {
                 time: "09:58",
@@ -51,15 +115,15 @@ export const podcasts = [
         },
         {
                 time: "43:12",
-                label: "Mit mutat az ötven hetes átlag?"
+                label: "Mit mutat az 50 hetes átlag?"
         }
         ],
         img: "/pics/e115.jpg",
         date: "2026.09.11.",
         members: ["Tamás", "Feri"],
-        topic: "4000 bitcoin egy tranzakcióval (Intro) - A spamvadászat, amiből háború lett - Csak az Ocean mondott igent - Tíz éve már láttuk ezt a filmet - Így bukik el egy rossz szereplő - Ami leszakadt, az már nem Bitcoin - Egy atom a világegyetemben - Öt éve lapult a kódban a hiba - Saját entrópia: 204 kockadobás - Ellopta, visszaadta, és jött az AI - Aki odaadta a kulcsát, az bukott - Mit mutat az ötven hetes átlag?",
+        topic: "4000 bitcoin egy tranzakcióval (Intro) - A spamvadászat, amiből háború lett - Miért nem álltak be a bányászok - Tíz éve már láttuk ezt a filmet - Így bukik el egy rossz szereplő - Ami leszakadt, az már nem Bitcoin - Egy atom a világegyetemben - Öt éve lapult a kódban a hiba - Saját entrópia: 204 kockadobás - Ellopta, visszaadta, és jött az AI - Aki odaadta a kulcsát, az bukott - Mit mutat az 50 hetes átlag?",
         yt: "https://youtu.be/u7y4bjnWiyU",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/GnyD8y07ah5xhq6bCVn8"
     },
     {
         name: "Mit tud a Bitcoin, amit az állampapírod nem?",
@@ -70,7 +134,7 @@ export const podcasts = [
                 label: "Az állampapír-csapda (Intro)"
         },
         {
-                time: "02:08",
+                time: "03:14",
                 label: "Vége a validátortörvénynek"
         },
         {
