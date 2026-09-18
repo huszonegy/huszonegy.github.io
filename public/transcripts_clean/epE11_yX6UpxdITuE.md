@@ -20,9 +20,8 @@ Tamás beilleszti a számlát a **Blink Wallet**-be, és már jön is vissza az 
 
 Kaptunk egy számlát 121 912 satoshiról. Leolvasom a QR-kódot az Umbrelhez csatlakoztatott Zeus appal, és megnyomom a fizetés gombot. Kész is, úton van a csomag! Ebben az a fantasztikus, hogy nem használtunk semmilyen külső szolgáltatást: a Bitcoin Bázis saját **BTCPay Server**-én fut a fizetés, nálunk pedig a saját **node**-unkon. Csak az internet volt közöttünk. A webshop rögtön le is könyvelte a 27 381 forintot. Ez az anonim, kontrollálatlan pénzügyi tranzakció sok állami gondolkodónál kiverné a biztosítékot, de a Bitcoin pont erről szól: az önkéntes és szabad értékcseréről.
 
-Zárásként nézzünk rá a hálózat állapotára a Clark Moody Dashboard segítségével, ami a [bitcoin.clarkmoody.com/dashboard](https://bitcoin.clarkmoody.com/dashboard/) oldalon érhető el. A Bitcoin ára jelenleg 66 000 dollár körül mozog, 1 dollárért 1514 satoshit kapunk. A piaci kapitalizáció 1,3 billió dollár, ami még mindig kevesebb, mint a világgazdaság 1%-a. Ha elérjük az arany szintjét, egy bitcoin 650 000 dollár lesz. A teljes kínálat 93%-a, több mint 19,6 millió bitcoin már ki van bányászva. A maradék 6,25%-ért nagy lesz a harc. A **block**-magasság 841 661, az infláció pedig jelenleg 0,85%, ami már alacsonyabb az aranyénál.
+Ez a technológia egy „cheat kód” a mai világban. Júniusban várunk titeket a **BTC Prague** konferencián, használjátok a „21” kuponkódot a kedvezményért. Köszönjük a figyelmet és a visszajelzéseket! Sziasztok!
 
-A hálózat biztonsága (hashrate) 594 000 EH/s, amit a világ 20 000 leggyorsabb szuperszámítógépe sem tudna megtörni. Ez a technológia egy „cheat kód” a mai világban. Tanuljatok róla, olvassátok a lefordított könyveket a [huszonegy.world](https://huszonegy.world) oldalon! Júniusban várunk titeket a **BTC Prague** konferencián, használjátok a „21” kuponkódot a kedvezményért. Köszönjük a figyelmet és a visszajelzéseket a YouTube-on! Ne felejtsétek: a Bitcoin egy találmány. Sziasztok!
 
 ---
 
