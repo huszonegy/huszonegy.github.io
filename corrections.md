@@ -61,6 +61,9 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - Lina → **Lyn Alden** · Parker Lois → **Parker Lewis** · „a Librarynek a softwarja" → **Lowery *Softwar*ja**
 - Adam Blive / Adam Bay → **Adam Livingston** (tőle a „szintetikus felezés" fogalma)
 - Scott Besent / Bessz → **Scott Bessent** (amerikai pénzügyminiszter; a kötvény-visszavásárlások kapcsán jön elő)
+- Fiat Jeff / Fiatjaf → **fiatjaf** (a Nostr megalkotója; kisbetűvel, mondat elején is)
+- Jonathan Korgen → **Jonathan Corgan** (a FIPS főfejlesztője; cypherpunk generáció, a jmcorgan GitHub-fiók mögött)
+- Derek Rossék → **Derek Ross** (Nostr-evangélista; az Armadát a **Soapbox** csapat fejleszti — a gépi átirat „SBOX Team"-et hall)
 
 ## Márka/hely javítások
 
@@ -131,6 +134,18 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - alt BG → **ALTBG** (The Blockchain Group, francia Bitcoin treasury cég) · Prospera / Proszpera → **Prospera** (Honduras)
 - Có cep 2.0 / cok point → **Chokepoint 2.0**
 - Kaduc / Cadó Ecus / Kaduceus → **Caduceus** (a megszűnt állami validátorcég; C-vel)
+- nim chat / Nem chat → **NymChat** (Nostr-alapú, eltűnő üzenetes chat; NIP-17 gift wrap, a BitChattel átjárható)
+- Bazz / Báz → **Buzz** (Jack Dorsey Block nevű cége által kiadott, Nostr-alapú Slack- és GitHub-alternatíva)
+- 2.io / keytet → **Keet** (peer-to-peer chat; keet.io)
+- inside / sitera → **nsite** (Nostr-alapú statikus oldal-hoszting)
+- **Armada** (Nostr-alapú, Discord-szerű közösségi chat a **Concord protokollon**; szerver nélküli, mesh-üzenetküldéssel)
+- **Nostrord** (további Nostr-alapú Discord-alternatíva)
+- **Zapstore** (nyílt Android appbolt; zapstore.dev)
+- **FIPS** (Free Internetworking Peering System; Nostr-kulcsokra épülő overlay hálózat, ahol a címed `npub….fips` — fips.network)
+- Q53 / kjú 53 → **Cure53** (német biztonsági auditcég; cure53.de)
+- Nagy Dumb → **NagyLumen** (budapesti meetup-helyszín)
+- **Northapp** (Feri bitcoinnal foglalható parkolója és műfüves focipályája Miskolcon; northapp.hu)
+- **tollaskígyó** (kisbetűvel; a HUSZONEGY Telegram-csoportjának AI-tudásbázisa, Henky projektje — hortopato.cc/wiki)
 
 ## Szakkifejezések
 
@@ -163,6 +178,11 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - légrés / air-gap (galvanikusan nincs összekötve az eszköz a számítógéppel)
 - „57-es / 57 hetes mozgóátlag" → **ötven hetes mozgóátlag** (50 WMA; a bull/bear market elválasztására használt heti mozgóátlag). A gép az „ötven hetes" kimondott alakot hallja „57-es"-nek.
 - „207-es / 207 hetes mozgóátlag" → **200 hetes mozgóátlag** (200 WMA — a Bitcoin négyéves ciklus-indikátora). A *szó* rendszerint helyes; a gépi átirat a **számot** hallja gyakran 207-nek 200 helyett — ezt egységesítsd **200**-ra.
+- **MLS** (messaging layer security; előremenő és post-compromise titkosítás csoportos üzenetküldésre)
+- **Cashu** (privát kibocsátású, bitcoinhoz kötött token; a gépi átirat „Kesu/casu" alakját javítsd)
+- **Noise Protocol** (a BitChat titkosítási rétege)
+- **Flotilla** (Nostr-kliens csoportokra tervezve)
+- **overlay network**, **mesh hálózat**, **peer-to-peer** — az angol alak marad, nem fordítjuk
 
 ## Formázási konvenciók
 
@@ -200,6 +220,7 @@ Ezeket linkeld be markdown formátumban, ahol a szövegben előfordulnak. Ha nem
 - **Mi a probléma?** (magyar dokumentumfilm a pénzrendszerről): [youtube.com/watch?v=YtFOxNbmD38](https://www.youtube.com/watch?v=YtFOxNbmD38)
 - **TwentyOne Capital**: [xxi.money](https://xxi.money)
 - **nostr.hu**: [nostr.hu](https://nostr.hu)
+- **Nostr meetup**: [nostr.hu/meetup](https://nostr.hu/meetup)
 - [bitcoin.clarkmoody.com/dashboard](https://bitcoin.clarkmoody.com/dashboard/)
 - [learn.robosats.org](https://learn.robosats.org)
 - [gingerwallet.io](https://gingerwallet.io)
@@ -212,6 +233,10 @@ Ezeket linkeld be markdown formátumban, ahol a szövegben előfordulnak. Ha nem
 - **FreedomTech Summit**: [freedomtechsummit.com](https://freedomtechsummit.com/) · program: [program.freedomtechsummit.com](https://program.freedomtechsummit.com/fts2026/schedule/)
 - **BTC++ Berlin**: [btcplusplus.dev/berlin26](https://btcplusplus.dev/berlin26)
 - **BudaBit**: [budabit.club](https://budabit.club)
+- **FIPS**: [fips.network](https://fips.network)
+- **tollaskígyó tudásbázis**: [hortopato.cc/wiki](https://hortopato.cc/wiki/)
+- **Northapp**: [northapp.hu](https://northapp.hu)
+- **Cure53**: [cure53.de](https://cure53.de)
 
 ### pesz visszajelzés minták
 - noszter.hu és nostr.hu helyes alakok

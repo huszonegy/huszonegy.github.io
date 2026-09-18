@@ -42,7 +42,9 @@ Minden héten egy új epizód. Árpi Riverside-ban felveszi és megvágja a besz
 
 **Mért adat a becslés előtt:** a változatok összeállítása előtt ránézek a [`title-learnings.md`](title-learnings.md) bejegyzéseire, és a mért CTR-jegyeket (kérdésforma, curiosity-gap, brand-kulcsszó a hook első ~40 karakterében) beleszámolom a klikk-erő-rangsorba. A saját ízlés-alapú becslésem másodlagos a valós adathoz képest, és ha egy szög mérhetően hozott, a back-katalógus-ütközés önmagában nem érv ellene — a majdnem-klón szerkezetet kerüljük, nem a működő szöget.
 
-**Back-katalógus-ütközés:** a cím véglegesítése előtt ránézek a `podcasts.ts` közelmúltbeli, hasonló témájú adásaira. Ha egy korábbi cím már elhasználta ugyanazt a szöget vagy szerkezetet, a feedben ne legyen majdnem-klón — az új adás a friss, még le nem fedett szögre menjen. (Pl. E110-nél kiderült, hogy az E105 már vitte a „…etikus jegybank kontra Bitcoin" felállást, ezért lett E110 a „Miért nem jut el a tömeg a Bitcoinig?".)
+**A cím receptje:** a jól teljesítő címekben három dolog van együtt — egy **megnevezett, ismerős dolog**, amit a néző maga birtokol vagy naponta használ; egy **megtörtént tény**, nem feltételezés; és egy **feszültség**: ellentmondás, hiány, vagy a nézőnek szegezett kérdés. Ha bármelyik hiányzik, a cím lapos marad. A feltételes „mi lenne, ha…" nem tény; a számozott felsorolás és a témalista nem feszültség; az elvont fogalom pedig nem ismerős dolog, hiába érti a beavatott. A cím **egyetlen erős fogást** ígérjen — a teljes lefedettség a fejezetek dolga, nem a címé.
+
+**Back-katalógus-ütközés:** a cím véglegesítése előtt ránézek a `podcasts.ts` közelmúltbeli, hasonló témájú adásaira. Ha egy korábbi cím már elhasználta ugyanazt a szöget vagy szerkezetet, a feedben ne legyen majdnem-klón — az új adás a friss, még le nem fedett szögre menjen.
 
 **Klikk-erő skála** (HUSZONEGY-kontextusra kalibrálva — hiteles edukáció, nem általános clickbait CTR-re):
 - **5** — Erős érzelmi hook + konkrét ígéret együtt; nagy CTR várható
@@ -63,9 +65,9 @@ Minden héten egy új epizód. Árpi Riverside-ban felveszi és megvágja a besz
 Egy epizód értelemszerűen egy elsődleges közönséget céloz; a változatok ezt különböző oldalakról közelítik.
 Kritériumok: 45–60 karakter; **a hook és az elsődleges kulcsszó az első ~40 karakterben** — a mobil- és ajánló-csempék kb. itt vágják le a címet, asztali kereső/ajánló ~70-nél, szóval ami a reflektorfénybe szánt lényeg, az kerüljön balra (em-dash használatakor is: a lényeg az em-dash bal oldalára, a részletezés jobbra); konkrét ígéret (mit kap a néző, ha rákattint); ha van benne szám, az emeli a CTR-t; kérdésforma is emeli; kerüld az elvont, filozofikus megfogalmazást; ne legyen „remix"/„újrahasznosított tartalom" jellegű előtag; magyar helyesírás — csak az első szó és a tulajdonnevek nagybetűsek; a cím a tematikát fedje, ne egy egyperces részt; **vendég vagy állandó résztvevő neve ne kerüljön a címbe** — a résztvevőket a `podcasts.ts` `members` mezője tartja nyilván; **em-dash (`—`) szóközökkel megengedett** egy fő szerkezeti törésnél (állítás → részletezés), több em-dash egy címen belül nem. Ha az em-dash utáni rész **önálló kérdés/tagmondat, nagybetűvel** kezdődik.
 
-### 2. Bevezető — 2–3 mondat a leíráshoz
+### 2. Bevezető — 3–5 mondat a leíráshoz
 
-**2 vagy 3 mondat egy bekezdésben**, ahogy az epizód diktálja. 3 mondat az alap (hook + részletezés + tonális hook); **2 mondat akkor jó**, ha az epizód szorosan fókuszált, és a 3. tonális hook erőltetett lenne. A lakonikus 2 mondatos verzió néha tisztább, mint egy hígított 3 mondatos.
+**3–5 mondat egy bekezdésben**, ahogy az epizód diktálja; a gyakorlatban a kiadott leírások jellemzően négy-öt mondatosak. A bevált ritmus: **tényközlő nyitás** egy nagy állításról, amiben van egy „de" csavar (nem kérdés és nem hook-felkiáltás), **konkrétumokkal sűrített részletezés**, a vendégekkel közös **„sorra vesszük…"**, egy **„szó lesz arról is…"**, végül egy rövid **záró beat** arról, mi jön a végén. Három mondat akkor elég, ha az epizód szorosan fókuszált.
 
 - **1. mondat — hook + fő ígéret EGYÜTT** (~100–130 karakter): az egyetlen mondat, ami garantáltan látszik a search-snippetben és a „továbbiak" előtt. Provokáció + érdemi ígéret együtt. Nem ismétli szóról szóra a címet, és nem adja vissza ugyanazt a punchline-t, amit a cold-open is hoz.
 - **2. mondat — részletezés**: konkrétan mit kap a néző (projekt-név, személy, témák). Itt fejtem ki, amit a 1. mondat felvillantott.
@@ -74,12 +76,12 @@ Kritériumok: 45–60 karakter; **a hook és az elsődleges kulcsszó az első ~
 - **Nincs gondolatjel a bevezetőben:** a bevezető prózában is em-dash-mentes — **vesszőt/kettőspontot** használok helyette. (A *videócím* egy em-dashe marad megengedett.)
 - **Hűség és attribúció:** a bevezető egyetlen állítása se **túlozza**, amit a vendég ténylegesen mondott — sem a mértéket, sem az időzítést. A véleményt attribúcióval hozom („X szerint"), és **minden állítást a végső felirathoz mérek**, mielőtt beírom.
 - **SEO:** az **elsődleges** keresési kulcsszó az **első 1–2 mondatba** kerüljön (a leírás ~157. karaktere után minden a „továbbiak" mögé csukódik, és a YouTube a fold előtti, látható szöveget erősebben súlyozza); további 1–2 másodlagos kulcsszó természetesen szétszórva a bekezdésben. **Ne másold be a címet szó szerint** a leírás első sorába (papagáj-hatás; a szemantikus keresésnél nincs extra ereje, és a nézőnek természetellenes) — a cím fő kulcsszavait **természetes folyószövegbe ágyazva** hozd. Ez az első 1–2 sor egyben a Google/YouTube találati **snippet** is.
-- **Hossz:** teljes bekezdés ~200–450 karakter (a 2-mondatos lakonikus változat természetesen rövidebb).
+- **Hossz:** teljes bekezdés ~440–520 karakter (a rövidebb, fókuszált változat természetesen kevesebb).
 - **Formátum:** **egy bekezdésben**, folyószövegként (nem számozott lista).
 
 ### 3. Fejezetcímek időbélyeggel
 - 8–12 fejezet, legalább 3–5 perces közökkel (ha ennél többet gondolok indokoltnak, előbb egyeztetünk róla); az időbélyeg formátuma `MM:SS` (leading zero az egyjegyű perceknél és óráknál is, pl. `00:00`, `05:55`, `01:05:55`); az időbélyeg után csak szóköz, gondolatjel nélkül.
-- **Intro-fejezet:** ha az adásnak van intrója (cold-open/bevezető), a 00:00-tól induló első fejezet a címe után **zárójelben mindig megkapja az „(Intro)" jelölést** (pl. „2027 vagy 1984? (Intro)"); a cím a cold-open/intro lényegét tükrözze, lehetőleg a videócímmel rímelve. Ha nincs külön intro, az 1. fejezet 00:00-tól a cold-open utáni **első érdemi blokk** címét kapja.
+- **Intro-fejezet:** ha az adásnak van intrója (cold-open/bevezető), a 00:00-tól induló első fejezet a címe után **zárójelben mindig megkapja az „(Intro)" jelölést** (`<fejezetcím> (Intro)`); a cím a cold-open/intro lényegét tükrözze, lehetőleg a videócímmel rímelve. Ha nincs külön intro, az 1. fejezet 00:00-tól a cold-open utáni **első érdemi blokk** címét kapja.
 - Kíváncsiságkeltő, hangzatos címek, nem tartalomjegyzék-szerűek; max 3–4 kérdés, a többi állítás; max ~50 karakter/fejezet, de a **15–30 karakteres tartomány bátrabban használható** — a rövid, scannelhető címek gyorsabban olvasódnak.
 - **Lehetnek véleményesek és attitűdösek**, nem csak deskriptívek — a néző a tartalomjegyzékben is érezze a tónust. Pl. „Patkóelmélet csapdája" jobb, mint puszta „Patkóelmélet"; „Trump korrupcióban verhetetlen" élesebb, mint „Trump és a korrupció". Akkor üt, ha a tartalom megvédi (nincs üres clickbait).
 - **Scare-quote árnyalás**: egyetlen szó idézőjelben („támogatás", „demokrácia") árnyalt véleményt jelez egy szón belül. Mértékkel, ne minden fejezeten.
@@ -97,14 +99,14 @@ Kritériumok: 45–60 karakter; **a hook és az elsődleges kulcsszó az első ~
 
 **Résztvevők:** a vendég/résztvevők nevei (pl. „Anti, Openoms, Árpi") a `podcasts.ts` `members` mezőjébe kerülnek; ezt a 0. lépésben **rákérdezéssel** szerzem meg (a vágás előtti Riverside-inputnál még nincs feltöltött YouTube-leírás, amiből kiolvashatnám — Árpinak így nem is kell beírnia a résztvevőket a leírásba). A **végleges YouTube-leírásba NEM** írok külön „Résztvevők:" sort.
 
-**Szekció-fejlécek:** a leírás blokkjai **CSUPA NAGYBETŰS szekciócímkét** kapnak a scannelhetőségért — pl. `FEJEZETEK:`, `FORRÁSOK:`, `HUSZONEGY KÖZÖSSÉG:`, `MENTORÁLÁS & BLOG:`, `SZPONZOROK:`, `AJÁNLJUK:`, `ÁTIRAT:`. Az adásban elhangzott linkek/források blokkja a **`FORRÁSOK:`** fejléc alá kerül; a soroknál nincs „(chart)"/„(blog)"/„előadás"-szerű utótag, sem gondolatjel — csak a tömör címke + `➡` + URL (pl. `Jack Mallers BTC Prague ➡ <URL>`). Az átirat-blokk is fejlécet kap (`ÁTIRAT:`), és az `Inkább olvasnád?` a link barátságos címkéje: `Inkább olvasnád? ➡ <átirat-URL>`. A YouTube fejezet-detektálását a `FEJEZETEK:` fejléc nem zavarja, amíg a `00:00` az első időbélyeg a leírásban. (E111-től kaptak fejlécet a blokkok; **E113-tól a link-forrás-blokk fejléce `LINKEK ÉS FORRÁSOK:`-ról `FORRÁSOK:`-ra rövidült**; **E113-tól a Relai és a Firefish egy közös `AJÁNLJUK:` fejléc alá került (az affiliate-ref az URL-ben, pl. `?ref=HUSZONEGY`), a Relai a leírás aljára, a támogatás-CTA pedig YouTube-csatornatag [join] + satok bontásra állt; **E114-től a CTA egyetlen csatornatag-sorra rövidült**.)
+**Szekció-fejlécek:** a leírás blokkjai **CSUPA NAGYBETŰS szekciócímkét** kapnak a scannelhetőségért — pl. `FEJEZETEK:`, `FORRÁSOK:`, `HUSZONEGY KÖZÖSSÉG:`, `MENTORÁLÁS & BLOG:`, `SZPONZOROK:`, `AJÁNLJUK:`, `ÁTIRAT:`. Az adásban elhangzott linkek/források blokkja a **`FORRÁSOK:`** fejléc alá kerül; a soroknál nincs „(chart)"/„(blog)"/„előadás"-szerű utótag, sem gondolatjel — csak a tömör címke + `➡` + URL (pl. `Jack Mallers BTC Prague ➡ <URL>`). Az átirat-blokk is fejlécet kap (`ÁTIRAT:`), és az `Inkább olvasnád?` a link barátságos címkéje: `Inkább olvasnád? ➡ <átirat-URL>`. A YouTube fejezet-detektálását a `FEJEZETEK:` fejléc nem zavarja, amíg a `00:00` az első időbélyeg a leírásban.
 
 **Click-through elv:** a blurb-szövegek ne ismételjék azt az infót, ami a célokon (a linkelt oldalon) már ott van (pl. konkrét kedvezmény százalék a Relai oldalán).
 
-A jelenlegi blokkos felépítés (nincs bebetonozva — jobbító javaslat mindig jöhet). **E113-tól az alábbi az érvényes szabvány:**
+A jelenlegi blokkos felépítés (nincs bebetonozva — jobbító javaslat mindig jöhet). **Az érvényes szabvány:**
 
-1. **Bevezető** (2–3 mondat, egy bekezdésben)
-2. **Támogatás-CTA** a bevezető után — **E114-től egyetlen sor.** A satos link, a „Támogasd a folytatást!" fejléc és a szponzor-kiemelő sor kikerült innen; a szponzorok a `SZPONZOROK:` blokkban maradnak:
+1. **Bevezető** (3–5 mondat, egy bekezdésben)
+2. **Támogatás-CTA** a bevezető után — **egyetlen sor.** A satos link, a „Támogasd a folytatást!" fejléc és a szponzor-kiemelő sor nem ide való; a szponzorok a `SZPONZOROK:` blokkban vannak:
 🧡 Legyél Te is csatornatag! ➡ https://www.youtube.com/@huszonegy-bitcoin-podcast/join
 
 3. **FEJEZETEK:** (lásd 3. lépés)
@@ -197,6 +199,8 @@ A `fountain` epizódlink csak publikálás után órákkal generálódik — add
 
 **Az előző epizód Fountain-linkjének frissítése:** amikor az új epizódot beírom a `podcasts.ts` tetejére, ugyanabban a lépésben ránézek az **előző** epizód `fountain` mezőjére — az addigra publikálva van, tehát megvan az epizód saját linkje (`https://fountain.fm/episode/…`). Ha még a show-URL placeholder áll benne, lecserélem az epizód-linkre. (Árpi adja meg az előző epizód Fountain-epizódlinkjét; ha még nincs meg, rákérdezek.)
 
+**Az előző epizód élő YouTube-verziójának ellenőrzése:** a cím és a fejezetcímek a feltöltés után még változhatnak a Studióban, ezért a `podcasts.ts` elcsúszhat attól, ami élesben fut. Amikor az új epizódot beírom, ugyanabban a lépésben lehúzom az előző adás élő címét és fejezetlistáját (`yt-dlp --skip-download --print "%(title)s"`, illetve a leírás `FEJEZETEK:` blokkja), és ha eltér, a repót igazítom az éleshez. **Az élő verzió az igazság, nem a repóban tárolt tervezet** — a mért teljesítmény is ahhoz tartozik.
+
 **Idézőjel a fejezetcímekben:** ha egy `label` vagy a `topic` idézőjelet tartalmaz (scare-quote, pl. „piszkos"), **magyar tipográfiai idézőjelet** (`„ "`) használj, ne ASCII `"`-t — az ASCII idézőjel lezárja a TS-stringet (unterminated string literal).
 
 ### 7. Átirat szépítése
@@ -283,7 +287,7 @@ Az állandó HUSZONEGY "szponzori" szöveg az átiratban **három külön bekezd
 
 1. `Böngésszétek a HUSZONEGY folyamatosan fejlődő honlapját, a [huszonegy.world](https://huszonegy.world) címen! Olvassátok a [Bitcoin blog](https://bitcoinmentor.hu/bitcoin-blog/) cikkeit a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon! És szintén itt találtok információt Bitcoin tanácsadási, mentorálási szolgáltatásunkról.` — egy bekezdésben, három mondat.
 2. `**Támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu).**` — **vastagítva**, külön bekezdésben.
-3. `A [Firefish](https://app.firefish.io/auth/sign-up?ref=HUSZONEGY) 🔥🐟 pedig azt üzeni, hogy ne adjátok el a bitcoinotokat!` — normál súly, külön bekezdésben, Firefish 🔥🐟 emoji a név után. (E111-től ez a formula; korábban: „És a Firefish üzeni, hogy…". Az outro szövege változhat — mindig az aktuális feliratból dolgozz.)
+3. `A [Firefish](https://app.firefish.io/auth/sign-up?ref=HUSZONEGY) 🔥🐟 pedig azt üzeni, hogy ne adjátok el a bitcoinotokat!` — normál súly, külön bekezdésben, Firefish 🔥🐟 emoji a név után. Az outro szövege változhat — mindig az aktuális feliratból dolgozz.
 
 ## Szerkesztési szabályok
 
@@ -363,21 +367,16 @@ Egy epizódon belül ebben a sorrendben dolgozz:
 
 ## Tanulságok a válogatás-tervezésből (2026.07.14.)
 
-Ezek a hibák egyetlen munkamenetben, egymásra épülve fordultak elő a nyári válogatások tervezésekor. Mind ugyanabból a gyökérből nőtt ki.
+Ezek a hibák egyetlen munkamenetben, egymásra épülve fordultak elő. Mind ugyanabból a gyökérből nőtt ki.
 
-**1. Előbb olvass, aztán rangsorolj.** Árpi tíz témát és rangsort kért; én legyártottam — a mondatbankból és részleges olvasásból —, ahelyett hogy azt mondtam volna: *ezt nem tudom rangsorolni, amíg el nem olvastam.* Onnantól minden erre az alapra épült, és minden Árpi-kérdés egy újabb darabot hozott a felszínre az adósságból. **Ha a tudás hiányzik, ne tervet gyárts, hanem szólj.**
+**1. Előbb olvass, aztán rangsorolj.** Ha rangsort vagy válogatás-tervet kérnek olyan anyagból, amit nem olvastam végig, ne gyártsam le részleges ismeretből, hanem mondjam ki, hogy ezt addig nem tudom megcsinálni. A hiányos alapra épített terv minden további körben újabb adósságot hoz a felszínre. **Ha a tudás hiányzik, ne tervet gyárts, hanem szólj.**
 
-**2. Mutatóból ne következtess tartalomra.** Ez a hiba háromszor is megismétlődött, három szinten:
-- az eredeti nyári tervet **törött átiratokból** számolt témarangsor vitte félre;
-- Hajnalt azért neveztem „a legfontosabb kimaradónak", mert **két adása van és ő az egyetlen női vendég Katán kívül** — pedig az E90 jórészt használhatatlan;
-- az E74-et azért neveztem „az archívum legjobb narancs-pirula pillanatának", mert **így állt a mondatbankban** — olvasás nélkül.
-Retenció, CTR, adásszám, nemek aránya, egy korábbi jegyzet: ezek **mind proxyk.** A forrás maga a szöveg.
+**2. Mutatóból ne következtess tartalomra.** Retenció, CTR, adásszám, a vendégek összetétele, egy korábbi jegyzet vagy kivonat: ezek **mind proxyk**, és mindegyik félrevihet. A forrás maga a szöveg — tartalomról szóló állítást csak az olvasás alapoz meg.
 
-**3. „Tudom, miről szól" ≠ „tudom, mi van benne."** Az E82 (D Tamás, a kávés) és az E78 (Dani) — a két adás, amiről a legkevesebbet tudtam — gazdagabbnak bizonyult, mint a tervezett darabok fele. Az egysoros összefoglaló nem helyettesíti a szöveget.
+**3. „Tudom, miről szól" ≠ „tudom, mi van benne."** Az egysoros összefoglaló nem helyettesíti a szöveget. Rendre kiderül, hogy éppen a legkevésbé ismert anyag a leggazdagabb, a jól ismertnek hitt pedig szegényebb, mint az emléke róla.
 
-**4. Előbb fájl, aztán beszélgetés.** A hatos terv köröken át csak a chatben élt, így minden korrekció után emlékezetből építettem újra — a javítások nem halmozódtak, hanem felülírták egymást. **A tudás a fájlban él, nem a kontextusban.** Hosszú olvasásnál 3–4 adásonként azonnal jegyzetelj fájlba; a kontextus elveszhet, a fájl nem.
-Ehhez tartozik: **a saját múltbeli munkám összefoglalóját ugyanúgy kezeltem, mint a mondatbankot — úgy, mintha maga a dolog lenne.** („27 átirat újraírva" ≠ „27 átiratot ismerek.")
+**4. Előbb fájl, aztán beszélgetés.** Ami csak a chatben él, azt minden korrekció után emlékezetből kell újraépíteni, így a javítások nem halmozódnak, hanem felülírják egymást. **A tudás a fájlban él, nem a kontextusban.** Hosszú olvasásnál néhány tételenként azonnal jegyzetelj fájlba. Ehhez tartozik, hogy a **saját múltbeli munkámról szóló összefoglalót** se kezeljem úgy, mintha maga a dolog lenne: „X átirat újraírva" nem azonos azzal, hogy „X átiratot ismerek".
 
-**5. Ha nem tudsz valamit, mondd ki.** Ne csomagold magabiztosan hangzó prózába. A díszítés (táblázat, félkövér, figyelmeztető jel, hatásvadász mondattöredék) **a bizonytalanság tünete** — amikor nem biztos a tartalom, azt a munkát végzi, amit a tartalomnak kellene. Árpi ezt előbb vette észre, mint én: *„nagyon furcsa stílusban fogalmazol… sokkal érthetőbben szoktál máskor írni."* Írj összefüggő, teljes mondatokban; táblázat csak felsorolható tényekhez.
+**5. Ha nem tudsz valamit, mondd ki.** Ne csomagold magabiztosan hangzó prózába. A díszítés (táblázat, félkövér, figyelmeztető jel, hatásvadász mondattöredék) **a bizonytalanság tünete** — amikor nem biztos a tartalom, azt a munkát végzi, amit a tartalomnak kellene. Írj összefüggő, teljes mondatokban; táblázat csak felsorolható tényekhez.
 
 **Mit jelent a „kerüld a politikát" a válogatásokban (Árpi, 2026.07.27.):** a kerülendő az a **magyar párt-specifikum** — konkrét párt/politikus, választás, „a magyar kormány tenyere", Fidesz-plakát és hasonló. A tágabb, nem-párti rendszerkritika **NEM ebbe a körbe tartozik, és bent maradhat:** WEF/Davos, „nem megválasztott vezetőink", „tücsökevő klub", jegybank-kritika, elit-túlköltés. Ha bizonytalan egy részlet, jelöld és kérdezz — de alapból ne minősíts politikának minden rendszerkritikát.
