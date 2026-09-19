@@ -197,6 +197,8 @@ Amikor a cím, fejezetek, leírás és kép kész, és megvan a publikálás dá
 
 A `fountain` epizódlink csak publikálás után órákkal generálódik — addig ideiglenesen a show-URL megy be (`https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N`), később frissítjük az epizód saját linkjére.
 
+**A `date` mező — a megjelenés napja:** jellemzően a **legközelebbi péntek**, de ezt **mindig egyeztetem**.
+
 **Az előző epizód Fountain-linkjének frissítése:** amikor az új epizódot beírom a `podcasts.ts` tetejére, ugyanabban a lépésben ránézek az **előző** epizód `fountain` mezőjére — az addigra publikálva van, tehát megvan az epizód saját linkje (`https://fountain.fm/episode/…`). Ha még a show-URL placeholder áll benne, lecserélem az epizód-linkre. (Árpi adja meg az előző epizód Fountain-epizódlinkjét; ha még nincs meg, rákérdezek.)
 
 **Az előző epizód élő YouTube-verziójának ellenőrzése:** a cím és a fejezetcímek a feltöltés után még változhatnak a Studióban, ezért a `podcasts.ts` elcsúszhat attól, ami élesben fut. Amikor az új epizódot beírom, ugyanabban a lépésben lehúzom az előző adás élő címét és fejezetlistáját (`yt-dlp --skip-download --print "%(title)s"`, illetve a leírás `FEJEZETEK:` blokkja), és ha eltér, a repót igazítom az éleshez. **Az élő verzió az igazság, nem a repóban tárolt tervezet** — a mért teljesítmény is ahhoz tartozik.
