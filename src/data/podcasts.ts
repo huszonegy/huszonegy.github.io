@@ -59,7 +59,7 @@ export const podcasts = [
         }
         ],
         img: "/pics/e116.jpg",
-        date: "2026.09.17.",
+        date: "2026.09.18.",
         members: ["HenkyPenky", "Lez", "Feri"],
         topic: "Egy új internetet hoztam (Intro) - Kiürült a Nostr, jöttek a Monerósok - A Monero privát, de pénz-e? - A cím, amit nem vehetnek el tőled - A Telegram egy napra eltűnt - BitChat: üzenet Bluetooth-on, net nélkül - A platformok lenyelik, a Nostr-on nem - Nostr meetup, Armada a Discord helyett - A megszokás erősebb a technológiánál - Saját AI a pincében - Kártyát nem, bitcoint igen - Megfogtuk az alját 60 ezernél? - A szabadság nem cél, hanem út",
         yt: "https://youtu.be/gzVeNGFKpXs",
