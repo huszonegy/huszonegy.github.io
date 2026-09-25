@@ -4,14 +4,21 @@ A munkát a HUSZONEGY podcast vágója (Árpi) végzi, VS Code-ban a Claude Code
 
 ## Heti munkafolyamat — új epizód
 
-Minden héten egy új epizód. Árpi Riverside-ban felveszi és megvágja a beszélgetést. **A közös munka már a vágás után, de a teaser bevágása előtt indul:** az input ekkor a **Riverside-export** — a megvágott, teaser nélküli adás magyar TXT-átirata, időbélyegekkel. Együtt választjuk ki a teasert/hookot és a cím-irányt (0. lépés); ezután Árpi a teasert a videó elejére vágja, feltölti a HUSZONEGY YouTube-csatornájára (a címben az epizód száma), a YouTube pedig elkészíti az automatikus feliratot — ezt a kész videó-feliratot a **végső fejezetidőkhöz** használjuk.
+Minden héten egy új epizód. Árpi Riverside-ban felveszi és megvágja a beszélgetést. A közös munka **két fázisban** zajlik:
+
+- **A) fázis — vágás közben, a teaser bevágása előtt (0. és 0/b lépés):** az input a **Riverside-export** (a megvágott, teaser nélküli adás magyar TXT-átirata, időbélyegekkel). Itt születik meg **egyszerre** a cím, a teaser, az indexkép kickere és motívuma, a leírás első mondata, a reklámbevágások helye és a Gemini-brief. Árpi egy kész csomagot választ, és ennek alapján vág. A döntéseket a `tmp/eXXX_terv.md` tervfájlba mentem.
+- **B) fázis — a YouTube-feltöltés után (1–9. lépés, akár új munkamenetben):** Árpi a videót már a végleges indexképpel tölti fel, és megadja a linket. A tervfájlból dolgozom: a YouTube automatikus feliratából készülnek a **végső fejezetidők**, az API-n keresztül felkerül a cím, a leírás és a beállítások, majd jön a Spotify/Rumble-csomag, az átirat és a `podcasts.ts`.
+
+Ezzel a teaser, a cím, az indexkép és a leírás eleve összhangban születik, és nem kell utólag újravágni vagy újra feltölteni.
+
+**Munkamenet eleji rutin — megtartás-ellenőrzés (automatikus, nem kell kérni):** minden HUSZONEGY-munkamenet elején, az instrukciók elolvasása után megnyitom a [`retention-learnings.md`](retention-learnings.md) „Ellenőrzési napló" táblázatát. Minden olyan epizódra, amely **14 napnál idősebb és még „esedékes"**, lefuttatom a `scripts/yt_meta.py retention EXXX` parancsot, beírom az értékeket és egy mondatos tanulságot a naplóba, és 2–3 mondatban beszámolok Árpinak (javult-e az alapértékek átlagához képest, és mi okozhatta). Ha az új epizódot felveszem a `podcasts.ts`-be, a naplóba is felveszek egy „esedékes" sort (mit próbáltunk ki, mikor esedékes). Ha a token lejárt, a bejelentkezést ilyenkor kérem. Ugyanebben a rutinban megnézem a [`title-learnings.md`](title-learnings.md) „Régi adások újracímzése" táblázatát is: ha egy sor ellenőrzése esedékes, lekérem a megtekintéseket és beírom az eredményt.
 
 **Vezérelv minden lépésnél:** ami a reflektorfénybe kerül (cím, indexkép, bevezető, fejezetcímek), legyen egyszerre **lényegi** (az epizód érdemben, hosszan kifejti) **és izgalmas**. Marginális — egy mondatos, egyperces — téma sosem kerül fókuszba, akkor sem, ha csábító. Hiteles edukáció, nem kattintásvadászat. Javaslatot mindig indoklással adok; valódi ízlés-/hangsúlykérdésnél kérdezek, és a választ feljegyzem. **A véglegesített szöveget (cím, bevezető, fejezetek, leírás, átirat) nem írom át önállóan** — átolvasás-/ellenőrzés-kérésnél is csak javaslatot adok (számozott lista + indoklás), és megvárom a jóváhagyást; világos „csináld meg X" feladatnál viszont cselekszem. Az önállósodás mértékét közösen kalibráljuk.
 
 **Írói elvek a felszíni szöveghez (cím + bevezető) — az önállósodáshoz:**
 1. **Hűség a dráma előtt.** A reflektorfénybe szánt szöveg minden szavát a forráshoz mérem; ha dramatizálok, előbb ellenőrzöm, hogy elhangzott-e. A hitelesség a megfogalmazás minden szavában érvényes, nem csak a témaválasztásban.
 2. **A cím és a bevezető zsargonmentes; a szakszó lemegy a mélységbe.** A címben és a bevezetőben csak az állhat, amit egy nem-technikai néző is felismer; a mélyebb szakkifejezések a fejezetekbe, az átiratba és a linklistába valók. Ha egy szakszó mégis muszáj, rögtön a magyarázatával együtt szerepeljen — sosem a hook helyén. Nem adok klikk-erőt olyan kulcsszónak, amit a közönség valójában nem ismer fel.
-3. **A szerkezet is cím-szempont: a cold-open/teaser koherenciája.** Annak eldöntésekor, hogy egy téma lehet-e a cím, nem csak a perceit nézem, hanem a szerkezeti helyét is. Egy rövid téma is jogos fő cím lehet, ha az a cold-open — a teaser megerősíti, és a cím↔teaser egyezés algoritmus-előny (jobb nézési idő). **Hármas koherencia:** a cím, a leírás első mondata és a hanganyag első ~30 másodperce (cold-open) ugyanazt a témát erősítse meg. A YouTube az első fél percet automatikusan legépeli és kiemelten elemzi; ha a kimondott szöveg fedi a címet, az algoritmus „nem clickbait" jelzést kap és bátrabban ajánl, a hook pedig a nézőt is megtartja. Nem szó szerinti címmásolás kell, hanem a kontextus azonnali megerősítése írásban és szóban egyaránt. **A sorrend viszont nem „címet a teaserből":** a legerősebb lényegi + izgalmas szöget keresem meg, és az hajtja a címet ÉS a cold-opent is (konvergálnak). Ha a cold-open már fixen fel van töltve, a címet hozzá igazítom a koherenciáért — de ha a cold-open gyenge/marginális szöget mutat, jelzem, és inkább azt vágjuk újra (Árpi dönt), semmint hogy a címet gyengítsem hozzá.
+3. **A szerkezet is cím-szempont: a cold-open/teaser koherenciája.** Annak eldöntésekor, hogy egy téma lehet-e a cím, nem csak a perceit nézem, hanem a szerkezeti helyét is. Egy rövid téma is jogos fő cím lehet, ha az a cold-open — a teaser megerősíti, és a cím↔teaser egyezés algoritmus-előny (jobb nézési idő). **Hármas koherencia:** a cím, a leírás első mondata és a hanganyag első ~30 másodperce (cold-open) ugyanazt a témát erősítse meg. A YouTube az első fél percet automatikusan legépeli és kiemelten elemzi; ha a kimondott szöveg fedi a címet, az algoritmus „nem clickbait" jelzést kap és bátrabban ajánl, a hook pedig a nézőt is megtartja. Nem szó szerinti címmásolás kell, hanem a kontextus azonnali megerősítése írásban és szóban egyaránt. **A sorrend viszont nem „címet a teaserből":** a legerősebb lényegi + izgalmas fő témát keresem meg, és az hajtja a címet ÉS a cold-opent is (konvergálnak). Ha a cold-open már fixen fel van töltve, a címet hozzá igazítom a koherenciáért — de ha a cold-open gyenge/marginális témát mutat, jelzem, és inkább azt vágjuk újra (Árpi dönt), semmint hogy a címet gyengítsem hozzá.
 4. **Empatikus, lokalizált tónus.** Nem paráztatok túl, és külföldi jelenséget nem személyesítek a magyar nézőre. A hook lehet általános, de a konkrét tény maradjon arányos és a helyén.
 5. **Szigorú mondat-önellenőrzés.** Minden mondatot kritikus magyar szerkesztőként olvasok vissza: illik-e a kihagyott ige mindkét taghoz, természetes-e a kép, egységes-e a regiszter, nem suta-e a szórend.
 
@@ -19,32 +26,42 @@ Minden héten egy új epizód. Árpi Riverside-ban felveszi és megvágja a besz
 
 **A tanulságot tiszta, önmagában is érthető irányelvként fogalmazom meg — NEM epizód-specifikus példákkal** (konkrét epizódszám, konkrét cím, egyszeri szófordulat), mert azokat kontextus nélkül később nem érteném, és félre is vihetnek. A szempont/elv legyen általános és önhordó; ha illusztráció kell, az legyen absztrakt és magától érthető.
 
-### 0. Teaser/hook kiválasztása — VÁGÁS ELŐTT
-- **Input:** a Riverside-export — a megvágott, de teaser nélküli adás teljes magyar TXT-átirata, időbélyegekkel — a `transcripts_raw/` mappában, `huszonegys-studio_eXXX.txt` néven (lásd „Fájlok helye").
-- Végigolvasom az egész átiratot, és készítek egy **tématérképet**: a fő témák, mindegyikhez az időtartomány és nagyjából a hossz, plusz az epizód hangulata/üzenete. Ez alapozza meg a teasert, a címet, a bevezetőt és a fejezeteket, és ez teszi auditálhatóvá, hogy mi lényegi és mi marginális.
-- A tématérkép alapján **2–3 keresési kulcsszót** is megnevezek — amit egy potenciális néző gugliznának: brand-név (pl. „GitHub", „Nostr"), témaszó (pl. „Bitcoin-adó", „decentralizáció"), vagy konkrét kérdés-fragment. Ezeket átadom az 1. lépésnek.
-- **3 teaser/hook-jelölt (20–45 mp)**, lehetőleg 3 különböző szögből (a célközönség-címkék szerint): társadalmi/politikai sokk (fan-on túli, új nézők) · technikai „mind-blown" (tech-érdeklődő) · humoros/abszurd belsős (törzsközönség). Mindegyikhez: **időbélyeg** (mettől meddig, a Riverside-timeline-on), a **kivágandó szövegrészlet** (suta gépi-átírási hibák javítva), és a hozzá illő **cím-irány + kicker/thumbnail-szöveg**. Jó teaser: bátor állítással / konfliktussal / drámai kérdéssel indul, kevés kontextust igényel, és a csúcsponton hagyja nyitva a gondolatot (curiosity gap).
-- Árpi kiválasztja a legütősebbet, és a videó elejére vágja: **teaser (20–40 mp) → rövid intro-jingle (3–5 mp) → adás 00:00-tól** (a teaser végén egy tizedmásodperc szünet a jingle előtt). A teaser = a cold-open (lásd Adásszerkezet): szó szerint egy később elhangzó részlet, és az átirat elejére is teljes egészében bekerül.
-- **Aranyfonál- / hármas-koherencia-teszt:** a thumbnail + a cím + az első kimondott mondat ugyanarra a szögre erősít rá. Ha igen, megvan a teaser.
-- **Résztvevők:** rákérdezek, kik az adás résztvevői (a `podcasts.ts` `members` mezőjéhez) — a vágás előtt még nincs feltöltött leírás, amiből kiolvashatnám.
-- **Vágás + feltöltés után:** `yt-dlp`-vel letöltöm a kész videó magyar auto-feliratát a `transcripts_raw/` mappába — a **végső fejezetidőkhöz** (a teaser előrevágása eltol mindent).
+### 0. A) fázis: csomagválasztás a Riverside-exportból — VÁGÁS KÖZBEN
+- **Árpi:** a Riverside-exportot a `transcripts_raw/` mappába teszi `huszonegys-studio_eXXX.txt` néven (lásd „Fájlok helye"), és megírja, kik az adás résztvevői (a `podcasts.ts` `members` mezőjéhez). Ennyi a kérés: „itt az EXXX Riverside-exportja".
+- **Tématérkép:** végigolvasom az egész átiratot, és összeírom a fő témákat, mindegyikhez az időtartományt és nagyjából a hosszt, plusz az epizód hangulatát/üzenetét. Ez teszi auditálhatóvá, hogy mi lényegi és mi marginális. Megnevezek **2–3 keresési kulcsszót** is (brand-név, témaszó vagy konkrét kérdés-fragment), amit egy potenciális néző beírna.
+- **2–3 kész csomag:** mindegyik csomag **egyetlen fő téma** köré épül, és négy, egymáshoz igazított elemet tartalmaz:
+  1. **cím** (az 1. lépés szabályai szerint, klikk-erővel és indoklással);
+  2. **teaser** (20–45 mp): mettől meddig tart a Riverside-idővonalon, és a kivágandó szöveg (a suta gépi átírási hibák javítva). Lehet több rövid részlet egymás után is;
+  3. **indexkép:** 1–3 szavas kicker + a központi motívum egy mondatban;
+  4. **a leírás első mondata.**
+  
+  **A sorrend a lényeg:** előbb a legerősebb, érdemben kifejtett és izgalmas fő témát keresem meg, és **a teaser azt erősíti meg** — nem a teaserhez igazítom utólag a címet. A csomagokat rangsorolom, és megírom, melyik mellett mi szól. **Árpi egy csomagot választ, nem külön-külön elemeket** — így a négy elem eleve összhangban van (hármas koherencia: a cím, az indexkép és az első kimondott mondat ugyanazt erősíti meg).
+- **Jó teaser:** bátor állítással, konfliktussal vagy drámai kérdéssel indul, kevés kontextust igényel, és a csúcsponton hagyja nyitva a gondolatot (curiosity gap).
+- **A videó eleje:** Árpi a teasert a videó elejére vágja: **teaser (20–45 mp) → intro, vagyis a rövid zenei betét (3–5 mp) → adás 00:00-tól** (a teaser végén egy tizedmásodperc szünet a intro előtt). A teaser = a cold-open (lásd Adásszerkezet): szó szerint egy később elhangzó részlet, és az átirat elejére is teljes egészében bekerül.
+- **Az intro utáni első perc:** a megtartási adatok szerint ([`retention-learnings.md`](retention-learnings.md)) az intro utáni köszöntés és bemutatkozás alatt esik ki a legtöbb új néző. Ha az intro és az első érdemi mondat között 20–30 másodpercnél több telik el, megjelölöm, mit érdemes rövidíteni (hosszú köszöntés, általános felvezetés), és hogy melyik mondattal indulhat a tartalom.
+- **Gemini-brief:** a választott csomag indexképéhez rögtön megírom a briefet (5. lépés), hogy Árpi az export alatt legenerálhassa, és a videó már a végleges indexképpel kerüljön fel.
+- **Tervfájl:** a választott csomagot, a reklámhelyeket és a résztvevőket elmentem a `tmp/eXXX_terv.md` fájlba — a B) fázis (akár új munkamenetben) ebből dolgozik, nem kell semmit újra kitalálni.
 
-### 0/b. Reklám- és támogatás-bevágások helye — VÁGÁS ELŐTT
-**Ez a 0. lépés (teaser-választás) utáni ÁLLANDÓ, automatikus következő lépés — nem kérdezem meg, hogy csináljam-e.** Amint a teaser megvan és Árpi vágni kezd, rögtön, magamtól megadom a bevágás-helyeket (a cím/bevezető/fejezetek elé). Még a Riverside-export alapján (a teaser-vágással egy menetben) megjelölöm, hova kerüljenek a hangsávba/videóba illesztett bevágások. Ez **nem** a leírásba/átiratba írt szövegblokk (az a 8. lépés és az Adásszerkezet) — itt a **vágási pozíciókat** adom meg.
-- **Mit jelölök:** **2 rövid reklámblokk** + **1 támogatáskérő bevágás az adás elején**. (Ha Árpi mást kér — más darabszám vagy típus —, ahhoz igazodom.)
-- **A jó hely elve:** mindig **lezárt gondolat után, új szegmens előtt** — sosem mondat vagy érv közepén. Ideális, ha a bevágás **elé egy lekerekített/megnyugtatott beat** esik, **utána pedig egy kíváncsiság-kapu** (új téma hookja, pl. egy „de van jó hír is" típusú mondat) — így a néző átlép a megszakításon, nem lemorzsolódik.
-- **Eloszlás:** a két reklám nagyjából az adás **1/3 és 2/3** pontjára kerüljön; egyik se zsúfolódjon a teaserhez vagy a záráshoz. A támogatáskérő az **elején**, az első tiszta témavarratnál (a nyitó felvezetés lekerekedése után, az első érdemi blokk előtt).
+### 0/b. Reklámbevágások helye — VÁGÁS KÖZBEN
+**Ez a csomagválasztás utáni ÁLLANDÓ, automatikus következő lépés — nem kérdezem meg, hogy csináljam-e.** Ugyanabban a menetben, a Riverside-export alapján megadom, hova kerüljenek a hangsávba/videóba illesztett bevágások. Ez **nem** a leírásba/átiratba írt szövegblokk (az az Adásszerkezet része) — itt a **vágási pozíciókat** adom meg.
+- **Mit jelölök:** **2 rövid reklámblokk**: az egyik a bitcoinvásárlási ajánlás (Relai), a másik a szponzorokról szól.
+- **A jó hely elve:** mindig **lezárt gondolat után, új szegmens előtt** — sosem mondat vagy érv közepén. Ideális, ha a bevágás **elé egy lekerekített, megnyugtatott rész** esik, **utána pedig egy kíváncsiságot keltő mondat** (új téma felvezetése, pl. „de van jó hír is") — így a néző átlép a megszakításon, nem lemorzsolódik.
+- **Eloszlás:** a két reklám nagyjából az adás **1/3 és 2/3** pontjára kerüljön; egyik se zsúfolódjon a teaserhez vagy a záráshoz.
 - **Konkrét output:** mindegyik bevágáshoz megadom a **két mondatot, amik közé esik** (szó szerint, az ELÉ és UTÁN mondatot), plusz a hozzávetőleges időbélyeget.
-- **Időeltolás-figyelmeztetés:** az időbélyegek a Riverside-timeline-on értendők; a teaser+jingle előrevágása után a végső videóidőhöz **~+0:50** adódik (a teaser tényleges hosszával). A **mondathatárok stabilak**, ezért elsősorban azokra hivatkozom, nem a percre.
+- **Időeltolás:** az időbélyegek a Riverside-idővonalon értendők; a teaser és az intro előrevágása után a végső videóidőhöz a teaser+intro hossza adódik. A **mondathatárok stabilak**, ezért elsősorban azokra hivatkozom, nem a percre. A végső fejezetidőket a B) fázisban a YouTube automatikus feliratából állítom elő (`yt-dlp`, lásd „Fájlok helye").
 
 ### 1. Cím
-**3–5 változat**, lehetőleg **különböző szögekből** (kérdés / szám / konkrét értékígéret / meglepő állítás / tét), de **az erő veri a változatosságot**: jobb 3 valóban ütős változat 2 szögből, mint 5 erőltetett változat 5 szögből. Ha egy szögnek nincs jó változata az adott epizódhoz, hagyjuk ki. Mindegyiknél: karakterszám, **klikk-erő (1–5)** egy mondat érveléssel, **curiosity-gap (1–3)** — mennyire hagy nyitva egy kérdést, amit csak a kattintás old fel (de csak ha valódi tartalom van mögötte; üres tátongás = clickbait, az nem ér pontot) —, **melyik 0. lépésbeli keresési kulcsszót fedi** (vagy egyik se), **kit céloz elsősorban** (fan / új tech-érdeklődő / búvárkodó), miért működik, melyik epizódrész fedezi. A klikk-erő **összehasonlító** (nem abszolút): a felkínált halmazon belül adok rangsort. Az ajánlott változat a legmagasabb klikk-erővel + a stratégiai szempontoknak (lényegi, izgalmas, hiteles) is megfelelő — és ha lehet, **legalább egy keresési kulcsszót is fed**.
+**3–5 változat**, lehetőleg **különböző megközelítésből** (kérdés / szám / konkrét értékígéret / meglepő állítás / tét), de **az erő veri a változatosságot**: jobb 3 valóban ütős változat 2 megközelítésből, mint 5 erőltetett változat 5 megközelítésből. Ha egy megközelítésnek nincs jó változata az adott epizódhoz, hagyjuk ki. Mindegyiknél: karakterszám, **klikk-erő (1–5)** egy mondat érveléssel, **curiosity-gap (1–3)** — mennyire hagy nyitva egy kérdést, amit csak a kattintás old fel (de csak ha valódi tartalom van mögötte; üres tátongás = clickbait, az nem ér pontot) —, **melyik 0. lépésbeli keresési kulcsszót fedi** (vagy egyik se), **kit céloz elsősorban** (fan / új tech-érdeklődő / búvárkodó), miért működik, melyik epizódrész fedezi. A klikk-erő **összehasonlító** (nem abszolút): a felkínált halmazon belül adok rangsort. Az ajánlott változat a legmagasabb klikk-erővel + a stratégiai szempontoknak (lényegi, izgalmas, hiteles) is megfelelő — és ha lehet, **legalább egy keresési kulcsszót is fed**.
 
-**Mért adat a becslés előtt:** a változatok összeállítása előtt ránézek a [`title-learnings.md`](title-learnings.md) bejegyzéseire, és a mért CTR-jegyeket (kérdésforma, curiosity-gap, brand-kulcsszó a hook első ~40 karakterében) beleszámolom a klikk-erő-rangsorba. A saját ízlés-alapú becslésem másodlagos a valós adathoz képest, és ha egy szög mérhetően hozott, a back-katalógus-ütközés önmagában nem érv ellene — a majdnem-klón szerkezetet kerüljük, nem a működő szöget.
+**Mért adat a becslés előtt:** a változatok összeállítása előtt ránézek a [`title-learnings.md`](title-learnings.md) bejegyzéseire, és a mért CTR-jegyeket (kérdésforma, curiosity-gap, brand-kulcsszó a hook első ~40 karakterében) beleszámolom a klikk-erő-rangsorba. A saját ízlés-alapú becslésem másodlagos a valós adathoz képest, és ha egy megközelítés mérhetően hozott, a back-katalógus-ütközés önmagában nem érv ellene — a majdnem-klón szerkezetet kerüljük, nem a működő megközelítést.
+
+**A becslés rögzítése:** amikor Árpi véglegesíti a címet, a [`title-learnings.md`](title-learnings.md) „Epizód-előrejelzések" táblázatába felveszek egy sort (epizód, végleges cím, klikk-erő, curiosity-gap, célközönség). A negyedéves elemzésnél ezt vetem össze a valós CTR-rel — enélkül a becslésem pontossága nem mérhető.
+
+**Elvont cím = kisebb, de elkötelezettebb közönség:** a mért adat szerint az elvont/filozofikus címek alacsonyabb CTR-t, de hosszabb nézési időt hoznak. Ha az epizód elsősorban a törzsközönségnek szól, ez vállalható, tudatos döntés; ilyenkor a változatoknál jelzem, hogy a cím az elérés helyett az elköteleződésre optimalizál.
 
 **A cím receptje:** a jól teljesítő címekben három dolog van együtt — egy **megnevezett, ismerős dolog**, amit a néző maga birtokol vagy naponta használ; egy **megtörtént tény**, nem feltételezés; és egy **feszültség**: ellentmondás, hiány, vagy a nézőnek szegezett kérdés. Ha bármelyik hiányzik, a cím lapos marad. A feltételes „mi lenne, ha…" nem tény; a számozott felsorolás és a témalista nem feszültség; az elvont fogalom pedig nem ismerős dolog, hiába érti a beavatott. A cím **egyetlen erős fogást** ígérjen — a teljes lefedettség a fejezetek dolga, nem a címé.
 
-**Back-katalógus-ütközés:** a cím véglegesítése előtt ránézek a `podcasts.ts` közelmúltbeli, hasonló témájú adásaira. Ha egy korábbi cím már elhasználta ugyanazt a szöget vagy szerkezetet, a feedben ne legyen majdnem-klón — az új adás a friss, még le nem fedett szögre menjen.
+**Back-katalógus-ütközés:** a cím véglegesítése előtt ránézek a `podcasts.ts` közelmúltbeli, hasonló témájú adásaira. Ha egy korábbi cím már elhasználta ugyanazt a megközelítést vagy szerkezetet, a feedben ne legyen majdnem-klón — az új adás a friss, még le nem fedett témára menjen.
 
 **Klikk-erő skála** (HUSZONEGY-kontextusra kalibrálva — hiteles edukáció, nem általános clickbait CTR-re):
 - **5** — Erős érzelmi hook + konkrét ígéret együtt; nagy CTR várható
@@ -97,7 +114,7 @@ Kritériumok: 45–60 karakter; **a hook és az elsődleges kulcsszó az első ~
 
 **Formátum:** a linkblokkok multi-line szerkezetűek, soronként **leíró címke + `➡` + URL** (nem `·`-vel zsúfolt egysor — mobilon így scannelhető). Subtle emojik csak ott, ahol funkciójuk van (🇨🇭, ⚡, 🔥🐟, ➡). HUSZONEGY-hangzás: tech-tartalmú, de barátságos.
 
-**Résztvevők:** a vendég/résztvevők nevei (pl. „Anti, Openoms, Árpi") a `podcasts.ts` `members` mezőjébe kerülnek; ezt a 0. lépésben **rákérdezéssel** szerzem meg (a vágás előtti Riverside-inputnál még nincs feltöltött YouTube-leírás, amiből kiolvashatnám — Árpinak így nem is kell beírnia a résztvevőket a leírásba). A **végleges YouTube-leírásba NEM** írok külön „Résztvevők:" sort.
+**Résztvevők:** a vendég/résztvevők nevei (pl. „Anti, Openoms, Árpi") a `podcasts.ts` `members` mezőjébe kerülnek; ezt a 0. lépésben **rákérdezéssel** szerzem meg (a vágás előtti Riverside-inputnál még nincs feltöltött YouTube-leírás, amiből kiolvashatnám — Árpinak így nem is kell beírnia a résztvevőket a leírásba). A **végleges YouTube-leírásba NEM** írok külön „Résztvevők:" sort. **Kivétel: közismert, a csatornán kívül is keresett vendég** (ritka eset, pl. országosan ismert közgazdász, közéleti szereplő) — az ő teljes nevét a bevezetőbe írom (lehetőleg a 2. mondatba), mert a keresésben a nevére is rákeresnek (lásd `title-learnings.md`, Keresőszavak). Az állandó és visszatérő résztvevők nevét továbbra sem.
 
 **Szekció-fejlécek:** a leírás blokkjai **CSUPA NAGYBETŰS szekciócímkét** kapnak a scannelhetőségért — pl. `FEJEZETEK:`, `FORRÁSOK:`, `HUSZONEGY KÖZÖSSÉG:`, `MENTORÁLÁS & BLOG:`, `SZPONZOROK:`, `AJÁNLJUK:`, `ÁTIRAT:`. Az adásban elhangzott linkek/források blokkja a **`FORRÁSOK:`** fejléc alá kerül; a soroknál nincs „(chart)"/„(blog)"/„előadás"-szerű utótag, sem gondolatjel — csak a tömör címke + `➡` + URL (pl. `Jack Mallers BTC Prague ➡ <URL>`). Az átirat-blokk is fejlécet kap (`ÁTIRAT:`), és az `Inkább olvasnád?` a link barátságos címkéje: `Inkább olvasnád? ➡ <átirat-URL>`. A YouTube fejezet-detektálását a `FEJEZETEK:` fejléc nem zavarja, amíg a `00:00` az első időbélyeg a leírásban.
 
@@ -130,28 +147,49 @@ A jelenlegi blokkos felépítés (nincs bebetonozva — jobbító javaslat mindi
    - `Inkább olvasnád? ➡ https://huszonegy.world/podcast/<slug>`
    - **Slug-szabály:** a végleges címből származtatva — kisbetűs, ékezetmentes (`ő → o`, `é → e`, `á → a`, `í → i`, `ú → u`, `ü → u`, `ö → o`); brand-nevek és számok ASCII-kisbetűre (`MicroStrategy` → `microstrategy`, `BIP-110` → `bip-110`); írásjelek (`,`, `?`, `!`, `:`, `;`, `'`, em-dash) **eltűnnek nyom nélkül** (nem kerül a helyükre kötőjel); meglévő belső kötőjelek megmaradnak (`Nostr-alternatíva`, `BIP-110`); szavak között egyetlen `-`. Pl. *„Recseg a GitHub — épül a magyar Nostr-alternatíva"* → `recseg-a-github-epul-a-magyar-nostr-alternativa`.
 
+### 4/b. Feltöltés a YouTube-ra az API-n keresztül
+A cím, a leírás és a videó-beállítások a YouTube Data API-n keresztül kerülnek fel a [`scripts/yt_meta.py`](scripts/yt_meta.py) szkripttel (`get` / `set`; a `set` alapból próbafutás, élesíteni `--apply`-jal lehet). A titkos fájlok a repón kívül vannak: `~/.config/huszonegy-yt/` (OAuth kliens + token), a Python-környezet a `~/.local/share/huszonegy-yt/venv/` mappában. Az OAuth-app **Testing** módban van, ezért a token **7 nap után lejár**: a heti első futtatáskor Árpinak egyszer újra be kell jelentkeznie a böngészőben (a HUSZONEGY csatornát választva).
+
+- **Feltöltés előtt mindig jóváhagyás:** a teljes címet és leírást megmutatom, és csak Árpi rábólintása után küldöm fel; utána visszaolvasom az élő változatot. Az API a leírást egészben cseréli, ezért mindig a teljes szöveget küldöm.
+- **Mintának az előző epizód élő leírását veszem**, mert Árpi a Studióban kézzel is javít rajta (az állandó blokkokat onnan viszem át szó szerint).
+- **A Riverside-feltöltés nem veszi át a csatorna feltöltési alapértelmezéseit**, ezért minden héten én állítom be az API-n keresztül:
+  - a videó hangjának és a cím/leírás nyelvének **magyar** nyelvet (a Riverside angolt hagy benne). **Kivétel: angol hangú videó magyar felirattal** (külföldi előadás, interjú, klip) — ott a **hang nyelve angol**, a **cím/leírás nyelve magyar**; így a YouTube helyes gépi feliratot készít, és a magyar közönség is megtalálja. A valódi hangnyelvet a gépi felirat eredeti nyelvéből ellenőrzöm (`yt-dlp … --print "%(automatic_captions)j"` → a `-orig` végű kulcs);
+  - a **címkéket**: a bitcoin + az epizód 5–8 fő témaszava/brandneve + a **márkacímkék minden epizódnál: `huszonegy`, `21 bitcoin podcast`, `21 podcast`, `21`** (a nézők a nevet számmal is keresik — lásd `title-learnings.md`, Keresőszavak). A címkék együtt legfeljebb 500 karakter;
+  - a **„módosított vagy szintetikus tartalom: nem”** jelölést (az API nem adja vissza, ezt Árpi a Studióban ellenőrzi);
+  - a **„HUSZONEGY Bitcoin podcast”** lejátszási listát (automatikusan rendezett, a legújabb kerül előre). **Csak a premier beállítása után** teszem bele, mert egy nem listázott videó a nyilvános listában idő előtt látható lenne.
+- **Árpi a Studióban állítja be** (az API ezeket nem kezeli): a **premiert** (ütemezés, 19:00), a **záróképernyőt** (importálás az előző videóból), valamint kikapcsolja az **„Automatikus helyek”** és a **„Fogalmak automatikus megjelenése”** kapcsolót.
+
+### 4/c. Spotify- és Rumble-szövegcsomag
+**Állandó, automatikus lépés — nem kérdezem meg, hogy csináljam-e:** amint a YouTube-os rész kész (a leírás élesben fent van), magamtól elkészítek két bemásolható szövegfájlt, mert Árpi a Spotify for Creatorsre és a Rumble-re is feltölti az epizódot. Ezekhez a platformokhoz nincs feltöltő- vagy szerkesztő-API, ezért a feltöltést és a mezők kitöltését Árpi végzi kézzel.
+
+- **`tmp/eXXX_spotify.txt`**: `CÍM:` + `LEÍRÁS:`
+- **`tmp/eXXX_rumble.txt`**: `CÍM:` + `LEÍRÁS:` + `CÍMKÉK:` (vesszővel elválasztva, a YouTube-címkékkel azonosan)
+- **Forrás:** a YouTube **élő** címe és leírása (API-ból lehúzva, nem a tervezetből), mert az élesben javított változat az igazság.
+- **Egyetlen eltérés:** a YouTube-specifikus `🧡 Legyél Te is csatornatag! ➡ …` sor kimarad. A cím ugyanaz, mint a YouTube-on — **epizódszám-előtag nélkül**. Más különbség nincs.
+- **Fejezetidők:** a YouTube-ra feltöltött vágás időbélyegei érvényesek; ha Árpi a Spotifyra/Rumble-re más vágást tölt fel, szólok, hogy az időbélyegeket ahhoz kell igazítani.
+- A `tmp/` mappa nincs verziókezelve, a fájlok nem kerülnek commitba.
+
 ### 5. Indexkép
 
-A briefet az alábbi sorrendben építem fel — **az érzelmi/emberi pillanattól befelé**, mert a thumbnail-en először mindig egy emberi arc fog meg, és minden más (motívum, szöveg, paletta) ezt szolgálja.
+A briefet az alábbi sorrendben építem fel — **az emberi arctól befelé**, mert a thumbnail-en először mindig egy emberi arc fog meg, és minden más (motívum, szöveg, paletta) ezt szolgálja.
 
-1. **Érzelmi pillanatkép-vadászat (időbélyeggel):**
-   - Az átiratból / SRT-ből kigyűjtök **3–5 jelölt időpontot**, ahol a vendég (vagy ha nincs vendég, a legenergikusabb házigazda) érzelmi töltődéssel beszél: nevet, lelkesen érvel, megdöbben, cinkos mosollyal viccel, csendben elgondolkodik, döbbenten figyel stb.
-   - Mindegyikhez rövid leírás: mit hallani, milyen arckifejezés valószínű.
-   - Néhányat ajánlok elsőként indoklással — Árpi a felvételen visszanézi, és kivág a kívánt pillanatból egy frame-et (vagy elveti, és másikat választ a listából).
-   - **Short-form mellékhasználat:** ugyanez a 3–5 időbélyeg a függőleges klipek (YouTube Shorts / TikTok / X / Nostr) nyersanyaga is. Ahol egy pillanat short-nak is erős (önmagában megáll, kontextus nélkül is üt), azt **`[short]` jelöléssel** külön kiemelem a listában, hogy Árpi tudja, melyikből vágjon vertikálist. Plusz munka nélküli organikus tölcsér új nézőknek.
+1. **Arc és arckifejezés:**
+   - A vendég arcát (vagy ha nincs vendég, a házigazdáét) a Gemini egy **tetszőleges, jó minőségű fotóból** rajzolja karikatúrává — Árpi szerzi be és csatolja. **Nem vadászok képkockát a felvételből**, és nem gyűjtök időbélyeges pillanatképeket: az arckifejezést az AI bármilyenre meg tudja rajzolni.
+   - Az **arckifejezést a briefben írom elő**, az adás hangulatából és a kicker/motívum üzenetéből levezetve (pl. magabiztos, cinkos félmosoly; döbbent; elgondolkodó).
 
 2. **Motívum + kicker-szöveg:**
    - **Motívum:** az adás magjának vizuális jele (tárgy, szimbólum, kontextus-tárgy) — ami a YouTube-címet **egészíti ki**, nem ismétli. A motívum lehet bármi, ami az adás más rétegeit hozza vissza, de ikonikus legyen, ne valami elvont dolog.
-   - **Kicker-szöveg:** 2–5 szavas felirat a képen, fél-tét — a YouTube-cím oldja fel (lásd kicker-konvenciót lent).
+   - **Kicker-szöveg:** 1–3 szavas felirat a képen, fél-tét — a YouTube-cím oldja fel (lásd kicker-konvenciót lent).
 
 3. **Színvilág:**
-   - Melyik paletta passzol az érzelemhez és a motívumhoz: sötét = mély/tét, világos = közeli/barátságos; tematikus tónus (lila = Nostr, narancs/sárga = Bitcoin, zöld = pénz/biztonság).
+   - Melyik paletta passzol az érzelemhez és a motívumhoz: sötét = mély/tét, világos = közeli/barátságos (a mért adat szerint a világos, lapos illusztráció is kiválóan működik, ha egyetlen tárgy-fókusz van rajta — a sötét háttér nem feltétel, a kontraszt és az egy fókuszpont számít); tematikus tónus (lila = Nostr, narancs/sárga = Bitcoin, zöld = pénz/biztonság).
    - HUSZONEGY-brand hangzás: tech, de barátságos; soha nem rikító.
    - **max 3–4 domináns szín**, visszafogott háttér.
 
 4. **Stílus:**
    - Tisztázzuk, hogy van-e vendég-cutout.
-   - Ha van, akkor azt Árpi csatolja Gemininek, és a brief karikatúra-rajz átalakítást kér úgy, hogy hasonlítson az eredetire.
+   - **Soha ne generikus, kitalált arcot** rajzoltassunk: az nem hozza a valós arc előnyét. Ha nincs valós vendég, vagy a házigazda valós karikatúrája kerüljön a képre, vagy arc nélküli, erős tárgy-motívum.
+   - Ha van, akkor a fotót Árpi csatolja Gemininek, és a brief karikatúra-rajz átalakítást kér úgy, hogy hasonlítson az eredetire, az 1. pontban előírt arckifejezéssel.
    - Minimalista, lapos vektor érzet; nem fotorealisztikus, nem 3D render.
 
 5. **Kompozíció:**
@@ -179,7 +217,7 @@ A briefet az alábbi sorrendben építem fel — **az érzelmi/emberi pillanatt�
 
 **Kicker-konvenció:**
 - **Tartalmilag:** provokál, fél-tét; a YouTube-cím oldja fel. Teljes címet NEM ismétli.
-- **Hossz:** max 3–5 szó (kis méretben olvashatóság).
+- **Hossz:** **1–3 szó** (kis méretben olvashatóság; a mért adat szerint a 4+ szavas kickerek a gyengébb CTR-ű képek között vannak).
 - **Tipográfia:** **all caps** (csupa nagybetű), **bold sans-serif** font (vizuális tömeg), nagy betűméret.
 - **Szín:** fehér (vagy egyéb, a háttérhez képest magas-kontrasztú szín).
 - **Pozíció:** felső harmad vagy felső sáv — ne nyomja a vendég-arcot, és az alsó YouTube-időtartam-bar ne fedje le, de több szavas kicker esetén lehet több soros is, hogy kellően nagy betűméretű tudjon lenni.
@@ -203,6 +241,8 @@ A `fountain` epizódlink csak publikálás után órákkal generálódik — add
 
 **Az előző epizód élő YouTube-verziójának ellenőrzése:** a cím és a fejezetcímek a feltöltés után még változhatnak a Studióban, ezért a `podcasts.ts` elcsúszhat attól, ami élesben fut. Amikor az új epizódot beírom, ugyanabban a lépésben lehúzom az előző adás élő címét és fejezetlistáját (`yt-dlp --skip-download --print "%(title)s"`, illetve a leírás `FEJEZETEK:` blokkja), és ha eltér, a repót igazítom az éleshez. **Az élő verzió az igazság, nem a repóban tárolt tervezet** — a mért teljesítmény is ahhoz tartozik.
 
+**Címváltoztatás (régi vagy friss epizódnál):** a honlapon az epizód URL-je a `podcasts.ts` `name` mezőjéből képzett slug. Ha a cím változik, a `name` is változik, és **a régi URL-t a `src/router/index.ts`-ben átirányítom az újra** (`{ path: '/podcast/<régi-slug>/', redirect: '/podcast/<új-slug>/' }`). A régi URL ilyenkor az új tartalmat adja, kanonikus hivatkozással az újra, a sitemapből pedig a build automatikusan kizárja az átirányított útvonalakat. Előtte ellenőrzöm, hivatkozik-e máshol a repó vagy a YouTube-leírás a régi URL-re.
+
 **Idézőjel a fejezetcímekben:** ha egy `label` vagy a `topic` idézőjelet tartalmaz (scare-quote, pl. „piszkos"), **magyar tipográfiai idézőjelet** (`„ "`) használj, ne ASCII `"`-t — az ASCII idézőjel lezárja a TS-stringet (unterminated string literal).
 
 ### 7. Átirat szépítése
@@ -218,18 +258,21 @@ Build-ellenőrzés (a sitemap build-időben magától frissül a `podcasts.ts`-b
 
 A naptári negyedév végén (március 31, június 30, szeptember 30, december 31) áttekintjük a kiadott epizódok teljesítményét YouTube Studio **CTR + impressions + átlagos megtekintési idő (retention)** szerint. A CTR-t és a retentiont **együtt** nézzük: a magas CTR + alacsony megtekintési idő (a néző 30 mp után elpattan) az algoritmusnak rosszabb, mint a közepes CTR + erős retention — sőt a YouTube natív A/B-tesztje is nézési idő alapján dönt. Egy „félrevezetően jó" cím tehát rövid távon kattintást hoz, de hosszú távon visszaüt; ezt csak a retention-adat mutatja meg. A cím és a thumbnail együtt hozza a klikket, ezért együtt elemezzük:
 
-1. **Árpi exportálja az adatokat** YouTube Studio-ból az adott negyedévre — a Claude nem fér hozzá a Studio-hoz, ezért ez Árpi lépése.
+1. **Árpi exportálja az adatokat** YouTube Studio-ból — a CTR és a megjelenítések száma API-n nem érhető el, ezért ez Árpi lépése. Menete: Elemzések → jobb felül **Speciális mód** → időszak: **Feltöltés óta** (így minden videó teljes élettartama benne van; az epizódokat én szűröm a negyedévre) → felül a **Tartalom** fül → a **+** gombbal oszlopok: **Indexkép-megjelenítések**, **Indexképek átkattintási aránya**, Megtekintések, Átlagos megtekintési időtartam, Megtekintési átlag (%) → jobb felül lefelé nyíl → **Vesszővel elválasztott értékek (.csv)**. A ZIP a repó `tmp/` mappájába kerül; nekem a benne lévő `A táblázat adatai.csv` kell. A forgalmi forrásokat, eszközöket és a megtartást az Analytics API-ból magam kérem le.
 2. **Közös elemzés:** top 3 + bottom 3 epizód CTR szerint, **plusz a CTR–retention kereszt** (volt-e magas-CTR-de-gyenge-retention félrevezető cím). Két dimenzió:
-   - **Cím-mintázatok**: kérdés vs állítás, szám / nincs szám, érzelmi-szó / száraz, em-dash / kettőspont, curiosity-gap erőssége, brand-keyword fed-e, célközönség. Összevetjük az 1. lépésbeli klikk-erő-előrejelzést a valós CTR-rangsorral — hol tévedtem szisztematikusan? Ahol futott natív **A/B-teszt (Test & Compare)**, ott a győztes változatot is bevonjuk: melyik szög nyert élesben, és egyezett-e a klikk-erő-becslésemmel.
+   - **Cím-mintázatok**: kérdés vs állítás, szám / nincs szám, érzelmi-szó / száraz, em-dash / kettőspont, curiosity-gap erőssége, brand-keyword fed-e, célközönség. Összevetjük az 1. lépésbeli klikk-erő-előrejelzést a valós CTR-rangsorral — hol tévedtem szisztematikusan? Ahol futott natív **A/B-teszt (Test & Compare)**, ott a győztes változatot is bevonjuk: melyik változat nyert élesben, és egyezett-e a klikk-erő-becslésemmel.
    - **Thumbnail-mintázatok**: vendég-arc volt-e / nem; kicker fent / oldalt / nincs; sötét vs világos paletta; központi motívum kontraszt; split/„vs" kompozíció teljesített-e jobban összehasonlító adásnál; recommended-feed sanity check megtörtént-e a brief-fázisban.
-3. **Tanulság rögzítése:** két bejegyzés ugyanazon a napon — a [`title-learnings.md`](title-learnings.md) végén a cím-tanulság, és a [`thumbnail-learnings.md`](thumbnail-learnings.md) végén a thumbnail-tanulság (sablon ott).
-4. **Kritérium-frissítés:** ha a mintázat indokolja, az `instructions.md` 1. és/vagy 5. szakaszának kritériumai is frissülnek ugyanabban a kommitban.
+3. **Megtartás:** a `scripts/yt_meta.py retention` paranccsal lekérem a negyedév epizódjainak görbéjét, és a [`retention-learnings.md`](retention-learnings.md) alapértékeit frissítem, ha a mintázat elmozdult (pl. mely vágási változtatás javított az 1–5. perc között).
+4. **Tanulság rögzítése:** két bejegyzés ugyanazon a napon — a [`title-learnings.md`](title-learnings.md) végén a cím-tanulság, és a [`thumbnail-learnings.md`](thumbnail-learnings.md) végén a thumbnail-tanulság (sablon ott).
+5. **Kritérium-frissítés:** ha a mintázat indokolja, az `instructions.md` 1. és/vagy 5. szakaszának kritériumai is frissülnek ugyanabban a kommitban.
 
 ## Fájlok helye
 - **Vágás előtti input (0. lépés):** a Riverside-export a `transcripts_raw/` mappában, `huszonegys-studio_eXXX.txt` néven (a megvágott, teaser nélküli adás TXT-átirata, időbélyegekkel) — a Riverside saját fájlneve, ne nevezd át.
+- **Tervfájl (A) fázis → B) fázis):** `tmp/eXXX_terv.md` — a választott csomag (cím, teaser, kicker + motívum, a leírás első mondata), a reklámhelyek és a résztvevők. A `tmp/` nincs verziókezelve.
 - **Kész videó felirata (végső fejezetidőkhöz):** a `transcripts_raw/` mappában, `epE{NN}_{id}.hu.srt` néven (yt-dlp).
 - **Szépített átiratok:** a `public/transcripts_clean/` mappában, E01 esetén `epE01_` kezdetű néven.
 - **corrections.md** a gyökérben.
+- **Tanulság-fájlok** a gyökérben: `title-learnings.md` (cím, CTR, epizód-előrejelzések), `thumbnail-learnings.md` (indexkép), `retention-learnings.md` (megtartás: alapértékek + ellenőrzési napló).
 
 Kész videó forrásfelirata: a YouTube-azonosító a `src/data/podcasts.ts` `yt:` mezőjében van. A magyar auto-feliratot yt-dlp-vel töltsd le a `transcripts_raw/` mappába `epE{NN}_{id}.hu.srt` néven:
 `yt-dlp --write-auto-subs --sub-langs hu --sub-format srt --convert-subs srt --skip-download -o "epE{NN}_%(id)s.%(ext)s" <url>`
@@ -242,6 +285,8 @@ A legutóbbi szépített átirat az etalon — onnan veszem az aktuális konvenc
 **corrections.md elsőbbsége:** ha a `corrections.md` és az etalon ütközik egy konkrét helyesírásban vagy konvencióban, a `corrections.md` dönt — az etalon csak a minőség és a stílus referenciája.
 
 **Referencia-átiratok:** E95 és E96 referencia-fájlok (**E96 a minőségi etalon**) — ezeket sosem szerkesztem.
+
+**Összefoglalóvá rövidült régi átiratok — backlog (2026.09.25.):** a korábbi, tömeges „szépítés" több régi átiratot **összefoglalóvá rövidített**, ami ellentmond az átirat-szabályoknak (nem összefoglalunk, hanem az élőbeszédet tisztítjuk, minden elhangzott résszel), és helyenként el sem hangzott szöveget (pl. outrót) is hozzáadott. **Ellenőrzés:** a szépített `.md` és a nyers szöveg (`.txt` vagy SRT) szószámának aránya — egy rendes átiratnál 0,7–0,95; **0,4 alatt összefoglaló-gyanús**. A 2026.09.25-i felmérés szerint érintett: E01–E05, E07–E11, E14, E16, E17, E19–E22, E24, E26–E32, E34–E41, E43–E45, E48, E50–E59, E61, E65–E69, E71, R01–R07 (az E25 már újra elkészült). **Sorrend:** előbb a leginkább keresett/örökzöld adások (E01 „Mi az a Bitcoin?", E16 „Bitcoin bányászat"), majd a régi videók címjavításához kiválasztott adások, végül a többi — hetente néhány, az új epizódok mellett. A teljes újraírás a nyers feliratból történik, a meglévő összefoglalót nem használom alapnak.
 
 **„Hol tartunk":** a `podcasts.ts` epizód-id-jeit vetem össze a `public/transcripts_clean/` `.md` fájljaival; amelyik epizódhoz nincs szépített `.md`, az a backlog.
 
@@ -355,7 +400,7 @@ Egy epizódon belül ebben a sorrendben dolgozz:
 
 **Érthetően, a tényleges tartalommal — ne rövidítés-utalásokkal.** Árpi NEM olvasta az összes átiratot; a Claude viszont igen. Amikor bármit bemutatok, ami az átiratokból merít (válogatás-terv, szegmens-javaslat, kifogás-lista), a puszta adásszám-hivatkozás („E107 hobbifutó") és a szakzsargon (bookend, reframe, passzus-lock) számára átláthatatlan. Ezért: nevezd meg a beszélőt egyszerűen (Robi, Kata, Mordai…), és **mondd el, MI hangzik el — a tényleges idézettel vagy egyszerű leírással**, ne csak címkével utalj rá. A tömörség itt nem erény: inkább magyarázd végig, mint hogy kódolt hivatkozásokat adj.
 
-**Természetes, emberi magyar nyelven — AI-zsargon nélkül.** Úgy írok, ahogy egy tapasztalt magyar szerkesztő vagy újságíró fogalmaz: folyékonyan, közvetlenül, tisztán és olvasmányosan. Ez a válaszaimra ugyanúgy vonatkozik, mint a leadott szövegre (cím, bevezető, fejezetek, leírás, átirat). Tilos az angol AI-zsargon és a túlformalizált, gépszerű magyar fordulat — a „feladat végrehajtva", „a kérés alapján elvégeztem", „az alábbi lépéseket hajtottam végre" típusú mondatok, az agent- és tool-szótár, a folyamat gépies leltározása. Nem magyarázkodom túl és nem mentegetőzöm: elmondom, mi történt és mi az, amiről Árpinak döntenie kell. A hangnem közvetlen és emberi — ember írjon, ne „AI-agent".
+**Természetes, emberi magyar nyelven — AI-zsargon nélkül.** Úgy írok, ahogy egy tapasztalt magyar szerkesztő vagy újságíró fogalmaz: folyékonyan, közvetlenül, tisztán és olvasmányosan. Ez a válaszaimra ugyanúgy vonatkozik, mint a leadott szövegre (cím, bevezető, fejezetek, leírás, átirat). Tilos az angol AI-zsargon és a túlformalizált, gépszerű magyar fordulat — a „feladat végrehajtva", „a kérés alapján elvégeztem", „az alábbi lépéseket hajtottam végre" típusú mondatok, az agent- és tool-szótár, a folyamat gépies leltározása. Nem magyarázkodom túl és nem mentegetőzöm: elmondom, mi történt és mi az, amiről Árpinak döntenie kell. A hangnem közvetlen és emberi — ember írjon, ne „AI-agent". **Kerülendő szavak (Árpi kérése):** a „szög" (helyette: fő téma, megközelítés, irány) és a „jingle" (helyette: **intro** — Árpi így hívja a teaser utáni rövid zenei betétet).
 
 **Ne a döntésemet találgasd — kérdezz; amit tudsz, jegyezd fel.** A cél nem az, hogy kevesebbet kérdezz, hanem hogy egyre önállóbban azt csináld, amit együtt csinálunk. Ezért: (1) amit egyszer eldöntöttünk (preferencia, konvenció), azt **feljegyzem ide vagy a `corrections.md`-be**, hogy legközelebb ugyanazt ne kelljen megkérdezni; (2) amit még nem tudok és nem következik a dokumentumokból, azt **megkérdezem — nem próbálom kitalálni, hogyan döntenél**, és főleg nem hozok csendben egy feltételezett döntést (ez vezetett a cold-open téves rövidítéséhez). A rögzített tudást alkalmazom; az ismeretlen döntést kérdezem.
 

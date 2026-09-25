@@ -49,7 +49,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - Smith Andi → **Schmied Andi** (budapesti képzőművész-építész; a New York-i üres luxuslakásokról szóló projekt szerzője)
 - Argentari / Argentarinak → **Argentarius** (Alfred Lansburgh álneve; a pénzről szóló levelek/könyv szerzője)
 - Toti Robi / Totik Robi → **Tótik Robi** (az Argentarius-könyv magyar fordítója)
-- Lőrinc / Lóri / Lórinc → **l0rinc** (magyar Bitcoin-fejlesztő; a handle nullával írandó, kisbetűvel — mondat elején is; ragozva kötőjellel: **l0rinc-cel**, l0rinc-nek)
+- Lőrinc / Lóri / Lórinc / Lurins → **l0rinc** (magyar Bitcoin-fejlesztő; a handle nullával írandó, kisbetűvel — mondat elején is; ragozva kötőjellel: **l0rinc-cel**, l0rinc-nek)
 - Hermann → **Hermann Vivier** (a dél-afrikai **Bitcoin Ekasi** projekt vezetője; a gépi átirat „Bitcoinzi" alakját javítsd Bitcoin Ekasira)
 - Gláziranita / Glazer Anita → **Glaser Anita** (jogász; a blokkláncon való nyomozásról tart előadást) — ⚠️ **NEM azonos Katával**
 - Kata teljes neve **Dr. Stier Kata** (jogász; az ő előadása a „Szabadság ostroma"; a Bitcoin-tanácsadását is „Dr. Stier Kata" néven indítja)
@@ -64,6 +64,8 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - Fiat Jeff / Fiatjaf → **fiatjaf** (a Nostr megalkotója; kisbetűvel, mondat elején is)
 - Jonathan Korgen → **Jonathan Corgan** (a FIPS főfejlesztője; cypherpunk generáció, a jmcorgan GitHub-fiók mögött)
 - Derek Rossék → **Derek Ross** (Nostr-evangélista; az Armadát a **Soapbox** csapat fejleszti — a gépi átirat „SBOX Team"-et hall)
+- Com / Chom → **David Chaum** (kriptográfus, az ecash feltalálója a 80-as években; a gépi átirat „Chamian Cash" alakja → **Chaumian cash**)
+- **calle** (a Cashu megalkotója és főfejlesztője; ragozva: Callénak)
 
 ## Márka/hely javítások
 
@@ -122,6 +124,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - Per a Bitcoin notes → **Bitcoin Knots** · lip Bitcoin → **libbitcoin** · ABC Core → **Bitcoin ABC**
 - CGNS → **CJDNS** · i2P → **I2P** (Invisible Internet Project)
 - Roboss → **RoboSats** · Albi → **Alby**
+- **A Kis Bitcoin könyv** magyar fordítói: **Kovács Andrea** (BitcoinBázis), **Bánfi Balázs Miklós** és **Optout** (a gépi átirat „htout"-nak hallja)
 - Jeff Boost: *Rise of Tomorrow* → **Jeff Booth: *The Price of Tomorrow*** — magyarul **A holnap ára** (Scolar Kiadó)
 - Bitcoin CA Black Fish → **Bitcoin Kebab** (magyar podcast; a HUSZONEGY válogatás szekciójában szerepel)
 - hellónak a kártelemzése → **Yellow-nak a chartelemzése** (poénos videó)
@@ -149,6 +152,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 
 ## Szakkifejezések
 
+- fehér könyv → **white paper** vagy **Bitcoin tanulmány** (Satoshi 2008-as tanulmánya; magyarul nem „fehér könyvnek" hívjuk — a felszíni szövegben sem)
 - FAD → **FUD**
 - FOMT → **FOMO**
 - LTF → **ETF**
@@ -179,7 +183,10 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - „57-es / 57 hetes mozgóátlag" → **ötven hetes mozgóátlag** (50 WMA; a bull/bear market elválasztására használt heti mozgóátlag). A gép az „ötven hetes" kimondott alakot hallja „57-es"-nek.
 - „207-es / 207 hetes mozgóátlag" → **200 hetes mozgóátlag** (200 WMA — a Bitcoin négyéves ciklus-indikátora). A *szó* rendszerint helyes; a gépi átirat a **számot** hallja gyakran 207-nek 200 helyett — ezt egységesítsd **200**-ra.
 - **MLS** (messaging layer security; előremenő és post-compromise titkosítás csoportos üzenetküldésre)
-- **Cashu** (privát kibocsátású, bitcoinhoz kötött token; a gépi átirat „Kesu/casu" alakját javítsd)
+- **Cashu** (privát kibocsátású, bitcoinhoz kötött token; a gépi átirat „Kesu/casu/cas/cashw" alakját javítsd; ragozva: Cashut, Cashuval, Cashunál; a kibocsátó neve **Cashu mint**, különírva)
+- ikes / iks / ikash / ICES → **ecash** (a Chaum-féle digitális készpénz gyűjtőneve; kisbetűvel, egy szóban; ragozva: ecasht, ecashnél, **ecash-sel**)
+- **Fedimint** (szövetségi, több kibocsátós ecash-protokoll; fedimint.org)
+- bemutatásra szóló → **bemutatóra szóló** eszköz (bearer asset; a pontos pénzügyi szakszó)
 - **Noise Protocol** (a BitChat titkosítási rétege)
 - **Flotilla** (Nostr-kliens csoportokra tervezve)
 - **overlay network**, **mesh hálózat**, **peer-to-peer** — az angol alak marad, nem fordítjuk
@@ -234,6 +241,8 @@ Ezeket linkeld be markdown formátumban, ahol a szövegben előfordulnak. Ha nem
 - **BTC++ Berlin**: [btcplusplus.dev/berlin26](https://btcplusplus.dev/berlin26)
 - **BudaBit**: [budabit.club](https://budabit.club)
 - **FIPS**: [fips.network](https://fips.network)
+- **Cashu**: [cashu.space](https://cashu.space) · **Fedimint**: [fedimint.org](https://fedimint.org)
+- **BIP-39 szólista**: [github.com/bitcoin/bips/…/english.txt](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt)
 - **tollaskígyó tudásbázis**: [hortopato.cc/wiki](https://hortopato.cc/wiki/)
 - **Northapp**: [northapp.hu](https://northapp.hu)
 - **Cure53**: [cure53.de](https://cure53.de)
