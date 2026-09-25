@@ -2,12 +2,76 @@
 
 export const podcasts = [
     {
+        name: "Lehet a bitcoin olyan privát, mint a készpénz?",
+        id: "E117",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Készpénz, csak digitálisan (Intro)"
+        },
+        {
+                time: "02:07",
+                label: "Pénz bankszámla nélkül: a 80-as évek ötlete"
+        },
+        {
+                time: "07:09",
+                label: "Elbukott, mert túl korán jött"
+        },
+        {
+                time: "11:22",
+                label: "Programozható pénz, Nostr-zapekkel"
+        },
+        {
+                time: "15:21",
+                label: "Félig bank, félig saját zseb"
+        },
+        {
+                time: "20:58",
+                label: "Gránittömb, katedrális, zsebpénz"
+        },
+        {
+                time: "23:04",
+                label: "Lejáró kredit helyett másodpercdíj"
+        },
+        {
+                time: "27:03",
+                label: "Nem lehet minden egyszerre"
+        },
+        {
+                time: "31:42",
+                label: "A Lightning privátabb a Monerónál"
+        },
+        {
+                time: "36:06",
+                label: "Szerveridő percre, Cashuval fizetve"
+        },
+        {
+                time: "40:57",
+                label: "Magyarok, akik a Bitcoint építik"
+        },
+        {
+                time: "44:06",
+                label: "Megtört a lefelé tartó trend?"
+        },
+        {
+                time: "48:09",
+                label: "Mennyit tarts magadnál?"
+        }
+        ],
+        img: "/pics/e117.jpg",
+        date: "2026.09.25.",
+        members: ["Five", "Feri"],
+        topic: "Készpénz, csak digitálisan (Intro) - Pénz bankszámla nélkül: a 80-as évek ötlete - Elbukott, mert túl korán jött - Programozható pénz, Nostr-zapekkel - Félig bank, félig saját zseb - Gránittömb, katedrális, zsebpénz - Lejáró kredit helyett másodpercdíj - Nem lehet minden egyszerre - A Lightning privátabb a Monerónál - Szerveridő percre, Cashuval fizetve - Magyarok, akik a Bitcoint építik - Megtört a lefelé tartó trend? - Mennyit tarts magadnál?",
+        yt: "https://youtu.be/qBNdwKb_4aA",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
         name: "Megépült egy új internet, amihez nem kell engedély",
         id: "E116",
         chapters: [
         {
                 time: "00:00",
-                label: "Egy új internetet hoztam (Intro)"
+                label: "Egy új internetet hoztam nektek (Intro)"
         },
         {
                 time: "02:33",
@@ -31,7 +95,7 @@ export const podcasts = [
         },
         {
                 time: "24:48",
-                label: "A platformok lenyelik, a Nostr-on nem"
+                label: "A platformok lenyelik, a Nostr nem"
         },
         {
                 time: "27:16",
@@ -61,9 +125,9 @@ export const podcasts = [
         img: "/pics/e116.jpg",
         date: "2026.09.18.",
         members: ["HenkyPenky", "Lez", "Feri"],
-        topic: "Egy új internetet hoztam (Intro) - Kiürült a Nostr, jöttek a Monerósok - A Monero privát, de pénz-e? - A cím, amit nem vehetnek el tőled - A Telegram egy napra eltűnt - BitChat: üzenet Bluetooth-on, net nélkül - A platformok lenyelik, a Nostr-on nem - Nostr meetup, Armada a Discord helyett - A megszokás erősebb a technológiánál - Saját AI a pincében - Kártyát nem, bitcoint igen - Megfogtuk az alját 60 ezernél? - A szabadság nem cél, hanem út",
+        topic: "Egy új internetet hoztam nektek (Intro) - Kiürült a Nostr, jöttek a Monerósok - A Monero privát, de pénz-e? - A cím, amit nem vehetnek el tőled - A Telegram egy napra eltűnt - BitChat: üzenet Bluetooth-on, net nélkül - A platformok lenyelik, a Nostr nem - Nostr meetup, Armada a Discord helyett - A megszokás erősebb a technológiánál - Saját AI a pincében - Kártyát nem, bitcoint igen - Megfogtuk az alját 60 ezernél? - A szabadság nem cél, hanem út",
         yt: "https://youtu.be/gzVeNGFKpXs",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/eZh2qqSmTnoNCWIRJC5g"
     },
     {
         name: "Nem a Bitcoint törték fel – mégis eltűnt 4000 bitcoin",
