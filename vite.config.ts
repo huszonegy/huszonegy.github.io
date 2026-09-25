@@ -1,6 +1,6 @@
 import { fileURLToPath, URL } from 'node:url'
 import { execSync } from 'node:child_process'
-import { existsSync } from 'node:fs'
+import { existsSync, readFileSync } from 'node:fs'
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import { podcasts, slugify } from './src/data/podcasts'
@@ -135,9 +135,14 @@ export default defineConfig({
     onFinished() {
       const lastmodMap = buildLastmodMap()
 
+      // A router átirányított (régi) útvonalai ne kerüljenek a sitemapbe — ott csak a kanonikus URL-ek állhatnak.
+      // A plugin záró perjel nélkül hasonlít (pl. '/podcast/regi-slug'), ezért a perjelet levágjuk.
+      const redirectPaths = [...readFileSync('src/router/index.ts', 'utf-8')
+        .matchAll(/\{\s*path:\s*'([^']+)',\s*redirect:/g)].map(m => m[1].replace(/\/$/, ''))
+
       generateSitemap({
         hostname: 'https://huszonegy.world',
-        exclude: ['/404/', '/books/sziller.eu/_BitcoinrolAlaposan'],
+        exclude: ['/404/', '/books/sziller.eu/_BitcoinrolAlaposan', ...redirectPaths],
         // Útvonal-szintű lastmod dátumok — csak a ténylegesen módosított oldalak
         // kapnak friss dátumot. Nem leképezett útvonalak lastmod nélkül maradnak.
         lastmod: lastmodMap,

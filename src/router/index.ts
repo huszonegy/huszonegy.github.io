@@ -167,6 +167,14 @@ export const routes: RouteRecordRaw[] = [
   { path: '/forum/', redirect: '/kozosseg/' },
   // E105 régi slugja (címváltozás előtt) → új URL, hogy a megosztott linkek ne 404-eljenek
   { path: '/podcast/3-ok-amiert-a-bitcoin-veri-az-etikus-jegybanki-penzt/', redirect: '/podcast/lejaratos-penz-vagy-szabad-penz-etikus-jegybank-kontra-bitcoin/' },
+  // Régi, elvont címek újracímzése (2026.09.25.) → a régi URL-ek átirányítva az újakra
+  { path: '/podcast/bizalom-problema/', redirect: '/podcast/miert-nem-tud-ma-senki-felretenni/' }, // E13
+  { path: '/podcast/legalitas-es-illegalitas-hataran/', redirect: '/podcast/mit-lat-rolad-a-hatosag-ha-bitcoint-hasznalsz/' }, // E14
+  { path: '/podcast/bitcoin-banyaszat/', redirect: '/podcast/bitcoin-banyaszat-tenyleg-pazarlas-a-sok-aram/' }, // E16
+  { path: '/podcast/magas-es-alacsony-idopreferencia/', redirect: '/podcast/miert-jar-sarkanyjelmezben-egy-bitcoiner/' }, // E18
+  { path: '/podcast/valodi-ertek-valodi-novekedes-21-oktato-cikk/', redirect: '/podcast/igy-csaljak-ki-a-penzed-a-bitcoin-neveben/' }, // E27
+  { path: '/podcast/egy-igaz-penzugyi-rendszer-fontossaga/', redirect: '/podcast/milyen-volt-az-elso-magyar-bitcoin-konferencia/' }, // E36
+  { path: '/podcast/anonimitas-alapjai-a-bitcoin-vilagaban/', redirect: '/podcast/a-foberlod-is-latja-mennyi-bitcoinod-van/' }, // E41
   {
     path: '/404/',
     name: 'not-found',
