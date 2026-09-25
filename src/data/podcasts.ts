@@ -10,51 +10,51 @@ export const podcasts = [
                 label: "Készpénz, csak digitálisan (Intro)"
         },
         {
-                time: "02:07",
+                time: "01:49",
                 label: "Pénz bankszámla nélkül: a 80-as évek ötlete"
         },
         {
-                time: "07:09",
+                time: "06:51",
                 label: "Elbukott, mert túl korán jött"
         },
         {
-                time: "11:22",
+                time: "11:04",
                 label: "Programozható pénz, Nostr-zapekkel"
         },
         {
-                time: "15:21",
+                time: "15:03",
                 label: "Félig bank, félig saját zseb"
         },
         {
-                time: "20:58",
+                time: "20:40",
                 label: "Gránittömb, katedrális, zsebpénz"
         },
         {
-                time: "23:04",
+                time: "22:46",
                 label: "Lejáró kredit helyett másodpercdíj"
         },
         {
-                time: "27:03",
+                time: "26:45",
                 label: "Nem lehet minden egyszerre"
         },
         {
-                time: "31:42",
+                time: "31:24",
                 label: "A Lightning privátabb a Monerónál"
         },
         {
-                time: "36:06",
+                time: "35:48",
                 label: "Szerveridő percre, Cashuval fizetve"
         },
         {
-                time: "40:57",
+                time: "40:39",
                 label: "Magyarok, akik a Bitcoint építik"
         },
         {
-                time: "44:06",
+                time: "43:48",
                 label: "Megtört a lefelé tartó trend?"
         },
         {
-                time: "48:09",
+                time: "47:51",
                 label: "Mennyit tarts magadnál?"
         }
         ],
@@ -62,7 +62,7 @@ export const podcasts = [
         date: "2026.09.25.",
         members: ["Five", "Feri"],
         topic: "Készpénz, csak digitálisan (Intro) - Pénz bankszámla nélkül: a 80-as évek ötlete - Elbukott, mert túl korán jött - Programozható pénz, Nostr-zapekkel - Félig bank, félig saját zseb - Gránittömb, katedrális, zsebpénz - Lejáró kredit helyett másodpercdíj - Nem lehet minden egyszerre - A Lightning privátabb a Monerónál - Szerveridő percre, Cashuval fizetve - Magyarok, akik a Bitcoint építik - Megtört a lefelé tartó trend? - Mennyit tarts magadnál?",
-        yt: "https://youtu.be/qBNdwKb_4aA",
+        yt: "https://youtu.be/kffniD2o5eo",
         fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
     },
     {
@@ -3726,6 +3726,36 @@ export const podcasts = [
     {
         name: "Bitcoin konferencia Hajdúszoboszlón",
         id: "E56",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Előzetes Hajdúszoboszlóról (Intro)"
+        },
+        {
+                time: "04:10",
+                label: "Hogyan született a konferencia?"
+        },
+        {
+                time: "07:20",
+                label: "Madeirán kezdődött minden"
+        },
+        {
+                time: "10:51",
+                label: "Négyórás előadásból konferencia"
+        },
+        {
+                time: "13:55",
+                label: "Ezen a hegyen érdemes meghalni"
+        },
+        {
+                time: "19:35",
+                label: "Bitcoin, a remény technológiája"
+        },
+        {
+                time: "25:40",
+                label: "A 70 éves tőzsdés és a 14 éves srác"
+        }
+        ],
         img: "/pics/mi-az-a-bitcoin-e56.jpg",
         date: "2025.03.21.",
         members: ["Feri", "Anti"],
@@ -4410,7 +4440,7 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/ICBihixPCBUuvbeutedl"
     },
     {
-        name: "Anonimitás alapjai a Bitcoin világában",
+        name: "A főbérlőd is látja, mennyi bitcoinod van?",
         id: "E41",
         chapters: [
         {
@@ -4654,7 +4684,7 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/XZyEnaR2CasSBCVXtlLR"
     },
     {
-        name: "Egy igaz pénzügyi rendszer fontossága",
+        name: "Milyen volt az első magyar Bitcoin konferencia?",
         id: "E36",
         chapters: [
         {
@@ -5134,7 +5164,7 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/XsffVVHFUIzlVeQ1Yl9l"
     },
     {
-        name: "Valódi érték, valódi növekedés, 21 oktató cikk",
+        name: "Így csalják ki a pénzed a bitcoin nevében",
         id: "E27",
         chapters: [
         {
@@ -5184,6 +5214,64 @@ export const podcasts = [
     {
         name: "Bitcoin a pénzek királya",
         id: "E26",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Fél év és a legkeményebb pénz (Intro)"
+        },
+        {
+                time: "03:09",
+                label: "A három kismalac és a kemény pénz"
+        },
+        {
+                time: "05:46",
+                label: "AI, robotok és a pénznyomtatás"
+        },
+        {
+                time: "09:25",
+                label: "A japán carry trade bedőlése"
+        },
+        {
+                time: "14:35",
+                label: "Salátakezűek és a 48 ezres alj"
+        },
+        {
+                time: "19:13",
+                label: "A BlackRock nem adott el"
+        },
+        {
+                time: "22:20",
+                label: "ETF: trójai faló?"
+        },
+        {
+                time: "27:32",
+                label: "Tízből hét üzletember érti"
+        },
+        {
+                time: "32:06",
+                label: "Világpénz 8 milliárd embernek"
+        },
+        {
+                time: "38:21",
+                label: "Száz évig, fenntartási díj nélkül"
+        },
+        {
+                time: "42:29",
+                label: "Saylor az egyetemen: 30-ból 1 értette"
+        },
+        {
+                time: "48:42",
+                label: "Bitcoin a cégek mérlegében"
+        },
+        {
+                time: "52:53",
+                label: "Ez még el sem kezdődött"
+        },
+        {
+                time: "58:30",
+                label: "Az első magyar Bitcoin konferencia"
+        }
+        ],
         img: "/pics/mi-az-a-bitcoin-s01e26.jpg",
         date: "2024.08.16.",
         members: ["Feri", "Anti"],
@@ -5194,6 +5282,44 @@ export const podcasts = [
     {
         name: "Bitcoin: Egy peer-to-peer elektronikus készpénzrendszer",
         id: "E25",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Olvassuk el együtt a white papert! (Intro)"
+        },
+        {
+                time: "02:37",
+                label: "Pénz bank nélkül: kivonat és bevezetés"
+        },
+        {
+                time: "07:13",
+                label: "Érmék, időbélyegek, dupla költés"
+        },
+        {
+                time: "11:54",
+                label: "Proof of work: egy CPU, egy szavazat"
+        },
+        {
+                time: "15:02",
+                label: "A hálózat és az ösztönzők"
+        },
+        {
+                time: "19:12",
+                label: "Tárhely, fizetés node nélkül, adatvédelem"
+        },
+        {
+                time: "25:19",
+                label: "Miért veszít a támadó?"
+        },
+        {
+                time: "30:59",
+                label: "Bizalom nélküli pénz: a konklúzió"
+        },
+        {
+                time: "35:44",
+                label: "Mit olvass a white paper után?"
+        }
+        ],
         img: "/pics/mi-az-a-bitcoin-s01e25.jpg",
         date: "2024.08.09.",
         members: ["Anti"],
@@ -5526,7 +5652,7 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/dg6FBzmlY67FrS3HyWmo"
     },
     {
-        name: "Magas és alacsony időpreferencia",
+        name: "Miért jár sárkányjelmezben egy bitcoiner?",
         id: "E18",
         chapters: [
         {
@@ -5564,6 +5690,68 @@ export const podcasts = [
     {
         name: "Prágai Bitcoin konferencia",
         id: "E17",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Élőben a BTC Prague-ról (Intro)"
+        },
+        {
+                time: "03:15",
+                label: "Új tárcák, Adam Back a színpadon"
+        },
+        {
+                time: "06:18",
+                label: "Zsebpénz Lightningon a gyerekeknek"
+        },
+        {
+                time: "11:29",
+                label: "Miért érdemes meetupra járni?"
+        },
+        {
+                time: "16:05",
+                label: "Bitcoin Balkán: egy közösség, sok nemzet"
+        },
+        {
+                time: "18:43",
+                label: "Mi van a bitcoin mögött?"
+        },
+        {
+                time: "22:50",
+                label: "A bankrendszer cinkossága"
+        },
+        {
+                time: "26:26",
+                label: "Tulajdonod van, vagy csak pénzed?"
+        },
+        {
+                time: "30:02",
+                label: "Heti 3000 forint tíz évig"
+        },
+        {
+                time: "32:36",
+                label: "Olcsó vásárlás: Revolut és Strike"
+        },
+        {
+                time: "37:38",
+                label: "Így fogad el bitcoint egy szálloda"
+        },
+        {
+                time: "43:49",
+                label: "Miért ilyen drága a lakás?"
+        },
+        {
+                time: "47:28",
+                label: "Keresd a hibát, nem fogod megtalálni"
+        },
+        {
+                time: "51:35",
+                label: "Új kapcsolatok, bitcoinos állások"
+        },
+        {
+                time: "58:18",
+                label: "Saylorral szembejössz a folyosón"
+        }
+        ],
         img: "/pics/mi-az-a-bitcoin-s01e17.jpg",
         date: "2024.06.14.",
         members: ["Feri", "Anti", "Árpi"],
@@ -5572,7 +5760,7 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/NWAWgPc8y1kZ1v0EsJOM"
     },
     {
-        name: "Bitcoin bányászat",
+        name: "Bitcoin bányászat: tényleg pazarlás a sok áram?",
         id: "E16",
         chapters: [
         {
@@ -5708,7 +5896,7 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/RPwf39QU3DbGprhAZ5WJ"
     },
     {
-        name: "Legalitás és illegalitás határán",
+        name: "Mit lát rólad a hatóság, ha bitcoint használsz?",
         id: "E14",
         chapters: [
         {
@@ -5768,7 +5956,7 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/9hv1z3HXvXb7prdJJ9I5"
     },
     {
-        name: "Bizalom probléma",
+        name: "Miért nem tud ma senki félretenni?",
         id: "E13",
         chapters: [
         {
@@ -6358,6 +6546,60 @@ export const podcasts = [
     {
         name: "Mi az a Bitcoin?",
         id: "E01",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Kinek mit jelent a Bitcoin? (Intro)"
+        },
+        {
+                time: "06:15",
+                label: "Nem a meggazdagodás a lényeg"
+        },
+        {
+                time: "13:02",
+                label: "Mi van, ha a bitcoin bezuhan?"
+        },
+        {
+                time: "18:23",
+                label: "Csak Bitcoin, tőzsdetippek nélkül"
+        },
+        {
+                time: "22:02",
+                label: "Alázat kell, nem ego"
+        },
+        {
+                time: "26:42",
+                label: "Kell-e mindenkit meggyőzni?"
+        },
+        {
+                time: "30:16",
+                label: "30-40 könyvet osztottam szét"
+        },
+        {
+                time: "37:31",
+                label: "Bitcoinnal kevesebbet költesz"
+        },
+        {
+                time: "40:04",
+                label: "Eltűnt a forint harmada"
+        },
+        {
+                time: "43:14",
+                label: "Tévé helyett gondolkodás"
+        },
+        {
+                time: "46:48",
+                label: "1971 óta nincs fedezet"
+        },
+        {
+                time: "52:40",
+                label: "Bitcoin, a Noé bárkája"
+        },
+        {
+                time: "55:12",
+                label: "Telegram, honlap, meetupok"
+        }
+        ],
         img: "/pics/mi-az-a-bitcoin-s01e01.jpg",
         date: "2024.02.23.",
         members: ["Anti", "Optout", "Árpi"],

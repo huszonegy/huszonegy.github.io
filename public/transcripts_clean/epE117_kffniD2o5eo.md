@@ -1,8 +1,10 @@
-– A Cashunál annyira olcsó egy tranzakció, annyira könnyű egy tranzakció, hogy a gyakorlatban tudnék minden egyes lekéréssel hozzácsatolni egy kis pénzt, amit automatikusan lenyel a szolgáltatás, és mondjuk másodpercenként fizetni egy Netflixért. Képzeljétek el egy ilyen világot, ahol nem 500 millióféle subscriptionöm, ilyen feliratkozásom van, hanem mikrotranzakciók, valódi mikrotranzakciók!
-
-– Ha egy kicsit így a motorháztető alá nézel, akkor óriási. Tehát hogy a Visának, a Mastercardnak és a többieknek mekkora hálózati hatása van. Ezt nagyon nehéz megtörni. Ugye azt is tudjuk, hogy a bitcoinnál viszont nem kérdeztek meg senkit, legalábbis Satoshi Nakamoto nem kérdezte meg, hogy lehet-e indítani a bitcoint vagy nem, hanem egyszerűen elindította.
-
 – A Lightning egyébként privátabb a Monerónál, hogyha azt nézzük, főleg a küldő a Lightningban. És az ecash meg nagyon-nagyon privát.
+
+– Gondoljatok bele abba, hogy a bank, mivel téged nem ismer, ezért vagy mindenki alól kihúzza a szőnyeget, vagy senki alól nem húzza ki a szőnyeget.
+
+– Hogyha te elveszted azokat a tokeneket, természetesen olyan, mintha elvesztenéd a cetlidet az aranyhoz.
+
+– Másodpercenként fizetni egy Netflixért. Képzeljétek el egy ilyen világot, ahol nem 500 millióféle subscriptionöm, ilyen feliratkozásom van, hanem mikrotranzakciók, valódi mikrotranzakciók!
 
 Sziasztok, kedves hallgatók! Ez a HUSZONEGY podcast 117. adása. Én Kovács Ferenc vagyok, bitcoin vállalkozó mérnök, és a vendégünk most Five, aki a Bitcoin világában a technikai oldalon is teljesen részletesen elmerül. Szeretnénk megkérdezni, Five, hogy mivel készültél nekünk erre a mai adásra, miről lesz szó?
 
