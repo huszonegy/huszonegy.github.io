@@ -175,6 +175,9 @@ export const routes: RouteRecordRaw[] = [
   { path: '/podcast/valodi-ertek-valodi-novekedes-21-oktato-cikk/', redirect: '/podcast/igy-csaljak-ki-a-penzed-a-bitcoin-neveben/' }, // E27
   { path: '/podcast/egy-igaz-penzugyi-rendszer-fontossaga/', redirect: '/podcast/milyen-volt-az-elso-magyar-bitcoin-konferencia/' }, // E36
   { path: '/podcast/anonimitas-alapjai-a-bitcoin-vilagaban/', redirect: '/podcast/a-foberlod-is-latja-mennyi-bitcoinod-van/' }, // E41
+  // A „mi az a bitcoin" kulcsszó leszedése a nem ezt magyarázó adásokról (2026.09.25.)
+  { path: '/podcast/mi-az-a-bitcoin/', redirect: '/podcast/nem-a-meggazdagodas-a-lenyeg-miert-lettunk-bitcoinerek/' }, // E01
+  { path: '/podcast/bitcoin-banyaszat-csomopontok-blokk-jutalom-felezes/', redirect: '/podcast/hogyan-mukodik-a-bitcoin-miert-csak-21-millio-van-belole/' }, // E02
   {
     path: '/404/',
     name: 'not-found',
