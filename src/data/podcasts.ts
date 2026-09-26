@@ -6534,7 +6534,7 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/0lMbuTipmKkGflGnWtyn"
     },
     {
-        name: "Bitcoin bányászat, csomópontok, blokk jutalom, felezés",
+        name: "Hogyan működik a Bitcoin? Miért csak 21 millió van belőle?",
         id: "E02",
         img: "/pics/mi-az-a-bitcoin-s01e02.jpg",
         date: "2024.02.29.",
@@ -6544,7 +6544,7 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/CLQiTVsh1Wjb0qnoaryN"
     },
     {
-        name: "Mi az a Bitcoin?",
+        name: "Nem a meggazdagodás a lényeg: miért lettünk bitcoinerek?",
         id: "E01",
         chapters: [
         {
