@@ -517,7 +517,7 @@ export const presentations = [
         details: "A Bitcoin negyedik felezését sokféleképp ünnepelték bitcoinerek milliói világszerte. Kovács Ferenc, a HUSZONEGY magyar bitcoiner csoport lelkes tagja ezen alkalomból egy ismeretterjesztő rendezvényt szervezett az általa épített és üzemeltetett miskolci Hotel Aurora termébe, és négy részre tagolva tartott ingyenes előadást a Bitcoinról.",
         parts: [
             {
-                name: "Bitcoinról mindenkinek - 1. rész",
+                name: "Mi az a Bitcoin? Bitcoinról mindenkinek – 1. rész",
                 img: "/pics/bitcoinrol-mindenkinek-1.jpg",
                 date: "2024.04.20.",
                 members: ["Feri"],
@@ -526,7 +526,7 @@ export const presentations = [
                 fountain: "https://fountain.fm/episode/Mo3xMcvNVOv8TuKFnBxe"
             },
             {
-                name: "Bitcoinról mindenkinek - 2. rész",
+                name: "Mi az a Bitcoin? Bitcoinról mindenkinek – 2. rész",
                 img: "/pics/bitcoinrol-mindenkinek-2.jpg",
                 date: "2024.04.20.",
                 members: ["Feri"],
@@ -535,7 +535,7 @@ export const presentations = [
                 fountain: "https://fountain.fm/episode/T4P5PM3NSsAVXrXgKrty"
             },
             {
-                name: "Bitcoinról mindenkinek - 3. rész",
+                name: "Mi az a Bitcoin? Bitcoinról mindenkinek – 3. rész",
                 img: "/pics/bitcoinrol-mindenkinek-3.jpg",
                 date: "2024.04.20.",
                 members: ["Feri"],
@@ -544,7 +544,7 @@ export const presentations = [
                 fountain: "https://fountain.fm/episode/lKfUKeyEGG33nkdcr5dP"
             },
             {
-                name: "Bitcoinról mindenkinek - 4. rész",
+                name: "Mi az a Bitcoin? Bitcoinról mindenkinek – 4. rész",
                 img: "/pics/bitcoinrol-mindenkinek-4.jpg",
                 date: "2024.04.20.",
                 members: ["Feri"],
