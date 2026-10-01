@@ -2,6 +2,74 @@
 
 export const podcasts = [
     {
+        name: "Kiszedhető a 12 szó a hardvertárcádból? Így védd meg!",
+        id: "E118",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Kiszedhető a 12 szó? (Intro)"
+        },
+        {
+                time: "01:36",
+                label: "Bitcoin könyv még az AI előtt"
+        },
+        {
+                time: "04:40",
+                label: "Miért nem beszélünk altcoinokról?"
+        },
+        {
+                time: "07:50",
+                label: "COLDCARD: ott volt az orrunk előtt"
+        },
+        {
+                time: "10:46",
+                label: "Megbízhatsz még a gyártóban?"
+        },
+        {
+                time: "13:47",
+                label: "Lézerrel a chip ellen"
+        },
+        {
+                time: "16:21",
+                label: "Passphrase: a rejtett tárca"
+        },
+        {
+                time: "18:31",
+                label: "A multisig nem a nagymamának való"
+        },
+        {
+                time: "22:04",
+                label: "Az a legjobb tárca, ami kéznél van"
+        },
+        {
+                time: "24:03",
+                label: "Nem mindenkihez ért el a riasztás"
+        },
+        {
+                time: "28:13",
+                label: "BIP-110: nem a node-od dönt"
+        },
+        {
+                time: "32:39",
+                label: "Hősök, akik elbuknak"
+        },
+        {
+                time: "37:21",
+                label: "Bízz, de ellenőrizz!"
+        },
+        {
+                time: "40:14",
+                label: "Megvolt már az alja?"
+        }
+        ],
+        img: "/pics/e118.jpg",
+        date: "2026.10.02.",
+        members: ["Karo", "Feri"],
+        topic: "Kiszedhető a 12 szó? (Intro) - Bitcoin könyv még az AI előtt - Miért nem beszélünk altcoinokról? - COLDCARD: ott volt az orrunk előtt - Megbízhatsz még a gyártóban? - Lézerrel a chip ellen - Passphrase: a rejtett tárca - A multisig nem a nagymamának való - Az a legjobb tárca, ami kéznél van - Nem mindenkihez ért el a riasztás - BIP-110: nem a node-od dönt - Hősök, akik elbuknak - Bízz, de ellenőrizz! - Megvolt már az alja?",
+        yt: "https://youtu.be/DnPOFJ4Od6Q",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
         name: "Lehet a bitcoin olyan privát, mint a készpénz?",
         id: "E117",
         chapters: [
@@ -63,7 +131,7 @@ export const podcasts = [
         members: ["Five", "Feri"],
         topic: "Készpénz, csak digitálisan (Intro) - Pénz bankszámla nélkül: a 80-as évek ötlete - Elbukott, mert túl korán jött - Programozható pénz, Nostr-zapekkel - Félig bank, félig saját zseb - Gránittömb, katedrális, zsebpénz - Lejáró kredit helyett másodpercdíj - Nem lehet minden egyszerre - A Lightning privátabb a Monerónál - Szerveridő percre, Cashuval fizetve - Magyarok, akik a Bitcoint építik - Megtört a lefelé tartó trend? - Mennyit tarts magadnál?",
         yt: "https://youtu.be/kffniD2o5eo",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/rVB6UpvYUfoHoz7438sn"
     },
     {
         name: "Megépült egy új internet, amihez nem kell engedély",
