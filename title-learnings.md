@@ -44,6 +44,7 @@ A véglegesített cím klikk-ereje és curiosity-gap pontja a választáskor, ho
 |---|---|---|---|---|
 | E112 | A grafikon, ami sosem hazudott — Hol a Bitcoin valódi alja? | 5 | – | fan + új tech-érdeklődő |
 | E117 | Lehet a bitcoin olyan privát, mint a készpénz? | 5 | 3 | új tech-érdeklődő |
+| E118 | Kiszedhető a 12 szó a hardvertárcádból? Így védd meg! | 4 | 3 | új tech-érdeklődő + fan |
 
 ## Bejegyzések
 

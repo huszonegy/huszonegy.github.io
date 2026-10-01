@@ -47,4 +47,4 @@ Minden epizódot **14 nappal a megjelenése után** lekérdezek, és egy sorban 
 | Epizód | Mit próbáltunk ki | Esedékes | Új nézők 1p / 2p / 5p / 10p | Feliratkozók 1p / 2p / 5p / 10p | Tanulság |
 |---|---|---|---|---|---|
 | E117 | Teljes összhang: cím + indexkép + teaser + a leírás első mondata ugyanazt ígéri (újravágott teaser). Az intro utáni bevezető **nem** rövidült (~70 mp). | 2026.10.09. | esedékes | | |
-| E118 | Az A) fázis szerinti vágás: az intro és az első érdemi mondat között legfeljebb 20–30 mp. | megjelenés + 14 nap | esedékes | | |
+| E118 | Az A) fázis szerinti vágás: az intro és az első érdemi mondat között legfeljebb 20–30 mp (a köszöntés után Karo 1:36-kor már a könyvéről beszél). Teaser = a cím kérdése (kiszedhető-e a seed). Indexkép: vendég-karikatúra helyett a vendég sárkányjelmeze. | 2026.10.16. | esedékes | | |
