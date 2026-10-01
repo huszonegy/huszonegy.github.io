@@ -10,6 +10,7 @@ Futtatás a külön venv-ből:
   ~/.local/share/huszonegy-yt/venv/bin/python scripts/yt_meta.py get <video_id>
   ~/.local/share/huszonegy-yt/venv/bin/python scripts/yt_meta.py set <video_id> [--title T] [--desc-file F] [--apply]
   ~/.local/share/huszonegy-yt/venv/bin/python scripts/yt_meta.py retention E117 [E116 ...]
+  ~/.local/share/huszonegy-yt/venv/bin/python scripts/yt_meta.py thumb <video_id> <kep.jpg>
 
 A `set` alapból csak megmutatja a különbséget; élesíteni csak `--apply`-jal lehet.
 """
@@ -122,6 +123,17 @@ def cmd_set(args):
     print("\nFrissítve.")
 
 
+def cmd_thumb(args):
+    """Indexkép feltöltése (1280×720 JPEG, 2 MB alatt)."""
+    from googleapiclient.http import MediaFileUpload
+    yt = youtube()
+    fetch(yt, args.video_id)
+    r = yt.thumbnails().set(videoId=args.video_id,
+                            media_body=MediaFileUpload(args.file, mimetype="image/jpeg")).execute()
+    best = max(r["items"][0].values(), key=lambda t: t.get("width", 0))
+    print(f"Indexkép feltöltve: {best['url']} ({best.get('width')}×{best.get('height')})")
+
+
 PODCASTS_TS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "src", "data", "podcasts.ts")
 RETENTION_POINTS_MIN = (1, 2, 5, 10)
 
@@ -187,6 +199,11 @@ def main():
     s.add_argument("--desc-file")
     s.add_argument("--apply", action="store_true")
     s.set_defaults(func=cmd_set)
+    t = sub.add_parser("thumb")
+    t.add_argument("video_id")
+    t.add_argument("file")
+    t.set_defaults(func=cmd_thumb)
+
     r = sub.add_parser("retention")
     r.add_argument("episodes", nargs="+", help="epizód-azonosító (pl. E117) vagy YouTube-videóazonosító")
     r.set_defaults(func=cmd_retention)
