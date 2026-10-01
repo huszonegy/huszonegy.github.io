@@ -66,6 +66,10 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - Derek Rossék → **Derek Ross** (Nostr-evangélista; az Armadát a **Soapbox** csapat fejleszti — a gépi átirat „SBOX Team"-et hall)
 - Com / Chom → **David Chaum** (kriptográfus, az ecash feltalálója a 80-as években; a gépi átirat „Chamian Cash" alakja → **Chaumian cash**)
 - **calle** (a Cashu megalkotója és főfejlesztője; ragozva: Callénak)
+- Karo teljes neve **Karo Zagorus** (visszatérő vendég; korábban a Wasabinál és a Keystone tárcagyártónál dolgozott; könyve: *Bitcoin and the Trust Problem*, kiadója a **Konsensus** — bitcoinwords.github.io/bitcoin-and-the-trust-problem). Nincs róla fotó, a sárkányjelmez a felismerhető megjelenése — indexképen ezt használjuk. Szándékosan játékos, szokatlan szóhasználata (pl. „retirementet végrehajtani a usereken") nem félrehallás, marad.
+- MBK / Emvéká → **NVK** (Rodolfo Novak, a Coinkite/COLDCARD alapítója)
+- Horonaut / Horunotó → **Hodlonaut** (norvég bitcoiner; a Craig Wright elleni oslói per szereplője)
+- Kobo → **Cobo** (kínai tárcagyártó, ebből vált ki a Keystone)
 
 ## Márka/hely javítások
 
@@ -147,6 +151,10 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - **FIPS** (Free Internetworking Peering System; Nostr-kulcsokra épülő overlay hálózat, ahol a címed `npub….fips` — fips.network)
 - Q53 / kjú 53 → **Cure53** (német biztonsági auditcég; cure53.de)
 - Nagy Dumb → **NagyLumen** (budapesti meetup-helyszín)
+- elm / LM Market → **LN Markets** (Lightning-alapú, KYC-mentes tőkeáttételes kereskedés)
+- dicsimoku → **Ichimoku** (Ichimoku-felhő, technikai indikátor) · MCD → **MACD** · RST → **RSI**
+- Don John / Donjon → **Ledger Donjon** (a Ledger biztonsági kutatócsapata; link: [donjon.ledger.com](https://donjon.ledger.com))
+- Blake 2 / B2 → **Blake2b** (a BIP-110 hívei által indított, Blake2b bányászati algoritmusra váltott lánc)
 - **Northapp** (Feri bitcoinnal foglalható parkolója és műfüves focipályája Miskolcon; northapp.hu)
 - **tollaskígyó** (kisbetűvel; a HUSZONEGY Telegram-csoportjának AI-tudásbázisa, Henky projektje — hortopato.cc/wiki)
 
@@ -190,6 +198,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - **Noise Protocol** (a BitChat titkosítási rétege)
 - **Flotilla** (Nostr-kliens csoportokra tervezve)
 - **overlay network**, **mesh hálózat**, **peer-to-peer** — az angol alak marad, nem fordítjuk
+- csip → **chip** (az angol írásmód; a felszíni szövegben és az átiratban is)
 
 ## Formázási konvenciók
 

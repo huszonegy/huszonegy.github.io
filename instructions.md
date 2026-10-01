@@ -148,7 +148,7 @@ A jelenlegi blokkos felépítés (nincs bebetonozva — jobbító javaslat mindi
    - **Slug-szabály:** a végleges címből származtatva — kisbetűs, ékezetmentes (`ő → o`, `é → e`, `á → a`, `í → i`, `ú → u`, `ü → u`, `ö → o`); brand-nevek és számok ASCII-kisbetűre (`MicroStrategy` → `microstrategy`, `BIP-110` → `bip-110`); írásjelek (`,`, `?`, `!`, `:`, `;`, `'`, em-dash) **eltűnnek nyom nélkül** (nem kerül a helyükre kötőjel); meglévő belső kötőjelek megmaradnak (`Nostr-alternatíva`, `BIP-110`); szavak között egyetlen `-`. Pl. *„Recseg a GitHub — épül a magyar Nostr-alternatíva"* → `recseg-a-github-epul-a-magyar-nostr-alternativa`.
 
 ### 4/b. Feltöltés a YouTube-ra az API-n keresztül
-A cím, a leírás és a videó-beállítások a YouTube Data API-n keresztül kerülnek fel a [`scripts/yt_meta.py`](scripts/yt_meta.py) szkripttel (`get` / `set`; a `set` alapból próbafutás, élesíteni `--apply`-jal lehet). A titkos fájlok a repón kívül vannak: `~/.config/huszonegy-yt/` (OAuth kliens + token), a Python-környezet a `~/.local/share/huszonegy-yt/venv/` mappában. Az OAuth-app **Testing** módban van, ezért a token **7 nap után lejár**: a heti első futtatáskor Árpinak egyszer újra be kell jelentkeznie a böngészőben (a HUSZONEGY csatornát választva).
+A cím, a leírás és a videó-beállítások a YouTube Data API-n keresztül kerülnek fel a [`scripts/yt_meta.py`](scripts/yt_meta.py) szkripttel (`get` / `set` / `thumb` / `retention`; a `set` alapból próbafutás, élesíteni `--apply`-jal lehet). A `set` csak a címet és a leírást cseréli; a nyelvet és a címkéket külön `videos.update` hívással állítom be. Frissítés után a címkék és a nyelv visszaolvasása néhány percet késhet — a frissítés válasza a mérvadó. A titkos fájlok a repón kívül vannak: `~/.config/huszonegy-yt/` (OAuth kliens + token), a Python-környezet a `~/.local/share/huszonegy-yt/venv/` mappában. Az OAuth-app **Testing** módban van, ezért a token **7 nap után lejár**: a heti első futtatáskor Árpinak egyszer újra be kell jelentkeznie a böngészőben (a HUSZONEGY csatornát választva).
 
 - **Feltöltés előtt mindig jóváhagyás:** a teljes címet és leírást megmutatom, és csak Árpi rábólintása után küldöm fel; utána visszaolvasom az élő változatot. Az API a leírást egészben cseréli, ezért mindig a teljes szöveget küldöm.
 - **Mintának az előző epizód élő leírását veszem**, mert Árpi a Studióban kézzel is javít rajta (az állandó blokkokat onnan viszem át szó szerint).
@@ -222,11 +222,11 @@ A briefet az alábbi sorrendben építem fel — **az emberi arctól befelé**, 
 - **Szín:** fehér (vagy egyéb, a háttérhez képest magas-kontrasztú szín).
 - **Pozíció:** felső harmad vagy felső sáv — ne nyomja a vendég-arcot, és az alsó YouTube-időtartam-bar ne fedje le, de több szavas kicker esetén lehet több soros is, hogy kellően nagy betűméretű tudjon lenni.
 
-**Generálás:** A briefet egy darab chat-üzenetben adom át — magyar koncepció + angol vizuális szakszavak (palette, glow, monolith, flat vector illustration stb.). Árpi copy-paste-eli Geminibe, generál egy képet, és leegyezteti velem, hova másolja a kész PNG-t.
+**Generálás:** A briefet egy darab chat-üzenetben adom át — magyar koncepció + angol vizuális szakszavak (palette, glow, monolith, flat vector illustration stb.). Árpi copy-paste-eli Geminibe, generál egy képet, és a kész képet a `tmp/eXXX.jpeg` fájlba menti.
 
-**Vízjelmentesítés:** a vízjelet Árpi távolítja el GIMP-ben.
+**Vízjel:** a Gemini-kép Árpi szerint vízjelmentes; ha mégis látszik rajta vízjel, szólok, és Árpi GIMP-ben eltávolítja.
 
-**Átméretezés:** Árpi átméretezi GIMP-ben — 1280×720 (Árpi tölti fel YouTube/Spotify/Rumble), és 260×146 Árpi menti ide `public/pics/eXXX.jpg`.
+**Átméretezés és feltöltés (az én feladatom, kérdezés nélkül):** ImageMagickkel elkészítem az 1280×720-as változatot (`tmp/eXXX_1280.jpg`; középre igazított vágással, ha a kép nem pontosan 16:9) és a honlap 260×146-os képét (`public/pics/eXXX.jpg`, `-strip`, ~85-ös minőség). Az 1280×720-as képet a `yt_meta.py thumb <video_id> tmp/eXXX_1280.jpg` paranccsal töltöm fel a YouTube-ra, és visszaolvasom az élő képet (friss csere után a `maxresdefault` pár percig helykitöltőt ad, a `hqdefault` hamarabb frissül). A Spotify-ra és a Rumble-re Árpi tölti fel a `tmp/eXXX_1280.jpg`-t.
 
 **Konzisztencia vs változatosság:** jelenleg **minden epizód külön vizuális világ** (egyedi motívum, egyedi paletta). Ez tudatos brand-döntés: a HUSZONEGY-rajongó a tartalom miatt jön vissza, nem felismerhető vizuális keret miatt. Ha ezt változtatnánk (pl. egységes thumbnail-keret minden adáshoz), az tervezett brand-döntés lenne, nem ad-hoc.
 
@@ -355,6 +355,8 @@ Az állandó HUSZONEGY "szponzori" szöveg az átiratban **három külön bekezd
 - Idegen kifejezés + magyar toldalék **kötőjellel** (pl. *all-time high-on*).
 - A gép által **különírt összetételt egybe** javítom, ahol a helyesírás azt kívánja (pl. *többfajta*).
 - A beszélt nyelv miatt **elcsúszó ragot/vonzatot** a helyes alakra javítom (pl. helyhatározónál a köznyelvbe becsúszó `-ba/-be` helyett a pontos `-nál/-nél`, ahol az a helyes).
+
+**Nyilvánvaló elszólás:** ha a beszélő a kontextusból egyértelműen mást mond, mint amire gondol (pl. rossz BIP-számot, miközben előtte-utána a helyeset használja), az átiratba a szándékolt alak kerül. Ha nem egyértelmű, melyikre gondolt, jelölöm és egyeztetek.
 
 **Elírások, nevek, linkek:** lásd `corrections.md`.
 
