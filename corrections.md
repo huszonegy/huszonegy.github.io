@@ -34,7 +34,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - Henk Penki → **HenkyPenky**
 - Hanky Penki → **HenkyPenky**
 - Csáó / Csaó → **Ciao** (köszönés)
-- Nópara → **Nopara**
+- Nópara → **Nopara** (a beszélgetésben Ádámként is szólítják)
 - Antal → **Anti**
 - OpenOMS → **Openoms**
 - Optaut → **Optout**
@@ -70,6 +70,8 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - MBK / Emvéká → **NVK** (Rodolfo Novak, a Coinkite/COLDCARD alapítója)
 - Horonaut / Horunotó → **Hodlonaut** (norvég bitcoiner; a Craig Wright elleni oslói per szereplője)
 - Kobo → **Cobo** (kínai tárcagyártó, ebből vált ki a Keystone)
+- Halfini → **Hal Finney** (a „Hal Finney-módszer": a bitcoin átadása még életében, a családtagok felkészítésével)
+- Samir → **Shamir** (Shamir-féle titokmegosztás; a kulcs szétbontása, pl. 5-ből 3)
 
 ## Márka/hely javítások
 
@@ -114,6 +116,10 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - MRAL / Misztrál → **Mistral** (francia AI-fejlesztő/modell)
 - relay / relayed / relei / réli → **Relai** (svájci Bitcoin-only megtakarítási app; a gépi átirat rendszeresen „relay"-nek hallja)
 - Filefish / Fáilfis → **Firefish**
+- Káza / Kasa → **Casa** · **Unchained** (multisig-alapú őrzési/öröklési szolgáltatók)
+- Safe Heaven → **Safe Haven** (öröklési platformja: **Safe Haven Inherit**)
+- thor / thorhálózat → **Tor** (Tor hálózat, Tor Browser)
+- dnet → **.NET** (a Ginger Wallet ezen fut; .NET framework)
 - Coinkash / Koénkes / coin cash → **CoinCash** (magyar szolgáltató; övé az első magyar MiCA-engedély)
 - likvid / liquidábé / lickvid → **Liquid** (a Blockstream oldallánca). A teljes, hivatalos név **Liquid Network**, toldalék kötőjellel: Liquid Network-ből. ⚠️ A teljes alakot a **felszíni szövegben** (cím, bevezető, leírás) használjuk; az **átiratban** a beszélő „Liquid" alakja marad, azt nem nevezzük át. A rajta kibocsátott bitcoin-token: **L-BTC**.
 - Blockstam / blogstream / Blockstream nevű cég → **Blockstream** (Adam Back cége; a Liquid Network és a Core Lightning fejlesztője)
@@ -172,7 +178,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - keynesi ideológia (helyes alak)
 - nód → **node**
 - hashrate
-- multi-sig → **multisig**
+- multi-sig → **multisig** · multiignature → **multisignature**
 - Mika → **MiCA** (európai kriptoszabályozás)
 - MMB → **MNB** (Magyar Nemzeti Bank)
 - STHF / SZTHF → **SZTFH** (Szabályozott Tevékenységek Felügyeleti Hatósága; a magyar hatóság, ami a kriptoszabályozásban előjön — a gépi átirat „STHF"-nek hallja)
