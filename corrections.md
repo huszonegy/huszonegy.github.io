@@ -46,6 +46,10 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - Five — személynév, kötőjellel ragozva: **Five-val**, Five-nak
 - Lóri / Lóit / Lóia / Lori → **Lorry** (visszatérő vendég; ragozva: Lorryval, Lorrynak)
 - Takács Péter / Tagás Péter / Takás Péter → **Takáts Péter** (antropozófus előadó, az „etikus pénz" előadássorozat tartója)
+- Lár András → **Laár András** (humorista; a humor egóakasztó funkciójáról idézik)
+- Lőrinc Barvi / Barb → **Lőrincz Barbi** (a BitcoinBázis Bitcoin Kebab műsorának házigazdája; @btcbarbi) — nem rokona l0rinc-nek, ezen viccelődni szoktak
+- Bridlot → **Breedlove** (Robert Breedlove, a *What is Money?* műsor gazdája)
+- Kolozsvábri Tamás → **Kolossváry Tamás** (BTCPay Server-telepítésben segít cégeknek; HUSZONEGY-tag)
 - Smith Andi → **Schmied Andi** (budapesti képzőművész-építész; a New York-i üres luxuslakásokról szóló projekt szerzője)
 - Argentari / Argentarinak → **Argentarius** (Alfred Lansburgh álneve; a pénzről szóló levelek/könyv szerzője)
 - Toti Robi / Totik Robi → **Tótik Robi** (az Argentarius-könyv magyar fordítója)
@@ -103,6 +107,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - Trezor model T → **Trezor Model T**
 - Szatosi Labs / Satoshi Labs → **SatoshiLabs** (a Trezor mögötti cég, a prágai konferencia szervezője)
 - Sidequest bar / SideQuest bar → **SideQuest Bar** (belvárosi meetup-helyszín)
+- nikék → **Nicoék** (Nico, a **Simply Bitcoin** műsor arca; a BTC Sessionsszel közös adásuk a **Simply Sessions**) · **BTC Sessions** (Ben Perrin csatornája)
 - MESCOR / mescor → **MeshCore** (LoRa-alapú titkosított mesh-protokoll; meshcore.io) — ne keverd a **Meshtastic**csal (meshtastic.org)
 - bit chat / bitchat → **BitChat** (Bluetooth/wifi-alapú mesh-üzenetküldő)
 - **LoRa** (rádiótechnológia; helyes írásmód)
@@ -154,6 +159,8 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - **Armada** (Nostr-alapú, Discord-szerű közösségi chat a **Concord protokollon**; szerver nélküli, mesh-üzenetküldéssel)
 - **Nostrord** (további Nostr-alapú Discord-alternatíva)
 - **Zapstore** (nyílt Android appbolt; zapstore.dev)
+- set shoot / setsoot / szoot → **SatShoot** (Five Nostr-alapú szabadúszó-piactere; satshoot.com)
+- bitcoinpabs / bitcoinpaps → **bitcoinplebs.org** (Five Bitcoin önrendelkezési képzése; „pleb lessons")
 - **FIPS** (Free Internetworking Peering System; Nostr-kulcsokra épülő overlay hálózat, ahol a címed `npub….fips` — fips.network)
 - Q53 / kjú 53 → **Cure53** (német biztonsági auditcég; cure53.de)
 - Nagy Dumb → **NagyLumen** (budapesti meetup-helyszín)
