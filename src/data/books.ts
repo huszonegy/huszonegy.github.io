@@ -66,7 +66,7 @@ export const books = [
         text: "",
         desc: "Fedezd fel a Bitcoin titkát!<br /><br />Mindig is szeretted volna megérteni, mi is az a Bitcoin, de túl bonyolultnak tűnt? Ebben a könyvben egyszerű, érthető módon vezetlek végig a legfontosabb tudnivalókon, hogy akár teljesen kezdőként is megtapasztalhasd az AHA-élményt – azt a pillanatot, amikor minden összeáll, és megérted a Bitcoin valódi lényegét.<br /><br />Ha kíváncsi vagy, hogyan alakíthatja át a pénzről és a szabadságról alkotott képedet, ez a könyv neked szól!",
         img: "/books/bitcoin-a-penz-demokraciaja.jpg",
-        shop: "<strong>Megvásárolható:</strong> <a href='https://rukkola.hu/termek/bitcoin-a-penz-demokraciaja/' target='_blank'>Rukkola</a>"
+        shop: "<strong>Megvásárolható:</strong> <a href='https://konyvaruhaz.publio.hu/kereses?search=bitcoin' target='_blank'>Publio</a>"
     },
     {
         id: "21-lecke",

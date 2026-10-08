@@ -152,7 +152,7 @@ export const news = [
         date: "2025.08.08.",
         html: "Fedezd fel a Bitcoin titkát Tótik Róbert frissen megjelent könyvén keresztül!<br /><br /><em>Mindig is szeretted volna megérteni, mi is az a Bitcoin, de túl bonyolultnak tűnt? Ebben a könyvben egyszerű, érthető módon vezetlek végig a legfontosabb tudnivalókon, hogy akár teljesen kezdőként is megtapasztalhasd az AHA-élményt – azt a pillanatot, amikor minden összeáll, és megérted a Bitcoin valódi lényegét.<br /><br />Ha kíváncsi vagy, hogyan alakíthatja át a pénzről és a szabadságról alkotott képedet, ez a könyv neked szól!</em>",
         img: "/books/bitcoin-a-penz-demokraciaja.jpg",
-        link: "https://rukkola.hu/termek/bitcoin-a-penz-demokraciaja/"
+        link: "https://konyvaruhaz.publio.hu/kereses?search=bitcoin"
     },
     {
         summary: "A Bitcoin morális jelentősége",
