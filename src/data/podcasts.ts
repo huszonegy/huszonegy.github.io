@@ -2,6 +2,70 @@
 
 export const podcasts = [
     {
+        name: "105 éves levél: így lopják el a megtakarításod",
+        id: "E119",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Így lopják el a megtakarításod (Intro)"
+        },
+        {
+                time: "01:05",
+                label: "Minden tizedik németnek van"
+        },
+        {
+                time: "03:09",
+                label: "Egy bankár levelei a fiának"
+        },
+        {
+                time: "05:42",
+                label: "Kinek jó a pénznyomtatás?"
+        },
+        {
+                time: "10:19",
+                label: "Ingatlan, arany vagy bitcoin?"
+        },
+        {
+                time: "13:13",
+                label: "Proof-of-work a portfólióban"
+        },
+        {
+                time: "19:27",
+                label: "Bokán rúgja magát Németország?"
+        },
+        {
+                time: "22:47",
+                label: "Záródó kapuk Európában"
+        },
+        {
+                time: "29:45",
+                label: "Német politika, magyar küldetés"
+        },
+        {
+                time: "35:07",
+                label: "Bitcoinnal fizetni: Detroittól Stockholmig"
+        },
+        {
+                time: "39:28",
+                label: "Fájnia kell a fiatnak"
+        },
+        {
+                time: "42:12",
+                label: "Bitcoin az aranyhoz mérve"
+        },
+        {
+                time: "45:05",
+                label: "Megvolt az alja, vagy jön még egy leszúrás?"
+        }
+        ],
+        img: "/pics/e119.jpg",
+        date: "2026.10.09.",
+        members: ["Robi", "Feri"],
+        topic: "Így lopják el a megtakarításod (Intro) - Minden tizedik németnek van - Egy bankár levelei a fiának - Kinek jó a pénznyomtatás? - Ingatlan, arany vagy bitcoin? - Proof-of-work a portfólióban - Bokán rúgja magát Németország? - Záródó kapuk Európában - Német politika, magyar küldetés - Bitcoinnal fizetni: Detroittól Stockholmig - Fájnia kell a fiatnak - Bitcoin az aranyhoz mérve - Megvolt az alja, vagy jön még egy leszúrás?",
+        yt: "https://youtu.be/aVHJ1RSTaKM",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
         name: "Kiszedhető a 12 szó a hardvertárcádból? Így védd meg!",
         id: "E118",
         chapters: [
@@ -67,7 +131,7 @@ export const podcasts = [
         members: ["Karo", "Feri"],
         topic: "Kiszedhető a 12 szó? (Intro) - Bitcoin könyv még az AI előtt - Miért nem beszélünk altcoinokról? - COLDCARD: ott volt az orrunk előtt - Megbízhatsz még a gyártóban? - Lézerrel a chip ellen - Passphrase: a rejtett tárca - A multisig nem a nagymamának való - Az a legjobb tárca, ami kéznél van - Nem mindenkihez ért el a riasztás - BIP-110: nem a node-od dönt - Hősök, akik elbuknak - Bízz, de ellenőrizz! - Megvolt már az alja?",
         yt: "https://youtu.be/DnPOFJ4Od6Q",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/AQuLyRHmyOP9rGl2Z6Gu"
     },
     {
         name: "Lehet a bitcoin olyan privát, mint a készpénz?",
