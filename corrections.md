@@ -1,6 +1,6 @@
 # Gyakori javítások — referencia
 
-Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkalommal végigolvasnod – nézz bele, amikor elírást, nevet vagy linket kell ellenőrizned.
+Ez a fájl referencia a szépítés 3. és 4. fázisához. Egy bejegyzés = elírás → helyes alak, legfeljebb egy rövid azonosító megjegyzéssel; részletes háttér-infó és link nem kell a bejegyzésekbe. Nem kell minden alkalommal végigolvasnod – nézz bele, amikor elírást, nevet vagy linket kell ellenőrizned.
 
 ## Speech-to-text névelírások
 
@@ -51,8 +51,8 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - Bridlot → **Breedlove** (Robert Breedlove, a *What is Money?* műsor gazdája)
 - Kolozsvábri Tamás → **Kolossváry Tamás** (BTCPay Server-telepítésben segít cégeknek; HUSZONEGY-tag)
 - Smith Andi → **Schmied Andi** (budapesti képzőművész-építész; a New York-i üres luxuslakásokról szóló projekt szerzője)
-- Argentari / Argentarinak → **Argentarius** (Alfred Lansburgh álneve; a pénzről szóló levelek/könyv szerzője)
-- Toti Robi / Totik Robi → **Tótik Robi** (az Argentarius-könyv magyar fordítója)
+- Argentari / Argentarinak / Argentáriusz / Tánirúsz → **Argentarius** (Alfred Lansburgh álneve; a pénzről szóló levelek/könyv szerzője)
+- Toti Robi / Totik Robi / Tóthik Róbert → **Tótik Robi** / **Tótik Róbert** (az Argentarius-könyv magyar fordítója)
 - Lőrinc / Lóri / Lórinc / Lurins → **l0rinc** (magyar Bitcoin-fejlesztő; a handle nullával írandó, kisbetűvel — mondat elején is; ragozva kötőjellel: **l0rinc-cel**, l0rinc-nek)
 - Hermann → **Hermann Vivier** (a dél-afrikai **Bitcoin Ekasi** projekt vezetője; a gépi átirat „Bitcoinzi" alakját javítsd Bitcoin Ekasira)
 - Gláziranita / Glazer Anita → **Glaser Anita** (jogász; a blokkláncon való nyomozásról tart előadást) — ⚠️ **NEM azonos Katával**
@@ -165,6 +165,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - Q53 / kjú 53 → **Cure53** (német biztonsági auditcég; cure53.de)
 - Nagy Dumb → **NagyLumen** (budapesti meetup-helyszín)
 - elm / LM Market → **LN Markets** (Lightning-alapú, KYC-mentes tőkeáttételes kereskedés)
+- kávézac / kávéz azból → **kávézacc** · teazac → **teazacc** (Feri poénjai az árfolyamjóslásra)
 - dicsimoku → **Ichimoku** (Ichimoku-felhő, technikai indikátor) · MCD → **MACD** · RST → **RSI**
 - Don John / Donjon → **Ledger Donjon** (a Ledger biztonsági kutatócsapata; link: [donjon.ledger.com](https://donjon.ledger.com))
 - Blake 2 / B2 → **Blake2b** (a BIP-110 hívei által indított, Blake2b bányászati algoritmusra váltott lánc)
@@ -189,7 +190,8 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 - Mika → **MiCA** (európai kriptoszabályozás)
 - MMB → **MNB** (Magyar Nemzeti Bank)
 - STHF / SZTHF → **SZTFH** (Szabályozott Tevékenységek Felügyeleti Hatósága; a magyar hatóság, ami a kriptoszabályozásban előjön — a gépi átirat „STHF"-nek hallja)
-- kantilon hatás → **Cantillon-hatás**
+- kantilon hatás / Continuum Effect-us → **Cantillon-hatás**
+- seedfráze → **seed phrase**
 - zep / zeppek → **zap / zapek** (Nostr borravaló)
 - mit törm → **midterm**
 - bullmet / bmarket / bermket / bell market → **bull market** / **bear market** (kontextus szerint; az angol alak marad, nem fordítjuk)
@@ -216,6 +218,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Nem kell minden alkal
 ## Formázási konvenciók
 
 - **HUSZONEGY** nagybetűvel ahol a podcast nevére utal (21 → HUSZONEGY)
+- Bitcoin 21 podcast / Bitcoin HUSZONEGY podcast → **HUSZONEGY Bitcoin podcast** vagy **HUSZONEGY podcast** (a név sorrendje kötött; ha a „Bitcoin” szót kivágták, az átiratba se kerüljön)
 - 21-es → HUSZONEGY-es
 - a protokoll neve **Nostr**, a toldalékok kötőjellel: Nostr-on, Nostr-ra, Nostr-ba, Nostr-t, Nostr-nak, Nostr-os, Nostr-csoport, Nostr-protokoll (a gépi átirat „noszter/noster" alakjait javítsd)
 - **márka/brand + köznév összetétel: kötőjel NÉLKÜL, külön szóként** (Árpi tudatos stílusa, eltér a szigorú AkH kötőjelezéstől). Pl. *Bitcoin tartalom, Bitcoin közönség, Bitcoin tárca, Bitcoin cím, Bitcoin blog, YouTube csatornatagság* — NEM „Bitcoin-tartalom". **Minden** ilyen összetételre (a technikaiakra is). ⚠️ Ez csak az **összetételre** vonatkozik; a brandre tett **puszta toldalék** marad a saját szabályán: *Bitcoinról, Bitcoinhoz, Bitcoinban* (egybe), *Nostr-on, Nostr-ra* (kötőjellel).
