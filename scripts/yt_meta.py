@@ -11,6 +11,7 @@ Futtatás a külön venv-ből:
   ~/.local/share/huszonegy-yt/venv/bin/python scripts/yt_meta.py set <video_id> [--title T] [--desc-file F] [--apply]
   ~/.local/share/huszonegy-yt/venv/bin/python scripts/yt_meta.py retention E117 [E116 ...]
   ~/.local/share/huszonegy-yt/venv/bin/python scripts/yt_meta.py thumb <video_id> <kep.jpg>
+  ~/.local/share/huszonegy-yt/venv/bin/python scripts/yt_meta.py lang <video_id> [--audio en]
 
 A `set` alapból csak megmutatja a különbséget; élesíteni csak `--apply`-jal lehet.
 """
@@ -123,6 +124,19 @@ def cmd_set(args):
     print("\nFrissítve.")
 
 
+def cmd_lang(args):
+    # A Riverside-feltöltés angol szövegnyelvet és üres hangnyelvet hagy; ezt állítja magyarra.
+    yt = youtube()
+    old = fetch(yt, args.video_id)["snippet"]
+    print(f"ELŐTTE: szöveg={old.get('defaultLanguage')}, hang={old.get('defaultAudioLanguage')}")
+    body = {"id": args.video_id, "snippet": {
+        k: old[k] for k in ("title", "description", "categoryId", "tags") if k in old}}
+    body["snippet"]["defaultLanguage"] = "hu"
+    body["snippet"]["defaultAudioLanguage"] = args.audio
+    new = yt.videos().update(part="snippet", body=body).execute()["snippet"]
+    print(f"UTÁNA:  szöveg={new.get('defaultLanguage')}, hang={new.get('defaultAudioLanguage')}")
+
+
 def cmd_thumb(args):
     """Indexkép feltöltése (1280×720 JPEG, 2 MB alatt)."""
     from googleapiclient.http import MediaFileUpload
@@ -203,6 +217,10 @@ def main():
     t.add_argument("video_id")
     t.add_argument("file")
     t.set_defaults(func=cmd_thumb)
+    la = sub.add_parser("lang")
+    la.add_argument("video_id")
+    la.add_argument("--audio", default="hu", help="a hang nyelve (angol hangú videónál: en)")
+    la.set_defaults(func=cmd_lang)
 
     r = sub.add_parser("retention")
     r.add_argument("episodes", nargs="+", help="epizód-azonosító (pl. E117) vagy YouTube-videóazonosító")
