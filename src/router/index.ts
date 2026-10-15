@@ -1,4 +1,10 @@
-import { 
+
+  {
+    path: '/english',
+    name: 'English',
+    component: () => import('../views/EnglishView.vue'),
+    meta: { title: 'English' }
+  },import { 
   createRouter, 
   createWebHistory, 
   createMemoryHistory, 
