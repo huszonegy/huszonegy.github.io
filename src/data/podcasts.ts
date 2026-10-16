@@ -2,6 +2,74 @@
 
 export const podcasts = [
     {
+        name: "25 bitcoint kínáltak 20 dollárért a Passzív Milliomosnak. Erre ő?",
+        id: "E120",
+        chapters: [
+        {
+                time: "00:00",
+                label: "25 bitcoin egy huszasért (Intro)"
+        },
+        {
+                time: "01:23",
+                label: "Hiába keresel többet, nem tudsz félretenni"
+        },
+        {
+                time: "03:20",
+                label: "Kétszer mondott nemet a bitcoinra"
+        },
+        {
+                time: "06:48",
+                label: "Privát kulcsok e-mailben"
+        },
+        {
+                time: "09:53",
+                label: "Amit senki nem vehet el tőled"
+        },
+        {
+                time: "16:02",
+                label: "Több bitcoin, nagyobb nyomás"
+        },
+        {
+                time: "18:46",
+                label: "Miért legyél kevesebb egy banknál?"
+        },
+        {
+                time: "23:41",
+                label: "Hány kockadobás kell egy tárcához?"
+        },
+        {
+                time: "26:40",
+                label: "Bizonyíték nélkül nincs állítás"
+        },
+        {
+                time: "30:39",
+                label: "Sosem gazdag akartam lenni, csak szabad"
+        },
+        {
+                time: "37:35",
+                label: "Az ember nem munkára született"
+        },
+        {
+                time: "42:30",
+                label: "Ételjegy lesz a fiat pénzből?"
+        },
+        {
+                time: "47:43",
+                label: "Musk tévedése: semmi sem lesz ingyen"
+        },
+        {
+                time: "52:45",
+                label: "15 satoshi egy élő gitárosért"
+        }
+        ],
+        img: "/pics/e120.jpg",
+        date: "2026.10.16.",
+        members: ["Passzív Milliomos", "Feri"],
+        topic: "25 bitcoin egy huszasért (Intro) - Hiába keresel többet, nem tudsz félretenni - Kétszer mondott nemet a bitcoinra - Privát kulcsok e-mailben - Amit senki nem vehet el tőled - Több bitcoin, nagyobb nyomás - Miért legyél kevesebb egy banknál? - Hány kockadobás kell egy tárcához? - Bizonyíték nélkül nincs állítás - Sosem gazdag akartam lenni, csak szabad - Az ember nem munkára született - Ételjegy lesz a fiat pénzből? - Musk tévedése: semmi sem lesz ingyen - 15 satoshi egy élő gitárosért",
+        yt: "https://youtu.be/Q0qU0rG7s7E",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
         name: "105 éves levél: így lopják el a megtakarításod",
         id: "E119",
         chapters: [
@@ -63,7 +131,7 @@ export const podcasts = [
         members: ["Robi", "Feri"],
         topic: "Így lopják el a megtakarításod (Intro) - Minden tizedik németnek van - Egy bankár levelei a fiának - Kinek jó a pénznyomtatás? - Ingatlan, arany vagy bitcoin? - Proof-of-work a portfólióban - Bokán rúgja magát Németország? - Záródó kapuk Európában - Német politika, magyar küldetés - Bitcoinnal fizetni: Detroittól Stockholmig - Fájnia kell a fiatnak - Bitcoin az aranyhoz mérve - Megvolt az alja, vagy jön még egy leszúrás?",
         yt: "https://youtu.be/aVHJ1RSTaKM",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/mKKz6OS7STKHqdFsHrEk"
     },
     {
         name: "Kiszedhető a 12 szó a hardvertárcádból? Így védd meg!",
