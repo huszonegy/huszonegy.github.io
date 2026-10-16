@@ -46,6 +46,7 @@ A véglegesített cím klikk-ereje és curiosity-gap pontja a választáskor, ho
 | E117 | Lehet a bitcoin olyan privát, mint a készpénz? | 5 | 3 | új tech-érdeklődő |
 | E118 | Kiszedhető a 12 szó a hardvertárcádból? Így védd meg! | 4 | 3 | új tech-érdeklődő + fan |
 | E119 | 105 éves levél: így lopják el a megtakarításod | 4 | 3 | új tech-érdeklődő + fan |
+| E120 | 25 bitcoint kínáltak 20 dollárért a Passzív Milliomosnak. Erre ő? | 5 | 3 | új tech-érdeklődő + a vendég közössége (első cím vendég-csatornanévvel; 65 kar., mobilon csonkolódik) |
 
 ## Bejegyzések
 

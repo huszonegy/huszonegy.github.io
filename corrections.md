@@ -71,7 +71,8 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Egy bejegyzés = elí
 - Com / Chom → **David Chaum** (kriptográfus, az ecash feltalálója a 80-as években; a gépi átirat „Chamian Cash" alakja → **Chaumian cash**)
 - **calle** (a Cashu megalkotója és főfejlesztője; ragozva: Callénak)
 - Karo teljes neve **Karo Zagorus** (visszatérő vendég; korábban a Wasabinál és a Keystone tárcagyártónál dolgozott; könyve: *Bitcoin and the Trust Problem*, kiadója a **Konsensus** — bitcoinwords.github.io/bitcoin-and-the-trust-problem). Nincs róla fotó, a sárkányjelmez a felismerhető megjelenése — indexképen ezt használjuk. Szándékosan játékos, szokatlan szóhasználata (pl. „retirementet végrehajtani a usereken") nem félrehallás, marad.
-- MBK / Emvéká → **NVK** (Rodolfo Novak, a Coinkite/COLDCARD alapítója)
+- MBK / Emvéká → **NVK** (Rodolfo Novak, a Coinkite/COLDCARD alapítója; „Novák” → **Novak**)
+- **Kor** — a **Passzív Milliomos** YouTube csatorna gazdája
 - Horonaut / Horunotó → **Hodlonaut** (norvég bitcoiner; a Craig Wright elleni oslói per szereplője)
 - Kobo → **Cobo** (kínai tárcagyártó, ebből vált ki a Keystone)
 - Halfini → **Hal Finney** (a „Hal Finney-módszer": a bitcoin átadása még életében, a családtagok felkészítésével)
@@ -229,6 +230,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Egy bejegyzés = elí
 - „ne adjátok el a bitcoinotokat!" — felkiáltójellel
 - felszólító mondatok felkiáltójellel — MINDEN felszólító mondat, kivétel nélkül (pl. „ne kíméljetek!", „Írjatok!", „Böngésszétek!", „Kövesd!", „ne adjátok fel!", „szervezzetek meetupot!", „várdál bitcoinnal és őrizd meg!")
 - böngésszétek (dupla sz)
+- **huszas** (rövid u-val; a „húsz” hosszú, de a származékai rövidek: huszas, huszadik, huszonegy)
 - **tárca-összetételek egybe** (jelentéstömörítő összetétel, AkH 129. — vö. e-nyelv.hu/mobilpénztárca): **hardvertárca, szoftvertárca, hidegtárca, melegtárca**; toldalékkal is egybe (hardvertárcára, hidegtárcába). A generikus „cold storage / cold wallet / hot wallet" angol alak marad.
 
 ## Linkek
