@@ -181,8 +181,8 @@ A cím, a leírás és a videó-beállítások a YouTube Data API-n keresztül k
 A briefet az alábbi sorrendben építem fel — **az emberi arctól befelé**, mert a thumbnail-en először mindig egy emberi arc fog meg, és minden más (motívum, szöveg, paletta) ezt szolgálja.
 
 1. **Arc és arckifejezés:**
-   - A vendég arcát (vagy ha nincs vendég, a házigazdáét) a Gemini egy **tetszőleges, jó minőségű fotóból** rajzolja karikatúrává — Árpi szerzi be és csatolja. **Nem vadászok képkockát a felvételből**, és nem gyűjtök időbélyeges pillanatképeket: az arckifejezést az AI bármilyenre meg tudja rajzolni.
-   - Az **arckifejezést a briefben írom elő**, az adás hangulatából és a kicker/motívum üzenetéből levezetve (pl. magabiztos, cinkos félmosoly; döbbent; elgondolkodó).
+   - A vendég arcát (vagy ha nincs vendég, a házigazdáét) a Gemini egy **tetszőleges, jó minőségű fotóból** festi meg (lásd 4. Stílus) — Árpi szerzi be és csatolja. Az arc **felismerhetősége az elsődleges**: aki ismeri a vendéget, annak az arc az első kattintási jel. 
+   - Az **arckifejezést a briefben írom elő**, az adás hangulatából és a kicker/motívum üzenetéből levezetve.
 
 2. **Motívum + kicker-szöveg:**
    - **Motívum:** az adás magjának vizuális jele (tárgy, szimbólum, kontextus-tárgy) — ami a YouTube-címet **egészíti ki**, nem ismétli. A motívum lehet bármi, ami az adás más rétegeit hozza vissza, de ikonikus legyen, ne valami elvont dolog.
@@ -195,9 +195,10 @@ A briefet az alábbi sorrendben építem fel — **az emberi arctól befelé**, 
 
 4. **Stílus:**
    - Tisztázzuk, hogy van-e vendég-cutout.
-   - **Soha ne generikus, kitalált arcot** rajzoltassunk: az nem hozza a valós arc előnyét. Ha nincs valós vendég, vagy a házigazda valós karikatúrája kerüljön a képre, vagy arc nélküli, erős tárgy-motívum.
-   - Ha van, akkor a fotót Árpi csatolja Gemininek, és a brief karikatúra-rajz átalakítást kér úgy, hogy hasonlítson az eredetire, az 1. pontban előírt arckifejezéssel.
-   - Minimalista, lapos vektor érzet; nem fotorealisztikus, nem 3D render.
+   - **Soha ne generikus, kitalált arcot** rajzoltassunk: az nem hozza a valós arc előnyét. Ha nincs valós vendég, vagy a házigazda valós, festett portréja kerüljön a képre, vagy arc nélküli, erős tárgy-motívum.
+   - Ha van, akkor a fotót Árpi csatolja Gemininek, és a brief **festményszerű, félig realisztikus portrét** kér (painterly digital portrait, finom ecsetvonások, gouache-/olajfestmény-hatás), az 1. pontban előírt arckifejezéssel. **Nem karikatúra:** A briefben külön kérem az arcvonások pontos megőrzését, és hogy Árpi csatoljon fotót.
+   - **Az egész kép egységesen festett** (arc, motívum, háttér), mert egy festett arc mellett a lapos vektoros elemek kilógnak. A háttér egyszerű, részletek nélküli festett felület marad, hogy kis méretben is olvasható legyen. A **kicker éles grafikai elem** marad, nem „megfestett” betű.
+   - Nem fotó, nem 3D render, nem képregény.
 
 5. **Kompozíció:**
    - Mi a fókusz (vendég-arc / motívum / mindkettő), mi a háttér.
@@ -229,7 +230,7 @@ A briefet az alábbi sorrendben építem fel — **az emberi arctól befelé**, 
 - **Szín:** fehér (vagy egyéb, a háttérhez képest magas-kontrasztú szín).
 - **Pozíció:** felső harmad vagy felső sáv — ne nyomja a vendég-arcot, és az alsó YouTube-időtartam-bar ne fedje le, de több szavas kicker esetén lehet több soros is, hogy kellően nagy betűméretű tudjon lenni.
 
-**Generálás:** A briefet egy darab chat-üzenetben adom át — magyar koncepció + angol vizuális szakszavak (palette, glow, monolith, flat vector illustration stb.). Árpi copy-paste-eli Geminibe, generál egy képet, és a kész képet a `tmp/eXXX.jpeg` fájlba menti.
+**Generálás:** A briefet egy darab chat-üzenetben adom át — magyar koncepció + angol vizuális szakszavak (palette, glow, monolith, painterly digital portrait stb.). Árpi copy-paste-eli Geminibe, generál egy képet, és a kész képet a `tmp/eXXX.jpeg` fájlba menti.
 
 **Vízjel:** a Gemini-kép Árpi szerint vízjelmentes; ha mégis látszik rajta vízjel, szólok, és Árpi GIMP-ben eltávolítja.
 
