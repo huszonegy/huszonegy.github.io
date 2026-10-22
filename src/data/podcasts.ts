@@ -2,6 +2,74 @@
 
 export const podcasts = [
     {
+        name: "Bitcoin vs kripto: mit nem tud a proof of stake?",
+        id: "E121",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Proof of stake olimpia (Intro)"
+        },
+        {
+                time: "02:19",
+                label: "Kémchipet építettek a Ledgerbe"
+        },
+        {
+                time: "06:34",
+                label: "Nincs tuti recept a védekezésre"
+        },
+        {
+                time: "09:13",
+                label: "Miért nem árulunk hardvertárcát?"
+        },
+        {
+                time: "11:53",
+                label: "Hamisítható lett bármelyik weboldal"
+        },
+        {
+                time: "17:17",
+                label: "A kvantumgép még a 16-ot sem bontja fel"
+        },
+        {
+                time: "21:34",
+                label: "Kell internet a Bitcoinhoz?"
+        },
+        {
+                time: "24:52",
+                label: "Proof of work: véletlen, amit senki nem irányít"
+        },
+        {
+                time: "28:51",
+                label: "Az áram maga a bizonyíték"
+        },
+        {
+                time: "33:22",
+                label: "Vitalik ötlete: tegyük le az árát"
+        },
+        {
+                time: "36:08",
+                label: "Bitcoinban a pénz nem ad hatalmat"
+        },
+        {
+                time: "38:44",
+                label: "Miért nem lesz másik Bitcoin?"
+        },
+        {
+                time: "42:06",
+                label: "Umbrel 2.0, ami már nem fagy le"
+        },
+        {
+                time: "47:20",
+                label: "Vége a bear marketnek?"
+        }
+        ],
+        img: "/pics/e121.jpg",
+        date: "2026.10.23.",
+        members: ["Tamás", "Feri"],
+        topic: "Proof of stake olimpia (Intro) - Kémchipet építettek a Ledgerbe - Nincs tuti recept a védekezésre - Miért nem árulunk hardvertárcát? - Hamisítható lett bármelyik weboldal - A kvantumgép még a 16-ot sem bontja fel - Kell internet a Bitcoinhoz? - Proof of work: véletlen, amit senki nem irányít - Az áram maga a bizonyíték - Vitalik ötlete: tegyük le az árát - Bitcoinban a pénz nem ad hatalmat - Miért nem lesz másik Bitcoin? - Umbrel 2.0, ami már nem fagy le - Vége a bear marketnek?",
+        yt: "https://youtu.be/_5S572fM6LI",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
         name: "25 bitcoint kínáltak 20 dollárért a Passzív Milliomosnak. Erre ő?",
         id: "E120",
         chapters: [
@@ -67,7 +135,7 @@ export const podcasts = [
         members: ["Passzív Milliomos", "Feri"],
         topic: "25 bitcoin egy huszasért (Intro) - Hiába keresel többet, nem tudsz félretenni - Kétszer mondott nemet a bitcoinra - Privát kulcsok e-mailben - Amit senki nem vehet el tőled - Több bitcoin, nagyobb nyomás - Miért legyél kevesebb egy banknál? - Hány kockadobás kell egy tárcához? - Bizonyíték nélkül nincs állítás - Sosem gazdag akartam lenni, csak szabad - Az ember nem munkára született - Ételjegy lesz a fiat pénzből? - Musk tévedése: semmi sem lesz ingyen - 15 satoshi egy élő gitárosért",
         yt: "https://youtu.be/Q0qU0rG7s7E",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/HXXC3w4QCPjnHar0T057"
     },
     {
         name: "105 éves levél: így lopják el a megtakarításod",
