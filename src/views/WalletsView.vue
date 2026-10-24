@@ -2,7 +2,8 @@
 import { useHead } from '@unhead/vue'
 import WalletsList from '../components/WalletsList.vue'
 
-// GYIK — ugyanez a szöveg jelenik meg az oldalon és a FAQPage JSON-LD-ben (a Google csak egyezés esetén fogadja el)
+// GYIK — ugyanez a szöveg jelenik meg az oldalon és a FAQPage JSON-LD-ben (a Google csak egyezés esetén fogadja el).
+// A válaszokban lehet belső link; a JSON-LD-be a HTML nélküli szöveg kerül.
 const faq = [
     {
         q: 'Mi az a bitcoin tárca?',
@@ -14,7 +15,7 @@ const faq = [
     },
     {
         q: 'Mi az a hardveres pénztárca, és kell-e nekem?',
-        a: 'A hardveres pénztárca, röviden hardvertárca, egy kis, erre a célra készült eszköz, amely a privát kulcsokat offline tárolja, és csak a tranzakciók aláírására használod. Így akkor sem lophatják el a kulcsaidat, ha a számítógéped vagy a telefonod fertőzött. Ha olyan összeget tartasz bitcoinban, amelynek az elvesztése fájna, akkor igen, érdemes beszerezni egyet. Az ajánlott eszközöket fent, a Hardvertárcák résznél találod.',
+        a: 'A hardveres pénztárca, röviden hardvertárca, egy kis, erre a célra készült eszköz, amely a privát kulcsokat offline tárolja, és csak a tranzakciók aláírására használod. Így akkor sem lophatják el a kulcsaidat, ha a számítógéped vagy a telefonod fertőzött. Ha olyan összeget tartasz bitcoinban, amelynek az elvesztése fájna, akkor igen, érdemes beszerezni egyet. Az ajánlott eszközöket fent, a <a href="#hw-wallet">Hardvertárcák résznél</a> találod.',
     },
     {
         q: 'Mi a különbség a Lightning- és az on-chain tárca között?',
@@ -36,7 +37,7 @@ useHead({
                 mainEntity: faq.map(({ q, a }) => ({
                     '@type': 'Question',
                     name: q,
-                    acceptedAnswer: { '@type': 'Answer', text: a },
+                    acceptedAnswer: { '@type': 'Answer', text: a.replace(/<[^>]*>/g, '') },
                 })),
             }),
         },
