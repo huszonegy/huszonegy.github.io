@@ -5,6 +5,7 @@ import { wallets } from '../data/wallets';
 
 <template>
     <div name="wallets-list" class="container-flex py-3 wallets">
+        <p v-if="wallets.intro" class="px-1 mb-4">{{ wallets.intro }}</p>
         <!-- contents -->
         <nav class="px-1" aria-label="Tárca kategóriák">
             <p class="toc-title">Tárca kategóriák</p>

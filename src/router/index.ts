@@ -99,7 +99,7 @@ export const routes: RouteRecordRaw[] = [
     meta: {
       title: 'A legjobb Bitcoin tárcák – magyar ajánló kezdőknek és haladóknak | HUSZONEGY',
       metaTags: [
-        { name: 'description', content: 'Melyik bitcoin tárcát válaszd? Független, magyar nyelvű ajánló: Lightning- és mobiltárcák kezdőknek, hardveres tárcák nagyobb összegekhez, és saját node.' },
+        { name: 'description', content: 'Melyik bitcoin tárcát válaszd? Független, magyar nyelvű ajánló: Lightning- és mobiltárcák kezdőknek, hardvertárcák nagyobb összegekhez, és saját node.' },
         { name: 'keywords', content: 'bitcoin tárca, hardver wallet, bitcoin wallet, trezor, coldcard, ledger' }
       ]
     }

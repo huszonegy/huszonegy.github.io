@@ -10,11 +10,11 @@ const faq = [
     },
     {
         q: 'Melyik a legjobb bitcoin tárca kezdőknek?',
-        a: 'Ismerkedésre egy egyszerű mobilos Lightning-tárca a legjobb, például a Blink (magyar felülettel), vagy ha már az elején a saját kulcsaidat szeretnéd kezelni, a Phoenix vagy az AQUA. Ezekben csak kisebb összeget tarts. Ha már nagyobb összeget is félreteszel, lépj tovább egy hardveres tárcára.',
+        a: 'Ismerkedésre egy egyszerű mobilos Lightning-tárca a legjobb, például a Blink (magyar felülettel), vagy ha már az elején a saját kulcsaidat szeretnéd kezelni, a Phoenix vagy az AQUA. Ezekben csak kisebb összeget tarts. Ha már nagyobb összeget is félreteszel, lépj tovább egy hardvertárcára.',
     },
     {
-        q: 'Mi az a hardveres tárca (hardveres pénztárca), és kell-e nekem?',
-        a: 'Egy kis, erre a célra készült eszköz, amely a privát kulcsokat offline tárolja, és csak a tranzakciók aláírására használod. Így akkor sem lophatják el a kulcsaidat, ha a számítógéped vagy a telefonod fertőzött. Ha olyan összeget tartasz bitcoinban, amelynek az elvesztése fájna, akkor igen, érdemes beszerezni egyet. Az ajánlott eszközöket fent, a Hardvertárcák résznél találod.',
+        q: 'Mi az a hardveres pénztárca, és kell-e nekem?',
+        a: 'A hardveres pénztárca, röviden hardvertárca, egy kis, erre a célra készült eszköz, amely a privát kulcsokat offline tárolja, és csak a tranzakciók aláírására használod. Így akkor sem lophatják el a kulcsaidat, ha a számítógéped vagy a telefonod fertőzött. Ha olyan összeget tartasz bitcoinban, amelynek az elvesztése fájna, akkor igen, érdemes beszerezni egyet. Az ajánlott eszközöket fent, a Hardvertárcák résznél találod.',
     },
     {
         q: 'Mi a különbség a Lightning- és az on-chain tárca között?',
@@ -54,12 +54,7 @@ useHead({
                 <div class="wallets-hero-text">
                     <h1 class="wallets-hero-title">bitcoin <span class="wallets-hero-accent">tárcák</span> – ajánló kezdőknek és haladóknak</h1>
                     <p class="wallets-hero-lead">
-                        A bitcoin tárca az az alkalmazás vagy eszköz, amellyel bitcoint fogadhatsz, küldhetsz és tárolhatsz.
-                        Valójában nem a bitcoint tárolja, hanem a hozzáférést biztosító privát kulcsokat.
-                        Hogy melyik tárca a legjobb, az attól függ, mire használod: kisebb összegekhez és mindennapi fizetéshez
-                        egy egyszerű mobilos Lightning-tárca is elég, a megtakarításaidat viszont érdemes hardveres tárcán tartani,
-                        ahol a kulcsaid soha nem kerülnek internetre kötött eszközre. Az alábbi ajánló ebben segít: kategóriánként
-                        mutatjuk meg azokat a tárcákat, amelyeket mi magunk is használunk vagy kipróbáltunk.
+                        Kisebb összegekhez elég egy mobilos Lightning-tárca, a megtakarításaidhoz viszont hardvertárca ajánlott.
                     </p>
                 </div>
             </div>

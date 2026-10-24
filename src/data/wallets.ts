@@ -1,7 +1,7 @@
 // Data for Wallets, recommended wallets etc.
 
 export const wallets = {
-    intro: "",
+    intro: "A bitcoin tárca nem magát a bitcoint tárolja, hanem a hozzáférést biztosító privát kulcsokat. Hogy melyik tárca a legjobb, az attól függ, mire használod: mindennapi fizetéshez és ismerkedéshez egy egyszerű mobilalkalmazás is megfelel, nagyobb összegekhez viszont olyan megoldás kell, ahol a kulcsaid soha nem kerülnek internetre kötött eszközre. Az alábbi ajánló kategóriánként mutatja meg azokat a tárcákat, amelyeket mi magunk is használunk vagy kipróbáltunk.",
     categories: [
         {
             name: "Lightning-tárcák",
@@ -170,7 +170,8 @@ Mindez egy nagyobacska kavics kinézetű, érdekes kis eszközben.",
             ],
             outro: "Amit NEM AJÁNLUNK új vásárlásra: \
             | Coldcard: 2026. júliusban kiderült egy katasztrofális kulcs generálási hiba, ez aláásta a bizalmat ezzel a gyártóval szemben. \
-            | Ledger: különböző korábbi biztonsági problémák. Aki ilyen használ, használja tovább, de fontoljon meg alternatívákat; egy ajánlott lépés a LedgerLive app mellőzése, és az eszköz használata egy független tárcával, pl. Sparrow-val."
+            | Ledger: különböző korábbi biztonsági problémák. Aki ilyen használ, használja tovább, de fontoljon meg alternatívákat; egy ajánlott lépés a LedgerLive app mellőzése, és az eszköz használata egy független tárcával, pl. Sparrow-val. \
+            A Ledger-eszközöket érintő ellátásilánc-támadásról részletesen beszélgettünk <a href='/podcast/bitcoin-vs-kripto-mit-nem-tud-a-proof-of-stake/'>a 121. adásunkban</a>."
         },
         {
             name: "Bitcoin csomópontok (node)",
