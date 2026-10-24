@@ -22,7 +22,7 @@ const faq = [
     },
     {
         q: 'Mi a teendő, ha elveszítem a telefonomat vagy a hardvertárcámat?',
-        a: 'Minden önrendelkező tárca a létrehozásakor ad egy 12 vagy 24 szavas visszaállító kódot (seed phrase). Ha ezt biztonságos helyen, papíron vagy fémlapon megőrizted, bármikor visszaállíthatod a tárcádat egy új eszközön. Ezt a kódot soha ne fotózd le, ne tárold felhőben, és senkinek ne add meg!',
+        a: 'Minden önrendelkező tárca a létrehozásakor ad egy 12 vagy 24 szóból álló helyreállító szólistát (seed phrase). Ha ezt biztonságos helyen, papíron vagy fémlapon megőrizted, bármikor visszaállíthatod a tárcádat egy új eszközön. Ezt a szólistát soha ne fotózd le, ne tárold felhőben, és senkinek ne add meg!',
     },
 ]
 
