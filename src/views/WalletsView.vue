@@ -10,7 +10,7 @@ const faq = [
     },
     {
         q: 'Melyik a legjobb bitcoin tárca kezdőknek?',
-        a: 'Ismerkedésre egy egyszerű mobilos Lightning-tárca a legjobb, például a Blink (magyar felülettel), vagy ha már az elején a saját kulcsaidat szeretnéd kezelni, a Phoenix vagy az AQUA. Ezekben csak kisebb összeget tarts. Ha már nagyobb összeget is félreteszel, lépj tovább egy hardvertárcára.',
+        a: 'Ismerkedésre egy egyszerű mobilos Lightning-tárca a legjobb, például a Blink (magyar felülettel). Ezekben csak kisebb összeget tarts. Ha már nagyobb összeget is félreteszel, lépj tovább egy hardvertárcára.',
     },
     {
         q: 'Mi az a hardveres pénztárca, és kell-e nekem?',
