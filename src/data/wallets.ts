@@ -19,11 +19,6 @@ export const wallets = {
                     text: "A letétkezelői tárcák egyszerűbbek, első ismerkedésre jobban megfelelnek, de szigorúan CSAK KISEBB ÖSSZEGEKKEL ajánljuk!",
                     items: [
                         {
-                            name: "Blink",
-                            text: "Könnyen használható, sok funkcióval bíró mobil app; salvadori központú cég áll mögötte, nem szükséges KYC; elérhető magyar felülettel is; hasznos, tanulságos kvízt is foglal magában, mely néhány 1-2 sat-tal jutalmazza az egyes leckéket teljesítő felhasználót.",
-                            link: "https://blink.sv/"
-                        },
-                        {
                             name: "Strike",
                             text: "Könnyen használható, sokoldalú mobil app, amely a Lightning hálózaton gyors és olcsó bitcoin tranzakciókat kínál. Átmenetileg nem támogatja a fiat (pl. euró) és bitcoin közötti átváltást, de a globális pénzátutalásokat igen. KYC szükséges. Kezelőfelülete intuitív, ideális kezdőknek és haladóknak egyaránt.",
                             link: "https://strike.me/"
@@ -41,6 +36,11 @@ export const wallets = {
                     id: "lightning-selfcustodial",
                     text: "Az önrendelkező tárcáknál a privát kulcsok kizárólag a felhasználónál vannak, ezáltal biztonságosabbak. Az olyan tárcákat, ahol nekünk magunknak kell kezelni a csatornákat, csak azoknak ajánljuk, akik már járatossabbak a Lightningban. Említésre méltó még: Blixt.",
                     items: [
+                        {
+                            name: "Blink",
+                            text: "Könnyen használható, sok funkcióval bíró mobil app; salvadori központú cég áll mögötte, nem szükséges KYC; elérhető magyar felülettel is; hasznos, tanulságos kvízt is foglal magában, mely néhány 1-2 sat-tal jutalmazza az egyes leckéket teljesítő felhasználót.",
+                            link: "https://blink.sv/"
+                        },
                         {
                             name: "AQUA",
                             text: "Az AQUA egy olyan önrendelkező (self-custodial) Bitcoin és Lightning-tárca, amely egyszerű kezelhetőséget kínál kezdőknek is. Hamarosan magyar felülettel is elérhető lesz. Támogatja a Bitcoin on-chain, Lightning és Liquid hálózatokat, valamint a Tether USDt-t. A Lightning tranzakciókat a Boltz segítségével, Liquid Bitcoin (L-BTC) alapú submarine swap-okkal kezeli, automatizálva a csatornakezelést.",
@@ -159,7 +159,7 @@ Mindez egy nagyobacska kavics kinézetű, érdekes kis eszközben.",
                 },
                 {
                     name: "SeedSigner",
-                    text: "Általános célú alkatrészekből összerakható, Raspberry Zero alapú olcsó eszköz. Csináld magad, vagy vedd meg készen. Nem tárolja el a titkokat, így kilopni sem lehet belőle, viszont azt minden alkalommal be kell vinni.",
+                    text: "Általános célú alkatrészekből összerakható, Raspberry Zero alapú olcsó eszköz. Csináld magad, vagy vedd meg készen! Nem tárolja el a titkokat, így kilopni sem lehet belőle, viszont azt minden alkalommal be kell vinni.",
                     link: "https://seedsigner.com/"
                 },
                 {
@@ -175,7 +175,7 @@ Mindez egy nagyobacska kavics kinézetű, érdekes kis eszközben.",
         {
             name: "Bitcoin csomópontok (node)",
             id: "node",
-            text: "Ha nem szeretnél más szoftver szolgáltatásától függeni, vagy nem szeretnéd ha bárki más látná a tranzakcióidat, vagy csak hozzá szeretnél járulni a bitcoin hálózat decentralizáltságához – futtass saját node-ot.",
+            text: "Ha nem szeretnél más szoftver szolgáltatásától függeni, vagy nem szeretnéd ha bárki más látná a tranzakcióidat, vagy csak hozzá szeretnél járulni a bitcoin hálózat decentralizáltságához – futtass saját node-ot!",
             bulletsIntro: "Tudnivalók:",
             bullets: [
                 "egy szerényebb hardver is elég: Raspberry Pi, mini PC, vagy régi laptop",
