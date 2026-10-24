@@ -321,8 +321,6 @@ useHead({
           </div>
 
           <div class="description-area mt-5">
-            <p class="label mb-4">Az adás tartalmából</p>
-            
             <div class="topic-timeline">
               <div
                 v-for="(item, index) in topicList"
