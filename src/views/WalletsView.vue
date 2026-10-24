@@ -45,14 +45,14 @@ useHead({
 </script>
 
 <template>
-    <main>
+    <main class="wallets-page">
         <div class="wallets-hero mx-auto">
             <div class="wallets-hero-inner">
                 <div class="wallets-hero-icon">
                     <i class="bi bi-wallet2"></i>
                 </div>
                 <div class="wallets-hero-text">
-                    <h1 class="wallets-hero-title">bitcoin <span class="wallets-hero-accent">tárcák</span> – ajánló kezdőknek és haladóknak</h1>
+                    <h1 class="wallets-hero-title">bitcoin <span class="wallets-hero-accent">tárcák</span></h1>
                     <p class="wallets-hero-lead">
                         Kisebb összegekhez elég egy mobilos Lightning-tárca, a megtakarításaidhoz viszont hardvertárca ajánlott.
                     </p>
@@ -72,6 +72,13 @@ useHead({
 </template>
 
 <style scoped>
+/* Asztali nézetben a .centerpage flex-konténer: a main ne nyúljon szélesebbre a konténernél
+   (különben a hosszú bekezdések jobbra kilógnak és levágódnak) */
+.wallets-page {
+    width: 100%;
+    min-width: 0;
+}
+
 .wallets-hero {
     padding: 3.5rem 1rem 1.5rem;
     max-width: 780px;

@@ -5,7 +5,7 @@ import { wallets } from '../data/wallets';
 
 <template>
     <div name="wallets-list" class="container-flex py-3 wallets">
-        <p v-if="wallets.intro" class="px-1 mb-4">{{ wallets.intro }}</p>
+        <p v-if="wallets.intro" class="intro px-1 mb-4">{{ wallets.intro }}</p>
         <!-- contents -->
         <nav class="px-1" aria-label="Tárca kategóriák">
             <p class="toc-title">Tárca kategóriák</p>
@@ -39,6 +39,11 @@ import { wallets } from '../data/wallets';
 </template>
 
 <style scoped>
+/* Ugyanaz a szélesség, mint az alatta lévő kategóriablokkoké (WalletsCategory .category-wrapper) */
+.intro {
+    max-width: calc(3 * 25rem + 3 * 1rem);
+    overflow-wrap: break-word;
+}
 /* Csak tartalomjegyzék, ezért nem címsor — de a korábbi H2 kinézetét tartja */
 .toc-title {
     font-size: 1.6rem;
