@@ -77,6 +77,8 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Egy bejegyzés = elí
 - Kobo → **Cobo** (kínai tárcagyártó, ebből vált ki a Keystone)
 - Halfini → **Hal Finney** (a „Hal Finney-módszer": a bitcoin átadása még életében, a családtagok felkészítésével)
 - Samir → **Shamir** (Shamir-féle titokmegosztás; a kulcs szétbontása, pl. 5-ből 3)
+- Vitarik Butarik / Vitalic Buterin → **Vitalik Buterin** (az Ethereum megalkotója)
+- kiszámolóhú → **Kiszámoló.hu** (bitcoinkritikus pénzügyi blog) · Pogi → **Pogi** (Pogátsa Zoltán beceneve, így marad)
 
 ## Márka/hely javítások
 
@@ -169,7 +171,8 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Egy bejegyzés = elí
 - kávézac / kávéz azból → **kávézacc** · teazac → **teazacc** (Feri poénjai az árfolyamjóslásra)
 - dicsimoku → **Ichimoku** (Ichimoku-felhő, technikai indikátor) · MCD → **MACD** · RST → **RSI**
 - Don John / Donjon → **Ledger Donjon** (a Ledger biztonsági kutatócsapata; link: [donjon.ledger.com](https://donjon.ledger.com))
-- Blake 2 / B2 → **Blake2b** (a BIP-110 hívei által indított, Blake2b bányászati algoritmusra váltott lánc)
+- Blake 2 / B2 → **Blake2b** (a BIP-110 hívei által indított, Blake2b bányászati algoritmusra váltott lánc); ha „Blake coin”-ként említik: **Blake coin**
+- Umbrell / Umbrella → **Umbrel** (node-operációs rendszer; umbrel.com) · RSberry / Rapsberry → **Raspberry Pi**
 - **Northapp** (Feri bitcoinnal foglalható parkolója és műfüves focipályája Miskolcon; northapp.hu)
 - **tollaskígyó** (kisbetűvel; a HUSZONEGY Telegram-csoportjának AI-tudásbázisa, Henky projektje — hortopato.cc/wiki)
 
