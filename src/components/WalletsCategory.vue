@@ -9,9 +9,9 @@ defineProps<{
 
 <template>
     <div :id="cat.id" class="py-4 px-1 category-wrapper">
-        <h3>
+        <h2 class="cat-title">
             {{ cat.name }}
-        </h3>
+        </h2>
         <div>
             {{ cat.text }}
         </div>
@@ -23,7 +23,7 @@ defineProps<{
         <!-- Subcategories -->
         <template v-if="cat.subcategories">
             <div v-for="sub in cat.subcategories" :id="sub.id" class="mt-4">
-                <h4 class="mb-3">{{ sub.name }}</h4>
+                <h3 class="sub-title mb-3">{{ sub.name }}</h3>
                 <div>{{ sub.text }}</div>
                 <div class="row mt-3">
                     <WalletsCategoryItem v-for="item in sub.items" :item="item" class="card mx-2 my-2" style="width: 25rem;" />
@@ -47,6 +47,14 @@ defineProps<{
 </template>
 
 <style scoped>
+/* A címsorszintek SEO miatt eggyel feljebb kerültek (H2/H3), a kinézet a korábbi H3/H4-é marad */
+.cat-title {
+    font-size: 1.4rem;
+    margin-bottom: 14px;
+}
+.sub-title {
+    font-size: 1.2rem;
+}
 .category-wrapper {
     max-width: calc(3 * 25rem + 3 * 1rem);
 }

@@ -6,8 +6,8 @@ import { wallets } from '../data/wallets';
 <template>
     <div name="wallets-list" class="container-flex py-3 wallets">
         <!-- contents -->
-        <div class="px-1">
-            <h2>Tárca kategóriák</h2>
+        <nav class="px-1" aria-label="Tárca kategóriák">
+            <p class="toc-title">Tárca kategóriák</p>
             <ul class="mb-0">
                 <li v-for="cat in wallets.categories" class="mb-1">
                     <a :href="'#' + cat.id">{{ cat.name }}</a>
@@ -18,7 +18,7 @@ import { wallets } from '../data/wallets';
                     </ul>
                 </li>
             </ul>
-        </div>
+        </nav>
         <div class="notice-box mt-4 py-4 px-4 rounded">
             <strong>Mielőtt választasz:</strong>
             <ul class="mt-2 mb-0">
@@ -38,6 +38,13 @@ import { wallets } from '../data/wallets';
 </template>
 
 <style scoped>
+/* Csak tartalomjegyzék, ezért nem címsor — de a korábbi H2 kinézetét tartja */
+.toc-title {
+    font-size: 1.6rem;
+    font-weight: 500;
+    line-height: 1.2;
+    margin: 0 0 20px;
+}
 .toc-sub {
     text-transform: lowercase;
 }

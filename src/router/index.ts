@@ -97,9 +97,9 @@ export const routes: RouteRecordRaw[] = [
     name: 'wallets',
     component: () => import('../views/WalletsView.vue'),
     meta: {
-      title: 'Bitcoin tárcák és eszközök - HUSZONEGY',
+      title: 'A legjobb Bitcoin tárcák – magyar ajánló kezdőknek és haladóknak | HUSZONEGY',
       metaTags: [
-        { name: 'description', content: 'Ajánlott Bitcoin tárcák, hardver wallet-ek és eszközök. Válaszd ki a számodra legmegfelelőbb megoldást a biztonságos Bitcoin tároláshoz!' },
+        { name: 'description', content: 'Melyik bitcoin tárcát válaszd? Független, magyar nyelvű ajánló: Lightning- és mobiltárcák kezdőknek, hardveres tárcák nagyobb összegekhez, és saját node.' },
         { name: 'keywords', content: 'bitcoin tárca, hardver wallet, bitcoin wallet, trezor, coldcard, ledger' }
       ]
     }

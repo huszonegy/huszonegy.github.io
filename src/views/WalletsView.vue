@@ -1,5 +1,47 @@
 <script setup lang="ts">
+import { useHead } from '@unhead/vue'
 import WalletsList from '../components/WalletsList.vue'
+
+// GYIK — ugyanez a szöveg jelenik meg az oldalon és a FAQPage JSON-LD-ben (a Google csak egyezés esetén fogadja el)
+const faq = [
+    {
+        q: 'Mi az a bitcoin tárca?',
+        a: 'Egy alkalmazás vagy eszköz, amely a bitcoinjaidhoz tartozó privát kulcsokat kezeli. A bitcoin maga a blokkláncon van; a tárca ahhoz ad hozzáférést, hogy elkölthesd. Ezért fontos a mondás: „not your keys, not your coins”. Ha nem nálad vannak a kulcsok, akkor a bitcoin sem igazán a tiéd.',
+    },
+    {
+        q: 'Melyik a legjobb bitcoin tárca kezdőknek?',
+        a: 'Ismerkedésre egy egyszerű mobilos Lightning-tárca a legjobb, például a Blink (magyar felülettel), vagy ha már az elején a saját kulcsaidat szeretnéd kezelni, a Phoenix vagy az AQUA. Ezekben csak kisebb összeget tarts. Ha már nagyobb összeget is félreteszel, lépj tovább egy hardveres tárcára.',
+    },
+    {
+        q: 'Mi az a hardveres tárca (hardveres pénztárca), és kell-e nekem?',
+        a: 'Egy kis, erre a célra készült eszköz, amely a privát kulcsokat offline tárolja, és csak a tranzakciók aláírására használod. Így akkor sem lophatják el a kulcsaidat, ha a számítógéped vagy a telefonod fertőzött. Ha olyan összeget tartasz bitcoinban, amelynek az elvesztése fájna, akkor igen, érdemes beszerezni egyet. Az ajánlott eszközöket fent, a Hardvertárcák résznél találod. Erről a podcastunkban is beszélgettünk: <a href="/podcast/bitcoin-vs-kripto-mit-nem-tud-a-proof-of-stake/">E121</a>.',
+    },
+    {
+        q: 'Mi a különbség a Lightning- és az on-chain tárca között?',
+        a: 'Az on-chain tárca közvetlenül a Bitcoin blokkláncon küld és fogad. Ez a legbiztonságosabb, de lassabb, és a díj nagyobb összegeknél kedvező. A Lightning a Bitcoinra épülő második réteg: azonnali és szinte ingyenes utalásokat tesz lehetővé, ezért mindennapi fizetésre és kisebb összegekre ideális.',
+    },
+    {
+        q: 'Mi a teendő, ha elveszítem a telefonomat vagy a hardvertárcámat?',
+        a: 'Minden önrendelkező tárca a létrehozásakor ad egy 12 vagy 24 szavas visszaállító kódot (seed phrase). Ha ezt biztonságos helyen, papíron vagy fémlapon megőrizted, bármikor visszaállíthatod a tárcádat egy új eszközön. Ezt a kódot soha ne fotózd le, ne tárold felhőben, és senkinek ne add meg.',
+    },
+]
+
+useHead({
+    script: [
+        {
+            type: 'application/ld+json',
+            innerHTML: JSON.stringify({
+                '@context': 'https://schema.org',
+                '@type': 'FAQPage',
+                mainEntity: faq.map(({ q, a }) => ({
+                    '@type': 'Question',
+                    name: q,
+                    acceptedAnswer: { '@type': 'Answer', text: a },
+                })),
+            }),
+        },
+    ],
+})
 </script>
 
 <template>
@@ -10,14 +52,26 @@ import WalletsList from '../components/WalletsList.vue'
                     <i class="bi bi-wallet2"></i>
                 </div>
                 <div class="wallets-hero-text">
-                    <h1 class="wallets-hero-title">bitcoin <span class="wallets-hero-accent">tárcák</span></h1>
+                    <h1 class="wallets-hero-title">bitcoin <span class="wallets-hero-accent">tárcák</span> – ajánló kezdőknek és haladóknak</h1>
                     <p class="wallets-hero-lead">
-                        Ajánlott tárcák és eszközök a bitcoinod biztonságos tárolásához.
+                        A bitcoin tárca az az alkalmazás vagy eszköz, amellyel bitcoint fogadhatsz, küldhetsz és tárolhatsz.
+                        Valójában nem a bitcoint tárolja, hanem a hozzáférést biztosító privát kulcsokat.
+                        Hogy melyik tárca a legjobb, az attól függ, mire használod: kisebb összegekhez és mindennapi fizetéshez
+                        egy egyszerű mobilos Lightning-tárca is elég, a megtakarításaidat viszont érdemes hardveres tárcán tartani,
+                        ahol a kulcsaid soha nem kerülnek internetre kötött eszközre. Az alábbi ajánló ebben segít: kategóriánként
+                        mutatjuk meg azokat a tárcákat, amelyeket mi magunk is használunk vagy kipróbáltunk.
                     </p>
                 </div>
             </div>
         </div>
         <WalletsList />
+        <section id="gyik" class="container-flex py-4 px-2 wallets-faq">
+            <h2>Gyakori kérdések a bitcoin tárcákról</h2>
+            <div v-for="item in faq" :key="item.q" class="faq-item">
+                <h3>{{ item.q }}</h3>
+                <p v-html="item.a"></p>
+            </div>
+        </section>
         <div class="bottom-space no-response"><!-- empty --></div>
     </main>
 </template>
@@ -68,6 +122,25 @@ import WalletsList from '../components/WalletsList.vue'
     line-height: 1.6;
     max-width: 560px;
     margin-bottom: 0.6rem;
+}
+
+.wallets-faq {
+    max-width: calc(3 * 25rem + 3 * 1rem);
+}
+
+.wallets-faq h2 {
+    font-size: 1.4rem;
+    margin-bottom: 14px;
+}
+
+.wallets-faq h3 {
+    font-size: 1.2rem;
+    margin: 1.5rem 0 0.5rem;
+}
+
+.wallets-faq p {
+    max-width: 75ch;
+    line-height: 1.6;
 }
 
 @media (max-width: 576px) {
