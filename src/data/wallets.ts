@@ -126,7 +126,8 @@ export const wallets = {
                 "air-gapped (nem csatlakozik vezetékkel a hoszt géphez)",
                 "kizárólag bitcoinos",
                 "nyílt forráskódú (FOSS)",
-                "van benne \"secure element\" hardver"
+                "van benne \"secure element\" hardver",
+                "csak közvetlenül a gyártótól vásárolj (viszonteladótól vett eszközt manipulálhattak)"
             ],
             items: [
                 // {

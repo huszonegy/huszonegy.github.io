@@ -14,7 +14,7 @@ const faq = [
     },
     {
         q: 'Mi az a hardveres tárca (hardveres pénztárca), és kell-e nekem?',
-        a: 'Egy kis, erre a célra készült eszköz, amely a privát kulcsokat offline tárolja, és csak a tranzakciók aláírására használod. Így akkor sem lophatják el a kulcsaidat, ha a számítógéped vagy a telefonod fertőzött. Ha olyan összeget tartasz bitcoinban, amelynek az elvesztése fájna, akkor igen, érdemes beszerezni egyet. Az ajánlott eszközöket fent, a Hardvertárcák résznél találod. Erről a podcastunkban is beszélgettünk: <a href="/podcast/bitcoin-vs-kripto-mit-nem-tud-a-proof-of-stake/">E121</a>.',
+        a: 'Egy kis, erre a célra készült eszköz, amely a privát kulcsokat offline tárolja, és csak a tranzakciók aláírására használod. Így akkor sem lophatják el a kulcsaidat, ha a számítógéped vagy a telefonod fertőzött. Ha olyan összeget tartasz bitcoinban, amelynek az elvesztése fájna, akkor igen, érdemes beszerezni egyet. Az ajánlott eszközöket fent, a Hardvertárcák résznél találod.',
     },
     {
         q: 'Mi a különbség a Lightning- és az on-chain tárca között?',
