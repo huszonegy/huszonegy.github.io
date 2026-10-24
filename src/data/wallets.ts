@@ -170,8 +170,7 @@ Mindez egy nagyobacska kavics kinézetű, érdekes kis eszközben.",
             ],
             outro: "Amit NEM AJÁNLUNK új vásárlásra: \
             | Coldcard: 2026. júliusban kiderült egy katasztrofális kulcs generálási hiba, ez aláásta a bizalmat ezzel a gyártóval szemben. \
-            | Ledger: különböző korábbi biztonsági problémák. Aki ilyen használ, használja tovább, de fontoljon meg alternatívákat; egy ajánlott lépés a LedgerLive app mellőzése, és az eszköz használata egy független tárcával, pl. Sparrow-val. \
-            A Ledger-eszközöket érintő ellátásilánc-támadásról részletesen beszélgettünk <a href='/podcast/bitcoin-vs-kripto-mit-nem-tud-a-proof-of-stake/'>a 121. adásunkban</a>."
+            | Ledger: különböző korábbi biztonsági problémák. Aki ilyen használ, használja tovább, de fontoljon meg alternatívákat; egy ajánlott lépés a LedgerLive app mellőzése, és az eszköz használata egy független tárcával, pl. Sparrow-val."
         },
         {
             name: "Bitcoin csomópontok (node)",

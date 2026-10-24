@@ -20,14 +20,6 @@ import { wallets } from '../data/wallets';
                 </li>
             </ul>
         </nav>
-        <div class="notice-box mt-4 py-4 px-4 rounded">
-            <strong>Mielőtt választasz:</strong>
-            <ul class="mt-2 mb-0">
-                <li>Az egyszerűsített ajánlások nagyon szubjektívek, és messze nem tudnak figyelembe venni minden szempontot!</li>
-                <li>Nincs érdekeltségünk egyik ajánlott szolgáltatással vagy termékkel kapcsolatban sem.</li>
-                <li>Az itt felsorolt szoftver/technológiai elemzések nem befektetési tanácsok!</li>
-            </ul>
-        </div>
         <!-- categories -->
         <div class="py-1 px-1">
             <WalletsCategory v-for="cat in wallets.categories" :id="cat.id" :cat="cat" />
@@ -35,6 +27,10 @@ import { wallets } from '../data/wallets';
         <div v-if="wallets.outro" class="py-1 px-1">
             {{ wallets.outro }}
         </div>
+        <p class="disclaimer px-2 mt-3 mb-0">
+            Az ajánlások a saját tapasztalatainkon alapulnak, és nem befektetési tanácsok. A Relai a partnerünk:
+            az ajánlókóddal a HUSZONEGY működését is támogatod. A többi ajánlott szolgáltatással nincs üzleti kapcsolatunk.
+        </p>
     </div>
 </template>
 
@@ -54,11 +50,9 @@ import { wallets } from '../data/wallets';
 .toc-sub {
     text-transform: lowercase;
 }
-.notice-box {
-    background: rgba(255, 255, 255, 0.06);
-    font-size: 0.88rem;
-    color: rgba(255, 255, 255, 0.6);
-    display: inline-block;
-    border: 1px solid rgba(255, 255, 255, 0.15);
+.disclaimer {
+    font-size: 0.85rem;
+    color: rgba(255, 255, 255, 0.55);
+    max-width: 75ch;
 }
 </style>
