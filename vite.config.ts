@@ -160,8 +160,11 @@ export default defineConfig({
         // A robots.txt-t a public/robots.txt adja (Disallow-szabályokkal); a plugin ne írja felül
         generateRobotsTxt: false,
         // Útvonal-szintű lastmod dátumok — csak a ténylegesen módosított oldalak
-        // kapnak friss dátumot. Nem leképezett útvonalak lastmod nélkül maradnak.
-        lastmod: lastmodMap,
+        // kapnak friss dátumot. A plugin itt is záró perjel nélkül keres (a gyökér: '/'),
+        // ezért a kulcsokról levágjuk; enélkül minden oldal a build időpontját kapná.
+        lastmod: Object.fromEntries(
+          Object.entries(lastmodMap).map(([route, date]) => [route === '/' ? route : route.replace(/\/$/, ''), date])
+        ),
       })
     }
   }
