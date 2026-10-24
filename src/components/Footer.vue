@@ -17,7 +17,7 @@
             <div class="col col-auto py-3">
                 <!-- Github link, logo; note that it is white icon -->
                 <a href="https://github.com/huszonegy/huszonegy.github.io/" target="_blank">
-                    <img src="@/assets/logo/github-mark-white.svg" width="16" height="16" />
+                    <img src="@/assets/logo/github-mark-white.svg" alt="HUSZONEGY a GitHubon" width="16" height="16" />
                 </a>
             </div>
         </div>

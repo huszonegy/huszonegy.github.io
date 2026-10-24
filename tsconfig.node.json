@@ -6,7 +6,8 @@
     "cypress.config.*",
     "nightwatch.conf.*",
     "playwright.config.*",
-    "src/data/podcasts.ts"
+    "src/data/podcasts.ts",
+    "scripts/transcriptChapters.ts"
   ],
   "compilerOptions": {
     "composite": true,

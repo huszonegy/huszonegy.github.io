@@ -5,6 +5,7 @@ import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import { podcasts, slugify } from './src/data/podcasts'
 import generateSitemap from 'vite-ssg-sitemap'
+import { buildTranscriptChapterMap } from './scripts/transcriptChapters'
 
 /**
  * A megadott fájlok közül a legfrissebb git commit dátumát adja vissza.
@@ -98,10 +99,22 @@ function buildLastmodMap(): Record<string, Date> {
   return map
 }
 
+// Az átiratba szúrandó fejezetcímek (H2) helye epizódonként — build-időben a nyers feliratból számolva
+const transcriptChaptersPlugin = () => {
+  const id = 'virtual:transcript-chapters'
+  return {
+    name: 'transcript-chapters',
+    resolveId: (source: string) => (source === id ? '\0' + id : null),
+    load: (source: string) =>
+      source === '\0' + id ? `export default ${JSON.stringify(buildTranscriptChapterMap())}` : null,
+  }
+}
+
 export default defineConfig({
   base: '/',
   plugins: [
     vue(),
+    transcriptChaptersPlugin(),
   ],
   resolve: {
     alias: {
@@ -123,8 +136,9 @@ export default defineConfig({
     dirStyle: 'nested',
     includedRoutes(paths: any, _routes: any) {
       // Kiszűrjük a paraméterezett útvonalakat (pl. :slug, :pathMatch),
-      // a redirecteket (pl. /support), és a statikus fájl útvonalakat (pl. /books/)
-      const kizart = ['/support', '/forum', '/books', '/404/']
+      // a redirecteket (pl. /support), és a statikus fájl útvonalakat (pl. /books/).
+      // A /404/ oldal renderelődik: a build ebből készíti a dist/404.html-t.
+      const kizart = ['/support', '/forum', '/books']
       const staticPaths = (paths as string[]).filter(p =>
         !p.includes(':') && !kizart.some(k => p === k || p.startsWith(k + '/'))
       )
@@ -142,7 +156,7 @@ export default defineConfig({
 
       generateSitemap({
         hostname: 'https://huszonegy.world',
-        exclude: ['/404/', '/books/sziller.eu/_BitcoinrolAlaposan', ...redirectPaths],
+        exclude: ['/404', '/books/sziller.eu/_BitcoinrolAlaposan', ...redirectPaths],
         // Útvonal-szintű lastmod dátumok — csak a ténylegesen módosított oldalak
         // kapnak friss dátumot. Nem leképezett útvonalak lastmod nélkül maradnak.
         lastmod: lastmodMap,

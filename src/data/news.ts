@@ -9,7 +9,7 @@ export const news = [
         date: "2026.06.18.",
         html: "Mostantól a <a href='https://budabit.club' target='_blank'>BudaBit</a> is támogatja a HUSZONEGY működését. Köszönjük szépen! Ezáltal a magyar nyelvű Bitcoin-tartalom is erősödik.<br /><br />A BudaBit nem szokványos szponzor: egy szoftverfejlesztőknek szánt Nostr-alapú, Git-native közösségi platform — afféle decentralizált, cenzúraálló GitHub-és-Discord-ötvözet, Five fejlesztésében. Róla és erről a projektről szólt a <a href='/podcast/recseg-a-github-epul-a-magyar-nostr-alternativa/'>108. adásunk</a>. A repókat egy helyen böngészheted, és beszélgethetsz is róluk, a projekteket pedig zappelni lehet, vagyis egy Nostr-os Bitcoin-borravalóval a közösség közvetlenül finanszírozhatja az open source munkát.<br /><br />A BudaBit a kódon túl közösség is: rendszeres meetupok fizikai és online térben, valamint Demo Day-ek, ahol szabadságtechnológiai (Freedom Tech) és open source projektek mutatkoznak be. Ismerkedj meg a <a href='https://budabit.club' target='_blank'>budabit.club</a> honlapjával!",
         img: "/pics/budabit-news-banner.jpg",
-        link: "/link"
+        link: "/link/"
     },
     {
         summary: "Megújult a támogatás oldal",
@@ -21,21 +21,21 @@ export const news = [
     {
         summary: "Új kiemelt partnerünk: Relai + megújult link oldal",
         date: "2026.05.19.",
-        html: "Bemutatjuk legújabb kiemelt partnerünket, a <strong>Relai</strong>-t — a svájci Bitcoin-only megtakarítási alkalmazást, amely olyan, mint egy svájci bicska: megbízható, egyszerű, és pont azt csinálja, amire szükséged van. Segít Bitcoint venni, rendszeresen megtakarítani, és mindezt úgy, hogy a privát kulcsaid végig a te kezedben maradnak. A <strong>HUSZONEGY</strong> ajánlókóddal 1% helyett 0,9% lesz a vásárlási díjad — ezzel pedig a HUSZONEGY Bitcoin podcast működését is támogatod.<br /><br />Egyúttal megújult a <a href='/link'>link oldalunk</a> is: letisztultabb, kártyás dizájn, jól olvasható affiliate-jelvények, és külön szekció a kiemelt partnerünknek. Nézz körül!",
+        html: "Bemutatjuk legújabb kiemelt partnerünket, a <strong>Relai</strong>-t — a svájci Bitcoin-only megtakarítási alkalmazást, amely olyan, mint egy svájci bicska: megbízható, egyszerű, és pont azt csinálja, amire szükséged van. Segít Bitcoint venni, rendszeresen megtakarítani, és mindezt úgy, hogy a privát kulcsaid végig a te kezedben maradnak. A <strong>HUSZONEGY</strong> ajánlókóddal 1% helyett 0,9% lesz a vásárlási díjad — ezzel pedig a HUSZONEGY Bitcoin podcast működését is támogatod.<br /><br />Egyúttal megújult a <a href='/link/'>link oldalunk</a> is: letisztultabb, kártyás dizájn, jól olvasható affiliate-jelvények, és külön szekció a kiemelt partnerünknek. Nézz körül!",
         img: "/pics/link-oldal-kiemelt-partner.jpg",
-        link: "/link"
+        link: "/link/"
     },
     {
         summary: "Podcast kereső, beágyazott lejátszó",
         date: "2026.03.12.",
-        html: "<a href='/podcast'>Podcast oldalaink</a> kiegészültek egy keresővel, ami keres a címekben és a fejezetcímekben, illetve lehet keresni sorszámra, a résztvevők nevére valamint az átiratokban is. Az epizódok oldalai pedig kiegészültek átirattal és időbélyeges fejezetcímekkel + beágyazott youtube videóval, így egy fejezetcímre kattintva odaugrik a lejátszó a kívánt részhez. Jó böngészést!",
+        html: "<a href='/podcast/'>Podcast oldalaink</a> kiegészültek egy keresővel, ami keres a címekben és a fejezetcímekben, illetve lehet keresni sorszámra, a résztvevők nevére valamint az átiratokban is. Az epizódok oldalai pedig kiegészültek átirattal és időbélyeges fejezetcímekkel + beágyazott youtube videóval, így egy fejezetcímre kattintva odaugrik a lejátszó a kívánt részhez. Jó böngészést!",
         img: "/pics/huszonegy-bitcoin-podcast-kereso.png",
-        link: "/podcast"
+        link: "/podcast/"
     },
     {
         summary: "Podcast aloldalak átiratokkal",
         date: "2026.02.28.",
-        html: "Legfrissebb adásunkban a medvepiaci túlélés praktikáiról, a BIP-110 körüli spam-szűrési és cenzúra vitáról, a kvantum-számítástechnikára felkészülő BIP-360 javaslatról, német politikai reformtörekvésekről és a validátor mizéria folytatásáról beszélgettünk.<br/><br/>Egyúttal megújult a <a href='/podcast'>podcast</a> oldalunk: mostantól minden epizód saját aloldallal rendelkezik, ahol a beszélgetés átirata is olvasható. Ez lehetővé teszi a tartalomban való könnyebb keresést. Az átiratok egyelőre többnyire nyers formátumban érhetők el, a finomítás tervben van.",
+        html: "Legfrissebb adásunkban a medvepiaci túlélés praktikáiról, a BIP-110 körüli spam-szűrési és cenzúra vitáról, a kvantum-számítástechnikára felkészülő BIP-360 javaslatról, német politikai reformtörekvésekről és a validátor mizéria folytatásáról beszélgettünk.<br/><br/>Egyúttal megújult a <a href='/podcast/'>podcast</a> oldalunk: mostantól minden epizód saját aloldallal rendelkezik, ahol a beszélgetés átirata is olvasható. Ez lehetővé teszi a tartalomban való könnyebb keresést. Az átiratok egyelőre többnyire nyers formátumban érhetők el, a finomítás tervben van.",
         img: "/pics/e95.jpg",
         link: "https://youtu.be/FttsWvmTlDY"
     },
@@ -47,7 +47,7 @@ export const news = [
     {
         summary: "Három beszélgetésről egy csokorban",
         date: "2026.01.28.",
-        html: "Az elmúlt három hét <a href='/podcast'>podcast</a> adásaiban beszélgettünk a validátor mizériáról, a Nostr-ről mint cenzúraálló közösségi médiáról, valamint az antropozófia, a Waldorf-pedagógia és a Bitcoin találkozásáról.<br/><br/>Az előbbiben olyan hívószavak hangzanak el, mint PDF-ek, emailek, ellentmondások, Revolut-szívatás, coinjoin=bűn?, árfolyamok, chartok, négyéves ciklusok, kígyóspirál és hogy 'te még szabadlábon vagy?' Ha még nem vagy fent a noszteren, a 89. epizód jó belépő és motiváció egyszerre. A legutóbbiban pedig ilyenekkel találkozhatsz: belső kontinensek, igazság–szépség–jóság keresése, Rudolf Steiner nyomán női energia ébredés, szívközpontúság a hierarchia helyett, képernyő vs. testi fejlődés egyensúlya, fascia-gyógyulás és a Bitcoin mint közös teremtés eszköze.",
+        html: "Az elmúlt három hét <a href='/podcast/'>podcast</a> adásaiban beszélgettünk a validátor mizériáról, a Nostr-ről mint cenzúraálló közösségi médiáról, valamint az antropozófia, a Waldorf-pedagógia és a Bitcoin találkozásáról.<br/><br/>Az előbbiben olyan hívószavak hangzanak el, mint PDF-ek, emailek, ellentmondások, Revolut-szívatás, coinjoin=bűn?, árfolyamok, chartok, négyéves ciklusok, kígyóspirál és hogy 'te még szabadlábon vagy?' Ha még nem vagy fent a noszteren, a 89. epizód jó belépő és motiváció egyszerre. A legutóbbiban pedig ilyenekkel találkozhatsz: belső kontinensek, igazság–szépség–jóság keresése, Rudolf Steiner nyomán női energia ébredés, szívközpontúság a hierarchia helyett, képernyő vs. testi fejlődés egyensúlya, fascia-gyógyulás és a Bitcoin mint közös teremtés eszköze.",
         img: "/pics/e90.jpg",
         link: "https://youtu.be/WVQQo0OE8m4"
 
@@ -55,7 +55,7 @@ export const news = [
     {
         summary: "Lakás bitcoinért és Bitcoin tárolási útmutató",
         date: "2025.12.29.",
-        html: "Legújabb <a href='/podcast'>podcast</a> epizódunkban Feri beszámol a Bitcoin Mena konferencia tapasztalatairól, ahol szemtanúja lehetett, hogyan nyitnak a világ bankjai és országai a Bitcoin felé. A legnagyobb hazai hír azonban: megtörtént az első Bitcoin tranzakció lakásvásárlás alkalmával Magyarországon – történelmi mérföldkő a szabadságtechnológia valódi használata felé. A beszélgetésben szó esik a 2026-os várakozásokról és arról, hogyan válhat a Bitcoin a hazai üzleti élet természetes részévé.<br /><br /><em><a href='https://bitcoinmentor.hu/a-legjobb-kriptovaluta-tarolasi-megoldasok/'>A legjobb kriptovaluta tárolási megoldások</a></em> című részletes útmutatónk pedig bemutatja a Bitcoin tárolás minden szintjét: a kezdőbarát mobil tárcáktól a professzionális hardveres és multisig megoldásokig. Megtanulhatod, hogyan légy a saját bankod, és mi az a <em>'Not your keys, not your coins'</em> alapelv, ami minden bitcoiner számára kulcsfontosságú. A cikk a magyar közösség évek óta gyűjtött gyakorlati tapasztalataira épül.",
+        html: "Legújabb <a href='/podcast/'>podcast</a> epizódunkban Feri beszámol a Bitcoin Mena konferencia tapasztalatairól, ahol szemtanúja lehetett, hogyan nyitnak a világ bankjai és országai a Bitcoin felé. A legnagyobb hazai hír azonban: megtörtént az első Bitcoin tranzakció lakásvásárlás alkalmával Magyarországon – történelmi mérföldkő a szabadságtechnológia valódi használata felé. A beszélgetésben szó esik a 2026-os várakozásokról és arról, hogyan válhat a Bitcoin a hazai üzleti élet természetes részévé.<br /><br /><em><a href='https://bitcoinmentor.hu/a-legjobb-kriptovaluta-tarolasi-megoldasok/'>A legjobb kriptovaluta tárolási megoldások</a></em> című részletes útmutatónk pedig bemutatja a Bitcoin tárolás minden szintjét: a kezdőbarát mobil tárcáktól a professzionális hardveres és multisig megoldásokig. Megtanulhatod, hogyan légy a saját bankod, és mi az a <em>'Not your keys, not your coins'</em> alapelv, ami minden bitcoiner számára kulcsfontosságú. A cikk a magyar közösség évek óta gyűjtött gyakorlati tapasztalataira épül.",
         img: "/pics/e87.jpg",
         link: "https://youtu.be/ND-AIy1VSBw"
 
@@ -63,7 +63,7 @@ export const news = [
     {
         summary: "Képzés, oktatás, validálás",
         date: "2025.12.12.",
-        html: "A <a href='/podcast'>HUSZONEGY podcastban</a> Katával beszélgettünk a Bitcoin Educators Academy speciális torinói képzés tapasztalatairól, a The Bitcoiner's Pretties újdonságairól - beleértve az ingyenes kiszállítást és a Bitcoin Art Magazine európai forgalmazását -, valamint a magyarországi validálási szabályozás körüli felesleges pánikról. Emellett szóba kerül a Revolut friss korlátozása, a budapesti meetup élményei és a közelgő pécsi összejövetel is.",
+        html: "A <a href='/podcast/'>HUSZONEGY podcastban</a> Katával beszélgettünk a Bitcoin Educators Academy speciális torinói képzés tapasztalatairól, a The Bitcoiner's Pretties újdonságairól - beleértve az ingyenes kiszállítást és a Bitcoin Art Magazine európai forgalmazását -, valamint a magyarországi validálási szabályozás körüli felesleges pánikról. Emellett szóba kerül a Revolut friss korlátozása, a budapesti meetup élményei és a közelgő pécsi összejövetel is.",
         img: "/pics/e86.jpg",
         link: "https://youtu.be/JIsMR17oHLg"
 
@@ -71,7 +71,7 @@ export const news = [
     {
         summary: "Titánium lapka & Bitcoin tanácsadás",
         date: "2025.12.04.",
-        html: "<a href='/podcast'>Podcastunkban</a> Mordai megosztja velünk, hogyan változtatta meg világlátását a pénz valódi természetének megértése, és bemutatja saját készítésű titánium lapkáját, ami kicsi, tűzálló és korróziómentes biztonsági mentést biztosít.<br/><br/>Emellett bemutatkozik a <a href='https://bitcoinmentor.hu/' target='_blank'>Bitcoin Mentor,</a> amely személyre szabott, magyar nyelvű tanácsadással segíti az érdeklődőket a Bitcoin megértésében és alkalmazásában.",
+        html: "<a href='/podcast/'>Podcastunkban</a> Mordai megosztja velünk, hogyan változtatta meg világlátását a pénz valódi természetének megértése, és bemutatja saját készítésű titánium lapkáját, ami kicsi, tűzálló és korróziómentes biztonsági mentést biztosít.<br/><br/>Emellett bemutatkozik a <a href='https://bitcoinmentor.hu/' target='_blank'>Bitcoin Mentor,</a> amely személyre szabott, magyar nyelvű tanácsadással segíti az érdeklődőket a Bitcoin megértésében és alkalmazásában.",
         img: "/pics/e85.jpg",
         link: "https://youtu.be/xNauOmGLsXM"
 
@@ -84,56 +84,56 @@ export const news = [
     {
         summary: "Professzionális Bitcoin elfogadás és Bitcoin részvények",
         date: "2025.11.21.",
-        html: "Friss <a href='/podcast'>podcast adásunkban</a> demonstráljuk, hogyan működik a Giganet internetszolgáltató minden ügyfele számára elérhető, teljesen automatizált Bitcoin Lightning számlafizetés.<br/><br/>Bemutatkozik Zoli, a Giganet ügyvezetője, mesél korai bányászatról, nyugdíjalapról, könyvelési rémálomról, networkingről. Majd Tamás bemutat egy NFC kártyás Lightning fizetési módot is, továbbá néhány chartot elemezve azt is elmondja, miért nem fog harmadára esni a bitcoin.<br /><br />A <a href='/cikkek'>cikkek</a> között pedig Lyn Alden <em><a href='https://bitcoinmentor.hu/a-bitcoin-reszvenyek-es-kotvenyek-terhoditasa/'>A Bitcoin részvények és kötvények térhódítása</a></em> című írásának magyarítása nyújt betekintést a Bitcoin ökoszisztémába.",
+        html: "Friss <a href='/podcast/'>podcast adásunkban</a> demonstráljuk, hogyan működik a Giganet internetszolgáltató minden ügyfele számára elérhető, teljesen automatizált Bitcoin Lightning számlafizetés.<br/><br/>Bemutatkozik Zoli, a Giganet ügyvezetője, mesél korai bányászatról, nyugdíjalapról, könyvelési rémálomról, networkingről. Majd Tamás bemutat egy NFC kártyás Lightning fizetési módot is, továbbá néhány chartot elemezve azt is elmondja, miért nem fog harmadára esni a bitcoin.<br /><br />A <a href='/cikk/'>cikkek</a> között pedig Lyn Alden <em><a href='https://bitcoinmentor.hu/a-bitcoin-reszvenyek-es-kotvenyek-terhoditasa/'>A Bitcoin részvények és kötvények térhódítása</a></em> című írásának magyarítása nyújt betekintést a Bitcoin ökoszisztémába.",
         img: "/pics/e83.jpg",
         link: "https://youtu.be/xNauOmGLsXM"
     },
     {
         summary: "Kávéval a szabadságért, új cikkek",
         date: "2025.11.14.",
-        html: "<a href='/podcast'>Podcastunkban</a> felfedjük, hogy az igazi olasz espresso titka a 21 másodpercben rejlik. Megismerjük a minőségi kávékészítés titkait, az espresso valódi jelentését, majd beszivárognak olyan tipikus Bitcoinhoz kapcsolódó témák is, mint a későn jövés mítosza és a decentralizált jövő iránti elköteleződés. A beszélgetés végére pedig arra is fény derül, miből lesz a mokambogár.<br /><br />Új <a href='/cikkek'>cikkeink</a> között pedig újra felmerül a <em>szabad piac</em> és az <em>egészséges pénz</em> fogalma, valamint az 1993-ban megjelent <a href='https://bitcoinmentor.hu/cypherpunk-kialtvany/'>Cypherpunk kiáltvány</a> magyar fordítása.",
+        html: "<a href='/podcast/'>Podcastunkban</a> felfedjük, hogy az igazi olasz espresso titka a 21 másodpercben rejlik. Megismerjük a minőségi kávékészítés titkait, az espresso valódi jelentését, majd beszivárognak olyan tipikus Bitcoinhoz kapcsolódó témák is, mint a későn jövés mítosza és a decentralizált jövő iránti elköteleződés. A beszélgetés végére pedig arra is fény derül, miből lesz a mokambogár.<br /><br />Új <a href='/cikk/'>cikkeink</a> között pedig újra felmerül a <em>szabad piac</em> és az <em>egészséges pénz</em> fogalma, valamint az 1993-ban megjelent <a href='https://bitcoinmentor.hu/cypherpunk-kialtvany/'>Cypherpunk kiáltvány</a> magyar fordítása.",
         img: "/pics/e82.jpg",
         link: "https://youtu.be/vXexEyKWrJ0"
     },
     {
         summary: "Kriptoszabályozás, a gondolat szabadsága, konf. előadások",
         date: "2025.11.07.",
-        html: "A <a href='/podcast'>HUSZONEGY Bitcoin podcast</a> legutóbbi 2 epizódjában Kata jogászként átfogó képet ad a magyar kriptoszabályozásról: a MiCA uniós kerettől a hazai kriptotörvényen át a friss SZTFH rendeletig. Majd bemutatja a The Bitcoiner’s Pretties mozgalmat: női közösséggel, egyedi dizájnos merchcsel, saját kiadású könyvekkel és egy esztétikus webshoppal.<br /><br />Előadás oldalunkon pedig elkezdtek felsorakozni <a href='/eloadas'>a legutóbbi miskolci Bitcoin konferencia felvételei.</a> Az oldalon lefelé görgetve rengeteg korábbi, szintén magyar nyelvű videóanyag érhető el, szépen rendszerezve.",
+        html: "A <a href='/podcast/'>HUSZONEGY Bitcoin podcast</a> legutóbbi 2 epizódjában Kata jogászként átfogó képet ad a magyar kriptoszabályozásról: a MiCA uniós kerettől a hazai kriptotörvényen át a friss SZTFH rendeletig. Majd bemutatja a The Bitcoiner’s Pretties mozgalmat: női közösséggel, egyedi dizájnos merchcsel, saját kiadású könyvekkel és egy esztétikus webshoppal.<br /><br />Előadás oldalunkon pedig elkezdtek felsorakozni <a href='/eloadas/'>a legutóbbi miskolci Bitcoin konferencia felvételei.</a> Az oldalon lefelé görgetve rengeteg korábbi, szintén magyar nyelvű videóanyag érhető el, szépen rendszerezve.",
         img: "/pics/e81.jpg",
         link: "https://youtu.be/lci7ji6iTEk"
     },
     {
         summary: "Konferencia összegzés és Nostr",
         date: "2025.10.24.",
-        html: "<a href='/podcast'>Podcastunk</a> aktuális adásában a miskolci Bitcoin konferenciáról beszélgettünk, valamint a Bitcoin tábor ötletéről, a vállalkozások Bitcoin-elfogadásáról, sőt arról is, hogyan vásárolhatsz lakást Bitcoinnal a jövőben. Csatlakozz hozzánk, és kövesd a közösséget a Nostr-n!<br /><br />Amelyiktek még nincs jelen a nostr-n/noszteren, próbálja ki ezt a magyar felületet: <a href='https://primal.noszter.hu' target='_blank'>https://primal.noszter.hu</a><br /><br />A kezdés gombra kattintva lehet új fiókot regisztrálni, mely során nem kell személyes adatot megadni.<br /><br />Eredményként kapsz:<ul><li>egy privát/titkos kulcsot (nsec... kezdettel), ezt NE add meg senkinek, hanem írd fel vagy mentsd el jól magadnak,</li><li>valamint egy publikus/nyilvános kulcsot (npub... kezdettel), ezt add meg másoknak, hogy megtaláljanak a nostr-n!</li></ul>Aztán kövessétek be <a href='https://primal.noszter.hu/p/npub1755d2hamvd0yerc32xk6d90kxjl35q4dn8yehywv8nmntl9fv2hsf7aa5e' target='_blank'>a HUSZONEGY Nostr fiókját</a>, mert az egy fix kapcsolódási pont!",
+        html: "<a href='/podcast/'>Podcastunk</a> aktuális adásában a miskolci Bitcoin konferenciáról beszélgettünk, valamint a Bitcoin tábor ötletéről, a vállalkozások Bitcoin-elfogadásáról, sőt arról is, hogyan vásárolhatsz lakást Bitcoinnal a jövőben. Csatlakozz hozzánk, és kövesd a közösséget a Nostr-n!<br /><br />Amelyiktek még nincs jelen a nostr-n/noszteren, próbálja ki ezt a magyar felületet: <a href='https://primal.noszter.hu' target='_blank'>https://primal.noszter.hu</a><br /><br />A kezdés gombra kattintva lehet új fiókot regisztrálni, mely során nem kell személyes adatot megadni.<br /><br />Eredményként kapsz:<ul><li>egy privát/titkos kulcsot (nsec... kezdettel), ezt NE add meg senkinek, hanem írd fel vagy mentsd el jól magadnak,</li><li>valamint egy publikus/nyilvános kulcsot (npub... kezdettel), ezt add meg másoknak, hogy megtaláljanak a nostr-n!</li></ul>Aztán kövessétek be <a href='https://primal.noszter.hu/p/npub1755d2hamvd0yerc32xk6d90kxjl35q4dn8yehywv8nmntl9fv2hsf7aa5e' target='_blank'>a HUSZONEGY Nostr fiókját</a>, mert az egy fix kapcsolódási pont!",
         img: "/pics/e79.jpg",
         link: "https://youtu.be/x2vWSakAF3Y"
     },
     {
         summary: "Felelősségvállalás, követés és feliratkozás",
         date: "2025.10.20.",
-        html: "A <a href='/podcast'>podcastban</a> legutóbb a Bitcoin szellemiségéről és a felelősségvállalás fontosságáról beszélgettünk.<br /><br />Fantasztikus hangulatban telt a múlt hétvégi konferencia, ahol nagy örömmel ismertünk meg számos nyitott érdeklődőt. Ezúton is szeretettel köszöntjük őket köreinkben, továbbá ezt az alkalmat megragadva felsorolunk néhány felületet, ahol rendszeresen posztolunk:<ul><li><a href='https://www.youtube.com/@huszonegy-bitcoin-podcast' target='_blank'>youtube csatornánk</a></li><li><a href='https://primal.noszter.hu/p/npub1755d2hamvd0yerc32xk6d90kxjl35q4dn8yehywv8nmntl9fv2hsf7aa5e' target='_blank'>nostr profilunk</a></li><li><a href='https://www.facebook.com/huszonegybitcoinpodcast' target='_blank'>facebook oldalunk</a></li></ul>",
+        html: "A <a href='/podcast/'>podcastban</a> legutóbb a Bitcoin szellemiségéről és a felelősségvállalás fontosságáról beszélgettünk.<br /><br />Fantasztikus hangulatban telt a múlt hétvégi konferencia, ahol nagy örömmel ismertünk meg számos nyitott érdeklődőt. Ezúton is szeretettel köszöntjük őket köreinkben, továbbá ezt az alkalmat megragadva felsorolunk néhány felületet, ahol rendszeresen posztolunk:<ul><li><a href='https://www.youtube.com/@huszonegy-bitcoin-podcast' target='_blank'>youtube csatornánk</a></li><li><a href='https://primal.noszter.hu/p/npub1755d2hamvd0yerc32xk6d90kxjl35q4dn8yehywv8nmntl9fv2hsf7aa5e' target='_blank'>nostr profilunk</a></li><li><a href='https://www.facebook.com/huszonegybitcoinpodcast' target='_blank'>facebook oldalunk</a></li></ul>",
         img: "/pics/e78.jpg",
         link: "https://youtu.be/xWk2wU3_9Tw"
     },
     {
         summary: "Villámok, node-ok és csalások",
         date: "2025.10.10.",
-        html: "A <a href='/podcast'>HUSZONEGY Bitcoin podcast</a> legutóbbi két epizódjában egyrészt a kriptovilág leggyakoribb csalásaira fókuszáltunk, hogy hasznos tippek, technikák és tanulságos esetek megosztása által segítsünk a hatékony védekezésben. Másrészt pedig belekóstoltunk a Bitcoin Lightning Network legújabb fejlesztéseibe illetve protokolljaiba, és bemutattuk a RaspiBlitz projekt legújabb frissítéseit is, amely segít otthoni Bitcoin node-ok építésében, hangsúlyozva a hálózat decentralizációjának fontosságát és a saját validáció előnyeit.",
+        html: "A <a href='/podcast/'>HUSZONEGY Bitcoin podcast</a> legutóbbi két epizódjában egyrészt a kriptovilág leggyakoribb csalásaira fókuszáltunk, hogy hasznos tippek, technikák és tanulságos esetek megosztása által segítsünk a hatékony védekezésben. Másrészt pedig belekóstoltunk a Bitcoin Lightning Network legújabb fejlesztéseibe illetve protokolljaiba, és bemutattuk a RaspiBlitz projekt legújabb frissítéseit is, amely segít otthoni Bitcoin node-ok építésében, hangsúlyozva a hálózat decentralizációjának fontosságát és a saját validáció előnyeit.",
         img: "/pics/e77.jpg",
         link: "https://youtu.be/8FpQ9RHZr1A"
     },
     {
         summary: "Menekülési út, bárka, nostr, saját tárca",
         date: "2025.09.29.",
-        html: "<a href='/podcast'>Podcastunk</a> 75. epizódja a Bitcoin szerepét vizsgálja a jelenlegi gazdasági környezetben, kiemelve a fiat pénzrendszer kihívásait és a Bitcoin mint lehetséges alternatíva jelentőségét. Szó esik a közelgő <a href='https://bitcoinmiskolc.hu/' target='_blank'>Bitcoin Miskolc</a> konferencia programjáról és a közösségi edukáció fontosságáról, melynek jegyében zajlott a szeptemberi budapesti meetup a maga három edukatív prezentációjával.<br/><br/>Az előadások anyaga elérhető a tanulni vágyók számára az <a href='/eloadas'>előadás</a> oldalunkon. Témáik:<br/><br/><ul><li>Bitcoin tárca létrehozás, bitcoin fogadás és küldés</li><li>NOSTR gyorstalpaló - Közösségépítés cenzúra nélkül</li><li>A magyar Bárka - Mit tudsz tenni Te, magadért?</li></ul>",
+        html: "<a href='/podcast/'>Podcastunk</a> 75. epizódja a Bitcoin szerepét vizsgálja a jelenlegi gazdasági környezetben, kiemelve a fiat pénzrendszer kihívásait és a Bitcoin mint lehetséges alternatíva jelentőségét. Szó esik a közelgő <a href='https://bitcoinmiskolc.hu/' target='_blank'>Bitcoin Miskolc</a> konferencia programjáról és a közösségi edukáció fontosságáról, melynek jegyében zajlott a szeptemberi budapesti meetup a maga három edukatív prezentációjával.<br/><br/>Az előadások anyaga elérhető a tanulni vágyók számára az <a href='/eloadas/'>előadás</a> oldalunkon. Témáik:<br/><br/><ul><li>Bitcoin tárca létrehozás, bitcoin fogadás és küldés</li><li>NOSTR gyorstalpaló - Közösségépítés cenzúra nélkül</li><li>A magyar Bárka - Mit tudsz tenni Te, magadért?</li></ul>",
         img: "/pics/e75.jpg",
         link: "https://youtu.be/SJKpKzwi-4s"
     },
     {
         summary: "Podcast újdonságok",
         date: "2025.09.19.",
-        html: "Legfrissebb epizódunkban bemutatkozik Zoli, a Luxmérnök, mélyre ásunk vele a Bitcoin filozófiájában, a pénzügyi rendszer problémáiban és gyerekkori élményeiben, amelyek a decentralizált pénz iránti nyitottságát alakították.<br /><br />Előző <a href='/podcast'>podcast</a> adásunkban pedig Katával dumcsiztunk jogbizonytalanságról, jóságos jogalkotókról, finn bitcoinbányász konferenciáról, narancs nőkről, a <em>The Bitcoiner's Pretties</em>-ről, bitcoiner lifestyle-ról valamint a közelgő Bitcoin Miskolcról és magyar nyelvű <em>Rejtett elnyomás</em>ról.",
+        html: "Legfrissebb epizódunkban bemutatkozik Zoli, a Luxmérnök, mélyre ásunk vele a Bitcoin filozófiájában, a pénzügyi rendszer problémáiban és gyerekkori élményeiben, amelyek a decentralizált pénz iránti nyitottságát alakították.<br /><br />Előző <a href='/podcast/'>podcast</a> adásunkban pedig Katával dumcsiztunk jogbizonytalanságról, jóságos jogalkotókról, finn bitcoinbányász konferenciáról, narancs nőkről, a <em>The Bitcoiner's Pretties</em>-ről, bitcoiner lifestyle-ról valamint a közelgő Bitcoin Miskolcról és magyar nyelvű <em>Rejtett elnyomás</em>ról.",
         img: "/pics/e74.jpg",
         link: "https://youtu.be/mLARFdKzTh8"
     },
@@ -157,7 +157,7 @@ export const news = [
     {
         summary: "A Bitcoin morális jelentősége",
         date: "2025.07.04.",
-        html: "71. <a href='/podcast'>podcast</a> adásunkban összefoglaljuk Jack Mallers előadását a Bitcoin morális jelentőségéről, és szót ejtünk a fiat pénz problémáiról, a magyar Büntető Törvénykönyv új passzusairól, a Bitcoin elleni harcról, a megfélemlítésről, a YouTube cenzúráról, a Nostr jelentőségéről, valamint a nyári szünet előtti terveinkről és házi feladatokról.",
+        html: "71. <a href='/podcast/'>podcast</a> adásunkban összefoglaljuk Jack Mallers előadását a Bitcoin morális jelentőségéről, és szót ejtünk a fiat pénz problémáiról, a magyar Büntető Törvénykönyv új passzusairól, a Bitcoin elleni harcról, a megfélemlítésről, a YouTube cenzúráról, a Nostr jelentőségéről, valamint a nyári szünet előtti terveinkről és házi feladatokról.",
         img: "/pics/mi-az-a-bitcoin-e71.jpg",
         link: "https://youtu.be/1zyeFZQc_K8"
     },
@@ -169,75 +169,75 @@ export const news = [
     {
         summary: "Prágában jártunk 8000-en",
         date: "2025.06.27.",
-        html: "70. <a href='/podcast'>podcast</a> adásunkban élménybeszámolóval jelentkezünk a múlt heti, kb. 8000 érdeklődőt vonzó prágai konferenciáról, ahol több mint 7000 Bitcoin Lightning tranzakció zajlott flottul és villámgyorsan a <a href='https://btcpayserver.org' target='_blank'>BTCPay Server</a> és a <a href='https://www.blink.sv' target='_blank'>Blink</a> profi együttműködésének köszönhetően. A beszélgetésben szó esik többek közt a Bitaxe bitcoin bányászgépekről, a cypherpunk meetup egyedi hangulatáról és a vállalati Bitcoin adaptáció legfrissebb trendjeiről is.",
+        html: "70. <a href='/podcast/'>podcast</a> adásunkban élménybeszámolóval jelentkezünk a múlt heti, kb. 8000 érdeklődőt vonzó prágai konferenciáról, ahol több mint 7000 Bitcoin Lightning tranzakció zajlott flottul és villámgyorsan a <a href='https://btcpayserver.org' target='_blank'>BTCPay Server</a> és a <a href='https://www.blink.sv' target='_blank'>Blink</a> profi együttműködésének köszönhetően. A beszélgetésben szó esik többek közt a Bitaxe bitcoin bányászgépekről, a cypherpunk meetup egyedi hangulatáról és a vállalati Bitcoin adaptáció legfrissebb trendjeiről is.",
         img: "/pics/mi-az-a-bitcoin-e70.jpg",
         link: "https://youtu.be/EE0m8noziMc"
     },
     {
         summary: "Felelősségvállalás, szuverenitás, gazdagság",
         date: "2025.06.20.",
-        html: "69. <a href='/podcast'>podcast</a> adásunk újra a spiritualitás és a Bitcoin kapcsolatát boncolgatja. Feljönnek olyan témák, mint az ego, a felelősségvállalás, centralizáció vs. decentralizáció a természetben és társadalomban, a Bitcoin mint reménysugár és közösségi erő, alulról szerveződő közösségek, a cselekvés fontossága, a tudatosság és a Bitcoin hatása a világlátásra, a Bitcoin elfogadása és gyakorlati alkalmazása, a pénzvilág átformálása és pozitív jövőkép, Bitcoinerek közössége és az egyesítő erő.<br /><br />Oktatóvideóink között megjelent <a href='oktatovideo#feliratos'>két újonnan feliratozott felvétel</a>, melyek a május végi Las Vegas-i Bitcoin Konferencián hangzottak el. Egyik feliratozott videónk Jack Mallers prezentációjának rövidített változata, melyben az adósság alapú pénzügyi rendszer problémáit és a Bitcoin szuverenitást nyújtó erejét tárja fel. A másik videó pedig Michael Saylor <em>21 út a gazdagsághoz</em> c. nyitóbeszédének teljes változata.",
+        html: "69. <a href='/podcast/'>podcast</a> adásunk újra a spiritualitás és a Bitcoin kapcsolatát boncolgatja. Feljönnek olyan témák, mint az ego, a felelősségvállalás, centralizáció vs. decentralizáció a természetben és társadalomban, a Bitcoin mint reménysugár és közösségi erő, alulról szerveződő közösségek, a cselekvés fontossága, a tudatosság és a Bitcoin hatása a világlátásra, a Bitcoin elfogadása és gyakorlati alkalmazása, a pénzvilág átformálása és pozitív jövőkép, Bitcoinerek közössége és az egyesítő erő.<br /><br />Oktatóvideóink között megjelent <a href='oktatovideo#feliratos'>két újonnan feliratozott felvétel</a>, melyek a május végi Las Vegas-i Bitcoin Konferencián hangzottak el. Egyik feliratozott videónk Jack Mallers prezentációjának rövidített változata, melyben az adósság alapú pénzügyi rendszer problémáit és a Bitcoin szuverenitást nyújtó erejét tárja fel. A másik videó pedig Michael Saylor <em>21 út a gazdagsághoz</em> c. nyitóbeszédének teljes változata.",
         img: "/pics/mi-az-a-bitcoin-e69.jpg",
         link: "https://youtu.be/heedVK9k-88"
     },
     {
         summary: "Pizza Day a Dunakanyarban és Budapesten",
-        html: "<a href=\"/pizzaday\"><img src=\"/pics/pizzai.jpg\"></a><p>Idén 15 éve történt az első vásárlás Bitcoinnal. Ebből az alkalomból május 24-én szombaton egész nap Bitcoinnal fizethetsz a Dunakanyarban 3 helyen.</p><p>Lazuljunk együtt a Piknikben Nagymaroson, majd félórás bringázás a Duna-parton, végül pizzázzunk együtt Verőcén! <a href=\"/pizzaday\">Részletek itt.</a></p><p>Budapesten is lesz a Pizza Nap alkalmából találkozó. Várunk május 22-én délután 4-től az Ábel Jenő utca 29. szám alatt egy nagy kerti pizzázásra!</p>",
+        html: "<a href=\"/pizzaday/\"><img src=\"/pics/pizzai.jpg\" alt=\"Bitcoin Pizza Nap a Dunakanyarban\"></a><p>Idén 15 éve történt az első vásárlás Bitcoinnal. Ebből az alkalomból május 24-én szombaton egész nap Bitcoinnal fizethetsz a Dunakanyarban 3 helyen.</p><p>Lazuljunk együtt a Piknikben Nagymaroson, majd félórás bringázás a Duna-parton, végül pizzázzunk együtt Verőcén! <a href=\"/pizzaday/\">Részletek itt.</a></p><p>Budapesten is lesz a Pizza Nap alkalmából találkozó. Várunk május 22-én délután 4-től az Ábel Jenő utca 29. szám alatt egy nagy kerti pizzázásra!</p>",
         date: "2025.05.13."
     },
     {
         summary: "Defláció, decentralizáció, hiperbitcoinizáció",
-        html: "<a href='/podcast'>Podcastunkban</a> szóba került a tömegpszichológia, a manipuláció, az árelnyomás és a Bitcoin kincstári cégek témája, valamint a Bitcoin node működtetésének jelentősége, ami tömören a biztonság, magánszféra és szabadság támogatása.<br /><br />Új <a href='/cikkek'>cikkeink</a> egyrészt a hiperbitcoinizációt veszik górcső alá, másrészt pedig <b>A holnap ára</b> c. fantasztikusan időszerű könyvet, mely immár magyar nyelven is elérhető, és lényegében azt ecseteli, hogy a technológiai fejlődés az árak zuhanását eredményezi, ami deflációs hatása miatt az infláción és adósságon alapuló, elavult, centralizált pénzügyi-gazdasági rendszer ellen hat, ez pedig egyre nagyobb feszültségekhez vezet. A probléma részletes feltárása mellett erősen megjelenik a könyvben a megoldás centrikus, optimista hozzáállás, és a lényegi üzenete, hogy <b>arra fókuszáljunk, amit látni szeretnénk a világban,</b> és kreatívan, szabadon együttműködve vegyük ki a részünket új, decentralizált rendszereink építésében.<br /><br /><a href='/konyvek'>Könyv</a> oldalunk pedig bővült a fentebb említett kötelező olvasmánnyal.",
+        html: "<a href='/podcast/'>Podcastunkban</a> szóba került a tömegpszichológia, a manipuláció, az árelnyomás és a Bitcoin kincstári cégek témája, valamint a Bitcoin node működtetésének jelentősége, ami tömören a biztonság, magánszféra és szabadság támogatása.<br /><br />Új <a href='/cikk/'>cikkeink</a> egyrészt a hiperbitcoinizációt veszik górcső alá, másrészt pedig <b>A holnap ára</b> c. fantasztikusan időszerű könyvet, mely immár magyar nyelven is elérhető, és lényegében azt ecseteli, hogy a technológiai fejlődés az árak zuhanását eredményezi, ami deflációs hatása miatt az infláción és adósságon alapuló, elavult, centralizált pénzügyi-gazdasági rendszer ellen hat, ez pedig egyre nagyobb feszültségekhez vezet. A probléma részletes feltárása mellett erősen megjelenik a könyvben a megoldás centrikus, optimista hozzáállás, és a lényegi üzenete, hogy <b>arra fókuszáljunk, amit látni szeretnénk a világban,</b> és kreatívan, szabadon együttműködve vegyük ki a részünket új, decentralizált rendszereink építésében.<br /><br /><a href='/konyv/'>Könyv</a> oldalunk pedig bővült a fentebb említett kötelező olvasmánnyal.",
         date: "2025.05.09."
     },
     {
         summary: "Dömping",
-        html: "Egyrészt izgalmas <a href='/cikkek'>cikkek</a>kel és <a href='/podcast'>podcast</a> beszélgetésekkel bővült a honlapunkon elérhető anyagok tárháza, többek közt az alábbi témákaban: digitális euró vs. bitcoin, egészéges pénz, szabad piac, osztrák közgazdaságtan, pénznyomtatás, bitcoin és spiritualitás.<br /><br />Másrészt pedig egyre több felvétel bukkan fel <a href='/eloadas'>előadás</a> oldalunkon a márciusi bitcoin konferencia terméseként. Böngésszétek, osszátok!",
+        html: "Egyrészt izgalmas <a href='/cikk/'>cikkek</a>kel és <a href='/podcast/'>podcast</a> beszélgetésekkel bővült a honlapunkon elérhető anyagok tárháza, többek közt az alábbi témákaban: digitális euró vs. bitcoin, egészéges pénz, szabad piac, osztrák közgazdaságtan, pénznyomtatás, bitcoin és spiritualitás.<br /><br />Másrészt pedig egyre több felvétel bukkan fel <a href='/eloadas/'>előadás</a> oldalunkon a márciusi bitcoin konferencia terméseként. Böngésszétek, osszátok!",
         date: "2025.04.17."
     },
     {
         summary: "Fut a vonat",
-        html: "A konferencián több százan kapcsolódtunk egymástól tanulva, egy igazságosabb és szabadabb rendszer épüléséért tevékenykedve. Köszönünk szépen minden személyes visszajelzést!<br /><br /><a href='/podcast'>Podcastunk</a> az utóbbi hetekben számos új témával rukkolt elő. Kiveséztük a bitcoin vásárlási módokat, bemutattuk a Ginger walletet, ismerkedtünk, makróztunk, áramoltunk és még vonatoztunk is. Az új <a href='/cikkek'>cikkek</a> pedig újfent amerikai fejleményekkel kapcsolatosak.",
+        html: "A konferencián több százan kapcsolódtunk egymástól tanulva, egy igazságosabb és szabadabb rendszer épüléséért tevékenykedve. Köszönünk szépen minden személyes visszajelzést!<br /><br /><a href='/podcast/'>Podcastunk</a> az utóbbi hetekben számos új témával rukkolt elő. Kiveséztük a bitcoin vásárlási módokat, bemutattuk a Ginger walletet, ismerkedtünk, makróztunk, áramoltunk és még vonatoztunk is. Az új <a href='/cikk/'>cikkek</a> pedig újfent amerikai fejleményekkel kapcsolatosak.",
         date: "2025.03.28."
     },
     {
         summary: "FUD-oszlatás",
-        html: "Több fronton is oszlatjuk a FUD-ot, vagyis a tipikus félelmeket, bizonytalanságokat és kétségeket, melyek visszatérően felmerülnek, nagyrészt a médiának köszönhetően. Két <a href='/podcast'>podcast</a> adásunk fókuszába is ez került, továbbá ez a témája a <em>Mi a FUD?</em> c. rövidfilmnek is, melyet frissen feliratoztunk és immár <a href='/oktatovideo'>oktatóvideó</a> oldalunkat gazdagítja.<br /><br /><a href='/cikkek'>Cikkeink tárháza</a> is bővült. Ezúttal két tartalmas, angol nyelvű podcast beszélgetés összefoglalója jelent meg magyar nyelven. Az egyik a <em>Bitcoin és az emberi jogok</em> témáját boncolgatja, a másik pedig az amerikai gazdaság és a globális pénzügyi rendszer várható változásait veszi górcső alá.",
+        html: "Több fronton is oszlatjuk a FUD-ot, vagyis a tipikus félelmeket, bizonytalanságokat és kétségeket, melyek visszatérően felmerülnek, nagyrészt a médiának köszönhetően. Két <a href='/podcast/'>podcast</a> adásunk fókuszába is ez került, továbbá ez a témája a <em>Mi a FUD?</em> c. rövidfilmnek is, melyet frissen feliratoztunk és immár <a href='/oktatovideo/'>oktatóvideó</a> oldalunkat gazdagítja.<br /><br /><a href='/cikk/'>Cikkeink tárháza</a> is bővült. Ezúttal két tartalmas, angol nyelvű podcast beszélgetés összefoglalója jelent meg magyar nyelven. Az egyik a <em>Bitcoin és az emberi jogok</em> témáját boncolgatja, a másik pedig az amerikai gazdaság és a globális pénzügyi rendszer várható változásait veszi górcső alá.",
         date: "2025.02.07."
     },
     {
         summary: "Új oktatóvideó oldal, kulcs gondolatok",
-        html: "<a href='/oktatovideo'>Oktatóvideó</a> oldalunkon mostantól megtaláljátok az általunk feliratozott ill. általunk készített videók összefoglalóját.<br /><br />Legfrissebb <a href='/podcast'>podcastunk</a> néhány kulcs gondolata: Trump pump & dump - Miért a pénz a legnagyobb probléma? - Arra fókuszálj, amire tudsz hatni - Szabad vagy, csak a szabadságot kell választanod - A Bitcoin támogatja a pozitív szemléletet - A bankban lévő pénzed nem pénz és nem a tiéd - Hozz létre saját tartalék alapot! - Bitcoin konferencia Hajdúszoboszlón",
+        html: "<a href='/oktatovideo/'>Oktatóvideó</a> oldalunkon mostantól megtaláljátok az általunk feliratozott ill. általunk készített videók összefoglalóját.<br /><br />Legfrissebb <a href='/podcast/'>podcastunk</a> néhány kulcs gondolata: Trump pump & dump - Miért a pénz a legnagyobb probléma? - Arra fókuszálj, amire tudsz hatni - Szabad vagy, csak a szabadságot kell választanod - A Bitcoin támogatja a pozitív szemléletet - A bankban lévő pénzed nem pénz és nem a tiéd - Hozz létre saját tartalék alapot! - Bitcoin konferencia Hajdúszoboszlón",
         date: "2025.01.24."
     },
     {
         summary: "Travel Rule, MiCA, nyílt levél",
-        html: "Újabb videókkal bővült a <a href='https://youtube.com/playlist?list=PL2mtusxzX3HJtT29NWyVy-feSf8OcRJlB' target='_blank'>Bitcoin videók magyar felirattal</a> lejátszási lista, többek között az <a href='https://youtu.be/IamoZ0f1dlU' target='_blank'>Isten, áldd meg a Bitcoint</a> 90 perces dokumentumfilmmel, mely mélyen belemerül a Bitcoin erkölcsi és etikai aspektusaiba, valamint abba, hogy milyen hatással lehet a világra ez a pénz.<br/><br/>Youtube csatornánk egy <a href='https://youtu.be/wyIY89yrGZU' target='_blank'>Jade tárca oktatóvideóval</a> is bővült, illetve újabb <a href='/podcast'>podcast</a> adásokkal, melyekben a Travel Rule, a MiCA szabályozás és a 16 éves Bitcoin ciklusai kaptak főszerepet.",
+        html: "Újabb videókkal bővült a <a href='https://youtube.com/playlist?list=PL2mtusxzX3HJtT29NWyVy-feSf8OcRJlB' target='_blank'>Bitcoin videók magyar felirattal</a> lejátszási lista, többek között az <a href='https://youtu.be/IamoZ0f1dlU' target='_blank'>Isten, áldd meg a Bitcoint</a> 90 perces dokumentumfilmmel, mely mélyen belemerül a Bitcoin erkölcsi és etikai aspektusaiba, valamint abba, hogy milyen hatással lehet a világra ez a pénz.<br/><br/>Youtube csatornánk egy <a href='https://youtu.be/wyIY89yrGZU' target='_blank'>Jade tárca oktatóvideóval</a> is bővült, illetve újabb <a href='/podcast/'>podcast</a> adásokkal, melyekben a Travel Rule, a MiCA szabályozás és a 16 éves Bitcoin ciklusai kaptak főszerepet.",
         date: "2025.01.17."
     },
     {
         summary: "Bitcoin fedezetű hitel, tömeges megértés, JAN3 játék, felirat",
-        html: "Az év utolsó két <a href='/podcast'>podcast</a> epizódjának fő témája a bitcoin fedezetű hitelek és a bitcoin tömeges megértésének szükségessége voltak, röviden visszatekintettünk a mögöttünk hagyott egy év 45 epizódjára, valamint elindítottunk egy január 3-ig tartó támogatói nyereményjátékot, mely során 3 db JAN3 logós Jade hardver tárca és 10 db webkamera takaró talál gazdára.<br/><br/>Továbbá publikáltunk egy újabb magyar feliratos rövid videót, mely a <a href='https://youtube.com/playlist?list=PL2mtusxzX3HJtT29NWyVy-feSf8OcRJlB' target='_blank'>Bitcoin videók magyar felirattal</a> lejátszási listát gazdagítja.",
+        html: "Az év utolsó két <a href='/podcast/'>podcast</a> epizódjának fő témája a bitcoin fedezetű hitelek és a bitcoin tömeges megértésének szükségessége voltak, röviden visszatekintettünk a mögöttünk hagyott egy év 45 epizódjára, valamint elindítottunk egy január 3-ig tartó támogatói nyereményjátékot, mely során 3 db JAN3 logós Jade hardver tárca és 10 db webkamera takaró talál gazdára.<br/><br/>Továbbá publikáltunk egy újabb magyar feliratos rövid videót, mely a <a href='https://youtube.com/playlist?list=PL2mtusxzX3HJtT29NWyVy-feSf8OcRJlB' target='_blank'>Bitcoin videók magyar felirattal</a> lejátszási listát gazdagítja.",
         date: "2024.12.27."
     },
     {
         summary: "Bitcoin fejlesztés, Nemzeti Bitcoin Tartalék javaslat",
-        html: "<a href='/podcast'>Podcastunk</a> két legutóbbi adásában egyrészt a Bitcoin fejlesztésről illetve magukról a Bitcoin fejlesztőkről beszélgettünk, másrészt pedig javaslatot tettünk Nemzeti Bitcoin Tartalék kialakítására, melyet kiegészítettünk egy államadósság-csökkentési számítással, nem utolsó sorban pedig bitcoinban való megtakarításra biztatunk mindenkit.",
+        html: "<a href='/podcast/'>Podcastunk</a> két legutóbbi adásában egyrészt a Bitcoin fejlesztésről illetve magukról a Bitcoin fejlesztőkről beszélgettünk, másrészt pedig javaslatot tettünk Nemzeti Bitcoin Tartalék kialakítására, melyet kiegészítettünk egy államadósság-csökkentési számítással, nem utolsó sorban pedig bitcoinban való megtakarításra biztatunk mindenkit.",
         date: "2024.12.06."
     },
     {
         summary: "Globális verseny, stratégiai bitcoin vásárlás",
-        html: "Két új <a href='/cikkek'>cikk</a> hívja fel a figyelmet arra, ahogy amerikai bitcoinerek pénzügyi műsorokon keresztül adnak hangot azon véleményüknek, hogy a globális bitcoin tartalékolási verseny elkezdődött. Mindkettő fókuszában olyan néhány perces videó áll, melyek fontos üzenetet hordoznak, s ennek köszönhetően magyar feliratot is kaptak. Ezzel egyidőben a cikkek megjelenésének sorrendje is megváltozott, így mostantól a legfrissebb cikk kerül a lista elejére.",
+        html: "Két új <a href='/cikk/'>cikk</a> hívja fel a figyelmet arra, ahogy amerikai bitcoinerek pénzügyi műsorokon keresztül adnak hangot azon véleményüknek, hogy a globális bitcoin tartalékolási verseny elkezdődött. Mindkettő fókuszában olyan néhány perces videó áll, melyek fontos üzenetet hordoznak, s ennek köszönhetően magyar feliratot is kaptak. Ezzel egyidőben a cikkek megjelenésének sorrendje is megváltozott, így mostantól a legfrissebb cikk kerül a lista elejére.",
         date: "2024.11.24."
     },
     {
         summary: "Nostr, anonimitás, bitcoin tárca fejlesztés",
-        html: "Bővült <a href='/podcast'>podcast</a> gyűjteményünk Nosrt, anonimitás, bitcoin tárca fejlesztés témákban, valamint újabb <a href='/eloadas'>előadás</a> anyaga vált elérhetővé 'A pénz és Te az eltűnő érték világában' címmel.",
+        html: "Bővült <a href='/podcast/'>podcast</a> gyűjteményünk Nosrt, anonimitás, bitcoin tárca fejlesztés témákban, valamint újabb <a href='/eloadas/'>előadás</a> anyaga vált elérhetővé 'A pénz és Te az eltűnő érték világában' címmel.",
         date: "2024.11.23."
     },
     {
         summary: "DIY, Pogi, feliratozás",
-        html: "<a href='/podcast'>Podcastunkban</a> néhány szereld magad (DIY) készüléket vettünk górcső alá, majd pedig Pogátsa Zoltán 'Bitcoin és barátai' online előadását, és kommentáltuk az abban elhangzott tévedéseket, továbbá meghivatkoztunk néhány magyar felirattal frissen ellátott Bitcoin vonatkozású videót, melyeket a <a href='https://youtube.com/playlist?list=PL2mtusxzX3HJtT29NWyVy-feSf8OcRJlB' target='_blank'>Bitcoin videók magyar felirattal</a> lejátszási listában szedtük csokorba.",
+        html: "<a href='/podcast/'>Podcastunkban</a> néhány szereld magad (DIY) készüléket vettünk górcső alá, majd pedig Pogátsa Zoltán 'Bitcoin és barátai' online előadását, és kommentáltuk az abban elhangzott tévedéseket, továbbá meghivatkoztunk néhány magyar felirattal frissen ellátott Bitcoin vonatkozású videót, melyeket a <a href='https://youtube.com/playlist?list=PL2mtusxzX3HJtT29NWyVy-feSf8OcRJlB' target='_blank'>Bitcoin videók magyar felirattal</a> lejátszási listában szedtük csokorba.",
         date: "2024.11.08."
     },
     {
@@ -247,37 +247,37 @@ export const news = [
     },
     {
         summary: "Ma is forradalom részesei vagyunk",
-        html: "<em>A ma általánosan alkalmazott pénzügyi rendszerünk alapvetően korrupt. Ebből egyrészt következtethetünk arra, hogy egyáltalán nem meglepő, hogy a korrupció áthatja az egész társadalmat, másrészt könnyűszerrel beláthatjuk, hogy a korrupció ellenes törekvés egyetlen hatékony módja az, ha megoldjuk az alapvető problémát.</em><br/>Részlet egy <a href='https://europeanbitcoiners.com/ma-is-forradalom-reszesei-vagyunk/' target='_blank'>forradalmi hangvételű cikkből.</a><br /><br />Újabb négy előadás jelent meg, így most már mintegy <a href='/eloadas'>öt és fél órányi anyag hallgatható illetve nézhető meg</a> a forradalmi konferenciából.",
+        html: "<em>A ma általánosan alkalmazott pénzügyi rendszerünk alapvetően korrupt. Ebből egyrészt következtethetünk arra, hogy egyáltalán nem meglepő, hogy a korrupció áthatja az egész társadalmat, másrészt könnyűszerrel beláthatjuk, hogy a korrupció ellenes törekvés egyetlen hatékony módja az, ha megoldjuk az alapvető problémát.</em><br/>Részlet egy <a href='https://europeanbitcoiners.com/ma-is-forradalom-reszesei-vagyunk/' target='_blank'>forradalmi hangvételű cikkből.</a><br /><br />Újabb négy előadás jelent meg, így most már mintegy <a href='/eloadas/'>öt és fél órányi anyag hallgatható illetve nézhető meg</a> a forradalmi konferenciából.",
         date: "2024.10.23."
     },
     {
         summary: "Mitől működik a Bitcoin?",
-        html: "Elérhetővé vált további 3 <a href='/eloadas'>előadás</a> anyaga, melyek <em>Mi a bitcoin?</em>, <em>Absztrakt erő és fizikai erő</em> és <em>Mitől működik a Bitcoin?</em> címmel hangzottak el a konferencia színpadán. Több irányból is megvilágítást nyer, hogy miért szükségszerűen fantasztikus eleme a Bitcoinnak a proof-of-work, majd fény derül a tökéletes pénz ideájára és annak megközelítésére is.",
+        html: "Elérhetővé vált további 3 <a href='/eloadas/'>előadás</a> anyaga, melyek <em>Mi a bitcoin?</em>, <em>Absztrakt erő és fizikai erő</em> és <em>Mitől működik a Bitcoin?</em> címmel hangzottak el a konferencia színpadán. Több irányból is megvilágítást nyer, hogy miért szükségszerűen fantasztikus eleme a Bitcoinnak a proof-of-work, majd fény derül a tökéletes pénz ideájára és annak megközelítésére is.",
         date: "2024.10.18."
     },
     {
         summary: "Mi a pénz? Mi a probléma?",
-        html: "Megjelent a konferencia kezdő videója, mely <a href='/eloadas'>Előadás</a> oldalunkra is felkerült, és olyan témákban elmerülve alapozza meg ismereteinket, mint: <em>Mi a pénz? A pénz tulajdonságai. Pénz és történelem. Az aranyfedezet megszűnése. Mi történt 1971-ben? Az adósság probléma. Mi várható?</em>, majd a közönség néhány kérdésére elhangzott válaszokra derül fény.",
+        html: "Megjelent a konferencia kezdő videója, mely <a href='/eloadas/'>Előadás</a> oldalunkra is felkerült, és olyan témákban elmerülve alapozza meg ismereteinket, mint: <em>Mi a pénz? A pénz tulajdonságai. Pénz és történelem. Az aranyfedezet megszűnése. Mi történt 1971-ben? Az adósság probléma. Mi várható?</em>, majd a közönség néhány kérdésére elhangzott válaszokra derül fény.",
         date: "2024.10.16."
     },
     {
         summary: "Első magyar Bitcoin konferencia",
-        html: "Október 13-án, vasárnap zárult a minden szempontból fantasztikusan sikerült, 3-napos Bitcoin Miskolc, az első magyarországi Bitcoin konferencia. Ezúttal lehettünk első alkalommal tanúi kizárólag Bitcoin témájú, magyar nyelvű konferenciának, közel 200 résztvevővel, ráadásul ingyen. A szervezésben és az előadások, beszélgetések megtartásában a HUSZONEGY számos tagja önként vállalt aktív szerepet, amiért ezúton is nagy köszönet mindannyiuknak. A remek előadások és beszélgetések video felvételei néhány napon belül elérhetőek lesznek a <a href='https://www.youtube.com/@Bitcoinmiskolc' target='_blank'>BitcoinMiskolc youtube csatornáján</a>.<br /><br />Egy bővebb <a href='https://europeanbitcoiners.com/elso-magyar-bitcoin-konferencia/' target='_blank'>beszámoló a konferenciáról</a> ebben a cikkben olvasható.<br /><br /><a href='/podcast'>Podcastunk</a> legfrissebb adásában pedig a Lightning Network körül forog a világ, kimondottan jól érthető formában.",
+        html: "Október 13-án, vasárnap zárult a minden szempontból fantasztikusan sikerült, 3-napos Bitcoin Miskolc, az első magyarországi Bitcoin konferencia. Ezúttal lehettünk első alkalommal tanúi kizárólag Bitcoin témájú, magyar nyelvű konferenciának, közel 200 résztvevővel, ráadásul ingyen. A szervezésben és az előadások, beszélgetések megtartásában a HUSZONEGY számos tagja önként vállalt aktív szerepet, amiért ezúton is nagy köszönet mindannyiuknak. A remek előadások és beszélgetések video felvételei néhány napon belül elérhetőek lesznek a <a href='https://www.youtube.com/@Bitcoinmiskolc' target='_blank'>BitcoinMiskolc youtube csatornáján</a>.<br /><br />Egy bővebb <a href='https://europeanbitcoiners.com/elso-magyar-bitcoin-konferencia/' target='_blank'>beszámoló a konferenciáról</a> ebben a cikkben olvasható.<br /><br /><a href='/podcast/'>Podcastunk</a> legfrissebb adásában pedig a Lightning Network körül forog a világ, kimondottan jól érthető formában.",
         date: "2024.10.14."
     },
     {
         summary: "Nők a Bitcoinban, 'Biztonságos-e a Bitcoin?'",
-        html: "<a href='/podcast'>Podcastunkban</a> nők a Bitcoinban, <a href='https://bitcoinmiskolc.hu' target='_blank'>Bitcoin Miskolc konferencia</a>, barátságos légkör, életen át tartó tanulás, olvasás, könyvek. A magyarra fordított Strike oktató cikkek pedig kiegészültek a Bitcoin kockázatait optimális tömörséggel kifejtő <a href='https://inflacio.eu/biztonsagos-e-a-bitcoin/' target='_blank'>Biztonságos-e a Bitcoin?</a>.",
+        html: "<a href='/podcast/'>Podcastunkban</a> nők a Bitcoinban, <a href='https://bitcoinmiskolc.hu' target='_blank'>Bitcoin Miskolc konferencia</a>, barátságos légkör, életen át tartó tanulás, olvasás, könyvek. A magyarra fordított Strike oktató cikkek pedig kiegészültek a Bitcoin kockázatait optimális tömörséggel kifejtő <a href='https://inflacio.eu/biztonsagos-e-a-bitcoin/' target='_blank'>Biztonságos-e a Bitcoin?</a>.",
         date: "2024.10.04."
     },
     {
         summary: "Bitcoin előadások",
-        html: "Új oldallal és új menüponttal gazdagodott honlapunk. <a href='/eloadas'>Előadás</a> címszó alatt mostantól megtalálhatóak a magyar bitcoinerekből álló HUSZONEGY csoport magyar nyelvű előadásai. Az eddigi néhány előadást hamarosan számos újabb követi, melyek a közelgő <a href='https://bitcoinmiskolc.hu' target='_blank'>Bitcoin Miskolc konferenciát</a> követően lesznek közzé téve.",
+        html: "Új oldallal és új menüponttal gazdagodott honlapunk. <a href='/eloadas/'>Előadás</a> címszó alatt mostantól megtalálhatóak a magyar bitcoinerekből álló HUSZONEGY csoport magyar nyelvű előadásai. Az eddigi néhány előadást hamarosan számos újabb követi, melyek a közelgő <a href='https://bitcoinmiskolc.hu' target='_blank'>Bitcoin Miskolc konferenciát</a> követően lesznek közzé téve.",
         date: "2024.09.29."
     },
     {
         summary: "A mérnökileg megtervezett pénzügyi rendszer időszerűsége",
-        html: "A <a href='/podcast'>Mi az a Bitcoin?</a> aktuális adásában szót ejtünk a Bitcoin Miskolc konferencia részleteiről, 'A Bitcoin ígéretes jövőjéről', a jó pénz kritériumairól, az arany demonetizálásáról, befektetett időről és energiáról, interdiszciplinaritásról, a mérnökileg megtervezett pénzügyi rendszer időszerűségéről, arról, hogy hogyan csap be minket a nyomtatható pénz világa, a holnap áráról, nemzetállamok békés háborúskodásáról.<br /><br />Az elmúlt néhány epizódban beszélgettünk Bitcoin könyvekről, a központi bankok kártékony manőverezéséről, az ettől való függetlenedésről, a szabad szoftver és emberi szabadság összefüggéseiről, valamint az AI élethosszig tartó tanulást támogató aspektusáról.",
+        html: "A <a href='/podcast/'>Mi az a Bitcoin?</a> aktuális adásában szót ejtünk a Bitcoin Miskolc konferencia részleteiről, 'A Bitcoin ígéretes jövőjéről', a jó pénz kritériumairól, az arany demonetizálásáról, befektetett időről és energiáról, interdiszciplinaritásról, a mérnökileg megtervezett pénzügyi rendszer időszerűségéről, arról, hogy hogyan csap be minket a nyomtatható pénz világa, a holnap áráról, nemzetállamok békés háborúskodásáról.<br /><br />Az elmúlt néhány epizódban beszélgettünk Bitcoin könyvekről, a központi bankok kártékony manőverezéséről, az ettől való függetlenedésről, a szabad szoftver és emberi szabadság összefüggéseiről, valamint az AI élethosszig tartó tanulást támogató aspektusáról.",
         date: "2024.09.27."
     },
     {
@@ -287,77 +287,77 @@ export const news = [
     },
     {
         summary: "A pénzek királya és 21 oktató cikk",
-        html: "A <a href='/podcast'>Mi az a Bitcoin?</a> legutóbbi adásaiban szót ejtettünk az elmúlt hetek árdinamikájáról, a japán carry-trade-ről, likviditásról, az ETF-ekről, továbbá rejtett elnyomásról, átverésekről, a Bitcoinról mint nem befektetésről, jogalkotásról, általános alapjövedelemről, valódi értékről, valódi növekedésről, közelgő magyar Bitcoin konferenciáról, női mozgolódásokról, 21 frissen fordított oktató cikkről és további Bitcoin könyvekről.",
+        html: "A <a href='/podcast/'>Mi az a Bitcoin?</a> legutóbbi adásaiban szót ejtettünk az elmúlt hetek árdinamikájáról, a japán carry-trade-ről, likviditásról, az ETF-ekről, továbbá rejtett elnyomásról, átverésekről, a Bitcoinról mint nem befektetésről, jogalkotásról, általános alapjövedelemről, valódi értékről, valódi növekedésről, közelgő magyar Bitcoin konferenciáról, női mozgolódásokról, 21 frissen fordított oktató cikkről és további Bitcoin könyvekről.",
         date: "2024.08.23."
     },
     {
         summary: "Trump Bitcoin konferencia beszéde és White Paper",
-        html: "Az elmúlt két hét <a href='/podcast'>podcast</a> adásaiban Trump Nashville-i Bitcoin Konferencián mondott beszéde kapcsán beszélgettünk arról, hogy a Bitcoin egyre nagyobb szerepet kap a világpolitikában, majd pedig egy különleges epizód keretében sor került a 'Bitcoin Whitepaper', a Satoshi Nakamoto által 2008. október 31-én publikált 'Bitcoin tanulmány' magyar változatának felolvasására.",
+        html: "Az elmúlt két hét <a href='/podcast/'>podcast</a> adásaiban Trump Nashville-i Bitcoin Konferencián mondott beszéde kapcsán beszélgettünk arról, hogy a Bitcoin egyre nagyobb szerepet kap a világpolitikában, majd pedig egy különleges epizód keretében sor került a 'Bitcoin Whitepaper', a Satoshi Nakamoto által 2008. október 31-én publikált 'Bitcoin tanulmány' magyar változatának felolvasására.",
         date: "2024.08.09."
     },
     {
         summary: "Bitcoin Miskolc, politika és magánszféra",
-        html: "A <a href='/podcast'>Mi az a Bitcoin?</a>-ban Ferivel és Noparával beszélgettünk. Feritől megtudhattuk, hogy áll az októberi Bitcoin Miskolc konferencia szervezése, miket várhatunk, kikkel találkozhatunk majd az október 11-13. között a miskolci Aurora Hotelben megrendezésre kerülő első hazai Bitcoin konferencián. Nopara elmesélte, hogyan nehezítette meg a privacy alapú fejlesztéseket a Biden kormány az USÁ-ban, valamint miket látunk ezen a területen, és miért vagyunk mégis optimisták. Továbbá kitértünk a bitcoin tanulásának legfájdalmasabb módjára, de beszéltünk hardware tárcákról és a Wasabi walletről is.",
+        html: "A <a href='/podcast/'>Mi az a Bitcoin?</a>-ban Ferivel és Noparával beszélgettünk. Feritől megtudhattuk, hogy áll az októberi Bitcoin Miskolc konferencia szervezése, miket várhatunk, kikkel találkozhatunk majd az október 11-13. között a miskolci Aurora Hotelben megrendezésre kerülő első hazai Bitcoin konferencián. Nopara elmesélte, hogyan nehezítette meg a privacy alapú fejlesztéseket a Biden kormány az USÁ-ban, valamint miket látunk ezen a területen, és miért vagyunk mégis optimisták. Továbbá kitértünk a bitcoin tanulásának legfájdalmasabb módjára, de beszéltünk hardware tárcákról és a Wasabi walletről is.",
         date: "2024.07.26."
     },
     {
         summary: "Bitcoin tárca kezdőknek és Lightning Network felhasználóknak",
-        html: "<a href='/podcast'>Bemutatkozik</a> a Galoy nevű cég (El Salvador) Blink applikációja, illetve a Strike nevű cég (USA) Strike alkalmazása. Mindkét cég etikus és egyúttal bitcoin-only, tehát kizárólag Bitcoinnal foglalkoznak. Ezek letéti tárcák, tehát a pénzügyi szolgáltató  - mint egy bitcoin bank - kezeli a 'bennük' tárolt satokat. Használatuk könnyű, gyorsan elsajátítható és nem utolsó sorban kedvező díjszabású. Ezért kiváló tárcák kezdők számára, de azok számára is szolgálnak igen hasznos funkciókkal, akik korábban 'csak' tartottak bitcoint, és végre nyitnak a Lightning Network használata felé.<br /><br />A Blink magyar felülettel is rendelkezik, és kvíz kérdések megválaszolásán keresztül játékosan tanít a Bitcoinról, miközben satokkal jutalmaz. A Strike egyelőre csak angolul tud, viszont a Strike egyben minden szempontból a legjobb exchange vagyis kritotőzsde, ahol bitcoinhoz lehet jutni.",
+        html: "<a href='/podcast/'>Bemutatkozik</a> a Galoy nevű cég (El Salvador) Blink applikációja, illetve a Strike nevű cég (USA) Strike alkalmazása. Mindkét cég etikus és egyúttal bitcoin-only, tehát kizárólag Bitcoinnal foglalkoznak. Ezek letéti tárcák, tehát a pénzügyi szolgáltató  - mint egy bitcoin bank - kezeli a 'bennük' tárolt satokat. Használatuk könnyű, gyorsan elsajátítható és nem utolsó sorban kedvező díjszabású. Ezért kiváló tárcák kezdők számára, de azok számára is szolgálnak igen hasznos funkciókkal, akik korábban 'csak' tartottak bitcoint, és végre nyitnak a Lightning Network használata felé.<br /><br />A Blink magyar felülettel is rendelkezik, és kvíz kérdések megválaszolásán keresztül játékosan tanít a Bitcoinról, miközben satokkal jutalmaz. A Strike egyelőre csak angolul tud, viszont a Strike egyben minden szempontból a legjobb exchange vagyis kritotőzsde, ahol bitcoinhoz lehet jutni.",
         date: "2024.07.19."
     },
     {
         summary: "21 hét, 21 adás a HUSZONEGY-től",
-        html: "21 héttel ezelőtt indult a HUSZONEGY bitcoiner közösség <a href='/podcast'>'Mi az a Bitcoin?' podcastja</a>, mely hétről hétre egyre több magyar bitcoinerrel folytatott beszélgetést tesz közkinccsé, melyek magyar nyelvű bitcoin ismereteket hivatottak közvetíteni az arra nyitott hallgatóság számára.<br /><br />A 21. adásban arra tettünk kísérletet, hogy egy sajátosan rendezett csokorba fogjuk mindazt, amit eddig produkáltunk, és erre rálátva vegyünk lendületet a folytatáshoz.<br /><br />Ezúton is köszönünk minden visszajelzést, megosztást és támogatást, melyek mind hozzájárulnak ahhoz, hogy egyre szélesebb körű hallgatósághoz juttassuk el szabadságért szóló szavainkat.",
+        html: "21 héttel ezelőtt indult a HUSZONEGY bitcoiner közösség <a href='/podcast/'>'Mi az a Bitcoin?' podcastja</a>, mely hétről hétre egyre több magyar bitcoinerrel folytatott beszélgetést tesz közkinccsé, melyek magyar nyelvű bitcoin ismereteket hivatottak közvetíteni az arra nyitott hallgatóság számára.<br /><br />A 21. adásban arra tettünk kísérletet, hogy egy sajátosan rendezett csokorba fogjuk mindazt, amit eddig produkáltunk, és erre rálátva vegyünk lendületet a folytatáshoz.<br /><br />Ezúton is köszönünk minden visszajelzést, megosztást és támogatást, melyek mind hozzájárulnak ahhoz, hogy egyre szélesebb körű hallgatósághoz juttassuk el szabadságért szóló szavainkat.",
         date: "2024.07.12."
     },
     {
         summary: "Mesterséges intelligencia, digitális állapolgárság",
-        html: "<a href='/podcast'>Podcastunk</a> az elmúlt két hétben a digitális állampolgárság, majd a mesterséges intelligencia kérdéskörét járta körbe. Mindkét epizód felhívja a figyelmet a világban történő technológiai változások figyelemmel követésének valamint az öngondoskodás és a felelősségvállalás fontosságára.<br /><br />Néhány kulcs momentum: 'az opt out az opcióm', 'az AI kitűnően ismétel és összegez, az ember kreatívan újít', 'AI és Bitcoin - az jár pórul, aki mellőzi a használatát', 'mindenki keresse meg, hogy tudja életének részévé tenni'.",
+        html: "<a href='/podcast/'>Podcastunk</a> az elmúlt két hétben a digitális állampolgárság, majd a mesterséges intelligencia kérdéskörét járta körbe. Mindkét epizód felhívja a figyelmet a világban történő technológiai változások figyelemmel követésének valamint az öngondoskodás és a felelősségvállalás fontosságára.<br /><br />Néhány kulcs momentum: 'az opt out az opcióm', 'az AI kitűnően ismétel és összegez, az ember kreatívan újít', 'AI és Bitcoin - az jár pórul, aki mellőzi a használatát', 'mindenki keresse meg, hogy tudja életének részévé tenni'.",
         date: "2024.07.05."
     },
     {
         summary: "Magas és alacsony időpreferencia",
-        html: "Még a prágai konferencia hatása alatt <a href='/podcast'>beszélgetünk</a> magánszféráról, annak védelméről, korlátozásáról, kriminalizálásáról, az időpreferencia fogalmáról, a magas időpreferencia és a fiat pénzügyi rendszer összefüggéseiről, az alacsony időpreferencia és a Bitcoin kapcsolatáról, bepillantunk egy háztáji lightning zöldség tranzakcióba, egy remek prezentációba, valamint felvillantunk magyarítási projektekben való együttműködési és villámgyors támogatási lehetőséget is.",
+        html: "Még a prágai konferencia hatása alatt <a href='/podcast/'>beszélgetünk</a> magánszféráról, annak védelméről, korlátozásáról, kriminalizálásáról, az időpreferencia fogalmáról, a magas időpreferencia és a fiat pénzügyi rendszer összefüggéseiről, az alacsony időpreferencia és a Bitcoin kapcsolatáról, bepillantunk egy háztáji lightning zöldség tranzakcióba, egy remek prezentációba, valamint felvillantunk magyarítási projektekben való együttműködési és villámgyors támogatási lehetőséget is.",
         date: "2024.06.21."
     },
     {
         summary: "Prágai Bitcoin konferencia",
-        html: "A HUSZONEGY-ből 12-en vegyültünk el a BTC Prague 2024 konferencia több ezer részvevője között. Csütörtök este rögzítettük <a href='/podcast'>podcastunk</a> aktuális epizódját, melyben ezúttal az alábbi témák között szlalomoztunk: együttműködés az emberiség előrejutásáért, közös értékrend, az igazság közvetítése, valós energia, valós érték, kitartó megtakarítás apránként, bitcoin elfogadás, fiatalok, 21 lecke, kételkedés, kapcsolódás egymáshoz és forradalmi cégekhez.",
+        html: "A HUSZONEGY-ből 12-en vegyültünk el a BTC Prague 2024 konferencia több ezer részvevője között. Csütörtök este rögzítettük <a href='/podcast/'>podcastunk</a> aktuális epizódját, melyben ezúttal az alábbi témák között szlalomoztunk: együttműködés az emberiség előrejutásáért, közös értékrend, az igazság közvetítése, valós energia, valós érték, kitartó megtakarítás apránként, bitcoin elfogadás, fiatalok, 21 lecke, kételkedés, kapcsolódás egymáshoz és forradalmi cégekhez.",
         date: "2024.06.17."
     },
     {
         summary: "Bitcoin bányászat A-Z-ig, Oslo Freedom Forum",
-        html: "A <a href='/podcast'>Mi az a Bitcoin?</a> fókuszában: a bitcoin bányászat. Mérnöki alapossággal körbejárjuk, hogy mi az a bitcoin bányászat, hogy miért használ energiát, mire használja azt, mennyi és milyen energiát használ, nem utolsó sorban pedig környezetbarát-e, megéri-e, illetve pazarlás-e bitcoint bányászni.",
+        html: "A <a href='/podcast/'>Mi az a Bitcoin?</a> fókuszában: a bitcoin bányászat. Mérnöki alapossággal körbejárjuk, hogy mi az a bitcoin bányászat, hogy miért használ energiát, mire használja azt, mennyi és milyen energiát használ, nem utolsó sorban pedig környezetbarát-e, megéri-e, illetve pazarlás-e bitcoint bányászni.",
         date: "2024.06.07."
     },
     {
         summary: "Revolutból Strike appba, EUR-ból BTC-be + Jade hardver tárca",
-        html: "<a href='/podcast'>Podcastunkban</a> bemutatunk egy gyors, könnyű, alacsony díjú bitcoin vásárlási lehetőséget. Revolutból instant lehet eurót utalni a Strike appba, ahol instant lehet bitcoint venni, majd elenyésző díjjal lehet - szintén instant - kiutalni a bitcoint (illetve satokat) a Lightning Network-ön keresztül bármilyen lightning tárcába. Mi egy Umbrel node tárcájába küldtük, mely egyike a lightning kompatibilis önrendelkező (self custody), haladó módoknak. Elkezdtünk ismerkedni a Jade hardver tárcával, melyre tovább küldve hidegre tehetjük bitcoinunkat.",
+        html: "<a href='/podcast/'>Podcastunkban</a> bemutatunk egy gyors, könnyű, alacsony díjú bitcoin vásárlási lehetőséget. Revolutból instant lehet eurót utalni a Strike appba, ahol instant lehet bitcoint venni, majd elenyésző díjjal lehet - szintén instant - kiutalni a bitcoint (illetve satokat) a Lightning Network-ön keresztül bármilyen lightning tárcába. Mi egy Umbrel node tárcájába küldtük, mely egyike a lightning kompatibilis önrendelkező (self custody), haladó módoknak. Elkezdtünk ismerkedni a Jade hardver tárcával, melyre tovább küldve hidegre tehetjük bitcoinunkat.",
         date: "2024.05.31."
     },
     {
         summary: "Legalitás és illegalitás határán",
-        html: "A <a href='/podcast'>Mi az a Bitcoin?</a> ezen adásában Glaser Anitától jutunk rendkívül hasznos információkhoz elsősorban a legalitás és az illegalitás határvidékéről. Szó esik a demokratikus szabályozás céljáról, tempójáról és korlátairól, a központi kontrollal kapcsolatos aggályokról, a bitcoin és a kriptók közti alapvető különbségről, a csaló és scam projektek kivédési receptjéről, és nem utolsó sorban arról, hogy valójában csak az a bitcoin a tiéd, melynek a hozzáféréséhez nincs szükséged se központi szereplőre, se senki másra, tehát rendelkezel a privát kulcsával.",
+        html: "A <a href='/podcast/'>Mi az a Bitcoin?</a> ezen adásában Glaser Anitától jutunk rendkívül hasznos információkhoz elsősorban a legalitás és az illegalitás határvidékéről. Szó esik a demokratikus szabályozás céljáról, tempójáról és korlátairól, a központi kontrollal kapcsolatos aggályokról, a bitcoin és a kriptók közti alapvető különbségről, a csaló és scam projektek kivédési receptjéről, és nem utolsó sorban arról, hogy valójában csak az a bitcoin a tiéd, melynek a hozzáféréséhez nincs szükséged se központi szereplőre, se senki másra, tehát rendelkezel a privát kulcsával.",
         date: "2024.05.24."
     },
     {
         summary: "Bizalom probléma",
-        html: "<a href='/podcast'>Podcastunk</a> vendége ezúttal Karo Zagorus volt, akivel beszélgettünk angol nyelvű könyvéről és cikkeiről, valamint olyan témákról, mint szociálpszichológia, alacsony időpreferencia, magánszféra, bizalom, morál, szemléletváltás, felelősségvállalás, arany, ingatlan, bér, központilag irányított gazdaság. Kiderült továbbá, hogy megvan a hunyó, hogy hogyan fest az inflációs kosár trükk, majd felbukkan egy kagylózó politikus, és megcsillan a következő El Salvador lehetősége.",
+        html: "<a href='/podcast/'>Podcastunk</a> vendége ezúttal Karo Zagorus volt, akivel beszélgettünk angol nyelvű könyvéről és cikkeiről, valamint olyan témákról, mint szociálpszichológia, alacsony időpreferencia, magánszféra, bizalom, morál, szemléletváltás, felelősségvállalás, arany, ingatlan, bér, központilag irányított gazdaság. Kiderült továbbá, hogy megvan a hunyó, hogy hogyan fest az inflációs kosár trükk, majd felbukkan egy kagylózó politikus, és megcsillan a következő El Salvador lehetősége.",
         date: "2024.05.17."
     },
     {
         summary: "Megfontolt megtakarítás",
-        html: "A <a href='/podcast'>Mi az a Bitcoin?</a> fókuszában ezúttal a megtakarítás, a türelem és egymás támogatása mocorog. Felhívjuk a figyelmet a megtakarítás egy nagyon kedvező és gyors módjára, melyet a Strike alkalmazása biztosít most már Európában is. Bemutatjuk a pénzkészlet 2020-ban kezdődő drasztikus bővülésének ütemét, és utalunk az elkerülhetetlenül közelgő még drasztikusabb központi banki beavatkozásra. Ezáltal hangsúlyozzuk a megfontolt megtakarítás fontosságát.",
+        html: "A <a href='/podcast/'>Mi az a Bitcoin?</a> fókuszában ezúttal a megtakarítás, a türelem és egymás támogatása mocorog. Felhívjuk a figyelmet a megtakarítás egy nagyon kedvező és gyors módjára, melyet a Strike alkalmazása biztosít most már Európában is. Bemutatjuk a pénzkészlet 2020-ban kezdődő drasztikus bővülésének ütemét, és utalunk az elkerülhetetlenül közelgő még drasztikusabb központi banki beavatkozásra. Ezáltal hangsúlyozzuk a megfontolt megtakarítás fontosságát.",
         date: "2024.05.10."
     },
     {
         summary: "Bitcoin tárca kóstoló, fizetés bitcoinnal",
-        html: "<a href='/podcast'>Podcastunkban</a> belekóstolunk a szoftver tárcák, hardver tárcák és mobil tárcák világába. Játékosan bemutatjuk a bitcoin küldés és fogadás néhány gyors, elenyésző díjú, titkosított módját a Lightning Network-ön keresztül, majd vásárolunk egy hardver tárcát szintén bitcoin használatával.",
+        html: "<a href='/podcast/'>Podcastunkban</a> belekóstolunk a szoftver tárcák, hardver tárcák és mobil tárcák világába. Játékosan bemutatjuk a bitcoin küldés és fogadás néhány gyors, elenyésző díjú, titkosított módját a Lightning Network-ön keresztül, majd vásárolunk egy hardver tárcát szintén bitcoin használatával.",
         date: "2024.05.03."
     },
     {
         summary: "Bitcoin-hídépítés: Európa egyesítése a pénzügyi szabadság jegyében",
-        html: "Meglehetősen tartalmas, ugyanakkor terjedelmes cikket publikált pár hete a 'Szuverén Szerzetes' fedőnevű európai bitcoiner srác. Fordítása két részre bontva lelhető fel <a href='/cikkek'>cikkeink között.</a>",
+        html: "Meglehetősen tartalmas, ugyanakkor terjedelmes cikket publikált pár hete a 'Szuverén Szerzetes' fedőnevű európai bitcoiner srác. Fordítása két részre bontva lelhető fel <a href='/cikk/'>cikkeink között.</a>",
         date: "2024.04.28."
     },
     {
@@ -367,12 +367,12 @@ export const news = [
     },
     {
         summary: "Elválasztjuk a pénzt az államtól",
-        html: "A <a href='/podcast'>Mi az a Bitcoin?</a> 10. adásában visszatekintünk a Bitcoin elmúlt 15 évére, közgazdász szemmel nézünk az inflációra, az adósság spirálra, az állampapírra, a szabad választásra, az állam igazi szerepére és nem utolsó sorban a széleskörű felelősségvállalás szükségességére.",
+        html: "A <a href='/podcast/'>Mi az a Bitcoin?</a> 10. adásában visszatekintünk a Bitcoin elmúlt 15 évére, közgazdász szemmel nézünk az inflációra, az adósság spirálra, az állampapírra, a szabad választásra, az állam igazi szerepére és nem utolsó sorban a széleskörű felelősségvállalás szükségességére.",
         date: "2024.04.26."
     },
     {
         summary: "Wasabi bitcoin tárca, magánszféra, magyar találmány",
-        html: "<a href='/podcast'>Podcastunk</a> vendége Optout és a Wasabi wallet atyja, nopara73. Szóba került: lopás, anonimitás, pszeudonimitás, privacy, magánszféra, coinjoin, payjoin, búcsú a Wasabi fejlesztésétől, hosszúéletesítés, hagyományos orvos, állami beavatkozás, magyar találmány.",
+        html: "<a href='/podcast/'>Podcastunk</a> vendége Optout és a Wasabi wallet atyja, nopara73. Szóba került: lopás, anonimitás, pszeudonimitás, privacy, magánszféra, coinjoin, payjoin, búcsú a Wasabi fejlesztésétől, hosszúéletesítés, hagyományos orvos, állami beavatkozás, magyar találmány.",
         date: "2024.04.19."
     },
     {
@@ -382,17 +382,17 @@ export const news = [
     },
     {
         summary: "Önrendelkezés, Umbrel node belülről",
-        html: "Rendkívül edukatív tartalommal jelentkezik podcastunk, melyben szándékunk szerint érthető és szemléletes oktatóanyag öltött formát a kibertérben magyar nyelven. <a href='/podcast'>Nézzétek, hallgassátok, kommenteljétek, lájkoljátok, osszátok!</a>",
+        html: "Rendkívül edukatív tartalommal jelentkezik podcastunk, melyben szándékunk szerint érthető és szemléletes oktatóanyag öltött formát a kibertérben magyar nyelven. <a href='/podcast/'>Nézzétek, hallgassátok, kommenteljétek, lájkoljátok, osszátok!</a>",
         date: "2024.04.12."
     },
     {
         summary: "Fenntarthatóság és értékteremtés",
-        html: "A <a href='/podcast'>Mi az a Bitcoin? podcast</a> hetedik epizódjában szóba került a Bitcoin bányászat és elfogadottság Paraguayban, a white paper és Bitcoin könyvek fordítása, a különbség a Bitcoin és a shitcoinok között, valamint az, hogy amit Satoshi lerakott az asztalra, az megismételhetetlen.",
+        html: "A <a href='/podcast/'>Mi az a Bitcoin? podcast</a> hetedik epizódjában szóba került a Bitcoin bányászat és elfogadottság Paraguayban, a white paper és Bitcoin könyvek fordítása, a különbség a Bitcoin és a shitcoinok között, valamint az, hogy amit Satoshi lerakott az asztalra, az megismételhetetlen.",
         date: "2024.04.05."
     },
     {
         summary: "Világméretű szabadságigény és abszolút kontroll",
-        html: "<a href='/podcast'>Podcastunk</a> eheti adásában szó esett Bitcoin node-okról, energiafogyasztásról, központi bankokról, aranytartalékról, profi Bitcoin elfogadásról, világméretű szabadságigényről, Kína iránymutatásáról, valamint arról, hogy az abszolút kontroll nagyon fontos.",
+        html: "<a href='/podcast/'>Podcastunk</a> eheti adásában szó esett Bitcoin node-okról, energiafogyasztásról, központi bankokról, aranytartalékról, profi Bitcoin elfogadásról, világméretű szabadságigényről, Kína iránymutatásáról, valamint arról, hogy az abszolút kontroll nagyon fontos.",
         date: "2024.03.29."
     },
     {
@@ -402,17 +402,17 @@ export const news = [
     },
     {
         summary: "Nostr, a decentralizált közösségi protokoll",
-        html: "A <a href='/podcast'>Mi az a Bitcoin? podcast</a> ötödik epizódjában négy bitcoiner vezet be minden érdeklődőt egy nagyon új és legalább annyira fontos területre, a mindenkitől független közösségi média világába.",
+        html: "A <a href='/podcast/'>Mi az a Bitcoin? podcast</a> ötödik epizódjában négy bitcoiner vezet be minden érdeklődőt egy nagyon új és legalább annyira fontos területre, a mindenkitől független közösségi média világába.",
         date: "2024.03.22."
     },
     {
         summary: "Még több Bitcoin podcast",
-        html: "<a href='/podcast#bitcoin-kebab'>Podcast oldalunkat</a> bővítettük a Bitcoin Kebab epizódjaiból való válogatással, melyben bitcoin maxik szólalnak meg.",
+        html: "<a href='/podcast/#bitcoin-kebab'>Podcast oldalunkat</a> bővítettük a Bitcoin Kebab epizódjaiból való válogatással, melyben bitcoin maxik szólalnak meg.",
         date: "2024.03.17."
     },
     {
         summary: "Rejtett elnyomás - Hogyan adja el az IMF és a Világbank a kizsákmányolást fejlesztésként",
-        html: "<a href='/konyvek#hidden-repression'>Könyv oldalunkat</a> bővítettük a podcastunk negyedik epizódjában ajánlott megdöbbentően egyedülálló könyvvel az IMF és a Világbank a harmadik világ országait kizsákmányoló működéséről, mely ugyan egyelőre nem érhető el magyar nyelven, jelentősége ugyanakkor olyan kiemelkedő, hogy szükségesnek érezzük felhívni rá a figyelmet.",
+        html: "<a href='/konyv/#hidden-repression'>Könyv oldalunkat</a> bővítettük a podcastunk negyedik epizódjában ajánlott megdöbbentően egyedülálló könyvvel az IMF és a Világbank a harmadik világ országait kizsákmányoló működéséről, mely ugyan egyelőre nem érhető el magyar nyelven, jelentősége ugyanakkor olyan kiemelkedő, hogy szükségesnek érezzük felhívni rá a figyelmet.",
         date: "2024.03.17."
     },
     {

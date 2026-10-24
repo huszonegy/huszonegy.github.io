@@ -261,7 +261,7 @@ defineProps<{
                   @click="isSearchOpen = false"
                   @mouseenter="selectedIndex = index"
               >
-                  <img :src="pod.img" />
+                  <img :src="pod.img" alt="" />
                   <div class="res-details">
                     <span class="res-id">{{ pod.id }}</span>
                     <span class="res-name" v-html="getHighlightedSnippet(pod.name, searchQuery)"></span>

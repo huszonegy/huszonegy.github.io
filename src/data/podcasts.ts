@@ -6898,6 +6898,11 @@ export function getYouTubeId(url: string): string {
     return m ? m[1] : '';
 }
 
+// Átirat bekezdésekre bontása — a fejezetcímek (H2) beszúrási indexei erre a felosztásra vonatkoznak
+// (lásd scripts/transcriptChapters.ts)
+export const splitTranscriptBlocks = (md: string) =>
+    md.split(/\n\s*\n/).map(b => b.trim()).filter(Boolean);
+
 // Egy konkrét epizód lekérése slug alapján
 export function get_pod_by_slug(slug: string) {
     return podcasts.find(p => slugify(p.name) === slug);

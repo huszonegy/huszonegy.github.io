@@ -71,7 +71,14 @@ export const routes: RouteRecordRaw[] = [
     path: '/podcast/:slug/',
     name: 'PodDetailView',
     component: () => import('../views/PodDetailView.vue'),
-    props: true
+    props: true,
+    // Ismeretlen slug (pl. a Google által a JS-ből kiolvasott nyers „/podcast/:slug/") → 404-oldal, az URL marad
+    beforeEnter: async (to) => {
+      const { get_pod_by_slug } = await import('../data/podcasts')
+      if (!get_pod_by_slug(to.params.slug as string)) {
+        return { name: 'not-found-catchall', params: { pathMatch: to.path.slice(1).split('/') }, query: to.query, hash: to.hash }
+      }
+    }
   },
   {
     path: '/konyv/',
@@ -182,12 +189,13 @@ export const routes: RouteRecordRaw[] = [
     path: '/404/',
     name: 'not-found',
     component: () => import('../views/NotFoundView.vue'),
-    meta: { title: 'Oldal nem található - HUSZONEGY' }
+    meta: { title: 'Az oldal nem található – HUSZONEGY', noindex: true }
   },
   { 
     path: '/:pathMatch(.*)*', 
+    name: 'not-found-catchall',
     component: () => import('../views/NotFoundView.vue'),
-    meta: { title: 'Oldal nem található - HUSZONEGY' }
+    meta: { title: 'Az oldal nem található – HUSZONEGY', noindex: true }
   }
 ]
 

@@ -11,7 +11,7 @@ import BeginnerGuide from '../components/BeginnerGuide.vue'
           <img src="/logo/he-logo-circle-320x320-2.png" class="img-fluid" alt="huszonegy" width="120" height="120">
         </div>
         <div class="hero-text">
-          <h1 class="hero-title">csak bitcoinról, <span class="hero-accent">magyarul</span></h1>
+          <h1 class="hero-title">Bitcoin <span class="hero-accent">magyarul</span><span class="visually-hidden"> – </span><span class="hero-title-sub">tudástár, podcast, közösség</span></h1>
           <p class="hero-lead">
             Bitcoin tudástár és közösség. Podcast, oktatóanyagok, támogatás...
           </p>
@@ -80,6 +80,15 @@ import BeginnerGuide from '../components/BeginnerGuide.vue'
 
   .hero-accent {
     color: #f7931a;
+  }
+
+  .hero-title-sub {
+    display: block;
+    font-size: 1.15rem;
+    font-weight: 500;
+    letter-spacing: 0;
+    opacity: 0.85;
+    margin-top: 0.35rem;
   }
 
   .hero-lead {

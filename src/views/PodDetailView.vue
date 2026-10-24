@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { useRoute } from 'vue-router';
-import { get_pod_by_slug, get_adjacent_pods, parseTopics, getYouTubeId } from '../data/podcasts';
+import { get_pod_by_slug, get_adjacent_pods, parseTopics, getYouTubeId, splitTranscriptBlocks } from '../data/podcasts';
+import transcriptChapters from 'virtual:transcript-chapters';
 import { useHead } from '@unhead/vue';
 import { ref, onMounted, computed } from 'vue';
 import { marked } from 'marked';
@@ -9,6 +10,8 @@ import { watch } from 'vue';
 marked.use({
   renderer: {
     link({ href, text }) {
+      // Belső oldalra mutató link záró perjellel, hogy ne átirányításon keresztül érkezzen (pl. /tamogatas → /tamogatas/)
+      href = href.replace(/^(https:\/\/huszonegy\.world(?:\/[^/?#]+)*\/[^/?#.]+)(?=[?#]|$)/, '$1/');
       return `<a href="${href}" target="_blank" rel="noopener noreferrer">${text}</a>`;
     }
   }
@@ -42,6 +45,26 @@ const transcriptModules = import.meta.glob('../../public/transcripts_clean/*.md'
   import: 'default' 
 });
 
+const escapeHtml = (s: string) =>
+  s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+
+// A fejezetcímeket H2-ként beszúrja az átirat megfelelő bekezdése elé.
+// A helyüket build-időben számoljuk a nyers felirat időbélyegeiből (scripts/transcriptChapters.ts).
+const withChapterHeadings = (md: string) => {
+  const positions = pod.value ? transcriptChapters[pod.value.id] : undefined;
+  if (!positions) return md;
+  const blocks = splitTranscriptBlocks(md);
+  const headings = new Map<number, string>();
+  topicList.value.forEach((ch: { time?: string | null; label: string }, i: number) => {
+    const at = positions[i];
+    if (at == null || at >= blocks.length) return;
+    const label = escapeHtml(ch.label.replace(/<[^>]*>/g, '').trim());
+    const anchor = ch.time ? ` id="fejezet-${ch.time.replace(/:/g, '-')}"` : '';
+    headings.set(at, `<h2 class="transcript-chapter"${anchor}>${label}</h2>`);
+  });
+  return blocks.map((b, i) => (headings.has(i) ? `${headings.get(i)}\n\n${b}` : b)).join('\n\n');
+};
+
 const fetchTranscript = async () => {
   isLoading.value = true;
   transcriptText.value = "";
@@ -62,7 +85,7 @@ const fetchTranscript = async () => {
 
     if (transcriptModules[mdKey]) {
       const rawContent = await (transcriptModules[mdKey] as () => Promise<string>)();
-      transcriptText.value = await marked(rawContent);
+      transcriptText.value = await marked(withChapterHeadings(rawContent));
       isMarkdown.value = true;
     } else {
       transcriptText.value = "Az adás átirata hamarosan elérhető lesz.";
@@ -132,7 +155,9 @@ const seoDescription = computed(() => {
     const labels = chapters
       .map((ch: { label: string }) => ch.label.replace(/<[^>]*>/g, '').trim()) // HTML tagek eltávolítása
       .filter((l: string) => l.length > 0);
-    const joined = `${pod.value.name}. Témák: ${labels.join(', ')}`;
+    // Pont csak akkor kell a cím után, ha nem írásjellel végződik (pl. „…nem?" → nincs „?.")
+    const name = /[.!?…]$/.test(pod.value.name) ? pod.value.name : `${pod.value.name}.`;
+    const joined = `${name} Témák: ${labels.join(', ')}`;
     return joined.length > 155 ? joined.substring(0, 152) + '...' : joined;
   }
 
@@ -221,7 +246,7 @@ useHead({
           "partOfSeries": {
             "@type": "PodcastSeries",
             "name": "HUSZONEGY Bitcoin Podcast",
-            "url": "https://huszonegy.world/podcast",
+            "url": "https://huszonegy.world/podcast/",
             "inLanguage": "hu",
             "description": "A HUSZONEGY magyar bitcoiner közösség heti rendszerességgel megjelenő beszélgetés-sorozata a Bitcoin világáról."
           },
@@ -346,7 +371,7 @@ useHead({
         <nav class="episode-nav mt-5 mb-3" aria-label="Epizód navigáció">
           <router-link 
             v-if="prevPod" 
-            :to="`/podcast/${prevPod.slug}`" 
+            :to="`/podcast/${prevPod.slug}/`"
             class="ep-nav-link ep-nav-prev"
           >
             <span class="ep-nav-direction">← Előző epizód</span>
@@ -357,7 +382,7 @@ useHead({
 
           <router-link 
             v-if="nextPod" 
-            :to="`/podcast/${nextPod.slug}`" 
+            :to="`/podcast/${nextPod.slug}/`"
             class="ep-nav-link ep-nav-next"
           >
             <span class="ep-nav-direction">Következő epizód →</span>
@@ -536,6 +561,20 @@ useHead({
 .transcript-content :deep(p) {
   margin-bottom: 1.8rem !important; /* Szellősebb térköz a bekezdések között */
   letter-spacing: 0.01rem;          /* Finom betűköz az olvashatóságért */
+}
+
+/* Fejezetcímek az átiratban (a topic-timeline címeivel azonosak) */
+.transcript-content :deep(h2.transcript-chapter) {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #f7931a;
+  line-height: 1.35;
+  margin: 3rem 0 1.2rem;
+  scroll-margin-top: 5rem;
+}
+
+.transcript-content :deep(h2.transcript-chapter:first-child) {
+  margin-top: 0;
 }
 
 /* Kiemelések (ha a Markdownban van **bold**) */

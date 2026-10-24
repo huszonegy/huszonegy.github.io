@@ -2,7 +2,7 @@
   <main>
     <div name="main-inner" class="container">
       <div class="container-sm py-3 px-3 mx-auto" style="min-height: 400px; max-width: 860px;">
-        <img src="/pics/pizzaday.png" style="max-width: 800px;"><br>
+        <img src="/pics/pizzaday.png" alt="Bitcoin Pizza Nap a Dunakanyarban" style="max-width: 800px;"><br>
         <h1>Pizza Nap a Dunakanyarban</h1>
 
 <p>
@@ -30,11 +30,11 @@ Aki szeretné, annak a Piknikben 12h-14h-ig segítünk, hogy Bitcoin kerüljön 
 
 <h3>Helyszínek, ahol elfogadják a Bitcoint aznap</h3>
 <p>
-<img src="/pics/zs.jpg" height="160">
+<img src="/pics/zs.jpg" alt="A verőcei Zsengélő Café terasza" height="160">
 &nbsp;
-<img src="/pics/b.jpg" height="160">
+<img src="/pics/b.jpg" alt="A Béke Pékség és Bisztró pultja friss kenyerekkel" height="160">
 &nbsp;
-<img src="/pics/pm.jpg" height="160">
+<img src="/pics/pm.jpg" alt="Piknik Manufaktúra" height="160">
 </p>
 
 <p>
@@ -68,7 +68,7 @@ Bármelyik Bitcoin wallet jó, ami támogat lightning-ot. A pultos egy QR kódot
 
 <h3>Odajutás</h3>
 Nyugatiból 35 perc vonattal Verőcéig, majd Verőce vasútállomástól a Zsengélőig 3 perc séta.
-<img src="/pics/zsengimap.jpg" width="800">
+<img src="/pics/zsengimap.jpg" alt="Térkép: a Verőce vasútállomástól a Zsengélő Caféig" width="800">
 
       </div>
     </div>
