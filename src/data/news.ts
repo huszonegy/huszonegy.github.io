@@ -412,7 +412,7 @@ export const news = [
     },
     {
         summary: "Rejtett elnyomás - Hogyan adja el az IMF és a Világbank a kizsákmányolást fejlesztésként",
-        html: "<a href='/konyv/#hidden-repression'>Könyv oldalunkat</a> bővítettük a podcastunk negyedik epizódjában ajánlott megdöbbentően egyedülálló könyvvel az IMF és a Világbank a harmadik világ országait kizsákmányoló működéséről, mely ugyan egyelőre nem érhető el magyar nyelven, jelentősége ugyanakkor olyan kiemelkedő, hogy szükségesnek érezzük felhívni rá a figyelmet.",
+        html: "<a href='/konyv/#rejtett-elnyomas'>Könyv oldalunkat</a> bővítettük a podcastunk negyedik epizódjában ajánlott megdöbbentően egyedülálló könyvvel az IMF és a Világbank a harmadik világ országait kizsákmányoló működéséről, mely ugyan egyelőre nem érhető el magyar nyelven, jelentősége ugyanakkor olyan kiemelkedő, hogy szükségesnek érezzük felhívni rá a figyelmet.",
         date: "2024.03.17."
     },
     {

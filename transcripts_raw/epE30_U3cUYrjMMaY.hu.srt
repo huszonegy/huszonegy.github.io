@@ -1,0 +1,3516 @@
+1
+00:00:01,000 --> 00:00:04,240
+[Zene]
+
+2
+00:00:05,520 --> 00:00:11,040
+sziasztok üdvözlünk mindenkit itt a mi
+az a bitcoin podcastunkban ez a 30
+
+3
+00:00:11,040 --> 00:00:15,360
+epizód
+árpival ma a központi bankokat gondoltuk
+
+4
+00:00:15,360 --> 00:00:20,199
+így beszédtémának mert mostanában elég
+sokat hallani erről illetve nagyon sok
+
+5
+00:00:20,199 --> 00:00:27,599
+videót lehet találni a youtube-on hogy
+hova vezet a központi gazdálkodás a
+
+6
+00:00:27,599 --> 00:00:33,640
+központi monetáris politika ebbő majd
+egy-két példát így végigtaglalnánk és
+
+7
+00:00:33,640 --> 00:00:38,640
+megnéznénk hogy a bitcoin hogyan ad erre
+alternatívát aztán majd persze lehet
+
+8
+00:00:38,640 --> 00:00:44,320
+hogy elkalandozunk
+árpi készültél valamivel
+
+9
+00:00:44,320 --> 00:00:50,680
+így az elejére ja ja sziasztok igen azt
+gondoltam hogy kezdhetnénk azzal a
+
+10
+00:00:50,680 --> 00:00:57,520
+videóval amit mind a ketten láttunk most
+nemrég készítette a a simply bitcoin
+
+11
+00:00:57,520 --> 00:01:05,199
+podcastból a ugye a nco
+meg a meg a haverja opti
+
+12
+00:01:05,199 --> 00:01:10,600
+igen igen és ott ott az elején azzal
+azzal kezdődik az ő videójuk hogy nem is
+
+13
+00:01:10,600 --> 00:01:15,960
+ők beszélnek először hanem az alex
+gladstein a a human rights
+
+14
+00:01:15,960 --> 00:01:21,280
+foundationtől
+meginterjúolja a a venezuelai
+
+15
+00:01:21,280 --> 00:01:27,320
+ellenzéknek a vezetőfiguráját aki egy
+hölgy hát ebből az interjúból egy
+
+16
+00:01:27,320 --> 00:01:34,680
+részlet van arról hogy milyen a a
+pénzügyi helyzet venezuelában az utóbbi
+
+17
+00:01:34,680 --> 00:01:39,720
+évtizedekben és
+és hogy ez hogyan kapcsolódik a a
+
+18
+00:01:39,720 --> 00:01:45,560
+bitcoinhoz azt fejtette ki a hölgy hogy
+ugye a cház és a maduro emberjogi
+
+19
+00:01:45,560 --> 00:01:52,960
+vétségeiről viszonylag sokat tudunk
+világszerte de kevésbé ismert az hogy mi
+
+20
+00:01:52,960 --> 00:01:59,479
+vezetett ahhoz hogy ilyen iszonyú durva
+infláció van ott most már jó ideje az
+
+21
+00:01:59,479 --> 00:02:05,799
+urak kodásuk ideje alatt a a bolivár
+értéke gyakorlatilag 140át veszített
+
+22
+00:02:05,799 --> 00:02:14,000
+tehát valami eszméletlen milliós
+százalékban kifejezhető
+
+23
+00:02:14,440 --> 00:02:21,160
+hiperinfláció zajlott le szétlopták az
+állami vagyont gátlástalanul nyomtatták
+
+24
+00:02:21,160 --> 00:02:27,160
+ugye a pénzt és gyakorlatilag a pénzügyi
+rendszert a saját lakosaik ellen
+
+25
+00:02:27,160 --> 00:02:31,519
+fegyverezték fel tehát be tudtak
+fagyasztani meg be tudnak fagyasztani
+
+26
+00:02:31,519 --> 00:02:36,040
+ugye
+bankszámlákat elkobozzák az embereknek a
+
+27
+00:02:36,040 --> 00:02:41,760
+a a vagyonát el tudnak szigetelni bárkit
+bármilyen ürüggyel pénzügyi vagy
+
+28
+00:02:41,760 --> 00:02:46,000
+bármilyen egyéb
+szolgáltatásoktól milliók elmenekültek
+
+29
+00:02:46,000 --> 00:02:52,800
+már az országból és akik viszont
+maradtak illetve az elmenekülőknek is
+
+30
+00:02:52,800 --> 00:02:58,440
+sokaknak a bitcoin nagy segítséget
+nyújtott és nyújt mert ugye abban is tud
+
+31
+00:02:58,440 --> 00:03:03,440
+segítséget nyújtani hogy hogy m
+bitcoinba teszi a pénzét és mondjuk jól
+
+32
+00:03:03,440 --> 00:03:09,799
+felírja a 12 vagy 24 szót a a a seed
+phrasét és akkor vagy akár megjegyzi és
+
+33
+00:03:09,799 --> 00:03:15,840
+akkor úgy cipeli magával a a kis
+vagyonát vagy nagyobb vagyonát akár de
+
+34
+00:03:15,840 --> 00:03:21,319
+végülis majdnem mindegy a nagyságrendje
+de hogy biztonságosan tudja mozgatni az
+
+35
+00:03:21,319 --> 00:03:29,920
+értékeit akárki aki ugye meg ott él az
+országban ők meg ők meg ugye nem csak
+
+36
+00:03:29,920 --> 00:03:34,159
+egy másik fiat valutában mint például a
+dollárban
+
+37
+00:03:34,159 --> 00:03:40,159
+tudnak menedéket találni a hiperinfláció
+elől ami úgy tudom hogy viszonylag nehéz
+
+38
+00:03:40,159 --> 00:03:46,239
+is néha hozzájutni a a
+dollárhoz hanem hanem erre is tök jó a
+
+39
+00:03:46,239 --> 00:03:51,079
+bitcoin bár ugye a bitcoin egy volatilis
+eszköz tehát gyakran ingadozik az
+
+40
+00:03:51,079 --> 00:03:55,040
+árfolyama de azért mondjuk egy
+bolivárhoz
+
+41
+00:03:55,040 --> 00:04:01,480
+képest lehet hogy elég stabil
+hogy kárzön talán nevetni de hát tényleg
+
+42
+00:04:01,480 --> 00:04:05,400
+tényleg nagyon durva hogy mit tudnak
+művelni ezek a ezek
+
+43
+00:04:05,400 --> 00:04:12,519
+a szakadékba zuhanó fiat valuták és ugye
+így távolról
+
+44
+00:04:12,519 --> 00:04:19,079
+nézve gyakran azt érezzük szerintem hogy
+hogy hogy ez velünk nem történhet meg de
+
+45
+00:04:19,079 --> 00:04:25,440
+szerintem szerintem jó jó hogyha
+készülünk arra hogy hogy előbb-utóbb ez
+
+46
+00:04:25,440 --> 00:04:30,759
+ide is eljöhet nem riogatni akarok
+senkit se hát meg már volt is
+
+47
+00:04:30,759 --> 00:04:36,520
+magyarországon ugye korábban a pengő
+korában igen
+
+48
+00:04:36,520 --> 00:04:41,400
+egy ilyen történet úgy tudom hogy akkor
+magyarország volt a rekorder illetve hát
+
+49
+00:04:41,400 --> 00:04:48,520
+azóta is ebbe a az inflációs játékban
+azzal a két milliárd mílpengőssel vagy
+
+50
+00:04:48,520 --> 00:04:53,160
+mi a ny nem emlékszem mekkora volt a
+legnagyobb
+
+51
+00:04:53,160 --> 00:05:01,039
+címl cím lett de assiszem valami
+41 milliárd százal-ot romlott vagy
+
+52
+00:05:01,039 --> 00:05:06,759
+valahogy így tehát hogy ilyen napi
+szintű duplázódás volt ühüm nagyon
+
+53
+00:05:06,759 --> 00:05:12,720
+nagyon nagyon sok meg ugye előtte volt
+vemarr
+
+54
+00:05:12,720 --> 00:05:17,600
+ugye ott is hiperinfláció zajlott meg
+egy csomó ország még van zimbabwe meg
+
+55
+00:05:17,600 --> 00:05:22,960
+itt ott a világban azért lehet hallani
+ilyen hiperinflációs dolgokról ugye
+
+56
+00:05:22,960 --> 00:05:32,240
+argentíában is eléggé elszállt ez idáig
+a az argent pezo hát ezek a központi
+
+57
+00:05:32,240 --> 00:05:37,520
+banki szabályozások ez mindig ezt ugye
+meleg ágja az inflációnak
+
+58
+00:05:37,520 --> 00:05:43,080
+hiszen hiszen onnan ered ugye a
+pénzkészlet bővítésből ered az infláció
+
+59
+00:05:43,080 --> 00:05:48,479
+ezt tudjuk bár nagyon sokszor ezen
+meglepőődnek a központi bankárok is
+
+60
+00:05:48,479 --> 00:05:54,360
+például a hogy hívják az európai
+központi bank vezetőjét a kristin
+
+61
+00:05:54,360 --> 00:06:00,080
+lagard ugye ő mondta hogy hopp egyszer
+csak az infláció így előbukkant így a
+
+62
+00:06:00,080 --> 00:06:06,400
+covid után persze egy hülyeség mert
+pontosan tudják hogy miért volt na
+
+63
+00:06:06,400 --> 00:06:11,360
+mindegy hát ez ilyen hát igen ha mi
+tudjuk akkor nekik is tudni kell csak
+
+64
+00:06:11,360 --> 00:06:17,000
+igen játsszák a a ártatlan
+igen már mindig próbálják ugye a a
+
+65
+00:06:17,000 --> 00:06:22,599
+fogyasztói árszint
+növekedéssel
+
+66
+00:06:22,599 --> 00:06:28,199
+magyarázni de hát az nem
+ugyanaz nem ugyanaz mert ugye attól
+
+67
+00:06:28,199 --> 00:06:32,360
+függően hogy mi van az inflációs kosár
+van tehát hogy ki mit vásárol mindig az
+
+68
+00:06:32,360 --> 00:06:37,680
+az infláció az az kvázi így egyéni tehát
+mondjuk ha a te kosaradban mondjuk az
+
+69
+00:06:37,680 --> 00:06:42,400
+élelmiszer van meg az energia akkor
+hogyha az elszáll mit tudom én duplájára
+
+70
+00:06:42,400 --> 00:06:49,160
+akkor a te inflációs érzeted ugye az az
+200% de valójában a pénzügyi infláció az
+
+71
+00:06:49,160 --> 00:06:55,160
+pedig a a pénzkészlet növekedésének az
+inflációja tehát annak a a növekedése
+
+72
+00:06:55,160 --> 00:07:00,319
+hogy a mekkora részre oszlik szét a
+gazdaság
+
+73
+00:07:00,319 --> 00:07:07,240
+de esetleg beszórhatnánk majd egy
+tradeing view alapján egy money 2t azt
+
+74
+00:07:07,240 --> 00:07:13,280
+szoktuk így
+beszúrogatnim a forintról gondol igen a
+
+75
+00:07:14,280 --> 00:07:19,720
+forintról most nem akarom megkeresni jó
+majd
+
+76
+00:07:19,720 --> 00:07:25,599
+úgyis arról is lesz majd szó matolcsi
+györgynek az
+
+77
+00:07:25,680 --> 00:07:33,599
+előadásában hogy hogy mi volt
+a 10-es évtizedben meg aztán a 2020-as
+
+78
+00:07:33,599 --> 00:07:42,440
+évtized elején a ez a a qe a a
+mennyiségi lazítás quantitative easing
+
+79
+00:07:42,440 --> 00:07:47,919
+igen tehát gyakorlatilag a a
+pénznyomtatás amit így szoktunk hívni
+
+80
+00:07:47,919 --> 00:07:52,960
+ugye ez mind azért van
+mert a költségvetés az úgy áll össze
+
+81
+00:07:52,960 --> 00:07:56,400
+hogy van egy rohadt nagy büdzsénk és
+akkor az így rá van bézve az emberekre
+
+82
+00:07:56,400 --> 00:08:00,120
+hogy gazdálkodjanak a minisztériumok meg
+minden
+
+83
+00:08:00,120 --> 00:08:04,599
+és mindig számolnak egy bizonyos
+hiánycéldal ezt általában nehéz
+
+84
+00:08:04,599 --> 00:08:08,199
+teljesíteni most így nem akarok
+belemenni hogy melyik kormány mennyire
+
+85
+00:08:08,199 --> 00:08:15,080
+tudta ezt meg lehet egyébként
+nézni a költségvetési törvényekben hogy
+
+86
+00:08:15,080 --> 00:08:19,199
+az előzőek hogy sikerültek a lényeg az
+hogy mindig van egy ilyen
+
+87
+00:08:19,199 --> 00:08:24,479
+hiánycél és ezt soha nem tartják be
+vagyis hát szerintem egy egy kezemen meg
+
+88
+00:08:24,479 --> 00:08:28,400
+lehet számolni
+hogy hányszor nem mintha olyan sok új
+
+89
+00:08:28,400 --> 00:08:34,680
+lenne egy kezemen de de hát nehéz mert
+ugye emberekre van bízva
+
+90
+00:08:34,680 --> 00:08:40,800
+és nem érdekük ennek a betartása tehát a
+legrosszabb eset ami történhet hogy
+
+91
+00:08:40,800 --> 00:08:45,519
+akkor a központi bank megint előállít
+egy kis pénzt és akkor megint ki tudja
+
+92
+00:08:45,519 --> 00:08:50,519
+fizetni az állam ezeket maximum nagyobb
+részre osztják a gazdaságot vagyis több
+
+93
+00:08:50,519 --> 00:08:56,240
+felé és azért is venezuelával kezdett a
+nico kicsit visszakanyalnék hozzá mert
+
+94
+00:08:56,240 --> 00:08:59,920
+hogy elmondta hogy ő is venezuelai
+származású csak valami amikor nagyon
+
+95
+00:08:59,920 --> 00:09:08,320
+régen vándorolt át a a családja
+amerikába de a fel felmenői mint
+
+96
+00:09:08,320 --> 00:09:12,480
+venezuelaiak és ugye ez ez adta az
+apropóját ennek hogy ezt a videót
+
+97
+00:09:12,480 --> 00:09:17,800
+benyomta meg ugye ott a videó végén
+elhangzott hogy hogy azt remélik hogy
+
+98
+00:09:17,800 --> 00:09:23,560
+ugye előbb-utóbb
+demokratikus venezuela is beköszönt és
+
+99
+00:09:23,560 --> 00:09:27,360
+hogy annak egy annak egy hatékony
+eszköze lesz a
+
+100
+00:09:27,360 --> 00:09:33,720
+bitcoin és ugye a utána arról kezd
+beszélni amikor beköszön a podcastjában
+
+101
+00:09:33,720 --> 00:09:39,880
+hogy a jegypankok hogyan működnek
+legálisan szétlopják a a a a polgároknak
+
+102
+00:09:39,880 --> 00:09:44,560
+a pénzét és hogy ez ugye ez általában
+észrevétlen mert nagyon alacsony az
+
+103
+00:09:44,560 --> 00:09:51,720
+infláció és akkor az az az így föl se
+tűnik rövid távon az embereknek hogy
+
+104
+00:09:51,720 --> 00:09:56,880
+hogy úgy szépen lassan fokozatosan
+veszíti a pénzük a vásárlóértékét
+
+105
+00:09:56,880 --> 00:10:00,360
+ugyanakkor én emlékszem hogy
+gyerekkoromban is akartam a fejemet
+
+106
+00:10:00,360 --> 00:10:06,399
+amikor amikor arról mesélt ugye akár a
+az apám hogy hogy az ő gyerekkorában
+
+107
+00:10:06,399 --> 00:10:10,279
+hány fillér volt egy gombóc fagyi és
+most
+
+108
+00:10:10,279 --> 00:10:14,920
+ugye meg néztem ugye ugye hogy 1y-2é
+fint volt a mi gyerekkorunkban a fagyi
+
+109
+00:10:14,920 --> 00:10:20,920
+és hogy és hogy most az én gyerekeimnek
+mutatom hogy 500-600 ft egy gombóc vagyi
+
+110
+00:10:20,920 --> 00:10:25,720
+tehát hogy üüm tehát hogy ez lassan
+értéktelenik a pénz de azért egy
+
+111
+00:10:25,720 --> 00:10:32,120
+generáció alatt borzasztó mértéket ölt
+és ugyanezt a buszjegyre is meg lehet
+
+112
+00:10:32,120 --> 00:10:37,360
+nézni hogy hogy úgy emlékszem hogy a mi
+gyerekkorunkban 2 ft volt a villamosjegy
+
+113
+00:10:37,360 --> 00:10:43,800
+és 3 ft volt a buszjegy most meg ja most
+meg tegyünk mögé két nullát minimum mert
+
+114
+00:10:43,800 --> 00:10:50,920
+ilyen 350 vagy már 400 ft egy én nem
+tudom egy egy egy egy egy jegy mindegy
+
+115
+00:10:50,920 --> 00:10:57,399
+is pontosan a lényeg az hogy hogy
+borzasztóan értéktelenedik a pénz és
+
+116
+00:10:57,399 --> 00:11:02,279
+még így is hogy hogy
+hogy hogy viszonylag lighttos infláció
+
+117
+00:11:02,279 --> 00:11:06,120
+van
+általában aztán ugye amikor meg megugrik
+
+118
+00:11:06,120 --> 00:11:11,639
+akkor meg akkor meg eszméletlen hogy
+tényleg a az emberek mennyit veszítenek
+
+119
+00:11:11,639 --> 00:11:19,160
+ezzel miközben meg ugye egy egy egy szűk
+réteg akik akik ugye a a jegybank
+
+120
+00:11:19,160 --> 00:11:23,600
+közelébe helyezkedtek azok azok meg
+mindig
+
+121
+00:11:23,600 --> 00:11:29,480
+jól járnak meg ugye azok is akik
+akik jó helyre fektették be a a
+
+122
+00:11:29,480 --> 00:11:34,560
+vagyonukat de hát ezek jellemzően azok
+akiknek nagy vagyonuk van és
+
+123
+00:11:34,560 --> 00:11:40,720
+és alaposan utána néztek hogy hogy mibe
+érdemes fektetni aminek az értéke
+
+124
+00:11:40,720 --> 00:11:47,360
+általában felfelé megy mondjuk a az
+értékét vesztő fiatalutákhoz képest na
+
+125
+00:11:47,360 --> 00:11:51,399
+még talán annyit aen átadom neked a szót
+de hogy még még az megragadott nagyon
+
+126
+00:11:51,399 --> 00:11:56,639
+abban amit a nikó mondott hogy ugye hogy
+ugye erről hogy egyrészt hogy a
+
+127
+00:11:56,639 --> 00:12:01,680
+jegybankokban kik
+hoz ák a szabályokat meg kik jutnak
+
+128
+00:12:01,680 --> 00:12:09,360
+egyáltalán oda a a kormányhoz meg a a a
+vezérlő panelhez erről nem demokratikus
+
+129
+00:12:09,360 --> 00:12:15,199
+választások történnek tehát hogy
+gyakorlatilag ezen változtatni mi
+
+130
+00:12:15,199 --> 00:12:20,360
+csak úgy tudunk mert ugye nem írnak ki
+szavazást vagy választásokat erre hogy
+
+131
+00:12:20,360 --> 00:12:26,639
+hogy ki legyen a akár a jegybank elnöke
+vagy hogy egyáltalán folytassuk-e ezt a
+
+132
+00:12:26,639 --> 00:12:34,360
+keinneziánus közgazdaságtannak a a
+majmolását hanem egyéni szinten
+
+133
+00:12:34,360 --> 00:12:40,079
+felelősségünk minden egyes embernek ezt
+ez ez ez tudatosítani hogy ez a ez a
+
+134
+00:12:40,079 --> 00:12:43,760
+helyzet és hogy
+egyénileg
+
+135
+00:12:43,760 --> 00:12:49,959
+tudunk kilépni apránként fokozatosan
+ebből a rendszerből és és átlépni egy
+
+136
+00:12:49,959 --> 00:12:58,120
+olyan rendszerbe amiben amiben ezt nem
+tudják elkövetni úgymond a a a a
+
+137
+00:12:58,120 --> 00:13:04,279
+megtakarított pén pzünkkel hanem hanem
+hogyha bitcoinba tesszük és megfelelően
+
+138
+00:13:04,279 --> 00:13:10,000
+kezeljük akkor akkor akkor az biztos
+helyyen tudjuk és ugye minél minél
+
+139
+00:13:10,000 --> 00:13:15,720
+többen így
+cselekszünk így egyre jobban tudunk
+
+140
+00:13:15,720 --> 00:13:21,560
+függetlenedni ez ezektől a ezektől a
+varázslóktól
+
+141
+00:13:21,560 --> 00:13:27,320
+igen nagy varázslók nagy mágusok erre az
+5 ftos fagyira még én is emlékszem de
+
+142
+00:13:27,320 --> 00:13:31,320
+tényleg hogyha így belegondolsz hogy
+kettullát írunk mögé ez azt jelenti hogy
+
+143
+00:13:31,320 --> 00:13:37,040
+ugye 100 szorosára növekedett az a
+pénzmennyiség ami íy cirkulál a
+
+144
+00:13:37,040 --> 00:13:41,279
+gazdaságunkban de ez nem feltétlenül
+jelenti azt hogy 100szorta nagyobb lett
+
+145
+00:13:41,279 --> 00:13:45,240
+a
+gazdaságunk inkább csak azt hogy hogy ez
+
+146
+00:13:45,240 --> 00:13:51,920
+a forintnak nevezett vagy amit mi
+pénzként használunk ez a kis papírdab
+
+147
+00:13:51,920 --> 00:13:58,240
+tehát hogy hogy igen az értéktelenedése
+a pénznek az mennyire jelen van és amit
+
+148
+00:13:58,240 --> 00:14:04,600
+mondtál is hogy az emberek kénytelenek
+tovább adni rajta tehát olyan eszközöket
+
+149
+00:14:04,600 --> 00:14:13,480
+találni ami amik ezt a ezt az évről évre
+bekövetkező pénzromlást ezt valamennyire
+
+150
+00:14:13,480 --> 00:14:19,160
+állják és hát ugye ennek a legjobb
+példája az amikor az ingatlanpiacon így
+
+151
+00:14:19,160 --> 00:14:23,680
+valaki vesz egy lakást és akkor 10 év
+múlva eladja négyszer 5ötsz annyiért
+
+152
+00:14:23,680 --> 00:14:29,560
+vagy mit tudomn lehet 10íszer annyiért
+vagy öt év alatt háromszor annyiért mert
+
+153
+00:14:29,560 --> 00:14:37,959
+azt gondolja hogy mekkora jó üzletet
+csinált közben igazából
+
+154
+00:14:38,279 --> 00:14:42,920
+tehát nem feltétlenül csinált rosszat de
+de nem feltétlenül csinált jót sem
+
+155
+00:14:42,920 --> 00:14:49,199
+hiszen ugye csak az ára a a a forintban
+kifejezett értéke lett nagyobb az a szám
+
+156
+00:14:49,199 --> 00:14:56,240
+de nem kap érte
+több mit tudom é tehenet vagy autót vagy
+
+157
+00:14:56,240 --> 00:15:01,839
+szőnyeget vagy amit szeretne venni
+mert arányaiban ezek azért nem
+
+158
+00:15:01,839 --> 00:15:05,639
+rugaszkodnak el egymástól tehát így
+minden eszköz így szépen így vándorol
+
+159
+00:15:05,639 --> 00:15:11,000
+egy egymás mellett tehát nyilván azért
+vannak kiemelkedőbb teljesítményű
+
+160
+00:15:11,000 --> 00:15:16,480
+eszközök meg gyengébben
+muzsikálók aztán mindenki eldönti hogy
+
+161
+00:15:16,480 --> 00:15:23,399
+melyikbe teszi a pénzét
+mert mert a pénzbe nem hagyhatja ugye
+
+162
+00:15:23,399 --> 00:15:29,680
+illetve hát maga a megtakarítás
+se sincs annyira jelen hiszen
+
+163
+00:15:29,680 --> 00:15:36,519
+ezek a megtakarítási számlák ha jól
+tudom ezek ilyen infláció alatt vannak
+
+164
+00:15:36,519 --> 00:15:42,560
+azért persze mondják hogy fölötte de de
+így a valóságban azért nem feltétlenül
+
+165
+00:15:42,560 --> 00:15:48,120
+kell azt elhinni ami így hivatalosan ki
+van nyilatkozva szerintem ezekben a
+
+166
+00:15:48,120 --> 00:15:52,240
+dolgokban tehát ha ha valóságban
+kimondaná a központi bank hogy mennyi az
+
+167
+00:15:52,240 --> 00:15:56,519
+infláció magyarországon akkor nem jönne
+ide senki
+
+168
+00:15:56,519 --> 00:16:04,680
+befektetni és lehet hogy nem venne
+lakosság infláció követő állampapírt ja
+
+169
+00:16:04,680 --> 00:16:09,199
+egyébként nagyon szép grafikonokat lehet
+ezzel játszani hogy így a kamatos kat
+
+170
+00:16:09,199 --> 00:16:16,800
+meg így az annuitás képlete miatt ezek
+az inflációs értékek ha valójában igazi
+
+171
+00:16:16,800 --> 00:16:21,759
+inflációs öss számokkal játszunk akkor
+ezek mennyire zsugorítják el a vagyont
+
+172
+00:16:21,759 --> 00:16:27,040
+tehát generációk alatt eltüntetnek
+vagyonokat tehát akinek nincs valami
+
+173
+00:16:27,040 --> 00:16:31,480
+olyan keményebb es esköz a rend a
+portfóliójában
+
+174
+00:16:31,480 --> 00:16:36,279
+ugye eddig így most a bitcoin előtti
+időkről beszélek például ingatlan vagy
+
+175
+00:16:36,279 --> 00:16:41,440
+vagy olyan eszköz ami régiség vagy bármi
+amiből amiből így nem
+
+176
+00:16:41,440 --> 00:16:46,680
+készül több vagy vagy jelentősen sok
+nyilván az ingatlanpiacnak is van egy
+
+177
+00:16:46,680 --> 00:16:52,920
+kibocsátása ott is van egy egy növekedés
+hogy mennyi lakás jelenik meg a piacon
+
+178
+00:16:52,920 --> 00:16:57,399
+30 60000 vagy 100000 attól függ hogy
+milyen év van vagy az ingatlanfejlesztők
+
+179
+00:16:57,399 --> 00:17:04,079
+milyen évet zárnak vagy mennyi az
+igény illetve hát van lakáselpusztulás
+
+180
+00:17:04,079 --> 00:17:08,039
+is ugye azért bontanak is persze nem
+ilyen számmal tehát tehát a lakáspiac is
+
+181
+00:17:08,039 --> 00:17:12,720
+bővül
+tehát tehát az sem egy annyira kemény
+
+182
+00:17:12,720 --> 00:17:19,360
+eszköz ugye itt a pénzek keménységét ezt
+ez adja hogy mennyire nehéz felpumpálni
+
+183
+00:17:19,360 --> 00:17:28,880
+a ezt a ezt a hát ezt a számot ami ami
+kifejezi a darabszámokat ugye ezt a
+
+184
+00:17:28,880 --> 00:17:34,200
+kettőt nani egy-etnek nevezik a
+közgazdaságban ugye ez magyarországon
+
+185
+00:17:34,200 --> 00:17:38,799
+assiszem ilyen 42 hú most nem akarok
+hüeséget mondani
+
+186
+00:17:38,799 --> 00:17:46,080
+42000 na ezt majd megnézzük pontosan én
+se tudom milliárd vagyis 1000 milliárd
+
+187
+00:17:46,080 --> 00:17:51,440
+körül van e szépen fel lett
+pumpálva forintba de hát ez föl volt
+
+188
+00:17:51,440 --> 00:17:56,600
+pumpálva sokkal tajobban a vemári
+köztársaságban illetve venezuelában ugye
+
+189
+00:17:56,600 --> 00:18:02,000
+napjainkban illetve törököknél a
+argentínában van egy két ország
+
+190
+00:18:02,000 --> 00:18:09,200
+így aki aki ezt így pumpálgatja fölfelé
+mert így tudja fedezni a az ak az ottani
+
+191
+00:18:09,200 --> 00:18:14,559
+vezetés a kiadásait de persze ugye most
+már itt van a ez a tök jó eszköz a
+
+192
+00:18:14,559 --> 00:18:19,960
+bitcoin aminek ismert a monetáris
+politikája tudjuk hogy milyen inflációja
+
+193
+00:18:19,960 --> 00:18:25,240
+van most egyébként ilyen
+0,7 körül van
+
+194
+00:18:25,240 --> 00:18:30,120
+assassiszem
+megnézzük de lényeg az hogy ugye ez ez
+
+195
+00:18:30,120 --> 00:18:36,919
+dezinflációs tehát az a kibocsátás az
+fokozatosan csökken a felezések mentén
+
+196
+00:18:36,919 --> 00:18:41,480
+négy évente
+ugye ezek az inflációs számok ezek
+
+197
+00:18:41,480 --> 00:18:48,679
+mindig a felére csökkennek a matematika
+miatt és ez teljesen exakt dolog tehát
+
+198
+00:18:48,679 --> 00:18:53,720
+igazából ha azt nézed ez egy elég
+demokratikus eszköz hiszen hogyha valaki
+
+199
+00:18:53,720 --> 00:18:57,400
+ezt választja akkor
+
+200
+00:18:57,559 --> 00:19:03,000
+nem kell arra alapozni hogy az adott
+politikai klub betartja-e az
+
+201
+00:19:03,000 --> 00:19:08,720
+ígéreteit hiszen
+ugye ezt már korábbi alkalmakkor is
+
+202
+00:19:08,720 --> 00:19:15,679
+hangsúlyoztuk hogy a a bitcoin ez egy
+konszenzusos mechanizmus alapján működik
+
+203
+00:19:15,679 --> 00:19:21,960
+tehát minden érdekelt fél vagyis hogy
+minden fél aki ezt futtatja vagy ebben
+
+204
+00:19:21,960 --> 00:19:29,480
+szerepel az az az érdeke az hogy ez ez
+így maradjon a kód tehát változat 21
+
+205
+00:19:29,480 --> 00:19:35,200
+millió legyen a maximális bitcoin szám
+majd amit elérünk tehát ehhez tendáljon
+
+206
+00:19:35,200 --> 00:19:40,960
+ez legyen a korlátja ez legyen a
+határértéke aminél majd
+
+207
+00:19:40,960 --> 00:19:46,760
+szépen lecsökken a a block reward tehát
+a blokkonkénti jutalom tehát ha azt
+
+208
+00:19:46,760 --> 00:19:50,880
+nézed és itt mondtad az előbb ezt a
+demokratikus dolgot hogy a központi
+
+209
+00:19:50,880 --> 00:19:56,720
+bankokat nem mi választjuk meg a
+központi bankárokat nem mi választjuk ez
+
+210
+00:19:56,720 --> 00:20:02,679
+valóban azért nagy igazság
+központi bankok választják
+
+211
+00:20:02,679 --> 00:20:09,360
+magukat beszavazzák illetve hát ugye ez
+egy klub aminek nem vagyunk a tagjai meg
+
+212
+00:20:09,360 --> 00:20:15,640
+szerintem nagyon kevesen mondhatják el
+hogy a tagjai mert a világban mit tudom
+
+213
+00:20:15,640 --> 00:20:23,159
+én van 200-250 ország és autonóm terület
+nagyjából ennek a 95%-a vagy
+
+214
+00:20:23,159 --> 00:20:29,799
+99%-a az központi
+bank vezérlése alatt van ugye van egy-
+
+215
+00:20:29,799 --> 00:20:34,679
+kettő ami esetleg az usa- dollárt
+használja mert
+
+216
+00:20:34,679 --> 00:20:40,320
+olyannyira korrupt a rendszerük hogy
+hogy még egy saját központi bank
+
+217
+00:20:40,320 --> 00:20:46,320
+bevezetésének a kísérletétől is
+elzárkóznak vagy nincsenek természeti
+
+218
+00:20:46,320 --> 00:20:53,720
+ásványkincseik mint például venezuelának
+ugye ott most ezen is megy a nagy
+
+219
+00:20:53,720 --> 00:20:57,440
+érdeklődés hogy rengeteg ásványkinccsel
+rendelkezik illetve hát a
+
+220
+00:20:57,440 --> 00:21:03,720
+világtörténelem során ez mindig nagy
+nagy motivációs erő volt adott uralkodó
+
+221
+00:21:03,720 --> 00:21:11,000
+hatalmaknak hogy ezeket a természeti
+erőforrásokat hogyan tudja magáévá
+
+222
+00:21:11,000 --> 00:21:16,600
+tenni például ugye itt van ez a
+venezuelai rezsim most
+
+223
+00:21:16,600 --> 00:21:22,880
+hát mondhatjuk hogy
+diktatórikus hiszen nem enged semmilyen
+
+224
+00:21:22,880 --> 00:21:27,840
+demokratikus formát ugye választásokat
+ugye most assassiszem kiírták de úgy
+
+225
+00:21:27,840 --> 00:21:33,000
+nyerte meg hogy hogy nem engedtek be
+semmilyen nemzetközi megfigyelőt meg
+
+226
+00:21:33,000 --> 00:21:38,640
+kajak így elcsalták meg hát nyilván ezt
+ez is egy érzékeny téma meg politikai
+
+227
+00:21:38,640 --> 00:21:45,600
+téma de olyannyira bitcoin téma is hogy
+azért a bitcoin azáltal hogy hogy egy
+
+228
+00:21:45,600 --> 00:21:51,880
+ilyen exakt kiszámítható
+monetáris politikát ajánl
+
+229
+00:21:51,880 --> 00:21:57,880
+alternatívaként ezért emellett el lehet
+köteleződni tehát akik úgy érzik hogy az
+
+230
+00:21:57,880 --> 00:22:02,760
+ő ország monetáris politikája vagy az
+adott ország pénzügyi politikája nekik
+
+231
+00:22:02,760 --> 00:22:07,080
+nem megfelelő akkor ezt manapság
+csendben megtehetik egy egy olyan
+
+232
+00:22:07,080 --> 00:22:13,039
+vookssal ami amihez nem kell megvárni
+egy négy éves választást tehát nem kell
+
+233
+00:22:13,039 --> 00:22:17,799
+arról szavazni hogy most akkor a jelölt
+vagy b jelölt vagy a pirosfejű vagy a
+
+234
+00:22:17,799 --> 00:22:23,520
+kékfejű jelölt vagy
+a nyerjen vagy amellé tegyük be az x-et
+
+235
+00:22:23,520 --> 00:22:30,080
+hanem betehetjük minden nap az x-ünket a
+bitcoin mellé azáltal hogy használjuk
+
+236
+00:22:30,080 --> 00:22:35,440
+azáltal hogy ebbe csatornázzuk az
+energiánkat olyan szinten hogy a munkánk
+
+237
+00:22:35,440 --> 00:22:42,080
+gyümölcsét ugye ami a megtakarításunk
+lenne vagy a pénzünk lenne azt szépen
+
+238
+00:22:42,080 --> 00:22:49,679
+átváltogatjuk és bitcoinba helyezzük még
+akkor is hogyha esetleg az lefelé
+
+239
+00:22:50,120 --> 00:22:57,640
+tendáló trendet mutat mint például azt a
+15 éves története során olyan sokszor
+
+240
+00:22:57,640 --> 00:23:03,000
+tette
+de ugye ezek ideéglenes trendek voltak
+
+241
+00:23:03,000 --> 00:23:07,440
+eddig tehát azért azt hangsúlyozzuk hogy
+mi nem befektetési tanácsot adunk csak
+
+242
+00:23:07,440 --> 00:23:12,880
+csak itt pusztán elemezzük azt hogy
+eddig mi volt és arra is felhívjuk a
+
+243
+00:23:12,880 --> 00:23:19,760
+figyelmet hogy a korábbi teljesítmény az
+természetesen nem jósol előre semmit
+
+244
+00:23:19,760 --> 00:23:24,360
+pusztán abból ami a kódban van abból
+lehet megítélni hogy ez egy number go up
+
+245
+00:23:24,360 --> 00:23:27,440
+tehát hogy a szám folyamatosan fog
+fölfelé
+
+246
+00:23:27,440 --> 00:23:31,440
+menni
+technológia
+
+247
+00:23:31,440 --> 00:23:38,679
+hiszen hiszen egyre kevesebb a
+kibocsátása és egyre vonzóbb lesz
+
+248
+00:23:38,679 --> 00:23:44,240
+üm tehát egyre terjed az adaptációja
+egyre több use cas-t valósít meg például
+
+249
+00:23:44,240 --> 00:23:48,080
+itt vannak ezek az emberek akik
+napjainkban ilyen hiperinflációs
+
+250
+00:23:48,080 --> 00:23:53,559
+területen élnek és a központi bankok
+manipulációinak vannak a leginkább
+
+251
+00:23:53,559 --> 00:23:59,400
+kitéve ugye ezek a harmadik világbeli
+meg hát második világbeli ember
+
+252
+00:23:59,400 --> 00:24:05,400
+k nekik a legfontosabb az hogy hogy a
+munkájuk ne menjen veszendőbe tehát nem
+
+253
+00:24:05,400 --> 00:24:10,760
+a napi szintű megélhetésükért
+pedálozzanak ebbe a kis red részbe ebbe
+
+254
+00:24:10,760 --> 00:24:17,360
+a mókuskerékbe hanem igenis tudjanak egy
+kicsit félretenni emiatt például
+
+255
+00:24:17,360 --> 00:24:23,600
+afrikában meg meg dél-amerikában
+közép-amerikában ázsia csomó részén
+
+256
+00:24:23,600 --> 00:24:28,760
+nagyon szeretik a bitcoint mert mert
+tudják hogy ezt a világon mind ahol el
+
+257
+00:24:28,760 --> 00:24:36,480
+lehet fogadtatni ezért bármit kapnak és
+nem veheti el tőlük senki
+
+258
+00:24:36,480 --> 00:24:41,520
+ugye és nagyon jó egyébként ez a példa
+amit fölhoztál hogy ez a videó amit a
+
+259
+00:24:41,520 --> 00:24:46,640
+simply
+bitcoiner nco is mondott vagyis y hogy a
+
+260
+00:24:46,640 --> 00:24:52,559
+videón bemutatta a venezuelai esetet
+hogy ott is nagyon sokan azért tudták
+
+261
+00:24:52,559 --> 00:24:58,840
+megtenni hogy hogy elhagyják ezt a
+diktatórikus rendszert mert volt esetleg
+
+262
+00:24:58,840 --> 00:25:03,200
+olyan megtakarítások itt az évek során
+amit amit bitcoinban tudtak maguk
+
+263
+00:25:03,200 --> 00:25:10,039
+mellett és abban vitték el magukkal vagy
+ezt még mindig ott őrizgetik és ugye
+
+264
+00:25:10,039 --> 00:25:16,520
+ezalatt az 5-10 év alatt amióta a
+bitcoin van jelentősen megnőtt a
+
+265
+00:25:16,520 --> 00:25:21,600
+vásárlóértéke ugye ezt mindig azt azt
+mondják hogy aktuálisan ez a a dollár
+
+266
+00:25:21,600 --> 00:25:27,559
+árfolyam vagy euró árfolyam fejezi ki
+leginkább persze egy nagyon-nagyon
+
+267
+00:25:27,559 --> 00:25:31,840
+likvid piac
+de ha megnézzük azt hogy például egy
+
+268
+00:25:31,840 --> 00:25:37,480
+afrikai faluban vagy városban ahol
+teljesen le van vágva minden
+
+269
+00:25:37,480 --> 00:25:41,600
+ott például ne mennyi a bitcoin árfolyam
+hanem azt mondják hogy mondjuk mennyi
+
+270
+00:25:41,600 --> 00:25:46,760
+szatért kapok egy csirkét vagy mennyi
+szatért kapok egy tojást csomó helyen
+
+271
+00:25:46,760 --> 00:25:52,320
+például ez van
+hogy kirögik a helyi pénzt venezuelába
+
+272
+00:25:52,320 --> 00:25:58,360
+az utcát söprik fel vele egyszerűen
+annyira értéktelen
+
+273
+00:25:59,720 --> 00:26:05,279
+ja ja igen és azért is mondják hogy az
+egy békés forradalom ráadásul
+
+274
+00:26:05,279 --> 00:26:09,559
+világszerte merthogy egyre több ember
+ismeri ezt fel
+
+275
+00:26:09,559 --> 00:26:15,559
+és ruházza fel magát egy egy ilyen
+eszközzel amit amit ugye se
+
+276
+00:26:15,559 --> 00:26:21,000
+elértékteleníteni nem tudnak a
+jegybankok se elkobozni nem tud
+
+277
+00:26:21,000 --> 00:26:27,240
+politikai hatalom se meg senki és hogy
+gyakorlatilag ez a ez a
+
+278
+00:26:27,240 --> 00:26:32,480
+szuverenitásunkat ogatja
+abszolút és hogy gyakorlatilag lehetővé
+
+279
+00:26:32,480 --> 00:26:36,399
+teszi azt hogy szabadon szabadon
+létesítsünk
+
+280
+00:26:36,399 --> 00:26:42,320
+tranzakciókat a világon
+bárhol és
+
+281
+00:26:42,320 --> 00:26:49,000
+ja nem kell hozzá harmadik fél igen és
+ugye és ugye attól hogy hogy ugye
+
+282
+00:26:49,000 --> 00:26:55,919
+értékálló rádásul általában fiatban
+mérve növekszik az értéke néhány évente
+
+283
+00:26:55,919 --> 00:27:00,159
+mondjuk egy
+nagyságrendet így
+
+284
+00:27:00,159 --> 00:27:07,080
+akik hosszú távon bitcoinban tartják a
+megtakarításuknak legalább egy részét de
+
+285
+00:27:07,080 --> 00:27:15,240
+ugye sokan már az egészet abba tesszük
+olyan szinten tudunk függetlenedni a a
+
+286
+00:27:15,240 --> 00:27:20,919
+régi hanyatló pénzügyi
+rendszertől hogy egyre szabadabban
+
+287
+00:27:20,919 --> 00:27:25,720
+tudunk gazdálkodni az időnkel nem
+szerintem ez ez még egy kulcsmuma ennek
+
+288
+00:27:25,720 --> 00:27:31,919
+az egésznek onnantól kezdve hogy nincs
+az a kényszer rajtunk hogy na most már
+
+289
+00:27:31,919 --> 00:27:36,520
+megint robotolnom kell 8olc órát hogy
+meglegyen az a fizetésem hogy kenyeret
+
+290
+00:27:36,520 --> 00:27:41,679
+vegyek a gyerekeknek a jövő hónapban
+kreatívan tudunk
+
+291
+00:27:41,679 --> 00:27:47,720
+gazdálkodni az időnkkel és mérlegelni
+azt hogy mi nekünk a a fontos és hogy mi
+
+292
+00:27:47,720 --> 00:27:55,559
+mi mit teszünk azért a a hetünk egy
+bizonyos részében hogy hogy hogy hogy
+
+293
+00:27:55,559 --> 00:28:01,120
+hogy elérjük azt ami számunkra fontos és
+például ezért is tudunk mi ketten itt
+
+294
+00:28:01,120 --> 00:28:06,159
+rendszeresen dumálni meg a többiekkel is
+meg ugye ezeket az anyagokat
+
+295
+00:28:06,159 --> 00:28:10,159
+előkészíteni meg feldolgozni mert
+[Zene]
+
+296
+00:28:10,159 --> 00:28:15,679
+mert mert minket ebben támogat ez a ez a
+ez a pénzügyi eszköz meg ez a hálózat
+
+297
+00:28:15,679 --> 00:28:20,760
+ami a bitcoin tehát hogy hogy igen ettől
+ettől nagyszerű és és
+
+298
+00:28:20,760 --> 00:28:27,600
+működőképes ez a ez a békés forradalom
+igen amit mondtál és tényleg ez
+
+299
+00:28:27,600 --> 00:28:34,200
+nagyonnagyon nagyon fontos hogy ez a az
+erőforrás az erőforrás az embernek az
+
+300
+00:28:34,200 --> 00:28:38,720
+ideje leginkább meg hát egyéb
+erőforrások is vannak de de ugy a humán
+
+301
+00:28:38,720 --> 00:28:45,880
+erőforrást nézzük és a a mai világ ugye
+a fiat világ csúcsán élünk vagy hát él a
+
+302
+00:28:45,880 --> 00:28:49,720
+civilizációnk mindenki robotol tehát
+gyakorlatilag
+
+303
+00:28:49,720 --> 00:28:55,279
+nonstop éjjel nappal dolgozik mindenki
+két-három állása van akinek előre kell
+
+304
+00:28:55,279 --> 00:29:00,279
+aki előrébb szeretne jutni vagy olyan
+rendszert ami neki termel megfelelően de
+
+305
+00:29:00,279 --> 00:29:05,159
+folyamatos mókuskerékben van és
+egyébként ez is a fietrendszer egy
+
+306
+00:29:05,159 --> 00:29:10,440
+nagyon nagy adú a kezében hogy az
+embereket tudja ebbe az erőforrás
+
+307
+00:29:10,440 --> 00:29:15,039
+hiányban tartani tehát gyakorlatilag
+belekényszeríti az embereket abb hogy
+
+308
+00:29:15,039 --> 00:29:19,559
+folyamatosan pedálozzanak és ha
+folyamatosan pedálozik valaki és
+
+309
+00:29:19,559 --> 00:29:23,240
+folyamatosan az van a szeme előtt hogy
+mit fog holnap enni vagy egy hónap múlva
+
+310
+00:29:23,240 --> 00:29:27,760
+vagy hogyan fizeti ki aakbért vagy a
+lakáshitelt vagy az autótörlesztést vagy
+
+311
+00:29:27,760 --> 00:29:33,919
+akár bármit hogy tesz félre akkor ezen
+dolgozik vagyis ezen gondolkodik akkor
+
+312
+00:29:33,919 --> 00:29:40,240
+folyamatosan egy görcsbe van az agja és
+nem tud kreatív lenni tehát továbbá
+
+313
+00:29:40,240 --> 00:29:45,279
+olyan olyan dolgoktól vonja el az
+energiát ami ami amitől mélyebb mélyebb
+
+314
+00:29:45,279 --> 00:29:50,640
+gondolatai lesznek tehát ha valaki így
+tart egy egy teljes társadalmat akkor az
+
+315
+00:29:50,640 --> 00:29:55,679
+a társadalom teljes mértékben rab tehát
+a rabja a fiát
+
+316
+00:29:55,679 --> 00:30:02,360
+pénzrendszernek és ez kell legy azoknak
+akik vezérlik az egészet igen miközben
+
+317
+00:30:02,360 --> 00:30:07,320
+még igen hogyha van mitől félni annak a
+társadalomnak az még még hatékonyabbá
+
+318
+00:30:07,320 --> 00:30:12,200
+teszi ezt a ezt a bizsergést mert ugye
+hogy egy egy egy félelemben élő
+
+319
+00:30:12,200 --> 00:30:17,760
+társadalom biztos hogy nem kreatív és
+nem nem a hosszútávú jövőre gondolva
+
+320
+00:30:17,760 --> 00:30:22,880
+tesz meg fontolt lépéseket
+igen és ugye így nincs is kapacitása
+
+321
+00:30:22,880 --> 00:30:27,000
+gondolkodni egyébként ez a félelemmel
+vezérlés meg ez az erőforrások
+
+322
+00:30:27,000 --> 00:30:33,640
+megvonásával való vezérlés ez ez egy
+elég szemét dolog szerintem mert ugye
+
+323
+00:30:33,640 --> 00:30:37,320
+így teljesen rá lehet húzni hogy holott
+persze van szabad választás meg
+
+324
+00:30:37,320 --> 00:30:42,960
+demokrácia meg tök jó mindenki lehet
+kényelemben élhet ugye az is egy nagyon
+
+325
+00:30:42,960 --> 00:30:49,000
+nagy tényező
+ezért nem is gondolkodik senki szerintte
+
+326
+00:30:49,000 --> 00:30:52,480
+szinte ezeken a dolgokon pedig ebben van
+a
+
+327
+00:30:52,480 --> 00:30:58,159
+megoldás hogy csináljuk másképp a
+dolgokat mint eddig hát igen tehát
+
+328
+00:30:58,159 --> 00:31:02,080
+hogyha mindenki ugyanazt a ugyanazt az
+utat járja akkor azt tudhatja hogy
+
+329
+00:31:02,080 --> 00:31:08,639
+ugyanoda fog vezetni nem h ez meglepő
+járt úton fű nem terem ahogy mátyás
+
+330
+00:31:08,639 --> 00:31:13,360
+király is
+mondta tehát ugye a fiát világból megy a
+
+331
+00:31:13,360 --> 00:31:17,880
+mókuskerék a bitcoin világ pedig ki
+tudod csatornázni ezt ezeket az
+
+332
+00:31:17,880 --> 00:31:22,679
+energiáidat és és és a a
+megtakarításaidat tudod növelni tehát
+
+333
+00:31:22,679 --> 00:31:28,960
+tudod tudod azt hogy egy véges dolognak
+leszel a része tehát egy véges
+
+334
+00:31:28,960 --> 00:31:34,039
+egy egy véges számmal szétosztott
+gazdaságból vásárolgatsz ugye hogyha
+
+335
+00:31:34,039 --> 00:31:38,760
+szatokat tehát napi szinten vesz az
+ember satzatokat dca-vel tehát dollar
+
+336
+00:31:38,760 --> 00:31:44,279
+cost averaginggel tehát hogy szépen
+átlagosan bevezeti az életébe legyen az
+
+337
+00:31:44,279 --> 00:31:48,919
+napi 10 ft vagy 100 vagy 1000 a feré egy
+csomó jó példát hozott erre hogy mennyit
+
+338
+00:31:48,919 --> 00:31:55,279
+meg lehet takarítani így akkor ez
+fiádban elpárol mert nézd meg hogyha én
+
+339
+00:31:55,279 --> 00:32:01,399
+tettem volna öt éves korom óta félre
+fortot akkor
+
+340
+00:32:01,399 --> 00:32:07,760
+most most két nullát vettek el tőlem
+azóta hiszen akkor 5 ft-ér vettem a
+
+341
+00:32:07,760 --> 00:32:13,080
+fagyit most meg 500 ft-ért vettem a
+fagyit nem ühüm tehát kettullát kell
+
+342
+00:32:13,080 --> 00:32:18,960
+megnyerj ennyi idő alatt tehát az 100
+egy 100 szorozást kell a
+
+343
+00:32:18,960 --> 00:32:25,000
+megtakarításaidra ráhúz persze hogyha
+azt 40 éves annuitásra ráhúzod akkor az
+
+344
+00:32:25,000 --> 00:32:31,399
+nem olyan sok persze ugye ez a
+25% vagy 10 ezt egyébként majd le kéne
+
+345
+00:32:31,399 --> 00:32:37,960
+vezetni nagyon kíváncsi vagyok
+rá hogy eznyi vol átlagosan mennyi
+
+346
+00:32:37,960 --> 00:32:43,240
+lopásnak jelent mert mert kvázi az ez
+szerintem lopás meg hát ugye bitcoinerek
+
+347
+00:32:43,240 --> 00:32:48,639
+szerint is lopás az infláció hiszen
+hogyha azt nézed hogy van egy vödröd
+
+348
+00:32:48,639 --> 00:32:53,760
+amiben szállítod a vizet akkor arra nem
+lehet azt mondani hogy ha kicsi lyuk van
+
+349
+00:32:53,760 --> 00:32:58,559
+rajta az jó mert akkor legalább szeded a
+lábad hogy fölérje heegy tetejére hogy
+
+350
+00:32:58,559 --> 00:33:02,360
+ott kiborítsd a bödrödet ü tehát
+ugyanezzel az analógiával mennyi
+
+351
+00:33:02,360 --> 00:33:09,120
+infláció a jó mennyi egyébként a a
+sailornek volt valami számítása és abból
+
+352
+00:33:09,120 --> 00:33:15,960
+az usa dollárra számolta ki hogy évente
+átlagosan 7%-ot vesz it az értékéből az
+
+353
+00:33:15,960 --> 00:33:21,000
+usa dollár igen tehát a forint biztos
+hogy többet biztos
+
+354
+00:33:21,000 --> 00:33:27,039
+igen nyilván azért vannak jobb évek meg
+rosszabbak ugye lehet itt szépíteni igen
+
+355
+00:33:27,039 --> 00:33:33,519
+persze persze bizit de hát azért szar
+valljuk be tehát a fiát az nem erre van
+
+356
+00:33:33,519 --> 00:33:39,200
+kitalálva meg hát pont ennek az
+ellentétére van kitalálva tehát hogyha a
+
+357
+00:33:39,200 --> 00:33:44,559
+rendszer üzemeltetés szempontjából nézed
+tehát nem az emberek nézőpontjából hanem
+
+358
+00:33:44,559 --> 00:33:48,799
+pont a másik irányból akkor meg tök jó a
+rendszer nem hát dolgoznak az emberek
+
+359
+00:33:48,799 --> 00:33:54,240
+mennek kusba vannak éltetik a rendszert
+és akkor a rendszervezérlő az meg
+
+360
+00:33:54,240 --> 00:33:58,840
+eldönti hogy mit fizet ki melyik számlát
+mert ha nincs rá pénze akkor mi van
+
+361
+00:33:58,840 --> 00:34:03,960
+semmi rajzol mögé két nullát és akkor
+máris van rá pénze hüüm szóval ezt kell
+
+362
+00:34:03,960 --> 00:34:09,119
+nézni hogy egyébként a és ezt nem elég
+százszor elmondani hogy hogy a bitcoin
+
+363
+00:34:09,119 --> 00:34:15,440
+ezt oldja meg a korrupciót vonja ki a
+képletből nem m tehát az emberi
+
+364
+00:34:15,440 --> 00:34:21,879
+az emberi korrupciót mert mert az az
+ember az mindig igen mindig korrupt
+
+365
+00:34:21,879 --> 00:34:27,040
+bárki van ott mindig az lesz nem nem tud
+úgy gazdálkodni egyrészt nem egy ember
+
+366
+00:34:27,040 --> 00:34:32,280
+kezében van van ez hanem nyilván ezek
+ugye ezek kormányok meg meg állami
+
+367
+00:34:32,280 --> 00:34:37,599
+vezetésű minisztériumok meg mindegyik
+költ tehát nincs olyan hogy én még nem
+
+368
+00:34:37,599 --> 00:34:41,639
+hallottam ilyenről jó persze most azt
+mondják hogy a milei behúzta a kéziféket
+
+369
+00:34:41,639 --> 00:34:46,399
+és akkor nincs a központi banknak ugye
+kibocsátása és akkor először van
+
+370
+00:34:46,399 --> 00:34:51,119
+argenentía pluszba persze mert most
+választották meg nyilván azt csinálhatja
+
+371
+00:34:51,119 --> 00:34:57,359
+két évig vagy háromig vagy nem de a vége
+úgy is az lesz hogy hogy egyszer majd
+
+372
+00:34:57,359 --> 00:35:04,800
+meg szalad meg hát meg is szaladt eddig
+is hát mindenesetre ő elvileg elkezdett
+
+373
+00:35:04,800 --> 00:35:09,760
+ott ilyenolyan megszolításokat aminek
+ugye nem feltétlen örülnek rövid távon
+
+374
+00:35:09,760 --> 00:35:14,880
+az argentínok de hosszú távon meg meg
+tényleg csak úgy tudnak
+
+375
+00:35:14,880 --> 00:35:20,599
+bármennyire is egyenesbe jönni hát
+persze na és mi lenne hogyha minden
+
+376
+00:35:20,599 --> 00:35:26,839
+ország ezt tenné hát mi lenne semmi
+tudná ezt tenni nem tudná hát egy csomó
+
+377
+00:35:26,839 --> 00:35:32,119
+háború van kép képtelenség ezt az utat
+választani és hogy azért is törvényszerű
+
+378
+00:35:32,119 --> 00:35:38,599
+az hogy hogy előbb vagy utóbb de újra
+beindul a a pénznyomtató és akkor
+
+379
+00:35:38,599 --> 00:35:44,560
+viszont még még durvább lesz mint ami
+itt a az elmúlt években történt
+
+380
+00:35:44,560 --> 00:35:48,119
+szerintem lehet hogy át is
+nyargalhatnánk a
+
+381
+00:35:48,119 --> 00:35:56,119
+a matolcs féle előadásra nem ami most a
+a 62 közgazdász vándorgyűlésen hangzott
+
+382
+00:35:56,119 --> 00:36:00,359
+el ugye most az az elmúlt napokban volt
+ez azt hiszem
+
+383
+00:36:00,359 --> 00:36:05,280
+nyíregyházán és hát rengeteg előadás
+volt de
+
+384
+00:36:05,280 --> 00:36:12,200
+de minket leginkább ez ez érdekel
+legalábbis engem ez a ez hogy a a
+
+385
+00:36:12,200 --> 00:36:19,000
+jegybank mit kommunikál a a szakma
+krémje felé és így a a a a nagy vvilág
+
+386
+00:36:19,000 --> 00:36:26,839
+felé és én vártam is ezt nagyon mert én
+a tavalyi vándorgyűlés előadásaiból is
+
+387
+00:36:26,839 --> 00:36:32,640
+csemegészg ettem és az egyik kedvencem
+az a matolcsi györgy akkori előadása
+
+388
+00:36:32,640 --> 00:36:38,400
+volt úgyhogy azért is szeretném hogyha
+itt néhány szót erről is szólnánk meg
+
+389
+00:36:38,400 --> 00:36:43,480
+meg van két olyan
+részletb benne amit amit így szívesen be
+
+390
+00:36:43,480 --> 00:36:49,240
+is játszanék a a nézőknek hallgatóknak
+hogy hogy ne csak olyan
+
+391
+00:36:49,240 --> 00:36:55,240
+összefoglalókat olvassanak ha olvasnak
+amit mondjuk olyan olyan újságok írnak
+
+392
+00:36:55,240 --> 00:37:02,599
+akik ugye nem tudom szeretnek szépíteni
+a a narratíván hanem hogy néhány percet
+
+393
+00:37:02,599 --> 00:37:09,359
+érdemes meghallgatni hogy hogy beszél a
+pénzügyi dolgainkról az az ember aki
+
+394
+00:37:09,359 --> 00:37:15,359
+ugye az ország pénzügyi
+dolgaiért felel gyakorlatilag majdnem
+
+395
+00:37:15,359 --> 00:37:20,760
+hogy egy személyben persze azért majd
+lehet hallani hogy mutogat elég erősen
+
+396
+00:37:20,760 --> 00:37:27,800
+arra hogy a hogy a kormány így rontott
+el ezt meg azt meg úgy de de de a azért
+
+397
+00:37:27,800 --> 00:37:33,240
+elhangzik benne elég szépen az is hogy
+hogy ugye ahogy megtámadott minket a
+
+398
+00:37:33,240 --> 00:37:40,079
+covid tettük a dolgunkat és és
+élénkítettük a gazdaságot egy egy 11000
+
+399
+00:37:40,079 --> 00:37:46,480
+milliárdos
+pénzpumpálással a a gazdaságba és hogy
+
+400
+00:37:46,480 --> 00:37:52,880
+utána utána meg nem teljesen értjük hogy
+hogy mi miért lett eszméletlen nagy
+
+401
+00:37:52,880 --> 00:37:57,000
+infláció bár ugye azzal kezdi kábé az
+előadást hogy hogy nagyon büszke rá hogy
+
+402
+00:37:57,000 --> 00:38:01,200
+ők már
+2019-ben a magyar nemzeti bank így a a
+
+403
+00:38:01,200 --> 00:38:06,880
+nemzetközi parandon ezt így jelezte hogy
+ők úgy érzik hogy a 2020-as évtized az
+
+404
+00:38:06,880 --> 00:38:13,480
+ilyen az ilyen inflációra hajlamos lesz
+merthogy merthogy szerintük van egyfajta
+
+405
+00:38:13,480 --> 00:38:19,200
+ciklikusság a közgazdaság a
+makroközgazdaságban és hogy és hogy
+
+406
+00:38:19,200 --> 00:38:26,040
+szerintük ez a 2020-as év ez így rímelni
+fog a a 70-es évekre meg a 40-es évekre
+
+407
+00:38:26,040 --> 00:38:32,920
+is és hogy és hogy hú itt lesz valami és
+hogy és hogy tényleg amikor beindult a a
+
+408
+00:38:32,920 --> 00:38:38,200
+covid akkor akkor ők jelezték előre hogy
+itt hogy itt hogy itt magas infláció
+
+409
+00:38:38,200 --> 00:38:45,880
+lesz és nem csak átmeneti hanem hanem
+hanem tartós és és erre egy balami
+
+410
+00:38:45,880 --> 00:38:52,240
+büszke de lehet is erre büszke csak csak
+a a arra arra nem lehet büszke amit amit
+
+411
+00:38:52,240 --> 00:38:57,040
+itt
+lemanővereztek melyikre gondolsz azért
+
+412
+00:38:57,040 --> 00:39:02,040
+remélem ht0es évek nem úgyön vissza hog
+eg világháború formáj vagy eg 45-től
+
+413
+00:39:02,040 --> 00:39:09,119
+46-ig tart hát fmikről beszél hogy hogy
+háború meg meg makacs infláció és hogy
+
+414
+00:39:09,119 --> 00:39:15,000
+izé de hogy hogy hogy semmi jóra ne
+számítsunk és hát ugye ezt ezt ezt aki
+
+415
+00:39:15,000 --> 00:39:21,640
+követi azért a a a makrogazdasági
+folyamatokat képben is lehet hogy hogy
+
+416
+00:39:21,640 --> 00:39:26,359
+itt tényleg nem lehet sok jóra számítani
+így hogy ilyen eszméletlen módon el van
+
+417
+00:39:26,359 --> 00:39:30,040
+adósodva gyakorlatilag
+
+418
+00:39:30,400 --> 00:39:34,520
+majdnem az összes ország és
+gyakorlatilag e visszafizetni nem tudják
+
+419
+00:39:34,520 --> 00:39:38,760
+tehát itt itt itt itt megyünk a szakadék
+felé csak
+
+420
+00:39:38,760 --> 00:39:44,000
+nem tudom hogy ők látják-e hogy milyen
+intenzíven de szerintem igen tehát
+
+421
+00:39:44,000 --> 00:39:49,040
+persze szerintem a matolcsinak ez vagy
+saját kultfőből jön hogy ezt ő ezt a
+
+422
+00:39:49,040 --> 00:39:52,800
+szerepet
+játssza itt az európai porondon mint
+
+423
+00:39:52,800 --> 00:39:58,319
+amit ugye orbán a a politikai porondon
+hogy mi mi szembem megyünk a izével és
+
+424
+00:39:58,319 --> 00:40:04,640
+mi vagyunk a forradalmárok de közben meg
+gyakorlatilag ők is a a total kontroll
+
+425
+00:40:04,640 --> 00:40:09,640
+eszközeit csiszolgatják egyre
+tökéletesebbre szerintem ilyesmi amit
+
+426
+00:40:09,640 --> 00:40:15,720
+matolcsi játszik-e hogy mit a a magyar
+nemzeti banknál mi sok mindent előre
+
+427
+00:40:15,720 --> 00:40:20,839
+látunk meg szólunk hogy hogy ez lesz meg
+az lesz és aztán meg aztán meg tényleg
+
+428
+00:40:20,839 --> 00:40:26,119
+abba az irányba megy a cuccos aztán meg
+az előadás vége felé az szerintem egy
+
+429
+00:40:26,119 --> 00:40:31,520
+nagyon érdekes momentum hogy így hogy
+így ugye fölvetíti ezt hogy hogy hú itt
+
+430
+00:40:31,520 --> 00:40:36,440
+azért lesznek még ennél nagyobb
+problémák meg azok a meg azok a célok
+
+431
+00:40:36,440 --> 00:40:41,160
+amiket a kormány kitűzött meg még
+egy-két évvel ezelőtt ő is reálisnak
+
+432
+00:40:41,160 --> 00:40:46,800
+gondolt hogy elérhetünk magyarország
+szintjén 2030-ra ez most egészen biztos
+
+433
+00:40:46,800 --> 00:40:52,359
+hogy nem fog sikerülni azért mert amit a
+kormány csinált itt az elmúlt években de
+
+434
+00:40:52,359 --> 00:40:57,920
+2040-re már lehet és akkor ért így belő
+egy ilyen 16 éves
+
+435
+00:40:57,920 --> 00:41:02,960
+belengetést hogy hogy talán addigra
+valami jó lesz de hogy addig addig semmi
+
+436
+00:41:02,960 --> 00:41:08,280
+jóra ne számítsatok gyerekek ez
+szerintem ez nagyon erős hogy ezt így el
+
+437
+00:41:08,280 --> 00:41:15,119
+lehet el lehet játszani egy ilyen
+pozícióban lévő ember kének nem csak
+
+438
+00:41:15,119 --> 00:41:19,359
+ellett el is kell nem valamit azért
+mondani kell tehát ezt nem tudom hogyan
+
+439
+00:41:19,359 --> 00:41:25,000
+lehet tovább fényezni mer barna színe
+vanát igen igen
+
+440
+00:41:25,000 --> 00:41:30,680
+[Nevetés]
+igen lehet hogy akkor be be is játszanám
+
+441
+00:41:30,680 --> 00:41:35,400
+ezt az egyik részletet ami ami
+szerintem nagyon
+
+442
+00:41:35,400 --> 00:41:45,359
+ütős megítélésem szerint úttévesztésben
+vagyunk és ez azt jelenti hogy a 21 hát
+
+443
+00:41:45,359 --> 00:41:50,359
+24 közötti
+években az úttévesztés következtében
+
+444
+00:41:50,359 --> 00:41:57,280
+veszélybe került régében minden régében
+minden 2010-es években elért eredményünk
+
+445
+00:41:57,280 --> 00:42:02,000
+és veszélybe került természetesen a
+2030-ig
+
+446
+00:42:02,000 --> 00:42:08,920
+vágyot állított célok elérése sőt hogyha
+30- évtizedet elveszítenénk nem fogjuk
+
+447
+00:42:08,920 --> 00:42:14,040
+nem akarjuk akkor elveszítjük a
+következő évtizedet a 70-es évtizedből
+
+448
+00:42:14,040 --> 00:42:17,680
+következett a 80-as évtized páros
+évtizedek
+
+449
+00:42:17,680 --> 00:42:23,079
+voltak tisztelt hölgyeim és uraim
+magyarországnak két meglehetősen
+
+450
+00:42:23,079 --> 00:42:27,839
+veszélyes ellenfele van két éhes
+oroszlán vagy oroszáns és ki mit
+
+451
+00:42:27,839 --> 00:42:33,880
+szeretne egyiket se magas és költséges
+eladósodás és magas és magas infláció
+
+452
+00:42:33,880 --> 00:42:41,400
+ezek mind jelemezték az 1970-es
+évtizedet és akkor aki nem tudta azakat
+
+453
+00:42:41,400 --> 00:42:48,079
+kezelni többség nem tudta az veszített
+és nem csupán a 70es évtizedet hanem a
+
+454
+00:42:48,079 --> 00:42:53,000
+80-as évtizedt
+is hibás gazdaságpolitikai fordulat
+
+455
+00:42:53,000 --> 00:42:58,240
+következett be én azt gondolom hogy
+mindenki
+
+456
+00:42:58,240 --> 00:43:02,280
+tudja
+külön-külön hogy mi okozta ezt a hívás
+
+457
+00:43:02,280 --> 00:43:05,640
+gazdaságpolitikai fordulatot
+
+458
+00:43:06,319 --> 00:43:12,240
+elengedte a kormány az államháztartási
+hiányt az inflácis küzdelemben nem
+
+459
+00:43:12,240 --> 00:43:16,960
+csatlakozott másfél- két évig a
+jegybankhoz persze nekünk kötelező volt
+
+460
+00:43:16,960 --> 00:43:21,240
+mert ez a mandátumunk a négy mandátumunk
+közül első helyen szerepel ha azt nem
+
+461
+00:43:21,240 --> 00:43:27,440
+tesszük akkor minket nem csőlátással
+vagy valam küklopszerű dologal kell
+
+462
+00:43:27,440 --> 00:43:32,319
+vádolni hanem az hogy törvénytelenül
+működünk hát persze az inflációellenes
+
+463
+00:43:32,319 --> 00:43:37,079
+küzdelem volt nekünk akkor is és most is
+
+464
+00:43:38,040 --> 00:43:46,760
+elsőjen fincsi
+nem jó pofa ncs hát eladósodás és
+
+465
+00:43:46,760 --> 00:43:53,800
+infláció ugye ez ez a két
+mumus hát az egyikről vagy hát talán
+
+466
+00:43:53,800 --> 00:43:59,800
+mindkettőről tehet az állam nem vagy én
+nem nem értek hozzá
+
+467
+00:43:59,800 --> 00:44:05,559
+akkor ki tehet erről szerintem hát
+biztos hogy ők azért ezt együtt
+
+468
+00:44:05,559 --> 00:44:09,760
+manőverezik le csak ugye ez benne
+szerintem a mesteri
+
+469
+00:44:09,760 --> 00:44:15,599
+hogy hogy hogy ő mutogat a kormányra
+persze a kormány meg széttárja a kezét
+
+470
+00:44:15,599 --> 00:44:22,839
+hogy hogy hogy ez ez a mit tudom én ez
+az infláció miatt van meg a mit tudom én
+
+471
+00:44:22,839 --> 00:44:29,040
+a gazdasági folyamatok meg ugye a covid
+covidra mut
+
+472
+00:44:30,920 --> 00:44:40,800
+ja e aérük el élíten a gazdaságot mert
+ez a vírus ez nagyon huncut volt
+
+473
+00:44:40,800 --> 00:44:46,240
+igen
+durva keménység megnézzük a másik részt
+
+474
+00:44:46,240 --> 00:44:52,760
+amit szeretnék megmutatni és akkorze
+aztán dáljunk róla egy kics tényleg jó
+
+475
+00:44:52,760 --> 00:44:58,119
+igen itt van egy különleges
+magyar hungarikum nem jó hogy van ezek
+
+476
+00:44:58,119 --> 00:45:03,520
+szavak inflációja amikor miniszterelnök
+úr meghirdette a szép álmot 2030-ra
+
+477
+00:45:03,520 --> 00:45:08,440
+legjobb öt ország legyünk az nem volt
+reális
+
+478
+00:45:08,440 --> 00:45:15,280
+igen de szép volt én most m azt javaslom
+hogy legyen 240-re ez a célunk 230-ra ez
+
+479
+00:45:15,280 --> 00:45:18,920
+nem fog
+összejönni de nem volt reális ezért
+
+480
+00:45:18,920 --> 00:45:23,119
+nincs jövőképe magyarországnak jelen
+pillanatban mert a jövőkép az reális
+
+481
+00:45:23,119 --> 00:45:28,839
+feszített de reális célokból és
+határidőkből áll vagy kormány eltüntette
+
+482
+00:45:28,839 --> 00:45:33,280
+az inflációt nem az infláció itt van sőt
+makad sőt év végére egy picit följebb
+
+483
+00:45:33,280 --> 00:45:40,000
+megy reméljük hogy nem annyira de talán
+eg picit följebb senki nem tütettett el
+
+484
+00:45:40,000 --> 00:45:44,400
+semmit jegegybankot persze hogy infláció
+érdekli hosszan
+
+485
+00:45:44,400 --> 00:45:52,079
+lehetne még sorolni azokat a tévedéseket
+torzításokat az infláció az torzít az
+
+486
+00:45:52,079 --> 00:45:57,400
+torzítja az árértékarányokat a az
+értéket az ár a szavak a hibással
+
+487
+00:45:57,400 --> 00:46:03,839
+megválztott szavak torzítanak és persze
+ködösítenek ami a tisztáátást nem segít
+
+488
+00:46:03,839 --> 00:46:09,760
+hogyan nyerhetünk még is
+230240-re előre jelzem hogy nyerhetünk
+
+489
+00:46:09,760 --> 00:46:14,280
+és erő jelzem hogy az előadás sokkal
+hosszabb lenne ha most nem gyorsítanék
+
+490
+00:46:14,280 --> 00:46:19,040
+ezért arra hívnám fel a figyelmet hogy
+ha véletlen valami nagy túl gyorsag
+
+491
+00:46:19,040 --> 00:46:24,640
+kimarad akkor
+hát nem tudom nem is hogy szabad órák de
+
+492
+00:46:24,640 --> 00:46:28,839
+de
+úgyozni hiszen a a mai előadás után
+
+493
+00:46:28,839 --> 00:46:35,480
+fölkerül az magyar nemzeti pank honlapjá
+is azon kívül nyilván a vandorgs
+
+494
+00:46:35,480 --> 00:46:40,359
+honlapjára vagy a közös társaság
+honlapjára de nyer hogyan nyerhetünk
+
+495
+00:46:40,359 --> 00:46:46,119
+vissza fel kell ismernünk az évtizet
+karakterét egyszerű lesz a 70-es évtized
+
+496
+00:46:46,119 --> 00:46:52,160
+és 40-es évtized
+párhuzamos rokonok nem minden ugyanúgy
+
+497
+00:46:52,160 --> 00:46:58,599
+szerencsére de a mintázatok ismétlőnek
+térjünk vissza a saját sikereinkhez és
+
+498
+00:46:58,599 --> 00:47:02,280
+nézzük meg a sikeresebbeket hogyan
+működnek
+
+499
+00:47:02,280 --> 00:47:11,000
+a gazdasági ciklusokat említettem ezek
+makacs ciklusok az 1970-es évtized és az
+
+500
+00:47:11,000 --> 00:47:18,280
+1940-es évtized
+eléggé fenyegető sok kockázatot hozó mi
+
+501
+00:47:18,280 --> 00:47:22,400
+ezért az
+évtizedet háborús
+
+502
+00:47:22,400 --> 00:47:27,640
+konfliktusos válságokra hajlamos és
+inflációs hajlamos évtizedn
+
+503
+00:47:27,640 --> 00:47:33,359
+tartjuk de mi nyertünk ezzel a
+cikluselmélettel bevallom egészen
+
+504
+00:47:33,359 --> 00:47:40,520
+egyenesen
+most talán először hogy mi már itt mióta
+
+505
+00:47:40,520 --> 00:47:46,000
+régóta a ciklusokat
+vizsgálva dolgozzuk ki a programokat
+
+506
+00:47:46,000 --> 00:47:51,640
+ezért nyúltunk a versenyképességhez éjen
+hogy most is ez a
+
+507
+00:47:51,640 --> 00:47:58,960
+főtéma hm szerintem elég elég szerintem
+is mertztem el aludni de nagyon kemény
+
+508
+00:47:58,960 --> 00:48:06,000
+szerintem uncsi hát
+tudod mit mondanak ha valaki sokat
+
+509
+00:48:06,000 --> 00:48:11,240
+beszél mondjuk igen ahogy ahogy beszél
+az valószínű uncsi de amit mond ez
+
+510
+00:48:11,240 --> 00:48:16,599
+szerintem kő
+kemény de ugye én nem először
+
+511
+00:48:16,599 --> 00:48:23,880
+hallom én én már ezt ezen csámcsogtam
+tegnap is és ugy elég erősenz ben h hogy
+
+512
+00:48:23,880 --> 00:48:28,079
+mindenképp beszélgessünk ilyesmi
+dolgokról meg hogy mutassuk meg
+
+513
+00:48:28,079 --> 00:48:35,040
+hogy hogy hogy hogy mi a a lecsó ez a
+rész nem volt benne amit mondtam de de
+
+514
+00:48:35,040 --> 00:48:39,480
+az az azt szerintem nem játszanám be
+ugye lényegében ez hogy ezt a 11000
+
+515
+00:48:39,480 --> 00:48:45,119
+milliárdot belőtték és hogy és ugye nem
+igazán értik azt
+
+516
+00:48:45,119 --> 00:48:51,880
+hogy hogy miért miért miért lett aztán
+az ami még talán azt megosztom a
+
+517
+00:48:51,880 --> 00:48:58,760
+képernyőmről mindjárt itt van az éllovas
+az infláció ellenes harc éllovasainak az
+
+518
+00:48:58,760 --> 00:49:02,839
+eredményhirdetése
+igen tehát hogy mire lehetünk igazán
+
+519
+00:49:02,839 --> 00:49:09,400
+büszkék na ez persze ironikusan mondva
+de hogy ez ez ez az eredménye annak amit
+
+520
+00:49:09,400 --> 00:49:16,200
+az mnb művelt és itt osztja az ész hogy
+büszkék lehetünk a sikereinkre de ú de
+
+521
+00:49:16,200 --> 00:49:21,839
+ugye európában magyarországot érintette
+legdurvábban az inflációs sok és ezt így
+
+522
+00:49:21,839 --> 00:49:28,839
+lazán kommentálja matolcsi úr hogy nem
+teljesen értjük hogy ez miért hát biztos
+
+523
+00:49:28,839 --> 00:49:33,359
+érti azért ő nem hiszem hogy annyira
+buta ember lenne hogy ugye hy nem
+
+524
+00:49:33,359 --> 00:49:37,960
+véletlen az se hogy mi még nem az
+eurozónában vagyunk és nem bízzuk ezt a
+
+525
+00:49:37,960 --> 00:49:43,480
+az európai központi bankra hogy hogy
+hogy hogy ők bocsássák ki helyettünk a
+
+526
+00:49:43,480 --> 00:49:49,040
+azt a valutát amit használunk mert mert
+azzal azzal hogy hogy ugye a nemzeti
+
+527
+00:49:49,040 --> 00:49:53,839
+bank
+bocsátja ki a forintot ezzel sokkal
+
+528
+00:49:53,839 --> 00:49:58,640
+hatékonyabban tudja mondjuk a hozzá
+
+529
+00:49:58,920 --> 00:50:05,880
+közelálló cégcsoportoknak a pénztárcáját
+pumpálni milliárdokkal hát igen így lesz
+
+530
+00:50:05,880 --> 00:50:12,680
+a publik pénzből privát pénzn meg aztán
+meg csodálkozunk hogy basszus mekkora
+
+531
+00:50:12,680 --> 00:50:18,400
+infláció ezt nem értjük ezt nem értjük
+ezért mondunk ilyeneket mi visszatérően
+
+532
+00:50:18,400 --> 00:50:27,760
+hogy jegybankok meglopják a népet mert
+mert ugye a a azt az árat fizetjük mi
+
+533
+00:50:27,760 --> 00:50:34,880
+polgárok ugye majdnem 10
+millióan hogy értéktelenik a pénzünk
+
+534
+00:50:34,880 --> 00:50:40,880
+emelkednek a az élelmiszerárak kiemeli
+matalcsi is aztán az előadásb az
+
+535
+00:50:40,880 --> 00:50:45,160
+élelmiszerárakat meg a benzinárat és
+hogy és ugy ő is megjegyzi hogy
+
+536
+00:50:45,160 --> 00:50:51,599
+szerencsétlen középosztály
+ellen volt ez a az egész tehát hogy ők
+
+537
+00:50:51,599 --> 00:50:58,880
+azz ő rovásukra ment leginkább merellá
+hogy a a tehetősebbek azért azért ezen
+
+538
+00:50:58,880 --> 00:51:03,720
+ezen elég jókat
+kaszálnak hát igen ezt
+
+539
+00:51:03,720 --> 00:51:09,040
+mondta ezt nem de hát szerintem akik ott
+ültek azokból lehet hogy egy páran ezt
+
+540
+00:51:09,040 --> 00:51:15,200
+gondolják hogy így van na mindegy
+szerencsére hogy van bitcoin mertogy van
+
+541
+00:51:15,200 --> 00:51:21,680
+alternatívája ennek a a hülyeségnek már
+bocs így leszólom de igen ez egy ez egy
+
+542
+00:51:21,680 --> 00:51:27,480
+ilyen kéys kényszerített baromság tehát
+ugye hogyha már ide szül
+
+543
+00:51:27,480 --> 00:51:33,760
+ebbe az országba akkor neked ez ez a
+monetáris politika kötelezettséged tehát
+
+544
+00:51:33,760 --> 00:51:39,880
+akkor te ebbe az állatkertbe játszol
+kivéve akkor hogyha a bitcoinba
+
+545
+00:51:39,880 --> 00:51:44,839
+takarítasz meg mert akkor optoutolszehát
+azt mondod hogy köszi nem kéred tovább
+
+546
+00:51:44,839 --> 00:51:50,319
+ezt a hülyeséget nem vagy rá
+kíváncsi és
+
+547
+00:51:50,319 --> 00:51:56,160
+akkor akkor lehet egyébként növekedni
+
+548
+00:51:56,839 --> 00:52:01,960
+hogyha nem vagy nem vagy hozzáláncolva
+már ehhez a süllyedő hajóhoz igen és nem
+
+549
+00:52:01,960 --> 00:52:08,200
+is muszáj
+elhagyni az országot fizikailag mert
+
+550
+00:52:08,200 --> 00:52:14,119
+mert tudok függetlenidni
+úgyis a legnagyobb
+
+551
+00:52:14,119 --> 00:52:20,200
+genyózástól hogy hogy fizikailag
+ugyanott maradok de
+
+552
+00:52:20,200 --> 00:52:25,160
+lényegében a
+pénzhasználati szokásaimon változtatok
+
+553
+00:52:25,160 --> 00:52:32,119
+gyökeresen és ez
+e ez erősen kihat a a lehetőségeimre meg
+
+554
+00:52:32,119 --> 00:52:36,799
+a meg a
+szabadságfokomra ami ami szerintem
+
+555
+00:52:36,799 --> 00:52:41,960
+nagyon fontos
+igen egyébként most hogy itt milyen
+
+556
+00:52:41,960 --> 00:52:46,920
+megoldásokat lehetne fölhozni meg
+lehetne nézni egyébként a az el
+
+557
+00:52:46,920 --> 00:52:53,040
+salvadori példát ugye ahol
+aukele
+
+558
+00:52:53,040 --> 00:53:00,799
+elk hivatalos fizetőeszközé
+a bitcoint és ugye ott
+
+559
+00:53:00,799 --> 00:53:05,920
+a
+salvador stratégiai tartalékot is képez
+
+560
+00:53:05,920 --> 00:53:11,119
+bitcoinból ugye minden nap vásárolnak
+egyet illetve ha jól tudom azért nem
+
+561
+00:53:11,119 --> 00:53:16,280
+kellett im kölcsööz
+folyamodniuk legutóbb
+
+562
+00:53:16,280 --> 00:53:22,319
+mert ezek a volcano bondzok tehát ezeket
+a kötvényeket bocsátottak ki bitcoin
+
+563
+00:53:22,319 --> 00:53:28,920
+bányászattal
+ellen súlyozott köt tehát
+
+564
+00:53:28,920 --> 00:53:37,920
+hogy hogy nem imf kölcsönből fedezik a
+kiadásaikat ami egy teljesen zsákutca
+
+565
+00:53:37,920 --> 00:53:43,040
+ugye ez csak tovább erősíti ezt a
+hitelspirált ami az országok ugye
+
+566
+00:53:43,040 --> 00:53:48,799
+bekerültek szóval náluk például
+ugye ők ezt csökkentették meg tudtak
+
+567
+00:53:48,799 --> 00:53:53,599
+tudtak visszatörleszteni ugye illetve
+hát bitcoinban képeznek stratégiai
+
+568
+00:53:53,599 --> 00:53:58,599
+tartalékot mint ahogy azt már szerintem
+több állam is teszi csak esetleg nem
+
+569
+00:53:58,599 --> 00:54:06,839
+publikálja és hát sokan ezt tartják a
+következő szintjének a bitcoinnak ugye
+
+570
+00:54:06,839 --> 00:54:12,839
+mert eddig voltak a magánszemélyek akik
+gy szépen megtakarítkadtak benne aztán
+
+571
+00:54:12,839 --> 00:54:19,240
+most most bejöttek a cégek elmúlt pár
+évben akik az eszközeik között
+
+572
+00:54:19,240 --> 00:54:28,359
+kimutatták a bitcoint mint befektetett
+eszköz és akkor most majd jönnek az áll
+
+573
+00:54:32,460 --> 00:54:38,079
+[Zene]
+ő is kéelen valamenny bit
+
+574
+00:54:38,079 --> 00:54:44,359
+t sokak szerint ez fogja megindít
+követző brutális
+
+575
+00:54:44,359 --> 00:54:50,280
+bur a
+játékelmélet úy
+
+576
+00:54:55,319 --> 00:55:00,880
+mjukarem játékból és aiszem pont tegnap
+volt egy ilyen bejelentése az
+
+577
+00:55:00,880 --> 00:55:09,200
+egyik elnökjelöltnek most nem nevezem
+meg hogy ha valaki az ő elnöksége alatt
+
+578
+00:55:09,200 --> 00:55:14,559
+így tesz és elhagyja majd az usa dollárt
+a kereskedelmi tranzakció
+
+579
+00:55:14,559 --> 00:55:22,559
+kiegyenlítéséből akkor azokat majd
+100%-os védő fámal sújt felé gy ugye ez
+
+580
+00:55:22,559 --> 00:55:27,039
+már így a dollárnak az utolsó kétségbe
+esett ilyen kapaszkodása hiszen azért a
+
+581
+00:55:27,039 --> 00:55:33,520
+brit országok elég jelentős gazdasági
+hatalommal rendelkeznek ugy a földgolyón
+
+582
+00:55:33,520 --> 00:55:37,799
+és nekik majd októberben jön ki talán az
+a bejelentésük hogy akkor miféle
+
+583
+00:55:37,799 --> 00:55:44,160
+pénzügyi rendszert gondoltak itt
+elszámolásra bevezetni egymás között
+
+584
+00:55:44,160 --> 00:55:49,880
+egyébként erre nagyon kíváncsi vagyok
+hm sok elmélet szerint ugye behoznak
+
+585
+00:55:49,880 --> 00:55:55,160
+majd valamiféle kriptót amit maguk
+között egyenlítenek ki meg bányázgatnak
+
+586
+00:55:55,160 --> 00:56:01,039
+meg minden biztos saját szabályaik
+szerint szerintem nem a bitcoint fogják
+
+587
+00:56:01,039 --> 00:56:07,079
+behozni valami olyat a ainek a vezető
+leboltoltak szerintem valamelyik
+
+588
+00:56:07,079 --> 00:56:12,039
+szerintem ez vagy a ripple lesz vagy
+valami hasonló nem tudom na mindegy
+
+589
+00:56:12,039 --> 00:56:16,480
+kíváncsi vagyok erre tökre hogy hogy
+melyik lesz az vagy hát hogy hogy hogy
+
+590
+00:56:16,480 --> 00:56:20,799
+mi lesz az de hát ez ugyanakkor meg
+bocsi mond csak ugyanakkor meg az is
+
+591
+00:56:20,799 --> 00:56:26,599
+érdekes amit szintén a nikonak a
+podcastjában is szó van róla hogy ugye
+
+592
+00:56:26,599 --> 00:56:31,280
+ez ez még ami ami egyre inkább a
+porondoman hogy jön az amerikai
+
+593
+00:56:31,280 --> 00:56:36,799
+elnökválasztás novemberben és hogy ugye
+ott egyértelműen egy ebben is van egy
+
+594
+00:56:36,799 --> 00:56:43,039
+egy jelentős retorika hogy a hogy a
+trump felkarolta ezt a bitcoin témát meg
+
+595
+00:56:43,039 --> 00:56:48,960
+hogy a hogy a digitális jegybank pénzek
+ellen fog lépéseket tenni hogyha ő lesz
+
+596
+00:56:48,960 --> 00:56:55,240
+az elnök és ugye ebben totális ellentéte
+annak amit a biden képviselt aztán meg
+
+597
+00:56:55,240 --> 00:57:00,400
+ugye a kamala harris aki aki a jelölt
+utódja
+
+598
+00:57:00,400 --> 00:57:06,079
+képvisel tehátők gyakorlatilag
+ha tehetnék akkor akkor egy kanál vízbe
+
+599
+00:57:06,079 --> 00:57:13,559
+fojtanák az összes bitcoint és egyéb
+kriptovalutát használó emberkét
+
+600
+00:57:13,559 --> 00:57:20,599
+úgyhogy ez is egy izgi momentum hogy még
+az elkövetkezendő egy-két hónapban
+
+601
+00:57:20,599 --> 00:57:25,440
+mennyire lesz ez téma az amerikai
+elnökválasztáson hogy most bitcoin vagy
+
+602
+00:57:25,440 --> 00:57:30,400
+nem bitcoin
+és hogy és hogy hát az is iskki persze
+
+603
+00:57:30,400 --> 00:57:37,200
+hogy aztán melyik faszkap fog nyerni és
+aztán aztán mit csinál meg abból amit
+
+604
+00:57:37,200 --> 00:57:44,839
+ígérgetett ja mert igen tehát attól
+attól függetlenül hogy a trump bitcoin
+
+605
+00:57:44,839 --> 00:57:51,760
+szogeneket használ attól még attól még
+biztos hogy nem esünk hassa legtöbben
+
+606
+00:57:51,760 --> 00:57:56,319
+hogy úristen de jó politikus mert mert
+egyáltalán nem erről van szó akkor
+
+607
+00:57:56,319 --> 00:58:01,440
+lepődnék meg ha a fednek menne neki mert
+ugye ameddig onnan jön a lóv addig tök
+
+608
+00:58:01,440 --> 00:58:06,520
+mindegy hogy milyen színűre festik le a
+a kampányautókat
+
+609
+00:58:06,520 --> 00:58:11,160
+igen meg jó kérdés hogy egy cbdc ellen
+mit mit tud tenni de mondjuk hogyha
+
+610
+00:58:11,160 --> 00:58:16,440
+ellene dumál mint elnök akkor azért az
+az valami tehát biztos többet ér mint
+
+611
+00:58:16,440 --> 00:58:21,200
+hogyha mi itt erről beszélünk órákon
+keresztül h milyen gáz a digitális
+
+612
+00:58:21,200 --> 00:58:27,039
+jegybankpénz hát ugye ő egy ilyen
+szabadságbeállítottságú elnök ázsát adja
+
+613
+00:58:27,039 --> 00:58:31,920
+el és ugye abba a szabadságba nem fér
+bele a a teljes kontrollos központi
+
+614
+00:58:31,920 --> 00:58:38,680
+banki pénz mint ahogy az azt egyébként
+egyetlen normálisan gondolkodó ember se
+
+615
+00:58:38,680 --> 00:58:44,359
+igen tarthatja egy jó megoldásnak hogyha
+azem fogjuk használni hát figyelj ide a
+
+616
+00:58:44,359 --> 00:58:49,680
+most most a cenzúrákról nem esett szó
+eddig de egyébként ha ha ebbe gondolsz
+
+617
+00:58:49,680 --> 00:58:54,640
+bele és ez tök jól elmondja hogyha ha
+cenzúra van akkor és az információ nem
+
+618
+00:58:54,640 --> 00:58:59,240
+árolhat szabadon akkor
+ki feltételezheti azt hogy a a
+
+619
+00:58:59,240 --> 00:59:05,319
+tranzaktálás az az szabad szabad lehet
+nem tehát
+
+620
+00:59:05,319 --> 00:59:10,880
+hogyha tehát tehát ennyi totál de ugye
+ők csak a gyűlöletbeszédet akarják
+
+621
+00:59:10,880 --> 00:59:15,520
+cenzúrázni meg a
+félretájékoztatást és csak a csak a
+
+622
+00:59:15,520 --> 00:59:20,440
+rossz szándékú pénzügyi tranzakciókat
+akarják
+
+623
+00:59:20,440 --> 00:59:25,720
+ellhetetleníteni egy szó
+igen ezt végignézhetjük a történelem
+
+624
+00:59:25,720 --> 00:59:31,680
+során mindig így volt olyan olyan jót
+akarnak nekünk hogy hj ja kicsit
+
+625
+00:59:31,680 --> 00:59:36,839
+megszaladtunk időben úgyhogy lehet hogy
+amit még terveztünk már azt az még eg ja
+
+626
+00:59:36,839 --> 00:59:43,200
+vagy belesűrítsük röiden az a videó ahol
+a a jack mullers a peter shiel
+
+627
+00:59:43,200 --> 00:59:49,319
+vitatkozik arról hogy hogy bitcoin
+kontra arany de végülis egy pár
+
+628
+00:59:49,319 --> 00:59:56,039
+percbenát tudjuk mondani szerintem ami
+ügye kapcsán fel felbudgyant
+
+629
+00:59:56,039 --> 01:00:01,920
+ja berakhatod majd a videó linket azt
+mindenképp azt mindenképp nagyon jó kis
+
+630
+01:00:01,920 --> 01:00:06,400
+videó volt azt emelném ki belőle hogy
+ugye a jack mollers ő egy bitcoin
+
+631
+01:00:06,400 --> 01:00:12,599
+fejlesztő srác ugye aki kenny vágja a
+dolgot pet sheief meg egy meg egy
+
+632
+01:00:12,599 --> 01:00:18,440
+vmotoros aki kenyi vágja szintén azt
+hogy miről szól ez a fiat pénzrendszer
+
+633
+01:00:18,440 --> 01:00:24,319
+meg hogy az arany az tényleg egy baromi
+jó értéktároló és hogy
+
+634
+01:00:24,319 --> 01:00:31,000
+ugye a a fiat valutákhoz képest meg hogy
+az évezredeken keresztül egy jól
+
+635
+01:00:31,000 --> 01:00:37,079
+működő értéktároló volt és hogy nagyon
+sokáig pénzként is működött és akkor így
+
+636
+01:00:37,079 --> 01:00:42,920
+így ugye ugyanakkor meg ő arról híres
+így a bitcoinel körökben hogy egyszerűen
+
+637
+01:00:42,920 --> 01:00:50,880
+nem nem tudja befogadni meg elfogadni
+azt hogy hogy az arany az nem biztos
+
+638
+01:00:50,880 --> 01:00:56,559
+hogy még 100z évig be tudja tölteni azt
+a funkcióját amit most 1zer több évig
+
+639
+01:00:56,559 --> 01:01:00,760
+betöltött hanem hogy itt van a bitcoin
+és hogy vannak olyan
+
+640
+01:01:00,760 --> 01:01:07,119
+tulajdonságai amik amik alapján még jobb
+pénz
+
+641
+01:01:07,119 --> 01:01:14,240
+szerintünk mint a mint az arany és hogy
+kő keményen küzd ez ellen
+
+642
+01:01:14,240 --> 01:01:19,520
+ugyanakkor meg lejött ebből a vitából
+hogy tisztelik egymást a jackkel ezt így
+
+643
+01:01:19,520 --> 01:01:23,880
+ki is mondták mind a ketten de azért
+nagyon érződik az hogy amikor a jack
+
+644
+01:01:23,880 --> 01:01:28,359
+beszél akkor a peter shi így rendszeres
+így közbe pofázik és nem lehet
+
+645
+01:01:28,359 --> 01:01:35,240
+lelőni jack meg így rendszeresen így
+megkéri hogy hadd mondjam már végig hüüm
+
+646
+01:01:35,240 --> 01:01:41,280
+de talán azon kár végigmenni hogy milyen
+ellenérvei vannak a péter shiftnek mert
+
+647
+01:01:41,280 --> 01:01:47,400
+mert attól hosszú lenne de nagyon
+éssszerű pontokon próbál fogást találni
+
+648
+01:01:47,400 --> 01:01:54,319
+azon hogy szerintem miért nem pénz a
+bitcoin meg hogy miért miért miért nem
+
+649
+01:01:54,319 --> 01:02:00,160
+miért nem reális az hogy hogy átvegye
+gyakorlatilag a az arany szerepét a a
+
+650
+01:02:00,160 --> 01:02:04,720
+jövőben
+de szerintem vannak olyan
+
+651
+01:02:04,720 --> 01:02:10,000
+háttérinformációk amiket
+lehet hogy még vagy nem olvasott el vagy
+
+652
+01:02:10,000 --> 01:02:18,240
+nem nem jutott el nem emésztette meg
+kellőképpen de de úgy tűnik hogy hogy
+
+653
+01:02:18,240 --> 01:02:23,559
+hogy azért ő egy nagyon értelmes figura
+valakik szerint egyébként ő játssza ezt
+
+654
+01:02:23,559 --> 01:02:30,319
+a szerepet hogy hogy nem akarja
+megérteni a bitcoint de hogy valójában
+
+655
+01:02:30,319 --> 01:02:36,119
+valójában sokak szerint
+neki van is bitcoinja csak csak ezt nem
+
+656
+01:02:36,119 --> 01:02:41,680
+nem árulja el mert mert hogy azzal még
+jobban gyorsíthatná ezt a folyamatot
+
+657
+01:02:41,680 --> 01:02:45,839
+hogy hogy hogy hogy az arany az
+elveszítse azt a pozícióját amit
+
+658
+01:02:45,839 --> 01:02:51,079
+manapság betölt de például az egyik
+egyik momentum amit még így így
+
+659
+01:02:51,079 --> 01:02:55,640
+kiemelnék mert összefügg ugye a
+jegybankokkal az amiről amiről egyébként
+
+660
+01:02:55,640 --> 01:03:01,000
+a matolcsi is beszélt ott az utolsó
+sládon föl is tüntette hogy
+
+661
+01:03:01,000 --> 01:03:04,119
+gyakorlatilag a a magyar nemzeti bank
+ami
+
+662
+01:03:04,119 --> 01:03:08,920
+me3szorozta a a magyarország
+aranytartalékát vagy ilyesmi és ugy a
+
+663
+01:03:08,920 --> 01:03:13,240
+péter sif is erről beszél mint egy
+ellenérv a bitcoin ellen hogy de hát
+
+664
+01:03:13,240 --> 01:03:19,160
+nézd meg hogy a jegybankok nem bitcoint
+vesznek hanem aranyat és
+
+665
+01:03:19,160 --> 01:03:25,960
+hogy és hogy igen eddig eddig ez volt a
+trendi de hogy de hogy most most mi les
+
+666
+01:03:25,960 --> 01:03:31,920
+holnaptól az a attól attól még történhet
+ez másképp is meg ugye jelen pillanatban
+
+667
+01:03:31,920 --> 01:03:37,680
+is simán lehet hogy már néhány jegybank
+így spájzolgat bitcoint csak még nem
+
+668
+01:03:37,680 --> 01:03:43,160
+hozták nyilvánosságra ilyesmi ami ami
+így bennem ébrett de de az egyébként
+
+669
+01:03:43,160 --> 01:03:47,880
+bámulatos hogy tényleg mennyire
+kifejezte mind a két vitapartner hogy
+
+670
+01:03:47,880 --> 01:03:52,599
+hogy hogy hogy tisztelik egymást és hogy
+és hogy egy csomó mindenben egyetértenek
+
+671
+01:03:52,599 --> 01:03:58,799
+csak egyedül ebben nem hogy hogy hogy a
+bitcoin az az jobb mint a mint az arany
+
+672
+01:03:58,799 --> 01:04:02,839
+egyébként érdekes hogy a fia az meg egy
+megrögzött bitcoiner most nyilván nem
+
+673
+01:04:02,839 --> 01:04:07,799
+lázadásból hanem gazdasági
+megfontolásból meg saját esze után megy
+
+674
+01:04:07,799 --> 01:04:11,920
+nyilván egy ilyen idősebb korosztálynak
+nehezebb leszt lefordítaniia a saját
+
+675
+01:04:11,920 --> 01:04:17,960
+nyelvére tehát nyilván valószínűleg
+hiányosabbak az informatikai ismeretei
+
+676
+01:04:17,960 --> 01:04:23,440
+hogy ez ez mennyire jó illetve sok
+esetben ilyenkor azt sem vallja be hogy
+
+677
+01:04:23,440 --> 01:04:27,039
+mik a gyenge pontjai az aranynak tehát
+azért az az aranyfedezet azért az
+
+678
+01:04:27,039 --> 01:04:32,960
+megdőlt tehát abból fejlődött ki a
+fiát csak ő ezt rákente arra így ebben a
+
+679
+01:04:32,960 --> 01:04:39,160
+vitában hogy hogy nem az arany vallott
+kudarcot hanem az emberek üüm de nem
+
+680
+01:04:39,160 --> 01:04:43,599
+bírták el az aranyukat vagy nem tudták
+használni fizetés hát meg hát meg hogy
+
+681
+01:04:43,599 --> 01:04:49,520
+kijátszották a lehetőségeket és igen
+erre mutatott rá aztán a a jack hogy
+
+682
+01:04:49,520 --> 01:04:54,440
+gyakorlatilag a amit az emberek
+korrumpálni tudnak azt korrumpálják
+
+683
+01:04:54,440 --> 01:04:59,880
+tehát hog a bit ebben sokkal jobb mint
+az arany hogy nem tudsz vele visszaélni
+
+684
+01:04:59,880 --> 01:05:04,599
+akkor se tudsz többet nyomtatni akkor se
+tudod megváltoztatni a szabályokat
+
+685
+01:05:04,599 --> 01:05:10,920
+hogyha mit tudom én a teljes készlet
+56%-át felvásárolod mert mert mert nem
+
+686
+01:05:10,920 --> 01:05:18,240
+mert így van így van kidolgozva és kész
+hát erre figyeltek ja bizony mert hát
+
+687
+01:05:18,240 --> 01:05:24,119
+ezért ezért jött létre igen ja köszi
+hogy így összefoglaltad ezt egyébként
+
+688
+01:05:24,119 --> 01:05:28,960
+tényleg mindenkinek ajánlom a figyel
+elében nagyon jó kis videó csak hát ugye
+
+689
+01:05:28,960 --> 01:05:34,240
+angolul van de aki tud angolul az az
+menjen neki bátran mondjuk el azért még
+
+690
+01:05:34,240 --> 01:05:38,760
+azt így szerintem így a végén hogy hogy
+ugye lesz a bitcoin
+
+691
+01:05:38,760 --> 01:05:43,000
+miskolc bitcoin
+only
+
+692
+01:05:43,000 --> 01:05:50,400
+konferencia magyarországon
+október 11-től 13-ig ühüm ugye ez három
+
+693
+01:05:50,400 --> 01:05:56,440
+nap péntek szombat vasárnap miskolcon a
+hotel aurórában
+
+694
+01:05:56,440 --> 01:06:01,599
+a bitcoinmiskolc.hun erről lehet
+tájékozódni ez egy három napos kis
+
+695
+01:06:01,599 --> 01:06:07,920
+esemény lesz előadásokkal ilyen
+kerekasztal beszélgetéssel
+
+696
+01:06:07,920 --> 01:06:13,039
+illetve találkozási lehetőséggel meg
+ugye ilyen workshopokra is be lehet
+
+697
+01:06:13,039 --> 01:06:19,640
+jelentkezni ahol négy szem köztop tudunk
+megtanítani olyan dolgokat ami amik
+
+698
+01:06:19,640 --> 01:06:26,000
+amiket meg akar tanulni az adott emberk
+úgyogy jónakig érkezik ugye magyar gon
+
+699
+01:06:26,000 --> 01:06:30,720
+eddig nem volt ilyen bitcoin only
+konferencia ez az első mindenkit
+
+700
+01:06:30,720 --> 01:06:37,520
+szeretettel várunk
+úgyhogy jöjjetek majd oda és a figyelmet
+
+701
+01:06:37,520 --> 01:06:41,640
+meg köszönjük hát a mai ennyit tudtunk
+
+702
+01:06:41,760 --> 01:06:46,599
+belesűríteni reméljük tetszett az adás
+hogyha tetszett akkor lájkoljátok és
+
+703
+01:06:46,599 --> 01:06:54,200
+osszátok meg mert az sokat jelent nekünk
+köszönjük szépen
+
+704
+01:06:56,119 --> 01:07:01,320
+sziasztok sziasztok
+[Zene]
+
+705
+01:07:04,050 --> 01:07:10,800
+[Zene]
+

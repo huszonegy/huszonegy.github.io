@@ -12,4 +12,7 @@ Sitemap: https://huszonegy.world/sitemap.xml
 # Adatfájlok kizárása az indexelésből
 Disallow: /*.json$
 
+# Az átiratok nyers fájljai — a szövegük az epizódoldalakon van, ne indexelődjenek külön duplikátumként
+Disallow: /transcripts_clean/
+
 # Don't trust, verify.

@@ -27,7 +27,7 @@ import { link_simplified } from '../utils'
                 </a>
                 <a href="https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N" target="_blank" rel="noopener" class="platform-link fountain-link" title="Fountain">
                     <span class="icon-wrap">
-                        <img src="/public/logo/fountain-logo.png" class="fountain-img" alt="" aria-hidden="true" />
+                        <img src="/logo/fountain-logo.png" class="fountain-img" alt="" aria-hidden="true" />
                     </span>
                     <span>Fountain</span>
                 </a>

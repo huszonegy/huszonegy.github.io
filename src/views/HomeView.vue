@@ -12,9 +12,6 @@ import BeginnerGuide from '../components/BeginnerGuide.vue'
         </div>
         <div class="hero-text">
           <h1 class="hero-title">Bitcoin <span class="hero-accent">magyarul</span><span class="visually-hidden"> – </span><span class="hero-title-sub">tudástár, podcast, közösség</span></h1>
-          <p class="hero-lead">
-            Bitcoin tudástár és közösség. Podcast, oktatóanyagok, támogatás...
-          </p>
         </div>
       </div>
     </div>
@@ -91,14 +88,6 @@ import BeginnerGuide from '../components/BeginnerGuide.vue'
     margin-top: 0.35rem;
   }
 
-  .hero-lead {
-    font-size: 1rem;
-    opacity: 0.78;
-    line-height: 1.6;
-    max-width: 560px;
-    margin-bottom: 0.6rem;
-  }
-
   .section-title {
     font-size: 1.5rem;
     font-weight: 500;
@@ -119,9 +108,6 @@ import BeginnerGuide from '../components/BeginnerGuide.vue'
     }
     .hero-title {
       font-size: 1.8rem;
-    }
-    .hero-lead {
-      max-width: 100%;
     }
   }
 </style>
