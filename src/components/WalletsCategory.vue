@@ -12,9 +12,7 @@ defineProps<{
         <h2 class="cat-title">
             {{ cat.name }}
         </h2>
-        <div>
-            {{ cat.text }}
-        </div>
+        <div v-html="cat.text"></div>
         <div v-if="cat.bulletsIntro" class="mt-2">{{ cat.bulletsIntro }}</div>
         <ul v-if="cat.bullets" class="mt-1 mb-0">
             <li v-for="bullet in cat.bullets">{{ bullet }}</li>

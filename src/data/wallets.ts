@@ -170,12 +170,12 @@ Mindez egy nagyobacska kavics kinézetű, érdekes kis eszközben.",
             ],
             outro: "Amit NEM AJÁNLUNK új vásárlásra: \
             | Coldcard: 2026. júliusban kiderült egy katasztrofális kulcs generálási hiba, ez aláásta a bizalmat ezzel a gyártóval szemben. \
-            | Ledger: különböző korábbi biztonsági problémák. Aki ilyen használ, használja tovább, de fontoljon meg alternatívákat; egy ajánlott lépés a LedgerLive app mellőzése, és az eszköz használata egy független tárcával, pl. Sparrow-val."
+            | Ledger: különböző korábbi biztonsági problémák. Aki ilyet használ, használja tovább, de fontoljon meg alternatívákat; egy ajánlott lépés a LedgerLive app mellőzése, és az eszköz használata egy független tárcával, pl. Sparrow-val."
         },
         {
             name: "Bitcoin csomópontok (node)",
             id: "node",
-            text: "Ha nem szeretnél más szoftver szolgáltatásától függeni, vagy nem szeretnéd ha bárki más látná a tranzakcióidat, vagy csak hozzá szeretnél járulni a bitcoin hálózat decentralizáltságához – futtass saját node-ot!",
+            text: "Ha nem szeretnél más szoftver szolgáltatásától függeni, vagy nem szeretnéd ha bárki más látná a tranzakcióidat, vagy csak hozzá szeretnél járulni a bitcoin hálózat decentralizáltságához – <a href='https://bitcoinmentor.hu/sajat-bitcoin-node/' target='_blank' rel='noopener'>futtass saját node-ot</a>!",
             bulletsIntro: "Tudnivalók:",
             bullets: [
                 "egy szerényebb hardver is elég: Raspberry Pi, mini PC, vagy régi laptop",
