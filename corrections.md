@@ -78,6 +78,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Egy bejegyzés = elí
 - Halfini → **Hal Finney** (a „Hal Finney-módszer": a bitcoin átadása még életében, a családtagok felkészítésével)
 - Samir → **Shamir** (Shamir-féle titokmegosztás; a kulcs szétbontása, pl. 5-ből 3)
 - Vitarik Butarik / Vitalic Buterin → **Vitalik Buterin** (az Ethereum megalkotója)
+- szabócis / agyaszabot → **Hagya Szabolcs** (a Bitcoin-elfogadás jogi hátteréről tart előadást a Bitcoin Miskolcon) · Lirá / Szilárd Gergő → **Léránt Gergő** (Bitcoin-elfogadás a gyakorlatban) · **Fülöp Viktor** (humorista, a Bitcoin Miskolc esti fellépője)
 - kiszámolóhú → **Kiszámoló.hu** (bitcoinkritikus pénzügyi blog) · Pogi → **Pogi** (Pogátsa Zoltán beceneve, így marad)
 
 ## Márka/hely javítások
@@ -197,6 +198,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Egy bejegyzés = elí
 - kantilon hatás / Continuum Effect-us → **Cantillon-hatás**
 - seedfráze → **seed phrase**
 - zep / zeppek → **zap / zapek** (Nostr borravaló)
+- szapok (a „gyűjtögessétek” után) → **szatok** (a satoshi beszélt alakja; a „stack sats” magyarul)
 - mit törm → **midterm**
 - bullmet / bmarket / bermket / bell market → **bull market** / **bear market** (kontextus szerint; az angol alak marad, nem fordítjuk)
 - premission / premisszion → **permissionless** (engedélymentes; az angol alak marad)
