@@ -12,6 +12,9 @@ Futtatás a külön venv-ből:
   ~/.local/share/huszonegy-yt/venv/bin/python scripts/yt_meta.py retention E117 [E116 ...]
   ~/.local/share/huszonegy-yt/venv/bin/python scripts/yt_meta.py thumb <video_id> <kep.jpg>
   ~/.local/share/huszonegy-yt/venv/bin/python scripts/yt_meta.py lang <video_id> [--audio en]
+  ~/.local/share/huszonegy-yt/venv/bin/python scripts/yt_meta.py upload <video.mp4> --title T --desc-file F \
+      [--tags A,B] [--thumb kep.jpg] [--playlist NÉV] [--publish-at ISO-IDŐ] [--apply]
+  ~/.local/share/huszonegy-yt/venv/bin/python scripts/yt_meta.py playlist "LISTA NEVE" --desc-file F [--apply]
 
 A `set` alapból csak megmutatja a különbséget; élesíteni csak `--apply`-jal lehet.
 """
@@ -148,6 +151,119 @@ def cmd_thumb(args):
     print(f"Indexkép feltöltve: {best['url']} ({best.get('width')}×{best.get('height')})")
 
 
+def latest_category(yt):
+    """A csatorna legutóbb feltöltött videójának kategóriája — hogy az új feltöltés ugyanabba kerüljön."""
+    ch = yt.channels().list(part="contentDetails", mine=True).execute()["items"][0]
+    uploads = ch["contentDetails"]["relatedPlaylists"]["uploads"]
+    item = yt.playlistItems().list(part="contentDetails", playlistId=uploads, maxResults=1).execute()["items"][0]
+    return fetch(yt, item["contentDetails"]["videoId"])["snippet"]["categoryId"]
+
+
+def playlist_id(yt, title):
+    """A megadott nevű saját lejátszási lista azonosítója; ha nincs ilyen, nyilvánosként létrehozza."""
+    req = yt.playlists().list(part="snippet", mine=True, maxResults=50)
+    while req is not None:
+        resp = req.execute()
+        for pl in resp.get("items", []):
+            if pl["snippet"]["title"] == title:
+                return pl["id"], False
+        req = yt.playlists().list_next(req, resp)
+    pl = yt.playlists().insert(part="snippet,status", body={
+        "snippet": {"title": title, "defaultLanguage": "hu"},
+        "status": {"privacyStatus": "public"}}).execute()
+    return pl["id"], True
+
+
+def cmd_playlist(args):
+    """Saját lejátszási lista leírásának frissítése (név alapján)."""
+    yt = youtube()
+    req = yt.playlists().list(part="snippet", mine=True, maxResults=50)
+    pl = None
+    while req is not None and pl is None:
+        resp = req.execute()
+        pl = next((p for p in resp.get("items", []) if p["snippet"]["title"] == args.name), None)
+        req = yt.playlists().list_next(req, resp)
+    if pl is None:
+        sys.exit(f"Nincs ilyen nevű lejátszási lista: {args.name}")
+    old = pl["snippet"]
+    with open(args.desc_file, encoding="utf-8") as f:
+        desc = f.read().rstrip("\n")
+    if "<" in desc or ">" in desc:
+        sys.exit("A YouTube nem enged < vagy > jelet a leírásban.")
+
+    diff = list(difflib.unified_diff(
+        old.get("description", "").splitlines(), desc.splitlines(),
+        "élő leírás", "új leírás", lineterm=""))
+    print(f"LISTA: {args.name} → https://www.youtube.com/playlist?list={pl['id']}")
+    print("\n".join(diff) if diff else "A leírás nem változik.")
+
+    if not args.apply:
+        print("\n(Próbafutás — élesítéshez: --apply)")
+        return
+    # A snippetet itt is egészben cseréli az API: a címet és a nyelvet megtartjuk.
+    body = {"id": pl["id"], "snippet": {
+        k: old[k] for k in ("title", "defaultLanguage") if k in old}}
+    body["snippet"]["description"] = desc
+    yt.playlists().update(part="snippet", body=body).execute()
+    print("\nFrissítve.")
+
+
+def cmd_upload(args):
+    """Videó feltöltése magyar nyelvbeállítással, indexképpel és lejátszási listával."""
+    with open(args.desc_file, encoding="utf-8") as f:
+        desc = f.read().rstrip("\n")
+    if "<" in args.title + desc or ">" in args.title + desc:
+        sys.exit("A cím és a leírás nem tartalmazhat < vagy > karaktert (az API elutasítja).")
+    if len(args.title) > 100:
+        sys.exit(f"A cím legfeljebb 100 karakter lehet (most {len(args.title)}).")
+    tags = [t.strip() for t in args.tags.split(",") if t.strip()] if args.tags else []
+    # Időzített közzétételhez az API privát állapotot kér; a publishAt-kor válik nyilvánossá.
+    status = {"privacyStatus": "private" if args.publish_at else args.privacy,
+              "selfDeclaredMadeForKids": False, "embeddable": True, "license": "youtube"}
+    if args.publish_at:
+        status["publishAt"] = args.publish_at
+
+    print(f"FÁJL:      {args.file}")
+    print(f"CÍM:       {args.title}")
+    print(f"CÍMKÉK:    {', '.join(tags) or '(nincs)'}")
+    print(f"NYELV:     szöveg=hu, hang={args.audio}")
+    print(f"ÁLLAPOT:   {status['privacyStatus']}" + (f", közzététel: {args.publish_at}" if args.publish_at else ""))
+    print(f"INDEXKÉP:  {args.thumb or '(nincs)'}")
+    print(f"LISTA:     {args.playlist or '(nincs)'}")
+    print("-" * 40)
+    print(desc)
+    if not args.apply:
+        print("\n(Próbafutás — élesítéshez: --apply)")
+        return
+    if not os.path.isfile(args.file):
+        sys.exit(f"Nincs ilyen fájl: {args.file}")
+
+    from googleapiclient.http import MediaFileUpload
+    yt = youtube()
+    body = {"snippet": {"title": args.title, "description": desc, "tags": tags,
+                        "categoryId": args.category or latest_category(yt),
+                        "defaultLanguage": "hu", "defaultAudioLanguage": args.audio},
+            "status": status}
+    media = MediaFileUpload(args.file, mimetype="video/mp4", chunksize=16 * 1024 * 1024, resumable=True)
+    req = yt.videos().insert(part="snippet,status", body=body, media_body=media)
+    resp = None
+    while resp is None:
+        prog, resp = req.next_chunk()
+        if prog:
+            print(f"\rFeltöltés: {prog.progress() * 100:5.1f}%", end="", flush=True)
+    vid = resp["id"]
+    print(f"\rFeltöltve: https://youtu.be/{vid}  (kategória: {body['snippet']['categoryId']})")
+
+    if args.thumb:
+        yt.thumbnails().set(videoId=vid, media_body=MediaFileUpload(args.thumb, mimetype="image/jpeg")).execute()
+        print("Indexkép beállítva.")
+    if args.playlist:
+        pid, created = playlist_id(yt, args.playlist)
+        yt.playlistItems().insert(part="snippet", body={"snippet": {
+            "playlistId": pid, "resourceId": {"kind": "youtube#video", "videoId": vid}}}).execute()
+        print(f"Lejátszási lista{' (új)' if created else ''}: {args.playlist} → https://www.youtube.com/playlist?list={pid}")
+
+
 PODCASTS_TS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "src", "data", "podcasts.ts")
 RETENTION_POINTS_MIN = (1, 2, 5, 10)
 
@@ -221,6 +337,25 @@ def main():
     la.add_argument("video_id")
     la.add_argument("--audio", default="hu", help="a hang nyelve (angol hangú videónál: en)")
     la.set_defaults(func=cmd_lang)
+    u = sub.add_parser("upload")
+    u.add_argument("file")
+    u.add_argument("--title", required=True)
+    u.add_argument("--desc-file", required=True)
+    u.add_argument("--tags", help="vesszővel elválasztva")
+    u.add_argument("--thumb", help="indexkép (1280×720 JPEG, 2 MB alatt)")
+    u.add_argument("--playlist", help="lejátszási lista neve; ha nincs ilyen, létrehozza")
+    u.add_argument("--publish-at", help="időzített közzététel, pl. 2026-10-30T19:00:00+01:00")
+    u.add_argument("--privacy", default="private", choices=["private", "unlisted", "public"])
+    u.add_argument("--audio", default="hu", help="a hang nyelve")
+    u.add_argument("--category", help="kategória-azonosító; alapból a legutóbbi videóé")
+    u.add_argument("--apply", action="store_true")
+    u.set_defaults(func=cmd_upload)
+
+    pl = sub.add_parser("playlist")
+    pl.add_argument("name", help="a lejátszási lista neve")
+    pl.add_argument("--desc-file", required=True)
+    pl.add_argument("--apply", action="store_true")
+    pl.set_defaults(func=cmd_playlist)
 
     r = sub.add_parser("retention")
     r.add_argument("episodes", nargs="+", help="epizód-azonosító (pl. E117) vagy YouTube-videóazonosító")
