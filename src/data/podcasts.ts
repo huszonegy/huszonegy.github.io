@@ -2,6 +2,70 @@
 
 export const podcasts = [
     {
+        name: "Küldhetnek neked hamis bitcoint?",
+        id: "E122",
+        chapters: [
+        {
+                time: "00:00",
+                label: "A képernyőn látott szám (Intro)"
+        },
+        {
+                time: "02:24",
+                label: "Nem a hálózatért, magadért futtatod"
+        },
+        {
+                time: "05:51",
+                label: "Mind az 1 milliárd tranzakciót átnyálazza"
+        },
+        {
+                time: "09:23",
+                label: "Visszafelé, a bitcoin születéséig"
+        },
+        {
+                time: "12:48",
+                label: "„Ez arany, hidd el!” És a bitcoin?"
+        },
+        {
+                time: "18:00",
+                label: "Már az 1 TB sem elég?"
+        },
+        {
+                time: "21:18",
+                label: "Üres a tárca, pedig ott a bitcoin"
+        },
+        {
+                time: "26:29",
+                label: "Legfeljebb magadat csapod be"
+        },
+        {
+                time: "30:41",
+                label: "A Bitcoin Core maga is tárca"
+        },
+        {
+                time: "36:32",
+                label: "Mi vár ránk a Bitcoin Miskolcon?"
+        },
+        {
+                time: "38:37",
+                label: "Az MI megtalálja a rejtett hibákat"
+        },
+        {
+                time: "41:46",
+                label: "Nincs hülye kérdés"
+        },
+        {
+                time: "45:05",
+                label: "Új arcok Miskolcon"
+        }
+        ],
+        img: "/pics/e122.jpg",
+        date: "2026.11.06.",
+        members: ["Optout", "Feri"],
+        topic: "A képernyőn látott szám (Intro) - Nem a hálózatért, magadért futtatod - Mind az 1 milliárd tranzakciót átnyálazza - Visszafelé, a bitcoin születéséig - „Ez arany, hidd el!” És a bitcoin? - Már az 1 TB sem elég? - Üres a tárca, pedig ott a bitcoin - Legfeljebb magadat csapod be - A Bitcoin Core maga is tárca - Mi vár ránk a Bitcoin Miskolcon? - Az MI megtalálja a rejtett hibákat - Nincs hülye kérdés - Új arcok Miskolcon",
+        yt: "https://youtu.be/AcfLDrDv5dA",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
         name: "Bitcoin vs kripto: mit nem tud a proof of stake?",
         id: "E121",
         chapters: [
@@ -67,7 +131,7 @@ export const podcasts = [
         members: ["Tamás", "Feri"],
         topic: "Proof of stake olimpia (Intro) - Kémchipet építettek a Ledgerbe - Nincs tuti recept a védekezésre - Miért nem árulunk hardvertárcát? - Hamisítható lett bármelyik weboldal - A kvantumgép még a 16-ot sem bontja fel - Kell internet a Bitcoinhoz? - Proof of work: véletlen, amit senki nem irányít - Az áram maga a bizonyíték - Vitalik ötlete: tegyük le az árát - Bitcoinban a pénz nem ad hatalmat - Miért nem lesz másik Bitcoin? - Umbrel 2.0, ami már nem fagy le - Vége a bear marketnek?",
         yt: "https://youtu.be/_5S572fM6LI",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/CZFl946Jw9T1lBNHqISt"
     },
     {
         name: "25 bitcoint kínáltak 20 dollárért a Passzív Milliomosnak. Erre ő?",
