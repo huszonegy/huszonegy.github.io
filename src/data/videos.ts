@@ -2,7 +2,23 @@
 
 export const videos = [
     {
-        type: "Magyar nyelvű",
+        type: "Bitcoin kezdőknek",
+        details: "Jack Mallers „Bitcoin 101” sorozata magyarul",
+        parts: [
+            {
+                name: "1. lecke: Mitől ér a Bitcoin bármennyit is?",
+                img: "/pics/1-lecke-mitol-er-a-bitcoin-barmennyit-is.jpg",
+                date: "2026.10.30.",
+                length: "21 perc",
+                members: ["Jack Mallers"],
+                topic: "A Bitcoin mögött nincs cég, nem fizet osztalékot, és egyetlen állam sem áll jót érte, mégis milliók tartják benne a megtakarításukat. Ebben a leckében Jack Mallers „Bitcoin 101”, vagyis „Bitcoin kezdőknek” c. sorozatának első részét hozzuk el magyarul, és az alapoktól indulunk: mitől lesz értéke bárminek.",
+                yt: "https://youtu.be/j4Pm9RXjdJo",
+                fountain: ""
+            }
+        ]
+    },
+    {
+        type: "Saját videók",
         details: "A HUSZONEGY tagjai által készített oktatóvideók",
         parts: [
             {
