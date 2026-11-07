@@ -34,7 +34,7 @@ De a magyar jogalkotó nem állt meg a MiCA-nál, hanem hozott egy olyan hazai k
 
 – Igen, az is igaz.
 
-A kriptoátváltásnak a fogalmát a MiCA-rendelet szabályozza. És a MiCA azt mondja, hogy a kriptoeszköz-szolgáltatás egyik fajtája a kriptoeszközök pénzre történő átváltása. Ha ezt szó szerint próbáljuk értelmezni, akkor ez nyilvánvalóan azt jelenti, hogy a kriptopénzt fiat pénzre váltjuk.
+A kriptoátváltásnak a fogalmát a MiCA-rendelet szabályozza. És a MiCA azt mondja, hogy a kriptoeszköz-szolgáltatás egyik fajtája a kriptoeszközök pénzre történő átváltása. Ha ezt szó szerint próbáljuk értelmezni, akkor ez nyilvánvalóan azt jelenti, hogy a kriptopénzt [fiat](https://inflacio.eu/a-penz-evolucioja-penzfajtak/) pénzre váltjuk.
 
 Ugyanakkor a teljes definíció szerint a kriptoeszköz pénzre történő átváltása egy olyan tevékenység, amikor a szolgáltató a felhasználó megbízásából kriptoeszközöket fiat valutára vált – vagy fordítva. Tehát itt mindkét oldal játszik: ha euróból, forintból, dollárból BTC-t veszek, vagy BTC-t átváltok euróra, forintra, dollárra. És természetesen minden egyéb más kriptoeszköz is, és a kriptoeszköz más kriptoeszközre történő átváltását is magában foglalja.
 
@@ -142,7 +142,7 @@ Ugye tudjuk, mit jelent ez a „nem kötelező érvényű". Jó, hát akkor ha n
 
 És teszi ezt úgy, hogy szembeállítom azzal a rettenetes erőfeszítéssel, amit az országok – és nyilván az országok ráterhelik ezeket a piaci szereplőkre – végeznek. Micsoda pénzek!
 
-Vegyük csak például a compliance departmentet, ezt a jogi megfelelőségi osztályt, ami most már minden szereplőnél kötelező. És ez nem csak a pénzpiacra vagy a pénzügyi szereplőkre vonatkozik – a kötelezett személyek sora elég hosszú. Az antikváriusoktól az autókereskedőkön át az ingatlankereskedőkig, az ügyvédekig, a könyvelőkig. Egy sor kötelezett személy van, akiknek mind meg kell felelniük ezeknek az előírásoknak.
+Vegyük csak például a compliance departmentet, ezt a jogi megfelelőségi osztályt, ami most már minden szereplőnél kötelező. És ez nem csak a pénzpiacra vagy a pénzügyi szereplőkre vonatkozik – a kötelezett személyek sora elég hosszú. Az antikváriusoktól az autókereskedőkön át az [ingatlankereskedőkig](https://inflacio.eu/ingatlan/), az ügyvédekig, a könyvelőkig. Egy sor kötelezett személy van, akiknek mind meg kell felelniük ezeknek az előírásoknak.
 
 Viszont ezek olyan típusú előírások, és mára olyan terhet rónak az entitások nyakába, hogy szabályzatokkal kell rendelkezni – többel is, belső szabályzatokra gondolok. Dedikált személyzettel kell rendelkezni, akiknek borsos fizetésük van; ezek jellemzően jogi végzettségű emberek. Ezeket folyamatosan tréningelni kell – a saját munkavállalóidat, akik ezekkel foglalkoznak, folyamatosan tréningelni kell. Most már szoftvereket kell használnod ahhoz, hogy tranzakciókat követni tudjál, és azokból ki tudd nyerni a megfelelő adatokat. Ezeknek a szoftvereknek megint csak nagyon borsos az áruk.
 
@@ -184,7 +184,7 @@ Ennyit szerettem volna elmondani. (nevetés)
 
 – Le is fagyott a képetek egyébként. Elhiszem, hogy sokkoló. (nevetés)
 
-De hát a Bitcoin ezért ideális pénz, mert alapvetően megoldást nyújt ezekre az átláthatatlansági problémákra. Tehát ha holnaptól minden ilyen transzparensen működne a bankrendszerben, mint ahogy azt a Bitcoin hálózatán, a time chainen lehet megfigyelni, akkor igencsak probléma lenne a bankrendszeren belül – mert visszakanyarodna ez az AML meg a terrorizmus-finanszírozás problémája oda. Azért van egy csomó hír, hogy milyen bírságok jönnek ki a nagy bankoknál az USA-ban, amikor ilyen bűncselekmények kerülnek elő. Egy-két nagy bank azért már eléggé nagy bírságot kapott.
+De hát a Bitcoin ezért ideális pénz, mert alapvetően megoldást nyújt ezekre az átláthatatlansági problémákra. Tehát ha holnaptól minden ilyen transzparensen működne a [bankrendszerben](https://inflacio.eu/bevezetes-a-bankrendszerunkbe/), mint ahogy azt a Bitcoin hálózatán, a time chainen lehet megfigyelni, akkor igencsak probléma lenne a bankrendszeren belül – mert visszakanyarodna ez az AML meg a terrorizmus-finanszírozás problémája oda. Azért van egy csomó hír, hogy milyen bírságok jönnek ki a nagy bankoknál az USA-ban, amikor ilyen bűncselekmények kerülnek elő. Egy-két nagy bank azért már eléggé nagy bírságot kapott.
 
 Szeretném, ha egy kicsit visszakanyarodnánk a gyakorlati részére ennek. Említettél magánszemélyes példákat – engem, vagy szerintem egy pár nézőt is érdekelhet az, amikor mondjuk egy saját cég, egy kisvállalkozás fogad el bitcoint áruért, vagy a saját treasury céljára. Hogy azt érinti-e majd ez a validálás?
 

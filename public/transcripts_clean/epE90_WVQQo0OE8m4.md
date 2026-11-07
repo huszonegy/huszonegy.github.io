@@ -2,7 +2,7 @@ Az a terápiás módszer, amivel dolgozom, ezt úgy hívják, hogy Voice Dialogu
 
 A belső gyermek — akiről ugye nagyon sokat hallunk most, az utóbbi években, amióta ez az önismereti lemez pörög a világban. De hogy a belső gyermeknek is megvannak a különböző életkori szakaszai. Ugye, mint a Waldorf-iskolákban: minden osztálynak, minden korcsoportnak megvan a maga módszertana, hogy hogyan is érdemes, és miért érdemes azt tanítani, és úgy tanítani — mert ez az életkori sajátosság nagyon-nagyon fontos, hogy hogyan is kapcsolódjunk a gyermekhez.
 
-És ugyanígy mondjuk egy árnyékmunkában, egy ilyen gyógyítási folyamatban, egy önbeavatási, önmegismerési folyamatban nekem fontos tudnom azt, hogy amikor felbukkan valamilyen mély, elásott traumám, és azt kibányászom, akkor azt hogyan tudom meggyógyítani.
+És ugyanígy mondjuk egy árnyékmunkában, egy ilyen gyógyítási folyamatban, egy önbeavatási, önmegismerési folyamatban nekem fontos tudnom azt, hogy amikor felbukkan valamilyen mély, elásott traumám, és azt ki[bányászom](https://inflacio.eu/mi-az-a-bitcoin-banyaszat/), akkor azt hogyan tudom meggyógyítani.
 
 Úgyhogy erről az öt kontinensről nagyon sokat szoktunk beszélni: a belső gyermek, a belső nő, a belső férfi. Tehát ugyanígy bennem a férfi, benned a női, feminin minőséged, az ugyanúgy aktív — hiába vagy egy férfitestben.
 
@@ -180,7 +180,7 @@ De nekem nagyon nagy vágyam, hogy az a fantasztikus erőforrás, amit ezek a Wa
 
 Mi így a fiúkkal tervezünk együtt dolgozni: hogy akkor én mint terapeuta, ő mint talán nyiladozó terapeuta, vagy önismerettel foglalkozó ember. Szóval ebben is láttunk egy változást: hogy ami régen egy belekényszerítettség volt — hogy akkor a családi vállalkozást, vagy a földet, vagy a birtokot át kellett venni, és az emberek bele lettek erőszakolva, sulykolva, hogy ez muszáj —, ott az énjük nem tudott saját jogon felszabadulni.
 
-És hogy ez az, ami most változik. Hogy tudunk tényleg… ez a Bitcoin, ez nekem így ez a blokklánc-technológián futó rendszer: és hogy a blokkok — én vagyok egy blokk, a fiam egy másik blokk, minden egyes ember egy blokk. És hogy ezt hogyha egy ilyen láncolatra fel tudjuk fűzni, akkor itt tényleg olyan energiák meg tudnak futni…
+És hogy ez az, ami most változik. Hogy tudunk tényleg… ez a Bitcoin, ez nekem így ez a [blokklánc](https://inflacio.eu/mi-az-a-blokklanc/)-technológián futó rendszer: és hogy a blokkok — én vagyok egy blokk, a fiam egy másik blokk, minden egyes ember egy blokk. És hogy ezt hogyha egy ilyen láncolatra fel tudjuk fűzni, akkor itt tényleg olyan energiák meg tudnak futni…
 
 Ti ezzel viccelődtetek, hogy olyanok vagytok, mint egy szekta, a Bitcoin-szekta. De hogy ez is így átlélegződik: ami régen belegörcsösödött egy ilyen szektásodásba, az most már az ébredésben, a szabad akarat jogán, a szabad értelem jogán — ott már oké, most én ide berepülök, mert nekem ez jó. Nekem jó Árpival beszélgetnem, szeretem, amiről az Antival beszélget, szeretem a Katát is, hogy ő egy olyan nézőpontból lát rád.
 

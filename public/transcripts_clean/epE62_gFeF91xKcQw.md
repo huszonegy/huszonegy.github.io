@@ -46,7 +46,7 @@ Meg a Tether: ők nem is ilyen fractional reserve bankhoz hasonlóak, ezt még k
 
 – És szerintem itt lehet valami olyan összefüggés, hogy ugye a Tetherrel most ebben a TwentyOne cégben is összekapaszkodnak, és hogy valahogy szerintem valami olyasmit fognak itt megvalósítani, hogy biztosítsák azt az átmenetet, hogy ne is reccsenjen meg hirtelen az amerikai — nem is tudom — a pénzpiacok, de hogy azért mégis mozduljon át a vagyon minél inkább a kincstárjegyekből a bitcoinba. És szerintem valahogy ezt akarják ügyesen és okosan összehangolni, hogy ez egy minél fájdalommentesebb átmenet tudjon lenni. De hát hogy aztán ezt hogy fogják pontosan csinálni? Ezt lehet, hogy még ők se tudják, de valószínűleg több fogalmuk van, mint nekünk.
 
-– Hát ja, érdekes, hogy beléptek ezek a nagy tényezők, nem? Ezek a jelentősebbek. Ugye ott van a MicroStrategy, ő is hasonló módon működik, mert azért ugye ők is csak vásárolgatnak, persze ők a Coinbase-en keresztül. Meg most volt egy pár hír, így én a napokban olvastam ilyet, hogy a Coinbase is ki akar jönni valamiféle ETF-fel.
+– Hát ja, érdekes, hogy beléptek ezek a nagy tényezők, nem? Ezek a jelentősebbek. Ugye ott van a MicroStrategy, ő is hasonló módon működik, mert azért ugye ők is csak vásárolgatnak, persze ők a Coinbase-en keresztül. Meg most volt egy pár hír, így én a napokban olvastam ilyet, hogy a Coinbase is ki akar jönni valamiféle [ETF](https://inflacio.eu/mi-az-a-bitcoin-etf/)-fel.
 
 – Ühüm.
 
@@ -103,7 +103,7 @@ Meg ami még szerintem így jó hír, illetve egy fontos infó — bár nem szer
 
 Tehát valamilyen szinten én úgy gondolom, hogy ezek üdvözlendő folyamatok. Még akkor is, hogyha a legjobban akkor örülnék, ha mindenki all in menne a Bitcoinba — valószínűleg ilyen nem lesz, meg ez egy sokkal hosszabb folyamat. És még ebben is az a jó, hogy legalább addig mi tudunk valamennyiért vásárolgatni, mégha ez az ár most nyilván egyre magasabb, mert így időnként azért még inkább fölcsap. De szerintem azért jó.
 
-– Szerintem az is jó lett volna, hogyha még 10 évig itt marad ezen az árszinten. Mert ha belegondolsz, a kis szereplő, akár a kis magánszemély vagy a kis cégek talán nem olyan hülyék: nekik sokkal egyszerűbb megoldani ezt az önálló, tehát a self custody…
+– Szerintem az is jó lett volna, hogyha még 10 évig itt marad ezen az árszinten. Mert ha belegondolsz, a kis szereplő, akár a kis magánszemély vagy a kis cégek talán nem olyan hülyék: nekik sokkal egyszerűbb megoldani ezt az önálló, tehát a [self custody](https://inflacio.eu/mi-az-az-onrendelkezes/)…
 
 – Önrendelkezést.
 
@@ -233,13 +233,13 @@ Jól van, ha már így a témánál voltunk. Jó, hát figyelj, szerintem most i
 
 – Ühüm.
 
-– Illetve ugye most itt a TwentyOne Capital, ami itt a fejébe vette, hogy ők is akkor beállnak ebbe a sorba, és akkor azokat a nyomtatott dollárokat mind bitcoinba tennék — hogy ez milyen szinten húzza el a piacot. Illetve hogy itt volt egy cikk, vagyis egy poszt, a napokban azt olvastam, hogy ez mennyire beleszól a felezésbe. Mert ugye eddig a felezés nagyon meghatározta így a ciklusokat a Bitcoinban, de most már egyre kevésbé határozza meg, hiszen a kibocsátott bitcoinoknak a részaránya egyre kisebb, és a napi kereskedelmi volumenben is már alig kimutatható.
+– Illetve ugye most itt a TwentyOne Capital, ami itt a fejébe vette, hogy ők is akkor beállnak ebbe a sorba, és akkor azokat a nyomtatott dollárokat mind bitcoinba tennék — hogy ez milyen szinten húzza el a piacot. Illetve hogy itt volt egy cikk, vagyis egy poszt, a napokban azt olvastam, hogy ez mennyire beleszól a [felezésbe](https://inflacio.eu/mi-az-a-bitcoin-felezes/). Mert ugye eddig a felezés nagyon meghatározta így a ciklusokat a Bitcoinban, de most már egyre kevésbé határozza meg, hiszen a kibocsátott bitcoinoknak a részaránya egyre kisebb, és a napi kereskedelmi volumenben is már alig kimutatható.
 
 És akkor itt említettem — majd ezt egyébként közzé lehet tenni, hogy ezt ki írta, mert nagyon vicceseket szokott írni ez a srác, úgy hívják, hogy Adam Livingston. Mindenesetre ő írt egy ilyen nagyon vicces kis elképzelést, aminek az a neve, hogy szintetikus felezés. És ezzel azt szerette volna itt demonstrálni, hogy ezek a nagy játékosok — ezek a MicroStrategy, illetve a TwentyOne Capital, meg a többi, a GameStop meg a Metaplanet meg ezek —, akik egyre inkább megérzik az ízét ennek, és ugye ilyen pénzügyi kedvező visszacsatolásokon keresztül visszaigazolást is talál az, hogy érdemes olcsó hitelért bitcoint vásárolniuk, mert ez egy nagyon jó üzleti modell, gyakorlatilag egy támadás a fiat rendszer ellen — tehát ennek már nagyobb hatása van, mint a felezésnek.
 
 – Ühüm.
 
-– És hogy milyen szinten húzzák ki a piacról a kibányászott bitcoinokat. Na most ezt talán már így a műsor elején említettük, hogy ez egészen addig tud menni, amíg nem frakcionális — tehát például nem a Coinbase a custody, hanem valaki más —, mert akkor ebben az esetben a piac nagyon meglódul, tehát nagyon megnő az ár a megnövekedett kereslet miatt.
+– És hogy milyen szinten húzzák ki a piacról a ki[bányászott](https://inflacio.eu/mi-az-a-bitcoin-banyaszat/) bitcoinokat. Na most ezt talán már így a műsor elején említettük, hogy ez egészen addig tud menni, amíg nem frakcionális — tehát például nem a Coinbase a custody, hanem valaki más —, mert akkor ebben az esetben a piac nagyon meglódul, tehát nagyon megnő az ár a megnövekedett kereslet miatt.
 
 – Hát a kereslet miatt, így van.
 

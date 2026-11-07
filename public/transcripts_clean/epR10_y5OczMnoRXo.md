@@ -10,7 +10,7 @@ Ez gyerekként, úgy 8-10 évesen okozott bennem egy ilyen „mi történik itt?
 
 – Talán a gyerekkorunkban még volt ilyen — én emlékszem, hogy voltak ilyen megtakarítási füzetek. És akkor a nagymamám mutatta, hogy most inkább nem vett ajándékot, hanem betette valami takarékbetétkönyvbe azt a pár száz forintot, ami még régen sokkal több volt, mint most. És akkor így mutogatta, mutogatta — és emlékszem, hogy az érettséginél elővette, és akkor már nem volt olyan jelentős összeg. Pedig csak mit tudom én, mondjuk 8-tól 18-ig volt, tehát egy tízéves szakasz.
 
-És hogyha ezt a szakaszt így hosszabban nézzük… én ezen szoktam csodálkozni, hogy amikor gyerek voltam, akkor anyukám mesélte — és már akkori fejjel is felfogtam —, hogy mennyi pénzt keresett; és körülbelül annyi pénzt keresett forintban, mint amennyit mostanában euróban keresnek az emberek az Európai Unióban. És akkor így nézem, hogy úristen: ha most valaki gyerek, és felnőtt lesz, akkor (nevetés) ilyen szintű inflációra lehet számítani szintén. És a mellékelt ábra azt mutatja, hogy igen.
+És hogyha ezt a szakaszt így hosszabban nézzük… én ezen szoktam csodálkozni, hogy amikor gyerek voltam, akkor anyukám mesélte — és már akkori fejjel is felfogtam —, hogy mennyi pénzt keresett; és körülbelül annyi pénzt keresett forintban, mint amennyit mostanában euróban keresnek az emberek az Európai Unióban. És akkor így nézem, hogy úristen: ha most valaki gyerek, és felnőtt lesz, akkor (nevetés) ilyen szintű [inflációra](https://inflacio.eu/inflacio-jelentese/) lehet számítani szintén. És a mellékelt ábra azt mutatja, hogy igen.
 
 – Elképesztő infláció. 1000 euró vagy 10 000 — az a jövőben egy hamburgernek vagy egy gyorsétteremben elköltött ebédnek az ára lesz.
 
@@ -40,7 +40,7 @@ Tulajdonképpen ez az a növekmény, amiből az a szűk réteg, aki nagyon megga
 
 – A lakáshitelről sose beszél senki úgy, hogy az alapvetően pénznyomtatás. Tehát a bank úgy adja a lakáshitelt, hogy a semmiből odaírja a számládra, hogy „itt van, nesze, 50 millió forint" – ami eddig nem volt sehol. Amikor visszafizeted, akkor az is eltűnik a semmibe – de hát az majd 25 év múlva lesz, tehát akkor már nem érdekes. Most jelenleg ez rettentően meg fogja növelni a forgalomban lévő forint mennyiségét.
 
-Ezt kell összevetni a bitcoinnal, ami – hát az is bányászódik, ugyan 3,125 bitcoin tíz percenként –, de az egyrészt globális dolog, másrészt meg ugye majd csökken az is.
+Ezt kell összevetni a bitcoinnal, ami – hát az is [bányászódik](https://inflacio.eu/mi-az-a-bitcoin-banyaszat/), ugyan 3,125 bitcoin tíz percenként –, de az egyrészt globális dolog, másrészt meg ugye majd csökken az is.
 
 – Felez.
 
@@ -54,7 +54,7 @@ Tehát ha egy gazdaságban egy időszakban több hitelt törlesztenek, mint amen
 
 – Oké.
 
-– Ilyenkor van bajban a fiat pénzrendszer, ugye. Meg ilyenkor mondják, hogy defláció, meg úristen, és hogy akkor vége mindennek. Tehát ha csökken a pénz mennyisége, akkor senkinek nem lesz pénze vásárolni, minden cég tönkremegy, az emberek munkanélküliek lesznek.
+– Ilyenkor van bajban a [fiat](https://inflacio.eu/a-penz-evolucioja-penzfajtak/) pénzrendszer, ugye. Meg ilyenkor mondják, hogy defláció, meg úristen, és hogy akkor vége mindennek. Tehát ha csökken a pénz mennyisége, akkor senkinek nem lesz pénze vásárolni, minden cég tönkremegy, az emberek munkanélküliek lesznek.
 
 Gyakorlatilag ez történt 2008-ban, amikor nagyon sok hitel bedőlt. Amikor bedől egy hitel, nem tudja tovább törleszteni az adós, akkor hirtelen eltűnik az az egész pénz a rendszerből. Ezek a virtuálisan fenntartott tartozásszámlák megszűnnek, és akkor jó sokat csökken az M2 pénzmennyiség – azért tört ki a válság akkor.
 
@@ -80,7 +80,7 @@ Forráshiány miatt veszélybe került a podcast működése. Ha értékeled az 
 
 ---
 
-– És eszembe jutott: most láttam egy nagyon érdekes riportot egy nővel, Schmied Andinak hívják. Ő azt csinálta, hogy építészként inkognitóban ellátogatott mindenféle luxusingatlanba, mintha egy befektető, gazdag ember feleségeként érdeklődne, hogy megvegye ezeket, vagy befektessen ezekbe a — idézőjelben — csodaszép ingatlanokba. New Yorkban vannak ilyenek. Rengeteg fotót készített, kielemezte őket, és ez egy az egyben egy rákos daganat: vannak ezek a vagyonos figurák, akik tényleg tudták összpontosítani a vagyonokat, a fiat rendszer tulajdonságait meglovagolva vagyonokra tettek szert, és azt a vagyont valahol tárolni akarják. Ezt egyébként Michael Saylor is folyamatosan mondogatja: New Yorkban már nem tudsz horizontálisan terjeszkedni, tehát elkezdesz vertikálisan — és akkor vannak ezek a felhőkarcolók. Ezekbe nézett körül a csaj, és ilyen beteg a helyzet. Ezek egyrészt erőforrást vonnak el az építőipartól, másrészt egy olyan vagyontároló eszközt hoznak létre, amiben — tehát nem is lakják ezeket az ingatlanokat. Sőt, az a kívánatos, hogy ne lakják, mert ha már lakták, akkor lelakottként nehezebben értékesíthető, csökken az értéke.
+– És eszembe jutott: most láttam egy nagyon érdekes riportot egy nővel, Schmied Andinak hívják. Ő azt csinálta, hogy építészként inkognitóban ellátogatott mindenféle luxusingatlanba, mintha egy befektető, gazdag ember feleségeként érdeklődne, hogy megvegye ezeket, vagy befektessen ezekbe a — idézőjelben — csodaszép [ingatlanokba](https://inflacio.eu/ingatlan/). New Yorkban vannak ilyenek. Rengeteg fotót készített, kielemezte őket, és ez egy az egyben egy rákos daganat: vannak ezek a vagyonos figurák, akik tényleg tudták összpontosítani a vagyonokat, a fiat rendszer tulajdonságait meglovagolva vagyonokra tettek szert, és azt a vagyont valahol tárolni akarják. Ezt egyébként Michael Saylor is folyamatosan mondogatja: New Yorkban már nem tudsz horizontálisan terjeszkedni, tehát elkezdesz vertikálisan — és akkor vannak ezek a felhőkarcolók. Ezekbe nézett körül a csaj, és ilyen beteg a helyzet. Ezek egyrészt erőforrást vonnak el az építőipartól, másrészt egy olyan vagyontároló eszközt hoznak létre, amiben — tehát nem is lakják ezeket az ingatlanokat. Sőt, az a kívánatos, hogy ne lakják, mert ha már lakták, akkor lelakottként nehezebben értékesíthető, csökken az értéke.
 
 ---
 

@@ -79,7 +79,7 @@ A main stage-en volt, és előhozott kétszer négy tudósnak a képét. Hát j�
 
 – Ühüm, igen.
 
-– Az Amity Age standja ugyanott volt, ugyanolyan szépen lehozták, tehát hatalmas showt csináltak ők is, úgyhogy le a kalappal előttük is. Ez tök jó volt. Volt több bányász is például.
+– Az Amity Age standja ugyanott volt, ugyanolyan szépen lehozták, tehát hatalmas showt csináltak ők is, úgyhogy le a kalappal előttük is. Ez tök jó volt. Volt több [bányász](https://inflacio.eu/mi-az-a-bitcoin-banyaszat/) is például.
 
 – Én azt — a hardveres cégek. Milyen hardveres cégek voltak?
 
@@ -144,11 +144,11 @@ Igen, bányászgépes, bányászcég az viszonylag sok volt, akik így hostolnak
 Ugye volt egy ilyen panelbeszélgetés is, és akkor két gondolatot csak egy-egy előadásból, ami talán nem annyira ment nagyot. Nem baj, a jó Isten lecsapott a villámjaival, úgy látom, nem csak egy kis szél.
 
 Ja, tehát volt két előadás. Volt a Mark Mossnak egy ilyen — nem előadása, hanem egy panelbeszélgetés, és ő moderálta, és elég nagy súlyú panelbeszélgetők voltak ott. És akkor a Bitcoin adaptációval kapcsolatban beszélgettek, és mindenki kifejtette a cypherpunk véleményét is, ugye kifejtette az intézményi oldalról, az institutional oldalról a Bitcoin adaptációt, és mindenki elmondta a véleményét. És Mark Moss tök jól összefoglalta, hogy igazából többsebességesnek kell lennie ennek
-a Bitcoin edukációnak. Tehát nem lehet az, hogy egyből a nagymamára rázúdítod a 12 szavas seedes tárcát, hanem ezt lehet finomhangolni is, és igazából lépésről lépésre is lehet ezzel haladni. És a Bitkey például, vagy a Trezor, ami egyszerűbb, vagy a BitBox és az egyszerű rádugós eszközök, azok valahol ennek a széles spektrumnak az egyik szeletét fogják meg. És ezeknek is van helye, úgy gondolom, hogy a hot walleteknek is van helye, akár még a tőzsdéknek is van helye.
+a Bitcoin edukációnak. Tehát nem lehet az, hogy egyből a nagymamára rázúdítod a [12 szavas](https://inflacio.eu/mi-az-a-seed-phrase/) seedes tárcát, hanem ezt lehet finomhangolni is, és igazából lépésről lépésre is lehet ezzel haladni. És a Bitkey például, vagy a Trezor, ami egyszerűbb, vagy a BitBox és az egyszerű rádugós eszközök, azok valahol ennek a széles spektrumnak az egyik szeletét fogják meg. És ezeknek is van helye, úgy gondolom, hogy a hot walleteknek is van helye, akár még a tőzsdéknek is van helye.
 
 A másik, ami tetszett Mark Mosstól egyébként: amikor arról beszélgettek, hogy mi a Bitcoin — hogy most *store of value*, tehát hogy megtartja az értéket, értéktároló eszköz, vagy pénzforgalmi eszköz, hogy akkor most ezzel fizetünk kávét, az borzasztóan fontos. Mi a fontos? Mit mondott Mark Moss? Bölcsen, szerintem: alapvetően azért zseniális a Bitcoin, mert széles társadalmi rétegeknek oldja meg a problémáit. Afrikában azt oldja meg, hogy ne inflálják el a pénzed, meg tudsz bankolni. Amerikában a befektetéseket oldja meg, mert ott sem fog elolvadni a pénzed, hanem ott értéktároló eszköz. Van, ahol máshol pedig egyszerűen fizetni lehet vele.
 
-Például most láttam, azt hiszem, Dél-Afrikában, aztán talán Nigériában olyan megoldásuk van, hogy igazából bárhol, ahol kártyával lehet fizetni, ott most már lehet bitcoinnal is, mert létrehoztak egy olyan Lightning-tárcát, meg egy ilyen fiat szolgáltatóval együttműködnek, hogy igazából bárhol tudsz bitcoinnal fizetni. Ezt pont tegnap néztem a Twitteren.
+Például most láttam, azt hiszem, Dél-Afrikában, aztán talán Nigériában olyan megoldásuk van, hogy igazából bárhol, ahol kártyával lehet fizetni, ott most már lehet bitcoinnal is, mert létrehoztak egy olyan [Lightning](https://inflacio.eu/mi-az-a-lightning-network/)-tárcát, meg egy ilyen fiat szolgáltatóval együttműködnek, hogy igazából bárhol tudsz bitcoinnal fizetni. Ezt pont tegnap néztem a Twitteren.
 
 Tehát a Bitcoin ezért zseniális, ezért hatalmas erő van benne, mert széles tömegeknek oldja meg a problémát. Ez nem a gazdagok játéka, nem a szegények megsegítésére való, hanem ez mindenkinek a pénze, mindenkinek az eszköze.
 
@@ -227,7 +227,7 @@ De engem abszolút megerősített ez a konferencia abban, vagy tovább erősíte
 
 Ja, így a pump and dumpokhoz még: nem tudom, én sokat szoktam ezen gondolkodni, hogy azért az ilyen óriási nagy felhalmozások — mint azért a Saylor is már ilyen 600 000 fölött van talán a coinok számát illetően a Strategyvel meg az egyéb arra épített dolgaival. Meg azért vannak ilyen nagy holderek, hogy sokan mondják így a Twitteren vagy az X-en, hogy ez a jövő pump and dumpja. Hogy ti erről így hallottatok már, vagy ebbe így belegondoltatok, vagy szoktatok ilyenen agyalni, hogy azért nem olyan jó, hogyha ennyi coin van egy entitásnál, nem?
 
-– Hát egyrészt én továbbra is azon az oldalon vagyok, hogy ha választani lehet, hogy ETF-et vagy MicroStrategy-részvényt vagy közvetlenül bitcoint vegyek, akkor érdemes közvetlenül a bitcoint venni.
+– Hát egyrészt én továbbra is azon az oldalon vagyok, hogy ha választani lehet, hogy [ETF](https://inflacio.eu/mi-az-a-bitcoin-etf/)-et vagy MicroStrategy-részvényt vagy közvetlenül bitcoint vegyek, akkor érdemes közvetlenül a bitcoint venni.
 
 – Igen.
 

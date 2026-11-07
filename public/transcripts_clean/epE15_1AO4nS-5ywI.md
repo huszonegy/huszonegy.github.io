@@ -28,7 +28,7 @@ Nagyon szép narancssárga, jól tettük, hogy ilyet választottunk, nagyon jó 
 
 – Klassz, az jobb, mint amit eddig láttam.
 
-– Ugye van rajta ez a dial, amit az előbb mondtam, ezt lehet így forgatni, és akkor három állása van: van egy scan seed QR, van egy setup, és van egy options a beállításoknak. Gondolom, a setup lesz majd nekünk a jó. Arra kéne rájönni, hogy ez indítja-e el a setupot, vagy melyik. Lényeg, hogy nehogy elolvassuk a dokumentációt.
+– Ugye van rajta ez a dial, amit az előbb mondtam, ezt lehet így forgatni, és akkor három állása van: van egy scan [seed](https://inflacio.eu/mi-az-a-seed-phrase/) QR, van egy setup, és van egy options a beállításoknak. Gondolom, a setup lesz majd nekünk a jó. Arra kéne rájönni, hogy ez indítja-e el a setupot, vagy melyik. Lényeg, hogy nehogy elolvassuk a dokumentációt.
 
 – Nem, azt semmiképp nem ajánlom senkinek.
 
@@ -100,7 +100,7 @@ Gyorsan átért, ez most teljesen valós idejű volt. Na de ne a fiat pénzrends
 
 – Persze. Na, tök jó, tehát most például megcsináljuk azt, arra gondoltam, hogy az Umbrelbe, amit már sokszor mutogattunk, elküldjük. Ugye engedélyezni kell, hogy használja a kamerát. Itt látjuk a már ismerős Umbrel felületet, aki látta az eddigi videóinkat, annak ismerős, akinek nem ismerős, az nézze meg. Mondjuk küldjünk fizetési számlát.
 
-Igen, megértette, hogy mit szeretnénk, megnyomom, hogy küldje. Sikerült. Sajnos a kettőt egyszerre nem tudom megosztani, és nem látszott, de ez tényleg azonnal megtörtént. Illetve bocsánat, a Strike-on a vásárlás. Ez teljesen gyorsan megy, mert a Revolutot is forint bankszámláról kártyával fel lehet tölteni azonnal, onnan azonnal át lehet küldeni az eurót a Strike-ba, és onnan azonnal ki lehet küldeni a bitcoint saját tárcába, saját privát kulcsunk alá.
+Igen, megértette, hogy mit szeretnénk, megnyomom, hogy küldje. Sikerült. Sajnos a kettőt egyszerre nem tudom megosztani, és nem látszott, de ez tényleg azonnal megtörtént. Illetve bocsánat, a Strike-on a vásárlás. Ez teljesen gyorsan megy, mert a Revolutot is forint bankszámláról kártyával fel lehet tölteni azonnal, onnan azonnal át lehet küldeni az eurót a Strike-ba, és onnan azonnal ki lehet küldeni a bitcoint saját tárcába, saját [privát kulcsunk](https://inflacio.eu/mik-azok-a-titkos-es-nyilvanos-kulcsok/) alá.
 
 – Igen, ha meg ott összegyűlik, akkor cold storage-ba, egy Jade walletbe be lehet küldeni on-chain.
 
@@ -116,7 +116,7 @@ Igen, megértette, hogy mit szeretnénk, megnyomom, hogy küldje. Sikerült. Saj
 
 – Hát ez a 30 vagy 50 fillér.
 
-– 50. Múltkor beszéltünk arról, hogy amikor a bitcoint használja az ember, és van egy elköltetlen kimenete, egy UTXO-ja, akkor abból meg lehet mondani, hogy mennyi bitcoinnal rendelkezik valaki, tehát abban az UTXO-ban. Tehát például amikor Lightningon vannak tranzakciók, ott pedig ezt nem látjuk, hiszen az nem on-chain. Erről is beszéltünk. Erről tudnál mondani valamit, hogy ez hogy működik a Lightningon? Tehát hogy a Lightningon csatornákat nyitunk egymás között, tehát úgy néz ki, mint egy Bitcoin hálózatra második rétegként fellépő, akár úgy is nevezhetjük, hogy egy Lightning bankhálózat, nem?
+– 50. Múltkor beszéltünk arról, hogy amikor a bitcoint használja az ember, és van egy elköltetlen kimenete, egy [UTXO](https://inflacio.eu/mi-az-az-utxo/)-ja, akkor abból meg lehet mondani, hogy mennyi bitcoinnal rendelkezik valaki, tehát abban az UTXO-ban. Tehát például amikor Lightningon vannak tranzakciók, ott pedig ezt nem látjuk, hiszen az nem on-chain. Erről is beszéltünk. Erről tudnál mondani valamit, hogy ez hogy működik a Lightningon? Tehát hogy a Lightningon csatornákat nyitunk egymás között, tehát úgy néz ki, mint egy Bitcoin hálózatra második rétegként fellépő, akár úgy is nevezhetjük, hogy egy Lightning bankhálózat, nem?
 
 – Körülbelül. Hát minden kis Lightning node az gyakorlatilag egy kis bank, ennek az összes előnyével és hátrányával együtt. Hogyha nem saját magunk futtatjuk, akkor ez szinte teljesen olyan, mint egy bank. Tehát például most ez a Strike, amit mutattunk, ez is gyakorlatilag úgy működik. Én futtatom az Umbrelt, azért is mutatom minden epizódban ezt, de teljesen érthető, hogy az emberek többsége azért valamilyen szolgáltatást akar használni ilyen célokra. Itt mindig tudni kell, hogy mekkora összeget bízunk egy bankra, és hogy egyébként nem kötelező. Tehát a fiat pénzrendszerben csak bankot használhatunk, itt nem kötelező, itt igazából az embernek a hosszú távú megtakarítását, a nagyobb vagyonát azt nem kell bankban tartani.
 
@@ -205,7 +205,7 @@ Nem történik semmilyen Bitcoin tranzakció, csak a Strike átkönyveli a bitco
 
 – Ja, ennyi, csak útközben nem romlik. Tehát nem az van, mint mondjuk az argentin pezónál, hogy most ott ugyan leszorították 60%-ra állítólag az inflációt, de azért az is jelentős. Tehát addig akkor tudod tárolni bitcoinban a vagyonodat.
 
-Van még egy érdekes funkciója a Jade-nek, az úgynevezett lottóbányászat. Ami azért lottó, mert magának a Jade-nek nagyon kicsi a számítási kapacitása, egy nagyon pici processzor van benne, de attól még tud elvileg bitcoint bányászni, tehát tud számolni hasheket, hogyha folyamatosan föl van dugva egy számítógépre, és ott tud működni.
+Van még egy érdekes funkciója a Jade-nek, az úgynevezett lottóbányászat. Ami azért lottó, mert magának a Jade-nek nagyon kicsi a számítási kapacitása, egy nagyon pici processzor van benne, de attól még tud elvileg bitcoint bányászni, tehát tud számolni [hasheket](https://inflacio.eu/mi-az-a-hash-fuggveny/), hogyha folyamatosan föl van dugva egy számítógépre, és ott tud működni.
 
 Ezt úgy kell elképzelni, hogy minden 10 percben, átlag 10 percenként bányász ki egy bányász valahol a világon egy blokkot. Az óránként hat blokk, az naponta 144, hogyha szorozzuk a hatot 24-gyel. Tehát 144 blokk van naponta. Ez azt jelenti, hogy ha mondjuk lenne a világon 144 bányász, így elképzelve, és mindenkinek azonos kapacitása lenne, akkor körülbelül átlagosan mindenki naponta egy blokkot ki tudna bányászni. Ez a bányászatnak a lényege.
 

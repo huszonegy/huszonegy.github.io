@@ -1,0 +1,191 @@
+[
+  {
+    "priority": 1,
+    "term": "UTXO",
+    "url": "https://inflacio.eu/mi-az-az-utxo/",
+    "pattern": "(?<![\\p{L}\\p{N}_])utxo[\\p{L}\\p{N}_]*",
+    "flags": "giu"
+  },
+  {
+    "priority": 2,
+    "term": "seed phrase",
+    "url": "https://inflacio.eu/mi-az-a-seed-phrase/",
+    "pattern": "seed[- ]?phrase[\\p{L}\\p{N}_]*|(?<![\\p{L}\\p{N}_])seed(?:je|jét|jed|et|ed|ek|eket|ből|re|ben|em|jei)?(?![\\p{L}\\p{N}_])|(?<![\\p{L}\\p{N}_])(?:12|24)(?: vagy 24)? szav[\\p{L}\\p{N}_]*",
+    "flags": "giu"
+  },
+  {
+    "priority": 3,
+    "term": "privát kulcs",
+    "url": "https://inflacio.eu/mik-azok-a-titkos-es-nyilvanos-kulcsok/",
+    "pattern": "privát[- ]?kulcs[\\p{L}\\p{N}_]*|titkos kulcs[\\p{L}\\p{N}_]*|nyilvános kulcs[\\p{L}\\p{N}_]*",
+    "flags": "giu"
+  },
+  {
+    "priority": 4,
+    "term": "digitális aláírás",
+    "url": "https://inflacio.eu/mi-az-a-digitalis-alairas/",
+    "pattern": "digitális aláír[\\p{L}\\p{N}_]*",
+    "flags": "giu"
+  },
+  {
+    "priority": 5,
+    "term": "hash",
+    "url": "https://inflacio.eu/mi-az-a-hash-fuggveny/",
+    "pattern": "(?<![\\p{L}\\p{N}_])hash(?!tag)[\\p{L}\\p{N}_]*",
+    "flags": "giu"
+  },
+  {
+    "priority": 6,
+    "term": "blokklánc",
+    "url": "https://inflacio.eu/mi-az-a-blokklanc/",
+    "pattern": "blokklánc[\\p{L}\\p{N}_]*|(?<![\\p{L}\\p{N}_])blockchain[\\p{L}\\p{N}_]*",
+    "flags": "giu"
+  },
+  {
+    "priority": 7,
+    "term": "bányászat",
+    "url": "https://inflacio.eu/mi-az-a-bitcoin-banyaszat/",
+    "pattern": "bányász[\\p{L}\\p{N}_]*",
+    "flags": "giu"
+  },
+  {
+    "priority": 8,
+    "term": "felezés",
+    "url": "https://inflacio.eu/mi-az-a-bitcoin-felezes/",
+    "pattern": "(?<![\\p{L}\\p{N}_])felezés[\\p{L}\\p{N}_]*|(?<![\\p{L}\\p{N}_])halving[\\p{L}\\p{N}_]*",
+    "flags": "giu"
+  },
+  {
+    "priority": 9,
+    "term": "21 millió",
+    "url": "https://inflacio.eu/hany-bitcoin-van/",
+    "pattern": "(?<![\\p{L}\\p{N}_])21 millió[\\p{L}\\p{N}_]*",
+    "flags": "giu"
+  },
+  {
+    "priority": 10,
+    "term": "Lightning-cím",
+    "url": "https://inflacio.eu/mi-az-a-lightning-cim/",
+    "pattern": "lightning[- ]?cím[\\p{L}\\p{N}_]*",
+    "flags": "giu"
+  },
+  {
+    "priority": 11,
+    "term": "Lightning-számla",
+    "url": "https://inflacio.eu/mi-az-a-lightning-szamla/",
+    "pattern": "lightning[- ]?száml[\\p{L}\\p{N}_]*|(?<![\\p{L}\\p{N}_])invoice[\\p{L}\\p{N}_]*",
+    "flags": "giu"
+  },
+  {
+    "priority": 12,
+    "term": "Lightning Network",
+    "url": "https://inflacio.eu/mi-az-a-lightning-network/",
+    "pattern": "(?<![\\p{L}\\p{N}_])lightning(?![- ]?(?:cím|száml))[\\p{L}\\p{N}_]*",
+    "flags": "giu"
+  },
+  {
+    "priority": 13,
+    "term": "satoshi",
+    "url": "https://inflacio.eu/mik-azok-a-satoshik-satok/",
+    "pattern": "(?<!of )(?<![\\p{L}\\p{N}_])satoshi(?!\\s+nakamoto)[\\p{L}\\p{N}_]*|(?<![\\p{L}\\p{N}_])sat(?:ok|ot|okat|okért|okban)(?![\\p{L}\\p{N}_])",
+    "flags": "gu"
+  },
+  {
+    "priority": 14,
+    "term": "tranzakciós díj",
+    "url": "https://inflacio.eu/mik-azok-a-bitcoin-dijak/",
+    "pattern": "tranzakciós díj[\\p{L}\\p{N}_]*|tranzakciós költs[\\p{L}\\p{N}_]*",
+    "flags": "giu"
+  },
+  {
+    "priority": 15,
+    "term": "önrendelkezés",
+    "url": "https://inflacio.eu/mi-az-az-onrendelkezes/",
+    "pattern": "önrendelkez[\\p{L}\\p{N}_]*|self[- ]?custody",
+    "flags": "giu"
+  },
+  {
+    "priority": 16,
+    "term": "ETF",
+    "url": "https://inflacio.eu/mi-az-a-bitcoin-etf/",
+    "pattern": "(?<![\\p{L}\\p{N}_])etf[\\p{L}\\p{N}_]*",
+    "flags": "giu"
+  },
+  {
+    "priority": 17,
+    "term": "Strike",
+    "url": "https://inflacio.eu/mi-az-a-strike/",
+    "pattern": "(?<![\\p{L}\\p{N}_])strike[\\p{L}\\p{N}_]*",
+    "flags": "giu"
+  },
+  {
+    "priority": 18,
+    "term": "aranyfedezet",
+    "url": "https://inflacio.eu/aranyfedezet-megszunese/",
+    "pattern": "aranyfedezet[\\p{L}\\p{N}_]*|(?<![\\p{L}\\p{N}_])nixon[\\p{L}\\p{N}_]*",
+    "flags": "giu"
+  },
+  {
+    "priority": 19,
+    "term": "bankrendszer",
+    "url": "https://inflacio.eu/bevezetes-a-bankrendszerunkbe/",
+    "pattern": "bankrendszer[\\p{L}\\p{N}_]*|részleges tartalék[\\p{L}\\p{N}_]*",
+    "flags": "giu"
+  },
+  {
+    "priority": 20,
+    "term": "szűkösség",
+    "url": "https://inflacio.eu/mitol-er-a-bitcoin-barmennyit-is/",
+    "pattern": "szűkösség[\\p{L}\\p{N}_]*",
+    "flags": "giu"
+  },
+  {
+    "priority": 21,
+    "term": "infláció",
+    "url": "https://inflacio.eu/inflacio-jelentese/",
+    "pattern": "inflác[\\p{L}\\p{N}_]*",
+    "flags": "giu"
+  },
+  {
+    "priority": 22,
+    "term": "fiat pénz",
+    "url": "https://inflacio.eu/a-penz-evolucioja-penzfajtak/",
+    "pattern": "(?<![\\p{L}\\p{N}_])fiat(?!al)[\\p{L}\\p{N}_]*",
+    "flags": "giu"
+  },
+  {
+    "priority": 23,
+    "term": "adósság",
+    "url": "https://inflacio.eu/adossagteher/",
+    "pattern": "(?<![\\p{L}\\p{N}_])adósság[\\p{L}\\p{N}_]*",
+    "flags": "giu"
+  },
+  {
+    "priority": 24,
+    "term": "arany",
+    "url": "https://inflacio.eu/arany/",
+    "pattern": "(?<![\\p{L}\\p{N}_])arany(?:at|ban|nak|hoz|ból|ra|é)?(?![\\p{L}\\p{N}_])",
+    "flags": "giu"
+  },
+  {
+    "priority": 25,
+    "term": "kötvény",
+    "url": "https://inflacio.eu/kotveny/",
+    "pattern": "(?<![\\p{L}\\p{N}_])kötvény[\\p{L}\\p{N}_]*|államkötvény[\\p{L}\\p{N}_]*|állampapír[\\p{L}\\p{N}_]*",
+    "flags": "giu"
+  },
+  {
+    "priority": 26,
+    "term": "részvény",
+    "url": "https://inflacio.eu/reszveny/",
+    "pattern": "(?<![\\p{L}\\p{N}_])részvény[\\p{L}\\p{N}_]*",
+    "flags": "giu"
+  },
+  {
+    "priority": 27,
+    "term": "ingatlan",
+    "url": "https://inflacio.eu/ingatlan/",
+    "pattern": "(?<![\\p{L}\\p{N}_])ingatlan[\\p{L}\\p{N}_]*",
+    "flags": "giu"
+  }
+]

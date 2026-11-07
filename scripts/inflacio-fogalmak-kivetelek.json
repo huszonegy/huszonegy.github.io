@@ -1,0 +1,12 @@
+[
+  {"episode": "E63", "term": "seed phrase", "text": "seed node", "reason": "hálózati seed node, nem seed phrase"},
+  {"episode": "E53", "term": "21 millió", "text": "21 millió” nevű", "reason": "TikTok-csatorna neve"},
+  {"episode": "E107", "term": "21 millió", "text": "21 millió csatorna", "reason": "TikTok-csatorna neve"},
+  {"episode": "E98", "term": "21 millió", "text": "21 millió dollár", "reason": "árfolyam, nem a kínálat"},
+  {"episode": "E37", "term": "21 millió", "text": "21 milliót kellett", "reason": "dollárösszeg"},
+  {"episode": "E35", "term": "arany", "text": "tiszta arany matematika", "reason": "metafora"},
+  {"episode": "E119", "term": "aranyfedezet", "text": "akkor jött Nixon", "reason": "belső vicc"},
+  {"episode": "R03", "term": "fiat pénz", "text": "Fiat standard", "reason": "könyvcím"},
+  {"episode": "R04", "term": "fiat pénz", "text": "Fiat standard", "reason": "könyvcím"},
+  {"episode": "R05", "term": "fiat pénz", "text": "Fiat Food", "reason": "könyvcím"}
+]

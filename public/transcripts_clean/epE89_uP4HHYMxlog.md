@@ -102,7 +102,7 @@ Tehát van mindenféle tartalom a Nostron, csak ugye bizonyos emberek bizonyos e
 
 Na most, én csak nukleáris témában posztolok mostanában, meg ugye a HUSZONEGY csoportnak a fiókját kezelem – ott is csak a podcastokat szoktam felrakni. Amikor kijön egy podcast rész, akkor feltöltöm, aztán nem foglalkozom vele. A saját fiókomban is csak néha írok, néha reagálok valamire – de elég keveset. Viszont minden nap nézem és olvasom, és a híreket is nézem.
 
-Tehát van főzéstől kezdve különböző kézműves dolgokon keresztül bányászati téma – gyakorlatilag mindenféle témát meg tudsz találni, csak hát foglalkozni kell vele.
+Tehát van főzéstől kezdve különböző kézműves dolgokon keresztül [bányászati](https://inflacio.eu/mi-az-a-bitcoin-banyaszat/) téma – gyakorlatilag mindenféle témát meg tudsz találni, csak hát foglalkozni kell vele.
 
 – Tényleg kurálni kell a követettek listáját. Mert néha van egy-kettő, akit megszemélyesítenek. És akkor azt bírom, amikor engem is bekövetnek ilyen nagyon híres arcok – és akkor megnézem, hogy hányan követik őket: ilyen négyen, öten. Vagy egy.
 
@@ -264,7 +264,7 @@ Ilyen szempontból én látok benne lehetőséget. A tartalom az még várat mag
 
 – És akkor a monetizálás?
 
-– A saját fiókodban be van állítva egy Lightning-cím.
+– A saját fiókodban be van állítva egy [Lightning-cím](https://inflacio.eu/mi-az-a-lightning-cim/).
 
 – Lightning-cím, igen. És akkor oda kapod – ha valaki értéket lát benne, akkor odaadja a kis szatosikat.
 
@@ -376,7 +376,7 @@ Találkoztam egy haverommal, és csak a Nostron kommunikáltunk – és így vé
 
 Ez a Nostur, ez egy alkalmazás: iOS-re, tehát telefonra, és macOS-re, laptopra is telepíthető. Nekem most ez az, ami tényleg az ultimate – ezt használom nap mint nap.
 
-Azért tetszik, mert most már van alma platformra is külső aláíró alkalmazás. Ebbe is bele lehet lépni úgy, hogy nem kell bemásolnod a titkos kulcsodat, hanem lehet egy külső alkalmazást használni már almán is. Az a neve, hogy Aegis. Ez az egyik dolog.
+Azért tetszik, mert most már van alma platformra is külső aláíró alkalmazás. Ebbe is bele lehet lépni úgy, hogy nem kell bemásolnod a [titkos kulcsodat](https://inflacio.eu/mik-azok-a-titkos-es-nyilvanos-kulcsok/), hanem lehet egy külső alkalmazást használni már almán is. Az a neve, hogy Aegis. Ez az egyik dolog.
 
 A másik dolog az, hogy itt is be lehet állítani ezeket a follow packeket. Például be tudom állítani azt, hogy itt a középső oszlopban csak a HUSZONEGY-es csoportban lévő posztokat vagy válaszokat lássam. Külön be lehet állítani, személyre szabottan: hogy ha Antit akarom látni, hogy ma mit posztolt, akkor küldjön értesítést, hogy posztolt. Ezt látjátok a harmadik oszlopban, az értesítések fölött.
 

@@ -1,4 +1,4 @@
-Az Egyesült Arab Emírségekben is erről számoltak be: hogy a piaci ár alatt fogadták el az aranyat. Csak nem az eredetiség volt a probléma, hanem az, hogy nem tudták elszállítani. Tehát hogyha valahol blokád van, és nem tudsz repülni, akkor ott aranyat sem tudsz vinni — a víziutak meg a Hormuzi-szoros miatt megbénultak.
+Az Egyesült Arab Emírségekben is erről számoltak be: hogy a piaci ár alatt fogadták el az [aranyat](https://inflacio.eu/arany/). Csak nem az eredetiség volt a probléma, hanem az, hogy nem tudták elszállítani. Tehát hogyha valahol blokád van, és nem tudsz repülni, akkor ott aranyat sem tudsz vinni — a víziutak meg a Hormuzi-szoros miatt megbénultak.
 
 És ugye hogyha az aranyat akarjuk használni gazdasági értéktovábbító eszköznek, akkor azzal számolnunk kell, hogy drága, és néha lehetetlen szállítani az aranyat. Bitcoint viszont lehet.
 
@@ -67,7 +67,7 @@ Az ebéd után egy erősebb téma lesz: a Bitcoin adózása. Anita fog nekünk s
 
 Utána a Zentropy jön hozzánk vissza: a Bitcoin öröklésével kapcsolatban. Szintén fontos, már haladóknak vagy középhaladóknak: akinek már van bitcoinja, és gondol másokra, már nem csak magára — akkor azt hogyan tudja majd átörökíteni a következő generációnak.
 
-Lóri a bányászatról és a node-okról fog hozni egy prezentációt. Nekem az a fontos — ezt mondtam a srácoknak, a csapatnak is —, hogy ne feltétlenül programozás- és technológiajellegű kérdéseket feszegessünk, hanem azt, hogy mi értelme van annak, hogy van külön bányászat, van külön csomópont, és vannak felhasználók. Miért így alakult ki, mi ennek az előnye, miért teszi különlegessé a bitcoint ez a felépítés? És ezt a Lóri szerintem el fogja tudni mondani.
+Lóri a [bányászatról](https://inflacio.eu/mi-az-a-bitcoin-banyaszat/) és a node-okról fog hozni egy prezentációt. Nekem az a fontos — ezt mondtam a srácoknak, a csapatnak is —, hogy ne feltétlenül programozás- és technológiajellegű kérdéseket feszegessünk, hanem azt, hogy mi értelme van annak, hogy van külön bányászat, van külön csomópont, és vannak felhasználók. Miért így alakult ki, mi ennek az előnye, miért teszi különlegessé a bitcoint ez a felépítés? És ezt a Lóri szerintem el fogja tudni mondani.
 
 Majd lesz egy interaktív játék. Ezt is vibe-kódoltam, de majd Gergőék helyre rakják a kódot, mert egy kicsit messzire merészkedtem a partoktól. (nevetés) Láttam egyébként, hogy egy offline, hagyományos társasjátékban játszották el a gyerekek egy iskolában azt, hogy mi a bányászat: kockadobálással és előre beállított nehézségi szinttel tudták szimulálni, hogy milyen az, amikor véletlenszerűen, mint egy bányász, számokat dobálsz — és aki a megadott szint alatt dob, az felnyújtja a kezét, hogy megvan a blokk, és szeretne egy blokkot írni. És akkor van egy küldő, van egy fogadó fél, van egy papír, amire rá tudsz írni egy üzenetet, és azt blokkba tudod foglalni.
 
@@ -148,7 +148,7 @@ Idén tavaszra és őszre biztos, hogy már nem fog tudni beférni. Mi is, mint 
 
 És amit ez tud: élő árakkal számol — naponta egyszer van befrissítve az árfolyam; kevésbé releváns a pillanatnyi ár egy hosszú távú befektetéshez, de mégis egy jó kiinduló alap.
 
-Számol a kalkulátor az inflációval is, ezért van egy nominális és egy jelenértéki gomb. Mert nem mindegy: mondja, hogy 20 év múlva 21 millió dollár lesz a Bitcoin. És aki kicsit közgazdász, vagy aki élt már az életben, az tudja, hogy mit fog nekem érni 21 millió dollár 20 év múlva. A dollár inflációja 7% évente — ezt tudjátok is állítani egyébként, ha más számot akartok beállítani. A magyar oldalon van a forint-dollár gyengülés, ami még 2,4% évente a dollárhoz képest; azt is át tudjátok írni.
+Számol a kalkulátor az [inflációval](https://inflacio.eu/inflacio-jelentese/) is, ezért van egy nominális és egy jelenértéki gomb. Mert nem mindegy: mondja, hogy 20 év múlva 21 millió dollár lesz a Bitcoin. És aki kicsit közgazdász, vagy aki élt már az életben, az tudja, hogy mit fog nekem érni 21 millió dollár 20 év múlva. A dollár inflációja 7% évente — ezt tudjátok is állítani egyébként, ha más számot akartok beállítani. A magyar oldalon van a forint-dollár gyengülés, ami még 2,4% évente a dollárhoz képest; azt is át tudjátok írni.
 
 Aztán vannak ott különböző csúszkák a második sorban. A power law-előrejelzést 40%-kal veszi alapértelmezettként; Saylor gondolata 15%-kal; az ARK Invest előrejelzés 15%-kal; a Standard Chartered — ugye ez egy nagy nemzetközi bank —, neki is 15%-ot adtunk az allokációba. És van egy egyéni állítási lehetőség is, ahol a saját görbédet be tudod állítani: hogy szerinted három év, öt év és tíz év múlva hol lesz a Bitcoin. Ezt dinamikusan tudja állítani a táblázat.
 
@@ -256,7 +256,7 @@ Tehát ezért nem praktikus: aki aranyból tényleg elad, az olyan, mint amikor 
 
 – Tanulás közben nagyon sok összefüggésre rá tudsz jönni. Például most a napokban — inkább hetekben — kölcsönadtam az alapművet, ugye a *Bitcoin-sztenderdet* egy itteni barátomnak. És elkezdte olvasni; ő közgazdász. És mondta, hogy marha jó ez a könyv, és hogy eddig ő nem is gondolt így a világra. És hogy a közgazdasági egyetemen ezt miért nem így tanítják? Tehát magát a pénzelméletet, a pénz történetét — nem is a bitcoint, hanem magát a pénzügyi alapokat.
 
-És akkor ezen elkezdtünk gondolkodni, hogy vajon miért nem így tanítják. Hát azért (nevetés) — azért, mert fenn kell tartani a fiatrendszer működését. És azt pedig nem lehet ilyen őszinte eszközzel fenntartani: hiszen egy őszintétlen rendszert nem tudsz őszintén fenntartani.
+És akkor ezen elkezdtünk gondolkodni, hogy vajon miért nem így tanítják. Hát azért (nevetés) — azért, mert fenn kell tartani a [fiatrendszer](https://inflacio.eu/a-penz-evolucioja-penzfajtak/) működését. És azt pedig nem lehet ilyen őszinte eszközzel fenntartani: hiszen egy őszintétlen rendszert nem tudsz őszintén fenntartani.
 
 – És visszatérve arra, amit mondtál — ez az anyag meg antianyag —, ez egy nagyon érdekes sztori. Én egy csomószor beszélgettem erről az AI-jal meg egyéb más személyekkel is: hogy amikor valami létrejön, és azt elfogadod realitásnak és igaznak; és ha valami nem jött létre, azt meg hamisnak — akkor milyen duális pólust tudsz létrehozni a világban?
 

@@ -1,6 +1,6 @@
 Ez csak jelenleg ugye az olaj, a szén, a gáz, az erőművek és az atomenergia.
 – Így van, az tudja biztosítani.
-– És akkor a Bitcoin: amikor nagyon süt a nap, nagyon sok energiánk van, akkor beléphet a bányász a több ezer bányászgépével, és felszippanthatja azt a többletenergiát. Amikor meg pont a fordítottja van, hogy nincs annyi energia, de éppen magas a felhasználás, akkor kilép a rendszerből, ezzel kiegyensúlyozva az egészet.
+– És akkor a Bitcoin: amikor nagyon süt a nap, nagyon sok energiánk van, akkor beléphet a [bányász](https://inflacio.eu/mi-az-a-bitcoin-banyaszat/) a több ezer bányászgépével, és felszippanthatja azt a többletenergiát. Amikor meg pont a fordítottja van, hogy nincs annyi energia, de éppen magas a felhasználás, akkor kilép a rendszerből, ezzel kiegyensúlyozva az egészet.
 – Ezt a Bitcoin-bányászok pozitív oldalára szokták kiírni, hogy kiegyensúlyozza a hálózatot, mert nagyon hamar be tud kapcsolódni a szinkronba.
 – Így van. Gyorsan – nem úgy, mint egy atomerőmű vagy egy gázerőmű, ahol több napig tart a leállás meg az újraindulás, hanem pillanatok alatt, pár órán belül.
 – Még hamarabb is.
@@ -92,9 +92,9 @@ Nyilván az embernek is megvan ez a saját képessége, hogy akit szeret hallani
 
 Plusz itt bejön az is, hogy az algoritmus legnagyobb feladata szerintem a jövőben a cenzúra lesz.
 – Pontosan.
-– Mert ha egy rendszerben nincs bevezetve bizonyos információ, akkor az nem létezik. Ugyanígy működik a Fiat-bankrendszer is: nem vezeti be neked az igazi pénz fogalmát, hanem te élsz egy buborékban, ahol a bankok között szuper átjárásod van – cserébe, hogy nem vagy terrorista, pénzmosó –, de engedélyt kell kérned, ha akarsz egy utalást csinálni. Erre jött létre a Bitcoin: kinek mi köze ahhoz, hogy én kinek mit küldök?
+– Mert ha egy rendszerben nincs bevezetve bizonyos információ, akkor az nem létezik. Ugyanígy működik a [Fiat](https://inflacio.eu/a-penz-evolucioja-penzfajtak/)-[bankrendszer](https://inflacio.eu/bevezetes-a-bankrendszerunkbe/) is: nem vezeti be neked az igazi pénz fogalmát, hanem te élsz egy buborékban, ahol a bankok között szuper átjárásod van – cserébe, hogy nem vagy terrorista, pénzmosó –, de engedélyt kell kérned, ha akarsz egy utalást csinálni. Erre jött létre a Bitcoin: kinek mi köze ahhoz, hogy én kinek mit küldök?
 – Így van.
-– Senkinek. Hadd csináljak már azt a pénzemmel, amit szeretnék! Ha meg akarom őrizni, akkor tehessem úgy, hogy senki ne szóljon bele, és senki ne csökkentse az értékét. A Nostr-ba is be van építve a Bitcoin Lightning, a második réteges megoldás: gyors fizetések, kis mennyiségek formájában.
+– Senkinek. Hadd csináljak már azt a pénzemmel, amit szeretnék! Ha meg akarom őrizni, akkor tehessem úgy, hogy senki ne szóljon bele, és senki ne csökkentse az értékét. A Nostr-ba is be van építve a Bitcoin [Lightning](https://inflacio.eu/mi-az-a-lightning-network/), a második réteges megoldás: gyors fizetések, kis mennyiségek formájában.
 – Zapek.
 – Hát igen, zapek formájában. Ha akarok, egy szatoshit is küldhetek; szabadon dönthetsz arról, hogy kinek, mire, hova, mikor, merre, meddig.
 

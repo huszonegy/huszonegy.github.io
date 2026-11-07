@@ -56,7 +56,7 @@ Ez gyerekként, úgy 8-10 évesen okozott bennem egy ilyen „mi történik itt?
 
 – És amúgy a Bitcoinnal te mikor vagy hogyan találkoztál? Gondolom, nem Saifedean könyve volt az első.
 
-– Nem, nem Saifedean könyve volt az első. Körülbelül 2015-16 környékén – ugye akkor volt egy nagy bikafutás –, de nem is ennek kapcsán, hanem egy akkori kollégám mondta, hogy el kellene kezdjünk bányászni, mert ez most nagyon megy.
+– Nem, nem Saifedean könyve volt az első. Körülbelül 2015-16 környékén – ugye akkor volt egy nagy bikafutás –, de nem is ennek kapcsán, hanem egy akkori kollégám mondta, hogy el kellene kezdjünk [bányászni](https://inflacio.eu/mi-az-a-bitcoin-banyaszat/), mert ez most nagyon megy.
 
 És megmondom őszintén, akkor ezt eléggé ignoráltam. Még csak utána se néztem, mert akkoriban kezdtem el dolgozni a piacon, nemrég jöttem ki az egyetemről. És hát a megtakarítás meg a befektetés nem igazán volt fókuszban akkor nekem, sajnos. De aztán 2020, a covid éve nálam is elhozta azt, hogy többet olvasgattam, figyeltem a gazdasági fejleményeket, eseményeket.
 
@@ -118,7 +118,7 @@ A tőkepiacokkal kezdtem először. A részvénypiac vonzott be még 2020 elejé
 
 – És mostanában mivel töltöd az idődet a Bitcoinon belül? Van-e valami, amit hozzáteszel, vagy tanulgatsz még?
 
-– Ugye nekem 2020-ban, 21 elején indult az utam a nyúlüregben. Próbálkoztam Lightning csatornákkal – azt hiszem, 22 közepén nekem is volt Umbrel node-om. Aztán ebből a routingból próbáltam egy kis bevételt generálni, de hát ez nem volt olyan egyszerű. Rá kellett jönnöm, hogy ez nem erről szól.
+– Ugye nekem 2020-ban, 21 elején indult az utam a nyúlüregben. Próbálkoztam [Lightning](https://inflacio.eu/mi-az-a-lightning-network/) csatornákkal – azt hiszem, 22 közepén nekem is volt Umbrel node-om. Aztán ebből a routingból próbáltam egy kis bevételt generálni, de hát ez nem volt olyan egyszerű. Rá kellett jönnöm, hogy ez nem erről szól.
 
 Illetve ha már ilyen oktatás, tanulás: végigmentem Michael Saylornak a Saylor Academyjén, ott volt egy ilyen „Bitcoin alapjai" kurzus. Ugye 2022-ben elég komoly medvepiac volt, tehát akkor igyekeztem tanulással tölteni ezt a – hogy is mondjam – egy kezdőnek pszichésen nem könnyű időszakot. Ott elvégeztem egy basic kurzust, ahol Stephan Liverának is voltak anyagai. Meg kellett hallgatni mondjuk egy podcastet, és arról voltak kérdések. Szerintem egy elég jól felépített, ingyenes kurzus – aki új a Bitcoinban és szeretne tanulni, annak nagyon tudom javasolni.
 
@@ -146,7 +146,7 @@ Engem például az háborít fel, hogy a legtöbb banki alkalmazás most már na
 
 – Viszont a segélyt igen. Bitcoinnal se fogsz tudni lehet, hogy a párban vásárolni. Mondjuk ott lehet, hogy igen – azt hiszem, Svájcban lehet.
 
-– Meg hát ugye most is meg lehet oldani, csak nem közvetlenül a Bitcoinnal. Van olyan megoldás akár a Strike-on keresztül, hogy villámgyorsan átváltja az ember, átpöcköli a Revolutra, és már fizet is vele. Vannak instant, bár macerásabb megoldások, mint hogy odaérintem a kártyámat.
+– Meg hát ugye most is meg lehet oldani, csak nem közvetlenül a Bitcoinnal. Van olyan megoldás akár a [Strike](https://inflacio.eu/mi-az-a-strike/)-on keresztül, hogy villámgyorsan átváltja az ember, átpöcköli a Revolutra, és már fizet is vele. Vannak instant, bár macerásabb megoldások, mint hogy odaérintem a kártyámat.
 
 – Na mindegy. Csak hogy a Nostrhoz kapcsolódjunk: ezt sokan még nem nagyon használják, pedig egyértelműen megvan a létjogosultsága. Mert ha úgy nézed, hogy a te kezedben van a kontroll – ahogy a Bitcoinnál is a te kezedben van –, akkor érdemes ezekről beszélni. Vicces volt, mert pont ma találkoztam két emberrel, beszélgettünk, és kérdezték, hogy milyen social networking appot használok. Mondom: hát figyelj, az X, az nyilván még megy, de a Nostr a jövő. „Mi az a Nostr?" És nem is hallottak róla.
 
@@ -186,7 +186,7 @@ Most így mindent félretéve: tudom, hogy itt óriási nagy szabadságharc zajl
 
 – Podcastokból miket fogyasztottál, vagy fogyasztasz rendszeresen?
 
-– A kezdetek kezdetén Peter McCormacknek a *What Bitcoin Did*ét gyakran hallgattam – nyilván ott ismétlődtek a vendégek, kvázi havonta ugyanazok, kicsit egy síkúvá vált. De aki nagyobb hatással volt rám, az az on-chain elemző ausztrál srác, James. Neki a 22-es medvepiacnál nagyon komoly volt: kvázi a blokkláncelemzéssel, tehát a Bitcoin blokkláncának elemzésével olyan dolgokat tudott meghatározni, hogy szinte hétre pontosan eltalálta, hogy ott van az alja az akkori medvepiacnak. Nyilván ő is jövendőmondó, de nagyon szeretem, ahogy előadja ezeket a blokkláncelemzéssel kapcsolatos videóit.
+– A kezdetek kezdetén Peter McCormacknek a *What Bitcoin Did*ét gyakran hallgattam – nyilván ott ismétlődtek a vendégek, kvázi havonta ugyanazok, kicsit egy síkúvá vált. De aki nagyobb hatással volt rám, az az on-chain elemző ausztrál srác, James. Neki a 22-es medvepiacnál nagyon komoly volt: kvázi a [blokkláncelemzéssel](https://inflacio.eu/mi-az-a-blokklanc/), tehát a Bitcoin blokkláncának elemzésével olyan dolgokat tudott meghatározni, hogy szinte hétre pontosan eltalálta, hogy ott van az alja az akkori medvepiacnak. Nyilván ő is jövendőmondó, de nagyon szeretem, ahogy előadja ezeket a blokkláncelemzéssel kapcsolatos videóit.
 
 Miket hallgattam még? A *Rabbit Hole Recap*et – ugye Matt Odell és Marty Bent, őket is nagyon szeretem, a mai napig hallgatom őket, ha van időm. Illetve Saifedean is elkezdett azóta podcastelni, gyakran hallgatom őt is.
 

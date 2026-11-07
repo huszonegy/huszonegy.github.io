@@ -6,7 +6,7 @@ Tudod, az van az embereknek a közelében. És amit tapasztaltam egyébként az 
 
 – Kicsit már közhely, de el kell mondjuk, hogy ez a forradalom, amire mindenki vár, az jelenleg történik. Az 17 éve zajlik. És erről jártatjuk a szánkat: hogy az a forradalom, ami elhozza az embereknek azt a jólétet, amire áhítoznak, az a Bitcoinban fog kiteljesedni — még akkor is, hogyha lemészárolják néha az árfolyamát, nem?
 
-És ugye a mai beszélgetés témájának az önrendelkezést, a self-custodyt választottuk, mert ezek az idők mutatják meg leginkább annak a jelentőségét. Tehát ki az, aki nem bukott ezen? Az, akinek egy hardveres eszközben vagy valamiféle cold storage-ban volt a bitcoinja — az biztos, hogy nem bukott.
+És ugye a mai beszélgetés témájának az [önrendelkezést](https://inflacio.eu/mi-az-az-onrendelkezes/), a self-custodyt választottuk, mert ezek az idők mutatják meg leginkább annak a jelentőségét. Tehát ki az, aki nem bukott ezen? Az, akinek egy hardveres eszközben vagy valamiféle cold storage-ban volt a bitcoinja — az biztos, hogy nem bukott.
 
 – Az nyugodtan is aludt.
 
@@ -14,7 +14,7 @@ Ugye a Bitcoinnál az volt a lényeg — hogyha valaki olvassa a white papert �
 
 Ellenben hogyha nincs magadnál, tehát nem te rendelkezel vele, akkor meghívod ezt a második vagy harmadik személyt ebbe a tranzakcióba. Ezt a középső embert, akit ki akartunk tenni: a pénzváltót, akit ki akartunk zavarni az életünkből. Ez a lényeg. És hogyha mindenki így tenne, akkor holnaputánra már egy gyönyörű szép világ lenne, mert akkor kipontozódna ez a rendszer, ez a játék.
 
-– És legyetek felnőttek! Ugye a jelenlegi bankrendszer, és hát a politika is, alapvetően gyerekként kezeli az embereket. A felnőttkor pedig felelősséggel jár. A Bitcoin self-custody is az: hogyha a saját kezedben vannak a kulcsaid, akkor igenis nagyon nagy felelősség hárul rád — viszont szabadság is. Tehát a felelősség és a szabadság az egy olyan elválaszthatatlan dolog, mint a botnak a két vége. Nem tudod felvenni a szabadságodat anélkül, hogy ne vállalnál felelősséget saját magadért. Egyszerűen ez a lényege az egésznek.
+– És legyetek felnőttek! Ugye a jelenlegi [bankrendszer](https://inflacio.eu/bevezetes-a-bankrendszerunkbe/), és hát a politika is, alapvetően gyerekként kezeli az embereket. A felnőttkor pedig felelősséggel jár. A Bitcoin self-custody is az: hogyha a saját kezedben vannak a kulcsaid, akkor igenis nagyon nagy felelősség hárul rád — viszont szabadság is. Tehát a felelősség és a szabadság az egy olyan elválaszthatatlan dolog, mint a botnak a két vége. Nem tudod felvenni a szabadságodat anélkül, hogy ne vállalnál felelősséget saját magadért. Egyszerűen ez a lényege az egésznek.
 
 ---
 
@@ -34,7 +34,7 @@ Hát mi volt most az elmúlt egy hétben? Hogyan élted meg ezt a régi időket 
 
 Én nem adtam el bitcoint, sőt, én vásárolok is azóta folyamatosan, mind magánszemélyként, mind pedig cégként. Ez egy bizonyos fajta hozzáállás. Mint mindenben az élethez, ehhez is sokféleképpen lehet hozzáállni.
 
-Lehet úgy is hozzáállni, hogy traderként, kereskedőként gondolunk rá, és csak adjuk-vesszük. Még több fiatot szeretnénk a nap végén, és eltöltünk ezzel egy kisebb időt, kockáztatunk egy kisebb pénzt — esetleg bejön egy trade, vagy nem jön be egy kereskedés. Azért a veszteségekről kevesen szoktak hencegni, azt azért hozzáteszem. Tehát mindenki, aki mondja, hogy dollármilliókat keresett vele, vagy milyen jól pont eladta a csúcson — annak biztos, hogy van egy olyan időpillanata, amikor mondjuk eladott a legutóbbi 16 000-es mélypontnál, a legutóbbi bear market alján, és soha nem fogja tudni már ott visszavenni ezt a mennyiségű bitcoint ugyanannyi pénzért.
+Lehet úgy is hozzáállni, hogy traderként, kereskedőként gondolunk rá, és csak adjuk-vesszük. Még több [fiatot](https://inflacio.eu/a-penz-evolucioja-penzfajtak/) szeretnénk a nap végén, és eltöltünk ezzel egy kisebb időt, kockáztatunk egy kisebb pénzt — esetleg bejön egy trade, vagy nem jön be egy kereskedés. Azért a veszteségekről kevesen szoktak hencegni, azt azért hozzáteszem. Tehát mindenki, aki mondja, hogy dollármilliókat keresett vele, vagy milyen jól pont eladta a csúcson — annak biztos, hogy van egy olyan időpillanata, amikor mondjuk eladott a legutóbbi 16 000-es mélypontnál, a legutóbbi bear market alján, és soha nem fogja tudni már ott visszavenni ezt a mennyiségű bitcoint ugyanannyi pénzért.
 
 Vagy úgy is állhatunk az élethez, hogy ez egy megtakarítási technológia, egy olyan pénz, amit nem lehet elinflálni — és stratégiai lépéseket teszünk. Eldöntjük tudatosan azt, hogy van olyan félretehető pénzünk, amit egyébként megkeresünk az életben, és azt nem akarjuk forintban tárolni, nem akarunk belőle valamiért ingatlant venni. Ilyen is van egyébként: van, aki kockázatnak és nyűgnek tartja az ingatlantartást. Nem akar vállalati részvényeket venni — mert azért itt is volt bőven meglepetés az elmúlt néhány hónapban, esetleg majd erre is kitérhetünk, mert ez bitcoinnal kapcsolatos is. Egyszerűen csak úgy gondolja, hogy valahol meg kéne takarítani.
 
@@ -280,7 +280,7 @@ Ellenben amikor bitcoinra adtunk el lakást, az villámgyorsan, 10 perc alatt te
 
 Úgyhogy a bitcoint használni kell arra, amire teremtették — és tanuljátok meg azt, hogy mi a Bitcoin. Ez az egyik legfontosabb szerintem.
 
-Ilyenkor, bear marketben, ahogy mondtad, feljönnek természetesen a kérdések: miben különbözik a Bitcoin és az arany? Miben különbözik egy tech részvénytől? Megéri-e ilyenkor bitcoint vásárolni? A bányászoknak lesz-e elég pénze arra, hogy tovább bányásszanak? Csomó ilyen jellegű kérdés van, amit egyébként érdemes mindig feltenni, és válaszolni rá.
+Ilyenkor, bear marketben, ahogy mondtad, feljönnek természetesen a kérdések: miben különbözik a Bitcoin és az arany? Miben különbözik egy tech részvénytől? Megéri-e ilyenkor bitcoint vásárolni? A [bányászoknak](https://inflacio.eu/mi-az-a-bitcoin-banyaszat/) lesz-e elég pénze arra, hogy tovább bányásszanak? Csomó ilyen jellegű kérdés van, amit egyébként érdemes mindig feltenni, és válaszolni rá.
 
 Ezért vannak a meetupok. Aki esetleg nem tudná: a HUSZONEGY oldalán és a HUSZONEGY Telegram-csoportjában rendszeresen jelezzük, hogy hol vannak országos szinten meetupok. Ezeket nem én szervezem, én csak a miskolcit szervezem — mindegyik másik önszerveződő, és ez így van jól. De szinte az összes nagyvárosban ott vannak a bitcoinerek, és érdemes elmenni, és érdemes kérdéseket feltenni, és szerintem segítséget is fogtok tudni kapni.
 

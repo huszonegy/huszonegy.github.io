@@ -16,9 +16,9 @@
 
 ---
 
-– Valakinek volt egy nagyon jó kommentje: hogy reméli, ez a revolutos ügy sok embert elgondolkodtatott azon, mi a létjogosultsága az önrendelkező tárcáknak. Meg hogy miért dumálunk erről sokat: hogy ne tároljanak az emberek a tőzsdén se bitcoint, se egyéb pénzt — csak addig, amíg megveszik a bitcoinjukat, aztán pedig utalják ki.
+– Valakinek volt egy nagyon jó kommentje: hogy reméli, ez a revolutos ügy sok embert elgondolkodtatott azon, mi a létjogosultsága az [önrendelkező](https://inflacio.eu/mi-az-az-onrendelkezes/) tárcáknak. Meg hogy miért dumálunk erről sokat: hogy ne tároljanak az emberek a tőzsdén se bitcoint, se egyéb pénzt — csak addig, amíg megveszik a bitcoinjukat, aztán pedig utalják ki.
 
-Ha valaki akár a Revoluton, akár a Strike-on, akár a Binance-on megveszi a bitcoinját: egyrészt csak bitcoint vegyen, ne shitcoint. Ha már vett shitcoint, azt váltsa át Bitcoinra. A bitcoint pedig szépen utalja át egy olyan tárcába, aminek ő birtokolja a privát kulcsait. Ha még nem tudja, hogy kell, nagyon jó anyagokat fordítottunk erről — majd belinkeljük a leírásba is, ahol el lehet olvasni, hogy ebbe hogy lehet beletanulni. Ez fontos, pláne olyankor, amikor elkezdik tiltogatni, ijesztgetni a különböző Bitcoin-érdekeltségű csoportokat, cégeket vagy magánembereket.
+Ha valaki akár a Revoluton, akár a [Strike](https://inflacio.eu/mi-az-a-strike/)-on, akár a Binance-on megveszi a bitcoinját: egyrészt csak bitcoint vegyen, ne shitcoint. Ha már vett shitcoint, azt váltsa át Bitcoinra. A bitcoint pedig szépen utalja át egy olyan tárcába, aminek ő birtokolja a [privát kulcsait](https://inflacio.eu/mik-azok-a-titkos-es-nyilvanos-kulcsok/). Ha még nem tudja, hogy kell, nagyon jó anyagokat fordítottunk erről — majd belinkeljük a leírásba is, ahol el lehet olvasni, hogy ebbe hogy lehet beletanulni. Ez fontos, pláne olyankor, amikor elkezdik tiltogatni, ijesztgetni a különböző Bitcoin-érdekeltségű csoportokat, cégeket vagy magánembereket.
 
 – Maximálisan egyetértek, és talán még eggyel tovább mennék. Eddig mindig azt mondtuk, hogy csak annyi pénzt tároljon mindenki a tőzsdéken, amennyit nem fél elveszíteni. Eleve ez már egy hülye mondás! Mert most már 50 vagy 20 euró is úgy fáj — csak maga az elv is fáj, nem? Hogy mi az, hogy elveszi?
 
@@ -76,7 +76,7 @@ Forráshiány miatt veszélybe került a podcast működése. Ha értékeled az 
 
 ---
 
-– Van analógia a kulcsokra a fizikai térben, de a digitális térben ez mégis másképp néz ki. Ha elvesztem a kulcsomat a házamhoz, még mindig kihívhatom a lakatost, hogy kinyissa, vagy lecseréltethetem a zárat — vannak tartaléktervek. A Bitcoin esetében viszont, ha egyszer valaki átvert, megadtad neki a seedet, a titkos szavaidat, akkor az elég nagy gáz. Az sajnos bukta.
+– Van analógia a kulcsokra a fizikai térben, de a digitális térben ez mégis másképp néz ki. Ha elvesztem a kulcsomat a házamhoz, még mindig kihívhatom a lakatost, hogy kinyissa, vagy lecseréltethetem a zárat — vannak tartaléktervek. A Bitcoin esetében viszont, ha egyszer valaki átvert, megadtad neki a [seedet](https://inflacio.eu/mi-az-a-seed-phrase/), a titkos szavaidat, akkor az elég nagy gáz. Az sajnos bukta.
 
 – És ez nagyon nem intuitív.
 

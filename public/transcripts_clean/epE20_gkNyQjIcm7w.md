@@ -30,7 +30,7 @@ Aki nem tudott szépen fogalmazni vagy programozni, az AI-val eljuthat egy alap 
 
 – Hogyan fogja az AI használni a Bitcoint?
 
-– Az AI-nak visszacsatolásra van szüksége a valóságból. A **proof of work** (PoW) pont ezt adja: hamisíthatatlan ára van, a döntéseknek következménye van a fizikai világban. Ha egy AI-nak szerverkapacitásra vagy emberi munkára van szüksége, ki kell tudnia fizetni. Nem fog tudni bankszámlát nyitni az EU bürokráciája miatt, ezért a Lightning hálózatot és a Bitcoint fogja választani. A többi kriptoeszköz megbízhatatlan, mert egy központi entitás bármikor lekapcsolhatja. A Bitcoin az egyetlen „bazalt alap”, amire felhőkarcolókat lehet építeni.
+– Az AI-nak visszacsatolásra van szüksége a valóságból. A **proof of work** (PoW) pont ezt adja: hamisíthatatlan ára van, a döntéseknek következménye van a fizikai világban. Ha egy AI-nak szerverkapacitásra vagy emberi munkára van szüksége, ki kell tudnia fizetni. Nem fog tudni bankszámlát nyitni az EU bürokráciája miatt, ezért a [Lightning](https://inflacio.eu/mi-az-a-lightning-network/) hálózatot és a Bitcoint fogja választani. A többi kriptoeszköz megbízhatatlan, mert egy központi entitás bármikor lekapcsolhatja. A Bitcoin az egyetlen „bazalt alap”, amire felhőkarcolókat lehet építeni.
 
 Zárásként megkérdezzük Robit az univerzális alapjövedelemről (UBI). Szia Robi, mit gondolsz, az embereket kiengeszteli majd az UBI a leváltott munkahelyükért?
 

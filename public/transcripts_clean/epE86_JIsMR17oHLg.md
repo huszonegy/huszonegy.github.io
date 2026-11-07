@@ -88,7 +88,7 @@ De sikerült, és óriási sikere volt mindenkinek. Mindannyian nagyon ügyesek 
 
 Most jelen pillanatban ezen gondolkodtam így reggel, amikor szedtem össze magam, hogy miről is fogunk ma beszélgetni — hogy az tök menőség. Ezt most el is mondom így hangosan: hogy a világon jelen pillanatban mi hatan vagyunk, akik rendelkeznek ezzel a fajta képzéssel. Az egész világon. És ez számomra egy iszonyatosan nagy büszkeség, mert tényleg olyan profi emberektől tanulhatunk.
 
-Ugye a Dusan kezdte el felépíteni ezt az egészet. Rengeteg értéket adnak ők is ott a közösségnek: gyerekeket tanítanak bányászni, meg olyan dolgokat csinálnak, hogy tényleg le a kalappal. A Dusannak egyébként az a célja, hogy 100 millió ember részesüljön az oktatásban — és hát haladnak feléje. Nyilván még jó sok van vissza, de haladnak szépen az úton. És annyira profi képzést raktak össze!
+Ugye a Dusan kezdte el felépíteni ezt az egészet. Rengeteg értéket adnak ők is ott a közösségnek: gyerekeket tanítanak [bányászni](https://inflacio.eu/mi-az-a-bitcoin-banyaszat/), meg olyan dolgokat csinálnak, hogy tényleg le a kalappal. A Dusannak egyébként az a célja, hogy 100 millió ember részesüljön az oktatásban — és hát haladnak feléje. Nyilván még jó sok van vissza, de haladnak szépen az úton. És annyira profi képzést raktak össze!
 
 A Dusannak nagyon sok éve van abban, hogy ő egy profi public speaker lett, és millió technikát megtanult. És képes is arra, tehát megvan a személyisége arra, hogy ezt továbbadja. És nem is akárhogy — iszonyatosan inspiráló. Tényleg csak jót tudok mondani.
 
@@ -204,7 +204,7 @@ De hogyha csak egy témába beleásod magadat, az nyilván szerteszét fog ágaz
 
 – Nyilván.
 
-– És ezt mindig ezerszer elmondjuk, hogy nincs olyan, hogy rossz terület — mert mindenki be tudja hozni a sajátját, akármit csinál. Van egy barátom nem messze, ő növényeket termeszt, de bitcoiner. Tehát farmer. És futtatja a Lightning-node-ot a traktor mellett, ott a fészerben. (nevetés)
+– És ezt mindig ezerszer elmondjuk, hogy nincs olyan, hogy rossz terület — mert mindenki be tudja hozni a sajátját, akármit csinál. Van egy barátom nem messze, ő növényeket termeszt, de bitcoiner. Tehát farmer. És futtatja a [Lightning](https://inflacio.eu/mi-az-a-lightning-network/)-node-ot a traktor mellett, ott a fészerben. (nevetés)
 
 És tök jó: ő csinálta itt a környéken ezt a helyi piacot. Itt is most már ilyenek alakulnak, ahol már szatért lehet zöldségeket venni meg egy-két dolgot. És tudod, ez is olyan, hogy én tudtam, hogy ő csinálja — de itt a múltkor fölmentem a Plebeian Marketre, most azért kanyarodok ide, mert majd itt esetleg be tudunk hozni valamit — és nézem, hogy na, itt mi van a környéken. És földobta, hogy ó, hiszen én ezt ismerem! Hát rá is írtam, hogy te, miért nem szóltál, hogy ekkora dolgokban vagy? Mert akkor én meg itt a környéken már intéztem volna a vásárlóerőt oda.
 
@@ -326,7 +326,7 @@ Nekem nagyon tetszett — ha már a Telegramról beszélgetünk, meg ott a Revol
 
 Aztán valaki erre írta, hogy jó, de ez egy szűk réteg, aki hozzáfér ezekhez az információkhoz a Telegram-csoportban. De szerintem azért is jó, hogy itt is beszélünk róla — mert ugyan ez is egy szűk réteg, akihez eljut a mi szavunk, de talán van olyan, aki most előbb hallja meg, és még nincs is ott a Telegram-csopiban.
 
-Tehát igen, ez szerintem tök jó, hogy megint beszélünk erről: hogy fontos ez. Hogy ha valaki akár a Revoluton, akár a Strike-on, akár a Binance-on, vagy mit tudom én, melyik felületen megveszi a bitcoinját — egyrészt csak bitcoint vegyen, ne shitcoint. Ha már vett shitcoint, azt váltsa át Bitcoinra. A bitcoint pedig szépen utalja át egy olyan tárcába, aminek ő birtokolja a privát kulcsait. Amit ugye ha még nem tud, hogy hogy kell, akkor nagyon jó anyagokat fordítottunk erről — majd belinkeljük a leírásba is, ahol el lehet olvasni, hogy ebbe hogy lehet beletanulni.
+Tehát igen, ez szerintem tök jó, hogy megint beszélünk erről: hogy fontos ez. Hogy ha valaki akár a Revoluton, akár a Strike-on, akár a Binance-on, vagy mit tudom én, melyik felületen megveszi a bitcoinját — egyrészt csak bitcoint vegyen, ne shitcoint. Ha már vett shitcoint, azt váltsa át Bitcoinra. A bitcoint pedig szépen utalja át egy olyan tárcába, aminek ő birtokolja a [privát kulcsait](https://inflacio.eu/mik-azok-a-titkos-es-nyilvanos-kulcsok/). Amit ugye ha még nem tud, hogy hogy kell, akkor nagyon jó anyagokat fordítottunk erről — majd belinkeljük a leírásba is, ahol el lehet olvasni, hogy ebbe hogy lehet beletanulni.
 
 De igen, ez fontos. Pláne olyankor, amikor elkezdik tiltogatni meg ijesztgetni a különböző Bitcoin-érdekeltségű csoportokat, akár cégeket vagy magánembereket.
 
@@ -430,7 +430,7 @@ Nem tudom, lehet, láttátok, a múltkor bedobtam a HUSZONEGY-be azokat a kis ko
 
 – Amikbe a Bitcoint már hányszor eltemették. Ja, igen, azt láttam.
 
-– Az egy seed-tároló! Az a Bitcoin-koporsó.
+– Az egy [seed](https://inflacio.eu/mi-az-a-seed-phrase/)-tároló! Az a Bitcoin-koporsó.
 
 És annak az a története, kérlek szépen, hogy egy ilyen world schooler bitcoiner család — akik Mexikóban éppen a tengerparton futtatták a gyerekeiket, meg ott ilyen hubban tanultak a tengerparton —, ez a csávó, akiről beszélek, ott elkezdett beszélgetni egy helyi kézműves mexikói fickóval, aki ilyen kis műtyűröket készít, a kis kezével, van egy ilyen kis műhelye.
 

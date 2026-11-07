@@ -30,11 +30,11 @@ Na, hogy telt nektek a nyár? Van valami kiemelkedő dolog, amiről szeretnétek
 
 – Igen, de azért sokkal nagyobb a fejem most, mint a tietek – lehet, hogy távolabb kéne tenni, de azt majd legközelebb.
 
-De a komolyabb beszerzés az volt, ez a kis csoda, ami most már itt egy pár hónapja zavarja a nyugalmamat, mert elég hangos a ventilátora. Ez egy Bitaxe bányászgép, amiről azt kell tudni, hogy ezen egy ugyanolyan chip van, amiből a nagy, igazi bányászgépekben sok tíz vagy száz darab van. Ezen meg csak egy, itt a ventilátor alatt. Ennek megfelelően elég kicsi teljesítménnyel bányászik. Mindjárt mondok számokat is – de ennek ellenére azért eléggé jól melegszik.
+De a komolyabb beszerzés az volt, ez a kis csoda, ami most már itt egy pár hónapja zavarja a nyugalmamat, mert elég hangos a ventilátora. Ez egy Bitaxe [bányászgép](https://inflacio.eu/mi-az-a-bitcoin-banyaszat/), amiről azt kell tudni, hogy ezen egy ugyanolyan chip van, amiből a nagy, igazi bányászgépekben sok tíz vagy száz darab van. Ezen meg csak egy, itt a ventilátor alatt. Ennek megfelelően elég kicsi teljesítménnyel bányászik. Mindjárt mondok számokat is – de ennek ellenére azért eléggé jól melegszik.
 
 – Nyáron az jó. (nevetés)
 
-– Most, ha látszik a megosztott képernyőm, akkor itt látszik rajta, hogy – nézzük, kicsit túl is melegedett – most ilyen 679 gigahash per szekundumot ír. Ami azt jelenti, ha jól számolok, hogy 683 milliárd hasht számol ki másodpercenként. Azért ez se kevés.
+– Most, ha látszik a megosztott képernyőm, akkor itt látszik rajta, hogy – nézzük, kicsit túl is melegedett – most ilyen 679 gigahash per szekundumot ír. Ami azt jelenti, ha jól számolok, hogy 683 milliárd [hasht](https://inflacio.eu/mi-az-a-hash-fuggveny/) számol ki másodpercenként. Azért ez se kevés.
 
 Egyébként azért változik, mert a hőmérséklettől függően változtatja a teljesítményét is. És ott alul látszik a hőmérséklete. Van egy beállítási rész, ahol be lehet állítani, hogy milyen órajel-frekvenciával működjön a processzora, meg hány volttal. Hát itt a legkisebbre állítottam.
 
@@ -458,7 +458,7 @@ Látjátok? Hát szépen haladunk itt az érdekes rész felé. Már nincs sok �
 
 – Ez egyébként egy nagy vita, hogy ez a ciklus olyan-e, mint a többi ciklus. Megszűnt-e ez a négyéves ciklikusság, vagy nem?
 
-– Hát a papír Bitcoin miatt szerintem ez tök más. Meg a felezési hatás miatt.
+– Hát a papír Bitcoin miatt szerintem ez tök más. Meg a [felezési](https://inflacio.eu/mi-az-a-bitcoin-felezes/) hatás miatt.
 
 – Igen, egyrészt inkább az: hogy most már a Bitcoin bányászatból eredő kibocsátás nem befolyásolja olyan nagyon a forgalomban lévő bitcoin mennyiségét. Már inkább a kereskedés számít egyre jobban.
 
@@ -482,7 +482,7 @@ Viszont azt mondják – én nem tudom, de azt mondják nálam okosabbak –, ho
 
 – A retail szerintem azt tudja tenni – a kicsi ember –, hogy megtanulja a bitcoint, és lehúzogatja a tőzsdéről a saját őrizetébe a bitcoint. Ugye volt ez a – hogy is neveztük a Twitteren meg az X-en – ez a DCA Army, a dollar cost average, tehát aki minden nap vásárol. Ez egy hadsereg. És ha ezt folytatjuk, és lehúzzuk, és tényleg nem tárolja senki a Coinbase-en meg egyéb exchange-eken a bitcoinját, akkor viszont valóban elérjük azt, hogy cirkulációban kevesebb van.
 
-Persze akkor még bejöhet egy bálna, aki elad 15 000 bitcoint, mert 2011 óta van neki. Csak – ahogy mondtad is korábban – az azért elfogy. Tehát papír Bitcoin ide vagy oda, azért a cirkulációban lévő Bitcoin az fix; ugye algoritmus alapján növekszik, de nem éri el a 21 milliót soha.
+Persze akkor még bejöhet egy bálna, aki elad 15 000 bitcoint, mert 2011 óta van neki. Csak – ahogy mondtad is korábban – az azért elfogy. Tehát papír Bitcoin ide vagy oda, azért a cirkulációban lévő Bitcoin az fix; ugye algoritmus alapján növekszik, de nem éri el a [21 milliót](https://inflacio.eu/hany-bitcoin-van/) soha.
 
 Már csak az lenne a lényeg, hogy a treasury cégek élén is olyan emberek üljenek, akik nem ilyen Coinbase-eken meg mindenféle szar helyeken tárolják a bitcoinjaikat, hanem lehúzzák maguknak. Akkor lenne ez igazán jó. Mondjuk egy BlackRockról nem tudom, hogy hol tárolja.
 

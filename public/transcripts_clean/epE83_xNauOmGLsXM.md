@@ -2,7 +2,7 @@
 
 – Én kezdem. Sziasztok! Mi Zolival azt hiszem, hogy több mint 20 éve ismerjük egymást, ilyen internetszolgáltatói szakmai körökből. Egy rendezvényen ismerkedtünk meg, ahol sok kábeltévés volt, és mi ketten voltunk informatikusok. A házigazda azt mondta, hogy na, akkor ti üljetek egy asztalhoz, mert ti megértitek egymást, olyan kábelesek vagytok. És akkor ott összebarátkoztunk – de ennek már több mint 20 éve.
 
-Mivel én Budapesten lakom, Zoli pedig vidéken, ezért viszonylag ritkábban találkoztunk. Úgyhogy a Bitcoinhoz meg az egyéb coinokhoz egymástól függetlenül jutottunk el – ez az érdekes, annak ellenére, hogy ismertük egymást. Aztán valamikor, 2017 környékén talán, egyszer csak rádöbbentünk, hogy ja, hát itt mind a ketten foglalkozunk ezzel. Meg Zolinál megláttam, hogy vannak neki videókártyákból összerakott bányászgépei – ez az emlékkép élénken él bennem.
+Mivel én Budapesten lakom, Zoli pedig vidéken, ezért viszonylag ritkábban találkoztunk. Úgyhogy a Bitcoinhoz meg az egyéb coinokhoz egymástól függetlenül jutottunk el – ez az érdekes, annak ellenére, hogy ismertük egymást. Aztán valamikor, 2017 környékén talán, egyszer csak rádöbbentünk, hogy ja, hát itt mind a ketten foglalkozunk ezzel. Meg Zolinál megláttam, hogy vannak neki videókártyákból összerakott [bányászgépei](https://inflacio.eu/mi-az-a-bitcoin-banyaszat/) – ez az emlékkép élénken él bennem.
 
 Úgyhogy innentől át is adom a szót neki, hogy mesélje el, hogy is volt ez a történet.
 
@@ -62,7 +62,7 @@ Nyilván rettentő sok dolog volt, hogy hát ez így kamu, ez be fog dőlni. Teh
 
 De hát azért lássuk be, hogy már 14-15-ben ott voltak ezek az ASIC processzorok. Fú, ez nagyon durva volt.
 
-– És gyakorlatilag a hashratet még megahashben mérték. Tehát most hol vagyunk? Már a terahashen túl vagyunk.
+– És gyakorlatilag a [hashratet](https://inflacio.eu/mi-az-a-hash-fuggveny/) még megahashben mérték. Tehát most hol vagyunk? Már a terahashen túl vagyunk.
 
 – Zetta! Már 1,1 zettahash.
 
@@ -262,7 +262,7 @@ Ugye akkor volt ez a covidos dolog. Volt, aki azért nem jött el, mert covid. M
 
 – Benzinkutas!
 
-– Nagyon sokan voltak, sokféle emberek. És gyakorlatilag egy showt előadtunk ebből, több témában. Én inkább az elméletet nyomtam, Tamás sok gyakorlatot. Bemutattuk a Lightningot.
+– Nagyon sokan voltak, sokféle emberek. És gyakorlatilag egy showt előadtunk ebből, több témában. Én inkább az elméletet nyomtam, Tamás sok gyakorlatot. Bemutattuk a [Lightningot](https://inflacio.eu/mi-az-a-lightning-network/).
 
 – Igen, az nagy szám volt, hogy letettünk két Umbrel node-ot egymás mellé, és tudtunk fizetni köztük Lightninggal – ami 2021-ben azért még nagy újdonság volt.
 
@@ -378,7 +378,7 @@ Tehát úgy kell majd csoportosulniuk, hogy – ahogy a nagymama is megbízik az
 
 Rengeteg olyan helyzet volt. És rengeteg olyan adminisztráció – csináltunk ilyen webshopszerű felületeket, és rettentő nehéz volt. Képzeld el: aki az élelmiszeriparban vagy a mezőgazdaságban dolgozik, ő még egy nagyságrenddel odébb van ettől a technológiától. Tehát akkora szakadékok vannak itt a társadalmon belül.
 
-Ezekre volt próbálkozás, hidat építeni: jöttek csapatok, hogy na, akkor ez a blokklánc, ezt rá lehetne erre vezetni. És mondom: oké, rendben, mert mi itt házon belül meg fogjuk csinálni, nagyon jó elmélete lesz, le lesz programozva – de gyakorlatba kell vinni. És ez egy rettentő nehéz feladat.
+Ezekre volt próbálkozás, hidat építeni: jöttek csapatok, hogy na, akkor ez a [blokklánc](https://inflacio.eu/mi-az-a-blokklanc/), ezt rá lehetne erre vezetni. És mondom: oké, rendben, mert mi itt házon belül meg fogjuk csinálni, nagyon jó elmélete lesz, le lesz programozva – de gyakorlatba kell vinni. És ez egy rettentő nehéz feladat.
 
 Ezt valami nagyon pofonegyszerű dologra kell átforgatni majd – ahogy a Lightning is, ahogy demózta Tamás. Nagyon egyszerűre kell átforgatni, mert a mögötte lévő bonyolult gépezetet nem lehet odaadni az emberek tömegeinek.
 

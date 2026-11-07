@@ -28,7 +28,7 @@ De egyébként csodás időszak volt ez mindvégig: mindenkit betanítani. Egy �
 
 – Az lesz az. Tehát ez a kettőm van. És ezeket is nemrég ismertem meg, ezeken a konferenciákon.
 
-Igazából az volt a legnehezebb rész – és még mindig vannak ebben kérdéseim –, a használat. A bitcoint mint olyat meg lehet vásárolni; most már egyre jobban meg lehet, ugye jöttek ezek a MiCA-szabályozások, de meg lehet vásárolni. De vajon hogyan fogom tudni ezt valóban visszaforgatni fiat pénzbe, amikor szükség van rá? Ez a rész egy picit mind a mai napig kérdéses nekem – és ezek miatt is mentem a konferenciára: hogy ezeket a dolgokat jól megismerjem.
+Igazából az volt a legnehezebb rész – és még mindig vannak ebben kérdéseim –, a használat. A bitcoint mint olyat meg lehet vásárolni; most már egyre jobban meg lehet, ugye jöttek ezek a MiCA-szabályozások, de meg lehet vásárolni. De vajon hogyan fogom tudni ezt valóban visszaforgatni [fiat](https://inflacio.eu/a-penz-evolucioja-penzfajtak/) pénzbe, amikor szükség van rá? Ez a rész egy picit mind a mai napig kérdéses nekem – és ezek miatt is mentem a konferenciára: hogy ezeket a dolgokat jól megismerjem.
 
 Tehát így körülbelül öt éve. Sajnos nem tíz.
 
@@ -388,7 +388,7 @@ Mert ha állandóan a bankkártyáddal fizetsz, amit látnak – jó, hát tudom
 
 És a másik: én nem az árfolyamot nézem. Nem érdekes a Bitcoin árfolyama. Őszintén, én nem is váltottam vissza, amikor most leesett. Már utólag azt mondom, hogy lehet, hogy kellett volna egy kicsit. De nekem kint van Ledgeren – nem is könnyű egyik pillanatról a másikra visszaváltani, meg újraváltani. Tehát ezt egyelőre kihagytam, úgy, ahogy van.
 
-És hát van, aki inkább eladja a házát, és bitcoinba teszi a pénzt, mert tudja, hogy jobbat fog hozni, mint a háza. Tehát azt sem tudhatjuk – az ingatlan is, meg minden. Lehet, mindennek megvan azért a hátoldala. De én ebben hiszek. Úgy érzem, hogy ez egy jó irány.
+És hát van, aki inkább eladja a házát, és bitcoinba teszi a pénzt, mert tudja, hogy jobbat fog hozni, mint a háza. Tehát azt sem tudhatjuk – az [ingatlan](https://inflacio.eu/ingatlan/) is, meg minden. Lehet, mindennek megvan azért a hátoldala. De én ebben hiszek. Úgy érzem, hogy ez egy jó irány.
 
 Kovács Feri nálam egy nagyon nagy példakép ilyen ügyben. Nagyon tisztelem, nagyon jól kommunikálja mindezt le – és ő is azt mondja, hogy nem az árfolyam a lényeg. Nehogy azt higgyétek, hogy az árfolyamra megyünk!
 

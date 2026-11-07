@@ -48,7 +48,7 @@ Aztán amikor kiszakadsz ebből a gondolatbuborékból, akkor meghallod az india
 
 – Én öltönyben igazából épp csak megvoltam, már majdnem fáztam. Úgyhogy ez szerencse volt. Meg jó, hogy ki voltam öltözve, mert egyébként nagyon sokan hozzám hasonlóan elegánsabb ruhában voltak. Ez nem feltétlenül cypherpunk rendezvény volt.
 
-Ugye megtapasztaltam ezt is: voltam október elején a Black Prague-on, ami meg a cypherpunk vagy a privacy mozgalomnak a legszéle – ez meg azt mondom, a másik oldala, eddig, amin részt vettem. Tehát ez inkább egy üzleti jellegű találkozó volt – de alapvetően bitcoinnal kapcsolatos események, történések, termékek, bányászat volt jelen.
+Ugye megtapasztaltam ezt is: voltam október elején a Black Prague-on, ami meg a cypherpunk vagy a privacy mozgalomnak a legszéle – ez meg azt mondom, a másik oldala, eddig, amin részt vettem. Tehát ez inkább egy üzleti jellegű találkozó volt – de alapvetően bitcoinnal kapcsolatos események, történések, termékek, [bányászat](https://inflacio.eu/mi-az-a-bitcoin-banyaszat/) volt jelen.
 
 Én abszolút nem láttam, hogy Ethereummal bárki foglalkozott volna. Stablecoinok néha felmerültek. Rengeteg bányászcég volt. A Bitmainnek is ott volt a CEO-ja. Aztán ott volt a Binance-nek a CZ-je.
 
@@ -66,7 +66,7 @@ Aztán, hogy egy másik végletet említsek: például Abu Dhabinak a marketing�
 
 Nagyon sok olyan meghatározó emberrel beszélgettem a törvényalkotás területéről, akik egyébként értik, hogy mi a Bitcoin. Ott volt a pakisztáni kriptóminiszter is, aki ott a Bitcoin-adaptációt vezeti be – és ő sem beszélt alapvetően kriptóról, hanem Bitcoinról beszélt. És úgy beszélt a Bitcoinról – ezt vissza tudjátok nézni YouTube-on is, azokat a panelbeszélgetéseket –, hogy egyébként tényleg érti, miről van szó.
 
-Aztán ott volt például egy befektetési bankár, akinek külön tőkealapja van: 45 000 milliárd forintnyi tőkét kezelnek Amerikában. Nem túl nagyok, nem túl kicsik. De mondta, hogy amióta ETF-ek vannak, és ezt legalizálták Amerikában – tehát megnyitották az utat, hogy ők ezzel foglalkozhassanak –, azóta erre fogják építeni a tőkejövedelmüket. Azzal, hogy növelni tudják a befektetők pénzét, azt részben Bitcoin-alapú eszközökbe való fektetéssel is el fogják tudni érni. Legalábbis ezzel terveznek. És ezek még 2026-ban fognak csak kijönni.
+Aztán ott volt például egy befektetési bankár, akinek külön tőkealapja van: 45 000 milliárd forintnyi tőkét kezelnek Amerikában. Nem túl nagyok, nem túl kicsik. De mondta, hogy amióta [ETF](https://inflacio.eu/mi-az-a-bitcoin-etf/)-ek vannak, és ezt legalizálták Amerikában – tehát megnyitották az utat, hogy ők ezzel foglalkozhassanak –, azóta erre fogják építeni a tőkejövedelmüket. Azzal, hogy növelni tudják a befektetők pénzét, azt részben Bitcoin-alapú eszközökbe való fektetéssel is el fogják tudni érni. Legalábbis ezzel terveznek. És ezek még 2026-ban fognak csak kijönni.
 
 Aztán ott volt az Emírségeknek is szintén az egyik vezetője, aki a bitcoinnal és a kriptóval foglalkozik. Ő is nagyon sejtelmesen elmosolyodott, amikor megkérdezték tőle, hogy mi várható – azt mondta, hogy 2026 első negyedévében azért lesznek náluk történések, majd fogják mondani.
 
@@ -246,7 +246,7 @@ A másik gondolatom ezzel kapcsolatban, amit említettél – a régi és az új
 
 Szóval körülbelül egy éve mondta azt, hogy a bitcoint úgy látja, mint a *crude oilt*, tehát a nyersolajat. És akkor ők – a Standard Oilhoz hasonlóan – finomítják, és akkor bejöttek a különböző pénzügyi termékeik.
 
-És most legutóbb már említette a *digital creditet* is. Ő arra az analógiára húzta fel, hogy ahogy régebben az eredeti bankok – nem a mi kis fiat bankjaink – úgy indultak el, hogy rendelkeztek valami olyan eszközzel, amit letétbe téve hitelt állítottak ki: tehát konkrétan pénzt készítettek aranyfedezettel. És ő most *digital credit* néven Bitcoin-alapú pénzrendszert hoz éppen létre.
+És most legutóbb már említette a *digital creditet* is. Ő arra az analógiára húzta fel, hogy ahogy régebben az eredeti bankok – nem a mi kis fiat bankjaink – úgy indultak el, hogy rendelkeztek valami olyan eszközzel, amit letétbe téve hitelt állítottak ki: tehát konkrétan pénzt készítettek [aranyfedezettel](https://inflacio.eu/aranyfedezet-megszunese/). És ő most *digital credit* néven Bitcoin-alapú pénzrendszert hoz éppen létre.
 
 – STRK, vagy mi a neve?
 
@@ -294,7 +294,7 @@ De nem is tanácsolom, hogy teljesen túlzó költésbe essetek, mert nagyon fon
 
 – Az árfolyam nagyon attraktív tud lenni. Nyilván az is fontos, hogy abban az állami kuponban, amiben egyébként mindenki áraz – csak ezért fontos az állami kupon, mert abban árazzák, hogy mennyit ér a bitcoin.
 
-De egyébként, ha megnézzük a hashratet, a számítási kapacitást, ami fölfelé trendel folyamatosan; ott vannak a különböző felhasználói metrikák, az elfogadás, a különböző hírek; hogy mennyien fognak elkezdeni jövőre Bitcoinban dolgozni, illetve kinek kell Bitcoin jövőre – akkor ez a kör folyamatosan bővül. Ez nem korrigált lefelé.
+De egyébként, ha megnézzük a [hashratet](https://inflacio.eu/mi-az-a-hash-fuggveny/), a számítási kapacitást, ami fölfelé trendel folyamatosan; ott vannak a különböző felhasználói metrikák, az elfogadás, a különböző hírek; hogy mennyien fognak elkezdeni jövőre Bitcoinban dolgozni, illetve kinek kell Bitcoin jövőre – akkor ez a kör folyamatosan bővül. Ez nem korrigált lefelé.
 
 Nyilván a retail, az utca embere, ő ilyenkor bizonytalan, ilyenkor nehéz neki. De azt is látom, hogy nagyon sok barátom megkeresett az elmúlt időszakban, amikor elindultunk lefelé: hogy most érdemes-e venni, most kell-e venni. Tehát nem az volt, hogy megijedtek, vagy fel sem hívtak – hanem mint egy bull marketnél, szóltak, hogy „Feri, akkor most?"
 

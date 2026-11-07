@@ -176,7 +176,7 @@ Hát így röviden ennyit mondhatnék erről. Ha ezek följönnek, akkor újra k
 
 Ugye, amit mondtál is: nagyon sok scam arra appellál, hogy bemutassa neked valamilyen kriptó formájában „az új bitcoint", ami még az elején van, és most fog százszorozni. Ha ezeket elkerüljük – ha valaki figyel arra, hogy mindig óvatos legyen, meggyőződik az URL valódiságáról, nem dől be ilyen beetetési kampányoknak, ilyen mentorprogramoknak, hogy „itt a jó segítőkész befektető, aki most felkarolja, és az ő személyes problémáját magáénak tekintve segíti, hogy előrelépkedjen" –, ha ezeknek nem dől be, hanem elismeri, hogy ez egy olyan út, ahol szépen apránként lehet ezt megtanulni, akkor szerintem sokkal kevésbé van kitéve egy ilyen csalásnak.
 
-Tehát például a Strike, amit sokszor emlegetünk: elkezdjük a DCA-t, elkezdjük a napi beutalást 5-10 euróval vagy akármivel – ott tök jól meg lehet ezt tanulni. Vagy behozhatunk másik platformokat, nagyobb tőzsdéket.
+Tehát például a [Strike](https://inflacio.eu/mi-az-a-strike/), amit sokszor emlegetünk: elkezdjük a DCA-t, elkezdjük a napi beutalást 5-10 euróval vagy akármivel – ott tök jól meg lehet ezt tanulni. Vagy behozhatunk másik platformokat, nagyobb tőzsdéket.
 
 – A Strike-kal kapcsolatban mondhatok egy csalást, amivel én találkoztam a napokban. Kaptam egy e-mailt, a Strike nevében küldték. Már egy kicsit furcsa volt, hogy nem volt logó a levélben – ezt utólag is furcsállom: ha egy csalást csinálok, azért egy Strike-logót csak bele tudnék tenni. (nevetés)
 
@@ -194,7 +194,7 @@ A lényeg az, hogy megpróbál egy e-mailben letöltetni veled egy olyan applik�
 
 Illetve amit te is mondtál, ez a fordított dolog: kapok egy információt, fölmegyek a hivatalos weboldalra, és ott utánajárok, hogy valós-e ez az információ. Mert ha kívülről jön egy impulzus, ott nagyon óvatosnak kell lenni – a csalók általában így jelentkeznek: valahogy fölkeltik az érdeklődésedet egy impulzussal, és te mész bele a csapdába.
 
-– Most én olyat hallottam, ez nagyon érdekes. Egy barátom mesélte, hogy van egy barátja, méghozzá egy svájci fickó, és árulta az ingatlanát Svájcban. Megkereste valami vevő, hogy őt érdekelné ez az ingatlan, és szeretné megvenni, mert ő most egy háborús övezetben él, és el szeretne onnan költözni.
+– Most én olyat hallottam, ez nagyon érdekes. Egy barátom mesélte, hogy van egy barátja, méghozzá egy svájci fickó, és árulta az [ingatlanát](https://inflacio.eu/ingatlan/) Svájcban. Megkereste valami vevő, hogy őt érdekelné ez az ingatlan, és szeretné megvenni, mert ő most egy háborús övezetben él, és el szeretne onnan költözni.
 
 És az egész történet arra volt kihegyezve, hogy neki amúgy rengeteg pénze van – csak hogy ez a szerencsétlen, aki most értékesíti az ingatlanát, az segítsen már neki ezt a vagyont kimenteni. És hogy ő amúgy szeretne bitcoint is venni. Kiderült, hogy „mi lenne, ha mégse venné meg az ingatlant, hanem venne először kicsi összegekben bitcoint tőle".
 
@@ -228,7 +228,7 @@ Erről jutott eszembe, hogy a beutalások hogyan mentek ebbe a csalásba, amit e
 
 – Szerencsére én úgy gondolom, hogy a bitcoinerek azért óvatosak. Aki ezzel már találkozott, az valamilyen szinten *computer literate*, tehát ért a számítógépekhez, és látja ezeknek a veszélyeknek a természetét – hogy mi lehet egy link mögött.
 
-– Abszolút. De ez pont kettős. Mert én sokszor beszélek a Bitcoinról, meg a kriptóról, hogy ez mennyire jó, hogy felszabadít, meg az infláció – és így hallomásból hallják az emberek, és csak annyit hallanak meg, hogy ez egy jó biznisz. Vagy valami ilyesmi marad meg.
+– Abszolút. De ez pont kettős. Mert én sokszor beszélek a Bitcoinról, meg a kriptóról, hogy ez mennyire jó, hogy felszabadít, meg az [infláció](https://inflacio.eu/inflacio-jelentese/) – és így hallomásból hallják az emberek, és csak annyit hallanak meg, hogy ez egy jó biznisz. Vagy valami ilyesmi marad meg.
 
 És sokszor volt olyan, hogy felhívtak engem, hogy „figyelj, megkerestek, hogy van valami Bitcoin kettő" – vagy Bitcoin Code, bármicsoda – „és itt azt ígérik, hogy 30-40%. És én tudom, hogy neked ez működik, hogy te ezt ajánlod, hogy akkor ezt csináljam. Mit tudsz erről?" És akkor mondom, hogy ez teljesen más dolog.
 

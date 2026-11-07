@@ -76,7 +76,7 @@ Ennyit szerettem volna elmondani a MiCA-ról.
 
 Egy nagyon-nagyon jó kis konferencia volt. Ugye ez volt az első ilyen konferencia, úgy is hirdették: az első nordikus konferencia. Nagyon jól időzítették a dátumot is, mert ugye Prága, Honey Badger és Helsinki így következtek egymás után. Tehát nagyon sok ember volt ott, aki zarándokolt egyik konferenciáról a másikra – jellemzően Amerikából, messzebbi helyekről; akik eljöttek, azok kihasználták az idejüket meg az alkalmat, hogy egyik állomásról mentek a másikra.
 
-Egy nagyon kis családias, jó hangulatú konferencia volt. Bányászkonferencia. Először voltak kis fenntartásaim, hogy na, majd a viking bányászok jönnek a fűtési megoldásokkal. Mondjuk ezzel nem lőttem mellé – mert azért nagy, széles mosolyokat nem nagyon láttam. Csak az elfogyasztott alkohol mennyiségével egyenes arányban nőtt a boldogság. (nevetés) Amúgy azért jellemző volt ez a kicsit rideg fogadtatás.
+Egy nagyon kis családias, jó hangulatú konferencia volt. [Bányászkonferencia](https://inflacio.eu/mi-az-a-bitcoin-banyaszat/). Először voltak kis fenntartásaim, hogy na, majd a viking bányászok jönnek a fűtési megoldásokkal. Mondjuk ezzel nem lőttem mellé – mert azért nagy, széles mosolyokat nem nagyon láttam. Csak az elfogyasztott alkohol mennyiségével egyenes arányban nőtt a boldogság. (nevetés) Amúgy azért jellemző volt ez a kicsit rideg fogadtatás.
 
 De azért mentünk el. Egyrészt már nagyon kíváncsi voltam, hogy egy tőlem teljesen távol álló témakörben mit tudok tanulni – mert nagyon szeretném magamat beleásni az energia témakörébe, és majd el is mondom, hogy miért. De a fő oka az volt, hogy volt egy női side event.
 
@@ -214,7 +214,7 @@ Már nem vagyok olyan nyitott, hogy azt mondom: persze, jöjjön bárki, nagyon 
 
 – Na jó, még két év kell hozzá. De onnan már lehet kerekíteni. (nevetés) Egy nagyon nehéz út – de boldogító út.
 
-– És annyira jó volt Helsinkiben találkozni mindenféle arcokkal! Ott voltak a nagy celebek – Knut, ő spanom, mint tudjuk. Meg hát ott voltak mások is. És annyira jóleső érzés – évente egyszer; tavaly Madeirán találkoztunk utoljára. Nyilván nem szoktunk minden nap telefonálni, de számon tart mindenki mindenkit. És tényleg egy csomószor nem érzem azt mondjuk a fiat életbeli barátaimmal ezeket a dolgokat: hogy találkozunk, és úgy örülnek őszintén, mint ezek az emberek, akikkel igazából rohadtul nem ismerjük egymást. Pusztán annyi a közös, hogy mindannyian bitcoinerek vagyunk.
+– És annyira jó volt Helsinkiben találkozni mindenféle arcokkal! Ott voltak a nagy celebek – Knut, ő spanom, mint tudjuk. Meg hát ott voltak mások is. És annyira jóleső érzés – évente egyszer; tavaly Madeirán találkoztunk utoljára. Nyilván nem szoktunk minden nap telefonálni, de számon tart mindenki mindenkit. És tényleg egy csomószor nem érzem azt mondjuk a [fiat](https://inflacio.eu/a-penz-evolucioja-penzfajtak/) életbeli barátaimmal ezeket a dolgokat: hogy találkozunk, és úgy örülnek őszintén, mint ezek az emberek, akikkel igazából rohadtul nem ismerjük egymást. Pusztán annyi a közös, hogy mindannyian bitcoinerek vagyunk.
 
 – Viszont ha váltotok két mondatot, akkor is mélyebbre tudtok menni egymás gondolataiban.
 

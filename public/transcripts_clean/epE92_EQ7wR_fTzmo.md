@@ -6,7 +6,7 @@ Itt lakunk az erdő szélén, a forráshoz járunk forrásvízért. Nagyon-nagyo
 
 Sziasztok! Üdvözlünk titeket! Ez itt a HUSZONEGY Bitcoin Podcast 92. epizódja. Ma egy különleges vendégünk van: Boka.
 
-Ugye ezekben a nehéz időkben vissza kell térnünk a nyugalom szigetére, mert hát mit mondjak: a leárazott bitcoin korában sokan aggódnak. De nem kell aggódni, mert a self-custodyban lévő bitcoiner ott tartja a bitcoinját és nem aggódik — mert a világvége úgyis eljön majd azoknak, akik ezt a ronda fiatrendszert kitalálták. Úgyhogy mi pedig majd büszkén előlépünk a kis stash-ünkkel akkor. Mindenkinek javaslom, hogy ugyanígy gondolja, és ugyanígy élje az életét.
+Ugye ezekben a nehéz időkben vissza kell térnünk a nyugalom szigetére, mert hát mit mondjak: a leárazott bitcoin korában sokan aggódnak. De nem kell aggódni, mert a [self-custody](https://inflacio.eu/mi-az-az-onrendelkezes/)ban lévő bitcoiner ott tartja a bitcoinját és nem aggódik — mert a világvége úgyis eljön majd azoknak, akik ezt a ronda fiatrendszert kitalálták. Úgyhogy mi pedig majd büszkén előlépünk a kis stash-ünkkel akkor. Mindenkinek javaslom, hogy ugyanígy gondolja, és ugyanígy élje az életét.
 
 Szia, Boka, üdvözlünk itt nálunk!
 
@@ -44,7 +44,7 @@ Meg nyilván ahogy telik az idő, ez így klasszik: amikor már tényleg nem az 
 
 – Nem, azért, mert hogyha ez a cimborám mond nekem valamit, akkor azt én alapvetően megalapozottnak érzem a részéről. Tehát nem gondoltam volna, hogy ez egy nagy lufi. De nem tudom megmagyarázni: emlékszem, hogy már egy éve is mondta a bitcoint, de egyszerűen nem éreztem.
 
-Most talán az volt az, hogy akkor ez lehet, hogy nem Magic-kártya — hogyha már a Trump is bitcoint akar. Meg ezt utána olvastam, hogy ja, akkor El Salvador; ja, hogy Bhutánnak a national reserve-je most már 40%-ban bitcoinban van, meg ilyenek. Szóval elkezdtem olvasni róla, és akkor nyilván: az adott országok is sokkal előrelátóbban, jövőbe látóbban gondolkodnak sokszor. És hát minél többet olvastam, annál inkább láttam, hogy ez van. És akkor minél többet mész bele: ja, hogy mi az, hogy a Bitcoin? És akkor hol tartom? Ja, hogy akkor vannak ilyen walletek, tárcák. Akkor olvasol a tárcákról, akkor meglátod, hogy a Blink tárcával hány millió emberen segítettek már olyan országokban, ahol nagy az infláció, és nincs már pénz se lassan.
+Most talán az volt az, hogy akkor ez lehet, hogy nem Magic-kártya — hogyha már a Trump is bitcoint akar. Meg ezt utána olvastam, hogy ja, akkor El Salvador; ja, hogy Bhutánnak a national reserve-je most már 40%-ban bitcoinban van, meg ilyenek. Szóval elkezdtem olvasni róla, és akkor nyilván: az adott országok is sokkal előrelátóbban, jövőbe látóbban gondolkodnak sokszor. És hát minél többet olvastam, annál inkább láttam, hogy ez van. És akkor minél többet mész bele: ja, hogy mi az, hogy a Bitcoin? És akkor hol tartom? Ja, hogy akkor vannak ilyen walletek, tárcák. Akkor olvasol a tárcákról, akkor meglátod, hogy a Blink tárcával hány millió emberen segítettek már olyan országokban, ahol nagy az [infláció](https://inflacio.eu/inflacio-jelentese/), és nincs már pénz se lassan.
 
 Szóval olvasod a társadalmi hatásait, és akkor nyilván egyre pozitívabb az egész. És nem csak egy ilyen first world faxni, tudod, hogy „ez tök menő, és akkor most legyen így is pénzünk, merthogy eddig még így nem volt". Ez ennél sokkal több.
 
@@ -52,7 +52,7 @@ Szóval olvasod a társadalmi hatásait, és akkor nyilván egyre pozitívabb az
 
 – Nagyon nehéz ezt megmondanom, hogy a Nostr hogy jött be legelőször. Egyébként úgy, hogy amikor beszéltünk ezzel a haverommal, és akkor hazajöttem, és akkor Bitcoin — ilyenkor mindig rákeresek —, és nagyon hamar megtaláltam a HUSZONEGY weboldalt először. Ezt így jó alaposan végigolvastam, és ott volt erről szó, meg ott volt a nostr.hu. Azt is végigolvastam, és abból jött a Köztér, a Jumble magyar fordítása, ami ugye egy Nostr-kliens magyar fordítása.
 
-És akkor elkezdtem nézni, hogy fú, hát ez marha jó, hát ez közösségi platform! Pont az a bajom az összes létező közösségi platformmal, amit itt leírtok: hogy fake az algoritmus, hogy adatbányászatból működik, és hogy a hirdetések eladása a cél. Ezeket mind vágom. Tehát zenészként nincs több bajom annál, meg kevesebb se, hogy nem hallanak, nem látnak meg, nem érjük el a saját közönségünket. Tényleg, bárkivel ha beszélsz, előadóművésszel, csak kínlódik a közösségi médiával. Úgyhogy nyilván ez is így átjött.
+És akkor elkezdtem nézni, hogy fú, hát ez marha jó, hát ez közösségi platform! Pont az a bajom az összes létező közösségi platformmal, amit itt leírtok: hogy fake az algoritmus, hogy adat[bányászatból](https://inflacio.eu/mi-az-a-bitcoin-banyaszat/) működik, és hogy a hirdetések eladása a cél. Ezeket mind vágom. Tehát zenészként nincs több bajom annál, meg kevesebb se, hogy nem hallanak, nem látnak meg, nem érjük el a saját közönségünket. Tényleg, bárkivel ha beszélsz, előadóművésszel, csak kínlódik a közösségi médiával. Úgyhogy nyilván ez is így átjött.
 
 Elkezdtem nézni ezeket az appokat, amikkel akkor lehet közösségi… nem szeretem a „médiázni", tehát közösséggel kapcsolódni a Nostron keresztül. Viszont elég bugosak voltak, elég instabilak, elég lassan töltöttek. És akkor elkezdtem nézni, hogy ez tényleg egy fantasztikus irány, csak nem annyira működnek jól.
 
@@ -76,7 +76,7 @@ Elkezdtem nézni ezeket az appokat, amikkel akkor lehet közösségi… nem szer
 
 – Én azt szoktam mondani… ugye van a „kockafejű", az egy kicsit pejoratív. A tesóm szokta rám mindig mondani, hogy oké, hogy zenész vagyok, de hogy ilyen kütyümókus vagyok, hogy tényleg könnyen és szeretem a techet. Tehát ezekben otthonosan mozgok. De aki nem ilyen, aki nem ért annyira a kütyükhöz — hogy azoknak is érdekes legyen és használható legyen a Nostr, és persze nyilván a Bitcoin is.
 
-Úgyhogy most egy nagyon izgalmas időszak, amikor konkrétan a feleségem — szerintem egy-két hét, és már tényleg ő is elkezdi használni. Mert nem annyira bonyolult, meg nem kell annyira vigyázni a privát kulcsra, mert egyre ügyesebben, egyre láthatatlanabbul van megoldva. Szóval nagyon izgalmas, hogy most így lépnek be.
+Úgyhogy most egy nagyon izgalmas időszak, amikor konkrétan a feleségem — szerintem egy-két hét, és már tényleg ő is elkezdi használni. Mert nem annyira bonyolult, meg nem kell annyira vigyázni a [privát kulcsra](https://inflacio.eu/mik-azok-a-titkos-es-nyilvanos-kulcsok/), mert egyre ügyesebben, egyre láthatatlanabbul van megoldva. Szóval nagyon izgalmas, hogy most így lépnek be.
 
 Meg várom, amikor tényleg — például Wim Hofos hidegmerüléseket csinál egy ismerősöm, és most kizárták a Facebookból, de olyan szinten, hogy semmit nem tud csinálni. És most jövő héten fel fogom hívni, de inkább telefonon: „szevasz, figyelj, és akkor most mi van a Facebookkal? Még mindig nem megy? Akkor figyelj, van egy ajánlatom." (nevetés) Hogy tényleg próbálják ki, teljesen átlagos felhasználók.
 

@@ -67,9 +67,9 @@ Nem olyan, mint egy elektronikus focijátékban, hogy el tudom kattintgatni a k�
 
 – Egyébként ez tényleg tök meglepő, mert azt gondolnád, hogy mindenki így kenyérként vágja az angolt, legalábbis ilyen vállalkozói körökben, és amikor így szembesülsz vele, amúgy tökre nem. Nopara, te is így angol területen mozogsz, nem? Meg maga a fejlesztés, amikor így művelitek, tehát ez egy nemzetközi dolog, tehát ott nyilván a kommunikáció nyelve az angol, nem?
 
-– Persze, angolul mennek a dolgok. Sőt, hogyha elmélyedsz valamilyen témába, akkor ott angolul mélyedsz el abban a témában, és akkor a szakszavak nem jönnek vissza hozzád. Tehát ilyen dolgok, hogy blokklánc meg bányászok, kicsit ilyen libabőrös vagyok, amúgy, amikor kimondom ezeket a szavakat, mert miningről és blockchainről beszélünk.
+– Persze, angolul mennek a dolgok. Sőt, hogyha elmélyedsz valamilyen témába, akkor ott angolul mélyedsz el abban a témában, és akkor a szakszavak nem jönnek vissza hozzád. Tehát ilyen dolgok, hogy [blokklánc](https://inflacio.eu/mi-az-a-blokklanc/) meg [bányászok](https://inflacio.eu/mi-az-a-bitcoin-banyaszat/), kicsit ilyen libabőrös vagyok, amúgy, amikor kimondom ezeket a szavakat, mert miningről és blockchainről beszélünk.
 
-– De ha mondjuk egy UTXO-t kellene lefordítani magyarra, hogy hogyan hívjátok az UTXO-kat, az unspent transaction outputot?
+– De ha mondjuk egy [UTXO](https://inflacio.eu/mi-az-az-utxo/)-t kellene lefordítani magyarra, hogy hogyan hívjátok az UTXO-kat, az unspent transaction outputot?
 
 – Én elköltetlen kimenetnek szoktam, így gyorsan. De ez is olyan, hogy egyébként ez a nehéz ebben, hogy az angol terminológia az teljesen jól definiált, mindig minden szó ugyanazt jelenti, amire használják, de magyarul meg mindenkinek bejön a saját személyes kis preferenciája a fordításba, és akkor egyik ezt mondja, így használja, a másik úgy, és az egész egy ilyen katyvasz. Tehát ha van egy új ember, aki erről így hall, akkor egyszerűen fogalma sincs, mert olyan fogalomzavarban, ilyen fogalomlevesben úszik, hogy nem tudja megkülönböztetni, és ez nyilvánvalóan sokkal nehezebbé teszi megérteni valamit.
 
@@ -173,7 +173,7 @@ Volt erről egy tök jó videó, ezt már egyszer említettem, hogy azt majd tal
 
 Tehát gondolom, ti is emiatt indítottátok el, hogy legyen egy wallet, hogy mennyire lehet hardvertárcákat feltörni?
 
-– Nem a hardvertárca feltörésére, hanem hogy az embereknek legyen alternatívája tárolni. A Wasabi az, nem tudom, Lightning walletnek indult?
+– Nem a hardvertárca feltörésére, hanem hogy az embereknek legyen alternatívája tárolni. A Wasabi az, nem tudom, [Lightning](https://inflacio.eu/mi-az-a-lightning-network/) walletnek indult?
 
 – Vagy sima. A Wasabi az az egyetlen használható bitcoin wallet, ahol nem adod meg valaki másnak, hogy mit mire használod, a pénzedet. Tehát ez az egyetlen anonim bitcoin wallet. Nem, bocsánat, a JoinMarket is ott van még, de a Wasabi az egyetlen, ami light wallet, tehát ahol nem kell az 500 GB-os full node-ot a laptopodra letölteni. Tehát a Wasabi az privacy wallet. A Lightningot is akartuk, de soha nem jutottunk oda, sajnos.
 

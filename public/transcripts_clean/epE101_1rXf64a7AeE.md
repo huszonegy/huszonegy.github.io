@@ -32,7 +32,7 @@ Mi újság veletek?
 
 – Igen. A káosz az állandósult.
 
-– A 21 millió akárhányad része az ugyanannyi. Ez a lényeg.
+– A [21 millió](https://inflacio.eu/hany-bitcoin-van/) akárhányad része az ugyanannyi. Ez a lényeg.
 – Egy dolgot tapasztalok, amióta decemberben megszűnt a Revolut — amiről itt legutóbb beszéltem —, illetve aztán januárban a Strike is beszüntette a magyarországi működését, sajnos. Azóta legalább négy ember megkeresett privátban, hogy akkor most hol vegyenek bitcoint, mit csináljanak.
 
 És akkor én mindenkinek azt javasoltam, hogy van egy tőzsde, amit én 2017 óta használok, és azóta tök jól elvagyok vele, még nem volt vele semmi probléma. Ezt úgy hívják, hogy Kraken. A kraken.com.
@@ -141,7 +141,7 @@ Csak azzal az a baj, hogy a kártyás vásárlásnál 10% költséget levon a Kr
 
 És akkor mit tegyünk, ha van bitcoinunk? Vagy akár nem is vásárlásból van, hanem mondjuk elfogadtuk munkáért — mondjuk bitcoint elfogadó fodrász vagy autószerelő vagyok. Akkor lép életbe a Krak nevű alkalmazás. (Azt nem tudom, miért így hívták el; lehagyták róla az E-t meg az N-t.)
 
-Ez egy újabb szolgáltatása a Krakennek, ahol lehet fizikai bankkártyát igényelni, teljesen ingyen. Alapból ennek is nulla az egyenlege, és át kell tölteni a fő krakenes tárcánkból. Föl lehet tölteni befizetéssel, akár bitcoint — be lehet küldeni Lightningon is, vagy sima befizetéssel.
+Ez egy újabb szolgáltatása a Krakennek, ahol lehet fizikai bankkártyát igényelni, teljesen ingyen. Alapból ennek is nulla az egyenlege, és át kell tölteni a fő krakenes tárcánkból. Föl lehet tölteni befizetéssel, akár bitcoint — be lehet küldeni [Lightningon](https://inflacio.eu/mi-az-a-lightning-network/) is, vagy sima befizetéssel.
 
 Meg a Kraken-portfólióból is át lehet húzni ide; ezt úgy hívja, hogy *everyday*, tehát ez a napi költési számla. Át lehet küldeni akár eurót, akár bitcoint.
 
@@ -252,7 +252,7 @@ Egyébként nem kell félni ettől az adóbevallástól szerintem. Mert aki kép
 – Van olyan cég, aki erre árul fizetős Excel-táblát.
 
 – Tudom. Azzal biztos könnyebb egy fokkal, de én anélkül is meg tudtam csinálni. El kell olvasni a kis betűs részeket, meg ami hibára fut.
-– Vannak még hírek. A kedvenc Caduceus Zrt.-nk új partnerrel gazdagodott. A múltkor beszéltünk róla, hogy már van a Bitpanda. Egyébként a Kraken az nincs itt — ami két dolgot jelenthet: valószínűleg ezért jóval olcsóbb ott a Bitcoin-vásárlás, illetve a tranzakciós díj. Másrészt ebből is látszik, hogy olyan szinten irreális ez a magyar szabályozás, hogy igen komoly nagy cégek közül van, aki úgy döntött, hogy kivonul Magyarországról; van, aki meg úgy dönt, hogy ezzel nem foglalkozik.
+– Vannak még hírek. A kedvenc Caduceus Zrt.-nk új partnerrel gazdagodott. A múltkor beszéltünk róla, hogy már van a Bitpanda. Egyébként a Kraken az nincs itt — ami két dolgot jelenthet: valószínűleg ezért jóval olcsóbb ott a Bitcoin-vásárlás, illetve a [tranzakciós díj](https://inflacio.eu/mik-azok-a-bitcoin-dijak/). Másrészt ebből is látszik, hogy olyan szinten irreális ez a magyar szabályozás, hogy igen komoly nagy cégek közül van, aki úgy döntött, hogy kivonul Magyarországról; van, aki meg úgy dönt, hogy ezzel nem foglalkozik.
 
 A Kraken láthatóan nem foglalkozik ezzel.
 – Ha már a Krakenről beszéltünk: a Krakennek van normál számítógépes alkalmazása is — ami egyébként a Revolutnak nincs. Tehát mint kriptotőzsde, ebből a szempontból jobb, mint a Revolut.
@@ -323,7 +323,7 @@ Ezért jó a Bitcoin — ott ilyen probléma nincs.
 
 – Még valami most jut eszembe. Ezt lehet, hogy elé kéne vágnod — a befejezés elé.
 
-Ugye hogyha valaki a Krakenen vagy bármi más tőzsdén bitcoint vesz, akkor ott azért nincs vége a történetnek. Tehát hogyha nem azonnal elköltené, akkor azt nagyon érdemes kiutalni a tőzsdéről. Saját tárcába, saját privát kulcs alá.
+Ugye hogyha valaki a Krakenen vagy bármi más tőzsdén bitcoint vesz, akkor ott azért nincs vége a történetnek. Tehát hogyha nem azonnal elköltené, akkor azt nagyon érdemes kiutalni a tőzsdéről. Saját tárcába, saját [privát kulcs](https://inflacio.eu/mik-azok-a-titkos-es-nyilvanos-kulcsok/) alá.
 
 És általában ez szokott lenni az a momentum, amit elsőre magától senki nem tud megtenni. Nagyon félelmetes dolognak hangzik, meg nyilván lehet is benne hibázni.
 

@@ -36,7 +36,7 @@ Ez az időszak szokott lenni – 2026 és 2010, vagy 2022 és 2018 –, ahol az 
 
 – Ideje visszamenni dolgozni – vagy téli álomba vonulni. Décázásra jó lesz ez.
 
-– A téli álom közben kisebb a rezsi. (nevetés) De a bányász hashpower is csökkengetett október óta.
+– A téli álom közben kisebb a rezsi. (nevetés) De a [bányász](https://inflacio.eu/mi-az-a-bitcoin-banyaszat/) [hashpower](https://inflacio.eu/mi-az-a-hash-fuggveny/) is csökkengetett október óta.
 
 – Nézzünk olyat is, az is érdekes.
 
@@ -62,7 +62,7 @@ Forráshiány miatt veszélybe került a podcast működése. Ha értékeled az 
 
 – Ja, kösz. Akkor még nagyon jó, megnyugtató. Ez jó lesz ilyen kezdőmondatnak a videó legelejére.
 
-– Ott tartottam, hogy ezt az ide-oda súlyozgatást az ETF-ek meg a részvények között nem én találtam föl, hanem ez a klasszikus 60-40-es kötvény-részvény portfóliónak az adaptálása részemről. Ráadásul még a 60-40-et is megtartottam, csak őrült módon 60% Bitcoin és 40% részvény aránnyal. De ezt nem ajánlom senkinek, tehát ezt ne csináljátok otthon! Ez nem befektetési tanácsadás, mert ehhez kötélidegzet kell, ehhez easy ridernek kell lenni. De hát most, ha már egyébként a teljes portfóliómban a Bitcoin még ennél is nagyobb arányt képvisel, mert ez csak a TBSZ-es rész... ott egy kicsit még kevesebb is a Bitcoin, mint az egészben. Az egész fölött meg nagyrészt önrendelkezel, nem? Azt érdemes szerintem még hozzáfűzni, hogy ne értsék félre az arcok: az nem tőzsdén van.
+– Ott tartottam, hogy ezt az ide-oda súlyozgatást az [ETF](https://inflacio.eu/mi-az-a-bitcoin-etf/)-ek meg a részvények között nem én találtam föl, hanem ez a klasszikus 60-40-es kötvény-részvény portfóliónak az adaptálása részemről. Ráadásul még a 60-40-et is megtartottam, csak őrült módon 60% Bitcoin és 40% részvény aránnyal. De ezt nem ajánlom senkinek, tehát ezt ne csináljátok otthon! Ez nem befektetési tanácsadás, mert ehhez kötélidegzet kell, ehhez easy ridernek kell lenni. De hát most, ha már egyébként a teljes portfóliómban a Bitcoin még ennél is nagyobb arányt képvisel, mert ez csak a TBSZ-es rész... ott egy kicsit még kevesebb is a Bitcoin, mint az egészben. Az egész fölött meg nagyrészt [önrendelkezel](https://inflacio.eu/mi-az-az-onrendelkezes/), nem? Azt érdemes szerintem még hozzáfűzni, hogy ne értsék félre az arcok: az nem tőzsdén van.
 
 És akkor ezt a chartot kivégeztük, mert egyébként az most nincs is megosztva a technikai issue miatt. Nézzük a többit, és akkor maximum rövidebbek a témák. Meg akarsz ríkatni minket? Hát persze, saját farkába harapott már a kígyó. Tényleg? Igen, az visszatérő. Addig nincs vége a bear marketnek, amíg minden modell meg nem dől. Nem, ez a modell az a modell, amelyik nem dől meg. Hát jó, csak az a része, hogy még sose harapott a farkába... amióta itt mutogatom ezt a chartot, mindig szoktam emlegetni, hogy na majd meglátjuk, mi lesz 2026-ban. Remélem, mindenki emlékszik rá. Hát most megláttuk, hogy tényleg, tényleg nagyon piros. Ez vérgiliszta, piros csík. De hát ennek is vége lesz, mert ha ez eddig így volt, akkor ezen túl is így lesz. Maradjunk ennyiben.
 

@@ -126,7 +126,7 @@ Most egyébként az a küldetésem, hogy… felfedeztem, hogy a látásom egy ki
 
 – Maga ez a figyelemmegosztás, hogy már el se olvasol egy mondatot sem, mert annyira feldarabolódott az emberi figyelem…
 
-– A fiatvilág.
+– A [fiatvilág](https://inflacio.eu/a-penz-evolucioja-penzfajtak/).
 
 – Ja. És tényleg, ennek most lesz majd a kitörése. Csak nem tudom, hogy időben elér-e az üzenet azokhoz, akiket esetleg meg lehetne menteni.
 
@@ -186,7 +186,7 @@ Fantasztikus katarzis volt. Odajött a lány – egy feketeöves bitcoiner csajs
 
 Az volt a kérése Remunak, aki a főszervezője volt a BTC Hellnek, hogy ő egy olyan típusú merchöt szeretne, aminek az a felkiáltása, hogy *if you know, you know.* Ami azt jelenti, hogy nem szeretett volna hatalmas Bitcoin-jeleket látni, meg óriási, arcba tolós cuccokat – hanem: ha tudod, tudod.
 
-És akkor mi azt mondtuk, hogy a boating accident az egy kiváló eset erre. Ugye a boating accident mém azt fedi, hogy amikor jönnek és kérdezik, hogy hol rejtetted el a privát kulcsaidat, akkor azt mondod, hogy hát egy hajóbalesetben sajnos elvesztek a kulcsok. És akkor ezt szőttük tovább: hogy ott Cher Ladybird a kis katicabogarával ott áll a süllyedő hajó tetején.
+És akkor mi azt mondtuk, hogy a boating accident az egy kiváló eset erre. Ugye a boating accident mém azt fedi, hogy amikor jönnek és kérdezik, hogy hol rejtetted el a [privát kulcsaidat](https://inflacio.eu/mik-azok-a-titkos-es-nyilvanos-kulcsok/), akkor azt mondod, hogy hát egy hajóbalesetben sajnos elvesztek a kulcsok. És akkor ezt szőttük tovább: hogy ott Cher Ladybird a kis katicabogarával ott áll a süllyedő hajó tetején.
 
 Ez egy vicces sztori – mert az a tervünk, hogy ebből szeretnénk csinálni… annyira jól néz ki, meg úgy elment rajta az agyunk, hogy egy képregényszerűséget szeretnénk majd belőle készíteni, Cher hölgyemény kalandjaiból.
 
@@ -200,7 +200,7 @@ Ez egy vicces sztori – mert az a tervünk, hogy ebből szeretnénk csinálni�
 
 A Nostron egyébként elég jól megy a Pretties, és az is a tervünk, hogy a Nostr az magában egy e-commerce: nem kell, hogy legyen webshopod, nem kell, hogy legyen frontod.
 
-– Hát ott azonnal lehet vásárolni Lightning-fizetéssel.
+– Hát ott azonnal lehet vásárolni [Lightning](https://inflacio.eu/mi-az-a-lightning-network/)-fizetéssel.
 
 – Pontosan. És már megy a postára a cucc.
 
@@ -374,7 +374,7 @@ Csak szerettem volna elmondani, hogy mi történt – mert ugye akkora nagy hűh
 
 – Így van. Vagy a jelené, inkább úgy mondanám.
 
-– Lehet, hogy van olyan kütyü, ami bitcoint bányászik, miközben az akváriumban levegőztet is, meg temperálja az akvárium vizét. És közben halat vagy aranyat…
+– Lehet, hogy van olyan kütyü, ami bitcoint [bányászik](https://inflacio.eu/mi-az-a-bitcoin-banyaszat/), miközben az akváriumban levegőztet is, meg temperálja az akvárium vizét. És közben halat vagy aranyat…
 
 – …hány szatot csinált? (nevetés)
 

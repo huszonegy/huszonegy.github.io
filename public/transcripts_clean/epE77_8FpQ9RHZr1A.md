@@ -80,7 +80,7 @@ Aztán fogja a következő papírokat, és egy-egy asztal jelképez egy node-ot.
 
 Illetve van egy hálózati felelős, aki kap cérnákat, és akkor két-három másik asztalhoz így össze van kötve, és arra lehet átküldeni felakasztott üzeneteket, amik szintén tranzakciók. És így próbáljuk szimulálni a Bitcoin hálózat működését, nagyon manuális módon.
 
-Aztán van egy kis gép, amivel lehet bányászni, ami gyakorlatilag keresi azt a kis nonce-ot, ami beleillik a hashbe, ami aztán ki fogja adni azt a következő blokk-hasht – és ha az megfelel, tehát a nehézségnél kisebb szám, akkor az egy érvényes blokk lehet. És aztán lehet kommunikálni a blokkokat szintén ezeken a kapcsolatokon.
+Aztán van egy kis gép, amivel lehet bányászni, ami gyakorlatilag keresi azt a kis nonce-ot, ami beleillik a [hashbe](https://inflacio.eu/mi-az-a-hash-fuggveny/), ami aztán ki fogja adni azt a következő blokk-hasht – és ha az megfelel, tehát a nehézségnél kisebb szám, akkor az egy érvényes blokk lehet. És aztán lehet kommunikálni a blokkokat szintén ezeken a kapcsolatokon.
 
 És ugye el lehet gondolkozni azon, hogy milyen hatásai vannak annak, ha valaki egyszerre vagy közel egyszerre talál blokkokat. Vagy például mi van akkor, ha valaki nem akar bizonyos tranzakciókat belerakni a mempooljába, de mégis kap egy blokkot, amiben ezek a tranzakciók jelen vannak – akkor itt aztán eléggé megérezheti a saját bőrén, hogy mennyire lelassítja ez a dolog a hálózatot.
 
@@ -108,7 +108,7 @@ Illetve van két új dolog, ami szintén Bitcoinra épülő második réteg: az 
 
 – Fejlesztőként is bele fogok vonódni valószínűleg hamarosan.
 
-Ez arról szól – gyakorlatilag azt célozza meg –, hogy az embereknek ahhoz, hogy tranzaktáljanak, vagy akár a Lightning Networkön legyen egy saját csatornájuk, kell egy UTXO-t, egy elköltetlen tranzakciós kimenetet birtokolniuk. Aminek a mérete nem lehet végtelenül kicsi: jó, ha mondjuk legalább pár száz eurónak megfelelő Bitcoin-értéke van. Azért, mert amikor ezt küldözgeti az ember, a blockchainbe beíródva, akkor mindig tranzakciós díjakat kell fizetni – és egy idő után, ha ez egy nagyon kicsi dolog, akkor ez erodálódik és eltűnik. Tehát nem gazdaságos kicsi kimeneteket küldözgetni.
+Ez arról szól – gyakorlatilag azt célozza meg –, hogy az embereknek ahhoz, hogy tranzaktáljanak, vagy akár a Lightning Networkön legyen egy saját csatornájuk, kell egy [UTXO](https://inflacio.eu/mi-az-az-utxo/)-t, egy elköltetlen tranzakciós kimenetet birtokolniuk. Aminek a mérete nem lehet végtelenül kicsi: jó, ha mondjuk legalább pár száz eurónak megfelelő Bitcoin-értéke van. Azért, mert amikor ezt küldözgeti az ember, a [blockchainbe](https://inflacio.eu/mi-az-a-blokklanc/) beíródva, akkor mindig tranzakciós díjakat kell fizetni – és egy idő után, ha ez egy nagyon kicsi dolog, akkor ez erodálódik és eltűnik. Tehát nem gazdaságos kicsi kimeneteket küldözgetni.
 
 Ebből következik, hogy nem minden felhasználónak gazdaságos az, hogy legyen sajátja. És az Ark kifejezetten arra irányul, hogy egy ilyen tranzakciós kimenetnek a tulajdonlását több ember meg tudja osztani, és ebben a megosztott állapotban ingyen és gyorsan tudjanak egymásnak küldözgetni.
 
@@ -150,7 +150,7 @@ Annyi, hogy maga ez a szolgáltató még nem hivatalosan, nem publikusan volt je
 
 – A Sparkot most megnyitottad. Ha már itt tartunk, akkor talán érdemes ezt is megemlíteni.
 
-Ez is egy hasonló technológia abból a szempontból, hogy segít gyorsan és olcsón használni a bitcoint több embernek. Abból a szempontból más, hogy ez nem egy virtuális tranzakciós kimenet-fán alapul, hanem ez egy úgynevezett state chain. Ahol gyakorlatilag az emberek egy kettőből kettő aláíró privát kulcsot adnak egymásnak. A könnyű érthetőség kedvéért itt is fáknak hívják azt, ahol ezek a tranzakciók végbemennek – de kicsit máshogy működik.
+Ez is egy hasonló technológia abból a szempontból, hogy segít gyorsan és olcsón használni a bitcoint több embernek. Abból a szempontból más, hogy ez nem egy virtuális tranzakciós kimenet-fán alapul, hanem ez egy úgynevezett state chain. Ahol gyakorlatilag az emberek egy kettőből kettő aláíró [privát kulcsot](https://inflacio.eu/mik-azok-a-titkos-es-nyilvanos-kulcsok/) adnak egymásnak. A könnyű érthetőség kedvéért itt is fáknak hívják azt, ahol ezek a tranzakciók végbemennek – de kicsit máshogy működik.
 
 – Na, hogy megzavarjon bárkit. (nevetés)
 

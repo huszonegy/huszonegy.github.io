@@ -70,7 +70,7 @@ Itt látható ez a dokumentum, ami végre valahára legalább egy kis fényt gy�
 
 – Katának való, ő nem őrül meg tőle.
 
-– Hát ebből az derül ki — és akkor itt kezdődnek az újabb problémák, amikre eddig nem nagyon gondoltunk —, hogy ez a cég azt akarja csinálni, hogy ő a váltótól, vagy akár egy magánszemélytől is, aki kriptót akar váltani, kap egy forrás- és egy cél-blokklánccímet. Tehát mondjuk Bitcoin-címet, praktikusan a mi esetünkben.
+– Hát ebből az derül ki — és akkor itt kezdődnek az újabb problémák, amikre eddig nem nagyon gondoltunk —, hogy ez a cég azt akarja csinálni, hogy ő a váltótól, vagy akár egy magánszemélytől is, aki kriptót akar váltani, kap egy forrás- és egy cél-[blokklánccímet](https://inflacio.eu/mi-az-a-blokklanc/). Tehát mondjuk Bitcoin-címet, praktikusan a mi esetünkben.
 
 És akkor ez a cég egyszerűbb esetben egy óra alatt, bonyolultabb esetben 48 órán belül megpróbál erre egy háromfokozatú skálán mérhető minősítést adni. Ahol a három fokozat az, hogy: ez ilyen okés — kriptó ugyan, de okés, valahogy így van leírva. A következő fokozat, hogy figyelmet igényel. A legfölső fokozat meg az a minősített esete a kriptováltásnak, ami nagyon gyanús, nagyon-nagyon gyanús.
 
@@ -272,7 +272,7 @@ Viszont azt is kell tudni, hogy előtte, az előtte lévő év végén pedig ál
 
 – Ja, csak a téli álmot használta a Tamás. Ott meg a rezsiköltség csökken, mert a fűtésed is lemegy, mert kevesebbet kajálsz, amikor téli álmot alszol. (nevetés)
 
-– De ezzel együtt egyébként még a bányász hash power is csökkengetett azóta, október óta. Néztem.
+– De ezzel együtt egyébként még a bányász [hash](https://inflacio.eu/mi-az-a-hash-fuggveny/) power is csökkengetett azóta, október óta. Néztem.
 
 – Na, tényleg nézzünk olyat. Az is érdekes.
 
@@ -444,7 +444,7 @@ Na mindegy. Jó lesz. Vagy hát nem tudom, hogy jó lesz-e, ha ez majd kidurran.
 
 – El is fogja tőlük venni.
 
-– Kizárt, hogy nem. És akkor itt jön be a privacy feladata meg szerepe, és hogy miért van támadva. Hogy miért kell validálni a váltásodat, meg mindent KYC-zni, meg minden egyes UTXO-ról tudni akarják, hogy kinél van és kié.
+– Kizárt, hogy nem. És akkor itt jön be a privacy feladata meg szerepe, és hogy miért van támadva. Hogy miért kell validálni a váltásodat, meg mindent KYC-zni, meg minden egyes [UTXO](https://inflacio.eu/mi-az-az-utxo/)-ról tudni akarják, hogy kinél van és kié.
 
 – Jönnek a bitcoinért.
 
@@ -552,7 +552,7 @@ De aztán nagyon élelmes volt a YouTube-on néhány követőnk, meg olyanok, ak
 
 – Egyébként az jó lenne.
 
-– És a másik, a Kutsinak a kommentje, az meg egy technikaibb jellegű téma volt. Azt kérte, illetve ötletelte, hogy csináljunk olyan wallet-visszaállítást, hogy mondjuk egy Trezor walletnek a seed phrase-ét állítsuk vissza mondjuk egy Coldcardon, vagy egy mit tudom én, milyen másik hardveres walleten. Merthogy ő ezt még sose próbálta, és bár elméletben tudja, hogy ez működik, de szeretne megnyugodni, hogy ez valóban így van — hogyha mondjuk az ő Trezor walletje bedöglik, és addigra eltűnik a Trezor, és csak másfajta walleteket lehet kapni, akkor ez majd a jövőben tényleg működni fog.
+– És a másik, a Kutsinak a kommentje, az meg egy technikaibb jellegű téma volt. Azt kérte, illetve ötletelte, hogy csináljunk olyan wallet-visszaállítást, hogy mondjuk egy Trezor walletnek a [seed phrase](https://inflacio.eu/mi-az-a-seed-phrase/)-ét állítsuk vissza mondjuk egy Coldcardon, vagy egy mit tudom én, milyen másik hardveres walleten. Merthogy ő ezt még sose próbálta, és bár elméletben tudja, hogy ez működik, de szeretne megnyugodni, hogy ez valóban így van — hogyha mondjuk az ő Trezor walletje bedöglik, és addigra eltűnik a Trezor, és csak másfajta walleteket lehet kapni, akkor ez majd a jövőben tényleg működni fog.
 
 – Ja, ez jó.
 

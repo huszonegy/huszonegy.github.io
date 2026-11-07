@@ -63,7 +63,7 @@ Körülbelül hat éve találkoztam ezzel, és próbáltam rájönni, hogy akkor
 
 – Nyilván itt tömörítesz, mert kell. Nehéz ezt úgy átadni, hogy most elmondjuk szavakban — meg sokszor mi is visszahívjuk, hogy nem lehet erről eleget beszélni (nevetés), mert annyi árnyalata van.
 
-És tökre jó, hogy te is így látod: hogy az ember hogy épül fel, hogy gyerekként mi az, amit magába szív. És amikor itt van ez a véges idő, amiről nem is tudjuk, hogy mennyire véges — mert a bitcoinnál legalább tudjuk, hogy 21 millió van maximum, de az időnknél nem tudjuk, hogy mennyi van. És hogy meddig tart, és hogy azalatt mit tanuljunk meg, mire jöjjünk rá, és mit adjunk át a gyerekeknek.
+És tökre jó, hogy te is így látod: hogy az ember hogy épül fel, hogy gyerekként mi az, amit magába szív. És amikor itt van ez a véges idő, amiről nem is tudjuk, hogy mennyire véges — mert a bitcoinnál legalább tudjuk, hogy [21 millió](https://inflacio.eu/hany-bitcoin-van/) van maximum, de az időnknél nem tudjuk, hogy mennyi van. És hogy meddig tart, és hogy azalatt mit tanuljunk meg, mire jöjjünk rá, és mit adjunk át a gyerekeknek.
 
 És az első, ami szembejön szerintem az ember életében, amikor gyereke lesz, és rájön, hogy jé: ez a kicsi test, akit itt fogok a kezemben — az a fontos. Ő az első, és utána jövünk mi. Tehát addig éltél, utána meg már feladatod van. Addig lehettél önző, mert magaddal foglalkoztál — de utána már nem lehet. És ez szintén bottom-up, hiszen a legaljáról kell felépítenünk az életet.
 
@@ -130,7 +130,7 @@ Ugye Lőrinccel beszélgettetek az előző podcastban arról, hogy az életünk 
 
 Ahogy mondtad az előbb: az összefogás egy nagyon fontos gesztus. Itt ez az összefogás számomra most a kulcsmondat ebben a morális kapitalizmusban: hogy hogyan tudunk úgy transzparensen felvállalni minőségeket önmagunkból, hogy az tulajdonképpen a hiányt váltsa át bőséggé vagy értékké. Nem tudom, hogy ez így nagyon nagy csavar-e, amit mondok.
 
-– Bocsánat, csak azért néztem hátra, mert itt van egy könyv. Ioni Appelberg írta, és pont erről szól: hogy a szűkösség hozza el a bőséget. *Abundance Through Scarcity*, talán ez a címe. Ugyanerről van szó benne, és ez nagyon szépen kapcsolható a bitcoinhoz.
+– Bocsánat, csak azért néztem hátra, mert itt van egy könyv. Ioni Appelberg írta, és pont erről szól: hogy a [szűkösség](https://inflacio.eu/mitol-er-a-bitcoin-barmennyit-is/) hozza el a bőséget. *Abundance Through Scarcity*, talán ez a címe. Ugyanerről van szó benne, és ez nagyon szépen kapcsolható a bitcoinhoz.
 
 És a felismerés — nyilván amikor az ember a Bitcoin tanulmányozása során gondolkodik az élet dolgairól, akkor szöget üt a fejébe, hogy hé, valamit lehet ezzel még csinálni. Kapcsolgassuk szépen újra a rendszereket, építsük ki. Matematikai alapra helyezzünk mindent, mert ugye az jól működik, leírja a körülöttünk lévő világot. Sokszor meg tudunk jósolni dolgokat, eseményeket is a matematika által — ugye a csillagászat is ilyen tudományág: várunk valamit, megvan hozzá a képletünk, és akkor jé, ott van. Ez a részecskefizikában is így van.
 
@@ -142,7 +142,7 @@ Csak nem tudom… én mindig olyan nagy léptékekben haladok, és nekem nehéz 
 
 Ezt ismerem, mert én is ledaráltam magam élve az elmúlt pár évben — úgyhogy a halálból hozott vissza egy orvos barátnőm, aki látta, hogy miben vagyok.
 
-Úgyhogy mint megoldási kulcsot ebből azt tudtam kibányászni, hogy egyrészt megspórolhatatlan, hogy a mi generációnk ezeken a dolgokon keresztülmenjen — és hogy erről beszélni kell. Mert a következő generációnak ez egy olyan tapasztalati alapot ad, ami már egy egészen más viszonyuláshoz juttatja őket a kihívásokkal kapcsolatban.
+Úgyhogy mint megoldási kulcsot ebből azt tudtam ki[bányászni](https://inflacio.eu/mi-az-a-bitcoin-banyaszat/), hogy egyrészt megspórolhatatlan, hogy a mi generációnk ezeken a dolgokon keresztülmenjen — és hogy erről beszélni kell. Mert a következő generációnak ez egy olyan tapasztalati alapot ad, ami már egy egészen más viszonyuláshoz juttatja őket a kihívásokkal kapcsolatban.
 
 Tehát mondjuk a mi szüleink generációja: ők egy nagyon-nagyon komoly szűkösségben éltek, és nem szabadott érezni, nem szabadott gondolkodni — mert ott a világháború utáni állapotokat kellett fizikailag is újjáépíteni. De most, hogy már ezek a fizikai alapok itt vannak, és ugye a kapitalizmus immorális kapitalizmus formáját öltötte, és a túlfogyasztásról szólt, az anyagi teremtésről kezdett minden szólni — most itt muszáj ezt a féket behúzni.
 
@@ -159,7 +159,7 @@ Régen volt egy elméletem, hogy a háború ezen a síkon úgy zajlik, hogy az e
 
 Mert ugye most tök jó, hogy itt a Bitcoin, örülünk neki, próbáljuk átadni az üzenetét — de bevallom, hogy én azért jöttem a bitcoinba, mert ment fölfelé a szám. Tehát profit reményében jönnek sokan. És amikor megérted, akkor rájössz, hogy hú, ez egy sokkal nagyobb rendszer, fenekestől felforgat mindent, és helyére tudja tenni a világot. De elsődlegesen ezzel nem tudsz megérkezni.
 
-Szerintem nagyon kevesen vannak, akik úgy jönnek, hogy látják a problémát, és egyből arra mennek. Tehát irányítás, guidance nélkül ezt nem lehet megoldani. És szerintem a mai világban ez teljesen kiveszett. Régen azért volt kapcsolat: a nagyszülők többet foglalkoztak a gyerekekkel, vagy akár a szülők. Manapság meg ez nincs — mert a fiat világ elhozta nekünk azt, hogy mindenki dolgozik, mert akkor jó sok az adófizető; a gyerekeket meg felneveli az állam, akiből olyat csinál, amilyen neki jó.
+Szerintem nagyon kevesen vannak, akik úgy jönnek, hogy látják a problémát, és egyből arra mennek. Tehát irányítás, guidance nélkül ezt nem lehet megoldani. És szerintem a mai világban ez teljesen kiveszett. Régen azért volt kapcsolat: a nagyszülők többet foglalkoztak a gyerekekkel, vagy akár a szülők. Manapság meg ez nincs — mert a [fiat](https://inflacio.eu/a-penz-evolucioja-penzfajtak/) világ elhozta nekünk azt, hogy mindenki dolgozik, mert akkor jó sok az adófizető; a gyerekeket meg felneveli az állam, akiből olyat csinál, amilyen neki jó.
 
 Tehát akkor a közösségépítést te hol kezded most?
 

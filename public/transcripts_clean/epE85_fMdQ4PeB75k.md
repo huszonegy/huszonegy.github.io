@@ -26,7 +26,7 @@ Sziasztok, üdvözlünk titeket! Ez itt a legújabb epizódja a HUSZONEGY Bitcoi
 
 – Lényegében mindig is egy ilyen megtakarítós, spórolós emberke voltam, a céljaimra mindig félreraktam. De a Covid alatti inflációs hullámnál — pont amikor megszületett a kislányom — akkor vettem észre, hogy igazából hónapról hónapra ég el az a megtakarított összeg, amit összespóroltunk az életünk során. És gyakorlatilag egy-két év alatt elinflálták az 50-60%-át, alsó hangon.
 
-Akkor döntöttem el, hogy ezzel valamit kezdeni kell, és elkezdtem a pénzügyekbe beleásni magam. Először nyilván részvények, ETF-ek ilyen témába mentem bele. Egy-két hónapig csináltam az egyedi részvényválogatást; aztán amint egyre jobban beleástam magam, ráeszméltem, hogy igazából az emberek 90%-a nem fogja tudni kiválasztani hosszú távon, hogy most éppen melyik az a részvény, ami majd jó lesz.
+Akkor döntöttem el, hogy ezzel valamit kezdeni kell, és elkezdtem a pénzügyekbe beleásni magam. Először nyilván részvények, [ETF](https://inflacio.eu/mi-az-a-bitcoin-etf/)-ek ilyen témába mentem bele. Egy-két hónapig csináltam az egyedi részvényválogatást; aztán amint egyre jobban beleástam magam, ráeszméltem, hogy igazából az emberek 90%-a nem fogja tudni kiválasztani hosszú távon, hogy most éppen melyik az a részvény, ami majd jó lesz.
 
 Akkor jöttek be az ETF-ek — mindenki ezt mondta a podcastokban, videókban, hogy tudod, 100 évre visszamenőleg ez milyen jó. És persze én is utánamentem, néztem: jó, oké, legyen ez. Csináltam körülbelül két éven keresztül.
 
@@ -125,7 +125,7 @@ Közben jegybankárnak — hátha sikerül. (nevetés)
 
 Akkor elkezdtem; az elején egy-két darabot csináltam, bedobtam a HUSZONEGY csoportba, egy-két ember érdeklődött is, csináltam nekik. És ők mondták, hogy min lehetne még javítani rajta, esetleg mit hozzátenni — és akkor azokat a kis módosításokat megcsináltam.
 
-– Tulajdonképpen ez egy acéllap, nem? Ami a seed mentésére való.
+– Tulajdonképpen ez egy acéllap, nem? Ami a [seed](https://inflacio.eu/mi-az-a-seed-phrase/) mentésére való.
 
 – Igen. Ez egy titániumötvözet. 30 x 45 mm x 4 mm. Gyakorlatilag úgy kell elképzelni — nem tudom, majd bevágjátok képbe.
 
@@ -281,7 +281,7 @@ Jó, nyilván megvan az, amikor rizikós lehet: hogyha nagyon nagyot esik, és a
 
 – Te is ilyen napi szinten DCA-zol, gondolom? Vagy heti?
 
-– A Strike-ot használom rá.
+– A [Strike](https://inflacio.eu/mi-az-a-strike/)-ot használom rá.
 
 – Az bevált módszer.
 
@@ -361,7 +361,7 @@ Nyilván nem lehet teljesen átlátni, mert azért az egy elég kesze-kusza dolo
 
 – Viszonylag hamar. De annak néztem inkább utána, hogy hol van a buktatója ennek. Hogy valaminek lennie kell — mert mindig van valami kiskapu, valami, amivel ráhúzzák az emberre a vizes lepedőt.
 
-És azt megérteni, hogy tényleg, hogy mi az, hogy decentralizáltság, és hogy tud ez úgy működni, hogy senki nem tudja cenzúrázni. Hogy hiába tiltják be egy országban, miért fog átmenni akár a bányászat egy másik országba, vagy miért fognak az emberek node-ot futtatni. És ezt elfogadni, hogy tényleg, hogy ez működhet.
+És azt megérteni, hogy tényleg, hogy mi az, hogy decentralizáltság, és hogy tud ez úgy működni, hogy senki nem tudja cenzúrázni. Hogy hiába tiltják be egy országban, miért fog átmenni akár a [bányászat](https://inflacio.eu/mi-az-a-bitcoin-banyaszat/) egy másik országba, vagy miért fognak az emberek node-ot futtatni. És ezt elfogadni, hogy tényleg, hogy ez működhet.
 
 Az elején, amikor a feleségemmel beszélgettünk erről — nagyon sokáig beszélgettünk róla —, hát egy ilyen fél év volt, amíg mindig mondtam neki, és meg is értette, és tényleg végül is van benne ráció, amit én mondok. De nála is például egy fél év után jött el, hogy amikor hazafelé jött a munkából, ő is hallgatott egy bitcoinnal kapcsolatos podcastet. És akkor hazajött, és este beszélgettünk róla, és mondta, hogy „várj, várjál — most ez akkor tényleg így működik? Ez tényleg így van?" És akkor láttam rajta, hogy na, most esett le.
 

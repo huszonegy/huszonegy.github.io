@@ -92,7 +92,7 @@ Eddig ugye egy évre kezdtük ezt az egészet, és ez a harmadik alkalom volt. M
 
 – Nincs más út.
 
-– A fiat vonat.
+– A [fiat](https://inflacio.eu/a-penz-evolucioja-penzfajtak/) vonat.
 
 – Még egy dolog eszembe jutott: hogy mennyire látod úgy, hogy elérte ez a konferencia azt a közeget, akinek szól. Nyilván egy csomó ember nem tudott eljönni.
 
@@ -252,7 +252,7 @@ Voltak páran például a FIRE közösségből. Ugye ez egy befektetői csoport,
 
 A helyi miskolci közösségből is volt egy hölgy. Többen nem tudtak eljönni. Volt, aki azt írta a csoportban, hogy őt nem érintette meg a Bitcoin előzetesen, úgyhogy ő el se jön.
 
-Mindenkinek eljön az ideje szerintem, amikor úgy gondolja, hogy kell egy olyan eszköz, ami államoktól és vállalatoktól független – mert ezt csak a Bitcoin tudja adni. Meg úgy gondolom, az arany sem: mert rengeteg embernek van aranya ETF-ben, aranylapkával, amit nem tud igazából használni, és azt se tudja, hogy arany-e vagy nem.
+Mindenkinek eljön az ideje szerintem, amikor úgy gondolja, hogy kell egy olyan eszköz, ami államoktól és vállalatoktól független – mert ezt csak a Bitcoin tudja adni. Meg úgy gondolom, az [arany](https://inflacio.eu/arany/) sem: mert rengeteg embernek van aranya [ETF](https://inflacio.eu/mi-az-a-bitcoin-etf/)-ben, aranylapkával, amit nem tud igazából használni, és azt se tudja, hogy arany-e vagy nem.
 
 A Bitcoinnak viszont nagyon erős használati értéke van. És ez szerintem egy kulcsmondat is volt, amit mostanában szoktam mondogatni: a Bitcoin nem azért értékes, mert felment az ára, vagy hogy 110 000 dollár – hanem azért, mert amilyen tulajdonságai vannak, amilyen a hálózat, amilyen emberek keresik ezt, amilyen az adaptációja: annyira értékes.
 
@@ -298,7 +298,7 @@ A vállalkozóknál meg minimum egy jó tőzsdei eszköz, ami nagyon érdekes, n
 
 Tehát ez a felkészülési időszak szerintem a következő öt év, 2030-ig. És 2035-nél már biztos vagyok benne, hogy aktív kérdés lesz az, hogy valaki elfogad-e bitcoint. Az már egy fontos dolog lesz egy lakás-adásvételnél biztosan, mert ugye az is egy jelentős vagyoni eszköz. Nyilván valaki nem a sarki fűszeresnél akar majd bitcoinnal vásárolni – hanem a tartós cikkeknek a vásárlása lesz a jellemző.
 
-– Igen. És egészen valószínű, hogy addig azért még lesz elég nagy inflációja a forintnak meg az eurónak.
+– Igen. És egészen valószínű, hogy addig azért még lesz elég nagy [inflációja](https://inflacio.eu/inflacio-jelentese/) a forintnak meg az eurónak.
 
 – Hát konkrétan háromszoros szerintem. Ugye a 10% nem nagyon fog változni, ha csak nem gyorsulni fog az ütem. Tehát tíz év alatt két és félszeresére, háromszorosára fognak nőni az árak.
 

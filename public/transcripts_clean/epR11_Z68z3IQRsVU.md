@@ -1,4 +1,4 @@
-– Az emberek úgy vannak ezzel, hogyha meghallják, hogy Bitcoin, akkor két dolog lehet. Az egyik reakció: hogy te bányászol, vagy mit csinálsz ezzel? A másik pedig az, hogy ez túl bonyolult, nekem fogalmam sincs, miről beszélsz — és kábé leintik. Ezeket a ködöket el kell oszlatni.
+– Az emberek úgy vannak ezzel, hogyha meghallják, hogy Bitcoin, akkor két dolog lehet. Az egyik reakció: hogy te [bányászol](https://inflacio.eu/mi-az-a-bitcoin-banyaszat/), vagy mit csinálsz ezzel? A másik pedig az, hogy ez túl bonyolult, nekem fogalmam sincs, miről beszélsz — és kábé leintik. Ezeket a ködöket el kell oszlatni.
 
 ---
 
@@ -104,15 +104,15 @@ Majd betiltják? Már betiltották többször — de a Bitcoint technikailag leh
 
 ---
 
-– Akik most aranyba fektettek, mert azt gondolták, hogy meglovagolják ezt az egész hype-ot… Megvenni borzasztóan könnyű az aranyat: hiszel egy vállalkozásnak, hogy aranyat fog neked szállítani, van egy szállítási költség, kifizeted, és tartod több évig. De amikor el akarod adni, akkor neked kell bizonyítanod, hogy az valódi. Egy papírban senki nem fog hinni — mindenki meg fogja vizsgálni, és általában egy mínusz 30%-kal kell számolni.
+– Akik most aranyba fektettek, mert azt gondolták, hogy meglovagolják ezt az egész hype-ot… Megvenni borzasztóan könnyű az [aranyat](https://inflacio.eu/arany/): hiszel egy vállalkozásnak, hogy aranyat fog neked szállítani, van egy szállítási költség, kifizeted, és tartod több évig. De amikor el akarod adni, akkor neked kell bizonyítanod, hogy az valódi. Egy papírban senki nem fog hinni — mindenki meg fogja vizsgálni, és általában egy mínusz 30%-kal kell számolni.
 
-Az aranyat nem tudod elvinni magaddal, nem tudsz digitálisan tranzaktálni vele, és meg kell tudni védeni. A Bitcoin self-custodyja viszont már kiforrott technológia. És a Bitcoin a világ leglikvidebb eszköze: bárhol a világon elfogadják, bármilyen mennyiségben, bármilyen határon átviszed, és akkor használod fel, amikor akarod. Egy aranyat nem fogsz tudni eladni a hétvégén, ha gyorsan pénzre van szükséged. Akkor sem a bank nem megoldás — mert onnan sokszor nem engedik ki a pénzedet —, sem az arany. A Bitcoin az lehet.
+Az aranyat nem tudod elvinni magaddal, nem tudsz digitálisan tranzaktálni vele, és meg kell tudni védeni. A Bitcoin [self-custody](https://inflacio.eu/mi-az-az-onrendelkezes/)ja viszont már kiforrott technológia. És a Bitcoin a világ leglikvidebb eszköze: bárhol a világon elfogadják, bármilyen mennyiségben, bármilyen határon átviszed, és akkor használod fel, amikor akarod. Egy aranyat nem fogsz tudni eladni a hétvégén, ha gyorsan pénzre van szükséged. Akkor sem a bank nem megoldás — mert onnan sokszor nem engedik ki a pénzedet —, sem az arany. A Bitcoin az lehet.
 
 ---
 
 – Nem lehet elvitatni az aranytól a több ezer éves múltat. Viszont azt sem lehet elvitatni, hogy nem ellenőrizhető eszköz. Amikor aranykészletekről beszélünk, valójában senki nem tudja, mennyi van a Fort Knoxban, mennyi van a JP Morgan széfjeiben. És az arany árába az aranyértékpapírokat is beleszámolják, amik elképesztő módon fel vannak fújva: a legpozitívabb becslések szerint is kilencszer annyi értékpapír van kint, mint amennyi arany.
 
-Ha pedig privát úton veszel egy befektetési aranydarabot, az nehezen ellenőrizhető — lehet, hogy 10-20 év múlva, amikor el akarod adni, kiderül, hogy csak egy arannyal bevont ólomdarabot vettél. Ezért a több ezer éves tradíció nem jelent előnyt számomra a bitcoinnal szemben, ami teljes mértékben ellenőrizhető. Pontosan tudod, mennyi van belőle és mennyi lesz: 21 milliónál soha nem lesz több. Ha rendelkezel egy bitcoinnal, akkor rendelkezel egy bitcoinnal — egy bitcoin az mindig egy bitcoin.
+Ha pedig privát úton veszel egy befektetési aranydarabot, az nehezen ellenőrizhető — lehet, hogy 10-20 év múlva, amikor el akarod adni, kiderül, hogy csak egy arannyal bevont ólomdarabot vettél. Ezért a több ezer éves tradíció nem jelent előnyt számomra a bitcoinnal szemben, ami teljes mértékben ellenőrizhető. Pontosan tudod, mennyi van belőle és mennyi lesz: [21 milliónál](https://inflacio.eu/hany-bitcoin-van/) soha nem lesz több. Ha rendelkezel egy bitcoinnal, akkor rendelkezel egy bitcoinnal — egy bitcoin az mindig egy bitcoin.
 
 ---
 

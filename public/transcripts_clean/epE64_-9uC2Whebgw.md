@@ -149,7 +149,7 @@ egy ilyen pipát — ezt sokan láttátok már, gondolom. Illetve visszaszól a 
 
 – Szerintem érthető.
 
-– És ahhoz, hogy csatornád legyen, ahhoz mondjuk ha nyitsz egy csatornát, ott bele kell tenni egy csomó bitcoint. Például hogyha közvetlen csatornát akarsz nyitni a Blink wallethez, amire van lehetőség, mert nekem van ilyen — abba 0,1 bitcoint bele kell tenni, és akkor az ott van lekötve, ráadásul azzal a kockázattal, hogy annak a privát kulcsa ott van egy szerveren. Tehát azt a szervert okosan kell üzemeltetni. És akkor még mindig csak kimenő likviditásod van, akkor még meg kell oldani valahogy, hogy — nem tudom — menjenek kifelé előbb fizetések, és akkor utána tudnak visszafelé jönni, ahogy a Lightning működik. Illetve lehet olyat is csinálni, hogy vannak ilyen szolgáltatások, hogy valakinek fizetsz valamennyi bitcoint, nem olyan sokat, mert tranzakciós díjakat meg még valamit, és akkor ő nyit hozzád egy csatornát mondjuk néhány hónapra, és akkor azon keresztül tudnak bejönni a fizetések.
+– És ahhoz, hogy csatornád legyen, ahhoz mondjuk ha nyitsz egy csatornát, ott bele kell tenni egy csomó bitcoint. Például hogyha közvetlen csatornát akarsz nyitni a Blink wallethez, amire van lehetőség, mert nekem van ilyen — abba 0,1 bitcoint bele kell tenni, és akkor az ott van lekötve, ráadásul azzal a kockázattal, hogy annak a [privát kulcsa](https://inflacio.eu/mik-azok-a-titkos-es-nyilvanos-kulcsok/) ott van egy szerveren. Tehát azt a szervert okosan kell üzemeltetni. És akkor még mindig csak kimenő likviditásod van, akkor még meg kell oldani valahogy, hogy — nem tudom — menjenek kifelé előbb fizetések, és akkor utána tudnak visszafelé jönni, ahogy a Lightning működik. Illetve lehet olyat is csinálni, hogy vannak ilyen szolgáltatások, hogy valakinek fizetsz valamennyi bitcoint, nem olyan sokat, mert tranzakciós díjakat meg még valamit, és akkor ő nyit hozzád egy csatornát mondjuk néhány hónapra, és akkor azon keresztül tudnak bejönni a fizetések.
 
 De most már elcsapongtunk egy kicsit itt a Lightning Network rejtelmeibe, de hát valakit az is érdekel. Tehát ezt az egész bonyodalmat elkerülendő én ezt szoktam javasolni mindenkinek, hogy használjon Strike-ot.
 
@@ -436,7 +436,7 @@ Meg hát ez a jövő ugye, inkább mindenhol csak azt hallani, hogy ilyen cégek
 
 – Aha.
 
-– Amit ha én leolvastam, akkor megadhattam, hogy mennyit fogok küldeni. Onchain utalás volt. Úgyhogy a végén kérdeztem, hogy akkor most megvárjuk, amíg ez bekerül a blockchainre? És akkor mondták, hogy á, nem, ez biztos meg fog jönni, azt mondta a főnök, hogy meg szokott jönni. De aztán mentem én meg vissza, és akkor mondták, hogy minden oké volt. De majd szerintem megkeresem őket, legalábbis a főnököt, hogy érdemes átállni egy profi módszerre és Lightningon fogadni, és lehet, hogy még nem is hallott róla.
+– Amit ha én leolvastam, akkor megadhattam, hogy mennyit fogok küldeni. Onchain utalás volt. Úgyhogy a végén kérdeztem, hogy akkor most megvárjuk, amíg ez bekerül a [blockchainre](https://inflacio.eu/mi-az-a-blokklanc/)? És akkor mondták, hogy á, nem, ez biztos meg fog jönni, azt mondta a főnök, hogy meg szokott jönni. De aztán mentem én meg vissza, és akkor mondták, hogy minden oké volt. De majd szerintem megkeresem őket, legalábbis a főnököt, hogy érdemes átállni egy profi módszerre és Lightningon fogadni, és lehet, hogy még nem is hallott róla.
 
 – Hát lehet, de tök jó, hogy legalább így sikerült. Egyébként aki twitterezik vagy X-ezik, ott mostanában nagyon megy, hogy Svájcban van egy SPAR áruház, ahol elfogadnak bitcoint, és ott is kiderült az egyik ilyen leírásból, hogy pont így csinálják, ahogy te is mondtad.
 
@@ -597,7 +597,7 @@ Na, papírbitcoinról nézzük. Többféle ilyen becslés is van, itt ez a két 
 
 – Ühüm. Na hát az már azért elég durva. Arra becsülik.
 
-– Annyira becsülik. Tehát hogyha most a kibányászott mennyiség mennyi, 19 pont valamennyi — néztem a chartot.
+– Annyira becsülik. Tehát hogyha most a ki[bányászott](https://inflacio.eu/mi-az-a-bitcoin-banyaszat/) mennyiség mennyi, 19 pont valamennyi — néztem a chartot.
 
 – Igen, akörül van ugye.
 
@@ -684,7 +684,7 @@ De akkora botrány lett ebből az egészből — és tényleg ilyen személyeske
 
 – Ühüm.
 
-– …hanem gyakorlatilag csak a fejlécét meg a benne lévő tranzakcióknak az azonosítóit, ami sokkal kevesebb adat. És abból minden node össze tudja rakni a saját mempooljából — mert onnan már benne vannak a tranzakciók —, össze tudja rakni ugyanazt a blokkot, és aztán ellenőrzi a hashével, hogy tényleg sikerült neki. Legfeljebb hogyha valami tranzakció hiányzik, akkor azt az egy pár tranzakciót kell csak letölteni.
+– …hanem gyakorlatilag csak a fejlécét meg a benne lévő tranzakcióknak az azonosítóit, ami sokkal kevesebb adat. És abból minden node össze tudja rakni a saját mempooljából — mert onnan már benne vannak a tranzakciók —, össze tudja rakni ugyanazt a blokkot, és aztán ellenőrzi a [hashével](https://inflacio.eu/mi-az-a-hash-fuggveny/), hogy tényleg sikerült neki. Legfeljebb hogyha valami tranzakció hiányzik, akkor azt az egy pár tranzakciót kell csak letölteni.
 
 Most ugye hogyha kifiltereznek mindenféle tranzakciókat a node-ok, és egyre több tranzakciót filtereznek ki, akkor az egyre nagyobb hálózati forgalommal jár ezeknek a blokkoknak az összeszedése. Ez egy apró optimalizálási kérdés egyébként, ez se drámai kérdés, de ez is járt a fejében a fejlesztőknek, amikor azt mondták, hogy akkor vegyük ki ezt a filtert. Most egyelőre nem lesz kivéve.
 

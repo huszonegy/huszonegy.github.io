@@ -36,7 +36,7 @@ Mert tudom, hogy az elmúlt egy évben mindenki aranylázban őrjöngött és ü
 
 És hogyha eltekintünk a mindenkori csúcstól (nevetés), és megnézzük a mostani árfolyamot, ami azt hiszem, 70 000 dollár körül van — nem követem napi szinten, de talán itt tart körülbelül —, akkor a Bitcoin esetében egy 70x-ről beszélünk, az arany esetében pedig egy 5x-ről. Szóval számomra ez az aranyláz még mindig egy kicsit megalapozatlan.
 
-– Hát igen. Az viszont ugye a makroelemzők meg a közgazdászok mindig azt mondják, hogy az aranynak sokkal nagyobb a piaca, sokkal nagyobb piaci kapitalizációt állított maga mellé. Nyilván tudjuk, hogy ezt hogyan számolják — hiszen ez sima szorzás, unciákban, a kitermelt arany összességére nézve. És az inflációt is beemelhetjük egyébként: ugye az aranynak van egy ilyen dinamikusan változó inflációja, attól függ, hogy éppen az aranybányászok hogyan vannak motiválva a világpiaci árral, aszerint növelik a teljesítményüket. Ugye ezt a Bitcoinnál nem lehet.
+– Hát igen. Az viszont ugye a makroelemzők meg a közgazdászok mindig azt mondják, hogy az aranynak sokkal nagyobb a piaca, sokkal nagyobb piaci kapitalizációt állított maga mellé. Nyilván tudjuk, hogy ezt hogyan számolják — hiszen ez sima szorzás, unciákban, a kitermelt arany összességére nézve. És az inflációt is beemelhetjük egyébként: ugye az aranynak van egy ilyen dinamikusan változó inflációja, attól függ, hogy éppen az arany[bányászok](https://inflacio.eu/mi-az-a-bitcoin-banyaszat/) hogyan vannak motiválva a világpiaci árral, aszerint növelik a teljesítményüket. Ugye ezt a Bitcoinnál nem lehet.
 
 – Nem lehet elvitatni az aranytól a több ezer éves múltat. Viszont azt sem lehet tőle elvitatni, hogy nem ellenőrizhető eszköz. Tehát amikor aranykészletekről beszélünk, akkor valójában senki nem tudja, hogy mennyi van a Fort Knoxban, mennyi van a JP Morgannek a raktáraiban vagy a széfjeiben, ahol tárolják ezeket az eszközöket.
 
@@ -44,7 +44,7 @@ Mert tudom, hogy az elmúlt egy évben mindenki aranylázban őrjöngött és ü
 
 Akkor még nem is beszéltem arról, hogyha te veszel privát úton egy befektetési aranydarabot, akkor az mennyire nehezen ellenőrizhető. Oda kell figyelni, hogy honnan vásárolod, kitől, csak megbízható kereskedőtől — mert alapvetően majd amikor, lehet, hogy 10-20 év múlva el akarod adni, és kiderül, hogy te igazából csak egy arannyal bevont ólomdarabot vettél, vagy másfajta fémet — hát az mennyire kellemetlen tud lenni.
 
-Ezek azok a pontok, amiért a több ezer éves tradíció nem jelent előnyt számomra a bitcoinnal szemben, ami teljes mértékben ellenőrizhető. Pontosan tudod, hogy mennyi van belőle, és mennyi lesz belőle. 21 milliónál soha nem lesz több, ugye mindenki tudja. Az ellenőrizhetősége meg pláne elképesztően egyszerű. És hogyha rendelkezel egy bitcoinnal, akkor rendelkezel egy bitcoinnal — egy bitcoin az mindig egy bitcoin.
+Ezek azok a pontok, amiért a több ezer éves tradíció nem jelent előnyt számomra a bitcoinnal szemben, ami teljes mértékben ellenőrizhető. Pontosan tudod, hogy mennyi van belőle, és mennyi lesz belőle. [21 milliónál](https://inflacio.eu/hany-bitcoin-van/) soha nem lesz több, ugye mindenki tudja. Az ellenőrizhetősége meg pláne elképesztően egyszerű. És hogyha rendelkezel egy bitcoinnal, akkor rendelkezel egy bitcoinnal — egy bitcoin az mindig egy bitcoin.
 
 – Igen. Ez az örök téma, amiről volt még egy kommentünk, és ez egy nagyon nagy igazság: hogy gyakran összekeverik az emberek a Bitcoin árát a Bitcoin értékével. Erről az előző adásban szerintem nem beszéltünk eleget. Hogy a Bitcoin még mindig ezen az ár-discovery, az árfelfedezés területén van — mert az ár nem tükrözi az értékét.
 
@@ -157,7 +157,7 @@ A Bitcoin az egy game changer. A Bitcoin az nem egy Otto-motor-technológia, az 
 
 – Lekésheted-e a pénzt? Lehet, hogy a növekmény legdinamikusabb szakaszát lekéste valaki. De nem tudom, hogy a könyvedben taglalod-e, hogy mennyire volt igazságos az elosztása. Ezen is lehet vitatkozni, hogy nyilván aki nem tudott angolul, azt nehezebben érte el, ugye. De ezért is nagyon jók szerintem a magyar nyelvű tartalmak, cikkek, könyvek meg műsorok.
 
-Ugye a felezés kapcsán: az 50 bitcoinos blokkjutalommal indult a rendszer 2009-ben, minden érvényes blokkért járt 50 bitcoin. És pont ez a felezés garantálja a 21 milliós számot is — ami valójában 20 999 és valahány. Tehát addig feleződik, amíg a legkisebb egység már nem tovább felezhető; ez 2140 körül fog bekövetkezni. Merthogy aztán az 50 bitcoin után jött a 25, a 12 és fél, és most tartunk 3,125-nél, ha jól tudom.
+Ugye a [felezés](https://inflacio.eu/mi-az-a-bitcoin-felezes/) kapcsán: az 50 bitcoinos blokkjutalommal indult a rendszer 2009-ben, minden érvényes blokkért járt 50 bitcoin. És pont ez a felezés garantálja a 21 milliós számot is — ami valójában 20 999 és valahány. Tehát addig feleződik, amíg a legkisebb egység már nem tovább felezhető; ez 2140 körül fog bekövetkezni. Merthogy aztán az 50 bitcoin után jött a 25, a 12 és fél, és most tartunk 3,125-nél, ha jól tudom.
 
 Ezért van az is, hogy a Bitcoin több mint 19 millió — talán már a 20 milliót is elértük, nem vagyok benne biztos. Ha jól tudom, egy hónapon belül meglesz. Tehát a nagy része a bitcoinnak már ki van bányászva. És innentől kezdve az az „infláció", hogy még egymillió bitcoint 120 év alatt bányásznak ki a többi 20 millióhoz képest…
 
@@ -246,7 +246,7 @@ Szóval ez kicsit az az effektus, mint amikor elmész valahova, és nagyon sok p
 
 De tudod, néhányan kapaszkodnak abba, hogy a Bitcoin rossz, rossz, rossz. És nem akarják meghallani azt, hogy igazából tök sok lehetőség van.
 
-Ugyanez a sebességgel kapcsolatban: „a Bitcoin lassú, nem alkalmas a mindennapos fizetésekre". És aztán készítesz 30 videót arról, hogy hogyan fizettél a burgerért a Lightning-rendszerén keresztül, hogyan vásároltál kuponokat itt-ott — eszméletlenül gyorsan, szinte ingyenesen működik, merthogy egy utalásért a forintnak a töredékét fizetted ki. Sőt, hogyha a Blinken keresztül, Blinkből Blinkbe megy az utalás, akkor kvázi nincs is tranzakciós költség.
+Ugyanez a sebességgel kapcsolatban: „a Bitcoin lassú, nem alkalmas a mindennapos fizetésekre". És aztán készítesz 30 videót arról, hogy hogyan fizettél a burgerért a [Lightning](https://inflacio.eu/mi-az-a-lightning-network/)-rendszerén keresztül, hogyan vásároltál kuponokat itt-ott — eszméletlenül gyorsan, szinte ingyenesen működik, merthogy egy utalásért a forintnak a töredékét fizetted ki. Sőt, hogyha a Blinken keresztül, Blinkből Blinkbe megy az utalás, akkor kvázi nincs is tranzakciós költség.
 
 Ezt az ember nem akarja meghallani. Az az ember, aki foggal-körömmel kapaszkodik abba a tévképzetbe, hogy a Bitcoin egy rossz eszköz — neki rossz eszköz fog maradni még akkor is, hogyha körülötte már mindenki más bitcoint használ, és élvezi az ebből fakadó szabadságot is.
 

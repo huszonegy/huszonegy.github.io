@@ -46,13 +46,13 @@ De ahogy az elején is emlegettük: annyira dinamikusan történnek a dolgok és
 
 Ugye például olyan megtakarítási módot kínál, amit senki nem tud elinflálni. Ez egy baromi nagy érték rengeteg ember számára. Igazából mindenkinek, akinek nincs még egy kiforrott módszere arra, hogy az összes megtakarítását bele tudja tenni ingatlanba – mert ez egy viszonylag szűk réteg, aki tízmilliókat tesz félre, amiből ugye értelmezhető ingatlant vásárolni.
 
-Meg ugye milliárdszám vannak emberek a világ különböző pontjain – csak velük kevésbé kommunikálunk –, akik nem férnek hozzá a hagyományos bankrendszer által nyújtott szolgáltatásokhoz. És ha már internethez hozzáférnek, akkor a Bitcoin segítségével ők is részt tudnak venni a nem készpénz alapú, hanem a digitális pénzügyi áramlásokban.
+Meg ugye milliárdszám vannak emberek a világ különböző pontjain – csak velük kevésbé kommunikálunk –, akik nem férnek hozzá a hagyományos [bankrendszer](https://inflacio.eu/bevezetes-a-bankrendszerunkbe/) által nyújtott szolgáltatásokhoz. És ha már internethez hozzáférnek, akkor a Bitcoin segítségével ők is részt tudnak venni a nem készpénz alapú, hanem a digitális pénzügyi áramlásokban.
 
 Mi van még ilyen, ami nektek eszetekbe jut?
 
 – Hát a többi az nyilván hozadéka ezeknek. Ugye a Bitcoin az a pénzrendszert javítja azzal, hogy alternatívát ad.
 
-És gyakorlatilag az egész világunk arra épült a fiat pénzrendszerben, hogy ez a végeláthatatlan pénzteremtés, ez a következmények nélküli pénzteremtése a politikusoknak – ez teljesen kihúzta a világból a felelősséget. Tehát ez abszolút nincs jelen szerintem most a 21. században. Hát látjuk: bárki bármit mondhat, nulla a következménye.
+És gyakorlatilag az egész világunk arra épült a [fiat](https://inflacio.eu/a-penz-evolucioja-penzfajtak/) pénzrendszerben, hogy ez a végeláthatatlan pénzteremtés, ez a következmények nélküli pénzteremtése a politikusoknak – ez teljesen kihúzta a világból a felelősséget. Tehát ez abszolút nincs jelen szerintem most a 21. században. Hát látjuk: bárki bármit mondhat, nulla a következménye.
 
 És a Bitcoinnal ez visszajön. Tehát olyan, mintha irányt váltottunk volna: mentünk egy jobbra, vagy balra, vagy föl, vagy le – tök mindegy –, és most meg abszolút az ellentétes irányba fogunk haladni. Mert van egy olyan pénzünk, ami nem inflálódik, tehát kiszámítható. És tervezhető a jövő, a megtakarítás. Tehát nem az van, hogy lopnak tőled, hanem az van, hogy a munkád igenis ér valamit – és akármennyire kicsi, ha sokszor végzed, akkor sok kicsit sokra tudsz vinni. Ezt eddig nem nagyon tudtad szerintem.
 
@@ -102,7 +102,7 @@ Közben meg az egész rendszernek az alapja, ez a fiat pénz, az úgy korrupt, a
 
 – Gyanúsan gazdagok.
 
-– Igen. Ott is valószínű ez van: hogy korábban megtudnak információkat, és azonnal tudnak a részvénypiacon olyan befektetéseket végezni, amiről pontosan tudják, hogy milyen irányba fog meglódulni bizonyos eszközöknek az árfolyama.
+– Igen. Ott is valószínű ez van: hogy korábban megtudnak információkat, és azonnal tudnak a [részvénypiacon](https://inflacio.eu/reszveny/) olyan befektetéseket végezni, amiről pontosan tudják, hogy milyen irányba fog meglódulni bizonyos eszközöknek az árfolyama.
 
 A Bitcoin meg ugye ezzel szembemegy, azzal az átláthatósággal – tehát gyakorlatilag csírájában fojtja el a korrupciót onnantól kezdve, hogy bitcoinban kell kalkulálni valamilyen vagyonokkal vagy értékkel.
 
@@ -286,7 +286,7 @@ Ugye főként azért különböztetjük meg a bitcoint a többitől, mert azokna
 
 És pont ez az egyik legnagyobb értéke. Ugye azt szokták mindig mondani, hogy „de hát ennek nincs értéke, milyen értéket teremt ez a Bitcoin?" Én sok ilyennel találkozom. És ugye idáig el kell jutni, hogy ezt megértsed.
 
-– Az Ethereumból 10 milliárd van, meg amit égetnek, meg nem tudom mi – hogy ne legyen olyan sok. A Bitcoinból meg 21 millió. És pont ezek az értékei – csak ehhez mélyebbre kell kicsit ásni. Hallgatni kell sokat a HUSZONEGY podcastet, és okulni abból, hogy mitől különleges ez, és miért más, mint a többi.
+– Az Ethereumból 10 milliárd van, meg amit égetnek, meg nem tudom mi – hogy ne legyen olyan sok. A Bitcoinból meg [21 millió](https://inflacio.eu/hany-bitcoin-van/). És pont ezek az értékei – csak ehhez mélyebbre kell kicsit ásni. Hallgatni kell sokat a HUSZONEGY podcastet, és okulni abból, hogy mitől különleges ez, és miért más, mint a többi.
 
 De egyébként ezt a kriptós adaptációnak nevezett folyamatot egyre inkább látom, hogy nagyon elkezdett suhanni. Minden országban ilyen statisztikákat nézegettem, hogy egyre több ember megy a kriptók felé. Bár szerintem ennek azért a 90%-a valami remény ebben a rossz rendszerben: hogy „na, majd most meggazdagszom, mert belerakok mondjuk 1000 dollárt az Etherbe, és akkor tíz nap múlva kiveszem, és lett 2000 dollár." Szerintem ezért csinálják.
 

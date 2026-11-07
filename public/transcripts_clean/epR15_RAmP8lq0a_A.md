@@ -26,7 +26,7 @@
 
 ---
 
-– Tavaly, vagy már tavalyelőtt a Műegyetemen volt egy előadássorozat a digitális jegybankpénz-fejlesztésekkel kapcsolatban. És akkor ott is elhangzott a Magyar Nemzeti Bankot képviselő hölgy szájából – ugye felmerült kérdésként a Bitcoin meg a kriptovaluták mint alternatíva –, és akkor ott felhívta rá a figyelmet, hogy ott nincs meg annak a pénznek az a képessége, ami a fiat valutának megvan: az önszaporító képessége. És hogy hát azon alapszik a gazdaságunknak a működése.
+– Tavaly, vagy már tavalyelőtt a Műegyetemen volt egy előadássorozat a digitális jegybankpénz-fejlesztésekkel kapcsolatban. És akkor ott is elhangzott a Magyar Nemzeti Bankot képviselő hölgy szájából – ugye felmerült kérdésként a Bitcoin meg a kriptovaluták mint alternatíva –, és akkor ott felhívta rá a figyelmet, hogy ott nincs meg annak a pénznek az a képessége, ami a [fiat](https://inflacio.eu/a-penz-evolucioja-penzfajtak/) valutának megvan: az önszaporító képessége. És hogy hát azon alapszik a gazdaságunknak a működése.
 
 De aztán nem ment bele a részletekbe, meg nem volt lehetőség tovább kérdezgetni – hogy miért is olyan jó az, hogy szaporítjuk a pénzt. Mi lenne, ha ezt elveszítené a jegybank meg az állam? Hogy gyakorlatilag abszolút kontrollálni tudjon folyamatokat?
 
@@ -112,7 +112,7 @@ Ez azt is mutatja, hogy elég nehéz leváltani a dollárt. Mert két kereskedő
 
 És ez még Amerikának se annyira jó, mert ugye ez okozza a hatalmas kereskedelmi deficitet, és az amerikai iparnak a leépülését.
 
-De hát érdekes időket élünk most. Ez még nem azt jelenti, hogy a dollárnak a világpénz-szerepe komolyan megrendült volna – az amerikai államkötvények kamatai se szálltak el különösebben emiatt. Csak érdekes fejlemények.
+De hát érdekes időket élünk most. Ez még nem azt jelenti, hogy a dollárnak a világpénz-szerepe komolyan megrendült volna – az amerikai [államkötvények](https://inflacio.eu/kotveny/) kamatai se szálltak el különösebben emiatt. Csak érdekes fejlemények.
 
 És hát tudjuk, hogy van egy olyan fajta pénz, amit egyik ország sem tud nyomtatni – de ezt még kevesen ismerték föl. És még túl kicsi a piaci kapitalizációja ahhoz, hogy egy nagyobb olajüzlet ne borítaná meg nagyon a vásárlóerejét.
 
@@ -160,7 +160,7 @@ Nem akarok nagyon radikális lenni ebben. Tök jók ezek az új gondolatok, hogy
 
 – És ha úgy nézzük, a Bitcoin ebben is tud segíteni, mert pont ezt akarja: szétválasztani a hatalmat a döntéshozóktól, hogy ne legyen a politikusok kezében annyi hatalom, hogy ők határozzák meg, kihez milyen pénzek csordogálnak.
 
-Főleg azért jó, mert nem úgy oldja meg, hogy a hatalom körforgása egy hatalom-pénz körforgás: a pénzből veszek hatalmat, a hatalomból eljutok oda, hogy pénzt tudjak nyomtatni. Ezt a ciklust zárja ki a Bitcoin, mert az energiát nem tudod bekamuzni: nem tudod azt mondani, hogy van, mert ha nincs, akkor nem tudsz bányászni.
+Főleg azért jó, mert nem úgy oldja meg, hogy a hatalom körforgása egy hatalom-pénz körforgás: a pénzből veszek hatalmat, a hatalomból eljutok oda, hogy pénzt tudjak nyomtatni. Ezt a ciklust zárja ki a Bitcoin, mert az energiát nem tudod bekamuzni: nem tudod azt mondani, hogy van, mert ha nincs, akkor nem tudsz [bányászni](https://inflacio.eu/mi-az-a-bitcoin-banyaszat/).
 
 ---
 
@@ -216,7 +216,7 @@ A Bitcoin az egyedüli megbízható mérőeszköz, és csak ebben szabadna mérn
 
 Szerintem ez működik. Igazad van, hogy nincsen robbanásszerű növekedés, mint az elején volt. Ennek biztos megvannak a szociológiai és kognitív gátjai, vagy egyszerűen az embereket más foglalkoztatja. De én úgy látom, hogy azért igenis jönnek fel tehetséges új arcok, fiatalok, idősek vegyesen, akik megértik. És tényleg nem azért értik meg később, mert buták, hanem egyszerűen nem voltak kitéve ennek a problémának, vagy nem volt idejük, hogy ezt egyszer egyben lássák. Mindenkinek máskor jön el ez az idő.
 
-Emiatt ez egy organikus növekedés – és az organikus növekedést lehet ellensúlyozni egy jól szervezett organikus növekedésgátlással, akár a médiával vagy egyéb dolgokkal. Akinek nem érdeke a Bitcoin, az szemmel láthatóan a régi, jól beágyazott bankrendszer, meg ahogy az az egész működik. Még ha azt is mondjuk, hogy nekik is érdekük – tökre nem érdekük, mert köszönik szépen, sokkal jobban elvannak egy általuk teljes mértékben kontrollált dologgal, a fiat pénzzel, mint a Bitcoinnal, ami egy transzparens cucc. Nem érdekli a bankrendszert a Bitcoin, ezért is támadja, és ezért az összes fronton támadni fogja minden lehetséges, elképzelhető módon.
+Emiatt ez egy organikus növekedés – és az organikus növekedést lehet ellensúlyozni egy jól szervezett organikus növekedésgátlással, akár a médiával vagy egyéb dolgokkal. Akinek nem érdeke a Bitcoin, az szemmel láthatóan a régi, jól beágyazott [bankrendszer](https://inflacio.eu/bevezetes-a-bankrendszerunkbe/), meg ahogy az az egész működik. Még ha azt is mondjuk, hogy nekik is érdekük – tökre nem érdekük, mert köszönik szépen, sokkal jobban elvannak egy általuk teljes mértékben kontrollált dologgal, a fiat pénzzel, mint a Bitcoinnal, ami egy transzparens cucc. Nem érdekli a bankrendszert a Bitcoin, ezért is támadja, és ezért az összes fronton támadni fogja minden lehetséges, elképzelhető módon.
 
 Nekünk meg mi marad? Az, hogy ismered Józsi bácsit, meg Terike nénit, meg a különböző családtagokat – és igenis az ő síkjukon, az ő problémájukon vezeted be. Ezt tudom javasolni: nem erőlködve, nem erőltetve, mert nem kell ennek ilyen szaga lenni. Csak hogy lássák, hogy van alternatíva. Ezért is van ez a podcast, hogy itt is hintjük az igét.
 

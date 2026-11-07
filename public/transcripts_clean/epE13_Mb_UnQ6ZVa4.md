@@ -22,9 +22,9 @@ Nekem kellett egy jó egyéves filozofálás még 2018-ban, hogy rájöjjek arra
 
 – Ó, nem, nem az a képesítésem, de kábé már azon a szinten vagyok, hogy azt mondjam, hogy az. Mert kábé én az emberek, társadalmi csoportok viselkedésével foglalkozom, hogy ők hogyan használják a pénzt, és annak milyen effektusa van a társadalom nagyobb vagy kisebb rétegeire. Kábé ez az, ami engem foglalkoztat, hogy ebből hogyan alakulnak a bizalmak, a pénz milyen módszerekkel képes változtatni emberi szokásokon, és annak az értékvesztése milyen negatív hatásokkal bír. Ez jól megfigyelhető némely társadalmakban.
 
-– Tehát a fiat társadalomra abszolút rá lehet húzni ezt.
+– Tehát a [fiat](https://inflacio.eu/a-penz-evolucioja-penzfajtak/) társadalomra abszolút rá lehet húzni ezt.
 
-– Igen, igen. Ez nem egy liberális társadalmi tudomány, amit én mondanék, mert sokan azt mondják, hogy ez ilyen szocio, mi a lófaszok, ezek mind az ilyen leftist hülyeségektől jönnek. De nem, ez nagyon egy ilyen pénztípusú tudomány, mert itt tényleg meg tudod mondani a frankót, amikor azt mondják neked Amerikában, hogy na, ez egy corporate greed, lehet, hogy most jön az infláció. Nem, az eleve az egésznek a lényege ott, hogy egyszerűen nem értik, hogy mi a franc működik a gazdaságtudományon belül, és nem értik meg az inflációnak az alapelvét, hogy most mit tud affektálni. Mert Amerika jobban ki van téve az inflációnak az elvének, az emberek kilométerekre élnek boltoktól, nem az, hogy Európában elmegyek öt percre, ott van a bolt, aztán bemegyek minden nap a Lidlbe vagy az Aldiba. Szóval igen, és jobban megérzik az emberek, meg jobban leromlik a társadalomnak a működése is.
+– Igen, igen. Ez nem egy liberális társadalmi tudomány, amit én mondanék, mert sokan azt mondják, hogy ez ilyen szocio, mi a lófaszok, ezek mind az ilyen leftist hülyeségektől jönnek. De nem, ez nagyon egy ilyen pénztípusú tudomány, mert itt tényleg meg tudod mondani a frankót, amikor azt mondják neked Amerikában, hogy na, ez egy corporate greed, lehet, hogy most jön az [infláció](https://inflacio.eu/inflacio-jelentese/). Nem, az eleve az egésznek a lényege ott, hogy egyszerűen nem értik, hogy mi a franc működik a gazdaságtudományon belül, és nem értik meg az inflációnak az alapelvét, hogy most mit tud affektálni. Mert Amerika jobban ki van téve az inflációnak az elvének, az emberek kilométerekre élnek boltoktól, nem az, hogy Európában elmegyek öt percre, ott van a bolt, aztán bemegyek minden nap a Lidlbe vagy az Aldiba. Szóval igen, és jobban megérzik az emberek, meg jobban leromlik a társadalomnak a működése is.
 
 Ezekben publikálok. Régebben feltettem vagy hat darab írományt a Bitcoin Magazine-ra, meg vagy három-négy magazinban volt benne a publikációm, a Citadel21-ben például.
 
@@ -160,7 +160,7 @@ Szóval nagyon attól függ, hogy mit gondolnak róla az emberek, hogy milyen be
 
 – Bocsánat, csak azt szerettem volna megkérdezni tőled, hogy te mit gondolsz arról, hogy ugye sokszor emlegetik a Bitcoint, hogy nem az első világnak, tehát a földkerekség leggazdagabb országainak állampolgárait fogja ez megmenteni, hanem inkább a harmadik világ embereit. Hogy ők egyáltalán tudnak erről?
 
-– Nem nagyon gondolnám. Hogyha a fee-k maradnak a mostani helyzetben, és nem mennek fel brutálisan, akkor talán még a Lightningot is fogják tudni használni. Szóval én bízok abban, hogy azért fejlődik a rendszer, szóval nem maradunk totál ossification-ben.
+– Nem nagyon gondolnám. Hogyha a fee-k maradnak a mostani helyzetben, és nem mennek fel brutálisan, akkor talán még a [Lightningot](https://inflacio.eu/mi-az-a-lightning-network/) is fogják tudni használni. Szóval én bízok abban, hogy azért fejlődik a rendszer, szóval nem maradunk totál ossification-ben.
 
 – Szóval nem ragad be úgy a rendszer, hogy bebetonozza az egész dolgot magába.
 
@@ -306,7 +306,7 @@ Hú, érdekes, a mikrofonomra nézek, amikor hozzád beszélek, mert ugye én se
 
 – Igen, ez ugyanez a probléma.
 
-– Igen, csak itten az van, hogy itt az embereket fel tudod készíteni erre a folyamatra, meg meg tudják ezt érteni jobban, mint a másik problémát, mert itt a pénzüknek az értéke egyszerűen elillan egy idő után. És akkor rájönnek, hogy valahogyan kell valamit tennem ellene, veszek aranyat, aztán nem, az is elillan, akkor veszek bitcoint. Addig fognak menni, amíg nem találnak valamit, ami értékálló.
+– Igen, csak itten az van, hogy itt az embereket fel tudod készíteni erre a folyamatra, meg meg tudják ezt érteni jobban, mint a másik problémát, mert itt a pénzüknek az értéke egyszerűen elillan egy idő után. És akkor rájönnek, hogy valahogyan kell valamit tennem ellene, veszek [aranyat](https://inflacio.eu/arany/), aztán nem, az is elillan, akkor veszek bitcoint. Addig fognak menni, amíg nem találnak valamit, ami értékálló.
 
 Ugyanez van a házaknál is. Azért van az, hogy mindenki befektetésnek mond egy lakást vagy házat, de nem azok, nem befektetések. Egy háznak az értéke csak lefelé megy, nem mehet fölfelé, az infláció viszi fel a házaknak az árát. Mert egy házzal rengeteg probléma van, folyamatosan fenn kell tartani, rengeteg pénzt bele kell fektetni, hogy fenntartsad. Itthon is, ahol lakok, folyamatosan minden megy tönkre, mindenféle szart kell venni, megy az ablakon ki a pénz, folyamatosan fel kell újítani dolgokat. Szóval ez nem egy befektetés, az, hogy valaki felújítja, eladja, ez egy spekulációs folyamat.
 

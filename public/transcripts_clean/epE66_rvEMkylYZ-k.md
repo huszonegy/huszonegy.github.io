@@ -24,7 +24,7 @@ Tehát az itteni, a dunakanyari eseménynek tulajdonképpen teljesen ad hoc jöt
 
 – És egyébként nekem tulajdonképpen úgy jött a kapcsolat, hogy hallottam azt, hogy a Daninak a fia pizzát süt, és kapcsolatba léptem a Danival. És én akkor tudtam meg, hogy Dani is érdeklődik a Bitcoin után, a fia is érdeklődik a Bitcoin után. És a bitcoinbevétel igazából a Marcinál kötött ki végül, a Dani fiánál, aki a pizzát sütötte. Tehát ők megtartották a bitcoint. A másik helyen, a Béke Pékségben szintén a két tulajdonos elfelezte a bevételt, a bitcoinbevételt, ők is megtartották. És a háromból csak egy hely volt az, ahol azt mondták, hogy ebben nem szeretnének bent maradni. Ezek is nagyon támogatók voltak.
 
-Egyébként összesen 200 000 forintnyi forgalom jött össze satoshikból, ami félmillió nagyságrendű összeg.
+Egyébként összesen 200 000 forintnyi forgalom jött össze [satoshikból](https://inflacio.eu/mik-azok-a-satoshik-satok/), ami félmillió nagyságrendű összeg.
 
 – Egy szombati nap alatt.
 
@@ -36,7 +36,7 @@ Egyébként összesen 200 000 forintnyi forgalom jött össze satoshikból, ami 
 
 Az a fontos, hogy jó pár ember megjelenjen, és ennek tud lenni hatása. Mert hogyha egy ember jön, és bitcoinnal fizetsz, vagy van egy asztaltársaság, ami a végén egy alkalommal satoshiban rendezi a számlát, az nem annyira ütős, mint hogyha, mit tudom, több pultos egész nap azt tapasztalja, hogy keverednek a bitcoinosok és a nem bitcoinosok, és nem bonyolultabb ez se. Tehát valahogy ezt a személyes tapasztalatot kell minél több embernek megmutatni, és ez szerintem baromi nagy hatással tud lenni az emberekre.
 
-– Igen. Nem volt ezt nehéz kivitelezni, ugye? Tehát a technikai oldalát mennyire volt nehéz megértetni a helyekkel: hogy ez hogyan működik, hogyan lehet fizetni, hogyan lehet elfogadni, hogyan lehet Lightning számlát kiállítani? Vagy hogy működött a technológia mögötte?
+– Igen. Nem volt ezt nehéz kivitelezni, ugye? Tehát a technikai oldalát mennyire volt nehéz megértetni a helyekkel: hogy ez hogyan működik, hogyan lehet fizetni, hogyan lehet elfogadni, hogyan lehet [Lightning számlát](https://inflacio.eu/mi-az-a-lightning-szamla/) kiállítani? Vagy hogy működött a technológia mögötte?
 
 – A technológia az mindenkinek egyből ment. Tehát tulajdonképpen egy appot kell föltenni, és nem túl bonyolult az egész technológia. Inkább a szociális oldala az, ahol jobban kell figyelni, illetve a jogi oldala. Mert hogyha meg akarunk felelni a magyar törvényeknek, akkor ugye a pénztárgépben mindig annyi forintnak kell bent lenni, amennyit beütöttünk korábban. És akkor ez igazából egy kis plusz macera. De nem a mobiltelefon a plusz macera, meg a Bitcoin elfogadás a macera, hanem az a macera, hogy egy külön dobozban kell készpénzzel felkészülni, és amekkora összegben beérkezik a Bitcoin fizetés, akkora összegben a dobozból át kell tenni készpénzt a kasszába. És onnantól kezdve megfelelünk a NAV-nak is.
 
@@ -58,7 +58,7 @@ Az a fontos, hogy jó pár ember megjelenjen, és ennek tud lenni hatása. Mert 
 
 – És így a levont tapasztalatok alapján hogyan lehetne nekikezdeni még egy ilyennek? Tehát ha mondjuk van, aki szeretne júniusban egy hasonlót, akár ezt a nyúlpörköltes napot megtartani, akkor mit javasoltok nekik, hogyan indítson?
 
-– Mindenképpen valami olyan helyen kell rákérdezni először, ahol van személyes ismeretség. Tehát akár egy ismerősnek van egy helye, akár valakinek a törzshelye, vagy akár nagyon jóban vagy a pultosokkal. Tehát az a fontos, hogy tudják azt, hogy ez nem egy üzleti céllal történő esemény, hanem ez egy kulturális esemény elsősorban. Tehát nem fog senki se jól járni, se rosszul járni, hanem új emberek fognak betérni a helyre. Mert ez egyébként adott volt itt is: olyan emberek jöttek ide a Dunakanyarba, akik egyébként nem jönnek ide, csak azért jöttek el, hogy tudják a Lightningot használni. Ugye erre kevés helyen van lehetőség.
+– Mindenképpen valami olyan helyen kell rákérdezni először, ahol van személyes ismeretség. Tehát akár egy ismerősnek van egy helye, akár valakinek a törzshelye, vagy akár nagyon jóban vagy a pultosokkal. Tehát az a fontos, hogy tudják azt, hogy ez nem egy üzleti céllal történő esemény, hanem ez egy kulturális esemény elsősorban. Tehát nem fog senki se jól járni, se rosszul járni, hanem új emberek fognak betérni a helyre. Mert ez egyébként adott volt itt is: olyan emberek jöttek ide a Dunakanyarba, akik egyébként nem jönnek ide, csak azért jöttek el, hogy tudják a [Lightningot](https://inflacio.eu/mi-az-a-lightning-network/) használni. Ugye erre kevés helyen van lehetőség.
 
 – Igen. Tehát egyrészt a személyes ismeretség, másrészt valahogy olyan garanciát kell nekik adni, hogy nem fognak ezzel rosszul járni. Tehát ha például te teszed le azt a kezdő készpénzt, amit majd megkapnak bitcoinban, és utána valahogyan leelszámoljátok a Bitcoin részét a dolognak, az mindenképpen egy ilyen bizalmat ad. Nem azt látják, hogy viszed a multilevel vagy a piramisjátékodat, és majd jól elszaladsz.
 
@@ -188,7 +188,7 @@ Mindegy, én csak egy kicsit hitemet vesztettem az európai állampolgárban, ol
 
 Vicces egyébként, hogy pont ma kezdődik a Los Angeles-i Bitcoin konferencia. Nem tudom, hogy figyelitek-e így az X-en vagy a Nostr-on a híreket. Gondolom, igen, azt tudom, Lez, hogy te nagy Nostr-os vagy. Kérdés az, hogy nézitek-e mostanában, hogy milyen hírek zengik körül így az amerikai gazdaságot. Illetve nem csak az amerikait, hanem így a világgazdaságon belül is mindenféle országból jönnek hírek, hogy ilyen cég, olyan cég vásárolt bitcoint a treasuryjébe, tehát hogy a mérlegében kimutassa, de gyakorlatilag ilyen pénzkészletként betáraznak belőle. Tehát vannak japán cégek, kínai cégek, amerikai cégek, német cégek, francia cégek.
 
-És akkor jelennek meg így sorra az országok. Most például azt hiszem, pont ma reggel Pakisztánról olvastam, hogy azt nyilatkozták, hogy Pakisztán is szeretné kivenni a részét a Bitcoin bányászatból. És azért ott is vannak erőművek, és egész komoly, azt hiszem, 20%-os energiatranszfert szeretnének ráfordítani erre a Bitcoin bányászatra. Tehát annyi fölös energiájuk van, amit eddig el tudtak adni, de most úgy gondolják, hogy inkább itt bányásznának vele. Tehát azért így ti is észlelitek, hogy így megy a világban ez a hype, nem?
+És akkor jelennek meg így sorra az országok. Most például azt hiszem, pont ma reggel Pakisztánról olvastam, hogy azt nyilatkozták, hogy Pakisztán is szeretné kivenni a részét a Bitcoin [bányászatból](https://inflacio.eu/mi-az-a-bitcoin-banyaszat/). És azért ott is vannak erőművek, és egész komoly, azt hiszem, 20%-os energiatranszfert szeretnének ráfordítani erre a Bitcoin bányászatra. Tehát annyi fölös energiájuk van, amit eddig el tudtak adni, de most úgy gondolják, hogy inkább itt bányásznának vele. Tehát azért így ti is észlelitek, hogy így megy a világban ez a hype, nem?
 
 – Hát ezt pont leképzi ez az árfolyam-emelkedés, ami 30% körüli szerintem az elmúlt…
 
