@@ -6,9 +6,9 @@ const categories = links
 const bannerItems = (items: any[]) => items.filter(i => i.image)
 const plainItems = (items: any[]) => items.filter(i => !i.image)
 
-// Fizetett/jutalékos kapcsolat: a Google irányelve szerint rel="sponsored"
-const relFor = (link: any, category?: string) =>
-    category === 'Szponzoraink' || link.kind === 'affiliate' || link.kind === 'coupon' ? 'sponsored noopener' : 'noopener'
+// Szponzori kapcsolat: a Google irányelve szerint rel="sponsored"
+const relFor = (_link: any, category?: string) =>
+    category === 'Szponzoraink' ? 'sponsored noopener' : 'noopener'
 
 const chipLabel = (kind: string) =>
     kind === 'own' ? 'a HUSZONEGY csoporttól' : kind === 'affiliate' ? 'affiliate' : 'kupon'

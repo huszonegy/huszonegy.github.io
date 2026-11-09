@@ -12,12 +12,21 @@ import { links } from '../data/links';
 // így az átiratokba nem kell (elavuló) szponzorszöveget írni.
 const sponsors = (links.find(c => c.category === 'Szponzoraink')?.items ?? []) as { name: string; url: string; logo?: string; logoDark?: boolean; logoHeight?: number }[];
 
+// Szponzorra mutató link az átiratban: rel="sponsored" (Google-irányelv). A szponzorok listája a
+// data/links.ts „Szponzoraink” kategóriájából jön; a domain számít (www. nélkül).
+const baseDomain = (host: string) => host.replace(/^www\./, '').split('.').slice(-2).join('.');
+const sponsorDomains = new Set(sponsors.map(s => baseDomain(new URL(s.url).hostname)));
+const isSponsoredUrl = (href: string) => {
+  try { return sponsorDomains.has(baseDomain(new URL(href).hostname)); } catch { return false; }
+};
+
 marked.use({
   renderer: {
     link({ href, text }) {
       // Belső oldalra mutató link záró perjellel, hogy ne átirányításon keresztül érkezzen (pl. /tamogatas → /tamogatas/)
       href = href.replace(/^(https:\/\/huszonegy\.world(?:\/[^/?#]+)*\/[^/?#.]+)(?=[?#]|$)/, '$1/');
-      return `<a href="${href}" target="_blank" rel="noopener noreferrer">${text}</a>`;
+      const rel = isSponsoredUrl(href) ? 'sponsored noopener noreferrer' : 'noopener noreferrer';
+      return `<a href="${href}" target="_blank" rel="${rel}">${text}</a>`;
     }
   }
 });
