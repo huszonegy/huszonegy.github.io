@@ -145,10 +145,18 @@ const seekTo = (timeStr: string) => {
 };
 
 // Kiszámoljuk a leírást (SEO barát hosszúság)
-// A fejezetcímekből építünk értelmes meta description-t, időbélyegek nélkül
+// Elsősorban az epizód bevezetőjéből (intro), annak híján a fejezetcímekből, időbélyegek nélkül
 const seoDescription = computed(() => {
   if (!pod.value) return 'HUSZONEGY Bitcoin podcast – magyar nyelvű Bitcoin beszélgetések.';
-  
+
+  // A bevezetőből: ha hosszabb 155 karakternél, szóhatáron vágjuk, és jelezzük a folytatást
+  if (pod.value.intro) {
+    const intro = pod.value.intro;
+    if (intro.length <= 155) return intro;
+    const cut = intro.substring(0, 153);
+    return cut.substring(0, cut.lastIndexOf(' ')).replace(/[,:;]$/, '') + '…';
+  }
+
   // Fejezetcímekből készítünk összefoglalót
   const chapters = topicList.value;
   if (chapters && chapters.length > 0) {
@@ -235,7 +243,7 @@ useHead({
           "@context": "https://schema.org",
           "@type": "PodcastEpisode",
           "name": pod.value.name,
-          "description": topicList.value
+          "description": pod.value.intro || topicList.value
             .map((ch: { label: string }) => ch.label.replace(/<[^>]*>/g, '').trim())
             .filter((l: string) => l.length > 0)
             .join('. '),
@@ -320,7 +328,9 @@ useHead({
             ></iframe>
           </div>
 
-          <div class="description-area mt-5">
+          <p v-if="pod.intro" class="episode-intro text-start mt-0 mb-0">{{ pod.intro }}</p>
+
+          <div class="description-area">
             <div class="topic-timeline">
               <div
                 v-for="(item, index) in topicList"
@@ -341,7 +351,7 @@ useHead({
             </div>
           </div>
 
-          <div class="action-area d-flex flex-wrap gap-3 justify-content-center mt-5">
+          <div class="action-area d-flex flex-wrap gap-3 justify-content-center section-gap">
             <a :href="pod.yt" target="_blank" class="btn btn-yt">
               <i class="bi bi-youtube me-2"></i> YouTube
             </a> <a :href="pod.fountain" target="_blank" class="btn btn-ft">
@@ -349,8 +359,8 @@ useHead({
             </a>
           </div>
 
-          <section class="transcript-section text-start mt-5">
-            <p class="label mb-4">Átirat</p>
+          <section class="transcript-section text-start section-gap">
+            <p class="label">Átirat</p>
             
             <div v-if="isLoading" class="text-center py-5">
               <div class="spinner-border text-warning" role="status"></div>
@@ -403,6 +413,7 @@ useHead({
 
 <style scoped>
 .detail-view {
+  --text-col: 42rem; /* rem-ben, mert a ch a betűmérettel változik, és elcsúsztatná a blokkok széleit */
   color: #fff;
 }
 
@@ -466,6 +477,20 @@ useHead({
   margin-bottom: 1.5rem;
 }
 
+/* --- BEVEZETŐ (a videó alatt, a fejezetek fölött) --- */
+.section-gap {
+  margin-top: 2rem; /* egységes függőleges térköz a fő blokkok között */
+}
+
+.episode-intro {
+  max-width: var(--text-col);
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.3;
+  font-size: 1.05rem;
+  color: #e0e0e0;
+}
+
 .date {
   color: orange;
 }
@@ -475,10 +500,10 @@ useHead({
   color: #f7931a;
   text-transform: uppercase;
   font-weight: 600;
-  margin-bottom: 1.5rem;
+  margin-bottom: 0.75rem;
   display: block;
   text-align: left;
-  max-width: 75ch;
+  max-width: var(--text-col);
   margin-left: auto;
   margin-right: auto;
 }
@@ -489,13 +514,13 @@ useHead({
   padding-left: 2.5rem;
   border-left: 1px solid rgba(247, 147, 26, 0.2);
   margin-top: 2rem;
-  margin-bottom: 2rem;
-  max-width: 75ch;
+  margin-bottom: 0;
+  max-width: var(--text-col);
 }
 
 .topic-item {
   position: relative;
-  margin-bottom: 1.2rem;
+  margin-bottom: 0.65rem;
 }
 
 .topic-item::before {
@@ -536,8 +561,8 @@ useHead({
 .video-wrapper {
   width: 100%;
   min-width: 300px;
-  max-width: 700px;
-  margin: 2.5rem auto;
+  max-width: var(--text-col); /* a szövegoszloppal egy szélességben */
+  margin: 2rem auto;
   aspect-ratio: 16 / 9;
   border-radius: 12px;
   overflow: hidden;
@@ -549,25 +574,25 @@ useHead({
 
 /* --- ÁTIRAT --- */
 .transcript-content {
-  line-height: 1.7; /* Növelt sorköz a jobb olvashatóságért */
+  line-height: 1.45;
   color: #e0e0e0;   /* Tiszta fehér helyett egy nagyon világos szürke (pihentetőbb a szemnek) */
-  max-width: 75ch;  /* Az "arany középút" sorhosszúság (kb. 75 karakter) */
-  margin-top: 2rem;
+  max-width: var(--text-col);  /* Közös szövegoszlop: a bevezető, a fejezetek, az „Átirat” felirat és az átirat széle egy vonalban */
+  margin-top: 0;
 }
 
 /* Bekezdések közötti távolság és szöveg elrendezés */
 .transcript-content :deep(p) {
-  margin-bottom: 1.8rem !important; /* Szellősebb térköz a bekezdések között */
+  margin-bottom: 1rem !important;
   letter-spacing: 0.01rem;          /* Finom betűköz az olvashatóságért */
 }
 
 /* Fejezetcímek az átiratban (a topic-timeline címeivel azonosak) */
 .transcript-content :deep(h2.transcript-chapter) {
-  font-size: 1.25rem;
+  font-size: 1.1rem;
   font-weight: 700;
   color: #f7931a;
   line-height: 1.35;
-  margin: 3rem 0 1.2rem;
+  margin: 2rem 0 0.6rem;
   scroll-margin-top: 5rem;
 }
 

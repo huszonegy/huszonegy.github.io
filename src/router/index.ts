@@ -190,6 +190,28 @@ export const routes: RouteRecordRaw[] = [
   // A „mi az a bitcoin" kulcsszó leszedése a nem ezt magyarázó adásokról (2026.09.25.)
   { path: '/podcast/mi-az-a-bitcoin/', redirect: '/podcast/nem-a-meggazdagodas-a-lenyeg-miert-lettunk-bitcoinerek/' }, // E01
   { path: '/podcast/bitcoin-banyaszat-csomopontok-blokk-jutalom-felezes/', redirect: '/podcast/hogyan-mukodik-a-bitcoin-miert-csak-21-millio-van-belole/' }, // E02
+  // SEO-újracímzés (2026.11.09.): kereshető kifejezések a címben → a régi URL-ek átirányítva az újakra
+  { path: '/podcast/mi-a-legnagyobb-kulonbseg-a-fiat-valutak-es-a-kriptovalutak-kozott/', redirect: '/podcast/sajat-bitcoin-node-otthon-egy-halozati-mernok-utja/' }, // E06
+  { path: '/podcast/elvalasztjuk-a-penzt-az-allamtol/', redirect: '/podcast/kripton-bukott-2017-ben-megis-a-bitcoinnal-maradt/' }, // E10
+  { path: '/podcast/megfontolt-megtakaritas/', redirect: '/podcast/heti-3000-ft-bitcoinba-2014-ota-mennyi-lett-volna-belole/' }, // E12
+  { path: '/podcast/visszatekintes-jelenlet-jovobe-tekintes/', redirect: '/podcast/bitcoin-fork-miert-jar-jol-aki-egyszeruen-kivar/' }, // E21
+  { path: '/podcast/bitcoin-tarca-kezdoknek-es-lightning-network-felhasznaloknak/', redirect: '/podcast/blink-es-strike-bitcoin-tarca-kezdoknek-lightninggal/' }, // E22
+  { path: '/podcast/bitcoin-es-az-amerikai-elnokvalasztasi-igeretek/', redirect: '/podcast/trump-a-bitcoin-konferencian-mit-igert-a-bitcoinereknek/' }, // E24
+  { path: '/podcast/bitcoin-a-penzek-kiralya/', redirect: '/podcast/bitcoin-a-penzek-kiralya-ezt-mutatta-a-japan-panik/' }, // E26
+  { path: '/podcast/elethosszig-tarto-tanulas/', redirect: '/podcast/chatgpt-claude-vagy-llama-zart-vagy-nyilt-ai-t-hasznalj/' }, // E28
+  { path: '/podcast/fuggetlenedunk-a-kozponti-genyozastol/', redirect: '/podcast/inflacio-5-forintrol-500-ra-dragult-egy-gomboc-fagyi/' }, // E30
+  { path: '/podcast/bitcoin-konferencia-ido-faktor-turelem/', redirect: '/podcast/most-kezdenel-bitcoinnal-ezt-tedd-az-elso-evekben/' }, // E51
+  { path: '/podcast/bitcoin-pszichologia/', redirect: '/podcast/fomo-fud-status-quo-a-bitcoin-pszichologiaja/' }, // E60
+  { path: '/podcast/uzleti-bitcoin-tartalekkepzes-es-publikalas-magyar-uttoroje/', redirect: '/podcast/bitcoin-a-ceges-tartalekban-egy-magyar-uttoro-tortenete/' }, // E68
+  { path: '/podcast/bitcoinerek-ujratoltve/', redirect: '/podcast/bitcoin-nyari-osszefoglalo-arfolyam-torvenyek-banyagepek/' }, // E72
+  { path: '/podcast/jogbizonytalansagtol-a-bitcoiner-lifestyle-ig/', redirect: '/podcast/mica-jogbizonytalansagtol-a-bitcoiner-lifestyle-ig/' }, // E73
+  { path: '/podcast/vedd-ki-a-csalasokat-tippek-technikak-tanulsagos-esetek/', redirect: '/podcast/kripto-csalasok-igy-vernek-at-es-igy-vedd-ki/' }, // E76
+  { path: '/podcast/a-gondolat-szabadsaga-maltatol-pragaig-validacio-nelkul/', redirect: '/podcast/kripto-validalas-ezeket-a-kiveteleket-hozta-az-uj-rendelet/' }, // E80
+  { path: '/podcast/magyar-titanium-lapka-bitcoin-tanacsadas/', redirect: '/podcast/magyar-titanium-lapka-a-bitcoin-tarca-mentesehez/' }, // E85
+  { path: '/podcast/a-nemzeti-validalo-esete-a-bitcoin-oktatassal-revolut-validalas-panik/', redirect: '/podcast/kripto-validalas-es-revolut-mitol-panikolnak-ennyien/' }, // E86
+  { path: '/podcast/te-meg-szabadlabon-vagy-validator-mizeria/', redirect: '/podcast/elso-kripto-validator-te-meg-szabadlabon-vagy/' }, // E88
+  { path: '/podcast/az-onrendelkezes-fontossaga-nehez-idokben/', redirect: '/podcast/esik-a-bitcoin-arfolyam-miert-most-fontos-a-sajat-kulcs/' }, // E93
+  { path: '/podcast/tank-vagy-porcelan-a-szabad-piac-nem-ker-engedelyt/', redirect: '/podcast/tank-vagy-porcelan-egy-bitcoin-core-fejleszto-valaszol/' }, // E97
   {
     path: '/404/',
     name: 'not-found',

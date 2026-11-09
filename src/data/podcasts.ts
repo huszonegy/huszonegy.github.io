@@ -4,6 +4,7 @@ export const podcasts = [
     {
         name: "Küldhetnek neked hamis bitcoint?",
         id: "E122",
+        intro: "A tárcád kiírja, hogy bitcoint kaptál, de ez még nem bizonyíték: a Bitcoin node minden tranzakciót ellenőriz, egészen addig a blokkig visszamenve, amelyben az adott bitcoint kibányászták. Optout, az egyik magyar Bitcoin Core fejlesztő, lépésről lépésre megmutatja, mit néz meg ilyenkor a csomópontod, és miért nem kell így senkiben megbíznod. Közben érintünk néhány gyakorlati kérdést is, a tárhelytől az üresnek látszó tárcáig. A végén pedig átfutjuk a novemberi Bitcoin konferencia programját.",
         chapters: [
         {
                 time: "00:00",
@@ -68,6 +69,7 @@ export const podcasts = [
     {
         name: "Bitcoin vs kripto: mit nem tud a proof of stake?",
         id: "E121",
+        intro: "Egy nézői kérdésre sorra vesszük, mi a különbség a proof of work és a proof of stake között, és miért itt válnak el a bitcoinerek a kriptósoktól. Egy olimpiai hasonlattal megmutatjuk, hogyan dönt a pénz az Ethereumban, és azt is, miért nem ad a Bitcoinban több hatalmat a nagy vagyon. Szó esik a Ledger-hackről, egy indiai tanúsítványkiadó hibájáról, amely miatt bármelyik weboldal hamisítható lett, és arról, mikor jelenthet valódi veszélyt a kvantumszámítógép. A végén bemutatjuk az Umbrel 2.0-t, amellyel felhasználóbarát módon futtathatod a saját Bitcoin node-odat.",
         chapters: [
         {
                 time: "00:00",
@@ -136,6 +138,7 @@ export const podcasts = [
     {
         name: "25 bitcoint kínáltak 20 dollárért a Passzív Milliomosnak. Erre ő?",
         id: "E120",
+        intro: "A Passzív Milliomos útja a bitcoinhoz a takarítója ajánlatával kezdődött, és egy olyan első vásárlással folytatódott, amit ma már senkinek nem javasolna. Sorra vesszük, mit tanácsol ma: miért kell legalább 100 kockadobással előállítani a tárcád titkos szavait, és miért érdemes rendszeresen begyakorolni, hogyan veszed elő a bitcoinodat. Szó esik arról is, mi történik a pénzzel, ha az AI elveszi a munkánkat. Vendégünk szerint az is lehet, hogy a fiat egyszer olyan lesz, mint az ételjegy, a jó dolgokat pedig bitcoinért vesszük majd.",
         chapters: [
         {
                 time: "00:00",
@@ -204,6 +207,7 @@ export const podcasts = [
     {
         name: "105 éves levél: így lopják el a megtakarításod",
         id: "E119",
+        intro: "Egy német bankár 105 éve leveleket írt a fiának arról, mi történik, ha rossz a pénz, és ezek a sorok ma ijesztően aktuálisak. Argentarius szerint a semmiből teremtett pénzzel a megtakarítókat lopják meg, a Cantillon-hatás pedig megmutatja, hogy ebből mindig azok húznak hasznot, akik elsőként jutnak az új pénzhez, még az áremelkedés előtt. Szó lesz arról, miért vezet az osztrák közgazdászok szerint a pénznyomtatás hiperinflációhoz, és miért ad erre választ a bitcoin. Arról is, miért kell a bitcoinban hosszú távon gondolkodni, és miért nem szabad egyszerre beletenni minden pénzünket.",
         chapters: [
         {
                 time: "00:00",
@@ -268,6 +272,7 @@ export const podcasts = [
     {
         name: "Kiszedhető a 12 szó a hardvertárcádból? Így védd meg!",
         id: "E118",
+        intro: "A hardvertárca sem sebezhetetlen: néhány régi modellből laborban, felnyitott készülékből szedték már ki a titkos kulcsot, a nyári COLDCARD hiba pedig a gyártókba vetett bizalmat is megrendítette. Vendégünk korábban egy tárcagyártónál dolgozott: vele vesszük sorra, mennyit véd a passphrase, és miért nem mindenkinek való egy 2-ből 3-as multisig. Szó lesz arról is, miért az a legjobb tárca, amit stresszhelyzetben is magabiztosan kezelsz.",
         chapters: [
         {
                 time: "00:00",
@@ -336,6 +341,7 @@ export const podcasts = [
     {
         name: "Lehet a bitcoin olyan privát, mint a készpénz?",
         id: "E117",
+        intro: "A bankszámládról a bank mindent tud, de a bitcoinra épülő Cashu úgy működik, mint a készpénz: aki kiadja, nem tudja, kinek adta. Sorra vesszük, miért olyan ez, mint egy cetli az aranyadról, hogyan született az ötlet a 80-as években, és miért lehet a Lightning saját node-dal privátabb a Monerónál. Szó lesz arról is, hogyan lehetne előfizetés helyett másodpercre fizetni, akár a Netflixért. A végén kiderül, hol találkozhatsz élőben a magyar Bitcoin fejlesztőkkel.",
         chapters: [
         {
                 time: "00:00",
@@ -400,6 +406,7 @@ export const podcasts = [
     {
         name: "Megépült egy új internet, amihez nem kell engedély",
         id: "E116",
+        intro: "A Bitcoin biztosítja, hogy a pénzünkhöz ne nyúlhasson senki, viszont a fiókjaink és az internetcímeink még más engedélyén múlnak. Van már egy hálózat - a FIPS -, amiben a címedet nem veheti el senki, ráadásul egyre több chatalkalmazás megy internet nélkül, Bluetooth-on is. Megvizsgáljuk a Bitchatet, a NymChatet és az Armadát, és azt is, miért ürült ki a nyáron a Nostr. Szó lesz arról is, miért a saját gépen futó AI a következő szabadságtechnológia, majd a végén a mempoolra és az árfolyamra is ránézünk.",
         chapters: [
         {
                 time: "00:00",
@@ -464,6 +471,7 @@ export const podcasts = [
     {
         name: "Nem a Bitcoint törték fel – mégis eltűnt 4000 bitcoin",
         id: "E115",
+        intro: "Megpróbálták kettévágni a Bitcoin láncát a BIP-110 körül. Öt év után derült ki egy hiba a Coldcard hardvertárcák firmware-jében, a Liquid Networkből pedig 4000 bitcoin sétált ki egyetlen tranzakcióval. Tamással sorra vesszük, pontosan mi történt a nyáron, és miért nem rendült meg közben maga a hálózat. Szó lesz arról is, miért most jöttek elő ezek a hibák, és mi köze ehhez a mesterséges intelligenciának. A végén az árfolyamra is ránézünk.",
         chapters: [
         {
                 time: "00:00",
@@ -524,6 +532,7 @@ export const podcasts = [
     {
         name: "Mit tud a Bitcoin, amit az állampapírod nem?",
         id: "E114",
+        intro: "Az állampapír az elmúlt évek nagy magyar megtakarítási sztorija, de ugyanaz a pénznyomtatás áll mögötte, ami a bankokat is életben tartja. A Bitcoin közben olyat csinált, amire még nem volt példa: a nyári mélypont után dollárban a valaha volt legnagyobb heti emelkedést hozta. Új évadot kezdünk, új felállásban: véget ért a validátortörvény, tehát nem fenyeget többé börtön a bitcoinvásárlásért, és megmutatjuk, hol lehet ma legálisan venni Magyarországon, meg azt is, hol húzza meg az MNB a határt.",
         chapters: [
         {
                 time: "00:00",
@@ -1004,6 +1013,7 @@ export const podcasts = [
     {
         name: "Ingyen intelligencia jön: Mit ér majd az ember?",
         id: "E113",
+        intro: "Az AI hamarosan szinte ingyenessé teszi az intelligenciát, de Feri szerint pont ettől lesz fontosabb maga az ember a mesterséges intelligencia és a humanoid robotok korában. A Bitcoin Miskolc konferencia alapítójával a feltétel nélküli alapjövedelemről, a robotorvosokról beszélgetünk, valamint arról, miért nem lesz soha semmi igazán ingyen. Közben az is kiderül, hogy jön mindehhez a Bitcoin, és miért lehet épp a mostani „nyári kiárusítás” generációk legjobb döntése.",
         chapters: [
         {
                 time: "00:00",
@@ -1072,6 +1082,7 @@ export const podcasts = [
     {
         name: "A grafikon, ami sosem hazudott — Hol a Bitcoin valódi alja?",
         id: "E112",
+        intro: "Ha a négyéves ciklus tartja magát, a Bitcoin mélypontja még előttünk van. Tamással végigvesszük, mit üzen a ciklusok iránytűje (a 200 hetes mozgóátlag) a következő hónapokra, miért épp a mostani esés a felhalmozás ideje, és hogy Michael Saylor cége, a Strategy, vajon a piac mentőöve-e vagy esetleg a következő nagy buktató. Ráadásul mi kötheti össze mindezt a szocializmussal és az alapjövedelemmel?",
         chapters: [
         {
                 time: "00:00",
@@ -1136,6 +1147,7 @@ export const podcasts = [
     {
         name: "2027 vagy 1984? Igazolvány kell a nethez?",
         id: "E111",
+        intro: "Mi lesz a szabad internettel, ha Nagy-Britanniában 2027-től igazolvány, bankkártya és arcfelismerés kell a netre lépéshez? Openoms a prágai FreedomTech Summitról számol be a rádiós „mesh\" hálózatokról, amik akkor is átvisznek egy üzenetet, amikor nincs se net, se térerő — a Bitcoin pedig akkor is működik, amikor a banki átutalás nem megy. Külön szó esik a Blink-tárca nagy fordulatáról: a Spark révén önrendelkezővé válik, így a kulcsok nálad maradnak.",
         chapters: [
         {
                 time: "00:00",
@@ -1196,6 +1208,7 @@ export const podcasts = [
     {
         name: "Miért nem jut el a tömeg a Bitcoinig?",
         id: "E110",
+        intro: "Egyre többen érzik, hogy baj van a pénzzel — mégis kevesen jutnak el a probléma felismerésétől a Bitcoinig. Lorry egy előadássorozat nyomán mesél az etikus pénz kérdéséről, és innen jutunk el a digitális euró megtakarítási plafonjáig, a pénz „daganat\"-metaforájáig és az alapjövedelemig. A bajt meglepően hasonlóan látja az antropozófia, az osztrák közgazdaságtan és a Bitcoin is. Vajon melyik kínál valódi megoldást?",
         chapters: [
         {
                 time: "00:00",
@@ -1252,6 +1265,7 @@ export const podcasts = [
     {
         name: "Így lesz privát a bitcoinod — Ginger Wallet + CoinJoin",
         id: "E109",
+        intro: "A bitcoinod nyomot hagy a blokkláncon, és aki egyszer beazonosított téged — egy tőzsde, egy hivatal —, az onnantól végig tudja követni az érméid útját. Ebben az adásban a Ginger Wallet fejlesztője, Molnár Dávid lépésről lépésre megmutatja, hogyan viheted át a coinjaidat egy KYC-tőzsdéről anonim módon a hardvertárcádba — CoinJoinnal. Az anonimitási pontszámtól a légréses PSBT-aláírásig. A végén pedig a saját bőrünkön tapasztaljuk, milyen gyorsan tűnik el a pénz egy kompromittált kulcsról.",
         chapters: [
         {
                 time: "00:00",
@@ -1312,6 +1326,7 @@ export const podcasts = [
     {
         name: "Recseg a GitHub — épül a magyar Nostr-alternatíva",
         id: "E108",
+        intro: "Egy zárt platformban a bizalom előbb-utóbb megrendül — és Five szerint most a GitHub van soron. A Budabit egy Nostr-alapú szoftverfejlesztői tér, ahol kulcs-alapú identitás váltja a GitHub-fiókot, közösségi kurálás a zárt platformot, és a szociális réteg sem zárul be. Mellette szóba kerül a Pizza Day, hogy mit kezd egy 800 fős Telegram-csoport a túl sok topikkal, és miért bukik el a teljes decentralizáció ugyanúgy, mint a teljes központosítás.",
         chapters: [
         {
                 time: "00:00",
@@ -1368,6 +1383,7 @@ export const podcasts = [
     {
         name: "Bitcoin-adó: Ausztriában bukott, Németország mégis belevág?",
         id: "E107",
+        intro: "Németország épp ugyanabba a Bitcoin-adó csapdába sétál bele, ami Ausztriában már látványosan megbukott. Közben az óceán túloldalán a Clarity Act előkészíti a terepet, hogy a bankok közvetlenül tarthassanak bitcoint, a Strategy pedig már 11,5%-os osztalékot fizet Bitcoin-alapú részvényekre. A kérdés az, hogy a pénz és az állam szétválása – ahogy egykor az egyház és az állam szétvált – mikor éri el azt a kritikus tömeget, ami után már nincs visszaút?",
         chapters: [
         {
                 time: "00:00",
@@ -1412,6 +1428,7 @@ export const podcasts = [
     {
         name: "Miért háromszor drágább a lakásod, mint 10 éve?",
         id: "E106",
+        intro: "A forgalomban lévő forint mennyisége 10 év alatt megháromszorozódott – és ezzel együtt a lakásod ára is. Tamás megmutatja a számokat, amiről a mainstream média nem beszél, és élőben látjuk a Cantillon-hatást egy zöld pulóverben síró magyar milliárdos példáján. Szó esik a Magyar Nemzeti Bankhoz benyújtott állásfoglalás-kérésről is: kriptoeszköz-szolgáltatónak minősül-e az, aki Lightning node-ot üzemeltet magyar kisvállalkozóknak való villámgyors és olcsó tranzakciós díjú fizetési megoldás nyújtásához?",
         chapters: [
         {
                 time: "00:00",
@@ -1460,6 +1477,7 @@ export const podcasts = [
     {
         name: "Lejáratos pénz vagy szabad pénz? – \"etikus jegybank\" kontra Bitcoin",
         id: "E105",
+        intro: "Létezhet-e valaha etikus központi bank, vagy a Bitcoin az egyetlen út egy igazságos pénzrendszer felé? Az antropozófiai pénzszemlélet és a Bitcoin filozófiája közötti párhuzamokat és ellentéteket járjuk körbe, a lejáratos pénztől a megtakarítás szabadságán át egészen az állami Bitcoin tartalékok valódi tétjéig. Szó esik arról is, hogyan tudja a közösség segíteni, hogy ez a magyar nyelvű Bitcoin műhely fenntarthatóvá váljon.",
         chapters: [
         {
                 time: "00:00",
@@ -1512,6 +1530,7 @@ export const podcasts = [
     {
         name: "A digitális szabadság 4 pillére: Bitcoin, atom, Nostr, AI",
         id: "E104",
+        intro: "HenkyPenkyvel megfejtjük a digitális szabadság négy technológiai pillérét: a Bitcoint, az atomenergiát, a Nostrt és az AI-t, amelyek együtt teszik lehetővé a független életet és gondolkodást. Választ kapsz arra, hogyan válik a Bitcoin-bányászat az energiahálózat „tüdejévé\" a nukleáris energia mellett, és miért jelent valódi védelmet a Nostr a centralizált platformok algoritmikus manipulációjával szemben. Bemutatjuk a Tollaskígyót, a közösség egyik saját AI-segítőjét is, és kiderül, miért elengedhetetlen a nyílt forráskódú modellek ismerete a jövőbeli kiszolgáltatottság elkerüléséhez.",
         chapters: [
         {
                 time: "00:00",
@@ -1564,6 +1583,7 @@ export const podcasts = [
     {
         name: "Az ársapka hazudik – és mi az igazság?",
         id: "E103",
+        intro: "Miért fogy el az üzemanyag ársapka alatt, és miért nem tudunk felelős döntéseket hozni, amikor a politika torzítja az árakat? Feri erről is beszél a 4. magyar Bitcoin konferencia utáni epizódban – és arról is, miért jelent hatalmas gesztust már az első bitcoin tranzakció egy vállalkozás életében. Az epizód végén pedig szóba kerül, miért élünk most hasonló történelmi pillanatban, mint 1956-ban – csak más díszletek között, és miért rajtad is múlik, milyen nyomot hagy a Bitcoin a magyar társadalomban.",
         chapters: [
         {
                 time: "00:00",
@@ -1620,6 +1640,7 @@ export const podcasts = [
     {
         name: "Bitcoin és önrendelkezés: leckék a hétköznapokra",
         id: "E102",
+        intro: "Miért maga az állam a legnagyobb fiat maximalista? Mi köze a középkori templomos lovagoknak a Bitcoinhoz? Hogyan néz ki egy bitcoiner család mindennapja a homeschoolingtól a húsvásárlásig? Five-val beszélgetünk a pleb fogadalomról, az önrendelkezés lépcsőfokairól és arról, miért a személyes felelősség az igazi proof-of-work.",
         chapters: [
         {
                 time: "00:00",
@@ -1664,6 +1685,7 @@ export const podcasts = [
     {
         name: "Így fizettem bitcoinnal a Spárban - Krak kártya bemutató",
         id: "E101",
+        intro: "Tamás megmutatja, hogyan fizetett bitcoinnal a Spárban egy ingyenes Krak kártyával — és hogy ez ma már bárki számára elérhető Magyarországon. Az epizódban kiderül, miért ne vásárolj bitcoint bankkártyával a Krakenen, hogyan működik a Krak kártya a háttérben, és hogyan néz ki egy valódi bolti tranzakció középárfolyamon, visszatérítéssel. Szóba kerül egy bitcoin adóbevallási könnyítés is, ami visszamenőleg lehetővé teszi a korábbi évek veszteségeinek elszámolását.",
         chapters: [
         {
                 time: "00:00",
@@ -1712,6 +1734,7 @@ export const podcasts = [
     {
         name: "Meg tudja váltani a Bitcoin a világot? – 100. adás",
         id: "E100",
+        intro: "Megváltja-e a Bitcoin a világot? A rövid válasz: nem – de mi, emberek igen, és a Bitcoin ehhez a legerősebb eszköz, ami valaha a kezünkbe került. A 100. adásban Árpi, Anti és Optout arról beszélgetnek, miért nem lehet belülről megjavítani egy rendszert, ami a kizsákmányolásodra lett tervezve – és hogyan építünk helyette újat. Optout neve is ezt üzeni: kilépni a rendszerből, mert a valódi szavazatunkat nem az urnába dobjuk és várunk arra, hogy valakik másképp csinálják, hanem azzal adjuk le, hogy mi magunk építünk alternatívát.",
         chapters: [
         {
                 time: "00:00",
@@ -1772,6 +1795,7 @@ export const podcasts = [
     {
         name: "Morális kapitalizmus: kiút a fogyasztói csapdából?",
         id: "E99",
+        intro: "Mi lenne, ha a pénz nem a hiányról, hanem a teremtésről szólna, és a morális kapitalizmus valódi kiutat kínálna a fogyasztói csapdából? Hajnallal az ifjúságról és a közösségi terek létrehozásának igényéről beszélgetünk. Szó lesz az oktatás átalakításáról, a fiatalok beavatásáról és arról, miért az időd a legértékesebb befektetésed.",
         chapters: [
         {
                 time: "00:00",
@@ -1828,6 +1852,7 @@ export const podcasts = [
     {
         name: "Arany vs. bitcoin: melyik működik, ha baj van?",
         id: "E98",
+        intro: "Néha lehetetlen szállítani aranyat — bitcoint viszont lehet. Ebben az adásban a valós konfliktuszónák tanulságai mellett bemutatjuk az áprilisi hajdúszoboszlói Bitcoin konferencia teljes programját és egy új, ingyenes Bitcoin kalkulátort, amivel bárki megtervezheti a saját megtakarítási stratégiáját. Az epizód végére azt is megértitek, miért gondoljuk úgy, hogy a magyar vállalkozások bitcoin-elfogadása a következő nagy lépés.",
         chapters: [
         {
                 time: "00:00",
@@ -1886,8 +1911,9 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/3Owm9BpTMhCdwjCZ1CPv"
     },
     {
-                name: "Tank vagy porcelán? – A szabad piac nem kér engedélyt",
+                name: "Tank vagy porcelán? Egy Bitcoin Core fejlesztő válaszol",
                 id: "E97",
+                intro: "Kell-e a Bitcoint porcelánvázaként óvni a spamtől, vagy épp a támadások teszik golyóálló tankká? Erről beszélget velünk l0rinc, a Bitcoin Core magyar fejlesztője. Kiderül az is, miért fontosak a cypherpunk gyökerek, és hogyan akadályozza meg a matematika az \"Animal Farm\" effektust, ahol egyesek egyenlőbbek lennének a többieknél.",
                 chapters: [
                     {
                         time: "00:00",
@@ -1944,6 +1970,7 @@ export const podcasts = [
     {
         name: "Így veszünk bitcoint személyes adatok nélkül: RoboSats",
         id: "E96",
+        intro: "Lépésről lépésre megmutatjuk, hogyan vásárolhatsz bitcoint a RoboSats segítségével személyes adat megadása (KYC) nélkül. Openoms élőben végigvezet egy teljes adás-vételt az első kattintástól a bitcoin megérkezéséig, Tor böngészővel és Lightning-fizetéssel. Ráadásul bemutatjuk az OpenClaw AI ügynököt, amely a HUSZONEGY telegram csoportban segít figyelemmel követni a HUF-BTC ajánlatokat, sőt akár honlapfejlesztésben is aktívan részt vesz.",
         chapters: [
         {
                 time: "00:00",
@@ -1992,6 +2019,7 @@ export const podcasts = [
     {
         name: "Bitcoin drámák 2026-ban: mi az a BIP-110 és BIP-360?",
         id: "E95",
+        intro: "A BIP-110 és a BIP-360 körüli viták megosztják a bitcoinereket: az egyik a kéretlen adatok kiszűréséről, a másik a kvantumszámítógépek veszélyéről szól. A kilencvenötödik adásban, 2026 elején, a medvepiac közepén közérthetően elmagyarázzuk, mit akar elérni ez a két javasolt változtatás a Bitcoin szabályaiban, és miért tartja vendégünk az egyik bevezetési módját erőszakosnak, a másikat pedig valódi, de még nem égető feladatnak. Szó esik arról is, hol tart most az árfolyam a 200 hetes mozgóátlaghoz képest, és mire figyeljen, akinek bitcoin fedezetű hitele van.",
         chapters: [
         {
                 time: "00:00",
@@ -2036,6 +2064,7 @@ export const podcasts = [
     {
         name: "Hollandiában megszavazták: 36% adó a bitcoinra, eladás nélkül",
         id: "E94",
+        intro: "Hollandiában megszavazták a nem realizált bitcoin-nyereség 36%-os adóztatását 2028-tól. Robival beszélgetünk többek közt arról is, miért vásárol a Wall Street a zuhanásban, miért 70x a bitcoin hozama az arany 5x-éhez képest 2017 óta, és hogyan változtatja meg a bitcoin az emberek pénzügyi gondolkodását, lehetőségeit és szabadságát. Iratkozz fel és csatlakozz a közösségünkhöz, hogy ne maradj le egyetlen epizódról sem!",
         chapters: [
         {
                 time: "00:00",
@@ -2090,8 +2119,9 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/aEjlMooq6tdYtMCCUj0v"
     },
     {
-        name: "Az önrendelkezés fontossága nehéz időkben",
+        name: "Esik a Bitcoin árfolyam: miért most fontos a saját kulcs?",
         id: "E93",
+        intro: "A Bitcoin árfolyam jelentős korrekciója sokaknál okozott aggodalmat, de valójában ez a pillanat mutatja meg leginkább az önrendelkezés (self custody) igazi értékét. Ebben az epizódban Ferivel beszélgetünk arról, hogyan őrizhetjük meg nyugalmunkat nehéz időkben, miért fontos, hogy a kulcsaink a saját kezünkben legyenek, és hogyan tekinthetünk a jelenlegi helyzetre lehetőségként. Szó esik továbbá arról is, hogy a magyar kisvállalkozók hogyan kezdhetik el a Bitcoin elfogadást, miért kulcsfontosságú a felelősségvállalás a szabadságunk megőrzése érdekében, és Feri beharangozza a következő Bitcoin Miskolc konferencia időpontját is.",
         chapters: [
         {
                 time: "00:00",
@@ -2152,6 +2182,7 @@ export const podcasts = [
     {
         name: "A nyugalom forrása: zene, Bitcoin és Nostr",
         id: "E92",
+        intro: "Boka zenészként és a Nostr közösség aktív tagjaként mesél arról, hogyan változtatta meg életét a Bitcoin felfedezése, és miért jelenti számára a Bitcoin ugyanazt a fajta nyugalmat, mint a zene. Beszélgetünk vele arról, vajon hogyan lehet az átlagember számára érthetővé tenni a Bitcoin fontosságát, miért működnek jobban a kis, decentralizált közösségek, és hogyan kapcsolódik össze a pénzügyi szuverenitás a belső békével. Boka - a Reni & Boka zenei duó tagjaként - nonverbálisan közvetíti ugyanazt az értékrendet, amit a Bitcoin és a Nostr testesít meg: a szabadságot, az egyenlőséget és a nyugalmat.",
         chapters: [
         {
                 time: "00:00",
@@ -2204,6 +2235,7 @@ export const podcasts = [
     {
         name: "30 leggyakoribb Bitcoin kifogás és a tökéletes válaszok – Kata masterclass",
         id: "E91",
+        intro: "Kata alias Atak visszatér, hogy praktikus tanácsokkal vezessen minket a Bitcoin oktatásának művészetén keresztül, hangsúlyozva az újrakeretezési technikákat, amelyekkel hatékonyan oszthatjuk meg a Bitcoin előnyeit anélkül, hogy agresszívak lennénk. Bemutatja a leggyakoribb sztereotípiákat – általánosakat, magyar kontextusúakat, nőknek szólót és érzelmi alapúakat –, valamint intelligens válaszokat ad rájuk, segítve hallgatóinkat a mindennapi beszélgetésekben. Emellett Kata izgalmas projektjeiről is beszámol, mint a nőknek és vállalkozásoknak szóló új kurzusai, valamint egy kameruni Bitcoin-oktató franchise, amely alulról építkező forradalmat inspirál a pénzügyi függetlenség felé.",
         chapters: [
         {
                 time: "00:00",
@@ -2260,6 +2292,7 @@ export const podcasts = [
     {
         name: "Antropozófia, Waldorf és Bitcoin: Szabadság kint és bent",
         id: "E90",
+        intro: "Mit keres a Bitcoin egy Waldorf-pedagógus és antropozófiai terapeuta életében? Hajnal arról mesél, hogyan vezette a belső keresése a Waldorf-pedagógiához és a belső kontinensek felfedezéséhez. A beszélgetésben körüljárjuk, hogy a hierarchikus társadalmi struktúrák felbomlása és a szívközpontú együttműködés korszakában miként válhat a Bitcoin a közös teremtés eszközévé. Hajnal tapasztalatain keresztül rávilágítunk arra is, hogyan találhatjuk meg az egyensúlyt a technológia használatában, különösen a fiatal generáció tudatos fejlődése és a Waldorf-közösségek jövője érdekében.",
         chapters: [
         {
                 time: "00:00",
@@ -2316,6 +2349,7 @@ export const podcasts = [
     {
         name: "Nostr: cenzúraálló közösségi média",
         id: "E89",
+        intro: "A szabadság technológia nem csak a pénzügyekre korlátozódik: a Nostr protokoll ugyanazt a decentralizált filozófiát viszi át a közösségi média világába, mint amit a Bitcoin képvisel. Ebben az epizódban megmutatjuk, hogyan használhatod te is ezt a cenzúrázhatatlan platformot, miért fontos már most elkezdeni vele ismerkedni, és hogyan segítheti a Bitcoin terjedését. Magyar tartalmakkal, videómegosztással és a legjobb alkalmazásokkal ismerkedünk meg a gyakorlatban.",
         chapters: [
         {
                 time: "00:00",
@@ -2358,8 +2392,9 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/t4fhUojkH1ZheHOizhjT"
     },
     {
-        name: "Te még szabadlábon vagy? | Validátor mizéria",
+        name: "Első kripto validátor: te még szabadlábon vagy?",
         id: "E88",
+        intro: "Decemberben beütött a villám: hivatalosan kijelölték Magyarország első kriptovaluta validátor cégét, miközben a Revolut megszüntette magyarországi kriptoszolgáltatásait. Tamással részletesen körbejárjuk a validálási rendszer ellentmondásait, technikai és jogi buktatóit, valamint azt, hogy mindez mit jelent a magyar bitcoinerek számára a gyakorlatban. Emellett beszélgetünk a Bitcoin árfolyamának alakulásáról, a négyéves ciklusokról, a piaci helyzetről és közelgő meetupokról. #88 epizódunkban megemlítjük azt is, hogy a Tether 8 888,88 BTC-t vásárolt.",
         chapters: [
         {
                 time: "00:00",
@@ -2408,6 +2443,7 @@ export const podcasts = [
     {
         name: "'Európának lőttek' | Első magyar Bitcoin lakásvásárlás?",
         id: "E87",
+        intro: "Itthon megtörtént az első lakásvásárlás bitcoinnal, közben az Abu Dhabi-i Bitcoin MENA konferencián többen azt mondták: \"Európának lőttek\". Feri friss élményekkel tér vissza a konferenciáról, ahol találkozott a globális Bitcoin mozgalom meghatározó szereplőivel, és átfogó képet kapott arról, hogyan nyitnak a bankok és országok a Bitcoin felé világszerte. Évzáró beszélgetésünkben a 2026-os év várakozásairól, az adoptáció fontosságáról és arról is szó esik, hogyan válhat a Bitcoin a mindennapi üzleti élet természetes részévé Magyarországon is.",
         chapters: [
         {
                 time: "00:00",
@@ -2470,8 +2506,9 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/PYtHDSsCtuAwbCPdUzyr"
     },
     {
-        name: "A nemzeti validáló esete a Bitcoin oktatással | Revolut, validálás, pánik",
+        name: "Kripto validálás és Revolut: mitől pánikolnak ennyien?",
         id: "E86",
+        intro: "Felesleges pánik övezi a magyarországi kripto validálást, közben a Revolut is korlátozta a szolgáltatásait. Kata frissen érkezik a Bitcoin Educators Academy speciális torinói képzéséről, ahol a világ hat első résztvevője közé került. Beszélgetünk a képzés tapasztalatairól, a The Bitcoiner's Pretties újdonságairól - beleértve az ingyenes kiszállítást és a Bitcoin Art Magazine európai forgalmazását -. Emellett szóba kerül a budapesti meetup élményei és a közelgő pécsi összejövetel is.",
         chapters: [
         {
                 time: "00:00",
@@ -2538,8 +2575,9 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/RNX2zvDOkRflnJ9ruolN"
     },
     {
-        name: "Magyar titánium lapka & Bitcoin tanácsadás",
+        name: "Magyar titánium lapka a Bitcoin tárca mentéséhez",
         id: "E85",
+        intro: "Kicsi, tűzálló és nem rozsdásodik: Mordai saját készítésű titánium lapkát mutat be a Bitcoin tárca biztonsági mentéséhez. Az elmúlt inflációs időszak kellős közepén fedezte fel a Bitcoint, és azóta élete fontos részét képezi a \"narancs pirula\". Megosztja velünk, hogyan változtatta meg világlátását a pénz valódi természetének megértése. Emellett bemutatkozik a Bitcoin Mentor, amely személyre szabott, magyar nyelvű tanácsadással segíti az érdeklődőket a Bitcoin megértésében és alkalmazásában.",
         chapters: [
         {
                 time: "00:00",
@@ -2596,6 +2634,7 @@ export const podcasts = [
     {
         name: "A Bitcoin mint tükör – Miért szegényedünk és mit tehetünk ellene?",
         id: "E84",
+        intro: "Folyamatosan szegényedünk, csak nem vesszük észre, mert \"gumiszalaggal\" mérünk mindent, a Bitcoin pedig tükröt tart ennek. Rolanddal arról beszélgetünk, hogyan mutatja meg a Bitcoin a valódi gazdasági helyzetet. Egy gondolatébresztő beszélgetés arról, hogy a Bitcoin nemcsak mérőeszköz, hanem egyben megoldás is az elszegényedésre.",
         chapters: [
         {
                 time: "00:00",
@@ -2652,6 +2691,7 @@ export const podcasts = [
     {
         name: "Giganet - Az első magyar Bitcoin-barát internetszolgáltató",
         id: "E83",
+        intro: "A Giganet az első magyar internetszolgáltató, amely villámgyorsan és teljesen automatizáltan fogad bitcoint. Zoli végigvezet minket azon az úton, amely a magánnyugdíjpénztári kiábrándulástól a helyi kosárközösségeken át vezetett el a Bitcoin megértéséig, és a jelenlegi piaci helyzetről is beszélgetünk. Bemutatjuk a Giganet Bitcoin fizetési rendszerét is, amely példát mutat arra, hogyan fogadhat bitcoint egy szolgáltató.",
         chapters: [
         {
                 time: "00:00",
@@ -2716,6 +2756,7 @@ export const podcasts = [
     {
         name: "Espresso bitcoinért: 21 másodperc",
         id: "E82",
+        intro: "Espresso bitcoinért: a Mokambo kávé magyarországi forgalmazója úttörő a bitcoin elfogadásában, és hisz a decentralizált jövőben. Dósay Tamás több mint 21 éve képviseli az autentikus olasz kávékultúrát hazánkban. Megismerjük általa a minőségi kávékészítés titkait, az espresso valódi jelentését, és azt, hogyan találkozott a Bitcoin világával.",
         chapters: [
         {
                 time: "00:00",
@@ -2764,6 +2805,7 @@ export const podcasts = [
     {
         name: "Magyar kriptoszabályozás: mi változik és kit érint?",
         id: "E81",
+        intro: "Kata visszatér, hogy jogászként átfogó képet adjon a magyar kriptoszabályozásról: a MiCA uniós kerettől a hazai kriptotörvényen át a friss SZTFH rendeletig. Kiderül, milyen változásokat hoz 2026. január 1-je a validálási kötelezettség terén, kit érint a BTK új tényállása, és miért marad továbbra is jogszerű a magánszemélyek peer-to-peer illetve megtakarítási célú BTC-vásárlása. Részletesen körbejárjuk a pénzmosás-ellenes szabályozás tényleges hatékonyságát, a DeFi-t fenyegető centralizációs csapdákat, valamint a Nostr erősségeit a cenzúrával szemben.",
         chapters: [
         {
                 time: "00:00",
@@ -2822,8 +2864,9 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/SX2LKLWw5YYnfoPK0Jxz"
     },
     {
-        name: "A gondolat szabadsága – Máltától Prágáig, validáció nélkül",
+        name: "Kripto validálás: ezeket a kivételeket hozta az új rendelet",
         id: "E80",
+        intro: "Megjelent a kripto validálás végrehajtási rendelete, és a validálási kivételek között megnyugtató részleteket találtunk. Kata friss élményekkel tér vissza a miskolci Bitcoin konferenciáról is. Fedezd fel a The Bitcoiner's Pretties mozgalmat: női közösség, egyedi dizájnos merch, saját kiadású könyvek és egy esztétikus webshop vár rád. Beszélgetünk AI-etikáról, tudati támadásokról, ifjúságról és új szolgáltatásokról is.",
         chapters: [
         {
                 time: "00:00",
@@ -2860,6 +2903,7 @@ export const podcasts = [
     {
         name: "Bitcoin Miskolc: közösség, szabadság, jövő",
         id: "E79",
+        intro: "A miskolci Bitcoin konferencia szenvedélyes hangulatát idézzük fel Ferivel, ahol mély beszélgetések zajlottak, új ötletek születtek, és kirajzolódott a decentralizált jövő víziója. Szó esik a Bitcoin tábor ötletéről, a vállalkozások Bitcoin-elfogadásáról, sőt arról is, hogyan vásárolhatsz lakást Bitcoinnal a jövőben.",
         chapters: [
         {
                 time: "00:00",
@@ -2912,6 +2956,7 @@ export const podcasts = [
     {
         name: "Bitcoin és felelősség: út a tudatos jövő felé",
         id: "E78",
+        intro: "A Bitcoin szellemiségéről és a felelősségvállalás fontosságáról beszélgetünk Danival. Felfedezzük, hogyan kínál a Bitcoin alternatívát a jelenlegi pénzügyi rendszer kihívásaira, és miként inspirál tudatosabb gondolkodásra a gazdaság, társadalom és egyéni döntések terén.",
         chapters: [
         {
                 time: "00:00",
@@ -2964,6 +3009,7 @@ export const podcasts = [
     {
         name: "Villámok és node-ok: Lightning++, Ark és RaspiBlitz",
         id: "E77",
+        intro: "Openoms beszámol a berlini Lightning++ konferenciáról, ahol a Bitcoin Lightning Network legújabb fejlesztései és protokolljai, mint az Ark és a Spark álltak a középpontban, kiemelve a gyorsabb és gazdaságosabb tranzakciók lehetőségeit. Bemutatjuk a RaspiBlitz projekt legújabb frissítéseit is, amely segít otthoni Bitcoin node-ok építésében, hangsúlyozva a hálózat decentralizációjának fontosságát és a saját validáció előnyeit. Csatlakozz hozzánk, hogy mélyebb betekintést nyerj a Bitcoin technológiai világába!",
         chapters: [
         {
                 time: "00:00",
@@ -3006,8 +3052,9 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/7JbmKj8MO3nRBf88XES9"
     },
     {
-        name: "Védd ki a csalásokat! - Tippek, technikák, tanulságos esetek",
+        name: "Kripto csalások: így vernek át, és így védd ki",
         id: "E76",
+        intro: "Dávid, a Ginger Wallet fejlesztője osztja meg velünk a kriptovilág leggyakoribb csalásait, amelyek a kapzsiságra és a bizalomra építenek, legyen szó hamis befektetési platformokról vagy adathalász támadásokról. Tanulságos eseteken keresztül mutatjuk be, hogyan vezetik félre az embereket pszichológiai trükkökkel, és miért fontos felismerni a figyelmeztető jeleket, mint a sürgetés vagy a túl szép ígéretek. Hallgass bele, hogy tippeket és technikákat kapj a védekezéshez, és elkerüld a veszteségeket ebben a dinamikus, de kockázatos térben!",
         chapters: [
         {
                 time: "00:00",
@@ -3060,6 +3107,7 @@ export const podcasts = [
     {
         name: "Bitcoin: menekülési út a fiatvihar előtt",
         id: "E75",
+        intro: "Feri a Bitcoin világának legfrissebb híreiről és egy budapesti meetup tapasztalatairól mesél. A beszélgetés a Bitcoin szerepét vizsgálja a jelenlegi gazdasági környezetben, kiemelve a fiat pénzrendszer kihívásait és a Bitcoin mint lehetséges alternatíva jelentőségét. Emellett szó esik a közelgő Bitcoin Miskolc konferenciáról, annak programjáról és a közösségi edukáció fontosságáról.",
         chapters: [
         {
                 time: "00:00",
@@ -3108,6 +3156,7 @@ export const podcasts = [
     {
         name: "A Luxmérnök útja: értékteremtés a Bitcoin szellemében",
         id: "E74",
+        intro: "A Luxmérnök inspiráló története a kriptovaluták világáról és a vállalkozói útról. Ebben az adásban mélyre ásunk a Bitcoin filozófiájában, a pénzügyi rendszer problémáiban és Zoli gyerekkori élményeiben, amelyek a decentralizált pénz iránti nyitottságát alakították. Megtudhatod azt is, hogyan változtatta meg a Bitcoin Zoli életét, és miért hisz a valódi értékteremtésben.",
         chapters: [
         {
                 time: "00:00",
@@ -3142,8 +3191,9 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/jJHyP5C0foWuVgZH0swx"
     },
     {
-        name: "Jogbizonytalanságtól a bitcoiner lifestyle-ig",
+        name: "MiCA: jogbizonytalanságtól a bitcoiner lifestyle-ig",
         id: "E73",
+        intro: "Jogbizonytalanság a MiCA szabályozás körül, női szerepvállalás és a bitcoiner lifestyle lényege a helsinki Bitcoin konferencia után. Kata beszámol a konferencia élményeiről, és a Bitcoin közösség legfrissebb fejleményeit is átbeszéljük. Csatlakozzatok hozzánk október 17-19. között a Bitcoin Miskolc eseményen, ahol élőben is találkozhatunk és még többet megtudhattok!",
         chapters: [
         {
                 time: "00:00",
@@ -3190,8 +3240,9 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/4lzy8VYehX4UJzKuVkz4"
     },
     {
-        name: "Bitcoin(erek) újratöltve",
+        name: "Bitcoin nyári összefoglaló: árfolyam, törvények, bányagépek",
         id: "E72",
+        intro: "Mi történt a Bitcoin világában a nyáron? Árfolyammozgások, törvényi változások és új bányagépek a nyári szünet utáni első adásban. Csatlakozz hozzánk, és merülj el a Bitcoin maximalisták világában!",
         chapters: [
         {
                 time: "00:00",
@@ -3306,6 +3357,7 @@ export const podcasts = [
     {
         name: "A Bitcoin morális jelentősége",
         id: "E71",
+        intro: "Mi a Bitcoin morális jelentősége, és mit mondott erről Jack Mallers a prágai Bitcoin konferencián? Nyárköszöntő adásunkban visszatekintünk az elmúlt időszak legfontosabb témáira. Szó lesz a fiat pénz problémáiról, a magyar Büntető Törvénykönyv új passzusairól, valamint a nyári szünet előtti terveinkről és házi feladatokról.",
         chapters: [
         {
                 time: "00:00",
@@ -3358,6 +3410,7 @@ export const podcasts = [
     {
         name: "BTC Prague kalandok: Adaptáció és összefogás",
         id: "E70",
+        intro: "A kb. 8000 érdeklődőt vonzó BTC Prague konferencia izgalmait mutatja be Feri és OptOut, ahol több mint 7000 Bitcoin Lightning tranzakció zajlott flottul és villámgyorsan a BTCPay Server és a Blink profi együttműködésének köszönhetően. Szó esik a Bitaxe bitcoin bányászgépekről, a cypherpunk meetup egyedi hangulatáról és a vállalati Bitcoin adaptáció legfrissebb trendjeiről. Hallgasd meg a prágai élménybeszámolót, ami a közösség erejét és a Bitcoin jövőjét helyezi fókuszba!",
         chapters: [
         {
                 time: "00:00",
@@ -3394,6 +3447,7 @@ export const podcasts = [
     {
         name: "Bitcoin: a decentralizált szabadság szelleme",
         id: "E69",
+        intro: "A rend, hierarchia és decentralizáció témaköréből indulunk Danival, Antival és Árpival, hogy felfedezzük a Bitcoin szerepét és az alulról szerveződő közösségek erejét. Szabad folyású beszélgetésünkben a spiritualitás, a felelősségvállalás és a közösségi összefogás kapcsolatait boncolgatjuk.",
         chapters: [
         {
                 time: "00:00",
@@ -3440,8 +3494,9 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/nOtPTkwIMEU3chMktfjl"
     },
     {
-        name: "Üzleti Bitcoin tartalékképzés és publikálás magyar úttörője",
+        name: "Bitcoin a céges tartalékban: egy magyar úttörő története",
         id: "E68",
+        intro: "A KV Cégcsoport magyar úttörőként nyilvánosan bitcoint tart a céges tartalékában, és fel is került a bitcointreasuries.net listájára. Szó esik a Bitcoin-elfogadásról és az üzleti körökben történő terjedéséről is. Emellett hallhatunk a Bitcoin jövőjéről, Bitcoin előadásokról, valamint Feri vendégszerepléséről is a BitcoinBázis podcastjában.",
         chapters: [
         {
                 time: "00:00",
@@ -3494,6 +3549,7 @@ export const podcasts = [
     {
         name: "Bitcoin, Nostr és a szabadságtechnológiák jövője",
         id: "E67",
+        intro: "Bemutatkozik Five, a magyar Bitcoin közösség egyik aktív tagja, egyben a budapesti Bitcoin meetupok szervezője valamint a szabadságtechnológiák elkötelezett híve. Five szoftverfejlesztőként a Bitcoin világában talált rá arra az útra, ahol a technológia és a filozófia találkozik. Beszél saját útjáról, annak dokumentálásáról, fejlesztési projektjeiről, a Nostr protokollban rejlő lehetőségekről, illetve a honlapjáról, ahol gyakorlati és elméleti útmutatókat kínál a Bitcoin önálló tárolásához és a szabadságtechnológiák megértéséhez.",
         chapters: [
         {
                 time: "00:00",
@@ -3542,6 +3598,7 @@ export const podcasts = [
     {
         name: "Bitcoin Pizza Day történetek és tanulságok",
         id: "E66",
+        intro: "A Bitcoin Pizza Day alkalmából egy dunakanyari szombaton három helyen lehetett bitcoinnal fizetni, és az egyik helyen negyvenből huszonöt pizzát bitcoinnal fizettek ki. A hatvanhatodik adásban a dunakanyari Pizza Day szervezőjével és a pizzákat sütő fiatal édesapjával arról beszélgetünk, hogyan lehet rávenni egy kávézót vagy pékséget, hogy egy napra bitcoint fogadjon el, és miért számít ebben a legtöbbet a személyes ismeretség. Szó esik arról, mennyire egyszerű a technika a pult mögött, hogyan lehet közben a pénztárgép szabályainak is megfelelni, és miért tartanak mégis sokan egy ellenőrzéstől. Azt is elmondjuk, miért érdemes a bitcoint nemcsak tartani, hanem néha el is költeni.",
         chapters: [
         {
                 time: "00:00",
@@ -3582,6 +3639,7 @@ export const podcasts = [
     {
         name: "Bitcoin öröklés, biztonságos jövő",
         id: "E65",
+        intro: "A Bitcoin öröklés izgalmas és komplex témáját járja körül Dávid, nopara és Anti, bemutatva a technikai és jogi kihívásokat, valamint a biztonságos jövőt építő lehetséges megoldásokat. A beszélgetés során megvitatják, hogyan lehet biztonságosan átadni bitcoint az örökösöknek, kiemelve az oktatás fontosságát és a különböző technológiai eszközök alkalmazását.",
         chapters: [
         {
                 time: "00:00",
@@ -3622,6 +3680,7 @@ export const podcasts = [
     {
         name: "Bitcoint az étlapra: üzleti bitcoin elfogadás",
         id: "E64",
+        intro: "Egy dunaújvárosi szálloda és kávéház már bitcoint is elfogad, az étlapján pedig satoshiban is szerepelnek az árak. A hatvannegyedik adásban vendégünk, aki ott és több szállodában is beüzemelte a bitcoin elfogadást, lépésről lépésre elmagyarázza, mi történik a háttérben, amikor egy webshopban vagy a pultnál bitcoinnal fizetsz. Élőben ki is fizetünk egy tételt egy fizetési terminálon, és szó esik arról, mennyi munka egy cégnek bevezetni a bitcoin elfogadást, és hogyan kezeli ezt a könyvelő. A végén azt is elmagyarázzuk, miről szólt az OP_RETURN körüli vita a blokkokba írható adatokról, amely néhány napra megosztotta a bitcoinereket.",
         chapters: [
         {
                 time: "00:00",
@@ -3674,6 +3733,7 @@ export const podcasts = [
     {
         name: "Miért fontosak a Bitcoin node-ok?",
         id: "E63",
+        intro: "A Bitcoin node-ok őrzik a hálózat biztonságát és decentralizációját, és megmutatjuk azt is, hogyan kezdhetsz neki a saját node-od futtatásának. Openoms vendégünkkel arról is beszélgetünk, hogyan nyújtja ez számodra a biztonság, a magánszféra és a szabadság hármasságát.",
         chapters: [
         {
                 time: "00:00",
@@ -3730,6 +3790,7 @@ export const podcasts = [
     {
         name: "XXI Capital - a Bitcoin új támadása a fiat rendszer ellen",
         id: "E62",
+        intro: "Jack Mallers új cége, a Twenty One Capital (XXI) nemcsak felvásárolja a bitcoint, hanem minden tevékenységét a bitcoinra építi. A hatvankettedik adásban arról beszélgetünk, mi lehet a terv a 42 ezer bitcoinnal a Nasdaqra készülő cég mögött, és hogyan vándorolhat át a vagyon az amerikai állampapírokból a bitcoinba úgy, hogy közben ne reccsenjenek meg a piacok. Szó esik arról, kik tartják a legtöbb amerikai állampapírt, miért kellett az amerikai elnöknek visszakoznia a Kínára kivetett vámokkal, és mi derült ki a spanyolországi áramszünetből a készpénzről. A végén azt is megbeszéljük, miért beszélnek egyesek szintetikus felezésről, amikor a nagy cégek sorra húzzák ki a piacról a frissen kibányászott bitcoint.",
         chapters: [
         {
                 time: "00:00",
@@ -3782,6 +3843,7 @@ export const podcasts = [
     {
         name: "Árelnyomás és magyar Firefish felület",
         id: "E61",
+        intro: "Rendhagyó adás két részben: először Anti rendhagyó helyszínen beszél árelnyomásról, majd Árpi részletesen és szemléletesen bemutatja a Firefish magyar nyelvű felületét, mely Bitcoin fedezetű kölcsönökhöz köti össze a kölcsönfelvevő és a kölcsönadó (befektető) feleket.",
         chapters: [
         {
                 time: "00:00",
@@ -3844,8 +3906,9 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/JddLn5rknrsh9VhEF08L"
     },
     {
-        name: "Bitcoin pszichológia",
+        name: "FOMO, FUD, status quo: a Bitcoin pszichológiája",
         id: "E60",
+        intro: "Kognitív disszonancia, status quo torzítás, FOMO és FUD: a Bitcoin pszichológiája, avagy miért nehéz elfogadni a Bitcoint. Karóval megvizsgáljuk, hogyan alakítják az emberi döntések és társadalmi hatások a Bitcoin elfogadását. Anti elmaradt Bitcoin Miskolc konferenciás előadása pótlásával indít. Csatlakozz hozzánk, hogy megértsd, miért nem csupán gazdasági, hanem pszichológiai és társadalmi jelenség is a Bitcoin térnyerése!",
         chapters: [
         {
                 time: "00:00",
@@ -3894,6 +3957,7 @@ export const podcasts = [
     {
         name: "Bitcoin és spiritualitás",
         id: "E59",
+        intro: "Ebben a különleges epizódban Dani és Árpi a Bitcoin és a spiritualitás izgalmas találkozásáról beszélget, arról, hogy miként kapcsolódik össze a technológia, az energia és a tudatosság. Megvizsgáljuk, hogyan segíthet a belső figyelem és a decentralizáció egy szabadabb, harmonikusabb világ megteremtésében.",
         chapters: [
         {
                 time: "00:00",
@@ -3950,6 +4014,7 @@ export const podcasts = [
     {
         name: "Bitcoin vs. digitális euró: a szabadság jövője",
         id: "E58",
+        intro: "Anti és Robert a német és európai gazdasági változásokról beszélget, különös tekintettel a digitális euró térhódítására és a Bitcoin szerepére a központi banki pénzekkel szemben. Feltárjuk, hogyan fenyegeti az adósságspirál és az infláció a megtakarításokat, és miért lehet a Bitcoin a szabadság és öngondoskodás kulcsa egy egyre centralizáltabb világban. Csatlakozz hozzánk, hogy megértsd, miért nemcsak technológia, hanem filozófia is rejlik a Bitcoin mögött!",
         chapters: [
         {
                 time: "00:00",
@@ -4006,6 +4071,7 @@ export const podcasts = [
     {
         name: "Kössük a pénzt az energiához!",
         id: "E57",
+        intro: "Gyerekek is színpadra álltak a hajdúszoboszlói Bitcoin konferencián, ebben az adásban pedig összefoglaljuk, mi történt ott. Jön a vonat, fut a vonat... Gondolkodó, szabad ember vagy adózó? Kössük a pénzt az energiához! Miket hoz magával a Bitcoin megértése? Központi fegyverkezés lakossági megtakarításból? Bitcoin a júniusi Trust Summiton + japán és kínai elmentek bitcoint venni.",
         chapters: [
         {
                 time: "00:00",
@@ -4058,6 +4124,7 @@ export const podcasts = [
     {
         name: "Bitcoin konferencia Hajdúszoboszlón",
         id: "E56",
+        intro: "Bemelegítő beszélgetés a második magyarországi Bitcoin konferencia előtt a rendezvény helyszínén, Hajdúszoboszlón, a podcastot is támogató, bitcoin-elfogadó, négycsillagos Hotel Atlantisban, mely alapból egy családi wellness szálloda.",
         chapters: [
         {
                 time: "00:00",
@@ -4098,6 +4165,7 @@ export const podcasts = [
     {
         name: "Bitcoin makrogazdaság és a saját node jelentősége",
         id: "E55",
+        intro: "Elmélyedünk a globális makrogazdasági trendek és a bitcoin árfolyam összefüggéseiben, különös tekintettel Trump elnök stratégiai Bitcoin tartalékról szóló rendeletére. Majd bemutatjuk a saját bitcoin node futtatásának gyakorlati előnyeit, és megvizsgáljuk, hogyan járulhat hozzá a személyes pénzügyi szuverenitáshoz a legújabb Umbrel 1.4 rendszer segítségével.",
         chapters: [
         {
                 time: "00:00",
@@ -4146,6 +4214,7 @@ export const podcasts = [
     {
         name: "Ginger wallet - bitcoin tárca bemutató",
         id: "E54",
+        intro: "Részletesen bemutatkozik a Ginger wallet. A szoftver letöltésétől indulva szemléltetünk új szoftver tárca létrehozást, bitcoin fogadást, küldést és vásárlást valamint anonimizáló coinjoin műveletet.",
         chapters: [
         {
                 time: "00:00",
@@ -4198,6 +4267,7 @@ export const podcasts = [
     {
         name: "Bitcoin vagy Fiat: Ki nyeri majd a pénzügyi háborút?",
         id: "E53",
+        intro: "A bitcoin és a fiat pénz versenyében vendégünk egy egyszerű szabályt ismételget a követőinek: mielőtt bitcoint vennél, előbb vegyél könyveket. Az ötvenharmadik adásban egy Németországban élő magyar tartalomgyártóval arról beszélgetünk, miért nem lehet ma a megtakarításunkat épségben átvinni az időben, és miért lehetne jobb a világ egy olyan pénzzel, amely idővel többet ér. Szó esik arról, miért hitelből megy Disneylandbe a látogatók többsége, miért fizet Németország azért, hogy az osztrákok átvegyék a fölösleges áramát, és mit tanulhatunk abból, ahogyan annak idején az egyház és az állam szétvált. Végül arról is beszélünk, mi lesz a megtakarításokkal, ha egy nemzeti valuta egyszer csak bedől.",
         chapters: [
         {
                 time: "00:00",
@@ -4290,6 +4360,7 @@ export const podcasts = [
     {
         name: "Bitcoin vásárlás: hol ajánljuk, hol nem ajánljuk",
         id: "E52",
+        intro: "Bitcoin vásárlásnál a nagy kriptotőzsdék felülete olyan, mint egy kaszinóé, pedig aki bitcoint vesz, az többnyire nem játszani akar, hanem félretenni. Az ötvenkettedik adásban két fejlesztő vendégünkkel sorra vesszük, hol érdemes bitcoint venni: mennyit kérnek a hazai automaták, miért kell hozzá egy eurós számla, és hogyan kerül a bitcoin rögtön a saját tárcádba. Szó esik arról, mire jó egy hardvertárca, és mennyit érdemes rá költeni, miért adjuk meg kelletlenül a személyes adatainkat, és hol lehet úgy vásárolni, hogy ne kelljen feltölteni a személyi igazolványunkat. A legfontosabb tanácsunk azonban egyszerű: kezdd kis összeggel, és próbáld ki, mielőtt nagyobbat vásárolsz.",
         chapters: [
         {
                 time: "00:00",
@@ -4328,8 +4399,9 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/ThOgYGoNl3j31bNxIwhT"
     },
     {
-        name: "Bitcoin konferencia + idő faktor = türelem",
+        name: "Most kezdenél bitcoinnal? Ezt tedd az első években",
         id: "E51",
+        intro: "Vendégünk szerint aki most kezd bitcoinnal foglalkozni, az ne a teljes vagyonával szálljon be, hanem kis összegekkel, és adjon magának négy-hat évet. Az ötvenegyedik adásban arról beszélgetünk, miért éri meg türelmesnek lenni, miért fizetünk ma kevesebb mint száz forintot egy tranzakcióért, és mi lett volna, ha a 2017-es vitában a nagyobb blokkok hívei nyernek. Szó esik az Egyesült Államokban a bitcoin előtt megnyíló kapukról, arról, hogy Csehországban három év után adómentes a bitcoinon elért nyereség, és arról is, miért akadt fenn egy magyar cég utalása a saját pénzével a saját bankjában. Beharangozzuk a második magyar Bitcoin konferenciát is, ahol gyerekek is színpadra állnak, hogy elmondják, hogyan élik meg a saját útjukat a bitcoinnal.",
         chapters: [
         {
                 time: "00:00",
@@ -4370,6 +4442,7 @@ export const podcasts = [
     {
         name: "Bitcoin félelmek, bizonytalanság, kétségek II.",
         id: "E50",
+        intro: "Folytatjuk a Bitcoinnal kapcsolatos tipikus félelmek, bizonytalanságok és kétségek (FUD) oszlatását. Felmerülnek a defláció veszélyei, megkérdőjeleződnek a hitelek, és közelebb kerülünk ahhoz, hogy mi lufi és mi nem lufi.",
         chapters: [
         {
                 time: "00:00",
@@ -4398,6 +4471,7 @@ export const podcasts = [
     {
         name: "Bitcoin félelmek, bizonytalanság, kétségek I.",
         id: "E49",
+        intro: "A média által gerjesztett félelemek, bizonytalanságok és kétségek sokakat eltántorítanak a Bitcoinnal való ismerkedéstől. Ebben az adásban elkezdjük a tipikus, visszatérő FUD-ok (Fear-Uncertainty-Doubt) oszlatását azáltal, hogy alaposan megvizsgáljuk a hátterüket.",
         chapters: [
         {
                 time: "00:00",
@@ -4446,6 +4520,7 @@ export const podcasts = [
     {
         name: "Hozz létre saját tartalék alapot!",
         id: "E48",
+        intro: "Az új amerikai elnök a beiktatása előtt bitcoin tartalék helyett egy értéktelen mémcoint dobott piacra, a saját tartalékodhoz viszont senki engedélye nem kell. A negyvennyolcadik adásban arról beszélgetünk, miért nem az elnökökön múlik a bitcoin sorsa, és miért érdemes inkább arra figyelni, amire hatással vagyunk: hogyan teremtünk értéket, és hová tesszük félre. Elmeséljük egy rövidfilm történetét két kitalált szigetországról, amelyek közül csak az egyik nyomtathat pénzt, és megnézzük, hány négyzetméter lakást ér ma az a 0,1 bitcoin, amely másfél éve egyetlen négyzetméter ára volt. Szó esik arról is, hogyan nyitja egyre szélesebbre az infláció az ollót a gazdagok és mindenki más között.",
         chapters: [
         {
                 time: "00:00",
@@ -4494,6 +4569,7 @@ export const podcasts = [
     {
         name: "Mit jelent a Travel Rule és a MiCA?",
         id: "E47",
+        intro: "December 30. óta a MiCA rendelet és a travel rule köti az európai kriptoszolgáltatókat, és ha ezer eurónál többet utalsz egy tőzsdéről, a nevedet is tovább kell adniuk. A negyvenhetedik adásban jogász vendégünk közérthetően elmagyarázza, mit jelent ez a hétköznapi felhasználónak, mi az a travel rule, vagyis az utalásokat kísérő adattovábbítási szabály, hogyan kell bizonyítani, hogy egy tárca a tiéd, és miért nem bújhatsz el több kisebb utalás mögé sem. Szó esik arról, miért lehet egy ékszerboltban kérdések nélkül milliókért aranyat venni, miközben a bitcoin minden mozdulatát rögzítik, és mit ír a rendelet a bányászat környezeti hatásairól. A végén azt is megbeszéljük, miért vett bitcoint a legnagyobb olasz bank.",
         chapters: [
         {
                 time: "00:00",
@@ -4546,6 +4622,7 @@ export const podcasts = [
     {
         name: "16 éves a Bitcoin - Jade tárca ajándékozás és ismertetés",
         id: "E46",
+        intro: "JAN3-án lett 16 éves a Bitcoin. Megemlékezünk korábbi ciklusokról, grafikonokat sasolunk, MNB videókat elemzünk, jövőbe tekintünk, Jade bitcoin tárca beüzemelést ismertetünk, JAN3 nyereményjátékot eredményhirdetünk.",
         chapters: [
         {
                 time: "00:00",
@@ -4590,6 +4667,7 @@ export const podcasts = [
     {
         name: "Peer-to-peer bitcoin fedezetű kölcsön",
         id: "E45",
+        intro: "Személyes élmények és tapasztalatok a Bitcoin hálózat által védett peer-to-peer bitcoin fedezetű kölcsönök világából. Ne add el a Bitcoinod, használd kölcsönfedezetként!",
         chapters: [
         {
                 time: "00:00",
@@ -4634,6 +4712,7 @@ export const podcasts = [
     {
         name: "A tömegeknek kell megérteni a Bitcoin mondanivalóját",
         id: "E44",
+        intro: "Vendégünk hosszú elemzést írt arról, miért érné meg Magyarországnak bitcoint tartalékolni, ma mégis úgy gondolja, hogy nem a politikusokat kell meggyőzni. A negyvennegyedik adásban arról beszélgetünk, miért az emberek tömegein múlik a változás, mi történne, ha egy szakma minden tagja egyszerre mondana nemet, és miért lehetnek a jövő nyertesei a kis városállamok. Az egyik házigazdánk beszámol az Abu-Dzabiban rendezett Bitcoin MENA konferenciáról is, ahol a megszokottnál jóval több volt az öltöny és az üzletember. A végén felidézzük, mi volt a legjobb dolog a bitcoinerek számára 2024-ben.",
         chapters: [
         {
                 time: "00:00",
@@ -4678,6 +4757,7 @@ export const podcasts = [
     {
         name: "Bitcoin fejlesztők és a bitcoin fejlesztése",
         id: "E43",
+        intro: "A Bitcoin mögött nem áll cég, nincs főnök és nincs kinevezett fejlesztőcsapat, a szoftver mégis évről évre gyorsabb és biztonságosabb lesz. A negyvenharmadik adásban egy magyar Bitcoin Core fejlesztő meséli el, hogyan jutott el a bitcoin a korábbi, elbukott digitális pénzektől Satoshi prototípusáig, amelybe még egy pókerjátékot is beleírt. Közérthetően elmagyarázza, miben különbözik a szabályok kétféle módosítása, a soft fork és a hard fork, ki dönti el, mi kerül be a kódba, és miért nézték eleinte észak-koreai hackernek, amikor elkezdett dolgozni rajta. Szó esik arról is, hogyan gyorsította fel harminc százalékkal egy új node első szinkronizálását egy módosítás, amelyen ő is dolgozott, és miért védik a fejlesztők a kódot úgy, mint egy immunrendszer.",
         chapters: [
         {
                 time: "00:00",
@@ -4722,6 +4802,7 @@ export const podcasts = [
     {
         name: "Magyar Nemzeti Bitcoin Tartalék",
         id: "E42",
+        intro: "Ha a magyar állam a tartalékainak egy részét bitcoinra váltaná, egy egyszerű modell szerint húsz éven belül akár a teljes államadósságát is visszafizethetné. A negyvenkettedik adásban vendégünk Michael Saylor nyilvános táblázatába írja be a magyar számokat, és végigmegyünk azon, mi történne óvatosabb és merészebb forgatókönyvek mellett. Szó esik arról, miért javasolja egy amerikai szenátor, hogy az Egyesült Államok egymillió bitcoint vásároljon, hol tart ebben El Salvador és Bhután, és miért veszített ötven éven át átlagosan évi hat százalékot az értékéből még a dollár is. Vendégünk azt is elmondja, miért kezdett el a saját cégcsoportja is rendszeresen bitcoint vásárolni.",
         chapters: [
         {
                 time: "00:00",
@@ -4774,6 +4855,7 @@ export const podcasts = [
     {
         name: "A főbérlőd is látja, mennyi bitcoinod van?",
         id: "E41",
+        intro: "A bitcoint nem a neved, hanem egy számsor azonosítja, a főkönyv viszont mindenki számára nyilvános, és egyetlen fizetésből meglepően sok minden kiolvasható. A negyvenegyedik adásban vendégünk, aki évekig egy adatvédelemre szakosodott Bitcoin tárca fejlesztője volt, elmagyarázza, mit árul el rólad a hálózat és mit a főkönyv, és hogyan véd meg a saját node, a Tor anonimizáló hálózat és a CoinJoin, vagyis a sok felhasználó közös tranzakciója. Elmeséli azt is, hogyan lett egy szoftvercég fejlesztőjéből nyílt forráskódú Bitcoin fejlesztő, és miért tud bárki hozzájárulni egy ilyen projekthez, akár egy elírás kijavításával is. Szó esik egy Lightningon fizetős csirkeetetőről is, amely jól mutatja, milyen könnyű bitcoinért az egész világnak árulni.",
         chapters: [
         {
                 time: "00:00",
@@ -4830,6 +4912,7 @@ export const podcasts = [
     {
         name: "Nostr és otthoni bitcoin bányászat",
         id: "E40",
+        intro: "Otthoni bitcoin bányászat egy Bitaxe géppel, és a Nostr, ami a közösségi médiát szabadítja fel: ezekről beszélgetünk HenkyPenkyvel. Szóba kerül az Alby Hub, a noStrudel és a nukleáris energia is.",
         chapters: [
         {
                 time: "00:00",
@@ -4878,6 +4961,7 @@ export const podcasts = [
     {
         name: "Pogátsa Zoltán Bitcoin tévedései ráadás",
         id: "E39",
+        intro: "Előző adásunkban Pogátsa Zoltán (Pogi) \"Bitcoin és barátai\" c. fizetős online előadásához fűztünk kommentárt, és jelen epizód ennek egy 21 perces ráadása.",
         chapters: [
         {
                 time: "00:00",
@@ -4902,6 +4986,7 @@ export const podcasts = [
     {
         name: "Pogátsa Zoltán Bitcoin tévedései",
         id: "E38",
+        intro: "Pogátsa Zoltán \"Bitcoin és barátai\" című fizetős online előadásához fűzünk kommentárt, és sorra vesszük, hol téved a Bitcoinról. Személyes tapasztalatra és bárki által ellenőrizhető információra építünk, a cenzúraálló, engedély nélküli, decentralizált pénzügyi rendszertől egészen Pogátsa Zoltán Bitcoin tévedéseiig.",
         chapters: [
         {
                 time: "00:00",
@@ -4962,6 +5047,7 @@ export const podcasts = [
     {
         name: "Nemzetállami bitcoin bányászat",
         id: "E37",
+        intro: "Amíg a világ az amerikai választásra figyelt, egy amerikai elemző szerint több BRICS-ország csendben állami szintű Bitcoin bányászatot kezdett kiépíteni. A harminchetedik adásban arról beszélgetünk, hogyan jut el a bitcoin a nagyvállalatokhoz és az államokhoz: a Microsoft részvényesei arról szavazhatnak, legyen-e bitcoin a cég tartalékában, Samson Mow pedig a német parlament képviselőinek magyarázta el, miért érdemes egy országnak bitcoint tartania. Szó esik arról is, miért tartja igazságtalannak két európai jegybanki közgazdász, hogy a korán érkező bitcoinerek jobban járnak, és mit mutat a bitcoin négyéves ciklusairól egy spirál alakú grafikon. Vendégünk azt is elmeséli, hogyan fizettek harmincnál is többen Lightningon a miskolci konferencia szállodájában.",
         chapters: [
         {
                 time: "00:00",
@@ -5018,6 +5104,7 @@ export const podcasts = [
     {
         name: "Milyen volt az első magyar Bitcoin konferencia?",
         id: "E36",
+        intro: "Miskolctapolcán három napig tartott az első magyar nyelvű Bitcoin konferencia, és a tizennégy évestől a nyolcvanévesig mindenféle korosztály eljött. A harminchatodik adásban a szervezővel és a rendezvény két házigazdájával visszatekintünk arra, kik ültek a közönségben, miről szóltak a legjobb beszélgetések, és miért nem került szóba sem az árfolyam, sem a pártpolitika. Szó esik arról, hogyan lehet ingyenes jeggyel is fenntarthatóvá tenni egy konferenciát, mit válaszolt egy fejlesztő arra a kérdésre, hogy ki fizeti a Bitcoin fejlesztőit, és miért szerveződnek nálunk több városban meetupok, mint sok nagyobb országban.",
         chapters: [
         {
                 time: "00:00",
@@ -5074,6 +5161,7 @@ export const podcasts = [
     {
         name: "Bitcoint a magyarnak",
         id: "E35",
+        intro: "Az első magyar Bitcoin konferencia élményeiről, a Blink tárca magyarításáról és az MNB Bitcoin videójáról beszélgetünk. Szó esik a sat jutalomért való játékos tanulásról, Bitcoin borravalóról, ismert emberek Bitcoin idézeteiről, társadalmi egyezményről, Cantillon-hatásról, gyerekekről, iskolai előre gondolkodásról, nyugdíjról, önrendelkezésről, politikai szándékról, német és kanadai Bitcoin politikáról, alakuló magyar Bitcoin politikáról, profi SEEDOR termékek kedvezményes rendeléséről.",
         chapters: [
         {
                 time: "00:00",
@@ -5142,6 +5230,7 @@ export const podcasts = [
     {
         name: "Lightning Network a legnagyobb okosszerződés",
         id: "E34",
+        intro: "A legnagyobb és igazán hasznos okosszerződés a Bitcoinra épül, és ez maga a Lightning Network: sorra vesszük az alapjait, a célját és a hasznát. Szó esik a veszett világról, a korai Bitcoin konferenciákról, a korai és jelenkori shitcoinokról is. A Lightning Network Plus (LN+) meglévő és új szolgáltatásairól, Lightning node üzemeltetési megoldásokról, valamint az első magyar Bitcoin konferencia élő közvetítéséről és előadás felvételeiről.",
         chapters: [
         {
                 time: "00:00",
@@ -5222,6 +5311,7 @@ export const podcasts = [
     {
         name: "Csajok, gyertek a Bitcoin konferenciára!",
         id: "E33",
+        intro: "Nők a Bitcoinban: Stier Kata arra hívja a lányokat, hogy jöjjenek el az első magyar Bitcoin konferenciára. Szó esik szabadulási kísérletről, a változás gyorsaságáról, életen át tartó tanulásról, olvasásról, magyarul elérhető Bitcoin könyvekről, Knut Svanholm, svéd tengerész \"Bitcoin: Szuverenitás és függetlenség\" c. könyvéről, \"A Bitcoin létrehozása\" c. ingyen letölthető könyvről, a nők Bitcoinban aktívan alakuló szerepéről, a Bitcoin konferenciák közvetlen, barátságos légköréről, a \"Miért éppen a Bitcoin?\" c. szintén ingyen letölthető könyvről, valamint arról, hogy \"Hogyan adja el az IMF és a Világbank a kizsákmányolást fejlesztésként\".",
         chapters: [
         {
                 time: "00:00",
@@ -5278,6 +5368,7 @@ export const podcasts = [
     {
         name: "A Bitcoin ígéretes jövője",
         id: "E32",
+        intro: "Mitől jó egy pénz, és miért ígéretes a Bitcoin jövője? Erről beszélgetünk az első magyar Bitcoin konferencia előtt. Szó esik a jó pénz kritériumairól, az arany demonetizálásáról, befektetett időről és energiáról, interdiszciplinaritásról, a mérnökileg megtervezett pénzügyi rendszer időszerűségéről, arról, hogy hogyan csap be minket a nyomtatható pénz világa, a holnap áráról, nemzetállamok békés háborúskodásáról.",
         chapters: [
         {
                 time: "00:00",
@@ -5326,6 +5417,7 @@ export const podcasts = [
     {
         name: "Magyar nyelvű Bitcoin könyvek",
         id: "E31",
+        intro: "A kis Bitcoin könyvtől a Bitcoin Standardon át a 21 Leckéig sorra vesszük a magyarul elérhető Bitcoin könyveket. Szó esik a Fiat Standardról, az osztrák közgazdaságtanról, fordításról, fordítókról, Bitcoin könyvek bitcoinnal való 5%+10% kedvezményes vásárlásáról.",
         chapters: [
         {
                 time: "00:00",
@@ -5368,8 +5460,9 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/SdlDOP2DK6Nh9YvgskbA"
     },
     {
-        name: "Függetlenedünk a központi genyózástól",
+        name: "Infláció: 5 forintról 500-ra drágult egy gombóc fagyi",
         id: "E30",
+        intro: "Gyerekkorunkban öt forint volt egy gombóc fagyi, ma ötszáz körül van, és ezt a százszorozódást senki nem szavazta meg. A harmincadik adásban arról beszélgetünk, hogyan nyelte el Venezuelában a pénzromlás az emberek megtakarításait, és miért lehet a bitcoin olyan szavazat, amelyet nem négyévente, hanem minden nap leadhatunk. Meghallgatunk néhány részletet a jegybankelnök egy friss előadásából is, amelyben a 2030-as célok helyett már 2040-ről beszél, és szó esik arról is, miért Magyarországot sújtotta a legjobban az infláció Európában. A végén röviden felidézzük Jack Mallers és Peter Schiff vitáját arról, hogy a bitcoin vagy az arany a jobb pénz.",
         chapters: [
         {
                 time: "00:00",
@@ -5418,6 +5511,7 @@ export const podcasts = [
     {
         name: "Szabad szoftver, szabad ember",
         id: "E29",
+        intro: "Világszerte erősödik a cenzúra, de szabad szoftverrel, Nostr-ral és titkosított üzenetküldőkkel ma is lehet szabadon kommunikálni. Szó esik az emberi szabadságról, a cenzúrázhatatlan platformokról, titkosításról és nemtitkosításról, Telegramról, Signalról, SimpleXről, Linux Mintről, RaspiBlitz-ről.",
         chapters: [
         {
                 time: "00:00",
@@ -5448,8 +5542,9 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/PddsfZF3sobjb1SwAuKG"
     },
     {
-        name: "Élethosszig tartó tanulás",
+        name: "ChatGPT, Claude vagy Llama: zárt vagy nyílt AI-t használj?",
         id: "E28",
+        intro: "ChatGPT, Claude, Grok vagy Llama: a mesterséges intelligenciáról beszélgetünk, és közben a mesterséges intelligenciával is. Centralizált és nyílt modellek, Gemini, Elevenlabs, Perplexity, Venice, unleashed.chat, Spirit of Satoshi.",
         chapters: [
         {
                 time: "00:00",
@@ -5498,6 +5593,7 @@ export const podcasts = [
     {
         name: "Így csalják ki a pénzed a bitcoin nevében",
         id: "E27",
+        intro: "Átverések a bitcoin nevében, és egy sokkal nagyobb csalás: hogyan adja el az IMF és a Világbank a kizsákmányolást fejlesztésként. Szó esik a Bitcoinról mint nem befektetésről, jogalkotásról, általános alapjövedelemről, valódi értékről, valódi növekedésről, Bitcoin konferenciáról, női mozgolódásokról, 21 frissen fordított oktató cikkről és további Bitcoin könyvekről.",
         chapters: [
         {
                 time: "00:00",
@@ -5544,8 +5640,9 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/rIhNJNXxGudUkzoGGY1b"
     },
     {
-        name: "Bitcoin a pénzek királya",
+        name: "Bitcoin, a pénzek királya: ezt mutatta a japán pánik",
         id: "E26",
+        intro: "Amikor a japán jegybank lépése után megrendültek a piacok, a befektetők a bitcoinhoz nyúltak, mert éjjel és hétvégén is csak azt lehetett azonnal eladni. A huszonhatodik adásban vendégünkkel arról beszélgetünk, mit árul el ez a bitcoinról, és miért kerekedik felül a pénzek versenyében mindig a legkeményebb pénz. Szó esik a Bitcoin ETF-ekről és a velük járó kockázatokról, és arról is, hány satoshi jutna egy emberre, ha a bitcoint egyenlően osztanánk el a Föld lakói között. A végén Michael Saylor egyik történetét idézzük fel: egy patinás amerikai egyetem harminc diákjából csak egy tartotta reálisnak a cége bitcoinra épülő stratégiáját.",
         chapters: [
         {
                 time: "00:00",
@@ -5614,6 +5711,7 @@ export const podcasts = [
     {
         name: "Bitcoin: Egy peer-to-peer elektronikus készpénzrendszer",
         id: "E25",
+        intro: "A Bitcoin white paperje, Satoshi Nakamoto 2008-as rövid tanulmánya az alapmű, mégis sokan úgy vesznek bitcoint, hogy soha nem olvasták el. A huszonötödik adásban az egyik házigazdánk magyarul felolvassa, és közben elmondja, mit gondol az egyes részeiről. Sorra vesszük, hogyan oldja meg a tanulmány a dupla költés problémáját bank nélkül, miért jelent egy processzor egy szavazatot, és miért éri meg még egy erős támadónak is inkább a szabályok szerint játszani. A végén azt is megmutatjuk, melyik könyvekkel érdemes folytatni a tanulmány után.",
         chapters: [
         {
                 time: "00:00",
@@ -5660,8 +5758,9 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/n99t3xJi6QM76Y7yMCHM"
     },
     {
-        name: "Bitcoin és az amerikai elnökválasztási ígéretek",
+        name: "Trump a Bitcoin konferencián: mit ígért a bitcoinereknek?",
         id: "E24",
+        intro: "Donald Trump a nashville-i Bitcoin konferencián szólította meg a bitcoinereket, mi pedig sorról sorra elemezzük, mi volt a súgógépén. Ahogyan éleződik az amerikai elnökválasztási kampány, egyre több réteg kerül megszólításra, és a Bitcoin konferencia most először adott helyszínt egy elnökjelölt aspiránsnak.",
         chapters: [
         {
                 time: "01:42",
@@ -5714,6 +5813,7 @@ export const podcasts = [
     {
         name: "Bitcoin Miskolc, politika és magánszféra",
         id: "E23",
+        intro: "Októberben Miskolcon lesz az első hazai Bitcoin konferencia, és elmondjuk, mire és kikre számíthatsz október 11-13. között az Aurora Hotelben. Nopara elmesélte, hogyan nehezítette meg a privacy alapú fejlesztéseket a Biden kormány az USÁ-ban, valamint miket látunk ezen a területen, és miért vagyunk mégis optimisták. Továbbá kitértünk a bitcoin tanulásának legfájdalmasabb módjára, de beszéltünk hardware tárcákról és a Wasabi walletről is.",
         chapters: [
         {
                 time: "22:37",
@@ -5748,8 +5848,9 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/Mj4gWjf0jTmG1JJ4Y0q1"
     },
     {
-        name: "Bitcoin tárca kezdőknek és Lightning Network felhasználóknak",
+        name: "Blink és Strike: Bitcoin tárca kezdőknek, Lightninggal",
         id: "E22",
+        intro: "Blink és Strike: két könnyen kezelhető bitcoin tárca kezdőknek, amelyekkel a Lightning Network használata is gyorsan elsajátítható. A Blink a Galoy nevű cég (El Salvador) applikációja, a Strike pedig a Strike nevű cég (USA) alkalmazása. Mindkét cég etikus és egyúttal bitcoin-only, tehát kizárólag Bitcoinnal foglalkoznak. Ezek letéti tárcák, tehát a pénzügyi szolgáltató - mint egy bitcoin bank - kezeli a \"bennük\" tárolt satokat. Használatuk könnyű, gyorsan elsajátítható és nem utolsó sorban kedvező díjszabású. Ezért kiváló tárcák kezdők számára, de azok számára is szolgálnak igen hasznos funkciókkal, akik korábban \"csak\" tartottak bitcoint, és végre nyitnak a Lightning Network használata felé. A Blink magyar felülettel is rendelkezik, és kvíz kérdések megválaszolásán keresztül játékosan tanít a Bitcoinról, miközben satokkal jutalmaz. A Strike egyelőre csak angolul tud, viszont a Strike egyben minden szempontból a legjobb exchange vagyis kriptotőzsde, ahol bitcoinhoz lehet jutni.",
         chapters: [
         {
                 time: "00:00",
@@ -5800,8 +5901,9 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/ZLfg6mfz1ndtRAKVSpMo"
     },
     {
-        name: "Visszatekintés, jelenlét, jövőbe tekintés",
+        name: "Bitcoin fork: miért jár jól, aki egyszerűen kivár?",
         id: "E21",
+        intro: "Huszonegy adás alatt tizennégy bitcoiner szólalt meg nálunk, a YouTube csatorna pedig közel ötszáz feliratkozóig jutott. A huszonegyedik adásban visszanézünk az eddigi beszélgetésekre, és arról is szó esik, miért örülnek egyes bitcoinerek jobban a medvepiacnak, mint a felfutásnak. Elmeséljük, hogyan működhetne egy bitcoinra épülő árampiac napelemekkel, bányagépekkel és elektromos autókkal, és miért fizethetnénk ugyanígy cikkenként az újságokért. Közérthetően elmagyarázzuk azt is, mi a fork, és miért jár jól az, aki egy kettéválásnál egyszerűen kivár.",
         chapters: [
         {
                 time: "00:00",
@@ -5858,6 +5960,7 @@ export const podcasts = [
     {
         name: "Mesterséges intelligencia, ChatGPT használata",
         id: "E20",
+        intro: "A ChatGPT-vel magyarul beszélgetve kivesézzük, hol tart a mesterséges intelligencia fejlődése, beszélgetünk arról, hogy az AI kitűnően ismétel és összegez, mint egy autista zseni kreativitás nélkül, hogy a fejlődés megállíthatatlan és szükségszerű, időnként ijesztő, ugyanakkor lehetőség az újításra, hogy az AI és a Bitcoin a jövő szerves részét képezi, és az jár pórul, aki mellőzi a használatát. Egyik jótanácsunk pedig, hogy mindenki kreatívan, konstruktívan, felelősséget vállalva viszonyuljon mind az AI-hoz, mind a Bitcoinhoz, és keresse meg, hogyan tudja élete részévé tenni.",
         chapters: [
         {
                 time: "00:00",
@@ -5938,6 +6041,7 @@ export const podcasts = [
     {
         name: "Digitális központi hatalom",
         id: "E19",
+        intro: "Vészesen közeleg a digitális állampolgárság, és vele a központi adatkezelés, a digitális jegybankpénz és a társadalmi pontrendszer. Szóba kerül egy kritikus parlamenti felszólalás, a bankrendszer, a készpénz védelme, az egyéni karbonlábnyom, belépés kontroll, vásárlási kontroll, általános alapjövedelem, öngondoskodás, felelősségvállalás.",
         chapters: [
         {
                 time: "00:00",
@@ -5986,6 +6090,7 @@ export const podcasts = [
     {
         name: "Miért jár sárkányjelmezben egy bitcoiner?",
         id: "E18",
+        intro: "Miért öltözik valaki sárkánynak egy Bitcoin konferencián? Még a prágai konferencia hatása alatt beszélgetünk a magánszféráról, annak védelméről, korlátozásáról, kriminalizálásáról, az időpreferencia fogalmáról, a magas időpreferencia és a fiat pénzügyi rendszer összefüggéseiről, az alacsony időpreferencia és a Bitcoin kapcsolatáról, bepillantunk egy háztáji lightning zöldség tranzakcióba, egy remek prezentációba, valamint felvillantunk magyarítási projektekben való együttműködési és villámgyors támogatási lehetőséget is.",
         chapters: [
         {
                 time: "00:00",
@@ -6022,6 +6127,7 @@ export const podcasts = [
     {
         name: "Prágai Bitcoin konferencia",
         id: "E17",
+        intro: "A BTC Prague konferencia iparági napjának estéjén egy prágai szállodából jelentkezünk. Vendégünk aznap arról tartott előadást, hogyan kapják a gyerekei bitcoinban a zsebpénzüket. Elmeséli, hogyan élték túl a gyerekek a medvepiacot, és miért költenek kevesebbet, amióta Lightning tárcában látják a pénzüket. Szó esik a konferencia hangulatáról, az új hardvertárcákról, és arról, hogyan fogja össze a bitcoin a Balkán bitcoinereit, nemzetiségtől függetlenül. Vendégünk azt is elmondja, mi történt, amikor a szállodájuk könyvelőprogramjába fizetőeszközként kellett felvetetni a bitcoint, és miért érdemes egy cégnek az árbevétele egy kis részét bitcoinban félretennie.",
         chapters: [
         {
                 time: "00:00",
@@ -6094,6 +6200,7 @@ export const podcasts = [
     {
         name: "Bitcoin bányászat: tényleg pazarlás a sok áram?",
         id: "E16",
+        intro: "Bitcoin bányászat. Mérnöki alapossággal körbejárjuk, hogy mi az a bitcoin bányászat, hogy miért használ energiát, mire használja azt, mennyi és milyen energiát használ, nem utolsó sorban pedig környezetbarát-e, megéri-e, illetve pazarló-e a bitcoin bányászat.",
         chapters: [
         {
                 time: "00:00",
@@ -6182,6 +6289,7 @@ export const podcasts = [
     {
         name: "Bitcoin vásárlás",
         id: "E15",
+        intro: "Bitcoin vásárlás gyorsan, könnyen, alacsony díj mellett. Revolutból instant lehet eurót utalni a Strike appba, ahol instant lehet bitcoint vásárolni, majd elenyésző díjjal lehet - szintén instant - kiutalni a bitcoint (illetve satokat) a Lightning Network-ön keresztül bármilyen lightning tárcába. Mi egy Umbrel node tárcájába küldtük, mely egyike a lightning kompatibilis önrendelkező (self custody), haladó módoknak. Elkezdtünk ismerkedni a Jade hardver tárcával (cold storage), melyre tovább küldve hidegre tehetjük bitcoinunkat. Az adásban ezt nem tettük, mert a magas on-chain díjak miatt ehhez nem volt \"kedvünk\". Kezdők számára szerintünk a Strike appban való sat gyűjtögetés jó megoldás, majd nagyobb összegeket (1 millió sat felett) javasoljuk önrendelkező tárcába (pl. Green tárca, hardver tárca) kiutalni.",
         chapters: [
         {
                 time: "00:00",
@@ -6230,6 +6338,7 @@ export const podcasts = [
     {
         name: "Mit lát rólad a hatóság, ha bitcoint használsz?",
         id: "E14",
+        intro: "A hatóságok a nyilvános Bitcoin főkönyvben ma már nyomozó szoftverekkel keresnek, de hogy mit látnak belőled, az nagyban rajtad múlik. A tizennegyedik adásban kriptoadózással és blokklánc-elemzéssel foglalkozó közgazdász vendégünk elmagyarázza, hogyan sorolják be kockázat szerint a tranzakciókat, és mi történik, ha egy gyanús forrásból érkezett pénzt szeretnél bankszámlára utalni. Szó esik arról, miért éppen a kilépési pontokat, vagyis a tőzsdéket és a váltókat szabályozzák egyre szigorúbban, és mekkora része illegális valójában a kriptotranzakcióknak. Végül azt is megtudjuk, honnan ismerhető fel egy csalás: vendégünk szerint ha valaki harmadik félként segíteni akar neked a gyors meggazdagodásban, az már intő jel.",
         chapters: [
         {
                 time: "00:00",
@@ -6290,6 +6399,7 @@ export const podcasts = [
     {
         name: "Miért nem tud ma senki félretenni?",
         id: "E13",
+        intro: "Ma Magyarországon még egy havi egymillió forintos fizetésből is alig tud valaki félretenni, és ez nem csak egyéni balszerencse. A tizenharmadik adásban álarcos vendégünk, aki a mesterszakdolgozatát a Bitcoinról írta, és könyvet adott ki a pénz és a bizalom kapcsolatáról, arról beszél, mit tesz egy romló pénz a társadalommal és az emberek közötti bizalommal. Szó esik arról, miért nem befektetés valójában egy lakás, és miért lehetne veszélyes, ha egy állam nagy tételben kezdene bitcoint vásárolni. Elmeséli azt is, miért nem mutatja az arcát, miért vezették ki egyszer emiatt egy konferenciáról, és miért kell a bitcoinereknek jobban tartaniuk a kisembertől, mint az államtól.",
         chapters: [
         {
                 time: "00:00",
@@ -6348,8 +6458,9 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/iF8odGrt5LjUbgAxQvC8"
     },
     {
-        name: "Megfontolt megtakarítás",
+        name: "Heti 3000 Ft bitcoinba 2014 óta: mennyi lett volna belőle?",
         id: "E12",
+        intro: "Mi lett volna, ha valaki 2014 óta hetente 3000 forintot tesz bitcoinba, és mindig a hét legmagasabb árfolyamán vásárol? A tizenkettedik adásban vendégünk Excel-táblázatban számolja végig, mit jelent a rendszeres, kis összegű megtakarítás, és hogy a legrosszabb időszakban hány hetet kellett mínuszban kibírni. Megmutatja azt is, hogyan lehet szinte költség nélkül forintot bitcoinra váltani, milyen tárcát ajánl számítógépre, telefonra és hardvertárcának, és miért nem érdemes minden kis vásárlást azonnal a saját tárcádba küldeni. Szó esik arról is, hogyan nőtt háromszorosára bő tíz év alatt a forgalomban lévő forint mennyisége, és miért hasonlítja vendégünk a pénzt egy nyelvhez, amelynek a szókincsét mások kénye-kedve szerint bővítik és szűkítik.",
         chapters: [
         {
                 time: "00:00",
@@ -6414,6 +6525,7 @@ export const podcasts = [
     {
         name: "Bitcoin tárca bemutató",
         id: "E11",
+        intro: "Tizenkét angol szó elég ahhoz, hogy a bitcoinodat bárhová magaddal vidd, akár egy határon át is, mert ezekből bármelyik tárcában visszaállítható. A tizenegyedik adásban élőben hozunk létre egy új Bitcoin tárcát, és megmutatjuk, miért nem érdemes ugyanazt a címet újra használni. Sorra vesszük a hardvertárcákat is, a régi és az új Trezortól a számológépnek is elmenő Coldcardig, és azt is, mi a teendő, ha elfelejted a PIN-kódot. Végül Lightningon küldözgetünk egymásnak néhány satoshit, amelyből egy akkor 22 fillért ért, és a saját node-unkról kifizetünk egy új hardvertárcát egy magyar webshopban.",
         chapters: [
         {
                 time: "00:00",
@@ -6464,8 +6576,9 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/ReagtOmRpkZ8Of0y6vSZ"
     },
     {
-        name: "Elválasztjuk a pénzt az államtól",
+        name: "Kriptón bukott 2017-ben, mégis a Bitcoinnál maradt",
         id: "E10",
+        intro: "Az egyik házigazdánk 2017-ben a pénzért jött, a bitcoin mellé egy sor ígéretes coint is vett, aztán a medvepiacon töredékére olvadt a befektetése. A tizedik adásban elmeséli, hogyan jutott el innen a white paperig, és miért tartja a pénz és az állam szétválasztását az emberiség következő nagy lépésének. Szó esik arról, miért nem lehet ma úgy félretenni, hogy a megtakarításod a jövőben is ugyanannyit érjen, és mivel jár az önrendelkezés felelőssége, ha senki más nem őrzi helyetted a kulcsaidat. A végén a friss felezés után egy élő adatpanelen nézzük végig, mit mutat blokkról blokkra a Bitcoin hálózat.",
         chapters: [
         {
                 time: "00:00",
@@ -6518,6 +6631,7 @@ export const podcasts = [
     {
         name: "Wasabi bitcoin tárca",
         id: "E09",
+        intro: "Bemutatkozik a Wasabi bitcoin tárca atyja, nopara73, és elmondja, miért fontos a magánszféra a bitcoin használatában. A magyar bitcoin fejlesztő megosztja velünk néhány történetét, betekintést nyújt aktuális tevékenységébe, és megvillant egy potenciálisan magyar találmányt.",
         chapters: [
         {
                 time: "00:00",
@@ -6582,6 +6696,7 @@ export const podcasts = [
     {
         name: "Önrendelkezés, Umbrel node bemutató",
         id: "E08",
+        intro: "Önrendelkezés akkor van, ha a bitcoinodat nem bízod másra, és ennek egyik eszköze egy otthon futó Umbrel node. A nyolcadik adásban vendégünk képernyőmegosztással végigvezet a saját Umbrel node-ján: megmutatja, hogyan érkezik rá minden új blokk, hogyan működik egy Lightning csatorna, és mennyit érdemes fizetni egy tranzakcióért. Belenézünk a legelső blokkba is, amelybe Satoshi egy újságcímet rejtett a bankmentésekről, és a felezések blokkjain megnézzük, hogyan csökkent a bányászok jutalma. Szó esik arról is, miért nem a készpénz és a kártya között húzódik az igazi határ, és miért érdemes a saját tranzakcióidat a saját gépeden nézegetni.",
         chapters: [
         {
                 time: "10:19",
@@ -6630,6 +6745,7 @@ export const podcasts = [
     {
         name: "Bitcoin bányászat Paraguayban",
         id: "E07",
+        intro: "Paraguay áramát szinte teljes egészében vízerőművek adják, ezért egyre több Bitcoin bányász költözik oda, köztük egy magyar csapat is. A hetedik adásban a Bitcoin Bázis alapítója mesél a brazil határ mellett működő kis bányájukról: mennyibe kerül az áram, mit kell fizetni egy megawattnyi kapacitásért, és miért kell negyven fokban leállítani a gépeket. Szó esik arról, milyen vállalkozni egy olyan országban, ahol kevés a szabály, de sokat számít, kit ismersz, és arról is, miért van mégis mindössze két Bitcoin ATM az egész országban. Vendégeink azt is elmesélik, hogyan készült el a white paper és egy Bitcoin könyv magyar fordítása, és miért keresnek ma már a Bitcoin cégek jogászt, könyvelőt és közgazdászt is.",
         chapters: [
         {
                 time: "08:57",
@@ -6684,8 +6800,9 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/1tWJBjkR7y6jh5lN3pMw"
     },
     {
-        name: "Mi a legnagyobb különbség a fiat valuták és a kriptovaluták között?",
+        name: "Saját Bitcoin node otthon: egy hálózati mérnök útja",
         id: "E06",
+        intro: "Hálózati mérnökként vendégünk sokáig nem hitte el, hogy központi irányítás nélkül is lehet biztonságos egy hálózat. Aztán a 2008-as válságban elvesztett pénzét végül éppen a bitcoin hozta vissza. A hatodik adásban megmutatja az otthoni Bitcoin node-ját, és elmagyarázza, miért nem lehet a bitcoin szabályait egyik napról a másikra átírni, és miért a rengeteg energia a hálózat biztonságának a záloga. Szó esik a Lightning hálózatról, amelyen a saját node-járól fizetett ki egy szállodai szobát, és arról is, hogy a Revolut már bitcoint is tud fogadni. A végén egy műegyetemi előadásról számolunk be, ahol a digitális jegybankpénzről volt szó, és meghallgatjuk, mit mond erről a jegybankok jegybankjának vezetője.",
         chapters: [
         {
                 time: "06:11",
@@ -6730,6 +6847,7 @@ export const podcasts = [
     {
         name: "Nostr, a decentralizált közösségi protokoll",
         id: "E05",
+        intro: "Az X-en egy gombnyomással eltüntethetik a fiókodat, a Nostr-on viszont nincs olyan központi szerver, amely eldönthetné, mit oszthatsz meg és mit láthatsz. Az ötödik adásban három vendégünkkel bemutatjuk ezt a nyílt közösségi protokollt, amelyet bitcoinerek kezdtek fejleszteni, és amelyen a lájk helyett valódi pénzt is kaphatsz a posztjaidért. Sorra vesszük, hogyan lehet e-mail-cím és telefonszám nélkül belépni, melyik alkalmazással érdemes kezdeni, és mire figyelj a kulcsod őrzésénél. Szó esik arról is, miért keres egy podcaster a saját bevallása szerint tízszer annyit a Nostr-on, mint a YouTube-on, pedig századannyian hallgatják, és miért csúszik könnyebben a narancs pirula a lila után.",
         chapters: [
         {
                 time: "03:47",
@@ -6790,6 +6908,7 @@ export const podcasts = [
     {
         name: "Öngondoskodás, megtakarítás, bitcoin zsebpénz",
         id: "E04",
+        intro: "Öngondoskodás és megtakarítás: aki ma minden nap félretesz ezer forintot, az év végére jóval kevesebbet ér vele, mint gondolná. A negyedik adásban két vendégünk meséli el, hogyan lett bitcoiner: az egyiküket egy máltai startup és egy könyv fogta meg, a másik a garázsban rakott össze bányászgépeket, kipróbálta a tőkeáttételes kereskedést, és egy csalásba is belefutott, mielőtt végleg a bitcoin mellett maradt. Szó esik arról, miért nem hallunk az egyetemen a pénz keletkezéséről, miért tabu a pénz még a családban is, és hogyan kapják a gyerekek bitcoinban, Lightning tárcába a zsebpénzüket. A végén arról is beszélgetünk, miért készül két magyar szálloda arra, hogy bitcoint fogadjon el, és meg is tartsa.",
         chapters: [
         {
                 time: "00:00",
@@ -6858,6 +6977,7 @@ export const podcasts = [
     {
         name: "Bitcoin Atlantis konferencia, Madeira",
         id: "E03",
+        intro: "Madeira szigetén három napig tartott a Bitcoin Atlantis konferencia, és a több ezer résztvevő között tizennégy magyar bitcoiner is ott volt. A harmadik adásban beszámolunk az előadásokról és a hangulatról, attól az etiópiai vízerőműtől, amelynek fölösleges áramával bitcoint bányásznak, egészen Jack Mallers előadásáig arról, hogyan hozott létre Satoshi időt a digitális térben. Vendégünk elmagyarázza, miért olyan ma a pénzben mérés, mintha banánnal mérnénk a métert, és miért a bitcoin az első fix viszonyítási pont a gazdaságban. Szó esik arról is, miért került adósságspirálba az egész világ, és miért nem kezelhetne James Lavish szerint mások pénzét az, akinek egy kevés bitcoin sincs a portfóliójában.",
         img: "/pics/mi-az-a-bitcoin-s01e03.jpg",
         date: "2024.03.08.",
         members: ["Anti", "Roli", "Árpi"],
@@ -6868,6 +6988,7 @@ export const podcasts = [
     {
         name: "Hogyan működik a Bitcoin? Miért csak 21 millió van belőle?",
         id: "E02",
+        intro: "A második adásban lépésről lépésre megmutatjuk, hogyan működik a Bitcoin, és mi garantálja, hogy soha nem lesz belőle 21 milliónál több. Végigmegyünk azon, hogyan kerül be minden tranzakció a Bitcoin főkönyvébe, mit kapnak érte a bányászok, és miért feleződik négyévente a jutalmuk. Szó esik arról is, miért nem lehet a kódba csempészni még több bitcoint, és miért kiszámíthatóbb a bitcoin inflációja bármelyik jegybank előrejelzésénél. A végén azt is megnézzük, valóban pazarlás-e a bányászat rengeteg árama, és melyik két rövid könyvvel érdemes elkezdeni.",
         img: "/pics/mi-az-a-bitcoin-s01e02.jpg",
         date: "2024.02.29.",
         members: ["Anti", "Árpi"],
@@ -6878,6 +6999,7 @@ export const podcasts = [
     {
         name: "Nem a meggazdagodás a lényeg: miért lettünk bitcoinerek?",
         id: "E01",
+        intro: "Sokakat a gyors meggazdagodás reménye vonz a bitcoinhoz, de aki marad, az idővel egészen mást talál benne. A HUSZONEGY podcast első adásában hárman meséljük el, hogyan jött be a bitcoin az életünkbe, és mit jelent ma nekünk: megtakarítást, függetlenséget, és reményt azoknak, akik nálunk kevésbé szabad országokban élnek. Szó esik arról is, mi lenne, ha a bitcoin egyik napról a másikra bezuhanna, miért kell hozzá alázat, és érdemes-e mindenkit meggyőzni a környezetünkben. A végén szóba kerül, hogy két év alatt eltűnt a forint értékének harmada, és hogy 1971 óta egyik papírpénz mögött sincs fedezet.",
         chapters: [
         {
                 time: "00:00",

@@ -128,3 +128,31 @@ A véglegesített cím klikk-ereje és curiosity-gap pontja a választáskor, ho
 | „Mi az a Bitcoin? 3 percben" (IXV_V-7fojQ) | (cím változatlan) | cím változatlan; **2026.09.26.: magyar feliratsáv feltöltve** (angol hangú, beégetett magyar feliratos klip, előtte csak angol gépi felirata volt), **a leírás első sora a keresett kifejezéssel kezdődik**, **új indexkép** (az eredeti Tuttle Twins-kép magyarított felirattal: „MI AZ A BITCOIN? 3 PERCBEN"; előtte fakó képkocka, olvashatatlan felirattal) | 2 | 2026.11.04.: 30 (csatornaoldal: 13, lejátszási lista: 5, külső link: 4; keresés: 0) | A „mi az a bitcoin" keresésből 0 nézés és nem volt az első 28 találat között. Mérés: kapott-e erre keresési nézést, és hányadik a magyar YouTube-keresésben (search.list, 100 egység). |
 | „Bitcoinról mindenkinek" 1–4. rész (7D4XPbGXFEI, LczDJKoKMj8, tVENCX12bpE, MXZOxVFcUvo) | Bitcoinról mindenkinek - magyar nyelvű előadás - N. rész | Mi az a Bitcoin? Bitcoinról mindenkinek – N. rész; **2026.09.26.: új leírások** (részenként kulcsszavas első mondat, a teljes sorozat linkjei előre-hátra + lejátszási lista, jelzés az elavult részletekről), **új indexképek** (egységes sorozatkeret Kovács Ferenc karikatúrájával, részenként saját kicker + motívum: MI A PÉNZ? / MIÉRT OLVAD? / LEÁLLÍTHATÓ? / 12 SZÓ; előtte négy szinte azonos, AI-rajzolta osztálytermes kép kitalált előadóval) | 3 / 3 / 1 / 1 | 2026.11.04.: 25 / 7 / 9 / 11 (lejátszási lista: 5 / 4 / 3 / 2) | Az 1. rész a csatorna legnézettebb videója (4040), de 2026 elejére elapadt (havi 2–30 megtekintés); a keresési forgalma („bitcoin", „bitcoin magyar") a 2024–25-ös időszakból származott. A „Mi az a Bitcoin?" kezdés sorozatszinten: a négy rész együtt felel a kérdésre (mi ez → miért kell → hogyan működik → hogyan tárold). |
 | E02 | Bitcoin bányászat, csomópontok, blokk jutalom, felezés | Hogyan működik a Bitcoin? Miért csak 21 millió van belőle? | 3 | esedékes | A „hogyan működik a bitcoin" keresésre (automatikus kiegészítésben szerepel). Az indexképen még a „Mi az a Bitcoin?" felirat áll. |
+
+## SEO-újracímzés (2026.11.09.)
+
+> A honlapi oldalak meta descriptionje a bevezetőből készül, a cím pedig a H1 és a title. Ezért ott cseréltük a címet, ahol a régiben nem volt kereshető kifejezés, vagy nem fedte a tartalmat. Ugyanekkor a bevezetők első mondatába is bekerült a cím kulcsszava. A régi URL-ek a routerben át vannak irányítva. **Mérés:** 4 hét múlva (2026.12.07.) az utolsó 28 nap megtekintései és a keresési forgalom, a Search Console-ban pedig az oldalak megjelenései és kattintásai.
+
+| Epizód | Régi cím | Új cím | Kiindulás (28 nap) | 4 hetes ellenőrzés | Tanulság |
+|---|---|---|---|---|---|
+| E06 | Mi a legnagyobb különbség a fiat valuták és a kriptovaluták között? | Saját Bitcoin node otthon: egy hálózati mérnök útja | | esedékes | |
+| E10 | Elválasztjuk a pénzt az államtól | Kriptón bukott 2017-ben, mégis a Bitcoinnál maradt | | esedékes | |
+| E12 | Megfontolt megtakarítás | Heti 3000 Ft bitcoinba 2014 óta: mennyi lett volna belőle? | | esedékes | |
+| E21 | Visszatekintés, jelenlét, jövőbe tekintés | Bitcoin fork: miért jár jól, aki egyszerűen kivár? | | esedékes | |
+| E22 | Bitcoin tárca kezdőknek és Lightning Network felhasználóknak | Blink és Strike: Bitcoin tárca kezdőknek, Lightninggal | | esedékes | |
+| E24 | Bitcoin és az amerikai elnökválasztási ígéretek | Trump a Bitcoin konferencián: mit ígért a bitcoinereknek? | | esedékes | |
+| E26 | Bitcoin a pénzek királya | Bitcoin, a pénzek királya: ezt mutatta a japán pánik | | esedékes | |
+| E28 | Élethosszig tartó tanulás | ChatGPT, Claude vagy Llama: zárt vagy nyílt AI-t használj? | | esedékes | |
+| E30 | Függetlenedünk a központi genyózástól | Infláció: 5 forintról 500-ra drágult egy gombóc fagyi | | esedékes | |
+| E51 | Bitcoin konferencia + idő faktor = türelem | Most kezdenél bitcoinnal? Ezt tedd az első években | | esedékes | |
+| E60 | Bitcoin pszichológia | FOMO, FUD, status quo: a Bitcoin pszichológiája | | esedékes | |
+| E68 | Üzleti Bitcoin tartalékképzés és publikálás magyar úttörője | Bitcoin a céges tartalékban: egy magyar úttörő története | | esedékes | |
+| E72 | Bitcoin(erek) újratöltve | Bitcoin nyári összefoglaló: árfolyam, törvények, bányagépek | | esedékes | |
+| E73 | Jogbizonytalanságtól a bitcoiner lifestyle-ig | MiCA: jogbizonytalanságtól a bitcoiner lifestyle-ig | | esedékes | |
+| E76 | Védd ki a csalásokat! - Tippek, technikák, tanulságos esetek | Kripto csalások: így vernek át, és így védd ki | | esedékes | |
+| E80 | A gondolat szabadsága – Máltától Prágáig, validáció nélkül | Kripto validálás: ezeket a kivételeket hozta az új rendelet | | esedékes | |
+| E85 | Magyar titánium lapka & Bitcoin tanácsadás | Magyar titánium lapka a Bitcoin tárca mentéséhez | | esedékes | |
+| E86 | A nemzeti validáló esete a Bitcoin oktatással \| Revolut, validálás, pánik | Kripto validálás és Revolut: mitől pánikolnak ennyien? | | esedékes | |
+| E88 | Te még szabadlábon vagy? \| Validátor mizéria | Első kripto validátor: te még szabadlábon vagy? | | esedékes | |
+| E93 | Az önrendelkezés fontossága nehéz időkben | Esik a Bitcoin árfolyam: miért most fontos a saját kulcs? | | esedékes | |
+| E97 | Tank vagy porcelán? – A szabad piac nem kér engedélyt | Tank vagy porcelán? Egy Bitcoin Core fejlesztő válaszol | | esedékes | |
