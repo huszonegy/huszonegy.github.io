@@ -22,12 +22,6 @@ Sziasztok, ez itt a HUSZONEGY Bitcoin Podcast legújabb epizódja, szám szerint
 
 – Mi ilyen evolúciós szemszögből közelítettük meg ezt; a modellünk biztos hibás volt. Egyébként ezek a közgazdasági modellek most nagyon beszippantottak, úgyhogy a következő egy-két hónapot ennek fogom szentelni az életemben.
 
-**Álljunk meg egy fontos közlemény erejéig!**
-
-Forráshiány miatt veszélybe került a podcast működése. Ha értékeled az edukatív tartalmainkat, kérünk, támogass minket, hogy folytathassuk ezt a munkát! A támogatás lehet alkalomszerű, rendszeres vagy akár szponzori együttműködés is. A részleteket a HUSZONEGY honlapjának támogatás oldalán találod: [huszonegy.world/tamogatas](https://huszonegy.world/tamogatas) — a leírásban és a képernyőn is megtalálod.
-
-**Köszönünk szépen minden eddigi és további támogatást.**
-
 – Én abból indulok ki, hogy egy olyan gazdaságban, egy olyan társadalomban, ahol nincs igazán megjutalmazva, ha valaki kitalál valami újat, ha felépít valamit — hanem akárki akármit csinál, ugyanannyi jár neki —, az a társadalom néhány generáció múlva ilyen nihilbe fullad. Ott nem lesz semmi fejlődés. Ez látszott az én gyerekkoromban, a 80-as években: addigra gyakorlatilag gazdasági csődbe ment az ország, az egész kelet-európai rész. És látszik a mostani, még azóta is kommunista országokban, hogy mi van ott.
 
 – Csak azok az országok mentek csődbe, ahol kipróbálták a szocializmust.
@@ -104,12 +98,6 @@ Forráshiány miatt veszélybe került a podcast működése. Ha értékeled az 
 
 – Félig-meddig USDC-ben, mindegy. Kárpótolódtam pár évvel később. Az nem volt kellemes időszak. De mindig olyankor van az alja — tehát mint amikor a legsötétebb éjszaka után jön a hajnal. Ez kábé az a pillanat volt, a legsötétebb éjszaka. Hát aztán látni, hogy mi lett belőle.
 
-**Ha olyan Bitcoin-only alkalmazást keresel, amiben egyszerűen tudsz bitcoint venni úgy, hogy a privát kulcsokat te kezeled, nézd meg a Relai-t!**
-
-A [Relai](https://bitcoinmentor.hu/relai) 🇨🇭 egy svájci app, MiCA-engedéllyel, és kimondottan a hosszú távú megtakarítóknak tervezték. Bármikor vehetsz bitcoint azonnal, és beállíthatsz heti vagy havi automatikus vásárlást is. Ráadásul havi egy automatikus vásárlás 100 euróig teljesen díjmentes. Regisztrációnál add meg a HUSZONEGY kódot, így 10%-kal csökken a vásárlási díjad, és a podcast működését is támogatod ezzel.
-
-**Részletes leírás: [bitcoinmentor.hu/relai](https://bitcoinmentor.hu/relai)**
-
 – Na de azért állhatnak még előttünk sötét éjszakák, nem? Most nem akarok vészmadárkodni, pusztán realitási megközelítésből nézem: a bear marketnek is vannak gyönyörű pillanatai, amikor még mindig van eladó. Én például a Strategyre gondoltam, meg az egyéb ilyen treasury cégekre — tudjátok, hogy én Michael Saylort nagyon imádom. Pont azért, amit játszik. Nem azt mondom, hogy ő simítja ki legjobban a görbét — mert ugye neki köszönhetjük, hogy most innen indultunk ki, hiszen elkezdte vásárolni, és ha az order bookok mélységébe belenyomjuk ezt a longot, akkor szépen kijönnek. Ugyanígy vissza is lehet pumpálni; szerintem ez a klasszikus példája a pszichológiai hadviselésnek, amit az ő instrumentumaival le lehet vezényelni. Pont ezért szerintem nem lehet kizárni, hogy amikor itt benne leszünk a bear marketben, akkor ne legyen egy takeover — tehát egy bailout a Strategy stackje fölött. Akár egy központról jövő amerikai igény: most összeomlik a kis birodalom, akkor miért ne álljunk megint helyre valahogy.
 
 – De miről, milyen bailoutról beszélsz?
@@ -181,12 +169,6 @@ A [Relai](https://bitcoinmentor.hu/relai) 🇨🇭 egy svájci app, MiCA-engedé
 – Én is.
 
 – De ez nem jelent rosszat; nem azt jelenti, hogy ne legyél bitcoiner, meg ne gyűjtsd a szatokat. Én csak azt mondom, hogy ennek ellenére még inkább nyomatni kell, sokkal jobban, mert amúgy semmi más esélyünk nincs arra, hogy itt ne az jöjjön, amit kitalálnak nekünk.
-
-Új támogatónk a BudaBit! 🔥 Még mélyebbre ásnál a szabadságtechnológiákban? Csatlakozz a [BudaBit](https://budabit.club) cypherpunk fejlesztői közösséghez online és offline havi meetupok keretében! Részletek a [budabit.club](https://budabit.club) oldalon.
-
-**További támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu).**
-
-Bitcoin tanácsadásról és mentorálásról a [bitcoinmentor.hu](https://bitcoinmentor.hu) oldalon olvashattok, ahol a [Bitcoin blog](https://bitcoinmentor.hu/bitcoin-blog/) cikkei is megtalálhatók. A [Firefish](https://app.firefish.io/auth/sign-up?ref=HUSZONEGY) 🔥🐟 pedig azt üzeni, hogy ne adjátok el a bitcoinotokat!
 
 – Van jó hír is! A Tisza-kormány benyújtotta — illetve nem benyújtotta, hanem társadalmi egyeztetésre bocsátotta — a validátori rendszer meg a BTK-s fenyegetés megszüntetéséről szóló javaslatot. És ahogy megjósoltam, Köböl Anita adta elő a kormány szóvivői tájékoztatóján — tök vicces volt. Ugye Köböl Anita volt az áprilisi Bitcoin konferencián a műsorvezető, most meg kiállt az ország elé, és elmondta azokat a dolgokat, amiket ott hallott. Jó, nem azt mondta el, hanem igazából az már benne volt a Tisza programjában is.
 

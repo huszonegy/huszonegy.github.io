@@ -31,7 +31,3 @@ El Salvador esete is gyakran előkerül az emberi jogok kapcsán. Bár kritizál
 – Maximálisan pozitív. Az emberekről lehullottak a béklyók, már nem félnek kimenni az utcára. Bukele a Bitcoin Beach projekt sikerét látva tette hivatalos fizetőeszközzé a Bitcoint. Nem büntetik meg a boltost, ha nincs árama és nem tudja elfogadni, de az oktatás elindult. Ez a tudás akkor is megmarad az emberekben, ha a politika változik.
 
 Végezetül: a Bitcoin az igazságot mutatja meg, míg a politika és a szociális rendszerek gyakran torzítanak. Tanuljatok, kérdezzetek és olvassatok! A miskolci előadások videói már elérhetőek a YouTube-on, érdemes megnézni őket. A Seedor eszközeihez pedig használjátok a „21” kuponkódot a [seedor.io](https://seedor.io) oldalon. Köszönjük a figyelmet, jövő héten újra jelentkezünk. Sziasztok!
-
----
-
-Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik személyes támogatást igényelnek, ajánljuk a Bitcoin Mentor szolgáltatásait a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon. Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára és a Rumble csatornánkra is! Kövesd a HUSZONEGY-et Facebookon és Nostron. Támogatóink Miskolctapolca Bitcoin-elfogadó wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). És a Firefish üzeni: ne adjátok el a bitcoinotokat!

@@ -15,12 +15,6 @@ Ehhez kapcsolódóan a Paralelní Polisról is sokat hallottunk, illetve én sok
 
 Ez a szerdai napon kezdődött, úgyhogy a konferencia inkább a hétvégére volt időzítve. Itt inkább fejlesztői, illetve egyéb technikai projekteknek a demóit lehetett megtekinteni. Kábé egy nap, öt helyszínen folyamatosan mennek a workshopok, bemutatók, vagy nyitottabb, szeminárium-szerű beszélgetések is. Ez nekem igazából az, ahol lenni szeretnék. Itt lehet találkozni azokkal az emberekkel, akikkel gyakran együtt dolgozok, vagy az interneten beszélgetek.
 
-**Álljunk meg egy fontos közlemény erejéig!**
-
-Forráshiány miatt veszélybe került a podcast működése. Ha értékeled az edukatív tartalmainkat, kérünk, támogass minket, hogy folytathassuk ezt a munkát! A támogatás lehet alkalomszerű, rendszeres, vagy akár szponzori együttműködés is. A részleteket a HUSZONEGY honlapjának támogatás oldalán találod: [huszonegy.world/tamogatas](https://huszonegy.world/tamogatas) — a leírásban és a képernyőn is megtalálod.
-
-**Köszönünk szépen minden eddigi és további támogatást.** 🧡
-
 – Sok új dolog is volt, meg hát azért nem mindent tudtam megnézni, amit szerettem volna. Egy nagy fókusz volt ezeken a meshálózatokon, az amatőr decentralizált rádiózásnak az eszközein, illetve az erre szerveződő workshopokon. Itt a [MeshCore](https://meshcore.io/) nevű technológiát reklámozták, illetve használták leginkább. Ez, jó tudtommal, a LoRa — egy szintén hálószerű berendezkedésű rádiótechnológiának a titkosított formája —, tehát egy olyan protokoll, amit bárki használhat, és egy pár ezer forintos kis eszközön lehet teríteni a látótávolságban, vagy egy olyan 10 kilométeres körzetben, és tudnak átjátszani az egyes kis eszközök. Ha eltörik az internet, vagy a mobilszolgáltatás, vagy az áramszolgáltatás — mert ezek nagyon kis energiájú eszközök, tudnak elemről is működni, vagy akkumulátorról —, így a természeti katasztrófák során, vagy a politikai indíttatású korlátozások során az ilyen kommunikációs berendezések nagyon fontossá válnak.
 
 Van egy ilyen BitChat-es kapcsolat is, ahol a telefonunknak a Bluetooth-rádióját meg a wifi-rádióját tudjuk hasonló módon használni. Ezek összekapcsolódnak, és különböző szintű bonyolultságú rendszerek épülnek ki belőlük. Ez nagyon fontos: az emberek összejönnek, ezt megbeszélik, és tudják implementálni otthon a környezetükben. Úgyhogy volt egy ilyen fókusz. A másik fókusz persze a Nostr volt, ahogy azt megszoktuk, illetve a Bitcoin és egyéb titkosított csatornákon való beszélgetésre való eszközöknek a bemutatása. Úgyhogy sokat tanultam.
@@ -68,12 +62,6 @@ Vannak ezek a titkosított protokollok, amik más céllal, privát kommunikáci�
 – Ja, jól is ment.
 – Így van. De ilyen tök béna volt, nagyon hamar elkapták őket. Na mindegy. Hát ilyen ez a készpénz meg a papírpénz. Nem is azért hoztam be, csak sokan védekeznek azzal, hogy amíg az van, addig jó. Tehát a jövőben nem tudom, hogy mi lesz.
 – Hát nem tudom, mennyi kávét kapnék egy szép fém Deutsche Markért például, vagy egy milliárd pengős papírért. Hát semmit, igazából. Maximum a gyűjtők lennének lelkesek.
-
-**Ha olyan Bitcoin-only alkalmazást keresel, amiben egyszerűen tudsz bitcoint venni úgy, hogy a privát kulcsokat te kezeled, nézd meg a Relai-t!**
-
-A [Relai](https://bitcoinmentor.hu/relai) 🇨🇭 egy svájci app MiCA-engedéllyel, és kimondottan a hosszú távú megtakarítóknak tervezték. Bármikor vehetsz bitcoint azonnal, és beállíthatsz heti vagy havi automatikus vásárlást is. Ráadásul havi egy automatikus vásárlás 100 euróig teljesen díjmentes. Regisztrációnál add meg a HUSZONEGY kódot, így 10%-kal csökken a vásárlási díjad, és a podcast működését is támogatod ezzel.
-
-**Részletes leírás: [bitcoinmentor.hu/relai](https://bitcoinmentor.hu/relai)**
 
 – Átvezetném egy ilyen másik irányba, ami szintén kapcsolatos a konferencián hallottakkal. Itt az új bitcoin-skálázási lehetőségek. Tudjuk, hogy a mainchain, a [blockchain](https://inflacio.eu/mi-az-a-blokklanc/) mindig működik, csak hát ez nem tud többet, csak klasszikus — mondjuk egy olyan 7-10 tranzakciót másodpercenként hordozni —, tehát egy blokkban van egy olyan 4-5000 tranzakció általában. Valószínűleg be lehet sűríteni egy kicsit többet is, de alapvetően ez nem elég arra, hogy kiszolgáljuk az emberiséget minden ügyes-bajos dolgával, hanem ezekbe csomagolni kell több tranzakciót, ezekbe az onchain tranzakciókba.
 
@@ -137,12 +125,6 @@ De mindenképpen fontos abból a szempontból, hogy egyrészt jó érzés nem el
 – Helyszínek.
 – Igen, itt sokszor angolul gondolkodok.
 – Jogértelmezések labirintusa.
-
-**Új támogatónk a BudaBit!** Még mélyebbre ásnál a szabadságtechnológiákban? Csatlakozz a [BudaBit](https://budabit.club) cypherpunk fejlesztői közösséghez online és offline, havi meetupok keretében!
-
-**További támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu).**
-
-Bitcoin tanácsadásról és mentorálásról a [bitcoinmentor.hu](https://bitcoinmentor.hu) oldalon olvashattok, ahol a [Bitcoin blog](https://bitcoinmentor.hu/bitcoin-blog/) cikkei is megtalálhatók. A [Firefish](https://app.firefish.io/auth/sign-up?ref=HUSZONEGY) 🔥🐟 pedig azt üzeni, hogy ne adjátok el a bitcoinotokat!
 
 – Mi van mostanában? Van infó? Mert én csak így pici hírekkel értesülök El Salvadorról, hogy most nagy erőkkel várják a Bitcoin-befektetőket. Láttam is talán egy fotót. Talán most pont a BTC Prague-on volt valami kerekasztal-beszélgetés ezzel kapcsolatban. Nem? Vagy nem tudom, csak az arcokból ítélve gondolom, hogy biztos ott találkoztak, mert nem hiszem, hogy mindenki leutazott most El Salvadorba.
 – Hát találkoztam pár reprezentatívval El Salvadorból, sőt Dél-Afrikából is egyébként, a Hermann-nal, aki a Bitcoin Ekasi projektet vezeti Dél-Afrikából. El Salvadorból... hát szerintem ott kicsit láttuk azt, hogy az állam egy, hogy mondjam, megbotlott. Nem mondom azt, hogy hátraarc, de kicsit elbizonytalan abban, hogy mennyire...

@@ -27,7 +27,3 @@ Szerintem a következő választási kampányban Magyarországon is téma lesz a
 – Nem kell felmászni a háztetőre, hogy valaki leadja a szavazatát.
 – Jó gondolat, ezen még fogok gondolkodni.
 – Jól van, hát most már jóval túlmentünk az egy órán, és nem kívánjuk a nyaralásodat elpocsékolni, Feri. Visszaengedünk a tengerpartra. Tamás, köszönjük, hogy jöttél. A nézőknek és hallgatóknak köszönjük, hogy velünk voltatok, egy hét múlva újra jelentkezünk. Ha tetszett az adás, iratkozzatok fel és lájkoljatok! Sziasztok!
-
----
-
-Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik személyes támogatást igényelnek, ajánljuk a Bitcoin Mentor szolgáltatásait a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon. Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára és a Rumble csatornánkra is! Kövesd a HUSZONEGY-et Facebookon és Nostron. Támogatóink Miskolctapolca Bitcoin-elfogadó wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) and a [Hotel Atlantis](https://hotelatlantis.hu). És a Firefish üzeni: ne adjátok el a bitcoinotokat!

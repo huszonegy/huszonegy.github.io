@@ -474,10 +474,6 @@ Amúgy meg ugye van a kis meetup-oldalunk a honlapon, ahova remélem, hogy a tö
 
 – Na jó, csak gyakorlás kérdése.
 
-Gigatonnányi magyar nyelvű Bitcoin oktatóanyagot osztunk meg a HUSZONEGY honlapján. Ezek a [huszonegy.world](https://huszonegy.world) címen található anyagok bárki számára ingyenesen hozzáférhetők. Azok számára pedig, akik személyes támogatást igényelnek, szeretettel ajánljuk a Bitcoin Mentor szolgáltatásait: a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon részletesen olvashatsz a Bitcoin tanácsadásról, a Bitcoin blogban pedig egyre több értékes bejegyzést találsz. Iratkozz fel a HUSZONEGY Podcast YouTube-csatornájára, valamint a Rumble-csatornánkra is! Kövesd a HUSZONEGY-et a Facebookon és a Nostron!
-
-Támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). És a [Firefish](https://firefish.io) üzeni, hogy ne adjátok el a bitcoinotokat!
-
 – Köszönjük, Pásztornő! (nevetés)
 
 – Én köszönöm.

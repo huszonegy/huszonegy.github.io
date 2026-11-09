@@ -226,10 +226,6 @@ Sok esetben egyébként nekem ez is volt problémám: rengeteg magyar boltban na
 
 – Nem, nem, nem. Voltam már és tetszett, úgyhogy mindenképp érdemes. Szeretettel várunk mindenkit!
 
-Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető! Azok számára pedig, akik a Bitcoin tanulási útjukon személyes támogatást igényelnek, szeretettel ajánljuk a Bitcoin Mentor szolgáltatásait is. A [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon részletesen olvashatsz a Bitcoin tanácsadásunkról, a [Bitcoin blogban](https://bitcoinmentor.hu/bitcoin-blog/) pedig egyre több értékes bejegyzést találsz.
-
-Iratkozz fel a HUSZONEGY podcast YouTube csatornájára, valamint a Rumble csatornánkra is! Kövesd a HUSZONEGY-et a Facebookon és a [Nosteren](https://noszter.hu)! Támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái: a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). És a Firefish üzeni: ne adjátok el a bitcoinotokat!
-
 – Jól van, srácok, köszi szépen, köszi a figyelmet, és akkor egy hét múlva találkozunk ismét!
 
 – Sziasztok!

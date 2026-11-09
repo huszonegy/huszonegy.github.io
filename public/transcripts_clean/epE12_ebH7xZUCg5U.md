@@ -308,6 +308,6 @@ Van még egy Bizalmi Kör nevezetű üzleti kapcsolatépítő csoport, de van be
 
 – Úgyhogy érdemes szerintem ezt a könyvet is forgatni.
 
-– Köszönöm szépen, hogy eljöttél. Úgyhogy a nézőknek is köszönjük a figyelmet meg a hallgatóknak is. És ha tetszett az adásunk, és szeretnétek, hogy a YouTube algoritmusai előrébb rangsoroljanak, hogy mások is találkozhassanak ezzel a tartalommal, akkor nyomjatok egy lájkot! És ha még nem vagytok feliratkozva a csatornára, akkor ezt most tegyétek meg, azért is, mert ugye kisorsoljuk ezt a Feri által felajánlott jegyet a feliratkozók között, és szerintem biztos, hogy szuper jó lehetőség berobbanni a Bitcoin szférába egy ilyen rendezvényen. Köszönjük szépen, köszi, hogy jöttél!
+– Köszönöm szépen, hogy eljöttél. Úgyhogy a nézőknek is köszönjük a figyelmet meg a hallgatóknak is. Köszönjük szépen, köszi, hogy jöttél!
 
 – Köszönöm szépen, hogy meghívtatok. Sziasztok!

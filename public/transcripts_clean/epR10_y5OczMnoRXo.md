@@ -72,14 +72,6 @@ Ha mondjuk kevesebb marhahúst eszünk, mert egyre drágább, és több párizsi
 
 ---
 
-**Álljunk meg egy fontos közlemény erejéig!**
-
-Forráshiány miatt veszélybe került a podcast működése. Ha értékeled az edukatív tartalmainkat, kérünk, támogass minket, hogy folytathassuk ezt a munkát! A támogatás lehet alkalomszerű, rendszeres vagy akár szponzori együttműködés is. A részleteket a HUSZONEGY honlapjának támogatás oldalán találod: [huszonegy.world/tamogatas](https://huszonegy.world/tamogatas) – a leírásban és a képernyőn is megtalálod.
-
-**Köszönünk szépen minden eddigi és további támogatást.**
-
----
-
 – És eszembe jutott: most láttam egy nagyon érdekes riportot egy nővel, Schmied Andinak hívják. Ő azt csinálta, hogy építészként inkognitóban ellátogatott mindenféle luxusingatlanba, mintha egy befektető, gazdag ember feleségeként érdeklődne, hogy megvegye ezeket, vagy befektessen ezekbe a — idézőjelben — csodaszép [ingatlanokba](https://inflacio.eu/ingatlan/). New Yorkban vannak ilyenek. Rengeteg fotót készített, kielemezte őket, és ez egy az egyben egy rákos daganat: vannak ezek a vagyonos figurák, akik tényleg tudták összpontosítani a vagyonokat, a fiat rendszer tulajdonságait meglovagolva vagyonokra tettek szert, és azt a vagyont valahol tárolni akarják. Ezt egyébként Michael Saylor is folyamatosan mondogatja: New Yorkban már nem tudsz horizontálisan terjeszkedni, tehát elkezdesz vertikálisan — és akkor vannak ezek a felhőkarcolók. Ezekbe nézett körül a csaj, és ilyen beteg a helyzet. Ezek egyrészt erőforrást vonnak el az építőipartól, másrészt egy olyan vagyontároló eszközt hoznak létre, amiben — tehát nem is lakják ezeket az ingatlanokat. Sőt, az a kívánatos, hogy ne lakják, mert ha már lakták, akkor lelakottként nehezebben értékesíthető, csökken az értéke.
 
 ---
@@ -101,14 +93,6 @@ Forráshiány miatt veszélybe került a podcast működése. Ha értékeled az 
 És amikor ez így leesett, akkor emlékszem, megállítottam a podcastet, kihúztam a fülemből a fülhallgatót, és így néztem magam elé, hogy úristen. És belegondoltam, hogy hát ez nagyon-nagyon sok mindent megmagyaráz.
 
 A másik ilyen dolog volt még maga az infláció: hogy mi az infláció. Mert sose kérdeztem meg, csak úgy elfogadtam, hogy ez van, ez a gazdaság velejárója, ez így működött mindig. Csak amikor összekapcsoltam, hogy maga az infláció az lényegében az emberi idő, energia és élet elértéktelenítése…
-
----
-
-Új támogatónk a BudaBit! 🔥 Még mélyebbre ásnál a szabadságtechnológiákban? Csatlakozz a [BudaBit](https://budabit.club) cypherpunk fejlesztői közösséghez online és offline havi meetupok keretében! Részletek a [budabit.club](https://budabit.club) oldalon.
-
-**További támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu).**
-
-Bitcoin tanácsadásról és mentorálásról a [bitcoinmentor.hu](https://bitcoinmentor.hu) oldalon olvashattok, ahol a [Bitcoin blog](https://bitcoinmentor.hu/bitcoin-blog/) cikkei is megtalálhatók. A [Firefish](https://app.firefish.io/auth/sign-up?ref=HUSZONEGY) 🔥🐟 pedig azt üzeni, hogy ne adjátok el a bitcoinotokat!
 
 ---
 

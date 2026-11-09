@@ -32,7 +32,3 @@ Számítógépen a Nostrudel-t használom, ez a legprofibb kliens jelenleg. Beá
 A nukleáris energia a legtisztább és leghatékonyabb forrásunk, nem kell tőle félni. Több sugárzást kapsz a természetes háttérsugárzástól, mint egy erőmű mellől. Hallottam egy jövőképet is, miszerint a nemzetállamok azért fognak reaktorokat építeni, hogy növeljék a saját [hash](https://inflacio.eu/mi-az-a-hash-fuggveny/)-rátájukat és uralják a blokkokat. Ez még távoli, de a technológia adott.
 
 Zárásként: akinek kérdése van a Nostr-ral kapcsolatban, keressen bátran a Telegram csoportunkban, szívesen segítek. A Seedor eszközeihez pedig használjátok a „HUSZONEGY” kuponkódot a [seedor.io](https://seedor.io) oldalon. Találkozunk márciusban Hajdúszoboszlón! Köszönjük a figyelmet, sziasztok!
-
----
-
-Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik személyes támogatást igényelnek, ajánljuk a Bitcoin Mentor szolgáltatásait a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon. Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára és a Rumble csatornánkra is! Kövesd a HUSZONEGY-et Facebookon és Nostron. Támogatóink Miskolctapolca Bitcoin-elfogadó wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). És a Firefish üzeni: ne adjátok el a bitcoinotokat!

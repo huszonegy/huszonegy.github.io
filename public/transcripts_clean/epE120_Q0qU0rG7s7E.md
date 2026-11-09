@@ -64,12 +64,6 @@ A másik, amiért vagyok, és amiért maradok is, hogy a bitcoin alapvetően té
 
 – Szerintem nagyon jó rendezvény lesz, úgyhogy veled is tudnak ott találkozni, meg nagyon sok HUSZONEGY-es bitcoinos arccal is. Ha meg van kedvetek jönni, akkor megtehetitek, még egy-két hétig vannak ingyenes jegyeink, úgyhogy használjátok ki az alkalmat!
 
-**Ha olyan Bitcoin-only alkalmazást keresel, amiben egyszerűen tudsz bitcoint venni úgy, hogy a privát kulcsokat te kezeled, nézd meg a Relai-t!**
-
-A [Relai](https://bitcoinmentor.hu/relai) 🇨🇭 egy svájci app MiCA-engedéllyel, és kimondottan a hosszú távú megtakarítóknak tervezték. Bármikor vehetsz bitcoint azonnal, és beállíthatsz heti vagy havi automatikus vásárlást is. Ráadásul havi egy automatikus vásárlás 100 euróig teljesen díjmentes. Regisztrációnál add meg a HUSZONEGY kódot, így 10%-kal csökken a vásárlási díjad, és a podcast működését is támogatod ezzel.
-
-**Részletes leírás: [bitcoinmentor.hu/relai](https://bitcoinmentor.hu/relai)**
-
 – Téged hogyan érintett egyébként a COLDCARD-hack? Mit szólsz ezekhez a biztonsági problémákhoz? Te ezt hogyan kezeled egyébként? Mert te is elmondtad, és erre világítottál rá, hogy ez egy olyan mély nyúlüreg, ami nem csak gazdasági, nem csak társadalmi, nem csak filozófiai, hanem technológiai kérdés is. Te ezt hogyan kezeled?
 
 – Hát nagyon köszönöm, hogy erre így rákérdezel, ez tulajdonképpen a jelen mélye. Azért hadd kanyarodjak vissza oda, mert imádom, ahogy elmondtad, annyira szépen, ilyen flow, ilyen smooth volt az egész. Teljesen egyetértek azzal, hogy ez szabadságtechnológia, és a legtöbben azért jönnek, mert felmegy az ára, aztán azért maradnak, mert szabadság, és modern, és akármi, és tényleg lehet, hogy meg tudja javítani azt, ami el van romolva a világgal.
@@ -143,16 +137,6 @@ Te, amikor beszélgetsz az ismerőseiddel, rólad tudják amúgy úgy, privát e
 – Előtte se volt.
 
 – Hát valószínű, a mamutok mit csináltak, érted? Úgyhogy veszedelmes, veszedelmes.
-
-**Mielőtt folytatjuk, néhány szó azokról, akik nélkül ez az adás nem jöhetett volna létre.**
-
-Ha mélyebbre ásnál a szabadságtechnológiákban, ott a helyed a [BudaBit](https://budabit.club) cypherpunk fejlesztői közösségben. Online folyamatosan, személyesen pedig havonta találkoznak. Részletek a [budabit.club](https://budabit.club) oldalon.
-
-**Ha inkább kikapcsolódnál, vár rád a miskolctapolcai [Hotel Aurora](https://hotelaurora.hu) és a hajdúszoboszlói [Hotel Atlantis](https://hotelatlantis.hu), két négycsillagos wellness-szálloda, ahol a bitcoint nemcsak elfogadják, hanem tartalékolják is.**
-
-Ha elakadtál a bitcoinnal, és nem tudod, hogyan tárold biztonságosan, vagy hogyan fogj hozzá, kérj személyes tanácsadást vagy mentorálást a [bitcoinmentor.hu](https://bitcoinmentor.hu) oldalon! Ott a [Bitcoin blog](https://bitcoinmentor.hu/bitcoin-blog/) cikkeit is megtalálod.
-
-Ja, és a [Firefish](https://app.firefish.io/auth/sign-up?ref=HUSZONEGY) 🔥🐟 változatlanul azt üzeni, hogy ne add el a bitcoinodat!
 
 – Említettél egy jelzőt, amit én még soha nem hallottam a bitcoinnal kapcsolatban: a játékosság. Itt mire gondoltál?
 

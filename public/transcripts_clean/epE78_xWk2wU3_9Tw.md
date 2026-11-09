@@ -346,8 +346,6 @@ A konferencia Miskolctapolcán lesz, a négycsillagos [Hotel Aurorában](https:/
 
 Mindkét szálloda előszeretettel támogatja hónapok óta a podcastunkat, amit nagyon köszönünk nekik. Még azt érdemes tudni róluk, hogy bitcoint elfogadó és bitcoint tartalékoló szállodák.
 
-Kövessetek minket a Nostron, iratkozzatok fel a YouTube-csatornánkra – és ne adjátok el a bitcoinotokat!
-
 Akkor szerintem megköszönhetjük a figyelmet a nézőknek, és egy hét múlva találkozunk. Köszi, Dani, hogy itt voltál!
 
 – Köszönöm én is, hogy ismét vendégül láttatok. Sziasztok!

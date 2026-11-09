@@ -23,7 +23,3 @@ Láthattuk ezt Kanadában is a kamionos tüntetéseknél, amikor az állam egysz
 – Tanulságos a német kormány esete is: 53 000 dolláros árfolyamon adták el a hatalmas Bitcoin-készletüket, amivel azóta közel egymilliárd eurós profitról maradtak le. Olyan pénzt (eurót) kaptak cserébe, amit ők maguk is bármikor elő tudnak állítani. Nem tűnik a legbölcsebb döntésnek, hacsak nem a piac megremegtetése volt a céljuk, de a Bitcoin ezen is túllépett.
 
 – Ma november 5-e van, mire az adás kimegy, már tudni fogjuk az amerikai elnökválasztás eredményét is, ahol a Bitcoin szintén központi téma volt. Azt javasoljuk mindenkinek – és Pogátsa Zoltánnak is –, hogy tanuljon többet a Bitcoinról, mielőtt egybemossa az átverésekkel. A különbség ég és föld. Köszönjük a figyelmet, a videók alá írt kommentek sokat segítenek nekünk, hogy tudjuk, mi érdekel titeket. Találkozunk pénteken! Sziasztok!
-
----
-
-Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik személyes támogatást igényelnek, ajánljuk a Bitcoin Mentor szolgáltatásait a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon. Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára és a Rumble csatornánkra is! Kövesd a HUSZONEGY-et Facebookon és Nostron. Támogatóink Miskolctapolca Bitcoin-elfogadó wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). És a Firefish üzeni: ne adjátok el a bitcoinotokat!

@@ -206,9 +206,7 @@ Na most, ez a probléma mindenkit érint. Mindenkit. Nem az emberek 10%-át – 
 
 Titeket is várunk szeretettel a decemberi budapesti meetupunkon, melynek részletei a honlapunkon, a [huszonegy.world](https://huszonegy.world) címen, illetve a Telegram csoportunkban elérhetők. Ezen a meetupon három előadás is lesz. Az egyik pont ezt a témát taglalja, hogy mi a probléma. A másik címe: hogyan fogadjak el bitcoint. A harmadik pedig egy [Ginger Wallet](https://gingerwallet.io) tárcabemutató lesz. Találtok regisztrációs linket is – kérjük, hogy ezen regisztráljatok! Ugyan a részvétel ingyenes, de szeretnénk látni, mekkora az érdeklődés, hány résztvevőre számíthatunk.
 
-A honlapon érdemes még nézelődni, mert folyamatosan frissülnek a tartalmak: most új cikkek is elérhetők, az előadás oldalon pedig egyre több előadás érhető el a legutóbbi Bitcoin konferenciáról. Iratkozzatok fel a YouTube-csatornánkra, kövessétek a vadonatúj Rumble-csatornánkat, aki pedig a Facebook felé járkál, ott is kövessen minket! A Nostr-csatornánkat is kövessétek!
-
-Támogatóink a négycsillagos [Hotel Aurora](https://hotelaurora.hu) Miskolctapolcán, mely bitcoint elfogadó és bitcoint tartalékoló szálloda, illetve a [Hotel Atlantis](https://hotelatlantis.hu) Hajdúszoboszlón, mely szintén négycsillagos wellness szálloda, és szintén elfogad bitcoint, és tartogatja is hosszú távon.
+A honlapon érdemes még nézelődni, mert folyamatosan frissülnek a tartalmak: most új cikkek is elérhetők, az előadás oldalon pedig egyre több előadás érhető el a legutóbbi Bitcoin konferenciáról. A Nostr-csatornánkat is kövessétek!
 
 És végül: ne adjátok el a bitcoinotokat!
 

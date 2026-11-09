@@ -152,14 +152,6 @@ Nagyon egyszerű példa: App Store is van Nostr-en. Hogyha föltelepíted ezt a 
 
 ---
 
-**Ha olyan Bitcoin-only alkalmazást keresel, amiben egyszerűen tudsz bitcoint venni úgy, hogy a privát kulcsokat te kezeled, nézd meg a Relai-t!**
-
-A [Relai](https://bitcoinmentor.hu/relai) 🇨🇭 egy svájci app, MiCA-engedéllyel, és kimondottan a hosszú távú megtakarítóknak tervezték. Bármikor vehetsz bitcoint azonnal, és beállíthatsz heti vagy havi automatikus vásárlást is. Ráadásul havi egy automatikus vásárlás 100 euróig teljesen díjmentes. Regisztrációnál add meg a HUSZONEGY kódot, így 10%-kal csökken a vásárlási díjad, és a podcast működését is támogatod ezzel.
-
-**Részletes leírás: [bitcoinmentor.hu/relai](https://bitcoinmentor.hu/relai)**
-
----
-
 – Megnyitottam közben itt a [budabit.org](https://budabit.org)-ot, hogy puskázzak és kérdezzek tőled. Látom, hogy ez Nostr-protokollon megy, Git-natív.
 
 – Ühüm.
@@ -181,11 +173,5 @@ A GitHub azt oldja meg, hogy egyrészt könnyű hostingot adott — tárolja eze
 A Nostr egy szabadpiacot csinál ezekből a dolgokból. Teszem azt, ott van a hosting. Nostr-en úgy néz ki, hogy bárki lehet Git-szerver-host, bárki tárolhatja a repókat, a kódot, és ez Nostr-en csak ki van posztolva, hogy hol van az a szerver. Nem az van, hogy a GitHub önmagába véve alapértelmezetten csak a GitHubon lehetsz hostolva, hanem Nostr-en megadhatsz öt, hat, tíz különböző mirrort, ahova tükrözöd az adatokat. Budabitben is így van, hogyha egy szerver nem működik, akkor csak vált a következőre, és onnan tölti be. Ez GitHubon egyetlen entitásnak a kezébe adjuk — a GitHub kezébe —, aki persze próbál egy zökkenőmentes élményt adni, hogy ne álljon le, de vannak problémák azért időközönként. És a kontroll a másik nyilván, mint említettem már. Budabittel ezt csináljuk.
 
 ---
-
-**Új támogatónk a BudaBit!** 🔥 Még mélyebbre ásnál a szabadságtechnológiákban? Csatlakozz a [BudaBit](https://budabit.club) cypherpunk fejlesztői közösséghez online és offline havi meetupok keretében! Részletek a [budabit.club](https://budabit.club) oldalon.
-
-**További támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu).**
-
-Bitcoin tanácsadásról és mentorálásról a [bitcoinmentor.hu](https://bitcoinmentor.hu) oldalon olvashattok, ahol a [Bitcoin blog](https://bitcoinmentor.hu/bitcoin-blog/) cikkei is megtalálhatók. A [Firefish](https://app.firefish.io/auth/sign-up?ref=HUSZONEGY) 🔥🐟 pedig azt üzeni, hogy ne adjátok el a bitcoinotokat!
 
 – Sziasztok mindenkinek!

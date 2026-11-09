@@ -6,6 +6,15 @@ import { useHead } from '@unhead/vue';
 import { ref, onMounted, computed } from 'vue';
 import { marked } from 'marked';
 import { watch } from 'vue';
+import { links } from '../data/links';
+
+// Támogatói doboz: a szponzorok és az affiliate-ajánlások egy helyről (data/links.ts) jönnek,
+// így az átiratokba nem kell (elavuló) szponzorszöveget írni.
+const sponsors = (links.find(c => c.category === 'Szponzoraink')?.items ?? []) as { name: string; url: string }[];
+const affiliates = ((links.find(c => c.category === 'Kedvezményes ajánlások')?.items ?? []) as { name: string; kind?: string }[])
+  .filter(i => i.kind === 'affiliate').map(i => i.name);
+const joinHu = (names: string[]) =>
+  names.length <= 1 ? names.join('') : names.slice(0, -1).join(', ') + ' és ' + names[names.length - 1];
 
 marked.use({
   renderer: {
@@ -373,6 +382,18 @@ useHead({
               {{ transcriptText }}
             </div>
           </section>
+
+          <aside v-if="sponsors.length" class="sponsor-box section-gap text-start" aria-label="Támogatóink">
+            <p class="label">Támogatóink</p>
+            <p class="sponsor-box-text">
+              A HUSZONEGY Bitcoin Podcast létrejöttét támogatja:
+              <template v-for="(s, i) in sponsors" :key="s.name"><a :href="s.url" target="_blank" rel="sponsored noopener">{{ s.name }}</a>{{ i < sponsors.length - 2 ? ', ' : i === sponsors.length - 2 ? ' és ' : '.' }}</template>
+            </p>
+            <p class="sponsor-box-text mb-0">
+              Kedvezményes ajánlásainkat<template v-if="affiliates.length"> ({{ joinHu(affiliates) }})</template> a <router-link to="/link/">Linkek</router-link> oldalon gyűjtöttük össze.
+              Te is támogatnád a folytatást? <router-link to="/tamogatas/">Itt megtudod, hogyan.</router-link>
+            </p>
+          </aside>
         </div>
 
         <!-- Előző / Következő epizód navigáció -->
@@ -507,6 +528,21 @@ useHead({
   margin-left: auto;
   margin-right: auto;
 }
+
+/* --- TÁMOGATÓI DOBOZ --- */
+.sponsor-box {
+  max-width: var(--text-col);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1rem 1.25rem;
+  border: 1px solid rgba(247, 147, 26, 0.25);
+  border-radius: 8px;
+  background: rgba(247, 147, 26, 0.04);
+}
+.sponsor-box .label { margin-bottom: 0.5rem; font-size: 0.95rem; }
+.sponsor-box-text { font-size: 0.95rem; line-height: 1.4; color: #cfcfcf; margin-bottom: 0.5rem; }
+.sponsor-box-text a { color: #f7931a; text-decoration: none; }
+.sponsor-box-text a:hover { text-decoration: underline; }
 
 /* --- TIMELINE --- */
 .topic-timeline {

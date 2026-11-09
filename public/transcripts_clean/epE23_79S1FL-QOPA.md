@@ -274,4 +274,4 @@ Nem akarok senkit törvénytelenségre biztatni, ezt csupán arra akartam kicsit
 
 – Ha Balázs jön, szóljatok!
 
-– Jó, mindenképpen. Köszönöm nektek, hogy itt voltatok, tök érdekes volt a téma. És a nézőknek meg a hallgatóknak a figyelmet. És ha tetszett az adás, akkor nyomjatok egy lájkot, és iratkozzatok fel, ha nem vagytok még, és jövő héten akkor újra ugyanitt találkozunk. Sziasztok!
+– Jó, mindenképpen. Köszönöm nektek, hogy itt voltatok, tök érdekes volt a téma. És a nézőknek meg a hallgatóknak a figyelmet. Jövő héten akkor újra ugyanitt találkozunk. Sziasztok!

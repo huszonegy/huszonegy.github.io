@@ -100,12 +100,6 @@ Visszatérve ide, ugye az IoT-eszközöknél ez tökéletes lenne, mert akkor el
 
 – Igen.
 
-Új támogatónk a [BudaBit](https://budabit.club)! Még mélyebbre ásnál a szabadságtechnológiákban? Csatlakozz a BudaBit cypherpunk fejlesztői közösséghez online és offline havi meetupok keretében! Részletek a [budabit.club](https://budabit.club) oldalon.
-
-**További támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu).**
-
-Bitcoin tanácsadásról és mentorálásról a [bitcoinmentor.hu](https://bitcoinmentor.hu) oldalon olvashattok, ahol a [Bitcoin blog](https://bitcoinmentor.hu/bitcoin-blog/) cikkei is megtalálhatók. A [Firefish](https://app.firefish.io/auth/sign-up?ref=HUSZONEGY) 🔥🐟 pedig azt üzeni, hogy ne adjátok el a bitcoinotokat!
-
 – Henky, milyen csevegő alkalmazásokat hoztál nekünk, és kérlek, mesélj erről!
 
 – Egy csomó csoportos chat alkalmazás fejlesztése zajlik. Ugye vannak régebbiek, mint például a Flotilla, vagy a [BitChat](https://zapstore.dev/apps/naddr1qqgkxmmd9e3xjarrdpshgtnywfhkjeqprpmhxue69uhhyetvv9uju7npwpehgmmjv5hxgetkqgs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgrqsqqqlstp62nvd) mondjuk, amiről többször volt szó. A BitChathez hasonló alkalmazás például a [NymChat](https://zapstore.dev/apps/naddr1qq9kxmmd9eh8jmfwvfshyqgcwaehxw309aex2mrp0yh85ctswd6x7un99ejx2aszyr2f4ypr5gwm5xeusvrv5d5m7vjrmz6yhrctd5gevcrl0vyep75d7qcyqqq8uzc3kv6tg), ahol MLS-titkosítás van az üzenetküldésben.
@@ -239,12 +233,6 @@ Nem tudom, esetleg még a zárszó előtt, mielőtt ránézünk az árfolyamra, 
 És ahogy például mondtad, Henky, az Armadánál is, hogy milyen szuperül néz ki, mintha évek óta ezen dolgoztak volna: ez a szingularitás az AI-nál, a mesterséges intelligencia korában, amikor olyan minőségű terméket kapunk egyik napról a másikra, amit el sem hiszünk, hogy ez létezik, hogy ezen kidolgozott 1000 órákat előtte egy egész team, holott ő ezt saját maga rakta össze. Én ezért nagyon lelkesedem.
 
 Ebben a világban viszont pont ezért lenne nagyon fontos egy olyan stabil pénzrendszer, ami az ösztönzőket a megfelelő helyre viszi, mert ezek az eszközök lehetnek akár tényleg veszélyesek is egy bizonyos csoport vagy politika kezében. Hogyha az incentívákat helyre tesszük, amit nem tudunk máshogy, csak hogy a pénzrendszert megjavítjuk, akkor ez egy nagyon-nagyon szép világ lesz. Ezért vagyunk itt, ezért edukálunk titeket, és ezért javaslom, hogy mindenki legyen azzal tisztában, hogy mi a pénz és hogy mi a Bitcoin, mert lehet, hogy még most neked nincs rá szükséged, de az is lehet, hogy majd egyszer el fogsz odajutni, hogy erre valóban szükséged lesz.
-
-**Ha olyan Bitcoin-only alkalmazást keresel, amiben egyszerűen tudsz bitcoint venni úgy, hogy a privát kulcsokat te kezeled, nézd meg a Relai-t!**
-
-A [Relai](https://bitcoinmentor.hu/relai) 🇨🇭 egy svájci app MiCA-engedéllyel, és kimondottan a hosszú távú megtakarítóknak tervezték. Bármikor vehetsz bitcoint azonnal, és beállíthatsz heti vagy havi automatikus vásárlást is. Ráadásul havi egy automatikus vásárlás 100 euróig teljesen díjmentes. Regisztrációnál add meg a HUSZONEGY kódot, így 10%-kal csökken a vásárlási díjad, és a podcast működését is támogatod ezzel.
-
-**Részletes leírás: [bitcoinmentor.hu/relai](https://bitcoinmentor.hu/relai)**
 
 – És ide még egy hírt hadd mondjak el! A héten indítottunk el, képzeljétek, [egy parkolót](https://northapp.hu), ami egy hagyományos ingatlanfejlesztés mellett létesült, kb. 80 darab beállóval, és egy focipályát is, egy műfüves focipályát is átadtunk, amit, képzeljétek el, online csak bitcoinnal lehet foglalni. A kollégáim nagyon erősködtek, hogy „de Feri, hát fogadjunk már kártyát meg utalást, meg Apple Payt satöbbi", de mondtam, hogy nem.
 

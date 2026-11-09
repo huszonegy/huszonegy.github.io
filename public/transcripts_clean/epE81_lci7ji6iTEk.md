@@ -248,9 +248,7 @@ Ugye, Kata, nektek a Bitcoiner's Pretties brand is megtalálható a Nostron.
 
 – Köszi nektek.
 
-Támogatóink a négycsillagos [Hotel Aurora](https://hotelaurora.hu) Miskolctapolcán, mely bitcoint elfogadó és tartalékoló szálloda, és a [Hotel Atlantis](https://hotelatlantis.hu), mely szintén négycsillagos, bitcoint elfogadó szálloda, Hajdúszoboszlón.
-
-Ahogy Anti is említette, egyre intenzívebben jelen vagyunk a Nostron – kövessetek be minket, és a HUSZONEGY feedje alatt számos magyar bitcoiner posztjait találhatjátok újraposztolva. Iratkozzatok fel a YouTube-csatornánkra, kövessétek be a vadonatúj Rumble-csatornánkat, ahova most már szintén kiposztoljuk az összes új podcast-epizódot. Aki mászkál a Facebook felé, ott is kövessen be minket – és ne adjátok el a bitcoinotokat!
+Ahogy Anti is említette, egyre intenzívebben jelen vagyunk a Nostron – kövessetek be minket, és a HUSZONEGY feedje alatt számos magyar bitcoiner posztjait találhatjátok újraposztolva. Aki mászkál a Facebook felé, ott is kövessen be minket – és ne adjátok el a bitcoinotokat!
 
 Köszönjük a figyelmet, és csak egy hét múlva találkozunk.
 

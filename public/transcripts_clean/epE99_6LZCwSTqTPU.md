@@ -281,10 +281,6 @@ Még azt mondjuk el, hogy Hajnal, te is ott leszel a konferencián — és ott t
 – …meg a gyerekszínpadé is. De hát az, hogy ott leszel, és tud mindenki beszélgetni veled, aki szeretne — ott el fog tudni érni. És szerintem az a legkorábbi ilyen csatlakozási pont.
 A konferencia Hajdúszoboszlón lesz, a Hotel Atlantisban, április 17. és 19. között. A [bitcoinmiskolc.hu](https://bitcoinmiskolc.hu) honlapon már elérhető az ingyenes regisztráció, illetve a különböző ellátásokat nyújtó jegyek — és hamarosan a részletes program is elérhető lesz. Érdemes időben regisztrálni, mert az ingyenes jegyek csak március 26-áig érhetőek el, utána már csak az ellátást is nyújtó jegyeket lehet megvásárolni.
 
-Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik a Bitcoin tanulási útjukon személyes támogatást igényelnek, szeretettel ajánljuk a Bitcoin Mentor szolgáltatásait is: a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon részletesen olvashatsz a Bitcoin tanácsadásunkról, a Bitcoin blogban pedig egyre több értékes bejegyzést találsz. Iratkozz fel a HUSZONEGY Podcast YouTube-csatornájára, valamint a Rumble-csatornánkra is! Kövesd a HUSZONEGY-et a Facebookon és a Nostron!
-
-Támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). És a [Firefish](https://firefish.io) üzeni, hogy ne adjátok el a bitcoinotokat!
-
 – Köszönjük szépen.
 
 – Köszönjük szépen a figyelmet. És jövő héten jelentkezünk a 100. adással.

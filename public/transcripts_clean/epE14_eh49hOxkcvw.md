@@ -36,8 +36,4 @@ Sokan feladják a szabadságjogaikat a kényelemért, de Kína példája mutatja
 
 Köszönjük Anitának a beszélgetést! Aki szeretne tájékozódni az adózásról és a szabályozásról, nézze meg a [kriptoadozas.hu/videok](https://kriptoadozas.hu/videok) oldalt, ahol három évnyi ingyenes tartalom érhető el. Vannak adózási segédanyagaik és kalkulátoraik is a [kepzes.kripteus.hu](https://kepzes.kripteus.hu) oldalon. A csalások elleni küzdelemről pedig az [etherealendowment.com](https://etherealendowment.com) oldalon olvashattok.
 
-Ne felejtsétek, június 13-15. között prágai Bitcoin konferencia (**BTC Prague**), ahol 10% kedvezményt kaptok a „21” kuponkóddal! Lájkold a videót, iratkozz fel a csatornára, és jövő héten újra találkozunk! Sziasztok!
-
----
-
-Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik személyes támogatást igényelnek, ajánljuk a Bitcoin Mentor szolgáltatásait a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon. Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára és a Rumble csatornánkra is! Kövesd a HUSZONEGY-et Facebookon és Nosteren. Támogatóink Miskolctapolca és Hajdúszoboszló Bitcoin-elfogadó wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). A Firefish pedig üzeni, hogy ne adjátok el a bitcoinotokat!
+Ne felejtsétek, június 13-15. között prágai Bitcoin konferencia (**BTC Prague**), ahol 10% kedvezményt kaptok a „21” kuponkóddal! Jövő héten újra találkozunk! Sziasztok!

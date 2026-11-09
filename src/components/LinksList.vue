@@ -6,6 +6,10 @@ const categories = links
 const bannerItems = (items: any[]) => items.filter(i => i.image)
 const plainItems = (items: any[]) => items.filter(i => !i.image)
 
+// Fizetett/jutalékos kapcsolat: a Google irányelve szerint rel="sponsored"
+const relFor = (link: any, category?: string) =>
+    category === 'Szponzoraink' || link.kind === 'affiliate' || link.kind === 'coupon' ? 'sponsored noopener' : 'noopener'
+
 const chipLabel = (kind: string) =>
     kind === 'own' ? 'a HUSZONEGY csoporttól' : kind === 'affiliate' ? 'affiliate' : 'kupon'
 const chipIcon = (kind: string) =>
@@ -32,11 +36,11 @@ const chipIcon = (kind: string) =>
         </h2>
         <div v-if="kategoria.category === 'Szponzoraink'" class="sponsor-grid">
             <div v-for="link in kategoria.items" class="sponsor-card">
-                <a :href="link.url" target="_blank" class="sponsor-banner-link">
+                <a :href="link.url" target="_blank" :rel="relFor(link, kategoria.category)" class="sponsor-banner-link">
                     <img :src="(link as any).image" :alt="link.name + ' banner'" class="sponsor-banner" :class="{ 'is-left': (link as any).align === 'left', 'is-zoom': (link as any).zoom }" />
                 </a>
                 <div class="sponsor-info">
-                    <a :href="link.url" target="_blank" class="sponsor-name">{{ link.name }}</a>
+                    <a :href="link.url" target="_blank" :rel="relFor(link, kategoria.category)" class="sponsor-name">{{ link.name }}</a>
                     <p v-if="link.text" class="sponsor-desc" v-html="link.text" />
                 </div>
             </div>
@@ -47,7 +51,7 @@ const chipIcon = (kind: string) =>
                 <div class="link-grid">
                     <article v-for="link in grp.items" :key="link.name" class="link-card link-card-compact">
                         <header class="link-card-header">
-                            <a :href="link.url" target="_blank" class="link-card-title-link">
+                            <a :href="link.url" target="_blank" :rel="relFor(link, kategoria.category)" class="link-card-title-link">
                                 <h5 class="link-card-title">{{ link.name }}</h5>
                             </a>
                         </header>
@@ -59,12 +63,12 @@ const chipIcon = (kind: string) =>
         <template v-else>
             <div v-if="bannerItems((kategoria as any).items).length" class="partner-grid">
                 <article v-for="link in bannerItems((kategoria as any).items)" :key="link.name" class="link-card link-card-banner-card">
-                    <a :href="link.url" target="_blank" class="link-card-banner-link">
+                    <a :href="link.url" target="_blank" :rel="relFor(link, kategoria.category)" class="link-card-banner-link">
                         <img :src="(link as any).image" :alt="link.name + ' banner'" class="link-card-banner" />
                     </a>
                     <div class="link-card-content">
                         <header class="link-card-header">
-                            <a :href="link.url" target="_blank" class="link-card-title-link">
+                            <a :href="link.url" target="_blank" :rel="relFor(link, kategoria.category)" class="link-card-title-link">
                                 <h5 class="link-card-title">{{ link.name }}</h5>
                             </a>
                             <span v-if="(link as any).kind" class="link-chip" :class="'link-chip-' + (link as any).kind">
@@ -80,7 +84,7 @@ const chipIcon = (kind: string) =>
             <div v-if="plainItems((kategoria as any).items).length" class="link-grid">
                 <article v-for="link in plainItems((kategoria as any).items)" class="link-card link-card-compact">
                     <header class="link-card-header">
-                        <a :href="link.url" target="_blank" class="link-card-title-link">
+                        <a :href="link.url" target="_blank" :rel="relFor(link, kategoria.category)" class="link-card-title-link">
                             <h5 class="link-card-title">{{ link.name }}</h5>
                         </a>
                         <span v-if="(link as any).kind" class="link-chip" :class="'link-chip-' + (link as any).kind">

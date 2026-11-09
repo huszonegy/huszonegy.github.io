@@ -610,13 +610,9 @@ Ugye szeptember 18. Budapest; október 17-étől 19-ig pedig közeledik a Bitcoi
 
 – Hát nem csak nekem, de van benne egy kis részem.
 
-– És nem utolsósorban az is egy plusz infó, hogy a Hotel Aurora és a [Hotel Atlantis](https://hotelatlantis.hu) támogatják is a podcastunkat, és amúgy is szeretjük őket. Az Atlantisnak majd bemutatom a honlapját – az nagyon szépen megújult, azt is érdemes nézegetni.
-
 És akkor arról szólván, hogy hol vagyunk rendszeresen jelen: egyrészt a YouTube-on videóval, a Spotify-on szintén videóval; onnan tovább megy egy csomó podcast-felületre a hanganyag, ott is lehet minket követni. Viszonylag aktívak vagyunk a Telegram csoportunkban, aminek ide tesszük a linkjét – oda érdemes jönni, chatelni, vagy akár csak olvasni is, de kérdezni meg megosztani bármit. Aktívan várunk mindenkit szeretettel.
 
 Aztán a Facebookon van egy oldalunk, ahol igyekszünk egyre több követőt szerezni, hogy szélesebb körben tudjuk terjeszteni az információkat. És mostanában egyre aktívabbak vagyunk, egyre többen a Nostron is – úgyhogy oda is minél többen gyertek, és figyeljétek, hogy ott miket posztolunk. Személy szerint én is most izzítom a rakétáimat, hogy minél több dolog, amit amúgy ide-oda szoktam kitenni, az a Nostron is ott legyen. Mert szerintem tök jó, és ettől lesz élettel teli, ha pumpáljuk oda az életet.
-
-És akkor a mondókámból még annyit, hogy a [Firefish](https://firefish.io)-t is promózzuk: lefordítottam a felületüket is, az oktatóanyagukat is. Fontoljátok meg a felelős, Bitcoin-fedezetű kölcsönfelvételt ahelyett, hogy eladnátok a bitcoinotokat – merthogy annál sokkal észszerűbb.
 
 – De azért ésszel kell.
 

@@ -350,10 +350,6 @@ Tehát ez nem bizonyíték. Ez csak arra jó, hogy követhetetlenné válik a Bi
 – Így terveztem, csak ma elfelejtettem — de közben, adás közben eszembe jutott. (nevetés)
 A konferencia Hajdúszoboszlón lesz, a Hotel Atlantisban, április 17. és 19. között. A [bitcoinmiskolc.hu](https://bitcoinmiskolc.hu) honlapon elérhetők a különböző ellátásokat nyújtó jegyek, és hamarosan a részletes program is elérhető lesz. Érdemes időben regisztrálni, mert az ingyenes jegyek csak március 26-áig érhetőek el.
 
-Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik a Bitcoin tanulási útjukon személyes támogatást igényelnek, szeretettel ajánljuk a Bitcoin Mentor szolgáltatásait is: a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon részletesen olvashatsz a Bitcoin tanácsadásunkról, a Bitcoin blogban pedig egyre több értékes bejegyzést találsz. Iratkozz fel a HUSZONEGY Podcast YouTube-csatornájára, valamint a Rumble-csatornánkra is! Kövesd a HUSZONEGY-et a Facebookon és a Nostron!
-
-Támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). És a [Firefish](https://firefish.io) üzeni, hogy ne adjátok el a bitcoinotokat!
-
 – A hallgatóknak mondom, hogy közben Antit sajnos elveszítettük technikai malőr miatt, úgyhogy nélküle fogjuk lezárni az adást.
 
 Még talán arról beszéljünk röviden, hogy közel van már a Bitcoin Miskolc — ami Hajdúszoboszlón lesz, április 17. és 19. között. És ha jól tudom, te is ott leszel, tehát veled is tudunk személyesen találkozni.

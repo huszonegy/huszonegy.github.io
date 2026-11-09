@@ -498,9 +498,7 @@ A budapesti meetup december 4-én lesz, 18 órától a Perspective Barban, ami a
 
 Három előadás lesz. Az egyik „Mi a probléma?" címmel, a másik „Hogyan fogadjak el bitcoint", a harmadik pedig egy [Ginger Wallet](https://gingerwallet.io) tárcabemutató. Aztán természetesen kötetlen beszélgetés is lesz, és még egy kis érdekesség, ami szervezés alatt van.
 
-A HUSZONEGY honlapján érdemes nézni az előadásoldalt – ott egyre több előadás elérhető a múltkori Bitcoin konferencia anyagai közül. Kövessétek a YouTube-csatornánkat, az új Rumble-csatornánkat is! Kövessetek be minket a Nostron, a Facebookon.
-
-Támogatóink pedig a négycsillagos [Hotel Aurora](https://hotelaurora.hu) Miskolctapolcán és a négycsillagos [Hotel Atlantis](https://hotelatlantis.hu) wellness szálloda Hajdúszoboszlón. És ne adjátok el a bitcoinotokat!
+A HUSZONEGY honlapján érdemes nézni az előadásoldalt – ott egyre több előadás elérhető a múltkori Bitcoin konferencia anyagai közül.
 
 Meg is köszönném a figyelmet mindenkinek. Zoli, köszi, hogy eljöttél hozzánk! Tamásnak is, hogy újra itt volt. Nemsokára újra találkozunk, egy hét múlva – Roland lesz a vendégünk.
 

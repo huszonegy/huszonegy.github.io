@@ -28,7 +28,3 @@ A Ginger Walletben ez a folyamat teljesen a háttérben zajlik, felhasználóbar
 Ha van egy jó ötleted, tedd ki, és a közösség be fogja árazni. Egy barátom csinált egy egyszerű játékot, ahol [satoshi](https://inflacio.eu/mik-azok-a-satoshik-satok/)-küldéssel lehetett országokat elfoglalni a térképen, és valaki egyszer csak küldött neki egy jelentősebb összeget, hogy fejlessze tovább. Csak a fantázia szab határt. Ne ragadjatok le ott, hogy „jaj, mit fog szólni a könyvelő”, mert a Bitcoin felszabadít.
 
 Köszönöm a figyelmet! Dávid, téged is visszavárunk, mert láthatóan bőven maradt még téma. Használjátok a „HUSZONEGY” kuponkódot a [seedor.io](https://seedor.io) oldalon a biztonságos kulcstároláshoz! Találkozunk jövő héten. Sziasztok!
-
----
-
-Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik személyes támogatást igényelnek, ajánljuk a Bitcoin Mentor szolgáltatásait a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon. Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára és a Rumble csatornánkra is! Kövesd a HUSZONEGY-et Facebookon és Nostron. Támogatóink Miskolctapolca Bitcoin-elfogadó wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). És a Firefish üzeni: ne adjátok el a bitcoinotokat!

@@ -27,7 +27,3 @@ Sziasztok! Üdvözlünk titeket a HUSZONEGY Bitcoin Podcast 53. adásában. Mai 
 Zárásként: ne a világháborún vagy a politikai érdekeken stresszeljetek, mert azokra nincs befolyásotok. Tanuljatok, képezzétek magatokat Bitcoinból! Ez az egyetlen menekülőút a pénzügyi börtönből. Aki 2014-ben heti 3000 forintot félretett, ma 100 milliója lenne. Ez a jövőben sem lesz másképp. Olvassátok a Saifedean-könyveket, nézzétek a HUSZONEGY csoport által lefordított dokumentumfilmeket, és tartsátok a saját kulcsaitokat!
 
 Köszönjük a figyelmet, jövő héten újra találkozunk! Sziasztok!
-
----
-
-Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik személyes támogatást igényelnek, ajánljuk a Bitcoin Mentor szolgáltatásait a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon. Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára és a Rumble csatornánkra is! Kövesd a HUSZONEGY-et Facebookon és Nostron. Támogatóink Miskolctapolca Bitcoin-elfogadó wellness szállodái, a [hotelaurora.hu](https://hotelaurora.hu) és a [hotelatlantis.hu](https://hotelatlantis.hu). És a Firefish üzeni: ne adjátok el a bitcoinotokat!

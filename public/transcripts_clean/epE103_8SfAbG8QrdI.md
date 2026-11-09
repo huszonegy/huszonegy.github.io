@@ -176,8 +176,6 @@ Viszont amit Satoshi Nakamoto elindított a Bitcoin hálózatával, az egy tört
 
 – Szuper, köszönöm szépen! Örülök, hogy a végén ezeket is behoztad. Akkor köszi szépen neked is, meg a hallgatóknak, nézőknek a figyelmet. És akkor jövő héten jelentkezünk egy újabb epizóddal. Ide majd bevágjuk, amit még érdemes tudni.
 
-Böngésszétek a HUSZONEGY folyamatosan fejlődő honlapját a [huszonegy.world](https://huszonegy.world) címen! Olvassátok a [Bitcoin blog](https://bitcoinmentor.hu/bitcoin-blog/) cikkeit a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon, és szintén itt találtok információt Bitcoin tanácsadási, mentorálási szolgáltatásunkról. Támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). És a Firefish üzeni, hogy ne adjátok el a bitcoinotokat!
-
 Illetve ismételjük meg azt, hogy a következő, az ötödik Bitcoin Miskolc konferencia már újra Miskolcon lesz, mert ugye ebből szokott lenni egy kis képzavar, hogy ez a Bitcoin Miskolc, de tavasszal Hajdúszoboszlón volt.
 
 – Legalább jobban figyeltek.

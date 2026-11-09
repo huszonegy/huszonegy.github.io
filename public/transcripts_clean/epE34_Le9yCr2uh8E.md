@@ -36,7 +36,3 @@ A valóságban ez a csatorna évekig nyitva maradhat és kétirányú. Ha a bár
 Most egy nagy újításon dolgozunk a weboldalon: lehetővé tesszük, hogy több csatornát nyissunk meg egyetlen Bitcoin-tranzakción belül (batching). Ez 40-60 százalékkal csökkenti a költségeket. Van nálunk „Watch Tower” szolgáltatás is, ami akkor is figyeli a blokkláncot és védi a pénzedet, ha a node-od offline lenne, például egy hurrikán miatti áramszünet alatt. Emellett elindítottuk az akadémiát is, ahol hamarosan magyar nyelvű leckék is lesznek a Bitcoinról és a Lightningról.
 
 A technológia elképesztő sebességgel fejlődik. Olyan ez, mint az internet hajnala: akik akkor megtanultak weboldalt készíteni, később hatalmas cégeket építettek. Ha ma valaki beleássa magát a Lightningba, az a jövőben óriási előnyben lesz. Várunk mindenkit a miskolci Bitcoin konferencián is, ahol élőben is találkozhatunk. Köszönöm a figyelmet, sziasztok!
-
----
-
-Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik személyes támogatást igényelnek, ajánljuk a Bitcoin Mentor szolgáltatásait a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon. Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára és a Rumble csatornánkra is! Kövesd a HUSZONEGY-et Facebookon és Nostron. Támogatóink Miskolctapolca Bitcoin-elfogadó wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). És a Firefish üzeni: ne adjátok el a bitcoinotokat!

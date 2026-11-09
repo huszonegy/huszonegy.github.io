@@ -292,8 +292,6 @@ Ez Miskolctapolcán lesz, a [Hotel Aurorában](https://hotelaurora.hu) – abban
 
 – Úgyhogy ő is jön majd a podcastunkba.
 
-És akkor iratkozzatok fel a YouTube-csatornánkra, kövessetek minket a Facebook oldalunkon, illetve a Nostron is, ami szintén egy aktív terület. És a pólómról a [Firefish](https://firefish.io) üzeni, hogy ne adjátok el a bitcoinotokat, hanem ismerkedjetek a Bitcoin-fedezetű kölcsönfelvétellel.
-
 – Hát királyság.
 
 – Szuper. Jól van, köszönjük szépen a figyelmet, köszi a jelenlétet meg az időt meg mindent – és akkor egy hét múlva újra találkozunk itt.

@@ -75,8 +75,6 @@ Na mindegy, jók ezek a dolgok. Ha kitekintünk kicsit a világba – tényleg c
 – Én is pálinkával indítottam a reggelt! (nevetés)
 – Nem, én nem. Engem a gyerekek gyorsan felébresztenek.
 
-Böngésszétek a HUSZONEGY folyamatosan fejlődő honlapját a [huszonegy.world](https://huszonegy.world) címen! Olvassátok a [Bitcoin blog](https://bitcoinmentor.hu/bitcoin-blog/) cikkeit a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon, és szintén itt találtok információt Bitcoin-tanácsadási, mentorálási szolgáltatásunkról. Támogatóink Miskolctapolca és Hajdúszoboszló Bitcoint elfogadó és Bitcoint tartalékoló négycsillagos wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). És a Firefish üzeni, hogy ne adjátok el a Bitcoinotokat!
-
 A Nostr. Beszélgettünk már erről, sokat. A konferencia-előadásomban is arról volt szó, hogy három pillérünk van jelenleg a szabadságunk gyakorlására. Az egyik a Bitcoin – erről beszéltünk, ismerjük, tudjuk, hogyan működik. A második a Nostr. Ez lehet, hogy még nagyon fiatal, sokat fejlődik, egyfolytában dolgoznak rajta. Ez nem alkalmazás, hanem egy protokoll, szabályok és folyamatok összessége, ami beépíthető különböző kliensekbe, alkalmazásokba. Nincs centralizált központi hatalom, centralizált cég, ami le tudná kapcsolni ezeket az átjátszókat, amik továbbítják az információt a hálózatban.
 
 Te is sokat fejleszted ezt, nem? Vagy csak konfigolod otthon a magyar vonatkozását?
@@ -180,12 +178,6 @@ Figyelj, ott vérzett el, hogy nem helyi modellt futtattál, vagy amit futtattá
 – Igen, egyszerűen annyira gyorsan megy.
 – Muszáj csinálni. (nevetés)
 
-Na, úgyhogy gyakorlatilag megvan mind a négy lábunk ahhoz, hogy szabadon éljünk, szabadon gondolkodjunk, és szabadon mondjuk azt, amit akarunk.
-– Igen, gyakorlatilag itt van előttünk, csak használni kell.
-– Így van. Úgyhogy mindenki hajrá! Jól van, köszi, Henky, hogy jöttél, várunk máskor is! A tollaskígyóról is hallhattok többet, ha majd berakjuk a linket – menjetek, kérdezgessétek Henky kis robotját!
-– Igen, ne kíméljétek! (nevetés)
-– Jól van. Na, köszi a figyelmet! Bocs, hogy most Árpi nem volt itt, de nem tudott jönni – megoldottuk, hogy itt legyünk, és egy hét múlva újra találkozunk, akkor is hozunk majd valami témát. Kommenteljetek az adás alá! Azt is, ha a zöld energiát szeretitek – nem baj, majd meggyógyultok belőle. (nevetés)
-– És majd akkor beszélgetünk arról is, vagy bármi másról, amit a Bitcoinhoz lehet kapcsolni.
-– Iszom egy kávét. Köszi a figyelmet, sziasztok, egy hét múlva újra itt!
-– Sziasztok!
-– Csáó!
+Na, úgyhogy gyakorlatilag megvan mind a négy lábunk ahhoz, hogy szabadon éljünk, szabadon gondolkodjunk, és szabadon mondjuk azt, amit akarunk. – Igen, gyakorlatilag itt van előttünk, csak használni kell. – Így van. Úgyhogy mindenki hajrá! Jól van, köszi, Henky, hogy jöttél, várunk máskor is! A tollaskígyóról is hallhattok többet, ha majd berakjuk a linket – menjetek, kérdezgessétek Henky kis robotját! – Igen, ne kíméljétek! (nevetés)
+– Jól van. Na, köszi a figyelmet! Bocs, hogy most Árpi nem volt itt, de nem tudott jönni – megoldottuk, hogy itt legyünk, és egy hét múlva újra találkozunk, akkor is hozunk majd valami témát. Azt is, ha a zöld energiát szeretitek – nem baj, majd meggyógyultok belőle. (nevetés)
+– És majd akkor beszélgetünk arról is, vagy bármi másról, amit a Bitcoinhoz lehet kapcsolni. – Iszom egy kávét. Köszi a figyelmet, sziasztok, egy hét múlva újra itt! – Sziasztok! – Csáó!

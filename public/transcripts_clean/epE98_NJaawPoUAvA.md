@@ -300,9 +300,6 @@ A Claude-nál azt figyeltem meg, hogy baromi precízen betartja — viszont sokk
 De igen: a honlap kódoltatása, átdizájnoltatása, akármi — ezeket mind a kettővel próbálgattam most. Tehát eltűnnek a bottleneckek. Most már nem csak az informatikusok tudnak weboldalt megjeleníteni, hanem már átlagos emberek is.
 
 – Szegénykék, mit fognak csinálni? Na, majd kitaláljuk.
-Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik a Bitcoin tanulási útjukon személyes támogatást igényelnek, szeretettel ajánljuk a Bitcoin Mentor szolgáltatásait is: a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon részletesen olvashatsz a Bitcoin tanácsadásunkról, a Bitcoin blogban pedig egyre több értékes bejegyzést találsz. Iratkozz fel a HUSZONEGY Podcast YouTube-csatornájára, valamint a Rumble-csatornánkra is! Kövesd a HUSZONEGY-et a Facebookon és a Nostron!
-
-Támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). És a [Firefish](https://firefish.io) üzeni, hogy ne adjátok el a bitcoinotokat!
 
 – Jól van, Feri, köszi szépen, hogy jöttél és elmondtad ezeket a fejleményeket. Még egyszer mondd el, hogy mikor lesz a konferencia — és hogy ne csússzon le róla senki, minél előbb regisztráljon, mert még vannak ingyenes jegyek.
 

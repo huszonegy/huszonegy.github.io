@@ -21,8 +21,3 @@ Tamás beilleszti a számlát a **Blink Wallet**-be, és már jön is vissza az 
 Kaptunk egy számlát 121 912 satoshiról. Leolvasom a QR-kódot az Umbrelhez csatlakoztatott Zeus appal, és megnyomom a fizetés gombot. Kész is, úton van a csomag! Ebben az a fantasztikus, hogy nem használtunk semmilyen külső szolgáltatást: a Bitcoin Bázis saját **BTCPay Server**-én fut a fizetés, nálunk pedig a saját **node**-unkon. Csak az internet volt közöttünk. A webshop rögtön le is könyvelte a 27 381 forintot. Ez az anonim, kontrollálatlan pénzügyi tranzakció sok állami gondolkodónál kiverné a biztosítékot, de a Bitcoin pont erről szól: az önkéntes és szabad értékcseréről.
 
 Ez a technológia egy „cheat kód” a mai világban. Júniusban várunk titeket a **BTC Prague** konferencián, használjátok a „21” kuponkódot a kedvezményért. Köszönjük a figyelmet és a visszajelzéseket! Sziasztok!
-
-
----
-
-Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik személyes támogatást igényelnek, ajánljuk a Bitcoin Mentor szolgáltatásait a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon. Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára és a Rumble csatornánkra is! Kövesd a HUSZONEGY-et Facebookon és Nosteren. Támogatóink Miskolctapolca és Hajdúszoboszló Bitcoin-elfogadó wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). A Firefish pedig üzeni, hogy ne adjátok el a bitcoinotokat!

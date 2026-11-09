@@ -46,14 +46,6 @@ Ez az időszak szokott lenni – 2026 és 2010, vagy 2022 és 2018 –, ahol az 
 
 ---
 
-**Álljunk meg egy fontos közlemény erejéig!**
-
-Forráshiány miatt veszélybe került a podcast működése. Ha értékeled az edukatív tartalmainkat, kérünk, támogass minket, hogy folytathassuk ezt a munkát! A támogatás lehet alkalomszerű, rendszeres vagy akár szponzori együttműködés is. A részleteket a HUSZONEGY honlapjának támogatás oldalán találod: [huszonegy.world/tamogatas](https://huszonegy.world/tamogatas) – a leírásban és a képernyőn is megtalálod.
-
-**Köszönünk szépen minden eddigi és további támogatást.**
-
----
-
 – Én is azt gondoltam, hogy ez a ciklus ugyanolyan bikapiacot fog hozni, mint az eddigiek. A négyéves ciklikusság ezzel a medvepiaccal ugyanúgy folytatódik, tehát semmi váratlan nem történt. Azt viszont érdekes látni, hogy ez a csúcs mennyire alacsony és mennyire lapos volt. Én azt gondolom, hogy ez a bikapiac igazából medvepiaci környezetek között zajlott le.
 
 ---
@@ -89,12 +81,6 @@ Azt is tudod, hogy a kormányoknak nincs más választása, csak pénzt tudnak n
 – Jó, de most nem arra a tömegre gondolok, hanem az ifjú bitcoiner tömegre, aki már megvilágosult, és most ott van, hogy bizonyos szinten el fogja dönteni, hogy ebbe felhalmoz. Annak ez a legjobb, mert látja, mit vesz, tudja, ez mire jó, vissza van igazolva – mert a hatalmak is harcolnak érte. És annak itt a lehetőség.
 
 ---
-
-Új támogatónk a BudaBit! 🔥 Még mélyebbre ásnál a szabadságtechnológiákban? Csatlakozz a [BudaBit](https://budabit.club) cypherpunk fejlesztői közösséghez online és offline havi meetupok keretében! Részletek a [budabit.club](https://budabit.club) oldalon.
-
-**További támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu).**
-
-Bitcoin tanácsadásról és mentorálásról a [bitcoinmentor.hu](https://bitcoinmentor.hu) oldalon olvashattok, ahol a [Bitcoin blog](https://bitcoinmentor.hu/bitcoin-blog/) cikkei is megtalálhatók. A [Firefish](https://app.firefish.io/auth/sign-up?ref=HUSZONEGY) 🔥🐟 pedig azt üzeni, hogy ne adjátok el a bitcoinotokat!
 
 – Mindenkinek nagyon aktív és jó pihenést, szép nyarat kívánunk.
 

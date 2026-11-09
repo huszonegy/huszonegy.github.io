@@ -276,7 +276,7 @@ A podcastunkat támogatja a [Hotel Aurora](https://hotelaurora.hu) meg a [Hotel 
 
 – Amúgy az is jó.
 
-– Igen. És ha nem vagytok feliratkozva még a YouTube csatornánkra, akkor iratkozzatok fel, és lájkoljátok, osszátok meg a videóinkat! A Facebook csoportunkat most is egy pillanatra promóznánk, hogy azt is érdemes nézegetni, most így napi szinten rakosgatunk ki oda dolgokat. Most például a prágai Bitcoin konferenciát promózzuk ott is, mert van egy kis kuponkódunk 10% kedvezménnyel. Ugye ez június 19. és 21. között lesz. Én mondjuk most nem fogok tudni elmenni sajnos, de úgy tudom, Openoms, te ott leszel. Kinek a színeiben?
+– Igen. A Facebook csoportunkat most is egy pillanatra promóznánk, hogy azt is érdemes nézegetni, most így napi szinten rakosgatunk ki oda dolgokat. Most például a prágai Bitcoin konferenciát promózzuk ott is, mert van egy kis kuponkódunk 10% kedvezménnyel. Ugye ez június 19. és 21. között lesz. Én mondjuk most nem fogok tudni elmenni sajnos, de úgy tudom, Openoms, te ott leszel. Kinek a színeiben?
 
 – Hát a RaspiBlitz csoporttal leszünk, így a négy core devvel. Aztán persze, hát ugye majd a Blink-matricákat is osztogatjuk. De hát igazából kíváncsiságból megyek, mert ugye ott mindenki ott van: aki így legalább egy eseményre elmegy, akkor az nagy eséllyel azok között van.
 

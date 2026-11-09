@@ -236,7 +236,7 @@ Vicces egyébként, hogy pont ma kezdődik a Los Angeles-i Bitcoin konferencia. 
 
 – Igen. Jó, akkor ide kitesszük majd szépen a [Telegram](https://t.me/huszonegy) QR-kódot, és ott tudtok csatlakozni ehhez a Bitcoin csoporthoz. Tényleg nagyon szívesen segítünk benne.
 
-Iratkozzatok fel a YouTube csatornánkra, kövessétek a [Facebook csoportunkat](https://facebook.com/huszonegybitcoinpodcast), ahol napi szinten olyan posztokat osztunk meg magyar nyelven, amik csak itt érhetők el magyarul! Ismerkedjetek a podcastunkat támogató négycsillagos szállodákkal, a [Hotel Atlantisszal](https://hotelatlantis.hu) és a [Hotel Aurorával](https://hotelaurora.hu), melyek remek wellnesslehetőséget is kínálnak! És nem utolsósorban: ne adjátok el a bitcoinotokat!
+És nem utolsósorban: ne adjátok el a bitcoinotokat!
 
 A mai részbe akkor ennyi fért bele. Köszönöm, Dani, neked, meg Lez, neked a mai itt létet, és hogy erről beszámoltatok. Úgyhogy mindenképpen támogatunk a jövőben hasonló kezdeményezéseket. Köszönjük szépen a figyelmet, ennyi fért a mai adásba, és egy hét múlva találkozunk. Sziasztok!
 

@@ -66,8 +66,6 @@ Egyébként azért érdekes, mert az antropozófia – bár én nem vagyok szak�
 – Biotücsök.
 – Van egy csomó ilyen para, és be lehet szippantódni az interneten, az X-en meg minden szaron ezeknek a dolgoknak. De most nem tisztünk, nem is szeretném erre vinni – nem vagyunk clickbaiterek, klikkvadászok, hogy erre építsünk műsort. Csak érdekes látni, hogy a világban mi zajlik.
 
-Böngésszétek a HUSZONEGY folyamatosan fejlődő honlapját a [huszonegy.world](https://huszonegy.world) címen! Olvassátok a [Bitcoin blog](https://bitcoinmentor.hu/bitcoin-blog/) cikkeit a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon, és szintén itt találtok információt Bitcoin-tanácsadási, mentorálási szolgáltatásunkról. Támogatóink Miskolctapolca és Hajdúszoboszló Bitcoint elfogadó és Bitcoint tartalékoló négycsillagos wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). És a Firefish üzeni, hogy ne adjátok el a Bitcoinotokat!
-
 Most visszatérve a Saylorra meg ezekre a nagy ETF-ekre: így halmozzák fel a treasuryjükbe a Bitcoint – illetve ezt nyilatkozzák, hogy aztán a háttérben megvan-e a kulcs vagy nincs, azt mindenki kitalálhatja. Amikor ilyen nagyok mennek a hírekbe, akkor szerintem ez is csak a kisembernek szól – vagyis ez is egy kis színház.
 – Nem tudom. Jó kérdés, simán lehet.
 

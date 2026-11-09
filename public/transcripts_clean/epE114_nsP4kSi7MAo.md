@@ -40,12 +40,6 @@ Nagyon sok minden történt a nyáron, Tamás. Több témát is hoztál. Szerint
 
 – Addig meg ugye van a Relai is, a svájci cég, akiknek szintén megvan a MiCA-engedélyük, és szintén Bitcoin-only cég.
 
-**Ha olyan Bitcoin-only alkalmazást keresel, amiben egyszerűen tudsz bitcoint venni úgy, hogy a privát kulcsokat te kezeled, nézd meg a Relai-t!**
-
-A [Relai](https://bitcoinmentor.hu/relai) 🇨🇭 egy svájci app MiCA-engedéllyel, és kimondottan a hosszú távú megtakarítóknak tervezték. Bármikor vehetsz bitcoint azonnal, és beállíthatsz heti vagy havi automatikus vásárlást is. Ráadásul havi egy automatikus vásárlás 100 euróig teljesen díjmentes. Regisztrációnál add meg a HUSZONEGY kódot, így 10%-kal csökken a vásárlási díjad, és a podcast működését is támogatod ezzel.
-
-**Részletes leírás: [bitcoinmentor.hu/relai](https://bitcoinmentor.hu/relai)**
-
 – Van egy minimális aktualitása a Bitcoin vásárlásnak így tömeges nézőpontból nézve. Ugyanis Miskolcon elindítottunk egy parkoló- és egy focipálya-bérlet szolgáltatást, ahol várhatóan havonta 60-100-200 ügyfelünk lesz, és ott alapvetően a bitcoinnal történő fizetés a preferált. Készpénzes fizetési lehetőség nagyon-nagyon limitált; amit a törvényeknek megfelelően garantálnunk szükséges, azokat garantáljuk is, viszont a Bitcoin fizetés az elsődleges. Nekünk is ki kell írnunk az oldalunkra, legalábbis szeretnénk kiírni, hogy hol tudnak vásárolni bitcoint az emberek. De a legfontosabbat sokszor elfelejtjük elmondani: egymástól is tudtok vásárolni bitcoint. Tehát aki rendelkezik bitcoinnal… hát igazából most már a validátortörvény meg semmilyen BTK-s jogszabály nem tiltja azt — eddig se tiltotta —, hogy készpénzért mondjuk bitcoint tudjál vásárolni a szomszédodtól, barátodtól vagy ismerősödtől. Ez még mindig egy olyan elhanyagolt és alulkommunikált bitcoinvásárlási forma, amit szerintem többször el kell mondanunk.
 
 A Magyar Nemzeti Bank körül vannak még érdekes dolgok, mert a Magyar Nemzeti Bank sokat dolgozott a nyáron, velünk ellentétben. Például elkezdték csökkentgetni a forintkamatokat, ami szerintem érdekes egy kicsit, mert ettől, vagy körülbelül ezzel párhuzamosan a forint újra gyengülő pályára került. És kicsit nemzetközi kitekintésben mostanában egyre több a hír arról, hogy a kötvényhozamok, tehát a kamatok egyre nőnek mindenhol a világban: Amerikában is, Japánban is, Németországban is, mindenhol növekednek a kötvényhozamok. Ami ugye azt jelenti, hogy a hosszú távú államkötvényeknek az értéke csökken, mert a kötvény és a kamat ilyen fordított libikóka. És hogyha mondjuk az amerikai államkötvények kamata már alulról súrolja az 5%-ot, a Magyar Nemzeti Bank meg fölülről közelít az öthöz, most éppen 5,5%-nál tart, akkor előbb-utóbb ott összetalálkoznak, és nem nagyon mehet ez tovább. Tehát valószínűleg Magyarországot még mindig kockázatosabb dolognak tartja bárki a világon, mint Amerikát. Úgyhogy ezt a hosszabb távú, forintot gyengítő trendet én így megmerném előlegezni.
@@ -229,14 +223,6 @@ A Magyar Nemzeti Bank körül vannak még érdekes dolgok, mert a Magyar Nemzeti
 – Hát nyilván ki fogja őket menteni.
 
 – Nem mondja azt az állam, amit a magyar lakossági államkötvényeknél, hogy bármikor névértéken visszavásárolom tőled, akkor is, hogyha egyébként az nem ér semmit. Ezzel tudták a magyar lakosságot behúzni az államkötvény-vásárlásba tömegesen az utóbbi években. Tehát amit megvesz az ember államkötvény néven, azok gyakorlatilag inkább ilyen állam által garantált bankbetétek; tehát az nem államkötvény, csak úgy hívják.
-
-Új támogatónk a [BudaBit](https://budabit.club) 🔥! Még mélyebbre ásnál a szabadságtechnológiákban? Csatlakozz a BudaBit cypherpunk fejlesztői közösséghez online és offline havi meetupok keretében! Részletek: [budabit.club](https://budabit.club).
-
-**További támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu).**
-
-Bitcoin tanácsadásról és mentorálásról a [bitcoinmentor.hu](https://bitcoinmentor.hu) oldalon olvashattok, ahol a [Bitcoin blog](https://bitcoinmentor.hu/bitcoin-blog/) cikkei is megtalálhatók.
-
-A [Firefish](https://app.firefish.io/auth/sign-up?ref=HUSZONEGY) 🔥🐟 pedig azt üzeni, hogy ne adjátok el a bitcoinotokat!
 
 – Voltak történések a nyáron, meg nagyon sok dinamika is ment. Ez szerintem csak egy ízelítő volt ezekhez a témákhoz, mert ezekről mélységében is rengeteget lehet beszélni. Illetve vannak olyan események és történések — például ez a hitelválság, amiről beszélünk már több éve —, és egyszer csak meg fog történni. Egyszer csak jön egy esemény, és én arra kérek mindenkit, hogy értő szemmel és füllel figyelje az eseményeket és a híreket! Amikor arról van szó, hogy kapunk x milliárd EU-s pénzt, akkor az valójában mit fog okozni Magyarországon? Mert nem csak az a probléma, hogy új pénzt nyomtatnak, hanem egyszerűen egy gazdaságba bekerül egy új pénz, ami korábban sosem volt ott, és soha nem kell esetleg visszafizetni. Úgyhogy sok ilyen történés halmozódik egyszerre, amik hosszú távon fogják megmutatni a valódi arcukat — de ezért vagyunk itt, hogy felhívjuk ezekre a történésekre a figyelmet.
 

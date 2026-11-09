@@ -16,7 +16,7 @@ Ugye itt a napokban bejelentette, hogy lesz egy olyan, nem Bitcoin reserve, teh�
 
 – Na mindegy, szerintem nyargalhatunk is tovább, kezdjük egy kicsit jobb témával!
 
-– Exactly. Előtte annyit mondjunk be, amit most egyeztettünk a Ferivel, hogy az utóbbi időben elkezdte támogatni a podcastnak a működését, ugye a két szállodája nevében, melyek az első magyarországi bitcoin elfogadó szállodák: a [Hotel Aurora](https://hotelaurora.hu) és az [Atlantis](https://hotelatlantis.hu).
+– Exactly.
 
 – Igen, és ez azért fontos, mert március 21-től 23-ig lesz most megint a [Bitcoin Miskolc](https://bitcoinmiskolc.hu) rendezésében egy magyar Bitcoin konferencia, és Hajdúszoboszlón lesz, a Hotel Atlantisban, ugye jól tudom? Mi ott leszünk, úgyhogy várunk mindenkit szeretettel ezen a két-három napon az előadásokra!
 

@@ -26,8 +26,4 @@ Sziasztok, üdvözlünk titeket újra Robival a HUSZONEGY Bitcoin Podcastban! Ü
 
 – Ezért tartom fontosnak az edukációt. Októberben megjelenik a könyvem, ami júliustól már elérhető lesz a nagyobb könyvesboltokban. Magyarul írtam, mert itthon csak a shitcoin-trend megy, ahol mindenki egy hónap alatt akar milliárdos lenni. Én Brian Tracy-től tanultam meg, hogy csak olyasmibe fektessünk, amit ismerünk. Én is tíz hónapig olvastam, mielőtt megvettem volna az első satoshimat. A Bitcoin a remény technológiája. Ahogy a 20. században az egyház és az állam szétvált, most a pénznek és az államnak kell elválnia egymástól. A Bitcoin nem fogja azonnal paradicsommá tenni a világot, mindig lesznek nehézségek, de legalább lesz egy őszinte mérőszámunk az emberi produktivitáshoz.
 
-Köszönöm Robi, hogy itt voltál! A hallgatóknak pedig üzenem: kommenteljetek, kérdezzetek, és tartsatok velünk a jövő héten is. Addig is ne adjátok el a bitcoinotokat! Sziasztok!
-
----
-
-Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik személyes támogatást igényelnek, ajánljuk a Bitcoin Mentor szolgáltatásait a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon. Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára és a Rumble csatornánkra is! Kövesd a HUSZONEGY-et Facebookon és Nostron. Támogatóink Miskolctapolca Bitcoin-elfogadó wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). És a Firefish üzeni: ne adjátok el a bitcoinotokat!
+Köszönöm Robi, hogy itt voltál! Addig is ne adjátok el a bitcoinotokat! Sziasztok!

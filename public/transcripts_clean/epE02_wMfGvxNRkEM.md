@@ -180,7 +180,7 @@ Nekem egy kicsit fura azért, ugye én elég sok információt fogyasztok Elon M
 
 – Ja, jók, jók.
 
-– Van még nagyon sok könyv, de hát most nem akarok egy ilyen literature review-t tartani, vagy egy ilyen könyvbemutatót. Hát a mai adásba nagyjából ennyi fért bele. Kérdezzetek kommentekben, lájkoljatok, osszátok meg a műsort a haverokkal!
+– Van még nagyon sok könyv, de hát most nem akarok egy ilyen literature review-t tartani, vagy egy ilyen könyvbemutatót. Hát a mai adásba nagyjából ennyi fért bele.
 
 – Ja, ja. Most már ott vagyunk az Apple Podcastban is, remélem, most már a Google-nél is, most ők egy kicsit húzták ebben az időt. Spotify-on is fönn vagyunk, YouTube-on ugye ott videóval. És még talán azt érdemes tudni, hogy van egy [fountain.fm](https://fountain.fm) nevű honlap, illetve a Fountainnek van egy applikációja. Ez egy ilyen bitcoiner applikáció, és ott is lehet hallgatni a podcastunkat. Ebben az a pláne, hogy aki hallgatja, az be tudja állítani, hogy percenként hány satot csurgasson a podcast kibocsátója felé. Ez egy egész poén dolog szerintem, ez egy nagyon szuper innováció arra, hogy a tartalomkészítőket tudja támogatni a hallgatóság. Még én is most ismerkedem vele, és szeretném látni, hogy így csorognak a satok befelé.
 

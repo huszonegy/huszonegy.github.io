@@ -122,7 +122,27 @@ export function buildTranscriptChapterMap(): Record<string, (number | null)[]> {
     const chapters = p.chapters?.length ? p.chapters : parseTopics(p.topic || '')
     const times = chapters.map(c => c.time || '')
     if (!times.some(Boolean)) continue
-    map[p.id] = placeChapters(readFileSync(mdPath, 'utf8'), readFileSync(srtPath, 'utf8'), times)
+    const md = readFileSync(mdPath, 'utf8')
+    map[p.id] = applyPins(p.id, md, placeChapters(md, readFileSync(srtPath, 'utf8'), times))
   }
   return map
+}
+
+// Kézzel rögzített helyek (scripts/transcriptChapterPins.json): a bekezdés kezdőszövegével, hogy a
+// sorszám-eltolódást (bekezdés beszúrása/törlése) is túlélje. null = a fejezet nem kap H2-t.
+const PINS_PATH = 'scripts/transcriptChapterPins.json'
+const pins: Record<string, Record<string, string | null>> =
+  existsSync(PINS_PATH) ? JSON.parse(readFileSync(PINS_PATH, 'utf8')) : {}
+
+function applyPins(id: string, md: string, positions: (number | null)[]): (number | null)[] {
+  const epPins = pins[id]
+  if (!epPins || typeof epPins !== 'object') return positions
+  const blocks = splitTranscriptBlocks(md)
+  return positions.map((pos, k) => {
+    if (!(String(k) in epPins)) return pos
+    const prefix = epPins[String(k)]
+    if (prefix === null) return null
+    const bi = blocks.findIndex(b => b.startsWith(prefix))
+    return bi >= 0 ? bi : pos
+  })
 }

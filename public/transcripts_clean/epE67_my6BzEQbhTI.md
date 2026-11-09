@@ -204,7 +204,7 @@ Erre van egy-két modell is, meg ilyen diagramszerű dolog a képzésben, ha val
 
 – Lecsengetésnek, Árpi, elmondod, amiket szoktunk?
 
-– Yes. Két támogatónk a [Hotel Atlantis](https://hotelatlantis.hu) és a [Hotel Aurora](https://hotelaurora.hu): két négycsillagos szálloda, melyek bitcoint is elfogadnak, és nagyon remek szolgáltatásokat nyújtanak Miskolctapolcán, illetve Hajdúszoboszlón, ahol a konferenciák is voltak, és lesznek is, a következő októberben. Ha még nem vagytok feliratkozva a YouTube csatornánkra, akkor azt tegyétek meg! Most már átléptük az 1000 feliratkozós küszöböt, ami egy remek teljesítmény, de az első lépcsőfok volt, megyünk tovább a 2000 felé. Facebookon is kövessetek be minket! Aki ott van: igyekszem mostanában napi szinten kitenni valami érdekes magyar nyelvű posztot, vagy magyarított tartalmat. Illetve ne adjátok el a bitcoinotokat! És akit érdekel, az ismerkedjen meg a [Firefish](https://app.firefish.io/auth/sign-up?ref=HUSZONEGY) 🔥🐟 szolgáltatásával, ami ugye a Bitcoin fedezetű kölcsönfelvétel.
+– Yes. Most már átléptük az 1000 feliratkozós küszöböt, ami egy remek teljesítmény, de az első lépcsőfok volt, megyünk tovább a 2000 felé. Illetve ne adjátok el a bitcoinotokat!
 
 – Így van. Még annyit hozzátennék, hogy azért a HUSZONEGY-nek van Nostr-csatornája is, szoktunk posztolni, és szerintem ott meg fogjátok találni majd ezt az epizódot is. És ilyenkor ugye a vendégeket fel szoktuk tüntetni, úgyhogy Five-ot is be lehet követni, hogy figyelemmel kísérhessétek a munkásságát online, vagy csatlakozhattok a fejlesztéseihez stb. Úgyhogy köszönjük szépen a figyelmet! Köszi, Five, hogy eljöttél, máskor is várunk vissza sok szeretettel.
 

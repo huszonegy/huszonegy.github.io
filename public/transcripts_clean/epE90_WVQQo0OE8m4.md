@@ -216,10 +216,6 @@ Tehát egy ilyen kettős tudatú érzékelésben vagyok — talán ezt így tudo
 
 – Értem. Mert valamit tudat alatt én is próbálok valami ilyesmit csinálni, csak ugye nincs hozzá olyan eszköztáram, ami valószínű, hogy sokkal hatékonyabbá tudja tenni, meg kifinomultabbá a dolgokat. De igen, szerintem mindannyian valamilyen szinten kifejlesztünk valamilyen emberismeretet, és akkor egy beszélő sokféle megnyilvánulása alapján megpróbáljuk leszűrni, hogy a szavak mögött a gesztusok meg a mimikája vagy egyéb miféle többletinformációkat hordoznak. Csak ezzel még nagyobb eszköztárral csekkolni ezeket a dolgokat.
 
-Gigatonnányi magyar nyelvű Bitcoin oktatóanyagot osztunk meg a HUSZONEGY honlapján. Ezek a [huszonegy.world](https://huszonegy.world) címen található anyagok bárki számára ingyenesen hozzáférhetők. Azok számára pedig, akik személyes támogatást igényelnek, szeretettel ajánljuk a Bitcoin Mentor szolgáltatásait: a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon részletesen olvashatsz a Bitcoin tanácsadásról, a Bitcoin blogban pedig egyre több értékes bejegyzést találsz. Iratkozz fel a HUSZONEGY Podcast YouTube-csatornájára, valamint a Rumble-csatornánkra is! Kövesd a HUSZONEGY-et a Facebookon és a Nostron!
-
-Támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). És a [Firefish](https://firefish.io) üzeni, hogy ne adjátok el a bitcoinotokat!
-
 – Nagyon örülök, hogy jöttél. Köszönöm szépen. És hogyha van kedved, akkor valamikor folytassuk — akár innen, vagy kicsit máshonnan, de szerintem érdemes lesz még a jövőben is beszélgetnünk további ilyesmi dolgokról. Most ugye mondtad, hogy Antinak valami közbejött…
 
 – Nagyon szívesen beszélgetek akár legközelebb hármasban, hogy behozzuk azt a nézőpontot, amit ő képvisel, meg azokat a kérdéseket, amiket csak ő tud megfogalmazni úgy, ahogyan megfogalmaz.

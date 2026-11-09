@@ -229,7 +229,7 @@ Na most a lottóbányászat az pont ennek az ellentéte, amikor valaki egy kis k
 
 – Ez nem az eszköz hibája, felkészületlen voltam.
 
-– Ebben Sziller lesz a vendégünk, Árpival és Optouttal fognak beszélgetni a Bitcoin bányászatról és egy-két érdekességről. Úgyhogy ha tetszett az adás, akkor lájkoljátok és osszátok meg, és várunk titeket is egy hét múlva! Valamint lesz majd azt követően egy adásunk a prágai Bitcoin konferenciáról, amire a HUSZONEGY kuponkódot beírva ti is vásárolhattok kedvezményes jegyet. Ez június 13. és 15. között lesz majd Prágában, úgyhogy oda is gyertek el, jöjjön, aki tud, mert nagyon érdekesnek ígérkezik! Köszönjük a figyelmet, és jövő héten találkozunk. Sziasztok!
+– Ebben Sziller lesz a vendégünk, Árpival és Optouttal fognak beszélgetni a Bitcoin bányászatról és egy-két érdekességről. Várunk titeket egy hét múlva! Valamint lesz majd azt követően egy adásunk a prágai Bitcoin konferenciáról, amire a HUSZONEGY kuponkódot beírva ti is vásárolhattok kedvezményes jegyet. Ez június 13. és 15. között lesz majd Prágában, úgyhogy oda is gyertek el, jöjjön, aki tud, mert nagyon érdekesnek ígérkezik! Köszönjük a figyelmet, és jövő héten találkozunk. Sziasztok!
 
 – Sziasztok!
 

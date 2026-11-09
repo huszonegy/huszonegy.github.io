@@ -354,7 +354,7 @@ De igen, sikerült őket egy pillanatra, és akkor egyrészt mondtam nekik, hogy
 
 – Akkor én majd küldök.
 
-– Hát szerintem a mai adásba nagyjából ennyit tudtunk belezsúfolni. Köszönjük a figyelmeteket, és ha tetszett a műsor, akkor nyomjatok egy lájkot, és ha még nem vagytok feliratkozva, akkor egy feliratkozást, és osszátok meg a barátaitokkal, ismerőseitekkel, akiket esetleg érdekelhet a Bitcoin tartalom! Köszönjük szépen, Karo, hogy itt voltál.
+– Hát szerintem a mai adásba nagyjából ennyit tudtunk belezsúfolni. Köszönjük a figyelmeteket! Köszönjük szépen, Karo, hogy itt voltál.
 
 – Nagyon köszönöm szépen a megtiszteltetést.
 

@@ -380,11 +380,9 @@ A *Hidden Repression*ról annyit: tudjuk mindannyian, hogy nagyon sok idő volt,
 
 – Nem sok ilyen könyvet olvastam, de volt olyan, amit be se fejeztem. Azokat nem fordítjuk le. Szóval ezeket nem találjátok majd meg az ajánlásban.
 
-– Akkor így a vége felé még elmondanám a kis mondókát, ami részben kapcsolódik a megosztott képernyőn látható konferenciához. Ez most Miskolctapolcán lesz, a [Hotel Aurorában](https://hotelaurora.hu), amelyik a műsorunkat is támogató egyik négycsillagos szálloda. A másik pedig a [Hotel Atlantis](https://hotelatlantis.hu) – mindkettő bitcoint elfogadó és bitcoint tartalékoló szálloda.
+– Akkor így a vége felé még elmondanám a kis mondókát, ami részben kapcsolódik a megosztott képernyőn látható konferenciához. Ez most Miskolctapolcán lesz, a [Hotel Aurorában](https://hotelaurora.hu), amelyik a műsorunkat is támogató egyik négycsillagos szálloda.
 
-Nézzétek a YouTube-on az adásainkat, iratkozzatok fel a csatornánkra! A Facebookon is jelen vagyunk, aki ott van, ott is kövessen minket, kommentelgessen, lájkolgasson. A Nostron egyre hatékonyabban és egyre több irányból posztolgatunk – most Katától megtudtuk, hogy már ő is igen aktív, úgyhogy hamarosan bekövetem őt is.
-
-Illetve a [Firefish](https://firefish.io) nevében pedig üzenem, hogy ne adjátok el a bitcoinotokat, hanem nézzetek utána, hogyan lehet jól és biztonságosan fedezetként használni kölcsönhöz – ha valamit akartok vele kezdeni azon túl, hogy értéket tároltok benne.
+A Facebookon is jelen vagyunk, aki ott van, ott is kövessen minket, kommentelgessen, lájkolgasson. A Nostron egyre hatékonyabban és egyre több irányból posztolgatunk – most Katától megtudtuk, hogy már ő is igen aktív, úgyhogy hamarosan bekövetem őt is.
 
 – Ó, yeah!
 

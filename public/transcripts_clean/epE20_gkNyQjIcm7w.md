@@ -37,7 +37,3 @@ Zárásként megkérdezzük Robit az univerzális alapjövedelemről (UBI). Szia
 – Szia Lőrinc! Az UBI ideiglenesen segíthet átvészelni a munkahelyek elvesztését, de hosszú távon fontos, hogy az emberek értelmes és produktív tevékenységet találjanak. Az AI új innovációs lehetőségeket teremt, míg a Bitcoin biztosítja a stabil, cenzúrázhatatlan pénzügyi alapot. Együtt segíthetnek egy fenntarthatóbb gazdasági rendszer kialakításában.
 
 – Ügyes gyerek ez a Robi! (nevetés) Én mindenkit arra sarkallok: próbálkozzon az AI-val, használja képfelismerésre vagy tanulásra. Ha lefényképezel egy biciklit, megmondja, hogyan szereld le az ülést. Nem tökéletes, de napról napra jobb. Ne féljetek a változástól, inkább lovagoljátok meg! Tanuljatok a Bitcoinról és az AI-ról a [huszonegy.world](https://huszonegy.world) oldalon. Köszönjük a figyelmet, sziasztok!
-
----
-
-Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik személyes támogatást igényelnek, ajánljuk a Bitcoin Mentor szolgáltatásait a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon. Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára és a Rumble csatornánkra is! Kövesd a HUSZONEGY-et Facebookon és Nosteren. Támogatóink Miskolctapolca és Hajdúszoboszló Bitcoin-elfogadó wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). A Firefish pedig üzeni, hogy ne adjátok el a bitcoinotokat!

@@ -87,11 +87,11 @@ const sponsors = (links.find(c => c.category === 'Szponzoraink')?.items ?? []) a
           <h3 class="support-subsection-title">Szponzoraink</h3>
           <div class="support-sponsors">
               <div v-for="s in sponsors" :key="s.name" class="support-sponsor">
-                  <a :href="s.url" target="_blank" rel="noopener" class="support-sponsor-link" :aria-label="s.name">
+                  <a :href="s.url" target="_blank" rel="sponsored noopener" class="support-sponsor-link" :aria-label="s.name">
                       <img :src="s.image" :alt="s.name + ' banner'" class="support-sponsor-banner" :class="{ 'is-left': s.align === 'left', 'is-zoom': s.zoom }" loading="lazy" />
                   </a>
                   <div class="support-sponsor-info">
-                      <a :href="s.url" target="_blank" rel="noopener" class="support-sponsor-name">{{ s.name }}</a>
+                      <a :href="s.url" target="_blank" rel="sponsored noopener" class="support-sponsor-name">{{ s.name }}</a>
                       <p class="support-sponsor-desc" v-html="s.text" />
                   </div>
               </div>

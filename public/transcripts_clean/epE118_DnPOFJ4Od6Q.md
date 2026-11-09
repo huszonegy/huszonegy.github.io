@@ -86,12 +86,6 @@ A másik meg, hogy volt egy másik fajta támadás, azt hiszem, valami más eszk
 
 – Igen, akkor a pénz már eleve egy rejtett zugban létezik ott rajta. Mert végtelen mennyiségű zugot tudunk létrehozni, amely nincsen hozzákapcsolva seed phrase-ekhez. Szóval ez a seed phrase-nek a belső iterációja, amivel csakis azon a seeden keresztül tudok elérni másik tárcát. És ez egy sokkal jobb biztonságot adó dolog. Olyan, mintha egy 2/2-es multisiget próbálnánk használni, csak ez sokkal egyszerűbb. Egy dolgot kell csak tárolnunk hozzá, és lecsökkentjük ezzel annak a kockázatát, hogy bármit bárki el tudjon veszíteni.
 
-**Ha olyan Bitcoin-only alkalmazást keresel, amiben egyszerűen tudsz bitcoint venni úgy, hogy a privát kulcsokat te kezeled, nézd meg a Relai-t!**
-
-A [Relai](https://bitcoinmentor.hu/relai) 🇨🇭 egy svájci app MiCA-engedéllyel, és kimondottan a hosszú távú megtakarítóknak tervezték. Bármikor vehetsz bitcoint azonnal, és beállíthatsz heti vagy havi automatikus vásárlást is. Ráadásul havi egy automatikus vásárlás 100 euróig teljesen díjmentes. Regisztrációnál add meg a HUSZONEGY kódot, így 10%-kal csökken a vásárlási díjad, és a podcast működését is támogatod ezzel.
-
-**Részletes leírás: [bitcoinmentor.hu/relai](https://bitcoinmentor.hu/relai)**
-
 – Amikor sokan azt kérdezik tőlem, hogy akkor milyen tárcákat használjanak, mert most sokan meg is ijedtek a COLDCARD miatt, és ugrani kellett úgymond a meglévő tárcákból, és akkor valaki gyorsan, tök helyesen generált egy hot walletet egy telefonon, akár egy BlueWalletben vagy bármin, oda átvitte az eszközeit, és utána pedig volt egy picit lélegzetvételnyi ideje, és akkor generált magának saját hardware wallet tárcát megint. Na, szóval ők sokszor, illetve ti sokszor kérdezitek azt, hogy mi ez a multisig. Mert lehet, hogy hallottatok már róla, lehet, hogy használjátok is, de sokaknak azért ez teljesen kívül esik. Esetleg, hogyha erről beszélnél, mert szerintem ez megint egy lehetőség például akár a gyenge seedgenerálásra is, amit mondjuk akár egy COLDCARD is jelentett, hogyha ez egy multisig setupban van benne, tehát egy olyan tárcátok van, ami több kulcsos.
 
 – Hát én régebben a Keystone-nál dolgoztam. Igen, a Cobóból vált ki. Ez egy hardvertárca-készítő cég Kínában, Sanghajban. És én régebben ott voltam, most utoljára a Bitcoin-only walletjüket indítottam el. És én a Keystone-nál nagyon ki tudtam logikázni, hogy mi a legeslegjobb opció az embereknek, de az a baj, hogy senkire sincsen így kiszabható ruha, amit fel tudsz venni, érted?
@@ -179,12 +173,6 @@ Karo, mi az, ami még felkavarta esetleg a gondolathullámaidat itt nyáron?
 – Atya úristen! Így van. Nagyon sok celebet behúzott azért, azt te is láttad, hogy mennyien álltak mellé.
 
 – Persze. Hát én még találkoztam Hodlonauttal Norvégiában, Oslóban. Még elvitt a régi lakásához, ahonnan elüldözték őt a sok Craig Wright-os hater meg BSV-sek, és ott beszélgettem vele. Kétszer találkoztam vele, és beszélgettünk mindenről. Még a könyvem példányából is van nála egy darab, szerintem már lehet, hogy elégette valahol. De szóval nem értettem meg a dolgot, hogy hogy lehet ennyire lesüllyedni az aljára. De igen, nem tudom, hogy ki mondta ezt régebben, de volt egy ilyen mondás, hogy minél többet bitcoinozol, vagy egy hős halálát fogod halni, vagy meglátod azt, hogy túléled addig, ameddig el nem kezdesz shitcoinozni.
-
-Új támogatónk a [BudaBit](https://budabit.club)! Még mélyebbre ásnál a szabadságtechnológiákban? Csatlakozz a BudaBit cypherpunk fejlesztői közösséghez online és offline havi meetupok keretében! Részletek a [budabit.club](https://budabit.club) oldalon.
-
-**További támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu).**
-
-Bitcoin tanácsadásról és mentorálásról a [bitcoinmentor.hu](https://bitcoinmentor.hu) oldalon olvashattok, ahol a [Bitcoin blog](https://bitcoinmentor.hu/bitcoin-blog/) cikkei is megtalálhatók. A [Firefish](https://app.firefish.io/auth/sign-up?ref=HUSZONEGY) 🔥🐟 pedig azt üzeni, hogy ne adjátok el a bitcoinotokat!
 
 – Azt látom egyébként, úgy, mint az életet, úgy kéne ezt a bitcoint is kezelni, hogy fogadjuk el, hogy emberek is vannak benne a rendszerben. Természetesen vannak kiemelkedő emberek, ilyen például Michael Saylor vagy Adam Back, akinek most a Liquid Networkjét hackelték meg, és még mindig féllábasok.
 

@@ -242,7 +242,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Egy bejegyzés = elí
 
 Ezeket linkeld be markdown formátumban, ahol a szövegben előfordulnak. Ha nem ismered az URL-t, ne találd ki – hagyd link nélkül.
 
-### Állandó linkek (outro és szövegtörzs)
+### Állandó linkek (szövegtörzs)
 - [huszonegy.world](https://huszonegy.world)
 - [bitcoinmentor.hu](https://bitcoinmentor.hu)
 - [bitcoinmentor.hu/meetup](https://bitcoinmentor.hu/meetup)
@@ -250,7 +250,7 @@ Ezeket linkeld be markdown formátumban, ahol a szövegben előfordulnak. Ha nem
 - [bitcoinmiskolc.hu](https://bitcoinmiskolc.hu)
 - [hotelaurora.hu](https://hotelaurora.hu)
 - [hotelatlantis.hu](https://hotelatlantis.hu)
-- [pesz.hu](https://pesz.hu) — Árpi személyes/támogatói oldala (a „pess.hu" alakot javítsd; a támogatói felhívásnál linkeld)
+- [pesz.hu](https://pesz.hu) — Árpi személyes/támogatói oldala (a „pess.hu" alakot javítsd)
 - [noszter.hu](https://noszter.hu)
 - [Köztér](https://kozter.nostr.hu/?r=relay.nostr.hu)
 - **Firefish** (szövegben mindig linkelve): [app.firefish.io/auth/sign-up?ref=HUSZONEGY](https://app.firefish.io/auth/sign-up?ref=HUSZONEGY) — a `?ref=HUSZONEGY` paraméter automatikusan beviszi az ajánlókódot

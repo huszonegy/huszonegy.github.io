@@ -27,7 +27,3 @@
 – A beállításoknál érdemes bekapcsolni a kétfaktoros hitelesítést (2FA) az Authenticator appal. Nagyon fontos funkció az „Önálló likvidáció”. Ha a Bitcoin árfolyama nagyot esik, és a letét eléri a kritikus szintet, a hitel likvidálódik. Befektetőként eldöntheted: a pénzedet euróban akarod visszakapni (ilyenkor a Firefish eladja a bitcoint), vagy magát a Bitcoin letétet kéred a saját címedre. Ez utóbbi az önálló likvidáció.
 
 – A felület már több nyelven, köztük magyarul is elérhető. A tudástárban részletesen olvashattok a Firefish Protocol működéséről, a letéti szerződésekről és az USDC-s kölcsönfelvételről. Remélem, ez a kis kóstoló kedvet ad a regisztrációhoz és a rendszer kipróbálásához. Ez egy nagyszerű termék, ami segít abban, hogy ne kelljen eladnod a bitcoinodat, ha készpénzre van szükséged. Köszönöm a figyelmet, jövő héten újra találkozunk! Ne feledjétek: ne adjátok el a bitcoinotokat! Sziasztok!
-
----
-
-Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik személyes támogatást igényelnek, ajánljuk a Bitcoin Mentor szolgáltatásait a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon. Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára és a Rumble csatornánkra is! Kövesd a HUSZONEGY-et Facebookon és Nostron. Támogatóink Miskolctapolca Bitcoin-elfogadó wellness szállodái, a [hotelaurora.hu](https://hotelaurora.hu) és a [hotelatlantis.hu](https://hotelatlantis.hu). És a Firefish üzeni: ne adjátok el a bitcoinotokat!

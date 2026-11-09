@@ -20,14 +20,6 @@ Nem tudom, figyeltétek-e mostanában az ECB-nek, az Európai Központi Banknak 
 
 ---
 
-**Álljunk meg egy fontos közlemény erejéig!**
-
-Forráshiány miatt veszélybe került a podcast működése. Ha értékeled az edukatív tartalmainkat, kérünk, támogass minket, hogy folytathassuk ezt a munkát! A támogatás lehet alkalomszerű, rendszeres vagy akár szponzori együttműködés is. A részleteket a HUSZONEGY honlapjának támogatás oldalán találod: [huszonegy.world/tamogatas](https://huszonegy.world/tamogatas) — a leírásban és a képernyőn is megtalálod.
-
-**Köszönünk szépen minden eddigi és további támogatást.**
-
----
-
 Ezt a bitcoinerek hamar észrevették. Az X-en, Twitteren alakult ki ez a mém – nem tudom, mikor, de megvan már 10 éve –, hogy nagyon örültünk magunknak, hogy mindenkinek igaza van, és milyen szuper arcok élnek a világban. De aztán kritikusan belegondoltunk, hogy mi van, ha csak saját magunkat halljuk, és izoláltunk mindenkit, aki behozná a hangot. Ugyanez történik az X-en, a Facebookon, meg nem tudom, milyen platformok vannak: az algoritmusok szépen körberaknak téged olyan dolgokkal, amiket szeretsz.
 
 Nyilván az embernek is megvan ez a saját képessége, hogy akit szeret hallani, azt húzza magához – ez egy természetes folyamat. Csak amikor egy algoritmus segít ebben, ami profilt alkot rólad, ugyanúgy, mint egy AI, és azt mondja, hogy neki akkor lesz maximális a profitja, ha ezek a kicsi emberek szépen bele vannak torzítva ebbe a szobába, vagy olyan információt kapnak, amitől a vásárlási szokásaik megváltoznak – akár abban, hogy előfizetnek egy szolgáltatási csomagra, akár hogy a reklámozott pártra szavaznak, vagy megveszik egy focicsapat következő meccsére a belépőt. Ezek veszélyes dolgok, és ugye így indult el a Nostr: legyen egy olyan dolog, amiben nincs algoritmus.
@@ -57,12 +49,6 @@ Ez egyébként a social credit score-nak, a társadalmi pontrendszernek a beveze
 – Legyetek felnőttek! A jelenlegi [bankrendszer](https://inflacio.eu/bevezetes-a-bankrendszerunkbe/) és a politika alapvetően gyerekként kezeli az embereket. A felnőttkor felelősséggel jár. A Bitcoin self custody is pont ez: ha a saját kezedben vannak a kulcsaid, nagy felelősség hárul rád, de szabadság is. A felelősség és a szabadság elválaszthatatlan, mint a botnak a két vége. Nem tudod felvenni a szabadságodat anélkül, hogy ne vállalnál felelősséget magadért.
 
 ---
-
-Új támogatónk a BudaBit! 🔥 Még mélyebbre ásnál a szabadságtechnológiákban? Csatlakozz a [BudaBit](https://budabit.club) cypherpunk fejlesztői közösséghez online és offline havi meetupok keretében! Részletek a [budabit.club](https://budabit.club) oldalon.
-
-**További támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu).**
-
-Bitcoin tanácsadásról és mentorálásról a [bitcoinmentor.hu](https://bitcoinmentor.hu) oldalon olvashattok, ahol a [Bitcoin blog](https://bitcoinmentor.hu/bitcoin-blog/) cikkei is megtalálhatók. A [Firefish](https://app.firefish.io/auth/sign-up?ref=HUSZONEGY) 🔥🐟 pedig azt üzeni, hogy ne adjátok el a bitcoinotokat!
 
 – Mindenkinek nagyon aktív és jó pihenést, szép nyarat kívánunk.
 

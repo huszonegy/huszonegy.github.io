@@ -25,7 +25,3 @@ Sziasztok, üdvözlünk mindenkit a HUSZONEGY Bitcoin Podcast 50. adásában! Ez
 – Zárásként ajánlunk két videót a YouTube csatornánkon: az egyik a Human Rights Foundation filmje arról, hogyan segíti a Bitcoin a szabadságot a világ diktatúráiban, a másik pedig a „What the FUD”, amelyben okos bitcoinerek oszlatják el a kételyeket.
 
 Köszönjük a figyelmet az 50. adásban is! Most Antival elmegyünk egy rövid pihenőre, de januárban újra jelentkezünk. Kellemes ünnepeket és boldog új évet kívánunk mindenkinek! Ne feledjétek: olvassatok sokat, tanuljatok, és ne adjátok el a bitcoinotokat! Sziasztok!
-
----
-
-Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik személyes támogatást igényelnek, ajánljuk a Bitcoin Mentor szolgáltatásait a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon. Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára és a Rumble csatornánkra is! Kövesd a HUSZONEGY-et Facebookon és Nostron. Támogatóink Miskolctapolca Bitcoin-elfogadó wellness szállodái, a [hotelaurora.hu](https://hotelaurora.hu) és a [hotelatlantis.hu](https://hotelatlantis.hu). És a Firefish üzeni: ne adjátok el a bitcoinotokat!

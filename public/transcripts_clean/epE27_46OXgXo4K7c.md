@@ -38,7 +38,3 @@ Itt nemcsak elméletről lesz szó, hanem gyakorlati segítséget is kaphattok. 
 – Én is hoztam egy könyvet, Aleksandar Svetski és Mark Moss művét, az Uncommonist Manifesto-t. Ez a kommunista manifesztó fordítottja, nagyon ajánlom mindenkinek. Emellett Phil Champagne-tól a The Book of Satoshi-t olvasom, ami Satoshi eredeti írásait gyűjti össze és magyarázza el. Ez egy 500 oldalas vaskos könyv, ami segít megérteni, hogyan gondolkodott az alkotó. Nagyon sokat kell foglalkozni a témával, hogy tényleg összeálljon a kép.
 
 Lassan túllépünk az egy órán, úgyhogy köszönjük a figyelmet. Kata, köszi, hogy visszatértél, sokkal színesebb lett így a műsor. Jövő héten újra jelentkezünk. Sziasztok!
-
----
-
-Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik személyes támogatást igényelnek, ajánljuk a Bitcoin Mentor szolgáltatásait a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon. Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára és a Rumble csatornánkra is! Kövesd a HUSZONEGY-et Facebookon és Nostron. Támogatóink Miskolctapolca Bitcoin-elfogadó wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). És a Firefish üzeni: ne adjátok el a bitcoinotokat!

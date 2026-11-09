@@ -336,6 +336,6 @@ Tehát hogy vannak ilyen úgymond menekülőútvonalak, akár mondjuk egy cégne
 
 Köszönöm, srácok, a beszámolóitokat, és szerintem akkor így az egyórás adásidőt ki is töltöttük. Még csak annyit, hogy elmondjam, ki támogat minket: két remek Bitcoin elfogadó és tartalékoló szálloda is támogat minket. A hajdúszoboszlói [Hotel Atlantis](https://hotelatlantis.hu), amely négycsillagos wellness szálloda, és a miskolctapolcai [Hotel Aurora](https://hotelaurora.hu), amely szintén egy négycsillagos wellness szálloda.
 
-Iratkozzatok fel a YouTube csatornánkra, és ne adjátok el a bitcoinotokat! Egy hét múlva pedig akkor újra találkozunk. Köszönöm a figyelmet, sziasztok!
+Egy hét múlva pedig akkor újra találkozunk. Köszönöm a figyelmet, sziasztok!
 
 – Sziasztok, srácok!

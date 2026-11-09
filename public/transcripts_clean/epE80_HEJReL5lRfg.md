@@ -454,12 +454,6 @@ Köszönjük szépen a figyelmet. És egy hét múlva pedig jelentkezünk egy na
 
 – Nem volt nagy meglepetés. (nevetés)
 
-– Úgyhogy gyertek és nézzétek, lájkoljátok, osszátok meg! És majd most Árpi elmondja, hogy hol is találhattok meg minket.
-
-– Megtaláltok minket a Nostron, a Facebookon, a [huszonegy.world](https://huszonegy.world) honlapon, a Telegram csoportunkban, a YouTube-on – ahol iratkozzatok fel a csatornánkra! –, a Rumble-ön, ahol egy vadonatúj csatornánk van, itt is kövessetek minket. Amúgy elérhetőek vagyunk még a Spotifyon, az Apple Podcastben, a Fountain felületén is.
-
-És támogatnak minket a négycsillagos [Hotel Aurora](https://hotelaurora.hu) és a négycsillagos [Hotel Atlantis](https://hotelatlantis.hu) wellness szállodák, melyek bitcoint elfogadó és bitcoint tartalékoló szállodák. És a [Firefish](https://firefish.io) üzeni, hogy ne adjátok el a bitcoinotokat!
-
 – Úgyhogy sziasztok!
 
 – Sziasztok!

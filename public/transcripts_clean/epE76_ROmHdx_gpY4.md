@@ -318,7 +318,7 @@ Ugye október 17-étől 19-éig lesz a Bitcoin Miskolc, a [Hotel Aurorában](htt
 
 A Hotel Aurora egy négycsillagos szálloda, ahol már tavaly ősszel is volt az első magyar Bitcoin konferencia. Egyrészt bitcoint elfogadó és tartalékoló szálloda, nem utolsósorban pedig támogatják a podcastunkat – amit nagyon köszönünk nekik, meg a [Hotel Atlantisnak](https://hotelatlantis.hu) is, ami Hajdúszoboszlón van; ott majd tavasszal lesz a következő konferencia.
 
-Kövessétek a YouTube-csatornánkat, kövessetek minket a Nostron is! A honlapunkat is érdemes nézegetni, ott folyton frissítjük a tartalmakat – most az előadások közé felkerült néhány friss videó. A [Firefish](https://firefish.io) meg azt üzeni, hogy ne add el a bitcoinodat, hanem használd kölcsönfedezetként.
+A honlapunkat is érdemes nézegetni, ott folyton frissítjük a tartalmakat – most az előadások közé felkerült néhány friss videó.
 
 – Annyit még hozzátennék, hogy Miskolcon voltam én is tavaly, és egy nagyon kötetlen, családias légkör alakult ki. Tehát ha valaki úgy érzi, hogy még nem tud eleget a Bitcoinról, vagy hogy még nem illik bele ebbe a közegbe – ezt szeretném eloszlatni. Abszolút kezdőktől kezdve pszichológusokig, mérnökökig, mindenféle területről voltak emberek. Tehát ha érdekel a Bitcoin, akkor gyere el, akár egy napra is – ingyenes, és gyakorlatilag annyira családias, hogy közvetlenül tudsz beszélgetni, kérdezni nagyon sok olyan embertől, akik már évek óta benne vannak a témában, és megválaszolják a kérdéseidet.
 

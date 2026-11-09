@@ -639,11 +639,6 @@ Meg biztos vagyok benne, hogy a legtöbb ember azért fog odamenni, mert kíván
 – Király. Hát akkor ennyi.
 
 – Ennyi. Jól van. Köszönjük szépen.
-Gigatonnányi magyar nyelvű Bitcoin oktatóanyagot osztunk meg a HUSZONEGY honlapján, teljesen ingyen. Ez a [huszonegy.world](https://huszonegy.world) címen érhető el. Itt megtalálható a HUSZONEGY Telegram-csoport linkje is azok számára, akik csoportos chatre vágynak. Azok számára pedig, akik személyes támogatást igényelnek, szeretettel ajánljuk a Bitcoin Mentor szolgáltatásait: csekkoljátok le a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapot, ahol részletesen írunk a Bitcoin tanácsadásról, illetve a blogban további értékes bejegyzések olvashatók.
-
-Iratkozzatok fel a HUSZONEGY Podcast YouTube-csatornájára és a Rumble-csatornánkra is! Kövessétek a HUSZONEGY-et a Facebookon és a Nostron!
-
-Támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). És a [Firefish](https://firefish.io) üzeni, hogy ne adjátok el a bitcoinotokat!
 
 – És akkor még egyszer találkozunk — de már Katának boldog karácsonyt kívánhatunk. (nevetés)
 

@@ -20,8 +20,4 @@ Sziasztok! Ez itt a HUSZONEGY Bitcoin Podcast 59. adása. A mai beszélgetőpart
 
 – A Bitcoin nekem egy baromi nagy optimizmust adott. Látom, hogy van megoldás a központosított hatalommal szemben. Ha félreteszel pénzt, amit 30 év múlva elértéktelenítenek a bankok – ahogy 2008-ban is történt –, az rablás. A Bitcoin visszaadja a kontrollt és a felelősséget. Én is küzdök a napi rutinommal, hogy a meditáció olyan természetes legyen, mint a fogmosás, de az elme és az ego mindent megtesz, hogy eltereljen a befelé figyelésről, mert félti a hatalmát. Mégis megéri az erőfeszítést, mert ez hoz valódi egyensúlyt.
 
-Köszönöm Dani, hogy itt voltál! Az egyszeruspiritualitas.hu oldalon megtaláljátok a cikkeit és a tanfolyamait, a Telegram-csoportunkban pedig személyesen is elérhetitek őt. Köszönjük a figyelmet, és köszönjük támogatóinknak, a Hotel Atlantisnak és a Hotel Aurorának a segítséget. Ha tetszett az adás, lájkoljátok, és találkozunk jövő héten! Ne adjátok el a bitcoinotokat! Sziasztok!
-
----
-
-Böngésszétek a HUSZONEGY honlapját a huszonegy.world címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik személyes támogatást igényelnek, ajánljuk a Bitcoin Mentor szolgáltatásait a bitcoinmentor.hu honlapon. Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára és a Rumble csatornánkra is! Kövesd a HUSZONEGY-et Facebookon és Nostron. Támogatóink Miskolctapolca Bitcoin-elfogadó wellness szállodái, a Hotel Aurora és a Hotel Atlantis. És a Firefish üzeni: ne adjátok el a bitcoinotokat!
+Köszönöm Dani, hogy itt voltál! Az egyszeruspiritualitas.hu oldalon megtaláljátok a cikkeit és a tanfolyamait, a Telegram-csoportunkban pedig személyesen is elérhetitek őt. Köszönjük a figyelmet! Ha tetszett az adás, lájkoljátok, és találkozunk jövő héten! Ne adjátok el a bitcoinotokat! Sziasztok!

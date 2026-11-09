@@ -430,10 +430,6 @@ Meg még annyit esetleg, hogy a konferencia után felbuzdulva néztem meg, hogy 
 – Tök jó, klassz kezdeményezés! Tényleg, én is mindenkit arra sarkallok, hogy a környékén, ha nincs ilyen, akkor vegye a kezébe a kezdeményezést, és valósítson meg ilyen meetupokat. Mert az értékes emberek így kerülnek egy halmazba mindig.
 Szeretettel invitálunk minden érdeklődőt a decemberi pécsi meetupunkra, ami december 12-én, pénteken lesz, a Reggeli nevű helyen. Az esemény részleteit a Facebook-csoportunkban, illetve a Telegram-csoportunkban találjátok. Lényegében lesz itt egy előadás *Mi a probléma, mire ad megoldást a Bitcoin* címmel. Nagyon jó beszélgetések is várhatóak.
 
-Iratkozzatok fel a YouTube-csatornánkra! Kövessétek be a vadiúj Rumble-csatornánkat! Kövessétek a HUSZONEGY-et a Nostron is! Aki nyüzsgésre vágyik, jöjjön a Telegram-csoportunkba! Olvasgassatok, böngésszetek a Bitcoin Mentor blogbejegyzései között.
-
-A honlapunk Linkek oldalán megtaláljátok támogatóinkat, akik a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu) — négycsillagos wellness szállodák, bitcoint elfogadó és bitcoint tartalékoló szállodák. Nem utolsósorban pedig ők szervezik évről évre a magyarországi Bitcoin-konferenciákat. A [Firefish](https://firefish.io) pedig üzeni, hogy ne adjátok el a bitcoinotokat!
-
 – Köszönöm szépen, hogy eljöttél hozzánk, és beszámoltál. Kíváncsi lennék majd, hogy mi lesz ezen a győri meetupon, úgyhogy szerintem majd utána valamikor még nagyon szívesen látunk ezzel kapcsolatosan is, meg bármi mással.
 
 Kitesszük majd ide a leírásba, hogy hogyan lehet téged megtalálni, és hogyan lehet ilyen kis — mi ennek a neve?

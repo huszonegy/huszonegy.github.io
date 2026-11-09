@@ -120,14 +120,6 @@ De hát szépen lassan növekszik. És hogyha tovább tud növekedni a Bitcoin t
 
 ---
 
-**Új támogatónk a BudaBit!** 🔥 Még mélyebbre ásnál a szabadságtechnológiákban? Csatlakozz a [BudaBit](https://budabit.club) cypherpunk fejlesztői közösséghez online és offline havi meetupok keretében! Részletek a [budabit.club](https://budabit.club) oldalon.
-
-**További támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu).**
-
-Bitcoin tanácsadásról és mentorálásról a [bitcoinmentor.hu](https://bitcoinmentor.hu) oldalon olvashattok, ahol a [Bitcoin blog](https://bitcoinmentor.hu/bitcoin-blog/) cikkei is megtalálhatók. A [Firefish](https://app.firefish.io/auth/sign-up?ref=HUSZONEGY) 🔥🐟 pedig azt üzeni, hogy ne adjátok el a bitcoinotokat!
-
----
-
 – Az állam majd eldönti, hogy mi az etikus és mi nem. Bennem ezeket a gondolatokat ébreszti: hogyha van központi bank, akkor az dönti el, hogy mi a jó és mi a rossz.
 
 – Mi az etikus, mi az etikátlan. Ugye etikátlan lesz például megtakarítani, mert azt mondják: miért akarsz te megtakarítani? Miért akarsz különb lenni a másik embernél? Miért akarsz nagyobb vagyont? És ez már megint egy ilyen egyenlőségmező felé tereli a világot, aminek a kialakítása általában mindig egy bukott rendszert eredményez.

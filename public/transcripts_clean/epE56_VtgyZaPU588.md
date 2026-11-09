@@ -20,10 +20,6 @@ Madeirán ott volt a világkrémje: Michael Saylor, Jeff Booth, James Lavish és
 
 – A miskolci konferencián olyan karakterekkel találkoztunk, akiket filmvászonra lehetne vinni. Ott ült mellettünk egy 70 éves úriember, aki 30 éve tőzsdézik és mindent tudott a rendszerről. Aztán egy 14 éves srác öltönyben, nyakkendőben, aki két éve foglalkozik kriptóval, és most a Bitcoint akarta megérteni. Jöttek emberek Ciprusról, Salzburgból, Temerinből és az ország minden tájáról. Sokan elszigetelten élnek, de itt egymásra találnak. Csodálatos volt látni ezt az összekapcsolódást.
 
-– Ez a mostani adás rövidebb lesz, mert készülünk a holnapi nyitásra, de kárpótolni fogunk titeket a rengeteg videóval, amit a hétvégén és jövő héten töltünk majd fel. Kövessétek a HUSZONEGY és a Bitcoin Miskolc csatornáit! Tanuljatok, olvassatok, és ahogy mondani szoktuk: vegyétek a bitcoint, hogy másnak ne jusson! (nevetés)
+– Ez a mostani adás rövidebb lesz, mert készülünk a holnapi nyitásra, de kárpótolni fogunk titeket a rengeteg videóval, amit a hétvégén és jövő héten töltünk majd fel. Tanuljatok, olvassatok, és ahogy mondani szoktuk: vegyétek a bitcoint, hogy másnak ne jusson! (nevetés)
 
 Köszönjük a figyelmet, találkozunk a konferencián vagy a jövő heti adásban. Sziasztok!
-
----
-
-Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik személyes támogatást igényelnek, ajánljuk a Bitcoin Mentor szolgáltatásait a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon. Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára és a Rumble csatornánkra is! Kövesd a HUSZONEGY-et Facebookon és Nostron. Támogatóink Miskolctapolca Bitcoin-elfogadó wellness szállodái, a [hotelaurora.hu](https://hotelaurora.hu) és a [hotelatlantis.hu](https://hotelatlantis.hu). És a Firefish üzeni: ne adjátok el a bitcoinotokat!

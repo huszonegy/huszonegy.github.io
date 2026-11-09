@@ -33,7 +33,3 @@ Ebben a körben mindenki „nagyfiú”, itt vannak következmények. Ha elronto
 Az open source világban bárki hozzájárulhat a sikerhez. Nem kell zseninek lenni, el lehet kezdeni dokumentáció-javítással vagy supporttal is. Ha komolyan veszed, és hónapokat, éveket áldozol rá, elmondhatod, hogy a Bitcoin működése a te munkádat is tartalmazza. Ez egy „kilépő” a rendszerből, pont úgy, mint az internet volt az elején. Többé nem mondhatod, hogy nem tudtál utánanézni a dolgoknak, vagy hogy függsz valaki mástól. A Bitcoin megoldást kínál a vagyonod megőrzésére és a jövőképedre.
 
 Köszönöm a figyelmet, remélem hasznos volt ez a technikaibb adás! Lőrinc, köszi, hogy itt voltál. Jövő héten újra találkozunk. Sziasztok!
-
----
-
-Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik személyes támogatást igényelnek, ajánljuk a Bitcoin Mentor szolgáltatásait a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon. Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára és a Rumble csatornánkra is! Kövesd a HUSZONEGY-et Facebookon és Nostron. Támogatóink Miskolctapolca Bitcoin-elfogadó wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). És a Firefish üzeni: ne adjátok el a bitcoinotokat!

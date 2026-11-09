@@ -60,12 +60,6 @@ Valószínű, hogy ha ezt kitisztítják – ahogy a „Clarity" név is mondja,
 – Reméljük, ez most pár hónapon belül tisztul.
 – Hát reméljük. Van rá ígéret.
 
-**Ha olyan Bitcoin-only alkalmazást keresel, amiben egyszerűen tudsz bitcoint venni úgy, hogy a privát kulcsokat te kezeled, nézd meg a Relai-t!**
-
-A [Relai](https://bitcoinmentor.hu/relai) 🇨🇭 egy svájci app, MiCA-engedéllyel, és kimondottan a hosszú távú megtakarítóknak tervezték. Bármikor vehetsz bitcoint azonnal, és beállíthatsz heti vagy havi automatikus vásárlást is. Ráadásul havi egy automatikus vásárlás 100 euróig teljesen díjmentes. Regisztrációnál add meg a HUSZONEGY kódot, így 10%-kal csökken a vásárlási díjad, és a podcast működését is támogatod ezzel.
-
-**Részletes leírás: [bitcoinmentor.hu/relai](https://bitcoinmentor.hu/relai)**
-
 Ha megnézed, ugyanaz zajlik a nagy bankok szintjén, mint az emberek szintjén. Az ember majd megkapja a digitális euróval a tranzakciós lehetőséget, és elgondolkodik, miért nem bitcoint használ inkább megtakarításra, ami nem lejáratos. És ugyanígy a bankok is. Rengeteg bank van a világon – nem úgy kell elképzelni, mint Magyarországon, hogy van mondjuk tíz; bár talán Magyarországon is több mint tíz van. Nekik is különbözőek az érdekeik – nagyjából egybeesnek, de mindegyiknek más ember a vezetője, máshogy reagál, mégis ugyanazok az emberi tulajdonságok hajtják: védjem meg a piacomat, a birtokomat, a munkámat. Ugyanaz tükröződik vissza, csak sokkal nagyobb skálán. Most egy rést viszünk be, egy repedést.
 – Az a furcsa nekem, hogy erről kell beszélnünk – ezekről a jogszabályokról –, miközben egy olyan technológiáról van szó, ami egyébként személyi igazolvány nélkül is használható. Csak ugye a jogszabály úgy működik, hogy van az állam, nála van a fegyver, és azt mondja: ha nem akarsz rendes lenni, bezárlak egy dobozba. Tehát olvassa el mindenki, mi van itt.
 
@@ -126,7 +120,7 @@ Teljesen rendben van, ha az ember egy kicsit távolságot akar tartani, vagy nin
 – Ja, igen.
 – Nemsokára, Five szervezi, ott, ahol a budapesti meetupok szoktak lenni.
 
-A részleteket meg lehet találni a HUSZONEGY honlapján, a Meetup oldalon. Böngésszétek a HUSZONEGY folyamatosan fejlődő honlapját a [huszonegy.world](https://huszonegy.world) címen! Olvassátok a [Bitcoin blog](https://bitcoinmentor.hu/bitcoin-blog/) cikkeit a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon, és szintén itt találtok információt Bitcoin-tanácsadási, mentorálási szolgáltatásunkról. Támogatóink Miskolctapolca és Hajdúszoboszló Bitcoint elfogadó és Bitcoint tartalékoló négycsillagos wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). És a Firefish üzeni, hogy ne adjátok el a Bitcoinotokat!
+A részleteket meg lehet találni a HUSZONEGY honlapján, a Meetup oldalon.
 
 Köszönöm, Robi, hogy itt voltál velünk! Várunk vissza máskor is, sok szeretettel – és akkor mindenkivel találkozunk egy hét múlva.
 – Én is köszönöm, hogy itt lehettem. Minden jót nektek, sziasztok!

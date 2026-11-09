@@ -86,12 +86,6 @@ Tehát az történt, hogy egyrészről a hálózatot folytatta a Knots, mert úg
 
 – Szerintem ennyi elég is a BIP-110-ről. De akit jobban érdekel, az utána tud nézni.
 
-**Ha olyan Bitcoin-only alkalmazást keresel, amiben egyszerűen tudsz bitcoint venni úgy, hogy a privát kulcsokat te kezeled, nézd meg a Relai-t!**
-
-A [Relai](https://bitcoinmentor.hu/relai) 🇨🇭 egy svájci app MiCA-engedéllyel, és kimondottan a hosszú távú megtakarítóknak tervezték. Bármikor vehetsz bitcoint azonnal, és beállíthatsz heti vagy havi automatikus vásárlást is. Ráadásul havi egy automatikus vásárlás 100 euróig teljesen díjmentes. Regisztrációnál add meg a HUSZONEGY kódot, így 10%-kal csökken a vásárlási díjad, és a podcast működését is támogatod ezzel.
-
-**Részletes leírás: [bitcoinmentor.hu/relai](https://bitcoinmentor.hu/relai)**
-
 – Hát ezt is feljegyezzük így a hajónaplóba, hogy a blocksize war után volt egy ilyen BIP-110, és akkor izgultunk, megrágtuk, nagyon sok kérdést feszegettünk. Szerintem egyébként ezzel tanult a Bitcoin közösség, sok szinten tanultunk, mégha ez egy energiazabáló beszélgetés és törekvés is volt, mert megtanultuk azt, hogy miért Bitcoin a Bitcoin megint, mi a cenzúraállóság. Megtanultuk azt, hogy hiába hangoskodnak a celebek, a többség még mindig máshogy dönthet. Úgyhogy szerintem ez nem volt haszontalan kör.
 
 Úgy, ahogy nem volt haszontalan kör szerintem a COLDCARD-nak az esete sem, mert utána elterjedt egy mém, szerintem a nyáron ezzel sokan találkoztatok az X-en, hogy az új flexelés az, hogyha casino grade dobókockáid vannak. És hogy ez miért érdekes, azt Tamás el tudja hozni.
@@ -207,12 +201,6 @@ Kérlek, majd írjátok meg azt is, hogy ti mit gondoltok ezekről a témákról
 – Remélem, most is sikerült érdekes dolgokat mondani.
 
 – Én úgy gondolom. Ja, nem néztük meg az árfolyamot, azt szoktuk a végén. Nézzünk egyet, hogy kicsit oldjuk a feszültséget, mert hát azért ami volt ma, az kicsit sok.
-
-Böngésszétek a HUSZONEGY folyamatosan fejlődő honlapját, a [huszonegy.world](https://huszonegy.world) címen! Olvassátok a [Bitcoin blog](https://bitcoinmentor.hu/bitcoin-blog/) cikkeit a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon! És szintén itt találtok információt Bitcoin tanácsadási, mentorálási szolgáltatásunkról.
-
-**Támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu).**
-
-És a [Firefish](https://app.firefish.io/auth/sign-up?ref=HUSZONEGY) 🔥🐟 üzeni, hogy ne adjátok el a bitcoinotokat!
 
 – Hát egyébként egy hét alatt nagyon sok minden nem történt, mert ilyen oldalazás volt, de ez azt jelenti, hogy mondjuk legalább vissza se zuhantunk. Elvileg pánikolnunk kéne a kördiagram alapján. Senki nem pánikol most, úgyhogy biztos, hogy elcsúsztunk ettől. Szerintem itt majd lehet, hogy módosítani kell az ábrán valamit, vagy majd ezután jön a pánik. Hát meglátjuk. Ez mindig két esélyes, a technikai jellemzés egyébként: vagy föl, vagy le.
 

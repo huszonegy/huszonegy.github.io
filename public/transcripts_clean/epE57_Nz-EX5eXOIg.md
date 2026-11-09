@@ -29,7 +29,3 @@ Sziasztok! Üdvözlünk titeket újra a megszokott felállásban. Ez a HUSZONEGY
 – Jönnek a hírek a nagyvállalatok felől is. A GameStop közgyűlése megszavazta, hogy a 6 milliárd dolláros készpénzállományukból bitcoint vegyenek. Kína is elkezdett vásárolni a pletykák szerint, Max Keiser megerősítette, hogy nagy tételek mozdulnak meg. Tegnap láttam a charton, hogy valaki 6-8 órán keresztül folyamatosan vette a bitcoint, az algoritmusok hiába jelezték a korrekciót, nem történt meg, mert egy óriási játékos ledominálta a piacot. Ha kinyílik az ajtó, és mindenki be akar menni, az árfolyam elszáll.
 
 Zárásként egy kis „körkörös gazdasági” hír: egy héten belül betonüzemeknél is lehet majd bitcoinnal fizetni Magyarországon, ma tesztelték a rendszert. Vegyél betont bitcoinért! Köszönjük a figyelmet, egy hét múlva újra találkozunk. Addig is stackkeljétek a szatokat! Sziasztok!
-
----
-
-Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik személyes támogatást igényelnek, ajánljuk a Bitcoin Mentor szolgáltatásait a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon. Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára és a Rumble csatornánkra is! Kövesd a HUSZONEGY-et Facebookon és Nostron. Támogatóink Miskolctapolca Bitcoin-elfogadó wellness szállodái, a [hotelaurora.hu](https://hotelaurora.hu) és a [hotelatlantis.hu](https://hotelatlantis.hu). És a Firefish üzeni: ne adjátok el a bitcoinotokat!

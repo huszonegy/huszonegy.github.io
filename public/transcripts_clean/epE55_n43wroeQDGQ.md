@@ -27,7 +27,3 @@ Umbrel 1.4 fut rajta, ami már nagyon hasonlít egy asztali operációs rendszer
 Végezetül ismételjük el: 2025. március 21-23. között találkozunk Hajdúszoboszlón a Hotel Atlantisban! Ez lesz a második országos Bitcoin-konferencia workshopokkal, szakmai előadásokkal és most már szervezett esti bulikkal is. A részvétel ingyenes, de regisztráljatok a [bitcoinmiskolc.hu](https://bitcoinmiskolc.hu) oldalon. Ott leszünk csütörtöktől, gyertek ti is! 
 
 Tanuljatok, kérdezzetek, és olvassatok Bitcoin-könyveket! Köszönjük a figyelmet, jövő héten újra találkozunk. Sziasztok!
-
----
-
-Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik személyes támogatást igényelnek, ajánljuk a Bitcoin Mentor szolgáltatásait a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon. Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára és a Rumble csatornánkra is! Kövesd a HUSZONEGY-et Facebookon és Nostron. Támogatóink Miskolctapolca Bitcoin-elfogadó wellness szállodái, a [hotelaurora.hu](https://hotelaurora.hu) és a [hotelatlantis.hu](https://hotelatlantis.hu). És a Firefish üzeni: ne adjátok el a bitcoinotokat!

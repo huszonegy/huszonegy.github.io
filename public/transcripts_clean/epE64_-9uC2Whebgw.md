@@ -690,12 +690,6 @@ Most ugye hogyha kifiltereznek mindenféle tranzakciókat a node-ok, és egyre t
 
 – Az adás vége felé megemlíteném azt, hogy a honlapunkon most új tartalomként megjelent a könyvoldalon egy olyan könyv, amiről a múlt adásban pont szó volt egy cikk kapcsán, és utána jöttünk rá Kata segítségével, hogy ez a könyv már megjelent magyar nyelven. Ez *A holnap ára* Jeff Booth-tól, és ez egy bombajó könyv, én ezt meg is vettem, a Scolar Kiadó közvetlen üzletében. Ez egy nagyon jó könyv, ezt nagyon ajánlom mindenkinek elolvasni. Most nem mennék a részletekbe, hogy miről szól, de írtunk róla a honlapon is, meg egy cikk is van róla.
 
-Aztán a link oldalon ott vannak a támogatóink, a [Hotel Aurora](https://hotelaurora.hu) és az [Atlantis](https://hotelatlantis.hu), akik négycsillagos wellness szállodák, és a bitcoint elfogadják és tartalékolják. Mindenképp ajánlom a bitcoinerek figyelmébe, hogy itt költsünk egy kis bitcoint, hogy őket is megörvendeztessük vele.
-
-Aztán aki még nincs feliratkozva a YouTube csatornánkra, kérlek, hogy iratkozzatok fel, mert itt aztán rendszeresen jövünk ezekkel a jóságokkal, mint most is. Meg néha készítünk ugye feliratozott oktatóvideókat vagy egyéb oktatóvideókat, most épp gondolkodom egy újon. A Facebook oldalunkat is ajánlom mindenki figyelmébe, mert itt posztolunk a leggyakrabban egyszerű és gyorsan fogyasztható információkat.
-
-És végül a figyelmetekbe ajánlom a pólómon is szereplő [Firefish](https://app.firefish.io/auth/sign-up?ref=HUSZONEGY)-nek a szolgáltatásait, akiket promózgatunk, van köztünk egy együttműködés. Ugye ennek a lényege, hogy ne adjuk el a bitcoinunkat, hanem ésszel, de vegyünk fel rá esetleg Bitcoin fedezetű kölcsönt, amit aztán szabadon lehet költögetni anélkül, hogy megszabadulnánk a jó kis bitcoinunktól.
-
 Nektek van valami búcsúszó?
 
 – Búcsúszó. Hát mindenki vásárolja szépen a bitcoint!

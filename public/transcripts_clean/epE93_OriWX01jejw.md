@@ -364,10 +364,6 @@ Várunk vissza titeket egy hét múlva.
 
 Közeleg a február 26-i budapesti, Perspective-báros meetup, ahol a személyes ismerkedés mellett egy gyakorlatias előadással készülünk a Ginger Walletről és a CoinJoinról. Kérjük, hogy a részvételi szándékot jelezzétek a [bitcoinmentor.hu](https://bitcoinmentor.hu)/meetup oldalon. A Telegram-csoportunkban éppen szerveződik a következő győri meetup.
 
-Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik a Bitcoin tanulási útjukon személyes támogatást igényelnek, szeretettel ajánljuk a Bitcoin Mentor szolgáltatásait is: a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon részletesen olvashatsz a Bitcoin tanácsadásunkról, a Bitcoin blogban pedig egyre több értékes bejegyzést találsz. Iratkozz fel a HUSZONEGY Podcast YouTube-csatornájára, valamint a Rumble-csatornánkra is! Kövesd a HUSZONEGY-et a Facebookon és a Nostron!
-
-Támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). És a [Firefish](https://firefish.io) üzeni, hogy ne adjátok el a bitcoinotokat!
-
 – Sziasztok!
 
 – Sziasztok!

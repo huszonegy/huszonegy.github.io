@@ -54,14 +54,6 @@ Ha nincs magadnál, ha nem te rendelkezel vele, akkor meghívod ebbe a tranzakci
 
 ---
 
-**Álljunk meg egy fontos közlemény erejéig!**
-
-Forráshiány miatt veszélybe került a podcast működése. Ha értékeled az edukatív tartalmainkat, kérünk, támogass minket, hogy folytathassuk ezt a munkát! A támogatás lehet alkalomszerű, rendszeres vagy akár szponzori együttműködés is. A részleteket a HUSZONEGY honlapjának támogatás oldalán találod: [huszonegy.world/tamogatas](https://huszonegy.world/tamogatas) – a leírásban és a képernyőn is megtalálod.
-
-**Köszönünk szépen minden eddigi és további támogatást.**
-
----
-
 – Ha belegondolunk, a decentralizáció valahol egyenlő a felelősségvállalással. A régi gondolkodásmódban az volt bennünk, hogy valaki majd megoldja helyettünk — a bankok, akiknek a bizalmat adjuk. Aztán megyünk egy új tudatosság felé: hogy én is részese vagyok a megoldásnak. Egyrészt hogy van megoldás, van remény, másrészt hogy nekem aktívabban részt kell vennem, hiszen nem oldják meg helyettem.
 
 ---
@@ -97,11 +89,5 @@ Forráshiány miatt veszélybe került a podcast működése. Ha értékeled az 
 – Ez az egész képzés arról szól, hogy az önálló tárolást megvalósíthasd — de hozzáteszi, hogy ha még nem vagy alkalmas rá, nem tudsz ezzel annyit foglalkozni, vagy nem bízol eléggé magadban, akkor igenis fölhasználhatod, hogy van körülötted egy közösség, vannak rokonaid, ismerőseid, akikben jobban megbízol. Ma is vallom, hogy nem mindenkinek kell azonnal a legmélyére beleásnia magát — ebbe szépen fokozatosan is lehet belemenni. Sőt, egy csomó ember meg is fog maradni azon a szinten, hogy megbízok valakiben, aki segít nekem, és csak bizonyos részeit tartom a saját kontrollom alatt. Ez szerintem jól van így.
 
 ---
-
-Új támogatónk a BudaBit! 🔥 Még mélyebbre ásnál a szabadságtechnológiákban? Csatlakozz a [BudaBit](https://budabit.club) cypherpunk fejlesztői közösséghez online és offline havi meetupok keretében! Részletek a [budabit.club](https://budabit.club) oldalon.
-
-**További támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu).**
-
-Bitcoin tanácsadásról és mentorálásról a [bitcoinmentor.hu](https://bitcoinmentor.hu) oldalon olvashattok, ahol a [Bitcoin blog](https://bitcoinmentor.hu/bitcoin-blog/) cikkei is megtalálhatók. A [Firefish](https://app.firefish.io/auth/sign-up?ref=HUSZONEGY) 🔥🐟 pedig azt üzeni, hogy ne adjátok el a bitcoinotokat!
 
 – Egy hét múlva találkozunk. Sziasztok!

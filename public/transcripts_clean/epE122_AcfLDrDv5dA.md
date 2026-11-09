@@ -62,12 +62,6 @@ Na most, hogyha egy megbízható Bitcoin tárcát használsz, ami csak bitcoinna
 
 És ez most igaz akkor is, ha nem saját node-ot használsz. Ha saját node-ot használsz, az igazából egy plusz biztosíték, plusz megbízhatóság. Illetve a saját node-nak van még az a tulajdonsága, hogy hogyha én létrehozok egy tranzakciót, akkor az hogyan küldődik ki. Hogyha a saját node-omon küldöm ki, akkor jobban tudom kontrollálni, hogy azt ki látja, hogy tudom esetleg elrejteni, hogy honnan származik. Tehát az is egy ilyen plusz biztonságot ad, de mondom, ez nem feltétel, csak ajánlott azoknak, akik gyakrabban, vagy esetleg nagyobb összegekkel használják.
 
-**Ha olyan Bitcoin-only alkalmazást keresel, amiben egyszerűen tudsz bitcoint venni úgy, hogy a privát kulcsokat te kezeled, nézd meg a Relai-t!**
-
-A [Relai](https://bitcoinmentor.hu/relai) 🇨🇭 egy svájci app MiCA-engedéllyel, és kimondottan a hosszú távú megtakarítóknak tervezték. Bármikor vehetsz bitcoint azonnal, és beállíthatsz heti vagy havi automatikus vásárlást is. Ráadásul havi egy automatikus vásárlás 100 euróig teljesen díjmentes. Regisztrációnál add meg a HUSZONEGY kódot, így 10%-kal csökken a vásárlási díjad, és a podcast működését is támogatod ezzel.
-
-**Részletes leírás: [bitcoinmentor.hu/relai](https://bitcoinmentor.hu/relai)**
-
 Említettem, hogy egy node a teljes blokkláncot letölti, úgyhogy itt felmerül a kérdés, hogy az nem sok gigabájt, hogy mekkora tárhely kell hozzá. Tehát manapság, nem tudom pontosan, de nagyjából ilyen 900 GB körül van a Bitcoinnak a blokklánca, ami ugye folyamatosan növekszik. Ez nem egy kis méret, de ahhoz képest, ahogy említettem, hogy 1,3 milliárd darab tranzakció van benne, ahhoz képest viszonylag mérsékelt. Tehát ez azt jelenti, hogy igen, hogyha te minden blokkot tárolni akarsz, akkor legalább egy 1 TB-os tárhelyed kell legyen. Ami manapság nem egy olyan nagy követelmény, bár itt számít az is, hogy milyen gyors, mert hogyha egy hagyományos merevlemezről beszélünk, akkor ez az egy-két napos első letöltés lehet egy hét is, tehát egy 1 TB-os SSD az, ami manapság ajánlott.
 
 Viszont most értünk el arra a pontra, hogy az 1 TB lehet, hogy már kevés. Hát még attól is függ, hogy még mi van mellette, de bizonyos helyzetekben az 1 TB manapság már kevés. Tehát elérte a blokklánc azt a méretet. Itt jön képbe az, hogy vannak azok a node-ok, amik nem tárolják az összes blokkot, hanem a régi blokkokat mindig letörlik. Angolul ezt a pruned módnak hívják, tehát le vannak szépen nyesegetve a régi blokkok, mert így sokkal kevesebb tárhelyet igényel. Tehát ez egy jó megoldás, bár bizonyos funkciók így akkor nem működnek. Tehát például bármelyik tranzakcióra nem lehet keresni, de ezt csak így megemlítem, hogy akinek gond az, hogy mondjuk van egy régi laptopja, de nem akar nagyobb tárhelyet belevenni, attól még futtathat saját node-ot, viszont ilyen módon.
@@ -103,16 +97,6 @@ Na most ez a szoftver úgy van kitalálva, hogy ugye csatlakozik másokhoz, de n
 A csomópont úgy van megírva, hogy nem lehet azt feltételezni, hogy azok a társ-node-ok, amikhez csatlakozik, hogy azok jó indulatúak és jól működnek, hanem pont az ellenkezője. Mindenhol igyekszünk azt feltételezni, hogy rossz indulatú, és ha ennek valami jelét látjuk, akkor próbáljuk védeni magunkat. Ez nagyon fontos, mert tényleg nem lehet tudni, hogy mi az a másik node. Az lehet egy chain analysis-es olyan node, aminek az a célja, hogy feltérképezze a hálózatot és minél több információt szerezzen, hogy hol, milyen node fut. Vagy lehet egy hackernek egy node-ja, ami bizonyos csapdákat kipróbál.
 
 Ez amúgy megnehezíti a fejlesztést, mert úgy kell együttműködni a többi node-dal, hogy igazából nem lehetünk benne biztosak, hogy azok megbízhatóak. Tehát kicsit ilyen vadnyugat, hogy próbálsz hasznos információkat kapni a többi node-tól, meg információkat küldeni nekik, de úgy, hogy hogyha esetleg ők nem valid információkat adnak, azzal ne hagyjuk becsapni magunkat. Úgyhogy ez elég érdekes téma. Te próbálhatsz futtatni egy olyan node-ot, ami valahogy rosszul viselkedik, vagy hamis adatokat ad, vagy invalid tranzakciókat küld, vagy hasonló, de akkor egyszerűen a hálózat többi része felismeri, és mint egy immunreakció, leválaszt.
-
-**Mielőtt folytatjuk, néhány szó azokról, akik nélkül ez az adás nem jöhetett volna létre.**
-
-Ha mélyebbre ásnál a szabadságtechnológiákban, ott a helyed a [BudaBit](https://budabit.club) cypherpunk fejlesztői közösségben. Online folyamatosan, személyesen pedig havonta találkoznak. Részletek a [budabit.club](https://budabit.club) oldalon.
-
-**Ha inkább kikapcsolódnál, vár rád a miskolctapolcai [Hotel Aurora](https://hotelaurora.hu) és a hajdúszoboszlói [Hotel Atlantis](https://hotelatlantis.hu), két négycsillagos wellness-szálloda, ahol a bitcoint nemcsak elfogadják, hanem tartalékolják is.**
-
-Ha elakadtál a bitcoinnal, és nem tudod, hogyan tárold biztonságosan, vagy hogyan fogj hozzá, kérj személyes tanácsadást vagy mentorálást a [bitcoinmentor.hu](https://bitcoinmentor.hu) oldalon! Ott a [Bitcoin blog](https://bitcoinmentor.hu/bitcoin-blog/) cikkeit is megtalálod.
-
-Ja, és a [Firefish](https://app.firefish.io/auth/sign-up?ref=HUSZONEGY) 🔥🐟 változatlanul azt üzeni, hogy ne add el a bitcoinodat!
 
 – Nekem egyébként fut egy csomópont, egy szoftver, Bitcoin Core a laptopomon, és egyébként ugye mindig törekszem a biztonságra. Amiért nekem még fontos egyébként a Core, illetve az, hogy legyen egy csomópontom, hogy én azért, nem mondom, hogy tartok attól, csak elgondolkodtam azon, hogy mi van akkor, hogyha van egy mobiltárca, amit mondjuk használok, mondjuk valamilyen multisig vagy bármilyen más, vagy akár single-sig beállítással, és valamilyen oknál fogva mondjuk vagy a mobiltelefonom, vagy pedig a szoftvert úgy frissítik, hogy mondjuk elérhetetlen vagy nem megfelelően működik.
 

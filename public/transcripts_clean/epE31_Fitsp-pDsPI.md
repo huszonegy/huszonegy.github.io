@@ -36,7 +36,3 @@ Ez a könyv ingyenesen is letölthető a [huszonegy.world/konyvek](https://huszo
 Bár a magyar könyvpiac kicsi, meg kell becsülnünk, hogy vannak ilyen minőségi fordításaink. A Bitcoin Bázis shopjában is érdemes körülnézni, ott a „21” kuponkóddal 5% kedvezményt kaphattok, aki pedig bitcoinnal fizet, annak 10% jár. Van ott még egy kedves kiadvány, a *Bitcoin pénz* című kis könyv, ami gyerekeknek (és akár az ötéveseknek is) elmagyarázza az alapokat.
 
 Zárásként ne feledjétek: október 11. és 13. között kerül megrendezésre Magyarország első Bitcoin-only konferenciája, a [Bitcoin Miskolc](https://bitcoinmiskolc.hu). Ott lesznek kerekasztal-beszélgetések, workshopok, és a helyszínen, a [Hotel Aurorában](https://hotelaurora.hu) valószínűleg ezeket a könyveket is megvásárolhatjátok majd. A rendezvény ingyenes, de regisztrációhoz kötött. Várunk titeket! Köszönjük a figyelmet, jövő héten újra jelentkezünk. Sziasztok!
-
----
-
-Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik személyes támogatást igényelnek, ajánljuk a Bitcoin Mentor szolgáltatásait a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon. Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára és a Rumble csatornánkra is! Kövesd a HUSZONEGY-et Facebookon és Nostron. Támogatóink Miskolctapolca Bitcoin-elfogadó wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). És a Firefish üzeni: ne adjátok el a bitcoinotokat!

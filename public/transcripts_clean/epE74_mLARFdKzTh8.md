@@ -360,7 +360,7 @@ De egy vállalkozáshoz mindig tudsz úgy hozzáállni, hogy jól van, gyerünk,
 
 Ez a konferencia a [Hotel Aurorában](https://hotelaurora.hu) lesz, ami Miskolctapolcán van. Ugye ők az egyik támogatója a podcastunknak – ezt mindig meg szoktuk említeni –, illetve azt is, hogy bitcoint elfogadnak. Azért is érdemes kipróbálni a szállodát, mert nagyon jó, gyorsan lehet náluk bitcoinnal fizetni. Ugyanígy a [Hotel Atlantis](https://hotelatlantis.hu) is, ugye az Hajdúszoboszlón van – valószínűleg a tavaszi konferencia lesz majd ott újra.
 
-És még gyorsan elmondom azt is, hogy a YouTube-csatornánkra iratkozzatok fel. A [Firefish](https://firefish.io) üzenete, hogy ne adjátok el a bitcoinotokat, hanem tanuljátok meg, hogyan lehet felelősen fedezetként használni kölcsönhöz. Jelen vagyunk a Facebookon, egyre nagyobb követőszámmal, és egyre aktívabbak vagyunk a Nostron, ahogy az adásban is elhangzott.
+Jelen vagyunk a Facebookon, egyre nagyobb követőszámmal, és egyre aktívabbak vagyunk a Nostron, ahogy az adásban is elhangzott.
 
 És azt beszéltük Zolival, hogy bemutatjuk az elhangzott vállalkozásokat: ami a Ceppelinville, meg a Luxmérnök.
 

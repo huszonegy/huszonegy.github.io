@@ -62,14 +62,6 @@ Volt egy bevezető videó, ahogy jön egy gleccser lefelé a hegyről, és a csa
 
 ---
 
-**Álljunk meg egy fontos közlemény erejéig!**
-
-Forráshiány miatt veszélybe került a podcast működése. Ha értékeled az edukatív tartalmainkat, kérünk, támogass minket, hogy folytathassuk ezt a munkát! A támogatás lehet alkalomszerű, rendszeres vagy akár szponzori együttműködés is. A részleteket a HUSZONEGY honlapjának támogatás oldalán találod: [huszonegy.world/tamogatas](https://huszonegy.world/tamogatas) – a leírásban és a képernyőn is megtalálod.
-
-**Köszönünk szépen minden eddigi és további támogatást.**
-
----
-
 – Mindig mosolygok, amikor megkapom kommentben, hogy „nézd meg, 80 000 a bitka, milyen hülye vagy". 120 volt. Milyen szuper befektetésről beszélsz, milyen szabad pénzről beszélsz? Aztán ha megnézzük, hogy 2017-ben 1000 dollár volt a Bitcoin árfolyama, akkor ahhoz képest már nem is olyan rossz. Milyen eszköz hozott még le 80-szorost az elmúlt pár évben?
 
 ---
@@ -119,11 +111,5 @@ Ha pedig privát úton veszel egy befektetési aranydarabot, az nehezen ellenőr
 – Nincs mögötte semmi, nincs fedezete? A Bitcoin mögött matematika, energia és a világ legerősebb számítógép-hálózata áll. A forint mögött egy ígéret áll: hogy a kormány nem nyomtat túl sokat. Melyikben bízol jobban?
 
 ---
-
-Új támogatónk a BudaBit! 🔥 Még mélyebbre ásnál a szabadságtechnológiákban? Csatlakozz a [BudaBit](https://budabit.club) cypherpunk fejlesztői közösséghez online és offline havi meetupok keretében! Részletek a [budabit.club](https://budabit.club) oldalon.
-
-**További támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu).**
-
-Bitcoin tanácsadásról és mentorálásról a [bitcoinmentor.hu](https://bitcoinmentor.hu) oldalon olvashattok, ahol a [Bitcoin blog](https://bitcoinmentor.hu/bitcoin-blog/) cikkei is megtalálhatók. A [Firefish](https://app.firefish.io/auth/sign-up?ref=HUSZONEGY) 🔥🐟 pedig azt üzeni, hogy ne adjátok el a bitcoinotokat!
 
 – Folytatjuk. Sziasztok mindenkinek!

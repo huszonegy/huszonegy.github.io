@@ -182,7 +182,7 @@ Na, szóval ezek mellé az M2-es chartok mellé még felraktam kicsit élvezhet�
 
 – Ez mindenképpen jó hír. Főleg azért, mert még az év elején – emlékszel – nagyon nekirepültünk itt a magyarországi Bitcoin fedezet kérdésének. És én, megmondom őszintén, sokkal jobban örülök annak, amikor nem az állam táraz be, hanem magánemberek és cégek, akik a gazdaság tényleges gerincét alkotják, nem pedig ezt az adóztató entitást képviselik, ami itt az életet gyakran olyan nehézzé teszi. Mindenesetre köszi szépen, hogy eljöttél, és rendelkezésünkre álltál, meg összefoglaltad az elmúlt időszak eseményeit, ami Miskolc és környékén, illetve ott nálatok a gazdasági életben történt. Úgyhogy várunk majd vissza, mindig várunk szívesen. Most nem mondom el, hogy a műsorunkat egyébként a szállodáitok támogatják – de egyébként igen. Ezt majd szerintem Árpi elmondja.
 
-– Műsorunkat támogatja a négycsillagos [Hotel Atlantis](https://hotelatlantis.hu) és a négycsillagos [Hotel Aurora](https://hotelaurora.hu) szálloda, mindkettő bitcoint elfogadó szálloda. Iratkozzatok fel a YouTube csatornánkra, kövessetek minket a Facebookon és a Nostr-on! És most feliratoztam egy videót Jack Mallers abból az előadásából, amiről Feri is beszélt röviden. Ezt benyisszantom az epizód végére. Ez egy ötperces feliratos videó, ezt hamarosan megnézheti, aki kitart.
+– És most feliratoztam egy videót Jack Mallers abból az előadásából, amiről Feri is beszélt röviden. Ezt benyisszantom az epizód végére. Ez egy ötperces feliratos videó, ezt hamarosan megnézheti, aki kitart.
 
 – Köszönjük szépen, Feri!
 

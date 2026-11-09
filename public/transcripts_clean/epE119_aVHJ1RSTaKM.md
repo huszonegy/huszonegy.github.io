@@ -86,12 +86,6 @@ De szépen konzisztensen, ha te ebben teszel félre, akkor ott fogod magad talá
 
 Szóval nagyon tetszik, amit mondasz, és nagyon tudok vele azonosulni. Most visszaemlékszem, van egy videó, *A Bitcoin vásárlás 10 szabálya*, vagy valami ilyesmi címmel tettem közzé, és abban is beszélek erről, hogy soha nem szabad az összes pénzt bitcoinba tenni. Azt a pénzt rakd bele, és csak annyit, amennyit az elkövetkezendő 10-15-20 évre nyugodtan ott tudsz benne hagyni. Anélkül, hogy te, nem tudom, milyen stresszhelyzetbe kerülnél, mert az ára 60%-ot esett, és anélkül, hogy valami belső hajthatatlan motor arra késztetne, hogy eladd a bitcoinodat, amikor esetleg tízszer annyit ér, mint amennyiért vetted. Mert 15-20 éves időtávlatban könnyen megtörténhet, hogy ez a 10 plusz egy elenyésző nyereség lesz.
 
-**Ha olyan Bitcoin-only alkalmazást keresel, amiben egyszerűen tudsz bitcoint venni úgy, hogy a privát kulcsokat te kezeled, nézd meg a Relai-t!**
-
-A [Relai](https://bitcoinmentor.hu/relai) 🇨🇭 egy svájci app MiCA-engedéllyel, és kimondottan a hosszú távú megtakarítóknak tervezték. Bármikor vehetsz bitcoint azonnal, és beállíthatsz heti vagy havi automatikus vásárlást is. Ráadásul havi egy automatikus vásárlás 100 euróig teljesen díjmentes. Regisztrációnál add meg a HUSZONEGY kódot, így 10%-kal csökken a vásárlási díjad, és a podcast működését is támogatod ezzel.
-
-**Részletes leírás: [bitcoinmentor.hu/relai](https://bitcoinmentor.hu/relai)**
-
 – Abszolút. És egy kis aktualitás még, visszatekintve a nyárra: ugye itt voltak turbulenciák, téged esetleg érintett a COLDCARD-hiba, vagy hogyan reagáltál rá? Esetleg erre ki tudnál térni? Ezt most megszoktuk mindenkitől kérdezni.
 
 – Azt hiszem, hogy pont beszélgettem veled erről, de lehet, hogy egy TikTok live keretein belül, vagy nem is tudom, amikor megkérdeztem, hogy mit használsz, és te is megkérdezted tőlem, és mondtam, hogy én a BitBoxot használom. Ez egy svájci gyártó, és engem ez nem érintett. Ettől függetlenül nyilván vigyázni kell; ha COLDCARD-ot használnék, akkor mindenképpen naprakész lettem volna a témában, hallottam, hogy mi történt. De ettől függetlenül még mindig a legbiztonságosabb technológiának tartom a bitcoint. Sokkal biztonságosabb, mint bármelyik bankfiók.
@@ -151,16 +145,6 @@ A dolgok szerintem arrafelé tendálják a társadalmat, hogy lehetséges, hogy 
 – …ennyire patrióta vagyok. Hát ezt csinálhatnám Németországban is. Németországban rengeteg jó… Magyarországon is vannak jó Bitcoin tartalomgyártók, de nincs egy sem, akinek tényleg olyan hatalmas elérése lenne, ami összehasonlítható lenne a német elérésekkel. És itt most nyilván leszámoljuk azt, hogy Németországnak a lakossága mondjuk kilencszer annyi, de nagyságrendileg sincsen olyan tartalomgyártó. És azt gondoltam, hogy ennek kapcsán valószínűleg a magyar emberek még véletlenül sem, vagy nehezebben tudnak véletlenül olyan tartalomra rákattintani, ami erről szól és ezzel kapcsolatos, és ezért kezdtem el Magyarországon gyártani.
 
 A németeknek, azt hiszem, már van ilyen kezdeményezésük, nekik is van ilyen oldaluk, sokkal jobban fut az ő oldaluk, mint az én oldalam. De hát persze, ami késik, nem múlik. Én alapvetően optimista vagyok, talán túlzottan is optimista. Én hiszek abban, hogy a magyar közönség és a magyar emberek képesek hosszú távon gondolkodni, és képesek kinyitni a szemüket, nem feltétlenül a bitcoinnal kapcsolatban, hanem általánosságban a pénz működésével kapcsolatban. A magyar nép egy nagyon leleményes nép. Nagyon sok, nagyon nehéz időszakot kellett az embereknek átvészelnie. És azt gondolom, hogy ennek kapcsán azért az embernek a látásmódja sokkal élesebb lesz.
-
-**Mielőtt folytatjuk, néhány szó azokról, akik nélkül ez az adás nem jöhetett volna létre.**
-
-Ha mélyebbre ásnál a szabadságtechnológiákban, ott a helyed a [BudaBit](https://budabit.club) cypherpunk fejlesztői közösségben. Online folyamatosan, személyesen pedig havonta találkoznak. Részletek a [budabit.club](https://budabit.club) oldalon.
-
-**Ha inkább kikapcsolódnál, vár rád a miskolctapolcai [Hotel Aurora](https://hotelaurora.hu) és a hajdúszoboszlói [Hotel Atlantis](https://hotelatlantis.hu), két négycsillagos wellness-szálloda, ahol a bitcoint nemcsak elfogadják, hanem tartalékolják is.**
-
-Ha elakadtál a bitcoinnal, és nem tudod, hogyan tárold biztonságosan, vagy hogyan fogj hozzá, kérj személyes tanácsadást vagy mentorálást a [bitcoinmentor.hu](https://bitcoinmentor.hu) oldalon! Ott a [Bitcoin blog](https://bitcoinmentor.hu/bitcoin-blog/) cikkeit is megtalálod.
-
-Ja, és a [Firefish](https://app.firefish.io/auth/sign-up?ref=HUSZONEGY) 🔥🐟 változatlanul azt üzeni, hogy ne add el a bitcoinodat!
 
 – Említetted Detroitot, hogy a Steak 'n Shake-ben vásároltál bitcoinnal. Egyébként Las Vegasban kipróbáltam a Steak 'n Shake-et, és képzeld, igazából tudták, hogy mi a bitcoin, de úgy kapkodtak, hogy nem tudták, melyik terminált kell használni, mert nem sokan szokták használni. Pedig egyébként azt hallottuk mindenhonnan a közösségi médiában, legalábbis a Twitteren azt hallottam, hogy fú, mennyien vásárolnak a Steak 'n Shake-ben bitcoinnal, és lehet, hogy így is van egyébként Amerika-szerte. Nálad mi volt a tapasztalat végül is, a fizetési metódussal könnyen ment, vagy akadozott?
 

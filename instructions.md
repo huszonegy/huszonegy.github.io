@@ -295,7 +295,7 @@ Csak automatikus felirat van, kézi nincs.
 
 ## Etalon
 
-A legutóbbi szépített átirat az etalon — onnan veszem az aktuális konvenciókat (intró-megfogalmazás, mid-roll formátum, link-stílus stb.). Az explicit szabályok ebben a dokumentumban vannak; a legutóbbi epizód ezeket élesen mutatja működés közben. Így minden epizód a következő referenciája — a folyamatos fejlődés beépül a workflow-ba.
+A legutóbbi szépített átirat az etalon — onnan veszem az aktuális konvenciókat (intró-megfogalmazás, link-stílus stb.). Az explicit szabályok ebben a dokumentumban vannak; a legutóbbi epizód ezeket élesen mutatja működés közben. Így minden epizód a következő referenciája — a folyamatos fejlődés beépül a workflow-ba.
 
 **corrections.md elsőbbsége:** ha a `corrections.md` és az etalon ütközik egy konkrét helyesírásban vagy konvencióban, a `corrections.md` dönt — az etalon csak a minőség és a stílus referenciája.
 
@@ -324,36 +324,17 @@ Ez nem összefoglalás, hanem az élőbeszéd tisztítása. Minden elhangzott é
 
 - **Cold-open:** az adás gyakran egy figyelemfelkeltő részlettel indul, ami szó szerint egy később elhangzó mondat vagy párbeszéd. Ezt meghagyom az átirat elején. **A cold-open akkor is teljes egészében az átirat elejére kerül, ha hosszú (akár egy perc), és ha később szó szerint visszatér** — ilyenkor mindkét előfordulás megmarad (a teaser elöl, az ismétlés a kontextusában). Soha nem rövidítem a cold-opent azzal az indokkal, hogy „később úgyis elhangzik".
 - **Intró:** „Sziasztok, ez itt a HUSZONEGY Bitcoin Podcast…"
-- **Szponzori blokk:** a korábbi, nagyjából állandó outro-szöveg (huszonegy.world, Bitcoin blog, bitcoinmentor.hu, Hotel Aurora/Atlantis, Firefish) újabban gyakran az adás KÖZEPÉN vagy kétharmada körül hangzik el mid-rollként.
+- **Szponzor- és reklámblokkok:** az adásba bevágott vagy élőben elmondott szponzorblokk (BudaBit, Hotel Aurora/Atlantis, bitcoinmentor.hu, Firefish), a Relai-ajánló és a támogatói felhívás („Erőforráshiánnyal küzdünk…”) gyakran az adás KÖZEPÉN vagy kétharmada körül hangzik el.
 - **Beszélőváltás:** csak gondolatjellel (`–`), név nélkül — akkor is, ha hárman beszélgetnek.
 
-### Támogatói-felhívás blokk
+### Szponzor-, Relai- és támogatói blokkok: NEM kerülnek az átiratba
 
-Az adásban időnként elhangzik egy támogatói felhívás (pl. „Erőforráshiánnyal küzdünk…", a [huszonegy.world/tamogatas](https://huszonegy.world/tamogatas) oldalra mutatva). Ha elhangzik, az átiratban a Relai/outro mintájára **három részre tagolva** jelenik meg (kivétel a „nincs bold a szövegtestben" szabály alól):
+**2026.11.09. óta** ezek a blokkok kimaradnak az átiratból (a régi átiratokból is kivettük őket). Helyettük az epizódoldalon, az átirat alatt egy egységes **„Támogatóink”** doboz jelenik meg, amely a [`src/data/links.ts`](src/data/links.ts) „Szponzoraink” és „Kedvezményes ajánlások” kategóriájából épül, `rel="sponsored"` linkekkel. Ha változnak a szponzorok, ott kell frissíteni, és az átiratokhoz nem kell nyúlni.
 
-1. A nyitó, figyelemfelkeltő mondat **vastagítva**, külön bekezdésben — pl. `**Álljunk meg egy fontos közlemény erejéig!**`
-2. A középső rész normál szöveg: a támogatási módok (alkalomszerű, rendszeres, szponzori) és a részletek a [huszonegy.world/tamogatas](https://huszonegy.world/tamogatas) linkkel.
-3. A záró sor **vastagítva**, külön bekezdésben: `**Köszönünk szépen minden eddigi és további támogatást.**`
-
-### Relai affiliate blokk
-
-A Relai affiliate-olvasás (ha elhangzik az adásban) az átiratban **három különálló bekezdésből** áll — ez kivétel az általános „nincs bold a szövegtestben" szabály alól:
-
-1. A nyitó/figyelemfelkeltő mondat **vastagítva**, külön bekezdésben — pl. `**Ha olyan Bitcoin-only alkalmazást keresel, … nézd meg a Relai-t!**`
-2. A középső rész normál szöveg. A **Relai** első említése link, közvetlenül utána 🇨🇭 svájci zászló emoji: `A [Relai](https://bitcoinmentor.hu/relai) 🇨🇭 egy svájci app, MiCA-engedéllyel, …` Ez a bekezdés tartalmazza a HUSZONEGY kuponkódot is.
-3. A záró sor **vastagítva**, külön bekezdésben: `**Részletes leírás: [bitcoinmentor.hu/relai](https://bitcoinmentor.hu/relai)**`
-
-### HUSZONEGY "szponzori" (outro) blokk
-
-A szponzorblokk az adásba **külön bevágott hanganyag** (mid-roll). A Riverside-ból exportált SRT-ben nincs benne (csak üres sáv a helye), ezért a szövegét Árpitól kérem. Az átiratban nem kezdődik gondolatjellel, és **támogatónként külön bekezdést** kap. **Az E119-től érvényes szöveg és formátum:**
-
-1. `**Mielőtt folytatjuk, néhány szó azokról, akik nélkül ez az adás nem jöhetett volna létre.**` — **vastagítva**, külön bekezdésben.
-2. `Ha mélyebbre ásnál a szabadságtechnológiákban, ott a helyed a [BudaBit](https://budabit.club) cypherpunk fejlesztői közösségben. Online folyamatosan, személyesen pedig havonta találkoznak. Részletek a [budabit.club](https://budabit.club) oldalon.`
-3. `**Ha inkább kikapcsolódnál, vár rád a miskolctapolcai [Hotel Aurora](https://hotelaurora.hu) és a hajdúszoboszlói [Hotel Atlantis](https://hotelatlantis.hu), két négycsillagos wellness-szálloda, ahol a bitcoint nemcsak elfogadják, hanem tartalékolják is.**` — **vastagítva**.
-4. `Ha elakadtál a bitcoinnal, és nem tudod, hogyan tárold biztonságosan, vagy hogyan fogj hozzá, kérj személyes tanácsadást vagy mentorálást a [bitcoinmentor.hu](https://bitcoinmentor.hu) oldalon! Ott a [Bitcoin blog](https://bitcoinmentor.hu/bitcoin-blog/) cikkeit is megtalálod.`
-5. `Ja, és a [Firefish](https://app.firefish.io/auth/sign-up?ref=HUSZONEGY) 🔥🐟 változatlanul azt üzeni, hogy ne add el a bitcoinodat!` — normál súly, Firefish 🔥🐟 emoji a név után.
-
-A szöveg változhat — mindig az aktuális adás szövegéből dolgozz. A régebbi adásokban más szöveg hangzott el (huszonegy.world-ös nyitás, „Támogatóink Miskolctapolca és Hajdúszoboszló…”, majd „Új támogatónk a BudaBit!”): ott az akkori szöveg marad, ugyanezzel a tagolási elvvel (a szállodás mondat vastagon).
+- **Kimarad:** a Relai-ajánló, a szponzorblokk (a bevágott hanganyag és az élőben felolvasott változat is), a támogatói felhívás, a „Böngésszétek a HUSZONEGY honlapját…” típusú záró blokk, valamint az élőben elmondott szponzor- és csatornapromó mondatok (feliratkozás, követés a YouTube-on/Rumble-ön/Facebookon/Nostron, lájkolás, „a Firefish üzeni…”).
+- **Marad:** az elköszönés és a köszönetnyilvánítás, a konferencia- és meetup-meghívó (időpont, helyszín, akkor is, ha a helyszín támogató szálloda), a műsor saját mottója („ne adjátok el a bitcoinotokat!”), ha nem Firefish-reklámként hangzik el, és minden érdemi beszélgetés a szponzorokról (pl. egy vendég a saját projektjéről).
+- **Mondaton belül:** ha egy mondatban elköszönés és promó keveredik, csak a promórész megy ki („Lájkoljátok, iratkozzatok fel, és jövő héten találkozunk!” → „Jövő héten találkozunk!”). Ne maradjon gazdátlan utalás (pl. „Ott megtaláljátok…”, „ők szervezik…”), ilyenkor a mondatot úgy igazítom, hogy önmagában is érthető legyen.
+- **Fejezetcímek:** ha egy fejezet (YouTube-fejezet) csak a kihagyott részről szól, a H2-je a [`scripts/transcriptChapterPins.json`](scripts/transcriptChapterPins.json)-ban `null`-ra állítható; ugyanitt rögzíthető egy rosszul becsült fejezetcím helye is (a bekezdés kezdőszövegével).
 
 ## Szerkesztési szabályok
 
@@ -386,7 +367,7 @@ A szöveg változhat — mindig az aktuális adás szövegéből dolgozz. A rég
 - NE használj bold kiemeléseket a szövegtestben
 - NE törölj érdemi tartalmat – ha kétséges, egyeztess. Ez vonatkozik a rövid reakciókra is (pl. „Így van. Erről többször beszéltünk, de nem lehet túl sokszor."), ha érdemi visszajelzést hordoznak
 - NE rövidítsd le a mondatokat – ha a speech-to-text-ben egy mondat folytatódik, az egész benne marad
-- NE változtasd az outro tartalmát, csak a formázást
+- NE írj szponzor-, Relai- vagy támogatói blokkot az átiratba (lásd fent); az elköszönés tartalmát ne változtasd, csak a formázást
 
 ## Munkasorrend
 
@@ -395,7 +376,7 @@ Egy epizódon belül ebben a sorrendben dolgozz:
 1. Struktúra, bekezdések, beszélőváltás
 2. Hezitálások, ismétlések, töltelékszavak
 3. Elírások, nevek, szakkifejezések (lásd `corrections.md`)
-4. Linkek, outro, végső simítás
+4. Linkek, a szponzor- és promóblokkok kihagyása, végső simítás
 5. Tanulságok egyeztetése és az egyeztetés alapján az instrukciók frissítése
 
 ## Ellenőrzőlista
@@ -407,7 +388,7 @@ Egy epizódon belül ebben a sorrendben dolgozz:
 - [ ] Linkek beillesztve? (corrections.md)
 - [ ] Minden felszólító mondat felkiáltójellel zárul? (corrections.md)
 - [ ] HUSZONEGY egységesítve? (21 → HUSZONEGY)
-- [ ] Outro: az eredeti felirat alapján ellenőrizted a pontos tartalmat? Az outro nem mindig azonos – néha más mondat, más vendég, más esemény szerepel benne. Ne a korábbi adásokból másold, hanem mindig az aktuális feliratból dolgozz!
+- [ ] Szponzor-, Relai- és támogatói blokkok, valamint a csatornapromó mondatok kimaradtak? Az elköszönés, a konferencia- és meetup-infó megmaradt, és nincs gazdátlan utalás?
 - [ ] Az elkészült átiratot az eredeti felirattal mondatról mondatra összehasonlítottad, és minden kihagyott részt pótoltál?
 - [ ] Átolvastál furcsa, értelmetlen vagy félrehallásra utaló mondatok után kutatva? A kétséges helyeket jelöld és egyeztesd!
 - [ ] Természetes, podcast-hangvételű maradt?

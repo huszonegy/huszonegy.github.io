@@ -348,13 +348,11 @@ A Nostron viszont nem tudnak minket letiltani. Nagyon fontosnak gondolom azt, ho
 
 Ott lesznek majd hamarosan a cégeink, vállalkozásaink is, a Bitcoin Miskolc is – de én már ott vagyok, és hát ti is elérhetőek vagytok a Nostron. Kérlek, csatlakozzatok oda és regisztráljatok! Semmibe nem kerül, ingyenes.
 
-– Kövessétek be a HUSZONEGY csatornáját a Nostron! Egy nagyon jó magyar nyelvű Nostr kliens a [primal.hu](https://primal.hu) – ennek a linkjét betesszük a leírásba. Aki még nincs ott a Nostron, ez egy jó kezdés hozzá: itt a „Kezdés" gombra kattintva létre lehet hozni egy új fiókot, és olyanokat követni, akiket szeretnénk.
+– Egy nagyon jó magyar nyelvű Nostr kliens a [primal.hu](https://primal.hu) – ennek a linkjét betesszük a leírásba. Aki még nincs ott a Nostron, ez egy jó kezdés hozzá: itt a „Kezdés" gombra kattintva létre lehet hozni egy új fiókot, és olyanokat követni, akiket szeretnénk.
 
 Iratkozzatok fel a YouTube-csatornánkra is – sőt, iratkozzatok fel a Bitcoin Miskolc YouTube-csatornájára is, ahol hamarosan elkezdenek megjelenni a múlt hétvégi konferencia anyagai.
 
 A konferencia a négycsillagos [Hotel Aurorában](https://hotelaurora.hu) volt, Miskolctapolcán, amelyik bitcoint elfogadó és bitcoint tartalékoló szálloda is egyben, és nem utolsósorban támogatja a podcastunkat – hasonlóan a négycsillagos [Hotel Atlantishoz](https://hotelatlantis.hu), amelyik Hajdúszoboszlón van, és ahol a tavaszi, következő magyar Bitcoin konferencia lesz.
-
-És végezetül a [Firefish](https://firefish.io) is üzeni, hogy ne adjátok el a bitcoinotokat!
 
 – Köszönjük szépen, Feri, ezt a kiváló kis összefoglalót – és várjuk, hogy mit posztolsz, mi jön ki majd erről a konferenciáról. Köszönjük szépen a figyelmet nektek is, és találkozunk egy hét múlva ugyanitt. Sziasztok!
 

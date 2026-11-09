@@ -1,0 +1,324 @@
+{
+  "_leírás": "Fejezetcímek (H2) kézzel rögzített helye az átiratban: epizód → fejezet sorszáma (0-tól) → annak a bekezdésnek a kezdete, amely elé a H2 kerül; null = a fejezet nem kap H2-t (pl. mert az átiratból kihagyott szponzor-/záró részre esik). Az automatikus elhelyezést (scripts/transcriptChapters.ts) írja felül. A szponzorblokkok 2026.11.09-i kivételekor a korábbi helyek megőrzésére készült.",
+  "E01": {
+    "11": "Mivel van Bitcoinunk, kevésbé félünk ezektől az eshetőségekt",
+    "12": null
+  },
+  "E04": {
+    "3": "Volt egy scam is, amiben benne ragadtam, de a legnagyobb tan",
+    "4": "Szerintem nem lehet megérteni a Bitcoint anélkül, hogy beleá",
+    "6": "– Madeirán láttunk egy kislányt, aki Smarties cukorkát árult",
+    "7": "Miskolcon és Hajdúszoboszlón van két szállodánk, ahol az a c",
+    "8": "– Fontos, hogy több hiteles forrásból tájékozódjunk, ne csak",
+    "9": "A Bitcoin valódi szabadságot ad. Ha 20 000 eurót akarsz a ba",
+    "10": "– Az állami bürokrácia is rengeteg pénzt éget el feleslegese",
+    "11": null
+  },
+  "E05": {
+    "8": "Vannak már távoli aláíró megoldások is, így az applikációk n",
+    "9": "– Az Alby-t non-KYC bitcoin vásárlásra is használhatjuk a **"
+  },
+  "E07": {
+    "2": "– Paraguayban a Bitcoin közösség inkább üzleti jellegű. Az e",
+    "7": "– Nem szeretem a címkéket, de ahogy említettem, nekem nincs ",
+    "8": "– Én is 100%-os Bitcoin-maxinak vallom magam, bár megvolt a ",
+    "9": null
+  },
+  "E08": {
+    "7": "Sokat lehet tanulni a tranzakciók nézegetéséből is: látjuk, ",
+    "8": null
+  },
+  "E09": {
+    "4": "– Visszacsatolva: Molnár Dávidot később elcsábítottam a Wasa",
+    "6": "– Mit jelent nektek a magánszféra (privacy)?",
+    "7": "– Én is ezért nem mutatom az arcomat a videókban. Nem titkol",
+    "8": "– Hogyan működik a CoinJoin?",
+    "9": "– Az ötlet 2011-ben merült fel a BitcoinTalk fórumon, de Gre",
+    "10": "– Érdekes, hogy a Bitcoin-közösségben sokan nyitottak a bioh",
+    "11": "A magyar egészségügyről inkább nem mondok semmit. Az orvosok",
+    "12": "– Zárásként egy íratlan szabályt szegnék meg: beszélnünk kel"
+  },
+  "E10": {
+    "6": "A Bitcoinnál nincs egy „fej”, akinek puskát lehetne tartani ",
+    "7": "A Bitcoin teljesen szabadságorientált. Az államra nem lehet ",
+    "8": "Végezetül szeretnék bemutatni egy eszközt, amivel nyomon köv",
+    "9": null
+  },
+  "E11": {
+    "6": "Kaptunk egy számlát 121 912 satoshiról. Leolvasom a QR-kódot",
+    "7": null,
+    "8": null
+  },
+  "E14": {
+    "2": "Ez sajnos a szabadságjogok csorbításával jár: a privacy egyr",
+    "3": "– Akkor ezeket hívják „festett” érméknek (**tinted coins**)?",
+    "4": "– Pontosan. A szoftverek kockázati besorolás alá vonják az e",
+    "5": "Érdemes tudni, hogy a nagy **stablecoin** kibocsátók (USDT, ",
+    "6": "– Ez így van, a Bitcoin használói mixerekkel próbálják megsz",
+    "7": "– Ez adópolitikai kérdés. Magyarországon a 15% kifejezetten ",
+    "8": "– Nem látom azt a trendet, hogy a **non-custodial** tárcákat",
+    "9": "– Mit tanácsolsz az átlagembernek a csalások elkerülésére?",
+    "11": null
+  },
+  "E16": {
+    "6": "A bányászok kénytelenek a legolcsóbb energiát keresni, ami g",
+    "7": null,
+    "8": "Egy mai bányagép (ASIC) másodpercenként 150 terra-**hash**-t",
+    "9": null,
+    "11": "– Számoljunk egy kicsit! A felezés óta 3,125 bitcoin a jutal",
+    "12": null,
+    "13": "Ez a hő egy ipari farmon melléktermék, amitől meg kell szaba",
+    "15": "Gyakori kérdés, hogy miért nem lehet leforkolni (lemásolni) ",
+    "16": "– Zárásként: az energetikai hálózatoknak is jót tesz a bányá",
+    "17": null
+  },
+  "E17": {
+    "8": "– A Bitcoin a nagy egyesítő. Holnap a nagyszínpadon leszek a",
+    "9": "A fiat rendszerben a pénzteremtés nem igényel energiát, ezér",
+    "10": "– Vannak olyanok is, akik morális kötelességüknek érzik képv",
+    "11": "– Igen, heti 3000 forinttal pedig 100 millió felett lenne az",
+    "12": "Ez az [önrendelkezés](https://inflacio.eu/mi-az-az-onrendelk",
+    "13": "A Bitcoin-utazás rengeteg területet érint: szociológiát, jog",
+    "14": null
+  },
+  "E19": {
+    "5": "A készpénz védelmét alkotmányba akarják foglalni, de mi érte",
+    "6": "– Az ügyfélazonosítás (KYC) nevében 100 milliós nagyságrendb",
+    "7": "– A program jövőbeli terve, hogy külső fizetési rendszereket",
+    "8": null
+  },
+  "E20": {
+    "4": "Ma már a Google modelljeinek másfél milliós kontextusa van. ",
+    "5": null,
+    "6": "Én szoftverfejlesztőként napi szinten használom. Bitcoin Cor",
+    "7": null,
+    "9": "– Te magad is trénerelsz AI-t?",
+    "10": "– Igen, amikor megjelent a 3.5-ös modell, elkezdtem saját mo",
+    "11": "Aki nem tudott szépen fogalmazni vagy programozni, az AI-val",
+    "12": "– A kisfiamnak a ChatGPT-vel raktam össze egy nyári korrepet",
+    "13": "– Hogyan fogja az AI használni a Bitcoint?",
+    "14": null,
+    "15": null
+  },
+  "E21": {
+    "4": "– Magyarországon csak arról vitatkozunk, hogy ne tiltsák be ",
+    "7": "– Beszéljünk a **sats**-alapú tartalomgyártásról is! Ott a F",
+    "8": "A [21 millió](https://inflacio.eu/hany-bitcoin-van/) bitcoin",
+    "9": "Köszönjük a figyelmet az eddigi 21 adás során! Folytatjuk a ",
+    "10": null
+  },
+  "E22": {
+    "2": "A legviccesebb rész az volt, amikor felrajzolták a volatilit",
+    "4": "Bennem a bizalom a Binance felé már régen megingott. Amikor ",
+    "5": "A **Blink Wallet** azért nagyszerű, mert már tud magyarul. V",
+    "7": "Hangsúlyozzuk az öngondoskodást! Aki nem tud angolul, kezdje",
+    "8": "A Bitcoin megoldja az ingatlanpiaci problémát is. Az árak az",
+    "9": null
+  },
+  "E24": {
+    "6": "A dollár világtartalék-valuta szerepe egyszerre áldás és áto",
+    "7": "Az infláció nem csak a fogyasztói árak emelkedése, hanem a p",
+    "8": "Kérdés, hogy a BRICS országok hogyan számolnak el egymás köz",
+    "9": "– Nem kell felmászni a háztetőre, hogy valaki leadja a szava"
+  },
+  "E26": {
+    "2": "– Miért mondjuk rá, hogy ez a legkeményebb pénz? Azért, mert",
+    "6": "Aki rövid távú nyereségért vásárol, azt hívjuk papírkezű vag",
+    "11": "– Michael Saylor ma már több mint 230 000 bitcoin felett ren",
+    "12": "– Az ETF-tulajdonosok között olyan nevek vannak, mint a Morg",
+    "13": "A rendezvény teljesen ingyenes, a [Hotel Aurora](https://hot"
+  },
+  "E27": {
+    "5": "Elon Musk és korábbi élettársa, Grimes is sokat beszéltek er",
+    "6": "Itt nemcsak elméletről lesz szó, hanem gyakorlati segítséget",
+    "7": "– Én is hoztam egy könyvet, Aleksandar Svetski és Mark Moss ",
+    "8": null
+  },
+  "E28": {
+    "3": "Emlékszem, először csak azon ámultunk, hogy helyesen alkot a",
+    "5": "Adatvédelem terén nagy veszély a digitális állampolgárság pr",
+    "7": "– A kontextusméret növekedése egy idő után másodlagos lesz a",
+    "8": null
+  },
+  "E29": {
+    "3": "– Sokszor kérdezik, hol lehet eladni a bitcoint vagy mit leh",
+    "4": "Brazíliában, Argentínában vagy Afrikában az embereknek nem d"
+  },
+  "E30": {
+    "2": "– Nico elmondta, hogy a jegybankok legálisan lopják el a pol",
+    "3": "– A megtakarítási számlák kamata a valóságban infláció alatt",
+    "4": null,
+    "6": "– A jegybankelnök elmondta, hogy a 11 000 milliárdos pénzpum",
+    "7": "Szerencsére van alternatíva. Az Optout lényege, hogy nem kel",
+    "8": "Végezetül szeretnénk meghívni titeket a Bitcoin Miskolc konf"
+  },
+  "E31": {
+    "3": "A könyv 300 oldalas, és valójában csak az utolsó két fejezet",
+    "4": "Saifedean közgazdász professzorként rámutat arra is, hogy a ",
+    "6": "Bár a magyar könyvpiac kicsi, meg kell becsülnünk, hogy vann",
+    "7": null
+  },
+  "E32": {
+    "3": "– Sokan azt hiszik, az ingatlan a legjobb értéktároló. De az",
+    "5": "Az arrogáns kritikusok a megérdemelt áron fogják megvenni a ",
+    "8": "A rendezvény ingyenes, de regisztráljatok a [bitcoinmiskolc."
+  },
+  "E34": {
+    "6": "– Érdekes, hogy akkoriban még nem az árfolyam volt a központ",
+    "7": "Később írtam egy blogot is, de aztán egy időre kiábrándultam",
+    "10": "– Ez a hálózat pedig egyre sűrűbbé válik, már több tízezer s",
+    "11": null,
+    "12": "Most egy nagy újításon dolgozunk a weboldalon: lehetővé tess",
+    "14": "A technológia elképesztő sebességgel fejlődik. Olyan ez, min",
+    "15": null
+  },
+  "E35": {
+    "2": "– Jó volt hallani a remegő hangfoszlányokat az előadóktól, m",
+    "3": null,
+    "5": "– Az előadásomban beszéltem a Blink Wallet-ről is. Ez egy re",
+    "6": "– Én elsősorban gazdasági energiatárolóként gondolok a Bitco",
+    "8": "– A konferencián Karo előadása is érdekes volt a magánszférá",
+    "9": "A Bitcoin hosszú távú projekt. Én is azért kezdtem el, mert ",
+    "10": "Zárógondolatként mindenkit biztatok: nézzétek meg a konferen",
+    "12": null
+  },
+  "E36": {
+    "2": "– Tanulságos volt a szervezés is. Bár tartottunk már orvosko",
+    "3": "A hangtechnikusunk, aki hetente több konferenciát vezényel l",
+    "4": "– Történelmet írunk ezzel a magyar kezdeményezéssel. A gyere",
+    "5": null,
+    "6": "– A Bitcoin segít megérteni, miért vannak háborúk és mi a ba",
+    "9": "A konferencián bemutatkozott a Seedor cég is, akik a [privát"
+  },
+  "E37": {
+    "5": "Két tárcával készültem a biztonság kedvéért: a Blinkkel és a",
+    "6": null,
+    "9": "– Ez a tanulmány oda fut ki, hogy a korai beszállókat meg ke",
+    "10": "– Tamás mutatott egy szuper oldalt, a [bitcoinstrategyplatfo"
+  },
+  "E38": {
+    "5": "– A kriptók és a fiat pénzek hasonlítanak: a jegybank bármen",
+    "7": "A mainstream körökben a zöld lobbi gyakran politikai eszközk",
+    "8": "– Pogátsa szerint nem lehet vele „értelmes” dolgokat csináln",
+    "9": "Végezetül: a Bitcoin az igazságot mutatja meg, míg a politik",
+    "10": null
+  },
+  "E40": {
+    "2": "A csatornanyitáshoz hat konfirmáció kell, ami átlagosan 60 p",
+    "3": "– Említetted a „zajt”, ami miatt elhagytad a mainstream közö",
+    "4": "– Milyen alkalmazásokat ajánlasz a kezdőknek?\n– A Primal a l",
+    "5": "A nukleáris energia a legtisztább és leghatékonyabb forrásun",
+    "7": null
+  },
+  "E41": {
+    "6": "– Magyarázzuk el a CoinJoin fogalmát is, mert te ebben vagy ",
+    "7": "A Ginger Walletben ez a folyamat teljesen a háttérben zajlik",
+    "8": "– Mennyire nehéz bitcoinos vállalkozást indítani?\n– A Bitcoi",
+    "9": "Köszönöm a figyelmet! Dávid, téged is visszavárunk, mert lát"
+  },
+  "E43": {
+    "4": "– Magyarázzuk el a soft fork és a hard fork fogalmát!\n– A so",
+    "5": "– Miért kell egyáltalán módosítani valamit, ami működik?\n– M",
+    "6": "Ebben a körben mindenki „nagyfiú”, itt vannak következmények",
+    "7": "Köszönöm a figyelmet, remélem hasznos volt ez a technikaibb "
+  },
+  "E44": {
+    "2": "Ugyanakkor bennem megérett a gondolat, hogy nem a mi feladat",
+    "3": "– Láttam egy videót a napokban a magyar szinkronszínészek he",
+    "6": "A 2024-es év legnagyobb katalizátora számomra a madeira-i ko",
+    "7": "– Zárásként: lépjetek be a [huszonegy.world](https://huszone"
+  },
+  "E45": {
+    "3": "– Hogyan működik ez a gyakorlatban? Mekkora fedezet kell?\n– ",
+    "4": "– Volt már nálatok olyan helyzet, hogy hirtelen pótolni kell",
+    "5": "– Miért érdemesebb ez, mint az eladás és az adózás?\n– Magyar",
+    "6": "– A HUSZONEGY Podcast és a Firefish között is létrejött egy ",
+    "7": null
+  },
+  "E48": {
+    "5": "Amikor a cégünknél bevezettük a Bitcoin-elfogadást, elképesz",
+    "6": "– Sokan mondják, hogy elkéstek, mert 100 000 dollár az árfol",
+    "7": "Mérhetjük ezt négyzetméterben is: 2023 áprilisában 10 millió",
+    "8": "Zárásként: ne a távoli háborúkon vagy politikai játszmákon s"
+  },
+  "E50": {
+    "3": "Köszönjük a figyelmet az 50. adásban is! Most Antival elmegy"
+  },
+  "E51": {
+    "2": "– Látom magam előtt, hogy az évtized végére Magyarországon i",
+    "3": "Láttam egy technológiai céget, ami majdnem olyan, mint egy C",
+    "5": "– Roger Ver és társai 2017-ben meg akarták emelni a blokkmér",
+    "6": "A miskolci konferencia reményt adott nekem: láttam, hogy ren"
+  },
+  "E53": {
+    "3": "– Ez a tájékoztatás kulcsfontosságú. A TikTok és a közösségi",
+    "12": "– A mai közgazdaságtan (Keynes-i ideológia) betegsége, hogy ",
+    "13": "– Gondoljunk bele: ha félreteszel 100 000 forintot az unokái",
+    "14": "– Németországban a 80-as években még az volt a reklám szloge",
+    "15": "– Beszéljünk a Proof of Work (PoW) fontosságáról is. Ez az a",
+    "16": "– Az állam nem tudja „betiltani” a Bitcoint. Csak az állampo",
+    "18": "Zárásként: ne a világháborún vagy a politikai érdekeken stre",
+    "19": "Köszönjük a figyelmet, jövő héten újra találkozunk! Sziaszto"
+  },
+  "E55": {
+    "1": "– El Salvadorról is érdemes szót ejteni. Voltak hírek, hogy ",
+    "2": "– A rendeletben az is benne van, hogy „költségvetés-semleges",
+    "3": "Nézzük a chartokat! A spirál-grafikonunk szerint 2025 márciu",
+    "4": "A makrogazdasági mutatók recessziót vetítenek előre Amerikáb",
+    "6": "– Térjünk át a technológiára! Négy év után lecseréltem az ot",
+    "7": "– A Mempool mostanában meglepően üres, 1 sat/byte díjjal is ",
+    "8": null
+  },
+  "E56": {
+    "1": "– A konferencia központi kérdése az, hogy mi a baj a pénzzel",
+    "3": "Madeirán ott volt a világkrémje: Michael Saylor, Jeff Booth,",
+    "6": "– Ez a mostani adás rövidebb lesz, mert készülünk a holnapi "
+  },
+  "E57": {
+    "4": "– A konferencián Anita bemutatta, hogy a legmenőbb láncelemz",
+    "5": null,
+    "6": "– Hallottátok a hírt Elon Musk kormányhatékonysági irodájáró",
+    "8": "– Jönnek a hírek a nagyvállalatok felől is. A GameStop közgy",
+    "9": "Zárásként egy kis „körkörös gazdasági” hír: egy héten belül "
+  },
+  "E58": {
+    "5": "– Kérdés, hogy ez a rengeteg állami beavatkozás hová vezet. ",
+    "8": "– Sokan félnek, hogy mi lesz, ha elfogy a [21 millió](https:",
+    "9": "– A fiat pénz a történelem során mindig hiperinflációval vég",
+    "10": "– Ezért tartom fontosnak az edukációt. Októberben megjelenik"
+  },
+  "E59": {
+    "5": "– Térjünk rá a cikkedre, mert ott zseniális pontokat érintet",
+    "9": "Köszönöm Dani, hogy itt voltál! Az egyszeruspiritualitas.hu "
+  },
+  "E61": {
+    "4": "– Elon Musk és a DOGE (Department of Government Efficiency) ",
+    "5": null,
+    "8": "– A regisztráció után emailben érkezik egy hatjegyű kód a hi",
+    "10": "– A beállításoknál érdemes bekapcsolni a kétfaktoros hiteles",
+    "11": "– A felület már több nyelven, köztük magyarul is elérhető. A",
+    "12": null
+  },
+  "E73": {
+    "8": "És a férjem hallgatta vissza a régi podcastjaimat, mert nagy"
+  },
+  "E83": {
+    "10": "– Beszéljünk egy kicsit a chartokról is! Menjünk át a grafik"
+  },
+  "E89": {
+    "5": "Találkoztam egy haverommal, és csak a Nostron kommunikáltunk"
+  },
+  "E97": {
+    "10": "– És ahhoz kénytelenek vagyunk engedni, hogy a másik azt a f"
+  },
+  "E110": {
+    "4": "– Engem igazából az érdekelne: volt ez az előadássorozat, és",
+    "7": "– Mondok még egy ellentmondást, amit valahogy majd fel kell "
+  },
+  "R08": {
+    "4": "Plusz itt bejön az is, hogy az algoritmus legnagyobb feladat"
+  },
+  "R13": {
+    "2": "Az, hogy „tisztítsuk meg a Bitcoint\", egy naiv, vallásos meg"
+  }
+}

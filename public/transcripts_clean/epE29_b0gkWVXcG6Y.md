@@ -32,7 +32,3 @@ Brazíliában, Argentínában vagy Afrikában az embereknek nem disztrakció a B
 Prágában Saylor mesélt egy előadásáról, amit egy patinás amerikai egyetemen tartott 40 kiválogatott pénzügyi diáknak. Elmagyarázta nekik a stratégiáját, de a 40-ből csak egyetlen egy diák mondta azt, hogy ez reális és jó. A többiek szerint ez csalás vagy egyszeri dolog volt. Ez mutatja, mennyire nehéz kilépni a régi pénzügyi mentalitásból. De aki rájön a lényegre, az az emberiség felső 1%-ába kerülhet tudásban és megtakarításban is.
 
 Végezetül várunk mindenkit a miskolci Bitcoin konferenciára október 11-13. között a [Hotel Aurorában](https://hotelaurora.hu). A rendezvény teljesen ingyenes, lesz Bitcoin-séta, szakmai előadások és gyakorlati workshopok is. Regisztráljatok a [bitcoinmiskolc.hu](https://bitcoinmiskolc.hu) oldalon! Köszönjük a figyelmet, találkozunk a következő adásban!
-
----
-
-Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik személyes támogatást igényelnek, ajánljuk a Bitcoin Mentor szolgáltatásait a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon. Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára és a Rumble csatornánkra is! Kövesd a HUSZONEGY-et Facebookon és Nostron. Támogatóink Miskolctapolca Bitcoin-elfogadó wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). És a Firefish üzeni: ne adjátok el a bitcoinotokat!

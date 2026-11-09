@@ -428,9 +428,7 @@ Nehéz. Már mennyiség kellene. Igazából az a gond, hogy az árak akkor lenn�
 
 – Várok mindenkit szeretettel.
 
-– Támogatóink a négycsillagos [Hotel Aurora](https://hotelaurora.hu) Miskolctapolcán, mely bitcoint elfogadó és tartalékoló szálloda, és a [Hotel Atlantis](https://hotelatlantis.hu), mely szintén négycsillagos, bitcoint elfogadó szálloda Hajdúszoboszlón.
-
-Egyre intenzívebben jelen vagyunk a Nostron – kövessetek be minket, és a HUSZONEGY feedje alatt számos magyar bitcoiner posztjait találhatjátok újraposztolva. Iratkozzatok fel a YouTube-csatornánkra, kövessétek be a vadonatúj Rumble-csatornánkat, ahova most már szintén kiposztoljuk az összes új podcast-epizódot. Aki mászkál a Facebook felé, ott is kövessen be minket – és ne adjátok el a bitcoinotokat!
+Egyre intenzívebben jelen vagyunk a Nostron – kövessetek be minket, és a HUSZONEGY feedje alatt számos magyar bitcoiner posztjait találhatjátok újraposztolva. Aki mászkál a Facebook felé, ott is kövessen be minket – és ne adjátok el a bitcoinotokat!
 
 Megköszönöm a figyelmet mindenkitől, és egy hét múlva újra találkozunk egy érdekes témával.
 

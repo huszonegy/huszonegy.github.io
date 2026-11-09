@@ -35,7 +35,3 @@ Az [ingatlanpiacon](https://inflacio.eu/ingatlan/) ez a modell már régóta mű
 Zárógondolatként: ne adjátok el a bitcoinotokat! A mainstream irányba tartunk, a globális dominancia felé, és ilyenkor eladni irracionális. Bitcoinban mérve minden évvel olcsóbb lesz az élet, fiatban pedig drágább. Érdemes felfedezni ezt a multisig konstrukciót, mert biztonságos és független.
 
 Köszönjük az egész éves figyelmet mindenkinek, aki hallgatott minket! Most Antival elmegyünk két hét pihenőre, de januárban újult erővel és izgalmas témákkal jelentkezünk. Mindenkinek boldog, áldott karácsonyt és sikeres új évet kívánunk a HUSZONEGY csoport nevében is! Sziasztok!
-
----
-
-Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik személyes támogatást igényelnek, ajánljuk a Bitcoin Mentor szolgáltatásait a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon. Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára és a Rumble csatornánkra is! Kövesd a HUSZONEGY-et Facebookon és Nostron. Támogatóink Miskolctapolca Bitcoin-elfogadó wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). És a Firefish üzeni: ne adjátok el a bitcoinotokat!

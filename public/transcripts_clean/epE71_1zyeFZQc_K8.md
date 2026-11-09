@@ -202,7 +202,7 @@ De hogyha ezt a szemellenzőt levesszük, és körülnézünk a nagy világban, 
 
 – Akkor megosztom most azt az ablakomat, amiben ilyen levezetőt szoktam nyomatni.
 
-– Jó, és akkor jöjjön az a szekció, nem? Jól van. Ismerkedjetek támogatóinkkal, a négycsillagos wellness szállodákkal, ami egyrészt a [Hotel Atlantis](https://hotelatlantis.hu) Hajdúszoboszlón, másrészt pedig a [Hotel Aurora](https://hotelaurora.hu) Miskolctapolcán! Ezekben szoktak lenni a magyarországi Bitcoin only konferenciák, októberben lesz a következő, újra Miskolctapolcán, az Aurorában. Iratkozzatok fel a YouTube csatornánkra, és ne adjátok el a bitcoinotokat! Főleg ne forintért – meg hát semmiért se. Árucikkekért el lehet adni, hogyha pótoljátok.
+– Jó, és akkor jöjjön az a szekció, nem? Jól van. Októberben lesz a következő magyarországi Bitcoin only konferencia, újra Miskolctapolcán, az Aurorában. Ne adjátok el a bitcoinotokat! Főleg ne forintért – meg hát semmiért se. Árucikkekért el lehet adni, hogyha pótoljátok.
 
 – Oh yeah!
 

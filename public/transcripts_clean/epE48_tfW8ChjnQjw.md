@@ -29,7 +29,3 @@ Mérhetjük ezt négyzetméterben is: 2023 áprilisában 10 millió [satoshi](ht
 Nagyon büszkék vagyunk a miskolci konferenciára, és ahogy ígértük, fél évente ismétlünk. A következő találkozó 2025. március 21-23. között lesz a hajdúszoboszlói [Hotel Atlantis](https://hotelatlantis.hu) négycsillagos szállodában. Lesznek ingyenes jegyek, de regisztrálnotok kell a [bitcoinmiskolc.hu](https://bitcoinmiskolc.hu) oldalon. A programokat a következő hetekben koordináljuk a HUSZONEGY csoport tagjaival, iratkozzatok fel a hírlevélre!
 
 Zárásként: ne a távoli háborúkon vagy politikai játszmákon stresszeljetek, amikre nincs befolyásotok. Fókuszáljatok arra, hogy ti mit tehettek magatokért. Tanuljatok, kérdezzetek, és olvassatok Bitcoin-könyveket! Köszönjük a figyelmet, jövő héten újra jelentkezünk. Használjátok a „HUSZONEGY” kuponkódot a [seedor.io](https://seedor.io) oldalon! Sziasztok!
-
----
-
-Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik személyes támogatást igényelnek, ajánljuk a Bitcoin Mentor szolgáltatásait a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon. Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára és a Rumble csatornánkra is! Kövesd a HUSZONEGY-et Facebookon és Nostron. Támogatóink Miskolctapolca Bitcoin-elfogadó wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). És a Firefish üzeni: ne adjátok el a bitcoinotokat!

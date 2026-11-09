@@ -26,14 +26,6 @@ Mennyire tudunk önszerveződők lenni ebben a munkában: podcastokat csinálni,
 
 ---
 
-**Álljunk meg egy fontos közlemény erejéig!**
-
-Forráshiány miatt veszélybe került a podcast működése. Ha értékeled az edukatív tartalmainkat, kérünk, támogass minket, hogy folytathassuk ezt a munkát! A támogatás lehet alkalomszerű, rendszeres vagy akár szponzori együttműködés is. A részleteket a HUSZONEGY honlapjának támogatás oldalán találod: [huszonegy.world/tamogatas](https://huszonegy.world/tamogatas) – a leírásban és a képernyőn is megtalálod.
-
-**Köszönünk szépen minden eddigi és további támogatást.**
-
----
-
 – Alapvetően létezik magántulajdon. A kapitalizmusnak az egyik legfantasztikusabb része, hogy meg tudja oldani azt, amit a vallások vagy a szocialista-kommunista oldal mond: milyen szép lenne, ha ki tudnánk ölni az emberből az önzést. Ezzel szemben a kapitalizmus azt mondja: legyen egy olyan csereeszköz, amivel az emberek el tudják cserélni a saját önzésük érdekében végzett munkát. Minél önzőbb valaki, annál többet kezd el foglalkozni azzal, mire vágynak mások — mivel tudja rávenni őket, hogy önszántukból megszabaduljanak a pénzüktől, amiért keményen megdolgoztak.
 
 ---
@@ -65,11 +57,5 @@ Eleinte én is reméltem, hogy lehet kevesebb spam — mert azzal foglalkozom, h
 Mit szeretnél hallani szívesebben? Azt, hogy mindenki csináljon, amit akar — mert a Bitcoinnak a legnagyobb előnye a cenzúrázhatatlanság. Egész addig, amíg nincs rajta mit cenzúrázni, könnyű azt mondani: ja persze, én teljesen egyetértek ezzel. De ahhoz, hogy leteszteljük, ahogy valamelyik másik epizódban is mondtam, egy tankot nem elméletben tesztelsz, hanem kiviszed a háborúba — és nem attól félsz, hogy megkarcolod-e, hanem elkezded konkrétan karcolni.
 
 ---
-
-Új támogatónk a BudaBit! 🔥 Még mélyebbre ásnál a szabadságtechnológiákban? Csatlakozz a [BudaBit](https://budabit.club) cypherpunk fejlesztői közösséghez online és offline havi meetupok keretében! Részletek a [budabit.club](https://budabit.club) oldalon.
-
-**További támogatóink Miskolctapolca és Hajdúszoboszló bitcoint elfogadó és bitcoint tartalékoló négycsillagos wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu).**
-
-Bitcoin tanácsadásról és mentorálásról a [bitcoinmentor.hu](https://bitcoinmentor.hu) oldalon olvashattok, ahol a [Bitcoin blog](https://bitcoinmentor.hu/bitcoin-blog/) cikkei is megtalálhatók. A [Firefish](https://app.firefish.io/auth/sign-up?ref=HUSZONEGY) 🔥🐟 pedig azt üzeni, hogy ne adjátok el a bitcoinotokat!
 
 – Köszi a figyelmet, fiúk, lányok. Egy hét múlva találkozunk. Sziasztok!

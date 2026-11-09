@@ -25,7 +25,3 @@ A Bitcoin a „nagy egyesítő”. Prágában láttuk a balkáni csoportot (Bitc
 A [21 millió](https://inflacio.eu/hany-bitcoin-van/) bitcoint ha leosztjuk a 8 milliárd emberre, fejenként 260 000 satoshi jutna. Akinek ennél több van, az már előnyben van. Sokan jönnek a forkokkal, de a fork olyan, mintha a Monopoly játék pénzét akarnád a valódi forint mellé tenni: létezik, de nincs értéke. Ezért kell saját **node**-ot futtatni, mert a te **node**-od dönti el, mi a Bitcoin. 2017-ben is próbálták a Bitcoin Cash-t eladni igazi Bitcoinként, de a piac beárazta.
 
 Köszönjük a figyelmet az eddigi 21 adás során! Folytatjuk a munkát, tanuljatok, iratkozzatok fel a YouTube-on, és gyertek el az októberi miskolci Bitcoin konferenciára a Hotel Aurorába! Jövő héten új hírekkel és vendégekkel jelentkezünk. Ne felejtsétek: a Bitcoin egy találmány. Sziasztok!
-
----
-
-Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik személyes támogatást igényelnek, ajánljuk a Bitcoin Mentor szolgáltatásait a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon. Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára és a Rumble csatornánkra is! Kövesd a HUSZONEGY-et Facebookon és Nosteren. Támogatóink Miskolctapolca és Hajdúszoboszló Bitcoin-elfogadó wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). A Firefish pedig üzeni, hogy ne adjátok el a bitcoinotokat!

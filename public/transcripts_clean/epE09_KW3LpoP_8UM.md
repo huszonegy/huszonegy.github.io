@@ -38,8 +38,4 @@ A magyar egészségügyről inkább nem mondok semmit. Az orvosok néha egymáss
 
 – Zárásként egy íratlan szabályt szegnék meg: beszélnünk kell a Nick Szabo-elméletről. Szerintem a Bitcoin egy magyar találmány. Nick Szabo apja vagy nagyapja '56 után emigrált Amerikába. Ha ő Satoshi, akkor ez óriási dolog, amit a magyar sajtó még nem kapott fel. Nick Szabo írásmódja és Satoshié kísértetiesen hasonlít. Sokan másokat (Adam Back, Dorian Nakamoto) emlegetnek, de Szabo a *Bit Gold* leírásával gyakorlatilag lefektette az alapokat. Persze a találgatás veszélyes is lehet az adott személy biztonságára, Jack Mallers is kikelt emiatt a podcastjában. De büszkék lehetünk arra, hogy Magyarországon van Satoshi-szobor, és a hétfőn nálunk járt argentin srácok (Bitcoin Meta projekt) is elzarándokoltak hozzá a buszukkal.
 
-Köszönjük a figyelmet és a támogatást, amit satoshikban küldtetek! A kommentek sokat segítenek a YouTube algoritmusának. Közeleg a negyedik felezés szombat hajnalban, ünnepeljünk együtt! Jövő héten újra jelentkezünk, addig is böngésszétek a [huszonegy.world](https://huszonegy.world) oldalt! Sziasztok!
-
----
-
-Böngésszétek a HUSZONEGY honlapját a [huszonegy.world](https://huszonegy.world) címen, ahol rengeteg ingyenes oktatóanyag elérhető. Azok számára pedig, akik személyes támogatást igényelnek, ajánljuk a Bitcoin Mentor szolgáltatásait a [bitcoinmentor.hu](https://bitcoinmentor.hu) honlapon. Iratkozz fel a HUSZONEGY Podcast YouTube csatornájára és a Rumble csatornánkra is! Kövesd a HUSZONEGY-et Facebookon és Nosteren. Támogatóink Miskolctapolca és Hajdúszoboszló Bitcoin-elfogadó wellness szállodái, a [Hotel Aurora](https://hotelaurora.hu) és a [Hotel Atlantis](https://hotelatlantis.hu). A Firefish pedig üzeni, hogy ne adjátok el a bitcoinotokat!
+Köszönjük a figyelmet és a támogatást, amit satoshikban küldtetek! Közeleg a negyedik felezés szombat hajnalban, ünnepeljünk együtt! Sziasztok!

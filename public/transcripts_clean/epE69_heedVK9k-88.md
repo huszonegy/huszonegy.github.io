@@ -246,6 +246,6 @@ Ugye mindenhonnan ez jön, az összes hírben: az első öt cikk csak valami tra
 
 – Mi köszönjük. És nem tudom, Árpi, elmondod a zárósorokat?
 
-– Igen, nyomok egy képernyőmegosztást. Azt elmondanám röviden, hogy a támogatóink a négycsillagos [Hotel Atlantis](https://hotelatlantis.hu) és a szintén wellness szállodaként működő négycsillagos [Hotel Aurora](https://hotelaurora.hu). Ezek bitcoint elfogadó és bitcoint tartalékoló szállodák. Az előző adásban Ferivel beszélgettünk, akihez szervesen kapcsolódik ez a két szálloda, érdemes megnézni az előző adást. Aztán lájkoljatok, kövessetek minket a Facebookon, ott viszonylag rendszeresen igyekszünk magyar nyelvű tartalmat publikálni! A YouTube-on ugye sok videóval jelentkezünk, most frissül a feliratos videók szekció, úgyhogy ide is érdemes feliratkozni, hogy értesüljetek ezekről időben. És még az is egy fontos dolog, hogy ne adjátok el a bitcoinotokat! És akit érdekel a Bitcoin fedezetű kölcsönfelvétel, az ismerkedjen meg a [Firefish-sel](https://app.firefish.io/auth/sign-up?ref=HUSZONEGY) 🔥🐟! Meg hát van egy csomó más platform, de nekünk ehhez fűződik tevékenységünk is, meg némi érdekünk is. Köszönjük szépen a figyelmet, és egy hét múlva találkozunk. Sziasztok!
+– Igen. Az előző adásban Ferivel beszélgettünk, érdemes megnézni azt is. És még az is egy fontos dolog, hogy ne adjátok el a bitcoinotokat! Köszönjük szépen a figyelmet, és egy hét múlva találkozunk. Sziasztok!
 
 – Sziasztok!
