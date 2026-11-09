@@ -107,6 +107,9 @@ export const links = [
                 name: "BudaBit",
                 text: "Cypherpunk fejlesztői közösség online és offline havi meetupokkal, ahol mélyebbre áshatsz a szabadságtechnológiákban.",
                 image: "/pics/budabit-huszonegy-banner.jpg",
+                logo: "/pics/sponsors/budabit.png",
+                logoHeight: 40,
+                logoDark: true,
                 align: "left",
                 zoom: true,
                 url: "https://budabit.club"
@@ -115,12 +118,16 @@ export const links = [
                 name: "Hotel Atlantis",
                 text: "Bitcoint elfogadó és tartalékoló családi wellness szálloda Hajdúszoboszlón. A tavaszi Bitcoin Miskolc konferenciák helyszíne.",
                 image: "/pics/hotel-atlantis-huszonegy-banner.jpg",
+                logo: "/pics/sponsors/hotel-atlantis.png",
+                logoHeight: 54,
                 url: "https://hotelatlantis.hu"
             },
             {
                 name: "Hotel Aurora",
                 text: "Bitcoint elfogadó és tartalékoló wellness szálloda Miskolctapolcán. A következő, 2026. november 20-22. közötti <a href='https://bitcoinmiskolc.hu' target='_blank'>Bitcoin Miskolc konferencia</a> helyszíne.",
                 image: "/pics/hotel-aurora-huszonegy-banner.jpg",
+                logo: "/pics/sponsors/hotel-aurora.png",
+                logoHeight: 52,
                 align: "left",
                 url: "https://hotelaurora.hu"
             }

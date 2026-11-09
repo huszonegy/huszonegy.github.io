@@ -10,11 +10,7 @@ import { links } from '../data/links';
 
 // Támogatói doboz: a szponzorok és az affiliate-ajánlások egy helyről (data/links.ts) jönnek,
 // így az átiratokba nem kell (elavuló) szponzorszöveget írni.
-const sponsors = (links.find(c => c.category === 'Szponzoraink')?.items ?? []) as { name: string; url: string }[];
-const affiliates = ((links.find(c => c.category === 'Kedvezményes ajánlások')?.items ?? []) as { name: string; kind?: string }[])
-  .filter(i => i.kind === 'affiliate').map(i => i.name);
-const joinHu = (names: string[]) =>
-  names.length <= 1 ? names.join('') : names.slice(0, -1).join(', ') + ' és ' + names[names.length - 1];
+const sponsors = (links.find(c => c.category === 'Szponzoraink')?.items ?? []) as { name: string; url: string; logo?: string; logoDark?: boolean; logoHeight?: number }[];
 
 marked.use({
   renderer: {
@@ -385,13 +381,18 @@ useHead({
 
           <aside v-if="sponsors.length" class="sponsor-box section-gap text-start" aria-label="Támogatóink">
             <p class="label">Támogatóink</p>
-            <p class="sponsor-box-text">
-              A HUSZONEGY Bitcoin Podcast létrejöttét támogatja:
-              <template v-for="(s, i) in sponsors" :key="s.name"><a :href="s.url" target="_blank" rel="sponsored noopener">{{ s.name }}</a>{{ i < sponsors.length - 2 ? ', ' : i === sponsors.length - 2 ? ' és ' : '.' }}</template>
-            </p>
+            <p class="sponsor-box-text">A HUSZONEGY Bitcoin Podcast létrejöttét támogatják:</p>
+            <div class="sponsor-logos">
+              <a v-for="s in sponsors" :key="s.name" :href="s.url" target="_blank" rel="sponsored noopener"
+                 class="sponsor-logo" :class="{ 'is-dark': s.logoDark }" :title="s.name"
+                 :style="{ '--logo-h': (s.logoHeight ?? 44) + 'px' }">
+                <img v-if="s.logo" :src="s.logo" :alt="s.name" loading="lazy" />
+                <span v-else>{{ s.name }}</span>
+              </a>
+            </div>
             <p class="sponsor-box-text mb-0">
-              Kedvezményes ajánlásainkat<template v-if="affiliates.length"> ({{ joinHu(affiliates) }})</template> a <router-link to="/link/">Linkek</router-link> oldalon gyűjtöttük össze.
-              Te is támogatnád a folytatást? <router-link to="/tamogatas/">Itt megtudod, hogyan.</router-link>
+              Kedvezményes ajánlásainkat a <router-link to="/link/">link oldalon</router-link> gyűjtöttük össze.
+              Te is támogatnád a folytatást? A lehetőségeket a <router-link to="/tamogatas/">támogatás oldalon</router-link> találod.
             </p>
           </aside>
         </div>
@@ -543,6 +544,40 @@ useHead({
 .sponsor-box-text { font-size: 0.95rem; line-height: 1.4; color: #cfcfcf; margin-bottom: 0.5rem; }
 .sponsor-box-text a { color: #f7931a; text-decoration: none; }
 .sponsor-box-text a:hover { text-decoration: underline; }
+.sponsor-logos {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.75rem;
+  margin: 0.9rem 0 1rem;
+}
+.sponsor-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 76px;
+  padding: 0.6rem 0.75rem;
+  background: #fff;
+  border-radius: 6px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  color: #222;
+  font-weight: 600;
+  text-decoration: none;
+}
+.sponsor-logo.is-dark { background: #0f1015; border-color: rgba(255, 255, 255, 0.15); color: #fff; }
+.sponsor-logo:hover,
+.sponsor-logo:focus-visible {
+  transform: translateY(-2px);
+  border-color: #f7931a;
+  box-shadow: 0 0 0 1px #f7931a, 0 6px 20px rgba(247, 147, 26, 0.45);
+}
+/* logónkénti magasság (data/links.ts: logoHeight), hogy optikailag egyforma súlyúak legyenek */
+.sponsor-logo img { height: var(--logo-h); max-width: 100%; object-fit: contain; }
+@media (max-width: 576px) {
+  .sponsor-logos { gap: 0.5rem; }
+  .sponsor-logo { height: 60px; padding: 0.4rem; }
+  .sponsor-logo img { height: calc(var(--logo-h) * 0.75); }
+}
 
 /* --- TIMELINE --- */
 .topic-timeline {
