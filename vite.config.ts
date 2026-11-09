@@ -135,10 +135,10 @@ export default defineConfig({
   ssgOptions: {
     dirStyle: 'nested',
     includedRoutes(paths: any, _routes: any) {
-      // Kiszűrjük a paraméterezett útvonalakat (pl. :slug, :pathMatch),
-      // a redirecteket (pl. /support), és a statikus fájl útvonalakat (pl. /books/).
-      // A /404/ oldal renderelődik: a build ebből készíti a dist/404.html-t.
-      const kizart = ['/support', '/forum', '/books']
+      // Kiszűrjük a paraméterezett útvonalakat (pl. :slug, :pathMatch) és a statikus fájl útvonalakat (pl. /books/).
+      // A redirectek (pl. /forum/, /support) renderelődnek: a céloldal tartalmát kapják kanonikus hivatkozással,
+      // így a régi linkek nem 404-elnek. A /404/ oldal is renderelődik: a build ebből készíti a dist/404.html-t.
+      const kizart = ['/books']
       const staticPaths = (paths as string[]).filter(p =>
         !p.includes(':') && !kizart.some(k => p === k || p.startsWith(k + '/'))
       )
