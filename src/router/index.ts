@@ -172,6 +172,11 @@ export const routes: RouteRecordRaw[] = [
   { path: '/support', redirect: '/tamogatas/' },
   // Régi /forum/ útvonal (átnevezve /kozosseg/-re) → megosztott linkek ne 404-eljenek
   { path: '/forum/', redirect: '/kozosseg/' },
+  // Régi többes számú útvonalak (átnevezve egyes számúra) → megosztott linkek ne 404-eljenek
+  { path: '/linkek/', redirect: '/link/' },
+  { path: '/konyvek/', redirect: '/konyv/' },
+  { path: '/cikkek/', redirect: '/cikk/' },
+  { path: '/hirek/', redirect: '/hir/' },
   // E105 régi slugja (címváltozás előtt) → új URL, hogy a megosztott linkek ne 404-eljenek
   { path: '/podcast/3-ok-amiert-a-bitcoin-veri-az-etikus-jegybanki-penzt/', redirect: '/podcast/lejaratos-penz-vagy-szabad-penz-etikus-jegybank-kontra-bitcoin/' },
   // Régi, elvont címek újracímzése (2026.09.25.) → a régi URL-ek átirányítva az újakra
