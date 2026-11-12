@@ -123,6 +123,8 @@ Kritériumok: 45–60 karakter; **a hook és az elsődleges kulcsszó az első ~
 
 **Szekció-fejlécek:** a leírás blokkjai **CSUPA NAGYBETŰS szekciócímkét** kapnak a scannelhetőségért — pl. `FEJEZETEK:`, `FORRÁSOK:`, `HUSZONEGY KÖZÖSSÉG:`, `MENTORÁLÁS & BLOG:`, `SZPONZOROK:`, `AJÁNLJUK:`, `ÁTIRAT:`. Az adásban elhangzott linkek/források blokkja a **`FORRÁSOK:`** fejléc alá kerül; a soroknál nincs „(chart)"/„(blog)"/„előadás"-szerű utótag, sem gondolatjel — csak a tömör címke + `➡` + URL (pl. `Jack Mallers BTC Prague ➡ <URL>`). Az átirat-blokk is fejlécet kap (`ÁTIRAT:`), és az `Inkább olvasnád?` a link barátságos címkéje: `Inkább olvasnád? ➡ <átirat-URL>`. A YouTube fejezet-detektálását a `FEJEZETEK:` fejléc nem zavarja, amíg a `00:00` az első időbélyeg a leírásban.
 
+**Záró perjel nélkül:** a YouTube-leírás (és így a Spotify/Rumble-csomag) linkjei záró perjel nélkül szerepelnek (`https://bitcoinmentor.hu/bitcoin-passphrase`, nem `…/bitcoin-passphrase/`), mert így szebbek (Árpi preferenciája). Az átiratban ez nem érvényes: ott a kézi inflacio.eu-link záró perjellel áll (lásd 7/b).
+
 **Click-through elv:** a blurb-szövegek ne ismételjék azt az infót, ami a célokon (a linkelt oldalon) már ott van (pl. konkrét kedvezmény százalék a Relai oldalán).
 
 A jelenlegi blokkos felépítés (nincs bebetonozva — jobbító javaslat mindig jöhet). **Az érvényes szabvány:**
@@ -165,6 +167,7 @@ A cím, a leírás és a videó-beállítások a YouTube Data API-n keresztül k
   - a **„módosított vagy szintetikus tartalom: nem”** jelölést (az API nem adja vissza, ezt Árpi a Studióban ellenőrzi);
   - a **„HUSZONEGY Bitcoin podcast”** lejátszási listát (automatikusan rendezett, a legújabb kerül előre). **Csak a premier beállítása után** teszem bele, mert egy nem listázott videó a nyilvános listában idő előtt látható lenne.
 - **Árpi a Studióban állítja be** (az API ezeket nem kezeli): a **premiert** (ütemezés, 19:00), a **záróképernyőt** (importálás az előző videóból), valamint kikapcsolja az **„Automatikus helyek”** és a **„Fogalmak automatikus megjelenése”** kapcsolót.
+- **A premier csak az átirat véglegesítése után** kerül beállításra (Árpi döntése): addig a nem listázott videón könnyebb visszaellenőrizni az átiratot. Ezért a premiert nem sürgetem a feltöltés után, és a lejátszási listába tétel is csak ezután jön.
 
 ### 4/c. Spotify- és Rumble-szövegcsomag
 **Állandó, automatikus lépés — nem kérdezem meg, hogy csináljam-e:** amint a YouTube-os rész kész (a leírás élesben fent van), magamtól elkészítek két bemásolható szövegfájlt, mert Árpi a Spotify for Creatorsre és a Rumble-re is feltölti az epizódot. Ezekhez a platformokhoz nincs feltöltő- vagy szerkesztő-API, ezért a feltöltést és a mezők kitöltését Árpi végzi kézzel.

@@ -49,6 +49,7 @@ A véglegesített cím klikk-ereje és curiosity-gap pontja a választáskor, ho
 | E120 | 25 bitcoint kínáltak 20 dollárért a Passzív Milliomosnak. Erre ő? | 5 | 3 | új tech-érdeklődő + a vendég közössége (első cím vendég-csatornanévvel; 65 kar., mobilon csonkolódik) |
 | E121 | Bitcoin vs kripto: mit nem tud a proof of stake? | 4 | 2 | fan + búvárkodó (közösen, a vendég kérésére finomítva az „átverés”-ből; szakszó a hook helyén, „kripto” keresőszó; a fő téma csak a 23. percben indul) |
 | E122 | Küldhetnek neked hamis bitcoint? | 5 | 3 | új tech-érdeklődő + fan (rövid, 32 kar.; a „hamis” a tét szava, a szakszó lemegy a leírásba; teaser csak a vendéggel, kezdővágás nélkül) |
+| E123 | Jobban, mint a Binance: így vigyázz a bitcoinodra! | 5 | 2 | új tech-érdeklődő + tőzsdén tartók (a brandnév a 15. karakternél, mobilon is látszik; módszer-ígéret, a teaser „meg tudjuk tanulni” zárása erősíti; A/B-alternatíva: „Jobban vigyázhatsz a bitcoinodra, mint a Binance?”) |
 
 ## Bejegyzések
 

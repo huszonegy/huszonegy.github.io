@@ -2,6 +2,63 @@
 
 export const podcasts = [
     {
+        name: "Jobban, mint a Binance: így vigyázz a bitcoinodra!",
+        id: "E123",
+        intro: "Dollármilliárdokat mozgattak el a Binance-ről a támadók, a saját bitcoinodat viszont kevés tanulással jobban megvédheted, mint a világ legnagyobb tőzsdéje. Végigvesszük, mitől lesz igazán véletlen a privát kulcsod, hogyan állíts be egy több kulccsal védett multisig tárcát, és miért egyetlen kulcson múlik minden a tőzsdéken. Szó lesz az időzáras öröklésről és egy 5 dolláros chipkártyáról is, ami olyan biztonságban tartja a kulcsodat, mint egy hardvertárca.",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Feltörték a Binance-t (Intro)"
+        },
+        {
+                time: "02:07",
+                label: "Háborús helyzet az interneten"
+        },
+        {
+                time: "06:32",
+                label: "Mitől igazán véletlen a kulcsod?"
+        },
+        {
+                time: "11:59",
+                label: "Csak 15% emeli fel a kezét"
+        },
+        {
+                time: "15:07",
+                label: "Telefonon kezdd, három kulccsal folytasd"
+        },
+        {
+                time: "19:57",
+                label: "A tőzsde gyenge pontja: egyetlen kulcs"
+        },
+        {
+                time: "23:04",
+                label: "Időzár: ha fél évig nem mozdul a tárca"
+        },
+        {
+                time: "27:52",
+                label: "Liana és a csináld magad hardvertárcák"
+        },
+        {
+                time: "31:19",
+                label: "Hardvertárca 5 dollárért?"
+        },
+        {
+                time: "37:59",
+                label: "Segítő aláíró: Casa, Bitkey és társaik"
+        },
+        {
+                time: "42:01",
+                label: "Hol a bitcoinod? Hát tőzsdén"
+        }
+        ],
+        img: "/pics/e123.jpg",
+        date: "2026.11.13.",
+        members: ["Openoms", "Feri"],
+        topic: "Feltörték a Binance-t (Intro) - Háborús helyzet az interneten - Mitől igazán véletlen a kulcsod? - Csak 15% emeli fel a kezét - Telefonon kezdd, három kulccsal folytasd - A tőzsde gyenge pontja: egyetlen kulcs - Időzár: ha fél évig nem mozdul a tárca - Liana és a csináld magad hardvertárcák - Hardvertárca 5 dollárért? - Segítő aláíró: Casa, Bitkey és társaik - Hol a bitcoinod? Hát tőzsdén",
+        yt: "https://youtu.be/k3VZbP26igY",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
         name: "Küldhetnek neked hamis bitcoint?",
         id: "E122",
         intro: "A tárcád kiírja, hogy bitcoint kaptál, de ez még nem bizonyíték: a Bitcoin node minden tranzakciót ellenőriz, egészen addig a blokkig visszamenve, amelyben az adott bitcoint kibányászták. Optout, az egyik magyar Bitcoin Core fejlesztő, lépésről lépésre megmutatja, mit néz meg ilyenkor a csomópontod, és miért nem kell így senkiben megbíznod. Közben érintünk néhány gyakorlati kérdést is, a tárhelytől az üresnek látszó tárcáig. A végén pedig átfutjuk a novemberi Bitcoin konferencia programját.",
@@ -64,7 +121,7 @@ export const podcasts = [
         members: ["Optout", "Feri"],
         topic: "A képernyőn látott szám (Intro) - Nem a hálózatért, magadért futtatod - Mind az 1 milliárd tranzakciót átnyálazza - Visszafelé, a bitcoin születéséig - „Ez arany, hidd el!” És a bitcoin? - Már az 1 TB sem elég? - Üres a tárca, pedig ott a bitcoin - Legfeljebb magadat csapod be - A Bitcoin Core maga is tárca - Mi vár ránk a Bitcoin Miskolcon? - Az MI megtalálja a rejtett hibákat - Nincs hülye kérdés - Új arcok Miskolcon",
         yt: "https://youtu.be/AcfLDrDv5dA",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/wfUfbglGFiuB190Kkqur"
     },
     {
         name: "Bitcoin vs kripto: mit nem tud a proof of stake?",

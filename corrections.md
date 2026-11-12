@@ -36,6 +36,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Egy bejegyzés = elí
 - Csáó / Csaó → **Ciao** (köszönés)
 - Nópara → **Nopara** (a beszélgetésben Ádámként is szólítják)
 - Antal → **Anti**
+- Open Arms / OpenOS / Openos / Open House → **Openoms** (visszatérő vendég)
 - OpenOMS → **Openoms**
 - Optaut → **Optout**
 - Árti / RP / Árki → **Árpi**
@@ -177,6 +178,10 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Egy bejegyzés = elí
 - Umbrell / Umbrella → **Umbrel** (node-operációs rendszer; umbrel.com) · RSberry / Rapsberry → **Raspberry Pi**
 - **Northapp** (Feri bitcoinnal foglalható parkolója és műfüves focipályája Miskolcon; northapp.hu)
 - **tollaskígyó** (kisbetűvel; a HUSZONEGY Telegram-csoportjának AI-tudásbázisa, Henky projektje — hortopato.cc/wiki)
+- Spectre / Spector / Spectter DIY → **Specter DIY** (csináld magad hardvertárca) · Seeds Signer / Seedsaner → **SeedSigner** · Satip / satocsi / satucsy → **Satochip** (smart card applet; satochip.io)
+- liana / Lianaval lett → **Liana** wallet (miniscript-tárca; lianawallet.com) · Nancak / nancsak → **Nunchuk** · **Keeper** (Bitcoin Keeper, nem a Nunchuké)
+- Crafinos / Graphén OS → **GrapheneOS** · Ubiki / Ubiquii / ubikey → **YubiKey** · Bit Key → **Bitkey** · Cassa → **Casa**
+- Kronos (a Crypto.com kapcsán) → **Cronos** · Arc (layer 2) → **Ark**
 
 ## Szakkifejezések
 
@@ -213,6 +218,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Egy bejegyzés = elí
 - „57-es / 57 hetes mozgóátlag" → **ötven hetes mozgóátlag** (50 WMA; a bull/bear market elválasztására használt heti mozgóátlag). A gép az „ötven hetes" kimondott alakot hallja „57-es"-nek.
 - „207-es / 207 hetes mozgóátlag" → **200 hetes mozgóátlag** (200 WMA — a Bitcoin négyéves ciklus-indikátora). A *szó* rendszerint helyes; a gépi átirat a **számot** hallja gyakran 207-nek 200 helyett — ezt egységesítsd **200**-ra.
 - **MLS** (messaging layer security; előremenő és post-compromise titkosítás csoportos üzenetküldésre)
+- kovanent / covenhez → **covenant** (ragozva: covenantokhoz) · trash volt / treshold → **threshold** · passface / fastf → **passphrase** · Samir Secret sharing → **Shamir's Secret Sharing** · NSC (kártya) → **NFC** · ECDS → **ECDSA**
 - **Cashu** (privát kibocsátású, bitcoinhoz kötött token; a gépi átirat „Kesu/casu/cas/cashw" alakját javítsd; ragozva: Cashut, Cashuval, Cashunál; a kibocsátó neve **Cashu mint**, különírva)
 - ikes / iks / ikash / ICES → **ecash** (a Chaum-féle digitális készpénz gyűjtőneve; kisbetűvel, egy szóban; ragozva: ecasht, ecashnél, **ecash-sel**)
 - **Fedimint** (szövetségi, több kibocsátós ecash-protokoll; fedimint.org)
@@ -279,6 +285,10 @@ Ezeket linkeld be markdown formátumban, ahol a szövegben előfordulnak. Ha nem
 - **tollaskígyó tudásbázis**: [hortopato.cc/wiki](https://hortopato.cc/wiki/)
 - **Northapp**: [northapp.hu](https://northapp.hu)
 - **Cure53**: [cure53.de](https://cure53.de)
+- **Bitcoin passphrase** (blog): [bitcoinmentor.hu/bitcoin-passphrase/](https://bitcoinmentor.hu/bitcoin-passphrase/) · **Bitcoin multisig és öröklés** (blog): [bitcoinmentor.hu/bitcoin-multisig-es-orokles/](https://bitcoinmentor.hu/bitcoin-multisig-es-orokles/)
+- **BlueWallet**: [bluewallet.io](https://bluewallet.io/) · **Blockstream app**: [blockstream.com/app](https://blockstream.com/app/) · **Liana**: [lianawallet.com](https://lianawallet.com/)
+- **Specter DIY**: [github.com/cryptoadvance/specter-diy](https://github.com/cryptoadvance/specter-diy) · **SeedSigner**: [seedsigner.com](https://seedsigner.com/) · **Satochip**: [satochip.io](https://satochip.io/)
+- **Nopara** X-profilja: [x.com/nopara73](https://x.com/nopara73)
 
 ### pesz visszajelzés minták
 - noszter.hu és nostr.hu helyes alakok
