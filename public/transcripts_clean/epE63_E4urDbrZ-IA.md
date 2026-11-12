@@ -32,11 +32,7 @@ Ugye tipikusan az emberek 90 plusz százaléka Bitcoin Core típusú node-okat f
 
 Ez az, amit Satoshi elkezdett ugye ebben a C++ nevű programnyelvben, 2008-ban tette közzé a klienst ezen a kriptográfiai levelezési listán, de ugye előtte már dolgozott rajta olyan körülbelül másfél évig. És ez volt a 0.1-es verzió. Eleinte több verzió jelent meg, aztán mostanában egy ilyen féléves ciklus van körülbelül, amikor ilyen major, jelentős verzióugrások vannak.
 
-Most jelenleg ugye láthatjuk itt a képernyőn is, amit a [bitcoincore.org](https://bitcoincore.org) weblapon lehet letölteni, ez az egyik forrása. Ezt ugye a fejlesztők teszik közzé. Nagyon fontos ugye, hogy ezek alá vannak írva ilyen PGP-aláírásokkal több ember által, akik ezt reprodukálhatóan tudják építeni, ezeket a szoftvereket. Tehát hogyha máshonnan tölti le az ember, akkor is tudja ellenőrizni, hogy az van benne, amit itt közzétettek. És itt láthattuk, hogy ez most 29.0-ás.
-
-– Ühüm.
-
-– Éppen ez a legutolsó verzió. Tehát valóban ez a legnépszerűbb. Ugye ez azért is van, mert a GitHubon él ennek a kódja, illetve a diskurzus róla, és több száz contributora van, akik hozzáírtak ehhez már. Itt azért megemlíteném, hogy van például magyar Bitcoin Core contributorunk is, l0rinc személyében.
+Most jelenleg ugye láthatjuk itt a képernyőn is, amit a [bitcoincore.org](https://bitcoincore.org) weblapon lehet letölteni, ez az egyik forrása. Ezt ugye a fejlesztők teszik közzé. Nagyon fontos ugye, hogy ezek alá vannak írva ilyen PGP-aláírásokkal több ember által, akik ezt reprodukálhatóan tudják építeni, ezeket a szoftvereket. Tehát hogyha máshonnan tölti le az ember, akkor is tudja ellenőrizni, hogy az van benne, amit itt közzétettek. És itt láthattuk, hogy ez most 29.0-ás. Éppen ez a legutolsó verzió. Tehát valóban ez a legnépszerűbb. Ugye ez azért is van, mert a GitHubon él ennek a kódja, illetve a diskurzus róla, és több száz contributora van, akik hozzáírtak ehhez már. Itt azért megemlíteném, hogy van például magyar Bitcoin Core contributorunk is, l0rinc személyében.
 
 – Nagyon büszkék vagyunk, támogatjuk.
 
@@ -45,11 +41,7 @@ Most jelenleg ugye láthatjuk itt a képernyőn is, amit a [bitcoincore.org](htt
 Hát természetesen ez egy érdekes feladat, ezt így koordinálni, illetve valamilyen szintű rendet tartani, hogy ne fulladjon el az egész a zajban, hanem hogy a jelet próbálják megtartani, hogy azt ki lehessen fogni. Úgyhogy hát erről is vannak viták, ugye itt a diskurzusnak a moderálása, illetve ezeknek a változtatási kérelmeknek az elfogadása, hogy megy, hogy nem megy — ennek egy egész rendszere van.
 
 És hát mondjuk ez inkább csak azért fontos tudni, mert itt láthatjuk, hogy 993 contributort jelez itt a GitHub, ami egy elég sok, fantasztikusan magas szám. Ugye ez több mint 15 éves fejlesztésnek a folyamata, és hát most is nagyon sok minden van, amit csinálnak rajta. Ezért használom én is ezt, mert ezt olvassák a legtöbben. És minden egyes sorváltoztatást, meg minden egyes sor kódot, ami már benne van, ezt több száz ember elolvasta és elolvassa, megbeszéli, és ugye hát a legnagyobb részt publikus formában megvitatja. És hát ugye
-vannak a többi verziók, amik mondjuk valamilyen más célt szolgálnak, nem egy ilyen generikus klienst. Hanem mondjuk például az LND Lightning-implementációnak van ez a BTCD…
-
-– Ühüm.
-
-– …ilyen társa, ami szinte egy Bitcoin implementáció, csak abban a Go programnyelvben. Amivel láttuk is, hogy volt olyan, hogy azok a node-ok például leestek a hálózatról egy-egy nem teljesen sztenderd vagy nem szokásos tranzakciónak a megjelenésekor, amit épp nem tudtak validálni, mert nem pontosan úgy implementálták ezeket az egyetértés szabályait, mint ahogy például a Bitcoin Core-ban ez van.
+vannak a többi verziók, amik mondjuk valamilyen más célt szolgálnak, nem egy ilyen generikus klienst. Hanem mondjuk például az LND Lightning-implementációnak van ez a BTCD ilyen társa, ami szinte egy Bitcoin implementáció, csak abban a Go programnyelvben. Amivel láttuk is, hogy volt olyan, hogy azok a node-ok például leestek a hálózatról egy-egy nem teljesen sztenderd vagy nem szokásos tranzakciónak a megjelenésekor, amit épp nem tudtak validálni, mert nem pontosan úgy implementálták ezeket az egyetértés szabályait, mint ahogy például a Bitcoin Core-ban ez van.
 
 Szóval itt kezdeném, hogyha akarok futtatni egy node-ot.
 
@@ -73,11 +65,7 @@ Amit ez csinál, ugye ez egy teljes értékű node szoftver: azt fogja csinálni
 
 – Meg egy pár ilyet töltögettünk már le, volt.
 
-– Hát bármit — ez mindenkinek a saját dolga, de hasonló a technológia, azért hoztam fel. Ez a peer-to-peer fájlmegosztás, ez történik a Bitcoin node-ok között is, ugyanúgy, mint a filmek feltöltése, vagy szoftverek vagy egyéb dolgok, könyvtárak, amik a torrenthálózaton meg vannak osztva. Ott is egy torrent kliens az gyakorlatilag egy torrent node, és ebből a szempontból nagyon hasonló mondjuk egy Bitcoinhoz.
-
-– Ühüm.
-
-– Csak itt ugye fix az a dolog, amit letölt: csak egy dolgot keres, a Bitcoin blokkláncát, ugye egy torrentkliensben meg bármit. Úgyhogy ez talán egy érdekes párhuzam, hogy így remélhetőleg ismerős lehet olyannak, aki nem csak streaming szolgáltatásokon nőtt fel, hanem látja ezt a szabad internetet is.
+– Hát bármit — ez mindenkinek a saját dolga, de hasonló a technológia, azért hoztam fel. Ez a peer-to-peer fájlmegosztás, ez történik a Bitcoin node-ok között is, ugyanúgy, mint a filmek feltöltése, vagy szoftverek vagy egyéb dolgok, könyvtárak, amik a torrenthálózaton meg vannak osztva. Ott is egy torrent kliens az gyakorlatilag egy torrent node, és ebből a szempontból nagyon hasonló mondjuk egy Bitcoinhoz. Csak itt ugye fix az a dolog, amit letölt: csak egy dolgot keres, a Bitcoin blokkláncát, ugye egy torrentkliensben meg bármit. Úgyhogy ez talán egy érdekes párhuzam, hogy így remélhetőleg ismerős lehet olyannak, aki nem csak streaming szolgáltatásokon nőtt fel, hanem látja ezt a szabad internetet is.
 
 Én még itt hozzátenném, hogy — nem tudom, ez most meg van-e osztva — ez a [Bitnodes](https://bitnodes.io) térképe. Egy élő térkép, vagy hát nyilván van benne egy pár milliszekundum csúszás, illetve ő itt így random kijelöl ilyen címeket, és mutatja az IP-címeket, hogy geolokáció szerint ő hova gondolja ezeket a node-okat tenni.
 
@@ -89,52 +77,24 @@ Na most egy magánembernek ez nem feltétlenül előnyös. Sőt, illetve abból 
 
 És hát ugye ennek a két dolognak a megkerülésére, illetve megoldására van a legnépszerűbb megoldás, ez a Tor hálózat. Ez a The Onion Router, ez a hagymarouter. Azért hívják hagymának, mert ilyen rétegekbe csomagolva, rétegekbe titkosítva van az adat benne. Tehát úgy utazik, hogy maga a Tor hálózat is node-okból áll, és az egyik node elküldi a másiknak — tehát egy ilyen többszörösen becsomagolt adatot elküld egy node-nak, ami a legkülső réteget ki tudja, tehát a titkosítását fel tudja oldani, vagyis ki tudja bontani, és az megmondja neki, hogy a következő állomás melyik node lesz, de nem látja a kettővel lejjebb lévő réteget. És így aztán csak a legvégső node fog eljutni az értelmes adatcsomagig, ami a hagymának a belseje. Tehát három-négy-öt ilyen ugráson keresztül egyik node sem tudja, hogy mi volt az igazi kiindulása az adatcsomagnak, illetve ahogy átmegy rajtuk, nem tudják, hogy mi a végcélja sem.
 
-És ez a hálózat teszi lehetővé azt, hogy ne lehessen tudni, hogy melyik node-nak hol a valós fizikai léte, tehát melyik publikus IP-címről indult el ez, mert egy ilyen hagymásított Tor hálózaton keresztül mennek. Ennek az is az előnye, hogy ezen a hálózaton keresztül befelé is lehet kapcsolódni. Tehát nem kell sugározni a publikus IP-címünket ahhoz, hogy mondjuk más tudjon hozzánk kapcsolódni, hanem ez fenntartja, illetve segíti a decentralizációt azzal, hogy a Tor hálózaton futó node-ok egymáshoz szabadon tudnak kapcsolódni, de emellett nem jelennek meg ezen a térképen, mert így nem lehet őket fizikai léthez, vagy hát a fizikai helyzetükhöz kötni.
-
-– Ühüm.
-
-– És nem csak Tor network van, hanem van két másik is, ami már alapértelmezett módon implementálva van így a Bitcoin Core szoftverbe. Van egy I2P nevű — ez az Invisible Internet, láthatatlan internet. Az olyan, mintha egy ilyen belső, egy ilyen VPN-hálózat lenne, illetve abban is vannak ilyen becsomagolt titkosítások. Meg van egy CJDNS nevű, ami szintén egy ilyen privát VPN-hálózat, aminek nincs központi szervere.
+És ez a hálózat teszi lehetővé azt, hogy ne lehessen tudni, hogy melyik node-nak hol a valós fizikai léte, tehát melyik publikus IP-címről indult el ez, mert egy ilyen hagymásított Tor hálózaton keresztül mennek. Ennek az is az előnye, hogy ezen a hálózaton keresztül befelé is lehet kapcsolódni. Tehát nem kell sugározni a publikus IP-címünket ahhoz, hogy mondjuk más tudjon hozzánk kapcsolódni, hanem ez fenntartja, illetve segíti a decentralizációt azzal, hogy a Tor hálózaton futó node-ok egymáshoz szabadon tudnak kapcsolódni, de emellett nem jelennek meg ezen a térképen, mert így nem lehet őket fizikai léthez, vagy hát a fizikai helyzetükhöz kötni. És nem csak Tor network van, hanem van két másik is, ami már alapértelmezett módon implementálva van így a Bitcoin Core szoftverbe. Van egy I2P nevű — ez az Invisible Internet, láthatatlan internet. Az olyan, mintha egy ilyen belső, egy ilyen VPN-hálózat lenne, illetve abban is vannak ilyen becsomagolt titkosítások. Meg van egy CJDNS nevű, ami szintén egy ilyen privát VPN-hálózat, aminek nincs központi szervere.
 
 Ezeket gyakorlatilag elég könnyű aktiválni, tehát csak egy szoftvercsomagot le kell tölteni. A [Tor Projectnek](https://www.torproject.org) a website-ját gyorsan meg is mutathatjuk: itt le lehet tölteni egy ilyen böngészőt, ami ezen keresztül tud weblapokat megnyitni, és elrejti a kiindulási IP-címeket, illetve egy ilyen démont is, ami nem egy gonosz dolog, hanem egy olyan szolgáltatás, ami a háttérben fut, és mindig biztosítja azt, hogy tudjunk ezen az úton keresztül csatlakozni. És ha ezt letöltjük, akkor a Bitcoin Core node-unkat is tudjuk ehhez kapcsolni, így el tudjuk rejteni. Ezt ugye a Bitcoin Core beépítve is
-tudja. Tehát hogyha rendelkezésre áll egy ilyen Tor-démon, ami egy bejáratot ad ehhez a hálózathoz, akkor ahhoz csak egy kis konfigurációs beállítással, gyakorlatilag egy ilyen kis checkboxszal tud már kapcsolódni hozzá.
+tudja. Tehát hogyha rendelkezésre áll egy ilyen Tor-démon, ami egy bejáratot ad ehhez a hálózathoz, akkor ahhoz csak egy kis konfigurációs beállítással, gyakorlatilag egy ilyen kis checkboxszal tud már kapcsolódni hozzá. És hát ezt mondjuk egy átlagos otthoni felhasználónak így igazából ajánlott, mert ugye ebben a rejtőzködésben van egy biztonsági előny. Az, hogy egyrészt nem jön valaki oda, hogy á, itt fut a Bitcoin node, amiről esetleg látta, hogy hú, ezek a tranzakciók innen jöttek, biztos van ott még több is — illetve nem sugározza azt, hogy ebben a házban Bitcoin node fut. Ezért én mindenképpen azt részesítem előnyben. Meg ezek az előre elkészített ilyen node-csomagok, mint a RaspiBlitz, a Start9 vagy az Umbrel, amikbe talán kicsit belemegyünk később, ezek alapértelmezetten így futnak. Biztonságot ad, illetve szabadságot is abban, hogy egy egész sötétnek nevezett internetre tudunk kapcsolódni.
 
-– Ühüm.
-
-– És hát ezt mondjuk egy átlagos otthoni felhasználónak így igazából ajánlott, mert ugye ebben a rejtőzködésben van egy biztonsági előny. Az, hogy egyrészt nem jön valaki oda, hogy á, itt fut a Bitcoin node, amiről esetleg látta, hogy hú, ezek a tranzakciók innen jöttek, biztos van ott még több is — illetve nem sugározza azt, hogy ebben a házban Bitcoin node fut.
-
-– Ühüm.
-
-– Ezért én mindenképpen azt részesítem előnyben. Meg ezek az előre elkészített ilyen node-csomagok, mint a RaspiBlitz, a Start9 vagy az Umbrel, amikbe talán kicsit belemegyünk később, ezek alapértelmezetten így futnak.
-
-– Ühüm.
-
-– Biztonságot ad, illetve szabadságot is abban, hogy egy egész sötétnek nevezett internetre tudunk kapcsolódni.
-
-– Ühüm. Na hát ez egy nagyon jó kezdés annak, aki ebbe bele szeretne kóstolni: ugye a Bitcoin Core-t fölinstallálni és egy Tort felinstallálni a PC-re. De mi van akkor, ha valaki komolyabban szeretne ezzel foglalkozni, és azt mondja, hogy dedikál erre valamilyen hardvert? Tehát azt mondja, hogy van egy régi számítógépem, és akkor arra teszek mondjuk egy Linuxot, vagy legyen Windows az egyszerűség kedvéért — bár nyilvánvaló, hogy azt te sem szereted annyira. Mindegy, van egy számítógépe. Milyen lehetőségei vannak, hogyha nem az otthoni PC-t, tehát a mindennapi feladatokra használt PC-t szeretné befogni?
+– Na hát ez egy nagyon jó kezdés annak, aki ebbe bele szeretne kóstolni: ugye a Bitcoin Core-t fölinstallálni és egy Tort felinstallálni a PC-re. De mi van akkor, ha valaki komolyabban szeretne ezzel foglalkozni, és azt mondja, hogy dedikál erre valamilyen hardvert? Tehát azt mondja, hogy van egy régi számítógépem, és akkor arra teszek mondjuk egy Linuxot, vagy legyen Windows az egyszerűség kedvéért — bár nyilvánvaló, hogy azt te sem szereted annyira. Mindegy, van egy számítógépe. Milyen lehetőségei vannak, hogyha nem az otthoni PC-t, tehát a mindennapi feladatokra használt PC-t szeretné befogni?
 
 Ugye te mindig meg szoktál így jelenni ezeken a Bitcoin konferenciákon, és ott mutogatsz mindenféle kütyüket. Meg szerintem volt is már korábban adásban erről szó, hogy van egy csomó olyan kis eszköz, ilyen kis szerverek, amik Bitcoin node-ként használhatóak. Ugye a Raspberryn van a RaspiBlitz, amiről te sokkal többet tudsz majd elmondani, mint én, illetve vannak az Umbrelek meg a Start9 — ugye ami ilyen komolyabb node szoftverek. Vagy ezeket minek lehetne nevezni? Inkább otthoni szervereknek?
 
 – Hát ez ugye kicsit átfed az ilyen generikus, általános otthoni szerverekkel, főleg az Umbrel leginkább, de a Start9-ben is vannak olyan szolgáltatások, amik nem csak Bitcoinhoz kapcsolódóak. Hanem mondjuk egy Nextcloud, ami ugye egy ilyen Dropboxot vagy a Google Cloudot tudja kiváltani, vagy egy ilyen — nem tudom — e-mail-kezelők, VPN, ugye ennek hosszú listája van. Ezek pont így vannak megtervezve, hogy ezek ilyen kis platformok, amikre van egy nagyon egyszerű operációs rendszer, ami nem arra van tervezve, hogy azon futtasd a szövegszerkesztőt meg a webböngészőt, hanem csak arra, hogy a háttérben folyamatosan futtasson ilyen szolgáltatásokat, amiket később ezeknek a saját weblapján el tudsz érni. És gyakorlatilag ez mind a három ilyen példa. Van több is, persze, hosszú a lista, de ezek a legnépszerűbbek.
 
-Itt ugye az a kérdés, hogy mire tudjuk ezt rátelepíteni. Hát itt éppen közben rákattintottál itt a Start9 app-piacterére, ahol láthatjuk, hogy ugye az első kettő, ez pont ilyen Lightning-szolgáltatás, aztán a blog, igen, egy ilyen blogmotor. Aztán van itt böngészőtől kezdve RoboSats, Alby.
+Itt ugye az a kérdés, hogy mire tudjuk ezt rátelepíteni. Hát itt éppen közben rákattintottál itt a Start9 app-piacterére, ahol láthatjuk, hogy ugye az első kettő, ez pont ilyen Lightning-szolgáltatás, aztán a blog, igen, egy ilyen blogmotor. Aztán van itt böngészőtől kezdve RoboSats, Alby. Ez már egy nagy lépés előre abból a szempontból, hogy kinyílik az ablak annak, hogyha már van egy Bitcoin Core node-unk, ami mindig fut, ahhoz nagyon sok egyéb szolgáltatást lehet csatlakoztatni. Például egy Lightning node-ot, ami mindig rendelkezésre állhat, illetve az ember azzal is szolgáltathat másoknak elérhető dolgokat. Például játszhat maga is bankot: tehát hogy nemcsak a saját bankod lehetsz ezzel a megoldással, sokak bankja is — itt már megnyílik a szoftveres lehetősége annak, hogy több embernek is lehet a pénze a kezedben, illetve segítesz nekik abban, hogy gyorsan és olcsón küldözgethessenek például a Lightning Networkön. Akár egy családon belül, de akár céges dolgokat is lehet erre építeni.
 
-– Igen, igen.
-
-– Ez már egy nagy lépés előre abból a szempontból, hogy kinyílik az ablak annak, hogyha már van egy Bitcoin Core node-unk, ami mindig fut, ahhoz nagyon sok egyéb szolgáltatást lehet csatlakoztatni. Például egy Lightning node-ot, ami mindig rendelkezésre állhat, illetve az ember azzal is szolgáltathat másoknak elérhető dolgokat. Például játszhat maga is bankot: tehát hogy nemcsak a saját bankod lehetsz ezzel a megoldással, sokak bankja is — itt már megnyílik a szoftveres lehetősége annak, hogy több embernek is lehet a pénze a kezedben, illetve segítesz nekik abban, hogy gyorsan és olcsón küldözgethessenek például a Lightning Networkön. Akár egy családon belül, de akár céges dolgokat is lehet erre építeni.
-
-Hát ugye mibe kerül ez? Itt is látszik, hogy amit ők árulnak ugye itt Amerikából, ezek ilyen 600 és 900 dolláros mini PC-k. Hát ezt azért meg lehet oldani olcsóbban is, attól függ, hogy mire készül az ember, illetve milyen hosszú távra tervez. Hát dollárban tudom: ugye egy 300-400 dollár, az mondjuk maximum 150 000 forint. Ebből lehet venni megbízhatóan új számítógépet, amin ezek a szolgáltatások elfutnak. Na tessék, itt az Umbrelnek a mini PC-je, az pont 154 000 forint.
-
-– Ühüm.
-
-– Ugye az ember ezt meg tudja venni külön is, tehát rá lehet installálni saját magának. A RaspiBlitz is egyébként fut nemcsak Raspberry Pi-on, hanem egyéb más hardveren. Tipikusan ugye azért Raspberry Pit kezdtünk el használni, mert az a legolcsóbb — illetve ez régebben így volt, most már ezek a mini PC-k is felzárkóztak, illetve a használt számítógépek.
+Hát ugye mibe kerül ez? Itt is látszik, hogy amit ők árulnak ugye itt Amerikából, ezek ilyen 600 és 900 dolláros mini PC-k. Hát ezt azért meg lehet oldani olcsóbban is, attól függ, hogy mire készül az ember, illetve milyen hosszú távra tervez. Hát dollárban tudom: ugye egy 300-400 dollár, az mondjuk maximum 150 000 forint. Ebből lehet venni megbízhatóan új számítógépet, amin ezek a szolgáltatások elfutnak. Na tessék, itt az Umbrelnek a mini PC-je, az pont 154 000 forint. Ugye az ember ezt meg tudja venni külön is, tehát rá lehet installálni saját magának. A RaspiBlitz is egyébként fut nemcsak Raspberry Pi-on, hanem egyéb más hardveren. Tipikusan ugye azért Raspberry Pit kezdtünk el használni, mert az a legolcsóbb — illetve ez régebben így volt, most már ezek a mini PC-k is felzárkóztak, illetve a használt számítógépek.
 
 Tehát nekem az, amikor valakinek ajánlom: hogyha van a fiókban egy régi laptop, és van benne mondjuk 8 GB RAM — ugye a Raspberry Pi-ban szintén van 8 GB RAM —, van benne egy processzor, aminek legalább van két magja, de általában van négy magja egy 10-15 éves számítógépnek is. Illetve ugye kell tárhely: tehát most van az opció, hogy nem tároljuk le az egész blokkláncot, de ha már ilyen ráépülő szolgáltatásokat csinálunk, akkor jó, hogyha nem kell minden egyes alkalommal letölteni az egész blokkláncot, amikor vissza akarunk nézni az időben, hanem az ott van nekünk lementve, és akkor az nem fog változni.
 
-Ezért minimum egy 1 TB-os, leginkább SSD ajánlható, hogyha mondjuk az ember három-négy évnél tovább tervez, akkor inkább legyen az 2 TB-os. Ugye itt arról van szó, hogy mondjuk 50 000 forint az 1 TB-os Winchester, 70-80 000 forint a 2 TB-os. Nem a világ vége a költség, de azért jelentős. Ezért fontos az, hogy az embernek a saját működő, akár minden nap használt számítógépére is le lehet tölteni, úgyhogy csak 20-30 GB tárhelyet áldoz fel, és csak időszakosan futtatja a Bitcoin node-ját, aminek az a tulajdonsága, hogy mondjuk egy hetes-hónapos lemaradást pár perc alatt be tud hozni.
-
-– Ühüm.
-
-– De hogyha van egy dedikált szervere, akkor meg azzal lehet kezdeni, hogy tényleg vagy egy használt számítógép, hogyha van megfelelő, vagy újonnan körülbelül innen indul, egy ilyen 150 000 forinttól. És akkor ugye lehet már másban is gondolkodni, tehát akkor lehet egy ilyen saját tárhelye is — ugye ezek lehetnek ilyen belső hálózaton megosztott tárhelyek is, lehet rajta torrentezni.
+Ezért minimum egy 1 TB-os, leginkább SSD ajánlható, hogyha mondjuk az ember három-négy évnél tovább tervez, akkor inkább legyen az 2 TB-os. Ugye itt arról van szó, hogy mondjuk 50 000 forint az 1 TB-os Winchester, 70-80 000 forint a 2 TB-os. Nem a világ vége a költség, de azért jelentős. Ezért fontos az, hogy az embernek a saját működő, akár minden nap használt számítógépére is le lehet tölteni, úgyhogy csak 20-30 GB tárhelyet áldoz fel, és csak időszakosan futtatja a Bitcoin node-ját, aminek az a tulajdonsága, hogy mondjuk egy hetes-hónapos lemaradást pár perc alatt be tud hozni. De hogyha van egy dedikált szervere, akkor meg azzal lehet kezdeni, hogy tényleg vagy egy használt számítógép, hogyha van megfelelő, vagy újonnan körülbelül innen indul, egy ilyen 150 000 forinttól. És akkor ugye lehet már másban is gondolkodni, tehát akkor lehet egy ilyen saját tárhelye is — ugye ezek lehetnek ilyen belső hálózaton megosztott tárhelyek is, lehet rajta torrentezni.
 
 – Én itt hozzáfűznék egy kis dolgot, bocs, hogy így erőltetem ezt, de szerintem mindenki hallott így a napokban, hogy az elmúlt héten volt egy nagyobb áramszünet Spanyolországban, egy napig nem ment, ugye. És akkor egy barátom rám írt, hogy te, figyelj már, mi van akkor, hogyha ez az áramszünet mondjuk megtörténik Magyarországon, és mondjuk nem lesz két-három napig áram, vagy ne adj isten tovább? Mondom, nyilván nem lehet erre nem felkészülni, de valószínűleg a magyar grid sokkal stabilabb. Tök mindegy.
 
@@ -151,8 +111,6 @@ Az, hogy most áramszünet esetén — ugye ott azért az internetszolgáltatás
 Ilyenkor nem nagyon nézegetjük, hogy van-e CB rádió otthon, meg van-e ilyen kis Meshtastic eszközöd vagy LoRa eszközöd otthon, de hamar felértékelődik, hogyha éppen nem tudunk beszélgetni. És egy Bitcoin tranzakció, ez pont az a dolog, amit az ember meg tud így tenni.
 
 – Úgy tudom, hogy idén július 1-je után nagyon megnehezedik majd ezeknek a kis rádiós eszközöknek a forgalmazása. Ezt nem is tudom, valamelyik európai uniós jogi kezdeményezésben olvastam, majd megpróbálom megkeresni.
-
-– Igen.
 
 – Akkor ez esetben szerintem gyorsan csináljunk egy másik adást erről a témáról.
 
@@ -183,8 +141,6 @@ csak egy sima villámlás közepette ez így megtörténik, vagy eső hatására
 
 – Meg az éjjeliszekrényre.
 
-– Igen.
-
 – Tehát hogy a routert kell az éjjeliszekrénybe tenni, a fejed mellé.
 
 – Nem, igen. Én szeretem például, hogyha ezek vezetékkel kapcsolódnak — tehát hogyha például ez a napi több gigabájtos forgalmazás, ami esetleg előfordul ugye egy ilyen decentralizált Bitcoin hálózaton, ahova hozzám is kapcsolódnak, meg én is kapcsolódok, az hát jobb, ha vezetéken folyik. Mert egyrészt azt csak az látja, akihez oda van kapcsolva vezeték, másrészt meg…
@@ -207,7 +163,7 @@ De emellett elérhető egy ilyen webfelülete, ahol színes gombok és ábrák v
 
 És ahhoz már ugye ebben az operációs rendszer, ami nem nagyon ír a lemezre, de könnyen kicserélhető, ez SD-kártyán fut.
 
-– Ühüm. Nem baja ennek az SD-kártya? Mert sokszor régen lehetett hallani, hogy az SD-kártyás node-ok tönkremehetnek, meg speciális SD-kártya kellett ugye hozzájuk.
+– Nem baja ennek az SD-kártya? Mert sokszor régen lehetett hallani, hogy az SD-kártyás node-ok tönkremehetnek, meg speciális SD-kártya kellett ugye hozzájuk.
 
 – Az SDHC igen, SDHC mindenképpen, az endurance típusú, tehát ilyen tartós, mondjuk ilyen dashcambe vagy ilyen folyamatos felvételre optimalizált SD-kártyát érdemes használni. De itt mi nem sokat írunk rá, tehát semmilyen olyan dolog, aminek az elvesztése kritikus, nincs az SD-kártyán, csak az operációs rendszer. És pont ez a lényeg, hogy ugye van a lemez, ami minden értékes adatot tárol, és az operációs rendszert azt meg ettől függetlenül ki lehet cserélni.
 
@@ -215,11 +171,7 @@ Tehát akár úgy is, hogy volt egy SD-kártyám, amin az Umbrelnek a szoftvere 
 
 És hát mi kell még hozzá? Tehát ahhoz, hogy amikor már összeraktad az SD-kártyát, a lemezt, magát ugye a csatlakozót, amivel hozzárakod a Raspberry Pi-hoz ez esetben, vagy akár a mini PC-hez — akkor itt vannak ezek az operációs rendszert tartalmazó image fájlok, ami egy lemezképfájl, amit le lehet tölteni torrenten vagy csak erről a szerverről. Meg lehet nézni ugye, hogy ez szintén ilyen biztonságos aláírással van ellátva, amit a főfejlesztő, a rootzoll — akit egyébként ő DJ-ként is szokott fellépni a Bitcoin konferenciákon, úgyhogy sokan ismerik máshonnan — szokta ezeket aláírni. És ezt csak fel kell másolni az SD-kártyára, és onnantól kezdve beindul ez a kis gép, és vezeti az embert abban, hogy hogy kell ehhez elsőnek csatlakozni: ugye vagy a terminálon keresztül, vagy akinek ez nem annyira otthonos, az a webböngészőben is megnyithatja ezt a státuszoldalt.
 
-Ami aztán meg fogja kérni arra, hogy először is adja meg azokat a jelszavakat, ami biztosítja, hogy senki más nem tudja elérni. Illetve aztán mutatja, hogy hogy megy a Bitcoin blokkláncnak a letöltése, és ha ezt befejezte, akkor pedig felajánlja a lehetőséget, hogy különböző egyéb applikációkat lehet telepíteni, beállításait magának a Bitcoin Core-nak vagy a Lightningnak a beállításait, illetve a kikapcsolódási felületeit is közzéteszi. Tehát hogy van egy ilyen segítség abban, hogy ez működjön. Úgy, mint amikor az ember egy új operációs rendszert telepít egy számítógépre, akár egy Windowst: ugye ott is van egy dolog, hogy beindítod egy — hát most már nem CD-ről, hanem USB-ről —, és akkor mondja, hogy milyen lépéseket kell tenni ahhoz, hogy az első felhasználói profilt létrehozzák, satöbbi. Hát itt is ezek ki vannak dolgozva.
-
-– Ühüm.
-
-– Illetve ezeken folyamatosan dolgozunk, hogy finomítjuk őket. Ez a webfelület is egy — most itt éppen a terminálos felületet látjuk. A webfelület az valószínű, arról is vannak itt felvételek, de az ugye sokkal szebb, illetve ismerősebb az emberek számára.
+Ami aztán meg fogja kérni arra, hogy először is adja meg azokat a jelszavakat, ami biztosítja, hogy senki más nem tudja elérni. Illetve aztán mutatja, hogy hogy megy a Bitcoin blokkláncnak a letöltése, és ha ezt befejezte, akkor pedig felajánlja a lehetőséget, hogy különböző egyéb applikációkat lehet telepíteni, beállításait magának a Bitcoin Core-nak vagy a Lightningnak a beállításait, illetve a kikapcsolódási felületeit is közzéteszi. Tehát hogy van egy ilyen segítség abban, hogy ez működjön. Úgy, mint amikor az ember egy új operációs rendszert telepít egy számítógépre, akár egy Windowst: ugye ott is van egy dolog, hogy beindítod egy — hát most már nem CD-ről, hanem USB-ről —, és akkor mondja, hogy milyen lépéseket kell tenni ahhoz, hogy az első felhasználói profilt létrehozzák, satöbbi. Hát itt is ezek ki vannak dolgozva. Illetve ezeken folyamatosan dolgozunk, hogy finomítjuk őket. Ez a webfelület is egy — most itt éppen a terminálos felületet látjuk. A webfelület az valószínű, arról is vannak itt felvételek, de az ugye sokkal szebb, illetve ismerősebb az emberek számára.
 
 És aztán amikor vége van, hogyha itt visszascrollozol erre a kis státuszképernyőre, ami ez a fekete-zöld — tehát itt van egy opcionálisan hozzávehető, körülbelül egy ilyen 30 eurós, 10-15 ezer forintos kis 2,5 colos kijelző, amit rá lehet rakni a Raspberry Pi-ra, és ez folyamatosan be van kapcsolva, és mutatja azt, hogy milyen dolgok futnak, és milyen a státusza. Mondjuk szinkronizálva van-e ugye a Bitcoin hálózattal, mi az IP-cím, amihez kapcsolódhatsz, hány másik node-hoz csatlakozik, illetve hogyha futtatsz Lightning node-ot, akkor hány csatornád van, meg milyen állapotban vannak ezek is.
 
@@ -242,11 +194,7 @@ operációs rendszer lemezképeket arra is lehet használni, és akkor teljesen 
 
 – Igen, igen. Biztonság és magánszféra.
 
-– Ugye az, hogy a Bitcoin hálózatnak igazából nincs szüksége támogatókra, ez így motiválja a résztvevőit arra, hogy megnézzék maguknak, hogy valóban abban vesznek-e részt. Hogyha visszajövünk a torrentpárhuzamra, ez olyan torrent, aminek ugye van több száz seedere, most ezt így nem kell felmennünk és feltölteni, hogy életben maradjon.
-
-– Igen.
-
-– De arra mindenképpen jó, hogy ha van egy Bitcoin node a szomszédban, akkor onnan sokkal gyorsabban le tudom tölteni a dolgokat. Vagy hogyha éppen a szomszédban van egy bányász, aki ő talál blokkot, akkor azt én kapom meg a leghamarabb, ugye — de ezek ilyen milliszekundumos különbségek.
+– Ugye az, hogy a Bitcoin hálózatnak igazából nincs szüksége támogatókra, ez így motiválja a résztvevőit arra, hogy megnézzék maguknak, hogy valóban abban vesznek-e részt. Hogyha visszajövünk a torrentpárhuzamra, ez olyan torrent, aminek ugye van több száz seedere, most ezt így nem kell felmennünk és feltölteni, hogy életben maradjon. De arra mindenképpen jó, hogy ha van egy Bitcoin node a szomszédban, akkor onnan sokkal gyorsabban le tudom tölteni a dolgokat. Vagy hogyha éppen a szomszédban van egy bányász, aki ő talál blokkot, akkor azt én kapom meg a leghamarabb, ugye — de ezek ilyen milliszekundumos különbségek.
 
 Ugye van ez a HUSZONEGY Telegram csoport, ahol egyébként magyarul aktívak vagyunk így együtt 500 másik emberrel, de van például a RaspiBlitznek a `t.me/raspiblitz` nevű, hát ilyen community support Telegram-csatornája, ami angol nyelven van. Én ott is sokat szoktam így reagálni a kérdésekre, illetve ugye sokszor belekavarodnak az emberek ilyen technikai problémákba, de ilyen általános bitcoin kérdésekben is érdekeltek — ugye amikor valamilyen változtatást akarnak eszközölni, van valamilyen változtatási kérelem, ilyen pull request, ami esetleg megváltoztat szabályokat.
 
@@ -272,23 +220,11 @@ Arra is hasznos volt a cikk, hogy ennek kapcsán kiderült, hogy ez a könyv má
 
 A Scolar honlapján bele is olvashatunk: egyrészt a tartalomjegyzéket át lehet nézni magyarul, másrészt pedig az előszó is olvasható, ami ilyen három-négy-öt-hat oldalas, illetve megvásárolható a könyv. A leírása nagyrészt a hátsó borítót tartalmazza. Azért tudom, mert én gyorsan meg is vettem ezt a könyvet, és meggyőződtem róla, hogy tényleg létezik és kapható. Úgyhogy ezt nagyon ajánlom mindenkinek a figyelmébe, ez egy fantasztikus könyv.
 
-A podcastunkat támogatja a [Hotel Aurora](https://hotelaurora.hu) meg a [Hotel Atlantis](https://hotelatlantis.hu), ahol a magyar konferenciáink is szerveződnek, az ő jóvoltukból. Ezúton is biztatok minden kedves bitcoinert, hogy nézzetek be oda, mert villámgyorsan és nagyon flottul fogadják el a bitcoinunkat, és amúgy meg a szolgáltatásaik remekek.
+Most például a prágai Bitcoin konferenciát promózzuk, mert van egy kis kuponkódunk 10% kedvezménnyel. Ugye ez június 19. és 21. között lesz. Én mondjuk most nem fogok tudni elmenni sajnos, de úgy tudom, Openoms, te ott leszel. Kinek a színeiben?
 
-– Amúgy az is jó.
+– Hát a RaspiBlitz csoporttal leszünk, így a négy core devvel. Aztán persze, hát ugye majd a Blink-matricákat is osztogatjuk. De hát igazából kíváncsiságból megyek, mert ugye ott mindenki ott van: aki így legalább egy eseményre elmegy, akkor az nagy eséllyel azok között van. Mind fejlesztők szempontjából van egy erre dedikált nap is, amit így nagyon tudok ajánlani a technikai érdeklődésűeknek, de egyébként a kiállítói rész is nagyon jó. Magán az előadásokon én nem annyira szoktam részt venni, de azokat meg lehet nézni online, hogyha az ember nincs ott, vagy később akarja.
 
-– Igen. A Facebook csoportunkat most is egy pillanatra promóznánk, hogy azt is érdemes nézegetni, most így napi szinten rakosgatunk ki oda dolgokat. Most például a prágai Bitcoin konferenciát promózzuk ott is, mert van egy kis kuponkódunk 10% kedvezménnyel. Ugye ez június 19. és 21. között lesz. Én mondjuk most nem fogok tudni elmenni sajnos, de úgy tudom, Openoms, te ott leszel. Kinek a színeiben?
-
-– Hát a RaspiBlitz csoporttal leszünk, így a négy core devvel. Aztán persze, hát ugye majd a Blink-matricákat is osztogatjuk. De hát igazából kíváncsiságból megyek, mert ugye ott mindenki ott van: aki így legalább egy eseményre elmegy, akkor az nagy eséllyel azok között van.
-
-– Ühüm.
-
-– Mind fejlesztők szempontjából van egy erre dedikált nap is, amit így nagyon tudok ajánlani a technikai érdeklődésűeknek, de egyébként a kiállítói rész is nagyon jó. Magán az előadásokon én nem annyira szoktam részt venni, de azokat meg lehet nézni online, hogyha az ember nincs ott, vagy később akarja.
-
-– Nekem az egy csalódás, hogy itt a BTC Prague-nak az előadásait így sokkal később szokták föltenni a netre. Már így megszoktam, hogy az amcsik akár instant odateszik élőben.
-
-– Ühüm.
-
-– De valahogy itt a prágai srácok meg inkább arra mennek, hogy nagyon profin legyen megvágva, ez is stimmeljen meg az is. És tényleg minőségi az eredmény, csak így van, hogy hetekig kell várni ezekre a produktumokra.
+– Nekem az egy csalódás, hogy itt a BTC Prague-nak az előadásait így sokkal később szokták föltenni a netre. Már így megszoktam, hogy az amcsik akár instant odateszik élőben. De valahogy itt a prágai srácok meg inkább arra mennek, hogy nagyon profin legyen megvágva, ez is stimmeljen meg az is. És tényleg minőségi az eredmény, csak így van, hogy hetekig kell várni ezekre a produktumokra.
 
 – Utána ez az exkluzivitás, hogyha ott vagy, akkor azért jó, tudod, hogy legalább…
 

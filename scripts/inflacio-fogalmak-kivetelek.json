@@ -8,5 +8,6 @@
   {"episode": "E119", "term": "aranyfedezet", "text": "akkor jött Nixon", "reason": "belső vicc"},
   {"episode": "R03", "term": "fiat pénz", "text": "Fiat standard", "reason": "könyvcím"},
   {"episode": "R04", "term": "fiat pénz", "text": "Fiat standard", "reason": "könyvcím"},
-  {"episode": "R05", "term": "fiat pénz", "text": "Fiat Food", "reason": "könyvcím"}
+  {"episode": "R05", "term": "fiat pénz", "text": "Fiat Food", "reason": "könyvcím"},
+  {"episode": "E11", "term": "bányászat", "text": "amivel még bányászni is lehet", "reason": "webshop-termék futó említése, nem a bányászatról szól"}
 ]

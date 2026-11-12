@@ -121,6 +121,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Egy bejegyzés = elí
 - Budabit / Buda Bit → **BudaBit** (cypherpunk fejlesztői közösség, visszatérő szponzor; budabit.club — emoji: 🔥 tábortűz). **Five projektje** (Nostr-alapú, Git-native fejlesztői közösségi platform; az E108-as adás témája).
 - **FreedomTech Summit** (prágai szabadságtechnológiai konferencia; freedomtechsummit.com)
 - BTC+ / BTC plus plus → **BTC++** (Bitcoin-fejlesztői konferenciasorozat; btcplusplus.dev)
+- nevezcoinet → **coinnet.eu** (az E08-ban Tamás Lightning node-jának partnere)
 - Rest Public / Rest Public Project → **RaspiBlitz** (önálló Bitcoin/Lightning node-projekt)
 - MRAL / Misztrál → **Mistral** (francia AI-fejlesztő/modell)
 - relay / relayed / relei / réli → **Relai** (svájci Bitcoin-only megtakarítási app; a gépi átirat rendszeresen „relay"-nek hallja)
@@ -149,7 +150,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Egy bejegyzés = elí
 - hellónak a kártelemzése → **Yellow-nak a chartelemzése** (poénos videó)
 - OTP szimpion → **OTP SimplePay** · a szekre → **SEC** (amerikai tőzsdefelügyelet)
 - BTCre / Bitcoin térkép → **BTC Map**
-- Bitex / Bitax / beatbox → **Bitaxe** (nyílt forráskódú kis szólóbányász)
+- Bitex / Bitax / beatbox → **Bitaxe** (nyílt forráskódú kis szólóbányász) — ⚠️ a „beatbox” lehet **BitBox** is (svájci hardvertárca, pl. E11), a kontextus dönt
 - Mity Age / Emity Age → **Amity Age** (Dušan Matuška szlovén Bitcoin-oktató cége; kalózhajós stand)
 - Lawrence Lapard → **Lawrence Lepard** (*The Big Print* szerzője) · Markoss / Mark most → **Mark Moss**
 - Adam Touring → **Alan Turing** · Adam Beck → **Adam Back** · Jack Dorsak → **Jack Dorsey** (Bitkey)

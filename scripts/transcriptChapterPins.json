@@ -25,8 +25,7 @@
     "9": null
   },
   "E08": {
-    "7": "Sokat lehet tanulni a tranzakciók nézegetéséből is: látjuk, ",
-    "8": null
+    "7": "– És akkor nézzük meg a 210 000-edik blokkot"
   },
   "E09": {
     "4": "– Visszacsatolva: Molnár Dávidot később elcsábítottam a Wasa",
@@ -43,11 +42,6 @@
     "7": "A Bitcoin teljesen szabadságorientált. Az államra nem lehet ",
     "8": "Végezetül szeretnék bemutatni egy eszközt, amivel nyomon köv",
     "9": null
-  },
-  "E11": {
-    "6": "Kaptunk egy számlát 121 912 satoshiról. Leolvasom a QR-kódot",
-    "7": null,
-    "8": null
   },
   "E14": {
     "2": "Ez sajnos a szabadságjogok csorbításával jár: a privacy egyr",
@@ -298,6 +292,13 @@
     "10": "– A beállításoknál érdemes bekapcsolni a kétfaktoros hiteles",
     "11": "– A felület már több nyelven, köztük magyarul is elérhető. A",
     "12": null
+  },
+  "E63": {
+    "9": "Most például a prágai Bitcoin konferenciát"
+  },
+  "E64": {
+    "1": "Na és akkor menjünk bele egy kicsit",
+    "9": "Május 22-én Pizza Day lesz."
   },
   "E73": {
     "8": "És a férjem hallgatta vissza a régi podcastjaimat, mert nagy"
