@@ -590,12 +590,22 @@ useHead({
 
 /* --- TIMELINE --- */
 .topic-timeline {
+  --tl-x: 1.5rem;   /* a vonal és a pöttyök távolsága a szövegoszlop bal szélétől */
   position: relative;
-  padding-left: 2.5rem;
-  border-left: 1px solid rgba(247, 147, 26, 0.2);
+  padding-left: calc(var(--tl-x) + 1.75rem);
   margin-top: 2rem;
   margin-bottom: 0;
   max-width: var(--text-col);
+}
+
+/* A vonal és a pöttyök a szövegoszlopon BELÜL futnak (nem lógnak ki a bal szélen) */
+.topic-timeline::before {
+  content: '';
+  position: absolute;
+  left: var(--tl-x);
+  top: 0;
+  bottom: 0;
+  border-left: 1px solid rgba(247, 147, 26, 0.2);
 }
 
 .topic-item {
@@ -608,7 +618,7 @@ useHead({
   position: absolute;
   width: 8px;
   height: 8px;
-  left: -2.5rem; 
+  left: -1.75rem;
   transform: translateX(-50%);
   top: 0.6rem; 
   background-color: #f7931a;
