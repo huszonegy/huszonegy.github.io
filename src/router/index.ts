@@ -217,6 +217,14 @@ export const routes: RouteRecordRaw[] = [
   { path: '/podcast/te-meg-szabadlabon-vagy-validator-mizeria/', redirect: '/podcast/elso-kripto-validator-te-meg-szabadlabon-vagy/' }, // E88
   { path: '/podcast/az-onrendelkezes-fontossaga-nehez-idokben/', redirect: '/podcast/esik-a-bitcoin-arfolyam-miert-most-fontos-a-sajat-kulcs/' }, // E93
   { path: '/podcast/tank-vagy-porcelan-a-szabad-piac-nem-ker-engedelyt/', redirect: '/podcast/tank-vagy-porcelan-egy-bitcoin-core-fejleszto-valaszol/' }, // E97
+  // A „Nyári remix:” előtag leszedése a címekről (2026.11.13.) → a régi URL-ek átirányítva az újakra
+  { path: '/podcast/nyari-remix-bitcoin-tarcak-kezdoknek/', redirect: '/podcast/bitcoin-tarcak-kezdoknek/' }, // R01
+  { path: '/podcast/nyari-remix-bitcoin-onrendelkezes/', redirect: '/podcast/bitcoin-onrendelkezes/' }, // R02
+  { path: '/podcast/nyari-remix-bitcoin-konyv-mix-1/', redirect: '/podcast/bitcoin-konyv-mix-1/' }, // R03
+  { path: '/podcast/nyari-remix-bitcoin-konyv-mix-2/', redirect: '/podcast/bitcoin-konyv-mix-2/' }, // R04
+  { path: '/podcast/nyari-remix-objektiv-bitcoin-felszabadulas/', redirect: '/podcast/objektiv-bitcoin-felszabadulas/' }, // R05
+  { path: '/podcast/nyari-remix-decentralizalt-tarsadalmat-epitunk/', redirect: '/podcast/decentralizalt-tarsadalmat-epitunk/' }, // R06
+  { path: '/podcast/nyari-remix-szoftverfejlesztes-szabadsagtechnologiak/', redirect: '/podcast/szoftverfejlesztes-szabadsagtechnologiak/' }, // R07
   {
     path: '/404/',
     name: 'not-found',

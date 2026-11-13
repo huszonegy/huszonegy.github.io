@@ -650,6 +650,7 @@ export const podcasts = [
     {
         name: "Hiába váltasz kormányt, a pénzt tovább nyomtatják",
         id: "R15",
+        intro: "A pénz régebbi, mint az állam, csak épp az állam időközben kisajátította, és ezen egyetlen kormányváltás sem változtat. Az 1600-as években még kinevettek volna, ha azt mondod, hogy az egyházat és az állami hatalmat szét lehet választani, most pedig a pénz készül elválni az államtól. Ebben a válogatásban szó lesz arról, mit ismert be a jegybank képviselője a mai pénzről, miért kellene olyan pénzt használnunk, amit senki nem tud nyomtatni, és miért hazudik minden mérés, amit forintban vagy dollárban végzünk.",
         chapters: [
         {
                 time: "00:00",
@@ -722,6 +723,7 @@ export const podcasts = [
     {
         name: "Mi az a Nostr? A Bitcoin testvérprotokollja",
         id: "R14",
+        intro: "Van egy közösségi hálózat, ahol nincs reklám, és ahol a fiókod nem egy cégé, hanem a sajátod. Ez a Nostr, a Bitcoin testvérprotokollja. Ebben az adásban körüljárjuk, mi is ez valójában: hogyan lehet pénzzel megköszönni, amit valaki megoszt, és hogy minek köszönhetően nem lehet cenzúrázni.",
         chapters: [
         {
                 time: "00:00",
@@ -774,6 +776,7 @@ export const podcasts = [
     {
         name: "Miért várjuk, hogy fentről megmondják, mit tegyünk?",
         id: "R13",
+        intro: "Meglepő, de a rend legtöbbször nem fentről érkezik. Az élet és a szabadpiac is alulról, magától szerveződik. A Bitcoin pedig az egyik legtisztább példa erre. Ebben a válogatásban azt járjuk körül, miért szoktunk hozzá mégis a központi irányításhoz, miért nem lehet egy elhibázott rendszert „belülről” megjavítani, és hogyan tanít meg minket a Bitcoin a valódi önszerveződésre.",
         chapters: [
         {
                 time: "00:00",
@@ -826,6 +829,7 @@ export const podcasts = [
     {
         name: "Nem a tiéd a Bitcoin, amíg nincs nálad a kulcs",
         id: "R12",
+        intro: "Az a bitcoin, amit egy tőzsde vagy más szolgáltató kezel, valójában valaki más kezében van, tehát csak addig rendelkezhetsz felette, amíg lehetővé teszik. Ebben a válogatásban körbejárjuk az önrendelkezést: mit jelent a saját kulcsaidat őrizni, milyen felelősséggel jár, és hogyan vághatsz bele nyugodtan, a magad tempójában.",
         chapters: [
         {
                 time: "00:00",
@@ -874,6 +878,7 @@ export const podcasts = [
     {
         name: "„A Bitcoin túl bonyolult, lekéstem, úgyis betiltják” — tényleg?",
         id: "R11",
+        intro: "„Túl bonyolult”, „én már lekéstem róla”, „úgyis betiltják”, „a forint is jó volt eddig”: ha valaha elhessegetted a Bitcoint egy ilyen mondattal, ez az adás neked szól. Sorra vesszük a leggyakoribb kifogásokat, és mindegyikre adunk egy nyugodt, hétköznapi választ, mert nem győzködni akarunk, hanem eloszlatni a ködöt.",
         chapters: [
         {
                 time: "00:00",
@@ -930,6 +935,7 @@ export const podcasts = [
     {
         name: "Ezért olvad el a pénzed, amit félreteszel",
         id: "R10",
+        intro: "Nem te lettél ügyetlenebb a pénzzel, maga a pénz romlik el. Ebben a válogatásban megnézzük, hová tűnik évről évre a pénzed értéke, és miért drágul közben minden: a filléres zsáktól a nagyi takarékkönyvén át az üres luxuslakásokig.",
         chapters: [
         {
                 time: "00:00",
@@ -982,6 +988,7 @@ export const podcasts = [
     {
         name: "Nyári Bitcoin leértékelés: miért jó a zuhanás?",
         id: "R09",
+        intro: "Az elmúlt hónapokban sokat esett a Bitcoin árfolyama. Sokan már temették a négyéves ciklust, aztán beköszöntött a medvepiac. Szó esik a 200 hetes mozgóátlagról mint történelmi mélypontról, egy 80 százalékos zuhanásról, és arról, hogy kik számára lehet jó hír egy leértékelés.",
         chapters: [
         {
                 time: "00:00",
@@ -1030,6 +1037,7 @@ export const podcasts = [
     {
         name: "Digitális euró és társadalmi pontrendszer: Mi vár ránk?",
         id: "R08",
+        intro: "Ebben a válogatásban az elmúlt évad legélesebb pillanatait fűztük össze arról, hogyan záródik lassan a digitális ketrec — a chat controltól a digitális euróig és a társadalmi pontrendszerig. De a kontroll nem mindenható, és te sem vagy kiszolgáltatott: a Bitcoin olyan pénz, amit nem lehet letiltani, a Nostr pedig olyan hang, amit nem lehet elhallgattatni.",
         chapters: [
         {
                 time: "00:00",
@@ -3342,8 +3350,9 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/ipmNJMGOILI7QkUaCIrD"
     },
     {
-        name: "Nyári remix: Szoftverfejlesztés, szabadságtechnológiák",
+        name: "Szoftverfejlesztés, szabadságtechnológiák",
         id: "R07",
+        intro: "Hogyan örökölhető biztonságosan a bitcoin, és mi a legnehezebb a Bitcoin-fejlesztésben? Nyári válogatásunkban magyar szoftverfejlesztők mesélnek. Megszólalnak a Wasabi és a Ginger tárca fejlesztői is: szó esik arról, miért kell egy fejlesztőnek pesszimistának lennie, hogyan ellenőrizheted a tranzakcióidat a saját Bitcoin Core node-odon, és miért érdemes Toron vagy I2P-n keresztül csatlakoznod a hálózathoz.",
         img: "/pics/r07.jpg",
         date: "2025.08.22.",
         members: ["Dávid", "Nopara", "Anti", "Lőrinc", "Openoms", "Árpi", "Five"],
@@ -3352,8 +3361,9 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/7JadmfCd8JE1tgDo2CdC"
     },
     {
-        name: "Nyári remix: Decentralizált társadalmat építünk",
+        name: "Decentralizált társadalmat építünk",
         id: "R06",
+        intro: "Mitől decentralizált a Bitcoin, és mit ad azoknak, akik elnyomó rendszerben élnek? Nyári válogatásunk az Oslo Freedom Forumtól a bányászatig jut el. Közérthetően elmagyarázzuk, mit keresnek a bányagépek, hogyan áll be a nehézség, miért nem újdonság önmagában a blokklánc, és hogyan fűthetsz otthon a bányászat hőjével.",
         img: "/pics/r06.jpg",
         date: "2025.08.15.",
         members: ["Árpi", "Sziller", "OptOut", "Tamás"],
@@ -3362,8 +3372,9 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/gAahv0G1gTDKMEh6dnJh"
     },
     {
-        name: "Nyári remix: Objektív Bitcoin felszabadulás",
+        name: "Objektív Bitcoin felszabadulás",
         id: "R05",
+        intro: "Mi köze Ayn Rand Atlasz megrázta magát című regényének a Bitcoinhoz? Ebben a nyári válogatásban az objektivizmustól a tudatosságig kalandozunk. Szó esik arról, miért deflációs természetű a technológiai fejlődés, ahogy Jeff Booth A holnap ára című könyvében kifejti, mit tanít a Bitcoin Standard, és hogyan kapcsolódik a Bitcoin a belső szabadsághoz és az önismerethez.",
         img: "/pics/r05.jpg",
         date: "2025.08.08.",
         members: ["Anti", "Alan Plus", "Árpi", "OptOut", "Robert", "Dani"],
@@ -3372,8 +3383,9 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/0uCmF5AiACu2dnV6xFoC"
     },
     {
-        name: "Nyári remix: Bitcoin könyv mix 2",
+        name: "Bitcoin könyv mix 2",
         id: "R04",
+        intro: "Mitől jó értéktároló valami, és miben veri a Bitcoin az aranyat, az ingatlant és a nyomtatható pénzt? Második könyves nyári válogatásunk ezt járja körül. Végigvesszük, miért nehéz ellenőrizni az aranyat, miért parkolják sokan a megtakarításukat üres lakásokban, és mit mutat meg Saifedean Ammous Fiat Standard című könyve arról, hogyan csap be minket a mai pénzrendszer az élelmiszertől az egészségügyig.",
         img: "/pics/r04.jpg",
         date: "2025.08.01.",
         members: ["Anti", "Feri", "Kata"],
@@ -3382,8 +3394,9 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/ohEqkodI0zhwpG8Ogkz7"
     },
     {
-        name: "Nyári remix: Bitcoin könyv mix 1",
+        name: "Bitcoin könyv mix 1",
         id: "R03",
+        intro: "Milyen könyvekből érdemes megérteni a Bitcoint? Nyári válogatásunkban a kedvenceinket gyűjtöttük össze, Knut Svanholm könyveitől a Bitcoin Standardig. Szó esik Alex Gladstein Rejtett elnyomás című könyvéről, a The UnCommunist Manifestóról, a Fiat Standardról, és a technikai mélységet keresőknek a Mastering Bitcoinról. A végén magyarul is elérhető olvasmányokat ajánlunk, köztük A kis Bitcoin könyvet és Gigi 21 lecke című esszégyűjteményét.",
         img: "/pics/r03.jpg",
         date: "2025.07.25.",
         members: ["Anti", "Árpi", "Kata", "Feri", "Tamás", "OptOut"],
@@ -3392,8 +3405,9 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/bXvgIuw98B1f9WAytsdO"
     },
     {
-        name: "Nyári remix: Bitcoin önrendelkezés",
+        name: "Bitcoin önrendelkezés",
         id: "R02",
+        intro: "Csak az a bitcoin a tiéd, amelynek a kulcsát te magad őrzöd. Nyári válogatásunkban megmutatjuk, hogyan hozz létre saját tárcát lépésről lépésre. Elmagyarázzuk, hogyan mentsd el biztonságosan a 12 vagy 24 szót, kézbe vesszük a Trezort, a BitBoxot, a Coldcardot és a Blockstream Jade-et, bemutatjuk a Sparrow-t és a BlueWalletet, és kiderül, mikor éri meg több kulccsal védett multisig tárcát vagy saját node-ot használni.",
         img: "/pics/r02.jpg",
         date: "2025.07.18.",
         members: ["Anti", "Tamás", "Árpi", "Feri"],
@@ -3402,8 +3416,9 @@ export const podcasts = [
         fountain: "https://fountain.fm/episode/LOg37n9vagxfDtJHH6Ei"
     },
     {
-        name: "Nyári remix: Bitcoin tárcák kezdőknek",
+        name: "Bitcoin tárcák kezdőknek",
         id: "R01",
+        intro: "Melyik bitcoin tárcával érdemes kezdeni? Ebben a nyári válogatásban a Blinket és a Strike-ot mutatjuk be, két egyszerű, Lightninggal is működő tárcát. Megnézzük, hogyan küldhetsz a Strike-kal pénzt külföldre a Bitcoin hálózatán, és mi a kockázata annak, ha a kulcsaidat egy szolgáltató őrzi. Kezdésként pedig elemezzük, mit mondott a Bitcoinról a Magyar Nemzeti Bank videója.",
         img: "/pics/r01.jpg",
         date: "2025.07.11.",
         members: ["Anti", "Árpi"],
