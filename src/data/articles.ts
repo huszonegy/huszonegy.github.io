@@ -3,6 +3,46 @@
 
 export const articles = [
     {
+        name: "Bitcoin multisig és öröklés: így védd a megtakarításodat",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "Egy hardvertárca kiváló védelmet ad, de egyetlen ponton múlik minden: ha a seed-phrase elvész vagy illetéktelen kézbe kerül, vele együtt a megtakarításod is. A cikk bemutatja, hogyan működik a multisig, mikor éri meg saját magad beállítani, és mikor jobb egy szolgáltatásra (Casa, Unchained) bízni, valamint azt is, hogyan oldható meg az öröklés, hogy a családod is hozzáférjen a bitcoinodhoz.",
+        link: "https://bitcoinmentor.hu/bitcoin-multisig-es-orokles/",
+        img: "/article/bitcoin-multisig-es-orokles.png",
+        cat: "haladó",
+        id: 62
+    },
+    {
+        name: "Saját Bitcoin node: Umbrel vagy RaspiBlitz?",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "Ha már önrendelkező tárcában tartod a bitcoinodat, a kulcsaid nálad vannak. A következő lépés, hogy a Bitcoin hálózattal is közvetlenül kommunikálj, ne egy idegen szerveren keresztül. A cikk elmagyarázza, miért éri meg saját node-ot futtatni, mennyibe kerül, és hogyan válassz az Umbrel és a RaspiBlitz között – gyakorlati útmutató kezdő node-futtatóknak.",
+        link: "https://bitcoinmentor.hu/sajat-bitcoin-node/",
+        img: "/article/sajat-bitcoin-node.png",
+        cat: "haladó",
+        id: 61
+    },
+    {
+        name: "Bitcoin passphrase: mi az, és hogyan használd?",
+        origin: "szerző: árpi",
+        lang: "hu",
+        text: "A passphrase, más néven „25. szó”, egy általad hozzáadott extra kifejezés, amely a seed-phrase mellé kerül, és egy teljesen új, rejtett tárcát nyit meg. Jól használva megvéd attól, hogy a seed-phrase megtalálója hozzáférjen a bitcoinodhoz, rosszul használva viszont kizárhatod magad a saját tárcádból. A gyártófüggetlen útmutató lépésről lépésre bemutatja, mikor érdemes használni, mik a kockázatai, és hogyan mentsd el.",
+        link: "https://bitcoinmentor.hu/bitcoin-passphrase/",
+        img: "/article/bitcoin-passphrase.png",
+        cat: "haladó",
+        id: 60
+    },
+    {
+        name: "Valóra válthatja-e a Nostr a Twitter álmait?",
+        origin: "fordító: árpi",
+        lang: "hu",
+        text: "Gyakorlatilag mindenki egyetért abban, hogy a közösségi média tönkrement: a probléma a központosított kontroll. Alex Gladstein cikke a Nostrt mutatja be, egy decentralizált, cenzúraálló, gazda nélküli protokollt, amely a Twitter alapítója, Jack Dorsey szerint „száz százalékban az, amit akartunk”. Emberi jogi aktivisták történetein keresztül rajzolódik ki, miért nem bízhatjuk a kommunikációnkat néhány techóriásra, és hogyan vehetjük vissza az irányítást.",
+        link: "https://bitcoinmentor.hu/valora-valthatja-e-a-nostr-a-twitter-almait/",
+        img: "/article/valora-valthatja-e-a-nostr-a-twitter-almait.png",
+        cat: "bevezető",
+        id: 59
+    },
+    {
         name: "Relai — Bitcoin-only megtakarítási app Svájcból",
         origin: "szerző: árpi",
         lang: "hu",
@@ -47,7 +87,7 @@ export const articles = [
         origin: "szerző: árpi",
         lang: "hu",
         text: "Száz hete, hétről hétre beülünk egy mikrofon elé, és arról beszélgetünk, amiről a legtöbb ember a környezetünkben nem szívesen hall. Ez a cikk az egyéni felelősségről és a Bitcoin szerepéről szól, amely lehetővé teszi a decentralizált együttműködést a társadalom jobbá tételéért – arról, hogy egyre többen lépünk ki a régi rendszerből, és építünk valami újat helyette.",
-        link: "https://bitcoinmentor.hu/egyre-tobben-kilepunk-es-epitunk/",
+        link: "https://bitcoinmentor.hu/huszonegy-podcast-100-adas-kilepunk-es-epitunk/",
         img: "/article/egyre-tobben-kilepunk-es-epitunk.png",
         cat: "bevezető",
         id: 54
@@ -57,7 +97,7 @@ export const articles = [
         origin: "szerző: árpi",
         lang: "hu",
         text: "Joana Cotar, a Bundestag volt képviselője és az Inside Bundestag című könyv szerzője egy könyörtelen belső látleletet ad a német parlament működéséről. A cikk a Michael Meyen újságíróval készült videóinterjúja alapján mutatja be, hogyan rabolta el az állam a hatalmat, miért a pártok irányítják a képviselőket, és miért a Bitcoin jelenti a valódi kiutat a rendszerből.",
-        link: "https://bitcoinmentor.hu/hogyan-rabolta-el-a-nemet-allam-a-hatalmat/",
+        link: "https://bitcoinmentor.hu/joana-cotar-inside-bundestag/",
         img: "/article/hogyan-rabolta-el-a-nemet-allam-a-hatalmat.png",
         cat: "bevezető",
         id: 47
@@ -67,7 +107,7 @@ export const articles = [
         origin: "szerző: árpi",
         lang: "hu",
         text: "A gyermekvédelem nemes célja mögé bújva egy olyan megfigyelési rendszer épül ki, amely a teljes digitális életünket kontroll alá vonná. Ez az írás rávilágít a 'chat control' és a CBDC-k veszélyeire, megmutatva, hogyan válik a személyazonosságunk és pénzforgalmunk a központi hatalom eszközévé, és miért elengedhetetlen a Bitcoin a szabadságunk megőrzéséhez.",
-        link: "https://bitcoinmentor.hu/digitalis-kontroll-es-velemenynyilvanitasi-szabadsag/",
+        link: "https://bitcoinmentor.hu/chat-control-digitalis-kontroll/",
         img: "/article/digitalis-kontroll-es-velemenynyilvanitasi-szabadsag.png",
         cat: "bevezető",
         id: 46
@@ -86,7 +126,7 @@ export const articles = [
         name: "A legjobb kriptovaluta tárolási megoldások",
         origin: "szerző: árpi",
         lang: "hu",
-        text: "A legjobb kriptovaluta tárolási megoldások valójában a legjobb Bitcoin tárolási módszerek, mivel egyetlen valóban decentralizált, cenzúraálló, matematikailag korlátozott digitális pénz létezik: a Bitcoin. Ebben a cikkben a Bitcoin tárolási megoldásait mutatjuk be részletesen – a kezdő szintű mobil tárcáktól a professzionális hardveres és multisig megoldásokig. Megtanulhatod, hogyan őrizd biztonságosan a bitcoinodat, hogyan légy a saját bankod, és mi az a „Not your keys, not your coins” alapelv, ami minden bitcoiner életének központi gondolata.",
+        text: "Hol tárold biztonságosan a bitcoinodat? A legjobb tárolási megoldások három szintre bonthatók: Lightning-tárcák a napi kis összegekhez, önrendelkező szoftvertárcák a közepes megtakarításhoz és hardvertárcák a hosszú távú tároláshoz. Az útmutató összehasonlítja a legismertebb tárcákat, megmutatja, mire figyelj a vásárlásnál és a biztonsági mentésnél, elmagyarázza a „Not your keys, not your coins” alapelvet, a haladóknak pedig továbbvezet a saját node és a multisig felé.",
         link: "https://bitcoinmentor.hu/a-legjobb-kriptovaluta-tarolasi-megoldasok/",
         img: "/article/a-legjobb-kriptovaluta-tarolasi-megoldasok.png",
         cat: "bevezető",
