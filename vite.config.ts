@@ -1,6 +1,6 @@
 import { fileURLToPath, URL } from 'node:url'
 import { execSync } from 'node:child_process'
-import { existsSync, readFileSync } from 'node:fs'
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs'
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import { podcasts, slugify } from './src/data/podcasts'
@@ -151,8 +151,31 @@ export default defineConfig({
 
       // A router átirányított (régi) útvonalai ne kerüljenek a sitemapbe — ott csak a kanonikus URL-ek állhatnak.
       // A plugin záró perjel nélkül hasonlít (pl. '/podcast/regi-slug'), ezért a perjelet levágjuk.
-      const redirectPaths = [...readFileSync('src/router/index.ts', 'utf-8')
-        .matchAll(/\{\s*path:\s*'([^']+)',\s*redirect:/g)].map(m => m[1].replace(/\/$/, ''))
+      const redirects = [...readFileSync('src/router/index.ts', 'utf-8')
+        .matchAll(/\{\s*path:\s*'([^']+)',\s*redirect:\s*'([^']+)'/g)].map(m => ({ from: m[1], to: m[2] }))
+      const redirectPaths = redirects.map(r => r.from.replace(/\/$/, ''))
+
+      // A régi útvonalak helyére ne a céloldal másolata kerüljön, hanem egy azonnali átirányító oldal:
+      // a GitHub Pages nem tud 301-et küldeni, a 0 másodperces meta refresh-t viszont a Google
+      // tartós átirányításként kezeli, így a régi URL rangsorolási jele az újra száll át.
+      for (const { from, to } of redirects) {
+        const dir = `dist${from.replace(/\/$/, '')}`
+        const url = `https://huszonegy.world${to}`
+        mkdirSync(dir, { recursive: true })
+        writeFileSync(`${dir}/index.html`, `<!DOCTYPE html>
+<html lang="hu">
+<head>
+<meta charset="UTF-8">
+<title>Átirányítás – HUSZONEGY</title>
+<link rel="canonical" href="${url}">
+<meta http-equiv="refresh" content="0; url=${to}">
+</head>
+<body>
+<p>Az oldal új helye: <a href="${to}">${url}</a></p>
+</body>
+</html>
+`)
+      }
 
       generateSitemap({
         hostname: 'https://huszonegy.world',
