@@ -163,12 +163,16 @@ const seekTo = (timeStr: string) => {
 const seoDescription = computed(() => {
   if (!pod.value) return 'HUSZONEGY Bitcoin podcast – magyar nyelvű Bitcoin beszélgetések.';
 
-  // A bevezetőből: ha hosszabb 155 karakternél, szóhatáron vágjuk, és jelezzük a folytatást
+  // A bevezetőből: ha hosszabb 155 karakternél, lehetőleg mondathatáron vágunk (ha az legalább
+  // ~110 karakternél van, a snippet így egész mondat); különben szóhatáron, „…” jellel
   if (pod.value.intro) {
     const intro = pod.value.intro;
     if (intro.length <= 155) return intro;
+    const sentenceEnds = [...intro.substring(0, 156).matchAll(/[.!?…](?=\s|$)/g)].map(m => m.index! + 1);
+    const lastEnd = sentenceEnds.filter(i => i >= 110).pop();
+    if (lastEnd) return intro.substring(0, lastEnd);
     const cut = intro.substring(0, 153);
-    return cut.substring(0, cut.lastIndexOf(' ')).replace(/[,:;]$/, '') + '…';
+    return cut.substring(0, cut.lastIndexOf(' ')).replace(/[,:;—–-]$/, '').trimEnd() + '…';
   }
 
   // Fejezetcímekből készítünk összefoglalót
@@ -214,7 +218,8 @@ const ogImage = computed(() => {
 
 // Ez a függvény mondja meg az SSG-nek, hogy mi kerüljön a HTML-be
 useHead({
-  title: computed(() => pod.value ? `${pod.value.id}: ${pod.value.name} | HUSZONEGY Bitcoin podcast` : 'HUSZONEGY Podcast'),
+  // Az epizódszám nem kerül a title elejére: arra senki nem keres, a Google pedig ~60 karakternél vág
+  title: computed(() => pod.value ? `${pod.value.name} | HUSZONEGY Bitcoin podcast` : 'HUSZONEGY Podcast'),
   meta: [
     // Alap SEO
     { name: 'description', content: seoDescription },
