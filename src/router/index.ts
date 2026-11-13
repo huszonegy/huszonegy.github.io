@@ -26,7 +26,7 @@ export const routes: RouteRecordRaw[] = [
     meta: {
       title: 'Bitcoin cikkek magyarul - HUSZONEGY',
       metaTags: [
-        { name: 'description', content: 'Bitcoin cikkek, elemzések és tanulmányok magyarul.' },
+        { name: 'description', content: 'Bitcoin cikkek, elemzések és fordítások magyarul: hogyan működik a bitcoin, mi a baj a mai pénzzel, és hogyan tárold biztonságosan a saját kulcsaidat.' },
         { name: 'keywords', content: 'bitcoin cikkek, magyar bitcoin, bitcoin tanulmány' }
       ]
     }
@@ -123,7 +123,7 @@ export const routes: RouteRecordRaw[] = [
     meta: {
       title: 'Hasznos Bitcoin linkek - HUSZONEGY',
       metaTags: [
-        { name: 'description', content: 'Válogatott Bitcoin linkek, partnereink, kapcsolódó honlapok magyarul és angolul.' },
+        { name: 'description', content: 'Válogatott Bitcoin linkek magyarul és angolul: közösségek, tanulási források, eszközök, szponzoraink és kedvezményes ajánlások egy helyen.' },
         { name: 'keywords', content: 'bitcoin linkek, bitcoin források, bitcoin oktatás' }
       ]
     }
@@ -135,7 +135,7 @@ export const routes: RouteRecordRaw[] = [
     meta: {
       title: 'Bitcoin előadások magyarul - HUSZONEGY',
       metaTags: [
-        { name: 'description', content: 'Bitcoin előadások, prezentációk és konferencia anyagok magyarul.' },
+        { name: 'description', content: 'Bitcoin előadások videón, magyarul: a Bitcoin Miskolc konferencia és a budapesti meetupok felvételei a pénz működésétől a privacy-ig és a Coinjoinig.' },
         { name: 'keywords', content: 'bitcoin előadás, bitcoin prezentáció, bitcoin konferencia' }
       ]
     }
@@ -159,7 +159,7 @@ export const routes: RouteRecordRaw[] = [
     meta: {
       title: 'HUSZONEGY támogatása - Bitcoin adományok',
       metaTags: [
-        { name: 'description', content: 'Támogasd a HUSZONEGY magyar Bitcoin közösséget!' }
+        { name: 'description', content: 'Támogasd a HUSZONEGY magyar Bitcoin podcastot! Lightning- vagy on-chain adomány, Nostr zap, YouTube csatornatagság vagy szponzoráció – minden sat számít.' }
       ]
     }
   },
@@ -167,7 +167,12 @@ export const routes: RouteRecordRaw[] = [
     path: '/pizzaday/',
     name: 'pizzaday',
     component: () => import('../views/PizzaView.vue'),
-    meta: { title: 'Bitcoin Pizza Nap - HUSZONEGY' }
+    meta: {
+      title: 'Bitcoin Pizza Nap - HUSZONEGY',
+      metaTags: [
+        { name: 'description', content: 'Bitcoin Pizza Nap a Dunakanyarban: Hanyecz László pizzavásárlásának emlékére bitcoinnal fizethetsz, és meetupon segítünk az első lépésekben.' }
+      ]
+    }
   },
   { path: '/support', redirect: '/tamogatas/' },
   // Régi /forum/ útvonal (átnevezve /kozosseg/-re) → megosztott linkek ne 404-eljenek
