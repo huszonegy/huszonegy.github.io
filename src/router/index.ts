@@ -225,6 +225,8 @@ export const routes: RouteRecordRaw[] = [
   { path: '/podcast/nyari-remix-objektiv-bitcoin-felszabadulas/', redirect: '/podcast/objektiv-bitcoin-felszabadulas/' }, // R05
   { path: '/podcast/nyari-remix-decentralizalt-tarsadalmat-epitunk/', redirect: '/podcast/decentralizalt-tarsadalmat-epitunk/' }, // R06
   { path: '/podcast/nyari-remix-szoftverfejlesztes-szabadsagtechnologiak/', redirect: '/podcast/szoftverfejlesztes-szabadsagtechnologiak/' }, // R07
+  // E123 címváltás (2026.11.14.): kevésbé hatásvadász cím
+  { path: '/podcast/jobban-mint-a-binance-igy-vigyazz-a-bitcoinodra/', redirect: '/podcast/egy-kulcs-vagy-tobb-igy-orizd-biztonsagban-a-bitcoinod/' }, // E123
   {
     path: '/404/',
     name: 'not-found',
