@@ -50,7 +50,7 @@ A véglegesített cím klikk-ereje és curiosity-gap pontja a választáskor, ho
 | E121 | Bitcoin vs kripto: mit nem tud a proof of stake? | 4 | 2 | fan + búvárkodó (közösen, a vendég kérésére finomítva az „átverés”-ből; szakszó a hook helyén, „kripto” keresőszó; a fő téma csak a 23. percben indul) |
 | E122 | Küldhetnek neked hamis bitcoint? | 5 | 3 | új tech-érdeklődő + fan (rövid, 32 kar.; a „hamis” a tét szava, a szakszó lemegy a leírásba; teaser csak a vendéggel, kezdővágás nélkül) |
 | E123 | Jobban, mint a Binance: így vigyázz a bitcoinodra! | 5 | 2 | új tech-érdeklődő + tőzsdén tartók (a brandnév a 15. karakternél, mobilon is látszik; módszer-ígéret, a teaser „meg tudjuk tanulni” zárása erősíti; A/B-alternatíva: „Jobban vigyázhatsz a bitcoinodra, mint a Binance?”) |
-| E123 (újracímezve 2026.11.14.) | Egy kulcs vagy több? Így őrizd biztonságban a bitcoinod | 4 | 2 | fan + búvárkodó (az első 15 órában a legkevesebb megtekintés az utolsó 10 videó közül, CTR 8,6%, átl. 14:24 — feltevés: a „Binance”/„TŐZSDÉN TARTOD?” csomag a saját kulcsot már használó feliratkozóknak „nem nekem szól”; csere kevésbé hatásvadász címre és „17 000 BITCOIN” kickerre, A/B-teszt nélkül) |
+| E123 (újracímezve 2026.11.14.) | Egy kulcs vagy több? Így őrizd biztonságban a bitcoinod! | 4 | 2 | fan + búvárkodó (az első 15 órában a legkevesebb megtekintés az utolsó 10 videó közül, CTR 8,6%, átl. 14:24 — feltevés: a „Binance”/„TŐZSDÉN TARTOD?” csomag a saját kulcsot már használó feliratkozóknak „nem nekem szól”; csere kevésbé hatásvadász címre és „17 000 BITCOIN” kickerre, A/B-teszt nélkül) |
 
 ## Bejegyzések
 

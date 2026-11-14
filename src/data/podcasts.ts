@@ -2,7 +2,7 @@
 
 export const podcasts = [
     {
-        name: "Egy kulcs vagy több? Így őrizd biztonságban a bitcoinod",
+        name: "Egy kulcs vagy több? Így őrizd biztonságban a bitcoinod!",
         id: "E123",
         intro: "A Binance-ről 17 000 bitcoint is elmozgattak a támadók, a saját bitcoinodat viszont kevés tanulással biztonságosabban őrizheted egy tőzsdénél. Végigvesszük, mitől lesz igazán véletlen a privát kulcsod, mikor elég egyetlen kulcs, és mikor érdemes több kulccsal védett multisig tárcára váltani. Szó lesz az időzáras öröklésről és egy 5 dolláros chipkártyáról is, ami olyan biztonságban tartja a kulcsodat, mint egy hardvertárca.",
         chapters: [
