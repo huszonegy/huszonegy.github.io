@@ -7,7 +7,8 @@
     "nightwatch.conf.*",
     "playwright.config.*",
     "src/data/podcasts.ts",
-    "scripts/transcriptChapters.ts"
+    "scripts/transcriptChapters.ts",
+    "scripts/transcriptEmbargo.ts"
   ],
   "compilerOptions": {
     "composite": true,

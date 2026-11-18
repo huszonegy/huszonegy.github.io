@@ -97,8 +97,12 @@ const fetchTranscript = async () => {
 
     const mdKey = `../../public/transcripts_clean/ep${pod.value.id}_${videoId}.md`;
 
-    if (transcriptModules[mdKey]) {
-      const rawContent = await (transcriptModules[mdKey] as () => Promise<string>)();
+    // A premier napján visszatartott átirat build-időben üres szöveget ad (scripts/transcriptEmbargo.ts)
+    const rawContent = transcriptModules[mdKey]
+      ? await (transcriptModules[mdKey] as () => Promise<string>)()
+      : '';
+
+    if (rawContent.trim()) {
       transcriptText.value = await marked(withChapterHeadings(rawContent));
       isMarkdown.value = true;
     } else {

@@ -6,6 +6,7 @@ import vue from '@vitejs/plugin-vue'
 import { podcasts, slugify } from './src/data/podcasts'
 import generateSitemap from 'vite-ssg-sitemap'
 import { buildTranscriptChapterMap } from './scripts/transcriptChapters'
+import { transcriptEmbargoPlugin, removeEmbargoedTranscriptFiles } from './scripts/transcriptEmbargo'
 
 /**
  * A megadott fájlok közül a legfrissebb git commit dátumát adja vissza.
@@ -115,6 +116,7 @@ export default defineConfig({
   plugins: [
     vue(),
     transcriptChaptersPlugin(),
+    transcriptEmbargoPlugin(),
   ],
   resolve: {
     alias: {
@@ -147,6 +149,9 @@ export default defineConfig({
     },
     // Sitemap generálás build végén
     onFinished() {
+      // A premier napján még visszatartott átiratok nyers fájljai ne legyenek letölthetők
+      removeEmbargoedTranscriptFiles()
+
       const lastmodMap = buildLastmodMap()
 
       // A router átirányított (régi) útvonalai ne kerüljenek a sitemapbe — ott csak a kanonikus URL-ek állhatnak.
