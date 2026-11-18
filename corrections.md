@@ -35,6 +35,8 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Egy bejegyzés = elí
 - Hanky Penki → **HenkyPenky**
 - Csáó / Csaó → **Ciao** (köszönés)
 - Nópara → **Nopara** (a beszélgetésben Ádámként is szólítják)
+- Nópara73 / Opara 73 → **Nopara73** (Nopara handle-je; ha így mondják, linkeld az X-profiljára)
+- Dávid teljes neve **Molnár Dávid** (visszatérő vendég, tárcafejlesztő; Nopara hívta a Wasabi Wallethez)
 - Antal → **Anti**
 - Open Arms / OpenOS / Openos / Open House → **Openoms** (visszatérő vendég)
 - OpenOMS → **Openoms**
@@ -90,6 +92,9 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Egy bejegyzés = elí
 - Bitcoiners Prities / Prities → **Bitcoiner's Pretties** (Kata Bitcoin-lifestyle márkája)
 - Szatlantis → **Satlantis** (Nostr-alkalmazás)
 - **OneKey** (hardvertárca-gyártó)
+- Vassabi / Vasabi / Vaszabi → **Wasabi** / **Wasabi Wallet** (CoinJoin-tárca, a Ginger Wallet elődje)
+- Neksu → **Nexo** (kriptoplatform)
+- Bitcoin morgon / bitcoin.org orgra → **bitcoin.org-on** / **bitcoin.org-ra** (a tárcaválasztó oldala: [bitcoin.org/hu/valasszon-penztarcat](https://bitcoin.org/hu/valasszon-penztarcat))
 - Galaxi → **Balaxi** (a [mivagyunk.hu](https://mivagyunk.hu) társalapítója Katával)
 - Plepstyle → **Plebstyle** (német Bitcoin-merch márka)
 - Lefem Orzs → **Les Femmes Orange**
@@ -227,6 +232,9 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Egy bejegyzés = elí
 - **Flotilla** (Nostr-kliens csoportokra tervezve)
 - **overlay network**, **mesh hálózat**, **peer-to-peer** — az angol alak marad, nem fordítjuk
 - csip → **chip** (az angol írásmód; a felszíni szövegben és az átiratban is)
+- kórfejlesztő / kór developer → **Core-fejlesztő** / **core developer** (Bitcoin Core)
+- DC / DC-t (havi vásárlás) → **DCA** / **DCA-t**
+- Harleet / Harlelról → **hardware wallet**; hotvallet → **hot wallet**
 
 ## Formázási konvenciók
 
@@ -276,6 +284,9 @@ Ezeket linkeld be markdown formátumban, ahol a szövegben előfordulnak. Ha nem
 - **Blink**: [blink.sv](https://blink.sv) — letölthető APK / új release: [github.com/blinkbitcoin/blink-mobile/releases](https://github.com/blinkbitcoin/blink-mobile/releases)
 - **MeshCore**: [meshcore.io](https://meshcore.io/) · **Meshtastic**: [meshtastic.org](https://meshtastic.org/)
 - **Ginger Wallet**: [gingerwallet.io](https://gingerwallet.io)
+- **HUSZONEGY tárcaajánló**: [huszonegy.world/tarcak/](https://huszonegy.world/tarcak/)
+- **Bitcoin Core**: [bitcoincore.org](https://bitcoincore.org/)
+- **Kraken**: [kraken.com](https://www.kraken.com/) · **Strike**: [strike.me](https://strike.me/)
 - **FreedomTech Summit**: [freedomtechsummit.com](https://freedomtechsummit.com/) · program: [program.freedomtechsummit.com](https://program.freedomtechsummit.com/fts2026/schedule/)
 - **BTC++ Berlin**: [btcplusplus.dev/berlin26](https://btcplusplus.dev/berlin26)
 - **BudaBit**: [budabit.club](https://budabit.club)

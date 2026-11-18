@@ -51,6 +51,7 @@ A véglegesített cím klikk-ereje és curiosity-gap pontja a választáskor, ho
 | E122 | Küldhetnek neked hamis bitcoint? | 5 | 3 | új tech-érdeklődő + fan (rövid, 32 kar.; a „hamis” a tét szava, a szakszó lemegy a leírásba; teaser csak a vendéggel, kezdővágás nélkül) |
 | E123 | Jobban, mint a Binance: így vigyázz a bitcoinodra! | 5 | 2 | új tech-érdeklődő + tőzsdén tartók (a brandnév a 15. karakternél, mobilon is látszik; módszer-ígéret, a teaser „meg tudjuk tanulni” zárása erősíti; A/B-alternatíva: „Jobban vigyázhatsz a bitcoinodra, mint a Binance?”) |
 | E123 (újracímezve 2026.11.14.) | Egy kulcs vagy több? Így őrizd biztonságban a bitcoinod! | 4 | 2 | fan + búvárkodó (az első 15 órában a legkevesebb megtekintés az utolsó 10 videó közül, CTR 8,6%, átl. 14:24 — feltevés: a „Binance”/„TŐZSDÉN TARTOD?” csomag a saját kulcsot már használó feliratkozóknak „nem nekem szól”; csere kevésbé hatásvadász címre és „17 000 BITCOIN” kickerre, A/B-teszt nélkül) |
+| E124 | Kiben bízhatsz a Bitcoinban? Vagy senkiben sem kellene? | 4 | 3 | új tech-érdeklődő + fan (két kérdés: az első 28 karakteres, mobilon is egész; a második a „ne bízz, ellenőrizz” provokációja; a premier előtt csiszolva az „…, ha senkiben sem kéne?” változatból; A/B-alternatíva: „Letilthatják a pénzed: kiben bízhatsz a Bitcoinban?”; a „ne bízz, ellenőrizz” elv és a gyakorlati bizalom ellentmondása; a „Bitcoin” az első 40 karakterben; a teaser a köszöntés utáni don't trust, verify résszel indul) |
 
 ## Bejegyzések
 

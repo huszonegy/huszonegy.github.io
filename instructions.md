@@ -219,7 +219,7 @@ A briefet az alábbi sorrendben építem fel — **az emberi arctól befelé**, 
    - **AI-slop look** (puhán-mosott, élet nélküli „midjourney-default" vibe) — tudatos stílus-irányítás kell.
    - **Stock-photo klisé** (kézfogás, gondolkodó fej hátterekkel stb.).
    - **Gradient overload / drop-shadow túlhasználat** — visszafogottság.
-   - **Túl harsány paletta** (neonok, rikító piros-zöld kombók) — ellentétes a HUSZONEGY-hangzással.
+   - **Túl harsány paletta** (neonok, rikító piros-zöld kombók) — ellentétes a HUSZONEGY-hangzással. (A kicker `#C60101` színű kiemelősávja tudatos kivétel, lásd a kicker-konvenciót.)
 
 7. **Recommended-feed sanity check**: képzeld el a thumbnailt 10 másik mellett apró méretben (vagy nyiss meg egy hasonló téma recommended-listát) — **kiemelkedik?** Ha igen, miért. Ha nem, mit változtass (kontraszt? központi elem méretezése? színek?). A „magában szépen néz ki" ≠ a „kiemelkedik".
 
@@ -231,6 +231,7 @@ A briefet az alábbi sorrendben építem fel — **az emberi arctól befelé**, 
 - **Hossz:** **1–3 szó** (kis méretben olvashatóság; a mért adat szerint a 4+ szavas kickerek a gyengébb CTR-ű képek között vannak).
 - **Tipográfia:** **all caps** (csupa nagybetű), **bold sans-serif** font (vizuális tömeg), nagy betűméret.
 - **Szín:** fehér (vagy egyéb, a háttérhez képest magas-kontrasztú szín).
+- **Piros kiemelősáv (állandó elem, Árpi döntése, 2026.11.18.):** a kicker kulcsszava vagy kulcssora — többsoros kickernél jellemzően a második sor — **tömör, sötétpiros sávon** áll, rajta fehér betűkkel. A szín **`#C60101`** (RGB 198, 1, 1): élénk, de nem neonos „hírcímke-piros”, amit más csatornák indexképein is gyakran látni. A telített `#F80201` túl rikító, a sötétebb, bordós `#A80200` pedig kis méretben már visszahúzódik. A sáv kis méretben a kép első fókuszpontja lesz, ezért egyetlen sáv legyen, és a motívum színei ne versenyezzenek vele (piros háttér vagy nagy piros felület ne legyen mellette). A briefben a sávot kifejezetten kérem („solid dark red banner, #C60101, behind the second line, white bold text”); ha a Gemini más árnyalatot ad, vagy Árpi utólag teszi rá, a sáv pixeleit ImageMagickkel a `#C60101` árnyalatra igazítom (csak a sáv piros pixeleit, a betűket és a kép többi részét nem).
 - **Pozíció:** felső harmad vagy felső sáv — ne nyomja a vendég-arcot, és az alsó YouTube-időtartam-bar ne fedje le, de több szavas kicker esetén lehet több soros is, hogy kellően nagy betűméretű tudjon lenni.
 
 **Generálás:** A briefet egy darab chat-üzenetben adom át — magyar koncepció + angol vizuális szakszavak (palette, glow, monolith, painterly digital portrait stb.). Árpi copy-paste-eli Geminibe, generál egy képet, és a kész képet a `tmp/eXXX.jpeg` fájlba menti.

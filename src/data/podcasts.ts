@@ -2,6 +2,75 @@
 
 export const podcasts = [
     {
+        name: "Kiben bízhatsz a Bitcoinban? Vagy senkiben sem kellene?",
+        id: "E124",
+        intro: "A Bitcoin híres mondása: ne bízz, ellenőrizz! Aki viszont most venne először bitcoint, annak előbb el kell döntenie, kiben bízik meg. Tárcafejlesztő vendégünkkel sorra vesszük, hogyan válassz tőzsdét és tárcát, miért kezdj kis összeggel, és miért fordulhat elő, hogy nem férsz hozzá a pénzedhez, ha az a tőzsdén vagy a bankban van. Szó lesz arról is, kire hallgathatsz, ha a Bitcoin mögött nincs cég, és hogyan ismerheted fel azokat a csalásokat, amelyeket a mesterséges intelligencia egyre olcsóbbá tesz.",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Hol húzod meg a bizalmi határt? (Intro)"
+        },
+        {
+                time: "03:44",
+                label: "A bizalmat szét kell osztani"
+        },
+        {
+                time: "06:56",
+                label: "Cég helyett arcok"
+        },
+        {
+                time: "12:22",
+                label: "Ki kell állni: a Bitcoin Core-tól az MIT-ig"
+        },
+        {
+                time: "17:07",
+                label: "Mindenki látja, ki lobbizik"
+        },
+        {
+                time: "21:37",
+                label: "„Nincs értéke, de azért írd be!”"
+        },
+        {
+                time: "24:13",
+                label: "Az AI-jal olcsóbb az átverés"
+        },
+        {
+                time: "26:28",
+                label: "Kezdd kicsiben: tőzsde, aztán tárca"
+        },
+        {
+                time: "31:13",
+                label: "Gyertek el személyesen!"
+        },
+        {
+                time: "36:43",
+                label: "Tőzsde nélkül is lehet bitcoinod"
+        },
+        {
+                time: "40:28",
+                label: "Látod az egyenleged, de kivenni nem tudod"
+        },
+        {
+                time: "45:00",
+                label: "Ha nem kaptál 12 szót, nem nálad van"
+        },
+        {
+                time: "48:49",
+                label: "Nekem is letiltották a bankszámlámat"
+        },
+        {
+                time: "52:06",
+                label: "Három ökölszabály búcsúzóul"
+        }
+        ],
+        img: "/pics/e124.jpg",
+        date: "2026.11.20.",
+        members: ["Dávid", "Feri"],
+        topic: "Hol húzod meg a bizalmi határt? (Intro) - A bizalmat szét kell osztani - Cég helyett arcok - Ki kell állni: a Bitcoin Core-tól az MIT-ig - Mindenki látja, ki lobbizik - „Nincs értéke, de azért írd be!” - Az AI-jal olcsóbb az átverés - Kezdd kicsiben: tőzsde, aztán tárca - Gyertek el személyesen! - Tőzsde nélkül is lehet bitcoinod - Látod az egyenleged, de kivenni nem tudod - Ha nem kaptál 12 szót, nem nálad van - Nekem is letiltották a bankszámlámat - Három ökölszabály búcsúzóul",
+        yt: "https://youtu.be/M9KpZxYDmpc",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
         name: "Egy kulcs vagy több? Így őrizd biztonságban a bitcoinod!",
         id: "E123",
         intro: "A Binance-ről 17 000 bitcoint is elmozgattak a támadók, a saját bitcoinodat viszont kevés tanulással biztonságosabban őrizheted egy tőzsdénél. Végigvesszük, mitől lesz igazán véletlen a privát kulcsod, mikor elég egyetlen kulcs, és mikor érdemes több kulccsal védett multisig tárcára váltani. Szó lesz az időzáras öröklésről és egy 5 dolláros chipkártyáról is, ami olyan biztonságban tartja a kulcsodat, mint egy hardvertárca.",
@@ -56,7 +125,7 @@ export const podcasts = [
         members: ["Openoms", "Feri"],
         topic: "Feltörték a Binance-t (Intro) - Háborús helyzet az interneten - Mitől igazán véletlen a kulcsod? - Csak 15% emeli fel a kezét - Telefonon kezdd, három kulccsal folytasd - A tőzsde gyenge pontja: egyetlen kulcs - Időzár: ha fél évig nem mozdul a tárca - Liana és a csináld magad hardvertárcák - Hardvertárca 5 dollárért? - Segítő aláíró: Casa, Bitkey és társaik - Hol a bitcoinod? Hát tőzsdén",
         yt: "https://youtu.be/k3VZbP26igY",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/CY4iVMHBLLxqZSWt1fgb"
     },
     {
         name: "Küldhetnek neked hamis bitcoint?",
