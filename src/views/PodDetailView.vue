@@ -422,7 +422,7 @@ useHead({
             </div>
             <p class="sponsor-box-text mb-0">
               Kedvezményes ajánlásainkat a <router-link to="/link/">link oldalon</router-link> gyűjtöttük össze.
-              Te is támogatnád a folytatást? A lehetőségeket a <router-link to="/tamogatas/">támogatás oldalon</router-link> találod.
+              Te is támogatnád a folytatást? Szuper ötlet! A lehetőségeket a <router-link to="/tamogatas/">támogatás oldalon</router-link> találod.
             </p>
           </aside>
         </div>
