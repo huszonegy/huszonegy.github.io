@@ -199,6 +199,19 @@ const isoDate = computed(() => {
   return pod.value.date.replace(/\./g, '-').replace(/-$/, '');
 });
 
+// A VideoObject uploadDate-je időzónával: a premier 19:00-kor van budapesti idő szerint
+// (nyári időszámítás március utolsó vasárnapjától október utolsó vasárnapjáig: +02:00, egyébként +01:00)
+const isoDateTime = computed(() => {
+  if (!isoDate.value) return '';
+  const [y, m, d] = isoDate.value.split('-').map(Number);
+  const lastSunday = (month: number) => {
+    const last = new Date(Date.UTC(y, month, 0));
+    return last.getUTCDate() - last.getUTCDay();
+  };
+  const summer = (m > 3 && m < 10) || (m === 3 && d >= lastSunday(3)) || (m === 10 && d < lastSunday(10));
+  return `${isoDate.value}T19:00:00${summer ? '+02:00' : '+01:00'}`;
+});
+
 // Epizódszám kinyerése az id-ből (pl. "E97" → 97, "R07" → undefined)
 const episodeNumber = computed(() => {
   if (!pod.value?.id) return undefined;
@@ -258,14 +271,16 @@ useHead({
         
         const ytId = getYouTubeId(pod.value.yt);
         
+        const description = pod.value.intro || topicList.value
+          .map((ch: { label: string }) => ch.label.replace(/<[^>]*>/g, '').trim())
+          .filter((l: string) => l.length > 0)
+          .join('. ');
+
         const jsonLd: Record<string, unknown> = {
           "@context": "https://schema.org",
           "@type": "PodcastEpisode",
           "name": pod.value.name,
-          "description": pod.value.intro || topicList.value
-            .map((ch: { label: string }) => ch.label.replace(/<[^>]*>/g, '').trim())
-            .filter((l: string) => l.length > 0)
-            .join('. '),
+          "description": description,
           "datePublished": isoDate.value,
           "inLanguage": "hu",
           "image": `https://huszonegy.world${pod.value.img}`,
@@ -298,9 +313,10 @@ useHead({
           jsonLd["associatedMedia"] = {
             "@type": "VideoObject",
             "name": pod.value.name,
+            "description": description,
             "embedUrl": `https://www.youtube.com/embed/${ytId}`,
             "url": pod.value.yt,
-            "uploadDate": isoDate.value,
+            "uploadDate": isoDateTime.value,
             "thumbnailUrl": `https://img.youtube.com/vi/${ytId}/maxresdefault.jpg`
           };
         }
