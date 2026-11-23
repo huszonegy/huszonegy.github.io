@@ -1,7 +1,8 @@
 <script setup lang="ts">
 import { useRoute } from 'vue-router';
-import { get_pod_by_slug, get_adjacent_pods, parseTopics, getYouTubeId, splitTranscriptBlocks } from '../data/podcasts';
+import { podcasts, slugify, get_pod_by_slug, get_adjacent_pods, parseTopics, getYouTubeId, splitTranscriptBlocks } from '../data/podcasts';
 import transcriptChapters from 'virtual:transcript-chapters';
+import relatedPodIds from 'virtual:related-pods';
 import { useHead } from '@unhead/vue';
 import { ref, onMounted, computed } from 'vue';
 import { marked } from 'marked';
@@ -41,6 +42,14 @@ const adjacentPods = computed(() => {
 });
 const prevPod = computed(() => adjacentPods.value.prev);
 const nextPod = computed(() => adjacentPods.value.next);
+
+// Kapcsolódó adások: build-időben számolt szöveghasonlóság, vagy a podcasts.ts `related` mezője (scripts/relatedPods.ts)
+const relatedPods = computed(() =>
+  (pod.value ? relatedPodIds[pod.value.id] ?? [] : [])
+    .map(id => podcasts.find(p => p.id === id))
+    .filter((p): p is typeof podcasts[number] => !!p)
+    .map(p => ({ id: p.id, name: p.name, img: p.img, slug: slugify(p.name) }))
+);
 
 const transcriptText = ref('');
 const isLoading = ref(true);
@@ -334,7 +343,7 @@ useHead({
 </script>
 
 <template>
-  <main v-if="pod" class="container py-5 detail-view">
+  <main v-if="pod" class="container pt-5 pb-4 detail-view">
     <div class="row justify-content-center">
       <div class="col-lg-10">
         
@@ -413,55 +422,49 @@ useHead({
             </div>
           </section>
 
-          <aside v-if="sponsors.length" class="sponsor-box section-gap text-start" aria-label="Támogatóink">
-            <p class="label">Támogatóink</p>
-            <p class="sponsor-box-text">A HUSZONEGY Bitcoin Podcast létrejöttét támogatják:</p>
-            <div class="sponsor-logos">
-              <a v-for="s in sponsors" :key="s.name" :href="s.url" target="_blank" rel="sponsored noopener"
-                 class="sponsor-logo" :class="{ 'is-dark': s.logoDark }" :title="s.name"
-                 :style="{ '--logo-h': (s.logoHeight ?? 44) + 'px' }">
-                <img v-if="s.logo" :src="s.logo" :alt="s.name" loading="lazy" />
-                <span v-else>{{ s.name }}</span>
-              </a>
+          <section v-if="relatedPods.length" class="related-section bottom-gap text-start" aria-labelledby="related-title">
+            <h2 id="related-title" class="label">Kapcsolódó adások</h2>
+            <div class="related-grid">
+              <router-link v-for="r in relatedPods" :key="r.id" :to="`/podcast/${r.slug}/`" class="related-card">
+                <img v-if="r.img" :src="r.img" alt="" width="260" height="146" loading="lazy" />
+                <span class="related-id">{{ r.id }}</span>
+                <span class="related-title">{{ r.name }}</span>
+              </router-link>
             </div>
-            <p class="sponsor-box-text mb-0">
-              Kedvezményes ajánlásainkat a <router-link to="/link/">link oldalon</router-link> gyűjtöttük össze.
-              Te is támogatnád a folytatást? Szuper ötlet! A lehetőségeket a <router-link to="/tamogatas/">támogatás oldalon</router-link> találod.
-            </p>
+          </section>
+
+          <!-- Előző / Következő epizód navigáció -->
+          <nav class="episode-nav bottom-gap text-start" aria-label="Epizód navigáció">
+            <div class="ep-nav-grid">
+              <router-link v-if="prevPod" :to="`/podcast/${prevPod.slug}/`" class="ep-nav-link ep-nav-prev">
+                <span class="ep-nav-direction">← Előző epizód</span>
+                <span class="ep-nav-id">{{ prevPod.id }}</span>
+                <span class="ep-nav-title">{{ prevPod.name }}</span>
+              </router-link>
+              <div v-else></div>
+              <router-link v-if="nextPod" :to="`/podcast/${nextPod.slug}/`" class="ep-nav-link ep-nav-next">
+                <span class="ep-nav-direction">Következő epizód →</span>
+                <span class="ep-nav-id">{{ nextPod.id }}</span>
+                <span class="ep-nav-title">{{ nextPod.name }}</span>
+              </router-link>
+              <div v-else></div>
+            </div>
+          </nav>
+
+          <aside v-if="sponsors.length" class="bottom-gap text-start" aria-labelledby="sponsors-title">
+            <h2 id="sponsors-title" class="label">Támogatóink</h2>
+            <div class="sponsor-box">
+              <div class="sponsor-logos">
+                <a v-for="s in sponsors" :key="s.name" :href="s.url" target="_blank" rel="sponsored noopener"
+                   class="sponsor-logo" :class="{ 'is-dark': s.logoDark }" :title="s.name"
+                   :style="{ '--logo-h': (s.logoHeight ?? 44) + 'px' }">
+                  <img v-if="s.logo" :src="s.logo" :alt="s.name" loading="lazy" />
+                  <span v-else>{{ s.name }}</span>
+                </a>
+              </div>
+            </div>
           </aside>
         </div>
-
-        <!-- Előző / Következő epizód navigáció -->
-        <nav class="episode-nav mt-5 mb-3" aria-label="Epizód navigáció">
-          <router-link 
-            v-if="prevPod" 
-            :to="`/podcast/${prevPod.slug}/`"
-            class="ep-nav-link ep-nav-prev"
-          >
-            <span class="ep-nav-direction">← Előző epizód</span>
-            <span class="ep-nav-id">{{ prevPod.id }}</span>
-            <span class="ep-nav-title">{{ prevPod.name }}</span>
-          </router-link>
-          <div v-else class="ep-nav-link ep-nav-placeholder"></div>
-
-          <router-link 
-            v-if="nextPod" 
-            :to="`/podcast/${nextPod.slug}/`"
-            class="ep-nav-link ep-nav-next"
-          >
-            <span class="ep-nav-direction">Következő epizód →</span>
-            <span class="ep-nav-id">{{ nextPod.id }}</span>
-            <span class="ep-nav-title">{{ nextPod.name }}</span>
-          </router-link>
-          <div v-else class="ep-nav-link ep-nav-placeholder"></div>
-        </nav>
-
-        <div class="text-center mb-4">
-          <router-link to="/podcast/" class="back-link">
-            ↑ Összes adás
-          </router-link>
-        </div>
-
       </div>
     </div>
   </main>
@@ -495,8 +498,10 @@ useHead({
   box-shadow: 0 20px 40px rgba(0,0,0,0.5);
   animation: orange-pill-absorb 5s ease-in-out;
   /* Megemelt oldalsó padding, hogy ne szaladjon szélre a tartalom */
-  padding: 2.5rem 3.5rem; 
-  max-width: 1000px;
+  padding: 2.5rem 3.5rem;
+  /* a szövegoszlop + két oldalt 6rem levegő (a p-5 padding és a középre igazított oszlop körüli sáv együtt):
+     így a doboz széle nem szakad el a tartalomtól, de nem is szorul rá */
+  max-width: calc(var(--text-col) + 12rem);
   margin: 0 auto;
 }
 
@@ -538,6 +543,11 @@ useHead({
   margin-top: 2rem; /* egységes függőleges térköz a fő blokkok között */
 }
 
+/* az átirat utáni blokkok (Kapcsolódó adások, Támogatóink, lapozó) között több levegő, hogy elváljanak egymástól */
+.bottom-gap {
+  margin-top: 3rem;
+}
+
 .episode-intro {
   max-width: var(--text-col);
   margin-left: auto;
@@ -564,25 +574,19 @@ useHead({
   margin-right: auto;
 }
 
+/* a blokkcímek (Kapcsolódó adások, Támogatóink) H2-ként is az „Átirat” felirattal egyező méretűek */
+h2.label { font-size: 1.1rem; line-height: 1.3; }
+
 /* --- TÁMOGATÓI DOBOZ --- */
 .sponsor-box {
   max-width: var(--text-col);
   margin-left: auto;
   margin-right: auto;
-  padding: 1rem 1.25rem;
-  border: 1px solid rgba(247, 147, 26, 0.25);
-  border-radius: 8px;
-  background: rgba(247, 147, 26, 0.04);
 }
-.sponsor-box .label { margin-bottom: 0.5rem; font-size: 0.95rem; }
-.sponsor-box-text { font-size: 0.95rem; line-height: 1.4; color: #cfcfcf; margin-bottom: 0.5rem; }
-.sponsor-box-text a { color: #f7931a; text-decoration: none; }
-.sponsor-box-text a:hover { text-decoration: underline; }
 .sponsor-logos {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 0.75rem;
-  margin: 0.9rem 0 1rem;
 }
 .sponsor-logo {
   display: flex;
@@ -611,6 +615,50 @@ useHead({
   .sponsor-logos { gap: 0.5rem; }
   .sponsor-logo { height: 60px; padding: 0.4rem; }
   .sponsor-logo img { height: calc(var(--logo-h) * 0.75); }
+}
+
+/* --- KAPCSOLÓDÓ ADÁSOK --- */
+.related-section { max-width: var(--text-col); margin-left: auto; margin-right: auto; }
+.related-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.9rem;
+}
+.related-card {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none !important;
+  border: 1px solid #333;
+  border-radius: 6px;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.08);
+  transition: border-color 0.25s, transform 0.15s ease;
+}
+.related-card img { width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; display: block; }
+.related-id {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.75rem;
+  color: #888;
+  padding: 0.6rem 0.75rem 0;
+}
+.related-title {
+  font-size: 0.9rem;
+  line-height: 1.3;
+  color: #ddd;
+  padding: 0.2rem 0.75rem 0.75rem;
+  transition: color 0.2s;
+}
+.related-card:hover,
+.related-card:focus-visible { border-color: #f7931a; transform: translateY(-2px); }
+.related-card:hover .related-title,
+.related-card:focus-visible .related-title { color: #fff; }
+@media (max-width: 576px) {
+  .related-grid { grid-template-columns: 1fr; }
+  /* mobilon vízszintes kártya: kis kép balra, cím jobbra */
+  .related-card { display: grid; grid-template-columns: 7.5rem 1fr; grid-template-rows: auto 1fr; }
+  .related-card img { grid-row: 1 / 3; height: 100%; }
+  .related-id { padding-top: 0.5rem; }
+  .related-title { padding-bottom: 0.5rem; }
 }
 
 /* --- TIMELINE --- */
@@ -765,68 +813,53 @@ useHead({
 
 /* --- EPIZÓD NAVIGÁCIÓ --- */
 .episode-nav {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 16px;
-  max-width: 1000px;
+  max-width: var(--text-col);
   margin-left: auto;
   margin-right: auto;
 }
-
+.ep-nav-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.9rem;
+}
 .ep-nav-link {
   display: flex;
   flex-direction: column;
-  padding: 20px 24px;
-  background: rgba(44, 44, 44, .6);
-  border: 1px solid #333;
-  border-radius: 4px;
   text-decoration: none !important;
-  transition: border-color 0.25s, background 0.25s;
+  /* halvány kártya, a kapcsolódó adások kártyáival egyező kerettel és kerekítéssel */
+  padding: 0.9rem 1rem;
+  border: 1px solid #333;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.08);
+  transition: border-color 0.25s, transform 0.15s ease;
 }
-
-.ep-nav-link:not(.ep-nav-placeholder):hover {
-  border-color: #f7931a;
-  background: rgba(247, 147, 26, 0.06);
-}
-
-.ep-nav-placeholder {
-  background: transparent;
-  border-color: transparent;
-  pointer-events: none;
-}
-
+.ep-nav-link:hover,
+.ep-nav-link:focus-visible { border-color: #f7931a; transform: translateY(-2px); }
 .ep-nav-prev { text-align: left; }
 .ep-nav-next { text-align: right; }
-
 .ep-nav-direction {
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   color: #f7931a;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.03em;
-  margin-bottom: 8px;
+  margin-bottom: 6px;
 }
-
 .ep-nav-id {
   font-family: 'JetBrains Mono', monospace;
-  font-size: 0.8rem;
-  color: #666;
+  font-size: 0.75rem;
+  color: #888;
   margin-bottom: 2px;
 }
-
 .ep-nav-title {
-  font-size: 0.95rem;
-  color: #ccc;
-  line-height: 1.35;
+  font-size: 0.9rem;
+  color: #ddd;
+  line-height: 1.3;
   transition: color 0.2s;
 }
+.ep-nav-link:hover .ep-nav-title,
+.ep-nav-link:focus-visible .ep-nav-title { color: #fff; }
 
-.ep-nav-link:not(.ep-nav-placeholder):hover .ep-nav-title {
-  color: #fff;
-}
-
-.back-link { color: #f7931a; font-size: 0.9rem; opacity: 0.7; text-decoration: none; }
-.back-link:hover { opacity: 1; }
 
 /* Mobilos finomítás */
 @media (max-width: 768px) {
@@ -834,7 +867,7 @@ useHead({
   .content-box { padding: 1.5rem 0.5rem; margin-left: 0 !important; margin-right: 0 !important; }
   .p-5 { padding: 1.5rem !important; }
   .btn-group { flex-direction: column; }
-  .episode-nav { grid-template-columns: 1fr; }
+  .ep-nav-grid { grid-template-columns: 1fr; }
   .ep-nav-next { text-align: left; }
 }
 </style>

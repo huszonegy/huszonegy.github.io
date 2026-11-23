@@ -6,6 +6,7 @@ import vue from '@vitejs/plugin-vue'
 import { podcasts, slugify } from './src/data/podcasts'
 import generateSitemap from 'vite-ssg-sitemap'
 import { buildTranscriptChapterMap } from './scripts/transcriptChapters'
+import { buildRelatedPodsMap } from './scripts/relatedPods'
 import { transcriptEmbargoPlugin, removeEmbargoedTranscriptFiles } from './scripts/transcriptEmbargo'
 
 /**
@@ -111,11 +112,23 @@ const transcriptChaptersPlugin = () => {
   }
 }
 
+// A „Kapcsolódó adások” blokk epizódjai — build-időben, szöveghasonlóság alapján (scripts/relatedPods.ts)
+const relatedPodsPlugin = () => {
+  const id = 'virtual:related-pods'
+  return {
+    name: 'related-pods',
+    resolveId: (source: string) => (source === id ? '\0' + id : null),
+    load: (source: string) =>
+      source === '\0' + id ? `export default ${JSON.stringify(buildRelatedPodsMap())}` : null,
+  }
+}
+
 export default defineConfig({
   base: '/',
   plugins: [
     vue(),
     transcriptChaptersPlugin(),
+    relatedPodsPlugin(),
     transcriptEmbargoPlugin(),
   ],
   resolve: {

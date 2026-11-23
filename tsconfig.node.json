@@ -8,7 +8,8 @@
     "playwright.config.*",
     "src/data/podcasts.ts",
     "scripts/transcriptChapters.ts",
-    "scripts/transcriptEmbargo.ts"
+    "scripts/transcriptEmbargo.ts",
+    "scripts/relatedPods.ts"
   ],
   "compilerOptions": {
     "composite": true,

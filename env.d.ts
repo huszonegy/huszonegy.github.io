@@ -11,3 +11,9 @@ declare module 'virtual:transcript-chapters' {
   const map: Record<string, (number | null)[]>
   export default map
 }
+
+declare module 'virtual:related-pods' {
+  // epizód-id → a „Kapcsolódó adások” blokk epizód-id-jei (legjobb elöl)
+  const map: Record<string, string[]>
+  export default map
+}
