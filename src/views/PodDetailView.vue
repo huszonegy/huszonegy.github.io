@@ -340,10 +340,10 @@ useHead({
         
         <div class="content-box p-5 text-center">
           
+          <div class="ep-id">
+            {{ pod.id }}
+          </div>
           <h1 class="episode-title mb-3 text-center">
-            <span class="ep-id">
-              {{ pod.id }}
-            </span> 
             {{ pod.name }}
           </h1>
           
