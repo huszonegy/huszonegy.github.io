@@ -17,6 +17,13 @@ function ogTags(meta: Record<string | number | symbol, unknown>, path: string) {
   if (desc) {
     tags.push({ property: 'og:description', content: desc }, { name: 'twitter:description', content: desc })
   }
+  // Saját előnézeti kép (route.meta.ogImage, a public mappához képest, pl. '/og-meetup.png');
+  // ha nincs, az index.html közös og-image.png-je marad.
+  const image = meta.ogImage as string | undefined
+  if (image) {
+    const url = `https://huszonegy.world${image}`
+    tags.push({ property: 'og:image', content: url }, { name: 'twitter:image', content: url })
+  }
   return tags
 }
 

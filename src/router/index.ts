@@ -110,6 +110,7 @@ export const routes: RouteRecordRaw[] = [
     component: () => import('../views/MeetupView.vue'),
     meta: {
       title: 'Bitcoin meetupok Magyarországon - HUSZONEGY',
+      ogImage: '/og-meetup.png',
       metaTags: [
         { name: 'description', content: 'Bitcoin meetupok, találkozók és események Magyarországon. Csatlakozz a közösséghez, ismerj meg más bitcoinereket és tanulj együtt!' },
         { name: 'keywords', content: 'bitcoin meetup, bitcoin találkozó, bitcoin esemény, bitcoin közösség magyarország' }
