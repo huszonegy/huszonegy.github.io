@@ -9,5 +9,7 @@
   {"episode": "R03", "term": "fiat pénz", "text": "Fiat standard", "reason": "könyvcím"},
   {"episode": "R04", "term": "fiat pénz", "text": "Fiat standard", "reason": "könyvcím"},
   {"episode": "R05", "term": "fiat pénz", "text": "Fiat Food", "reason": "könyvcím"},
-  {"episode": "E11", "term": "bányászat", "text": "amivel még bányászni is lehet", "reason": "webshop-termék futó említése, nem a bányászatról szól"}
+  {"episode": "E11", "term": "bányászat", "text": "amivel még bányászni is lehet", "reason": "webshop-termék futó említése, nem a bányászatról szól"},
+  {"episode": "E125", "term": "blokklánc", "text": "Székelyföldi Blockchain Találkozó", "reason": "rendezvény neve"},
+  {"episode": "E125", "term": "bányászat", "text": "elkezdtem bányászni", "reason": "átvitt értelem: honlap böngészése"}
 ]

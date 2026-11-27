@@ -2,6 +2,75 @@
 
 export const podcasts = [
     {
+        name: "Ki és hogyan gazdagszik a pénznyomtatásból?",
+        id: "E125",
+        intro: "Az újonnan nyomtatott pénz nem egyszerre jut el mindenkihez: van, aki meggazdagszik belőle, és van, aki megfizeti az árát. A Bitcoin Miskolc konferencia után sorra vesszük, hogyan működik a Cantillon-hatás, miért érkezhet most először időben a mi nemzedékünk, és miért nem lehet a bitcoint rendelettel bevezetni. Szó lesz arról is, mit jelent az, hogy az emberiség történetében először van olyan pénzünk, amely véges, és senki sem állíthatja le, és hogyan táplálja a korlátlan pénznyomtatás a véget nem érő háborúkat. A végén bemutatjuk a SeedSigner nevű, csináld magad hardvertárcát, amellyel akár egy fényképből is készülhet seed-phrase.",
+        chapters: [
+        {
+                time: "00:00",
+                label: "Aki közel ül a pénznyomtatóhoz (Intro)"
+        },
+        {
+                time: "00:56",
+                label: "Életem legvarázslatosabb hétvégéje"
+        },
+        {
+                time: "04:59",
+                label: "Így készül egy Bitcoin konferencia"
+        },
+        {
+                time: "11:11",
+                label: "Cantillon-hatás: most mi érkezünk időben?"
+        },
+        {
+                time: "14:36",
+                label: "Véges pénz, véget érő háborúk?"
+        },
+        {
+                time: "21:16",
+                label: "Nem a politika vezeti be a bitcoint"
+        },
+        {
+                time: "28:45",
+                label: "Kripto vagy Bitcoin a Székelyföldön?"
+        },
+        {
+                time: "34:07",
+                label: "Áprilisban Marosvásárhelyen"
+        },
+        {
+                time: "38:20",
+                label: "Megkeresni kevés, meg is kell tartani"
+        },
+        {
+                time: "42:17",
+                label: "Pénzegyház helyett bitcoiner klub"
+        },
+        {
+                time: "44:58",
+                label: "Miért ajánl többet a YouTube?"
+        },
+        {
+                time: "47:44",
+                label: "Az új szerelem: a SeedSigner"
+        },
+        {
+                time: "50:43",
+                label: "Seed fényképből, QR kockás füzetbe"
+        },
+        {
+                time: "54:39",
+                label: "Le akarták beszélni, mégis tárcát fejleszt"
+        }
+        ],
+        img: "/pics/e125.jpg",
+        date: "2026.11.27.",
+        members: ["Kor", "Feri"],
+        topic: "Aki közel ül a pénznyomtatóhoz (Intro) - Életem legvarázslatosabb hétvégéje - Így készül egy Bitcoin konferencia - Cantillon-hatás: most mi érkezünk időben? - Véges pénz, véget érő háborúk? - Nem a politika vezeti be a bitcoint - Kripto vagy Bitcoin a Székelyföldön? - Áprilisban Marosvásárhelyen - Megkeresni kevés, meg is kell tartani - Pénzegyház helyett bitcoiner klub - Miért ajánl többet a YouTube? - Az új szerelem: a SeedSigner - Seed fényképből, QR kockás füzetbe - Le akarták beszélni, mégis tárcát fejleszt",
+        yt: "https://youtu.be/SvShBGk_e70",
+        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+    },
+    {
         name: "Kiben bízhatsz a Bitcoinban? Vagy senkiben sem kellene?",
         id: "E124",
         intro: "A Bitcoin híres mondása: ne bízz, ellenőrizz! Aki viszont most venne először bitcoint, annak előbb el kell döntenie, kiben bízik meg. Tárcafejlesztő vendégünkkel sorra vesszük, hogyan válassz tőzsdét és tárcát, miért kezdj kis összeggel, és miért fordulhat elő, hogy nem férsz hozzá a pénzedhez, ha az a tőzsdén vagy a bankban van. Szó lesz arról is, kire hallgathatsz, ha a Bitcoin mögött nincs cég, és hogyan ismerheted fel azokat a csalásokat, amelyeket a mesterséges intelligencia egyre olcsóbbá tesz.",
@@ -68,7 +137,7 @@ export const podcasts = [
         members: ["Dávid", "Feri"],
         topic: "Hol húzod meg a bizalmi határt? (Intro) - A bizalmat szét kell osztani - Cég helyett arcok - Ki kell állni: a Bitcoin Core-tól az MIT-ig - Mindenki látja, ki lobbizik - „Nincs értéke, de azért írd be!” - Az AI-jal olcsóbb az átverés - Kezdd kicsiben: tőzsde, aztán tárca - Gyertek el személyesen! - Tőzsde nélkül is lehet bitcoinod - Látod az egyenleged, de kivenni nem tudod - Ha nem kaptál 12 szót, nem nálad van - Nekem is letiltották a bankszámlámat - Három ökölszabály búcsúzóul",
         yt: "https://youtu.be/M9KpZxYDmpc",
-        fountain: "https://fountain.fm/show/gCVs8tyNdgXfJqaRbL3N"
+        fountain: "https://fountain.fm/episode/6nxEQzPLR19vyaI6Gzkg"
     },
     {
         name: "Egy kulcs vagy több? Így őrizd biztonságban a bitcoinod!",

@@ -76,6 +76,9 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Egy bejegyzés = elí
 - Karo teljes neve **Karo Zagorus** (visszatérő vendég; korábban a Wasabinál és a Keystone tárcagyártónál dolgozott; könyve: *Bitcoin and the Trust Problem*, kiadója a **Konsensus** — bitcoinwords.github.io/bitcoin-and-the-trust-problem). Nincs róla fotó, a sárkányjelmez a felismerhető megjelenése — indexképen ezt használjuk. Szándékosan játékos, szokatlan szóhasználata (pl. „retirementet végrehajtani a usereken") nem félrehallás, marad.
 - MBK / Emvéká → **NVK** (Rodolfo Novak, a Coinkite/COLDCARD alapítója; „Novák” → **Novak**)
 - **Kor** — a **Passzív Milliomos** YouTube csatorna gazdája
+- Glázer Anita → **Glaser Anita**
+- **eapo** (székelyföldi cypherpunk, a Székelyföldi Blockchain Találkozó helyi résztvevője; kisbetűvel)
+- Káv Invesz → **KV Invest** (Feri cége; [kvinvest.hu](https://kvinvest.hu))
 - Horonaut / Horunotó → **Hodlonaut** (norvég bitcoiner; a Craig Wright elleni oslói per szereplője)
 - Kobo → **Cobo** (kínai tárcagyártó, ebből vált ki a Keystone)
 - Halfini → **Hal Finney** (a „Hal Finney-módszer": a bitcoin átadása még életében, a családtagok felkészítésével)
@@ -207,7 +210,7 @@ Ez a fájl referencia a szépítés 3. és 4. fázisához. Egy bejegyzés = elí
 - MMB → **MNB** (Magyar Nemzeti Bank)
 - STHF / SZTHF → **SZTFH** (Szabályozott Tevékenységek Felügyeleti Hatósága; a magyar hatóság, ami a kriptoszabályozásban előjön — a gépi átirat „STHF"-nek hallja)
 - kantilon hatás / Continuum Effect-us → **Cantillon-hatás**
-- seedfráze → **seed phrase**
+- seedfráze / seed phrase → **seed-phrase** (kötőjellel; Árpi döntése, 2026.11.26.)
 - zep / zeppek → **zap / zapek** (Nostr borravaló)
 - szapok (a „gyűjtögessétek” után) → **szatok** (a satoshi beszélt alakja; a „stack sats” magyarul)
 - mit törm → **midterm**
